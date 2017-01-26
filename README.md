@@ -1,7 +1,9 @@
 # Checking-OUP-DOIs
 Checking a sample of OUP's recently minted DOIs and comparing it to a control sample of recently minted DOIs at non-OUP journals indexed in pubmed
 
-I like shell scripting. Bashtastic!
+Cite as:
+Ross Mounce. (2017). rossmounce/Checking-OUP-DOIs: zippy-zanga [Data set]. Zenodo. http://doi.org/10.5281/zenodo.260171
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.260171.svg)](https://doi.org/10.5281/zenodo.260171)
 
 Sample bash code to reproduce the logfiles, given the DOI links in each journal folder within the non-OUP journals:
 (You will need to replace the path "/home/ross/Checking-OUP-DOIs" with whatever the absolute path is on your computer)
