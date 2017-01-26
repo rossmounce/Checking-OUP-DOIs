@@ -11,10 +11,10 @@ Sample bash code to reproduce the logfiles, given the DOI links in each journal 
 cd non-OUP
 
 #parse out the DOIs from the pubmed screenscrape files, each called raw.txt
-for dir in */ ; do cd $dir ; grep doi raw.txt |  tr ' ' '\n' | grep '10\.[0-9]' | sed 's/\.$//g' | sed 's/^/http:\/\/doi.org\//g' | sort -u > links.txt ; head -3 links.txt ; wc links.txt ; cd /home/ross/Checking-OUP-DOIs/non-OUP ; done
+for dir in */ ; do cd $dir ; grep doi raw.txt |  tr ' ' '\n' | grep '10\.[0-9]' | sed 's/\.$//g' | sed 's/^/http:\/\/doi.org\//g' | sort -u > links.txt ; head -3 links.txt ; wc links.txt ; cd /home/ross/Checking-OUP-DOIs/non-OUP/ ; done
 
 #Test each and every DOI. This step will take a long time. Set it running and get on with other work...
-for dir in */ ; do cd $dir ; wget --user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:21.0) Gecko/20100101 Firefox/21.0" -w1 -i links.txt -o log.log ; cd /home/ross/Checking-OUP-DOIs ; done 
+for dir in */ ; do cd $dir ; wget --user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:21.0) Gecko/20100101 Firefox/21.0" -w1 -i links.txt -o log.log ; cd /home/ross/Checking-OUP-DOIs/non-OUP/ ; done 
 
 #Parse wget log files for 404 errors
 grep -r "ERROR 404: Not Found" *
