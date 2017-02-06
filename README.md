@@ -4,8 +4,12 @@
 Ross Mounce. (2017). rossmounce/Checking-OUP-DOIs: failwhale [Data set]. Zenodo. http://doi.org/10.5281/zenodo.268915
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.268915.svg)](https://doi.org/10.5281/zenodo.268915)
 
+##Intro
+
 I am fed-up of broken DOIs that do not resolve to the article landing page that they should.
 I therefore decided to test a sample of DOIs across ALL journals that [Oxford University Press](https://www.oxfordjournals.org/en/) (OUP) publishes.
+
+##Brief description of methods
 
 I tested across 394 OUP journals, using the CrossRef API to return me the 100 most recent DOIs from each journal and the 100 oldest DOIs from each journal. In total 70,907 unique DOIs were checked.
 
