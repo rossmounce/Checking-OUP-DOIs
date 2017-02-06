@@ -1,0 +1,1545 @@
+--2017-02-03 08:52:40--  http://doi.org/10.1093/conphys/cow067
+Resolving doi.org (doi.org)... 63.123.152.248, 38.100.138.163, 95.138.171.129, ...
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow067 [following]
+--2017-02-03 08:52:42--  https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow067
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 373011 (364K) [text/html]
+Saving to: ‘cow067’
+
+     0K .......... .......... .......... .......... .......... 13%  210K 1s
+    50K .......... .......... .......... .......... .......... 27%  597K 1s
+   100K .......... .......... .......... .......... .......... 41%  607K 1s
+   150K .......... .......... .......... .......... .......... 54%  611K 0s
+   200K .......... .......... .......... .......... .......... 68%  313K 0s
+   250K .......... .......... .......... .......... .......... 82%  604K 0s
+   300K .......... .......... .......... .......... .......... 96%  606K 0s
+   350K .......... ....                                       100%  185K=0.9s
+
+2017-02-03 08:52:51 (410 KB/s) - ‘cow067’ saved [373011/373011]
+
+--2017-02-03 08:52:52--  http://doi.org/10.1093/conphys/cox004
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cox004 [following]
+--2017-02-03 08:52:53--  https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cox004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71335 (70K) [text/html]
+Saving to: ‘cox004’
+
+     0K .......... .......... .......... .......... .......... 71%  207K 0s
+    50K .......... .........                                  100% 15.1M=0.2s
+
+2017-02-03 08:52:56 (287 KB/s) - ‘cox004’ saved [71335/71335]
+
+--2017-02-03 08:52:57--  http://doi.org/10.1093/conphys/cow073
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow073 [following]
+--2017-02-03 08:52:59--  https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow073
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 374174 (365K) [text/html]
+Saving to: ‘cow073’
+
+     0K .......... .......... .......... .......... .......... 13%  208K 2s
+    50K .......... .......... .......... .......... .......... 27%  601K 1s
+   100K .......... .......... .......... .......... .......... 41%  610K 1s
+   150K .......... .......... .......... .......... .......... 54%  606K 0s
+   200K .......... .......... .......... .......... .......... 68%  321K 0s
+   250K .......... .......... .......... .......... .......... 82%  577K 0s
+   300K .......... .......... .......... .......... .......... 95%  607K 0s
+   350K .......... .....                                      100%  201K=0.9s
+
+2017-02-03 08:53:04 (411 KB/s) - ‘cow073’ saved [374174/374174]
+
+--2017-02-03 08:53:05--  http://doi.org/10.1093/conphys/cow071
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow071 [following]
+--2017-02-03 08:53:06--  https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow071
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 137985 (135K) [text/html]
+Saving to: ‘cow071’
+
+     0K .......... .......... .......... .......... .......... 37%  209K 0s
+    50K .......... .......... .......... .......... .......... 74%  608K 0s
+   100K .......... .......... .......... ....                 100%  434K=0.4s
+
+2017-02-03 08:53:09 (335 KB/s) - ‘cow071’ saved [137985/137985]
+
+--2017-02-03 08:53:10--  http://doi.org/10.1093/conphys/cow077
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow077 [following]
+--2017-02-03 08:53:12--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow077
+Resolving conphys.oxfordjournals.org (conphys.oxfordjournals.org)... 209.135.222.209
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/article/doi/10.1093/conphys/cow077/2958555/Environmental-and-physiological-correlates-of-the [following]
+--2017-02-03 08:53:13--  https://academic.oup.com/conphys/article/doi/10.1093/conphys/cow077/2958555/Environmental-and-physiological-correlates-of-the
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 08:53:13 ERROR 400: Bad Request.
+
+--2017-02-03 08:53:14--  http://doi.org/10.1093/conphys/cow076
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow076 [following]
+--2017-02-03 08:53:16--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow076
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/article/doi/10.1093/conphys/cow076/2958554/An-evaluation-of-the-use-of-pentosidine-as-a [following]
+--2017-02-03 08:53:17--  https://academic.oup.com/conphys/article/doi/10.1093/conphys/cow076/2958554/An-evaluation-of-the-use-of-pentosidine-as-a
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 265794 (260K) [text/html]
+Saving to: ‘cow076’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 38%  583K 1s
+   100K .......... .......... .......... .......... .......... 57%  612K 0s
+   150K .......... .......... .......... .......... .......... 77%  607K 0s
+   200K .......... .......... .......... .......... .......... 96%  316K 0s
+   250K .........                                             100% 21.8M=0.6s
+
+2017-02-03 08:53:21 (401 KB/s) - ‘cow076’ saved [265794/265794]
+
+--2017-02-03 08:53:22--  http://doi.org/10.1093/conphys/cox011
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 08:53:23--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Resolving fdslive.oup.com (fdslive.oup.com)... 193.67.160.201
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘cox011’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 08:53:23 (1.20 MB/s) - ‘cox011’ saved [52438/52438]
+
+--2017-02-03 08:53:24--  http://doi.org/10.1093/conphys/cox003
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 08:53:26--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘cox003’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 08:53:26 (1.32 MB/s) - ‘cox003’ saved [52438/52438]
+
+--2017-02-03 08:53:27--  http://doi.org/10.1093/conphys/cow078
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 08:53:28--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘cow078’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 08:53:28 (1.32 MB/s) - ‘cow078’ saved [52438/52438]
+
+--2017-02-03 08:53:29--  http://doi.org/10.1093/conphys/cox001
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 08:53:31--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘cox001’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 08:53:31 (1.32 MB/s) - ‘cox001’ saved [52438/52438]
+
+--2017-02-03 08:53:32--  http://doi.org/10.1093/conphys/cox008
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 08:53:33--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘cox008’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 08:53:33 (1.20 MB/s) - ‘cox008’ saved [52438/52438]
+
+--2017-02-03 08:53:34--  http://doi.org/10.1093/conphys/cox002
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 08:53:36--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘cox002’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 08:53:36 (1.32 MB/s) - ‘cox002’ saved [52438/52438]
+
+--2017-02-03 08:53:37--  http://doi.org/10.1093/conphys/cox009
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 08:53:38--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘cox009’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 08:53:38 (1.20 MB/s) - ‘cox009’ saved [52438/52438]
+
+--2017-02-03 08:53:39--  http://doi.org/10.1093/conphys/cox014
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 08:53:40--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘cox014’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 08:53:41 (1.20 MB/s) - ‘cox014’ saved [52438/52438]
+
+--2017-02-03 08:53:42--  http://doi.org/10.1093/conphys/cox015
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 08:53:43--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘cox015’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 08:53:43 (1.20 MB/s) - ‘cox015’ saved [52438/52438]
+
+--2017-02-03 08:53:44--  http://doi.org/10.1093/conphys/cox012
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 08:53:45--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘cox012’
+
+     0K .......... .......... .......... .......... .......... 97% 1.18M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 08:53:45 (1.20 MB/s) - ‘cox012’ saved [52438/52438]
+
+--2017-02-03 08:53:46--  http://doi.org/10.1093/conphys/cow074
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 08:53:48--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘cow074’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 08:53:49 (1.20 MB/s) - ‘cow074’ saved [52438/52438]
+
+--2017-02-03 08:53:50--  http://doi.org/10.1093/conphys/cow030
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow030 [following]
+--2017-02-03 08:53:52--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow030
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow030 [following]
+--2017-02-03 08:53:53--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow030
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:53:54 ERROR 404: Not Found.
+
+--2017-02-03 08:53:55--  http://doi.org/10.1093/conphys/cow033
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow033 [following]
+--2017-02-03 08:53:56--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow033
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow033 [following]
+--2017-02-03 08:53:57--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow033
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:53:59 ERROR 404: Not Found.
+
+--2017-02-03 08:54:00--  http://doi.org/10.1093/conphys/cow032
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow032 [following]
+--2017-02-03 08:54:01--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow032
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow032 [following]
+--2017-02-03 08:54:02--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow032
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:54:03 ERROR 404: Not Found.
+
+--2017-02-03 08:54:04--  http://doi.org/10.1093/conphys/cow028
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow028 [following]
+--2017-02-03 08:54:06--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow028
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow028 [following]
+--2017-02-03 08:54:07--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow028
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:54:08 ERROR 404: Not Found.
+
+--2017-02-03 08:54:09--  http://doi.org/10.1093/conphys/cow027
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow027 [following]
+--2017-02-03 08:54:10--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow027
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow027 [following]
+--2017-02-03 08:54:12--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow027
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:54:13 ERROR 404: Not Found.
+
+--2017-02-03 08:54:14--  http://doi.org/10.1093/conphys/cow031
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow031 [following]
+--2017-02-03 08:54:15--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow031
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow031 [following]
+--2017-02-03 08:54:16--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow031
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:54:17 ERROR 404: Not Found.
+
+--2017-02-03 08:54:18--  http://doi.org/10.1093/conphys/cov070
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov070 [following]
+--2017-02-03 08:54:20--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov070
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov070 [following]
+--2017-02-03 08:54:21--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov070
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 08:54:21 ERROR 400: Bad Request.
+
+--2017-02-03 08:54:22--  http://doi.org/10.1093/conphys/cov073
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov073 [following]
+--2017-02-03 08:54:24--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov073
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov073 [following]
+--2017-02-03 08:54:25--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov073
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 08:54:25 ERROR 400: Bad Request.
+
+--2017-02-03 08:54:26--  http://doi.org/10.1093/conphys/cow001
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow001 [following]
+--2017-02-03 08:54:28--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow001
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow001 [following]
+--2017-02-03 08:54:29--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:54:30 ERROR 404: Not Found.
+
+--2017-02-03 08:54:31--  http://doi.org/10.1093/conphys/cov072
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov072 [following]
+--2017-02-03 08:54:32--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov072
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov072 [following]
+--2017-02-03 08:54:34--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov072
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:54:35 ERROR 404: Not Found.
+
+--2017-02-03 08:54:36--  http://doi.org/10.1093/conphys/cow005
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow005 [following]
+--2017-02-03 08:54:37--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow005
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow005 [following]
+--2017-02-03 08:54:39--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:54:40 ERROR 404: Not Found.
+
+--2017-02-03 08:54:41--  http://doi.org/10.1093/conphys/cow075
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 08:54:42--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘cow075’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 08:54:42 (1.20 MB/s) - ‘cow075’ saved [52438/52438]
+
+--2017-02-03 08:54:43--  http://doi.org/10.1093/conphys/cow047
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow047 [following]
+--2017-02-03 08:54:44--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow047
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow047 [following]
+--2017-02-03 08:54:46--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow047
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:54:47 ERROR 404: Not Found.
+
+--2017-02-03 08:54:48--  http://doi.org/10.1093/conphys/cow034
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow034 [following]
+--2017-02-03 08:54:49--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow034
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow034 [following]
+--2017-02-03 08:54:50--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow034
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:54:51 ERROR 404: Not Found.
+
+--2017-02-03 08:54:52--  http://doi.org/10.1093/conphys/cow011
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow011 [following]
+--2017-02-03 08:54:54--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow011
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow011 [following]
+--2017-02-03 08:54:55--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:54:56 ERROR 404: Not Found.
+
+--2017-02-03 08:54:57--  http://doi.org/10.1093/conphys/cov068
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov068 [following]
+--2017-02-03 08:54:58--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov068
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov068 [following]
+--2017-02-03 08:54:59--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov068
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:55:00 ERROR 404: Not Found.
+
+--2017-02-03 08:55:01--  http://doi.org/10.1093/conphys/cov059
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov059 [following]
+--2017-02-03 08:55:03--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov059
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov059 [following]
+--2017-02-03 08:55:04--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov059
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:55:05 ERROR 404: Not Found.
+
+--2017-02-03 08:55:06--  http://doi.org/10.1093/conphys/cow003
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow003 [following]
+--2017-02-03 08:55:07--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow003
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow003 [following]
+--2017-02-03 08:55:09--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:55:09 ERROR 404: Not Found.
+
+--2017-02-03 08:55:10--  http://doi.org/10.1093/conphys/cov067
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov067 [following]
+--2017-02-03 08:55:12--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov067
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov067 [following]
+--2017-02-03 08:55:13--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov067
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:55:14 ERROR 404: Not Found.
+
+--2017-02-03 08:55:15--  http://doi.org/10.1093/conphys/cov064
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov064 [following]
+--2017-02-03 08:55:16--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov064
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov064 [following]
+--2017-02-03 08:55:18--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov064
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:55:19 ERROR 404: Not Found.
+
+--2017-02-03 08:55:20--  http://doi.org/10.1093/conphys/cov071
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov071 [following]
+--2017-02-03 08:55:21--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov071
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov071 [following]
+--2017-02-03 08:55:22--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov071
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:55:23 ERROR 404: Not Found.
+
+--2017-02-03 08:55:24--  http://doi.org/10.1093/conphys/cow007
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow007 [following]
+--2017-02-03 08:55:26--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow007
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow007 [following]
+--2017-02-03 08:55:27--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:55:28 ERROR 404: Not Found.
+
+--2017-02-03 08:55:29--  http://doi.org/10.1093/conphys/cow008
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow008 [following]
+--2017-02-03 08:55:30--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow008
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow008 [following]
+--2017-02-03 08:55:31--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:55:32 ERROR 404: Not Found.
+
+--2017-02-03 08:55:33--  http://doi.org/10.1093/conphys/cow010
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow010 [following]
+--2017-02-03 08:55:35--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow010
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow010 [following]
+--2017-02-03 08:55:36--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:55:37 ERROR 404: Not Found.
+
+--2017-02-03 08:55:38--  http://doi.org/10.1093/conphys/cow009
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow009 [following]
+--2017-02-03 08:55:39--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow009
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow009 [following]
+--2017-02-03 08:55:41--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:55:42 ERROR 404: Not Found.
+
+--2017-02-03 08:55:43--  http://doi.org/10.1093/conphys/cow002
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow002 [following]
+--2017-02-03 08:55:44--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow002
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow002 [following]
+--2017-02-03 08:55:45--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:55:47 ERROR 404: Not Found.
+
+--2017-02-03 08:55:48--  http://doi.org/10.1093/conphys/cov055
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov055 [following]
+--2017-02-03 08:55:49--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov055
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov055 [following]
+--2017-02-03 08:55:50--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov055
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:55:51 ERROR 404: Not Found.
+
+--2017-02-03 08:55:52--  http://doi.org/10.1093/conphys/cow029
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow029 [following]
+--2017-02-03 08:55:54--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow029
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow029 [following]
+--2017-02-03 08:55:55--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow029
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:55:56 ERROR 404: Not Found.
+
+--2017-02-03 08:55:57--  http://doi.org/10.1093/conphys/cow006
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow006 [following]
+--2017-02-03 08:55:58--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow006
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow006 [following]
+--2017-02-03 08:56:00--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:56:01 ERROR 404: Not Found.
+
+--2017-02-03 08:56:02--  http://doi.org/10.1093/conphys/cow004
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow004 [following]
+--2017-02-03 08:56:03--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow004
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow004 [following]
+--2017-02-03 08:56:04--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:56:05 ERROR 404: Not Found.
+
+--2017-02-03 08:56:06--  http://doi.org/10.1093/conphys/cov061
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov061 [following]
+--2017-02-03 08:56:08--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov061
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov061 [following]
+--2017-02-03 08:56:09--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov061
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:56:10 ERROR 404: Not Found.
+
+--2017-02-03 08:56:11--  http://doi.org/10.1093/conphys/cow019
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow019 [following]
+--2017-02-03 08:56:12--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow019
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow019 [following]
+--2017-02-03 08:56:13--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:56:14 ERROR 404: Not Found.
+
+--2017-02-03 08:56:15--  http://doi.org/10.1093/conphys/cow016
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow016 [following]
+--2017-02-03 08:56:17--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow016
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow016 [following]
+--2017-02-03 08:56:18--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow016
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:56:21 ERROR 404: Not Found.
+
+--2017-02-03 08:56:22--  http://doi.org/10.1093/conphys/cov066
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov066 [following]
+--2017-02-03 08:56:24--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov066
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov066 [following]
+--2017-02-03 08:56:25--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov066
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:56:26 ERROR 404: Not Found.
+
+--2017-02-03 08:56:27--  http://doi.org/10.1093/conphys/cov060
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov060 [following]
+--2017-02-03 08:56:28--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov060
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov060 [following]
+--2017-02-03 08:56:30--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov060
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:56:31 ERROR 404: Not Found.
+
+--2017-02-03 08:56:32--  http://doi.org/10.1093/conphys/cow021
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow021 [following]
+--2017-02-03 08:56:33--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow021
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow021 [following]
+--2017-02-03 08:56:35--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:56:36 ERROR 404: Not Found.
+
+--2017-02-03 08:56:37--  http://doi.org/10.1093/conphys/cow024
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow024 [following]
+--2017-02-03 08:56:38--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow024
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow024 [following]
+--2017-02-03 08:56:39--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow024
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:56:41 ERROR 404: Not Found.
+
+--2017-02-03 08:56:42--  http://doi.org/10.1093/conphys/cow026
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow026 [following]
+--2017-02-03 08:56:43--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow026
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow026 [following]
+--2017-02-03 08:56:44--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow026
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:56:46 ERROR 404: Not Found.
+
+--2017-02-03 08:56:47--  http://doi.org/10.1093/conphys/cow025
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow025 [following]
+--2017-02-03 08:56:48--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow025
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow025 [following]
+--2017-02-03 08:56:49--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow025
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:56:50 ERROR 404: Not Found.
+
+--2017-02-03 08:56:51--  http://doi.org/10.1093/conphys/cow012
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow012 [following]
+--2017-02-03 08:56:53--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow012
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow012 [following]
+--2017-02-03 08:56:54--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:56:55 ERROR 404: Not Found.
+
+--2017-02-03 08:56:56--  http://doi.org/10.1093/conphys/cow014
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow014 [following]
+--2017-02-03 08:56:57--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow014
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow014 [following]
+--2017-02-03 08:56:58--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow014
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:56:59 ERROR 404: Not Found.
+
+--2017-02-03 08:57:00--  http://doi.org/10.1093/conphys/cow018
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow018 [following]
+--2017-02-03 08:57:02--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow018
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow018 [following]
+--2017-02-03 08:57:03--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow018
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 08:57:04 ERROR 400: Bad Request.
+
+--2017-02-03 08:57:05--  http://doi.org/10.1093/conphys/cov063
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov063 [following]
+--2017-02-03 08:57:06--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov063
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov063 [following]
+--2017-02-03 08:57:08--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov063
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:57:08 ERROR 404: Not Found.
+
+--2017-02-03 08:57:09--  http://doi.org/10.1093/conphys/cow013
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow013 [following]
+--2017-02-03 08:57:11--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow013
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow013 [following]
+--2017-02-03 08:57:12--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:57:15 ERROR 404: Not Found.
+
+--2017-02-03 08:57:16--  http://doi.org/10.1093/conphys/cov065
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov065 [following]
+--2017-02-03 08:57:17--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov065
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov065 [following]
+--2017-02-03 08:57:18--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov065
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:57:19 ERROR 404: Not Found.
+
+--2017-02-03 08:57:20--  http://doi.org/10.1093/conphys/cow022
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow022 [following]
+--2017-02-03 08:57:22--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow022
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow022 [following]
+--2017-02-03 08:57:23--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow022
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:57:24 ERROR 404: Not Found.
+
+--2017-02-03 08:57:25--  http://doi.org/10.1093/conphys/cow023
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow023 [following]
+--2017-02-03 08:57:26--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow023
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow023 [following]
+--2017-02-03 08:57:28--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:57:28 ERROR 404: Not Found.
+
+--2017-02-03 08:57:29--  http://doi.org/10.1093/conphys/cow020
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow020 [following]
+--2017-02-03 08:57:31--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow020
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow020 [following]
+--2017-02-03 08:57:32--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow020
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:57:33 ERROR 404: Not Found.
+
+--2017-02-03 08:57:34--  http://doi.org/10.1093/conphys/cow015
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow015 [following]
+--2017-02-03 08:57:35--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow015
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow015 [following]
+--2017-02-03 08:57:37--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:57:38 ERROR 404: Not Found.
+
+--2017-02-03 08:57:39--  http://doi.org/10.1093/conphys/cow017
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow017 [following]
+--2017-02-03 08:57:40--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow017
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow017 [following]
+--2017-02-03 08:57:41--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:57:42 ERROR 404: Not Found.
+
+--2017-02-03 08:57:43--  http://doi.org/10.1093/conphys/cov069
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov069 [following]
+--2017-02-03 08:57:45--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov069
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov069 [following]
+--2017-02-03 08:57:46--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov069
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:57:47 ERROR 404: Not Found.
+
+--2017-02-03 08:57:48--  http://doi.org/10.1093/conphys/cow038
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow038 [following]
+--2017-02-03 08:57:49--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow038
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow038 [following]
+--2017-02-03 08:57:51--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow038
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:57:52 ERROR 404: Not Found.
+
+--2017-02-03 08:57:53--  http://doi.org/10.1093/conphys/cow036
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow036 [following]
+--2017-02-03 08:57:54--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow036
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow036 [following]
+--2017-02-03 08:57:55--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow036
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:57:58 ERROR 404: Not Found.
+
+--2017-02-03 08:57:59--  http://doi.org/10.1093/conphys/cow040
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow040 [following]
+--2017-02-03 08:58:00--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow040
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow040 [following]
+--2017-02-03 08:58:01--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow040
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:58:02 ERROR 404: Not Found.
+
+--2017-02-03 08:58:03--  http://doi.org/10.1093/conphys/cow041
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow041 [following]
+--2017-02-03 08:58:05--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow041
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow041 [following]
+--2017-02-03 08:58:06--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow041
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:58:07 ERROR 404: Not Found.
+
+--2017-02-03 08:58:08--  http://doi.org/10.1093/conphys/cow039
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow039 [following]
+--2017-02-03 08:58:09--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow039
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow039 [following]
+--2017-02-03 08:58:11--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow039
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:58:12 ERROR 404: Not Found.
+
+--2017-02-03 08:58:13--  http://doi.org/10.1093/conphys/cow035
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow035 [following]
+--2017-02-03 08:58:14--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow035
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow035 [following]
+--2017-02-03 08:58:15--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow035
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:58:16 ERROR 404: Not Found.
+
+--2017-02-03 08:58:17--  http://doi.org/10.1093/conphys/cow037
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow037 [following]
+--2017-02-03 08:58:19--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow037
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow037 [following]
+--2017-02-03 08:58:20--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cow037
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:58:22 ERROR 404: Not Found.
+
+--2017-02-03 08:58:23--  http://doi.org/10.1093/conphys/cov057
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov057 [following]
+--2017-02-03 08:58:24--  http://conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov057
+Connecting to conphys.oxfordjournals.org (conphys.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from conphys.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov057 [following]
+--2017-02-03 08:58:25--  https://academic.oup.com/conphys/redirect-unavailable?url=conphys.oxfordjournals.org/lookup/doi/10.1093/conphys/cov057
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:58:29 ERROR 404: Not Found.
+
+--2017-02-03 08:58:30--  http://doi.org/10.1093/conphys/cow042
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow042 [following]
+--2017-02-03 08:58:31--  https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow042
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 08:58:32 ERROR 400: Bad Request.
+
+--2017-02-03 08:58:33--  http://doi.org/10.1093/conphys/cow065
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow065 [following]
+--2017-02-03 08:58:34--  https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow065
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/conphys/article-lookup/doi/10.1093/conphys/cow065 [following]
+--2017-02-03 08:58:37--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/conphys/article-lookup/doi/10.1093/conphys/cow065
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 38921 (38K) [text/html]
+Saving to: ‘cow065’
+
+     0K .......... .......... .......... ........             100%  235K=0.2s
+
+2017-02-03 08:58:38 (235 KB/s) - ‘cow065’ saved [38921/38921]
+
+--2017-02-03 08:58:39--  http://doi.org/10.1093/conphys/cow048
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow048 [following]
+--2017-02-03 08:58:40--  https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow048
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/conphys/article-lookup/doi/10.1093/conphys/cow048 [following]
+--2017-02-03 08:58:44--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/conphys/article-lookup/doi/10.1093/conphys/cow048
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23969 (23K) [text/html]
+Saving to: ‘cow048’
+
+     0K .......... .......... ...                             100%  289K=0.08s
+
+2017-02-03 08:58:44 (289 KB/s) - ‘cow048’ saved [23969/23969]
+
+--2017-02-03 08:58:45--  http://doi.org/10.1093/conphys/cow051
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow051 [following]
+--2017-02-03 08:58:47--  https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow051
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/conphys/article-lookup/doi/10.1093/conphys/cow051 [following]
+--2017-02-03 08:58:49--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/conphys/article-lookup/doi/10.1093/conphys/cow051
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23969 (23K) [text/html]
+Saving to: ‘cow051’
+
+     0K .......... .......... ...                             100%  291K=0.08s
+
+2017-02-03 08:58:50 (291 KB/s) - ‘cow051’ saved [23969/23969]
+
+--2017-02-03 08:58:51--  http://doi.org/10.1093/conphys/cow063
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow063 [following]
+--2017-02-03 08:58:53--  https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow063
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 08:58:53 ERROR 400: Bad Request.
+
+--2017-02-03 08:58:54--  http://doi.org/10.1093/conphys/cow046
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow046 [following]
+--2017-02-03 08:58:55--  https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow046
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 08:58:56 ERROR 400: Bad Request.
+
+--2017-02-03 08:58:57--  http://doi.org/10.1093/conphys/cow052
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow052 [following]
+--2017-02-03 08:58:58--  https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow052
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/conphys/article-lookup/doi/10.1093/conphys/cow052 [following]
+--2017-02-03 08:59:01--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/conphys/article-lookup/doi/10.1093/conphys/cow052
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 08:59:01 ERROR 400: Bad Request.
+
+--2017-02-03 08:59:02--  http://doi.org/10.1093/conphys/cow060
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow060 [following]
+--2017-02-03 08:59:04--  https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow060
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/conphys/article-lookup/doi/10.1093/conphys/cow060 [following]
+--2017-02-03 08:59:08--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/conphys/article-lookup/doi/10.1093/conphys/cow060
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23969 (23K) [text/html]
+Saving to: ‘cow060’
+
+     0K .......... .......... ...                             100%  291K=0.08s
+
+2017-02-03 08:59:09 (291 KB/s) - ‘cow060’ saved [23969/23969]
+
+--2017-02-03 08:59:10--  http://doi.org/10.1093/conphys/cow056
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow056 [following]
+--2017-02-03 08:59:11--  https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow056
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 08:59:12 ERROR 400: Bad Request.
+
+--2017-02-03 08:59:13--  http://doi.org/10.1093/conphys/cow053
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow053 [following]
+--2017-02-03 08:59:14--  https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow053
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/conphys/article-lookup/doi/10.1093/conphys/cow053 [following]
+--2017-02-03 08:59:17--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/conphys/article-lookup/doi/10.1093/conphys/cow053
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23969 (23K) [text/html]
+Saving to: ‘cow053’
+
+     0K .......... .......... ...                             100%  291K=0.08s
+
+2017-02-03 08:59:18 (291 KB/s) - ‘cow053’ saved [23969/23969]
+
+--2017-02-03 08:59:19--  http://doi.org/10.1093/conphys/cow057
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow057 [following]
+--2017-02-03 08:59:20--  https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow057
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/conphys/article-lookup/doi/10.1093/conphys/cow057 [following]
+--2017-02-03 08:59:23--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/conphys/article-lookup/doi/10.1093/conphys/cow057
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23969 (23K) [text/html]
+Saving to: ‘cow057’
+
+     0K .......... .......... ...                             100%  291K=0.08s
+
+2017-02-03 08:59:24 (291 KB/s) - ‘cow057’ saved [23969/23969]
+
+--2017-02-03 08:59:25--  http://doi.org/10.1093/conphys/cow068
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow068 [following]
+--2017-02-03 08:59:26--  https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow068
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/conphys/article-lookup/doi/10.1093/conphys/cow068 [following]
+--2017-02-03 08:59:29--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/conphys/article-lookup/doi/10.1093/conphys/cow068
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 23969 (23K) [text/html]
+Saving to: ‘cow068’
+
+     0K .......... .......... ...                             100%  146K=0.2s
+
+2017-02-03 08:59:30 (146 KB/s) - ‘cow068’ saved [23969/23969]
+
+--2017-02-03 08:59:31--  http://doi.org/10.1093/conphys/cow054
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow054 [following]
+--2017-02-03 08:59:32--  https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow054
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/conphys/article-lookup/doi/10.1093/conphys/cow054 [following]
+--2017-02-03 08:59:35--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/conphys/article-lookup/doi/10.1093/conphys/cow054
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 38921 (38K) [text/html]
+Saving to: ‘cow054’
+
+     0K .......... .......... .......... ........             100%  238K=0.2s
+
+2017-02-03 08:59:36 (238 KB/s) - ‘cow054’ saved [38921/38921]
+
+--2017-02-03 08:59:37--  http://doi.org/10.1093/conphys/cow062
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow062 [following]
+--2017-02-03 08:59:38--  https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow062
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/conphys/article-lookup/doi/10.1093/conphys/cow062 [following]
+--2017-02-03 08:59:41--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/conphys/article-lookup/doi/10.1093/conphys/cow062
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 38921 (38K) [text/html]
+Saving to: ‘cow062’
+
+     0K .......... .......... .......... ........             100%  237K=0.2s
+
+2017-02-03 08:59:42 (237 KB/s) - ‘cow062’ saved [38921/38921]
+
+--2017-02-03 08:59:43--  http://doi.org/10.1093/conphys/cow044
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow044 [following]
+--2017-02-03 08:59:44--  https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow044
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/conphys/article-lookup/doi/10.1093/conphys/cow044 [following]
+--2017-02-03 08:59:46--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/conphys/article-lookup/doi/10.1093/conphys/cow044
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 23969 (23K) [text/html]
+Saving to: ‘cow044’
+
+     0K .......... .......... ...                             100%  147K=0.2s
+
+2017-02-03 08:59:47 (147 KB/s) - ‘cow044’ saved [23969/23969]
+
+--2017-02-03 08:59:48--  http://doi.org/10.1093/conphys/cow043
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow043 [following]
+--2017-02-03 08:59:50--  https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow043
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 08:59:50 ERROR 400: Bad Request.
+
+--2017-02-03 08:59:51--  http://doi.org/10.1093/conphys/cow061
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow061 [following]
+--2017-02-03 08:59:53--  https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow061
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/conphys/article-lookup/doi/10.1093/conphys/cow061 [following]
+--2017-02-03 08:59:56--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/conphys/article-lookup/doi/10.1093/conphys/cow061
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 23969 (23K) [text/html]
+Saving to: ‘cow061’
+
+     0K .......... .......... ...                             100%  146K=0.2s
+
+2017-02-03 08:59:58 (146 KB/s) - ‘cow061’ saved [23969/23969]
+
+--2017-02-03 08:59:59--  http://doi.org/10.1093/conphys/cow066
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow066 [following]
+--2017-02-03 09:00:00--  https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow066
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/conphys/article-lookup/doi/10.1093/conphys/cow066 [following]
+--2017-02-03 09:00:04--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/conphys/article-lookup/doi/10.1093/conphys/cow066
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23969 (23K) [text/html]
+Saving to: ‘cow066’
+
+     0K .......... .......... ...                             100%  289K=0.08s
+
+2017-02-03 09:00:05 (289 KB/s) - ‘cow066’ saved [23969/23969]
+
+--2017-02-03 09:00:06--  http://doi.org/10.1093/conphys/cow064
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow064 [following]
+--2017-02-03 09:00:07--  https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow064
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/conphys/article-lookup/doi/10.1093/conphys/cow064 [following]
+--2017-02-03 09:00:10--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/conphys/article-lookup/doi/10.1093/conphys/cow064
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 38921 (38K) [text/html]
+Saving to: ‘cow064’
+
+     0K .......... .......... .......... ........             100%  237K=0.2s
+
+2017-02-03 09:00:11 (237 KB/s) - ‘cow064’ saved [38921/38921]
+
+--2017-02-03 09:00:12--  http://doi.org/10.1093/conphys/cow050
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow050 [following]
+--2017-02-03 09:00:13--  https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow050
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/conphys/article-lookup/doi/10.1093/conphys/cow050 [following]
+--2017-02-03 09:00:17--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/conphys/article-lookup/doi/10.1093/conphys/cow050
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23969 (23K) [text/html]
+Saving to: ‘cow050’
+
+     0K .......... .......... ...                             100%  290K=0.08s
+
+2017-02-03 09:00:18 (290 KB/s) - ‘cow050’ saved [23969/23969]
+
+--2017-02-03 09:00:19--  http://doi.org/10.1093/conphys/cow058
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow058 [following]
+--2017-02-03 09:00:21--  https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow058
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/conphys/article-lookup/doi/10.1093/conphys/cow058 [following]
+--2017-02-03 09:00:24--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/conphys/article-lookup/doi/10.1093/conphys/cow058
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 09:00:24 ERROR 400: Bad Request.
+
+--2017-02-03 09:00:25--  http://doi.org/10.1093/conphys/cow049
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow049 [following]
+--2017-02-03 09:00:27--  https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow049
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/conphys/article-lookup/doi/10.1093/conphys/cow049 [following]
+--2017-02-03 09:00:30--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/conphys/article-lookup/doi/10.1093/conphys/cow049
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23969 (23K) [text/html]
+Saving to: ‘cow049’
+
+     0K .......... .......... ...                             100%  291K=0.08s
+
+2017-02-03 09:00:31 (291 KB/s) - ‘cow049’ saved [23969/23969]
+
+--2017-02-03 09:00:32--  http://doi.org/10.1093/conphys/cow045
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow045 [following]
+--2017-02-03 09:00:33--  https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow045
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/conphys/article-lookup/doi/10.1093/conphys/cow045 [following]
+--2017-02-03 09:00:37--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/conphys/article-lookup/doi/10.1093/conphys/cow045
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23969 (23K) [text/html]
+Saving to: ‘cow045’
+
+     0K .......... .......... ...                             100%  290K=0.08s
+
+2017-02-03 09:00:38 (290 KB/s) - ‘cow045’ saved [23969/23969]
+
+--2017-02-03 09:00:39--  http://doi.org/10.1093/conphys/cow070
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow070 [following]
+--2017-02-03 09:00:40--  https://academic.oup.com/conphys/article-lookup/doi/10.1093/conphys/cow070
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/conphys/article-lookup/doi/10.1093/conphys/cow070 [following]
+--2017-02-03 09:00:43--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/conphys/article-lookup/doi/10.1093/conphys/cow070
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23969 (23K) [text/html]
+Saving to: ‘cow070’
+
+     0K .......... .......... ...                             100%  292K=0.08s
+
+2017-02-03 09:00:44 (292 KB/s) - ‘cow070’ saved [23969/23969]
+
+FINISHED --2017-02-03 09:00:44--
+Total wall clock time: 8m 4s
+Downloaded: 34 files, 2.2M in 5.5s (413 KB/s)

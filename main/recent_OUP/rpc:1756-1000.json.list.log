@@ -1,0 +1,1859 @@
+--2017-02-03 14:25:32--  http://doi.org/10.1093/rpc/rcw056
+Resolving doi.org (doi.org)... 54.191.229.235, 95.138.171.129, 63.123.152.248, ...
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://rpc.oxfordjournals.org/lookup/doi/10.1093/rpc/rcw056 [following]
+--2017-02-03 14:25:34--  http://rpc.oxfordjournals.org/lookup/doi/10.1093/rpc/rcw056
+Resolving rpc.oxfordjournals.org (rpc.oxfordjournals.org)... 209.135.222.209
+Connecting to rpc.oxfordjournals.org (rpc.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from rpc.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/rpc/article/doi/10.1093/rpc/rcw056/2939725/GENERICS-UK-LIMITED-trading-as-MYLAN-v-WARNER [following]
+--2017-02-03 14:25:35--  https://academic.oup.com/rpc/article/doi/10.1093/rpc/rcw056/2939725/GENERICS-UK-LIMITED-trading-as-MYLAN-v-WARNER
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 312272 (305K) [text/html]
+Saving to: ‘rcw056’
+
+     0K .......... .......... .......... .......... .......... 16%  209K 1s
+    50K .......... .......... .......... .......... .......... 32%  605K 1s
+   100K .......... .......... .......... .......... .......... 49%  613K 0s
+   150K .......... .......... .......... .......... .......... 65%  315K 0s
+   200K .......... .......... .......... .......... .......... 81%  604K 0s
+   250K .......... .......... .......... .......... .......... 98%  605K 0s
+   300K ....                                                  100% 20.9M=0.7s
+
+2017-02-03 14:25:49 (419 KB/s) - ‘rcw056’ saved [312272/312272]
+
+--2017-02-03 14:25:50--  http://doi.org/10.1093/rpc/rcw049
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://rpc.oxfordjournals.org/lookup/doi/10.1093/rpc/rcw049 [following]
+--2017-02-03 14:25:51--  http://rpc.oxfordjournals.org/lookup/doi/10.1093/rpc/rcw049
+Connecting to rpc.oxfordjournals.org (rpc.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from rpc.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/rpc/article/133/11-12/791/2962426/R-on-the-application-of-BRITISH-AMERICAN-TOBACCO [following]
+--2017-02-03 14:25:52--  https://academic.oup.com/rpc/article/133/11-12/791/2962426/R-on-the-application-of-BRITISH-AMERICAN-TOBACCO
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /rpc/article-abstract/133/11-12/791/2962426/R-on-the-application-of-BRITISH-AMERICAN-TOBACCO?redirectedFrom=fulltext [following]
+--2017-02-03 14:25:55--  https://academic.oup.com/rpc/article-abstract/133/11-12/791/2962426/R-on-the-application-of-BRITISH-AMERICAN-TOBACCO?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 73711 (72K) [text/html]
+Saving to: ‘rcw049’
+
+     0K .......... .......... .......... .......... .......... 69%  209K 0s
+    50K .......... .......... .                               100% 12.9M=0.2s
+
+2017-02-03 14:26:05 (298 KB/s) - ‘rcw049’ saved [73711/73711]
+
+--2017-02-03 14:26:06--  http://doi.org/10.1093/rpc/rcw048
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://rpc.oxfordjournals.org/lookup/doi/10.1093/rpc/rcw048 [following]
+--2017-02-03 14:26:07--  http://rpc.oxfordjournals.org/lookup/doi/10.1093/rpc/rcw048
+Connecting to rpc.oxfordjournals.org (rpc.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from rpc.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/rpc/article/133/10/733/2949345/ENGLAND-AND-WALES-CRICKET-BOARD-LIMITED-v-TIXDAQ [following]
+--2017-02-03 14:26:09--  https://academic.oup.com/rpc/article/133/10/733/2949345/ENGLAND-AND-WALES-CRICKET-BOARD-LIMITED-v-TIXDAQ
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 266491 (260K) [text/html]
+Saving to: ‘rcw048’
+
+     0K .......... .......... .......... .......... .......... 19%  208K 1s
+    50K .......... .......... .......... .......... .......... 38%  597K 1s
+   100K .......... .......... .......... .......... .......... 57%  602K 0s
+   150K .......... .......... .......... .......... .......... 76%  593K 0s
+   200K .......... .......... .......... .......... .......... 96%  591K 0s
+   250K ..........                                            100%  130K=0.7s
+
+2017-02-03 14:26:18 (398 KB/s) - ‘rcw048’ saved [266491/266491]
+
+--2017-02-03 14:26:19--  http://doi.org/10.1093/rpc/rcw047
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw047 [following]
+--2017-02-03 14:26:20--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw047
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 128188 (125K) [text/html]
+Saving to: ‘rcw047’
+
+     0K .......... .......... .......... .......... .......... 39%  209K 0s
+    50K .......... .......... .......... .......... .......... 79%  604K 0s
+   100K .......... .......... .....                           100% 5.85M=0.3s
+
+2017-02-03 14:26:34 (383 KB/s) - ‘rcw047’ saved [128188/128188]
+
+--2017-02-03 14:26:35--  http://doi.org/10.1093/rpc/rcw045
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw045 [following]
+--2017-02-03 14:26:36--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw045
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 146673 (143K) [text/html]
+Saving to: ‘rcw045’
+
+     0K .......... .......... .......... .......... .......... 34%  208K 0s
+    50K .......... .......... .......... .......... .......... 69%  614K 0s
+   100K .......... .......... .......... .......... ...       100%  526K=0.4s
+
+2017-02-03 14:26:47 (355 KB/s) - ‘rcw045’ saved [146673/146673]
+
+--2017-02-03 14:26:48--  http://doi.org/10.1093/rpc/rcw046
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw046 [following]
+--2017-02-03 14:26:50--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw046
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 189224 (185K) [text/html]
+Saving to: ‘rcw046’
+
+     0K .......... .......... .......... .......... .......... 27%  209K 1s
+    50K .......... .......... .......... .......... .......... 54%  609K 0s
+   100K .......... .......... .......... .......... .......... 81%  598K 0s
+   150K .......... .......... .......... ....                 100%  434K=0.5s
+
+2017-02-03 14:27:01 (381 KB/s) - ‘rcw046’ saved [189224/189224]
+
+--2017-02-03 14:27:02--  http://doi.org/10.1093/rpc/rcw040
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw040 [following]
+--2017-02-03 14:27:04--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw040
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 183364 (179K) [text/html]
+Saving to: ‘rcw040’
+
+     0K .......... .......... .......... .......... .......... 27%  209K 1s
+    50K .......... .......... .......... .......... .......... 55%  603K 0s
+   100K .......... .......... .......... .......... .......... 83%  613K 0s
+   150K .......... .......... .........                       100%  368K=0.5s
+
+2017-02-03 14:27:13 (371 KB/s) - ‘rcw040’ saved [183364/183364]
+
+--2017-02-03 14:27:14--  http://doi.org/10.1093/rpc/rcw038
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw038 [following]
+--2017-02-03 14:27:16--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw038
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 14:27:16 ERROR 400: Bad Request.
+
+--2017-02-03 14:27:17--  http://doi.org/10.1093/rpc/rcw039
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw039 [following]
+--2017-02-03 14:27:19--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw039
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 210915 (206K) [text/html]
+Saving to: ‘rcw039’
+
+     0K .......... .......... .......... .......... .......... 24%  208K 1s
+    50K .......... .......... .......... .......... .......... 48%  610K 0s
+   100K .......... .......... .......... .......... .......... 72%  604K 0s
+   150K .......... .......... .......... .......... .......... 97%  600K 0s
+   200K .....                                                 100% 79.7K=0.6s
+
+2017-02-03 14:27:31 (366 KB/s) - ‘rcw039’ saved [210915/210915]
+
+--2017-02-03 14:27:32--  http://doi.org/10.1093/rpc/rcw033
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw033 [following]
+--2017-02-03 14:27:34--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw033
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 232441 (227K) [text/html]
+Saving to: ‘rcw033’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 44%  607K 0s
+   100K .......... .......... .......... .......... .......... 66%  377K 0s
+   150K .......... .......... .......... .......... .......... 88%  611K 0s
+   200K .......... .......... ......                          100%  340K=0.6s
+
+2017-02-03 14:27:39 (369 KB/s) - ‘rcw033’ saved [232441/232441]
+
+--2017-02-03 14:27:40--  http://doi.org/10.1093/rpc/rcw036
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw036 [following]
+--2017-02-03 14:27:42--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw036
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 125013 (122K) [text/html]
+Saving to: ‘rcw036’
+
+     0K .......... .......... .......... .......... .......... 40%  209K 0s
+    50K .......... .......... .......... .......... .......... 81%  597K 0s
+   100K .......... .......... ..                              100% 14.3M=0.3s
+
+2017-02-03 14:27:56 (376 KB/s) - ‘rcw036’ saved [125013/125013]
+
+--2017-02-03 14:27:57--  http://doi.org/10.1093/rpc/rcw037
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw037 [following]
+--2017-02-03 14:27:58--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw037
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 154594 (151K) [text/html]
+Saving to: ‘rcw037’
+
+     0K .......... .......... .......... .......... .......... 33%  209K 0s
+    50K .......... .......... .......... .......... .......... 66%  608K 0s
+   100K .......... .......... .......... .......... .......... 99%  609K 0s
+   150K                                                       100% 1851G=0.4s
+
+2017-02-03 14:28:18 (374 KB/s) - ‘rcw037’ saved [154594/154594]
+
+--2017-02-03 14:28:19--  http://doi.org/10.1093/rpc/rcw032
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw032 [following]
+--2017-02-03 14:28:20--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw032
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 141818 (138K) [text/html]
+Saving to: ‘rcw032’
+
+     0K .......... .......... .......... .......... .......... 36%  209K 0s
+    50K .......... .......... .......... .......... .......... 72%  608K 0s
+   100K .......... .......... .......... ........             100%  482K=0.4s
+
+2017-02-03 14:28:26 (345 KB/s) - ‘rcw032’ saved [141818/141818]
+
+--2017-02-03 14:28:27--  http://doi.org/10.1093/rpc/rcw031
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw031 [following]
+--2017-02-03 14:28:29--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw031
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 299219 (292K) [text/html]
+Saving to: ‘rcw031’
+
+     0K .......... .......... .......... .......... .......... 17%  208K 1s
+    50K .......... .......... .......... .......... .......... 34%  606K 1s
+   100K .......... .......... .......... .......... .......... 51%  587K 0s
+   150K .......... .......... .......... .......... .......... 68%  323K 0s
+   200K .......... .......... .......... .......... .......... 85%  591K 0s
+   250K .......... .......... .......... .......... ..        100%  522K=0.7s
+
+2017-02-03 14:28:39 (401 KB/s) - ‘rcw031’ saved [299219/299219]
+
+--2017-02-03 14:28:40--  http://doi.org/10.1093/rpc/rcw011
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw011 [following]
+--2017-02-03 14:28:42--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 195848 (191K) [text/html]
+Saving to: ‘rcw011’
+
+     0K .......... .......... .......... .......... .......... 26%  209K 1s
+    50K .......... .......... .......... .......... .......... 52%  605K 0s
+   100K .......... .......... .......... .......... .......... 78%  589K 0s
+   150K .......... .......... .......... .......... .         100%  505K=0.5s
+
+2017-02-03 14:28:51 (391 KB/s) - ‘rcw011’ saved [195848/195848]
+
+--2017-02-03 14:28:52--  http://doi.org/10.1093/rpc/rcw010
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw010 [following]
+--2017-02-03 14:28:53--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 264058 (258K) [text/html]
+Saving to: ‘rcw010’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 38%  565K 1s
+   100K .......... .......... .......... .......... .......... 58%  612K 0s
+   150K .......... .......... .......... .......... .......... 77%  605K 0s
+   200K .......... .......... .......... .......... .......... 96%  316K 0s
+   250K .......                                               100% 41.3M=0.7s
+
+2017-02-03 14:29:04 (396 KB/s) - ‘rcw010’ saved [264058/264058]
+
+--2017-02-03 14:29:05--  http://doi.org/10.1093/rpc/rcw004
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw004 [following]
+--2017-02-03 14:29:06--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 246808 (241K) [text/html]
+Saving to: ‘rcw004’
+
+     0K .......... .......... .......... .......... .......... 20%  209K 1s
+    50K .......... .......... .......... .......... .......... 41%  610K 0s
+   100K .......... .......... .......... .......... .......... 62%  601K 0s
+   150K .......... .......... .......... .......... .......... 82%  605K 0s
+   200K .......... .......... .......... .......... .         100%  503K=0.6s
+
+2017-02-03 14:29:20 (424 KB/s) - ‘rcw004’ saved [246808/246808]
+
+--2017-02-03 14:29:21--  http://doi.org/10.1093/rpc/rcw009
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw009 [following]
+--2017-02-03 14:29:22--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 229077 (224K) [text/html]
+Saving to: ‘rcw009’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 44%  607K 0s
+   100K .......... .......... .......... .......... .......... 67%  605K 0s
+   150K .......... .......... .......... .......... .......... 89%  412K 0s
+   200K .......... .......... ...                             100%  580K=0.6s
+
+2017-02-03 14:29:33 (395 KB/s) - ‘rcw009’ saved [229077/229077]
+
+--2017-02-03 14:29:34--  http://doi.org/10.1093/rpc/rcw005
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw005 [following]
+--2017-02-03 14:29:36--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 85327 (83K) [text/html]
+Saving to: ‘rcw005’
+
+     0K .......... .......... .......... .......... .......... 60%  208K 0s
+    50K .......... .......... .......... ...                  100% 6.55M=0.2s
+
+2017-02-03 14:29:45 (340 KB/s) - ‘rcw005’ saved [85327/85327]
+
+--2017-02-03 14:29:46--  http://doi.org/10.1093/rpc/rcw008
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw008 [following]
+--2017-02-03 14:29:47--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 105366 (103K) [text/html]
+Saving to: ‘rcw008’
+
+     0K .......... .......... .......... .......... .......... 48%  208K 0s
+    50K .......... .......... .......... .......... .......... 97%  607K 0s
+   100K ..                                                    100% 5525G=0.3s
+
+2017-02-03 14:30:09 (319 KB/s) - ‘rcw008’ saved [105366/105366]
+
+--2017-02-03 14:30:10--  http://doi.org/10.1093/rpc/rcw006
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw006 [following]
+--2017-02-03 14:30:11--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 14:30:12 ERROR 400: Bad Request.
+
+--2017-02-03 14:30:13--  http://doi.org/10.1093/rpc/rcw007
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw007 [following]
+--2017-02-03 14:30:14--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 678310 (662K) [text/html]
+Saving to: ‘rcw007’
+
+     0K .......... .......... .......... .......... ..........  7%  209K 3s
+    50K .......... .......... .......... .......... .......... 15%  605K 2s
+   100K .......... .......... .......... .......... .......... 22%  604K 1s
+   150K .......... .......... .......... .......... .......... 30%  316K 1s
+   200K .......... .......... .......... .......... .......... 37%  598K 1s
+   250K .......... .......... .......... .......... .......... 45%  611K 1s
+   300K .......... .......... .......... .......... .......... 52%  595K 1s
+   350K .......... .......... .......... .......... .......... 60%  316K 1s
+   400K .......... .......... .......... .......... .......... 67%  604K 0s
+   450K .......... .......... .......... .......... .......... 75%  609K 0s
+   500K .......... .......... .......... .......... .......... 83%  594K 0s
+   550K .......... .......... .......... .......... .......... 90%  273K 0s
+   600K .......... .......... .......... .......... .......... 98%  617K 0s
+   650K .......... ..                                         100% 16.7M=1.5s
+
+2017-02-03 14:30:33 (446 KB/s) - ‘rcw007’ saved [678310/678310]
+
+--2017-02-03 14:30:34--  http://doi.org/10.1093/rpc/rcw003
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw003 [following]
+--2017-02-03 14:30:36--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 193276 (189K) [text/html]
+Saving to: ‘rcw003’
+
+     0K .......... .......... .......... .......... .......... 26%  208K 1s
+    50K .......... .......... .......... .......... .......... 52%  611K 0s
+   100K .......... .......... .......... .......... .......... 79%  603K 0s
+   150K .......... .......... .......... ........             100%  479K=0.5s
+
+2017-02-03 14:30:54 (388 KB/s) - ‘rcw003’ saved [193276/193276]
+
+--2017-02-03 14:30:55--  http://doi.org/10.1093/rpc/rcv060
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv060 [following]
+--2017-02-03 14:30:57--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv060
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 193372 (189K) [text/html]
+Saving to: ‘rcv060’
+
+     0K .......... .......... .......... .......... .......... 26%  209K 1s
+    50K .......... .......... .......... .......... .......... 52%  602K 0s
+   100K .......... .......... .......... .......... .......... 79%  611K 0s
+   150K .......... .......... .......... ........             100%  306K=0.5s
+
+2017-02-03 14:31:10 (356 KB/s) - ‘rcv060’ saved [193372/193372]
+
+--2017-02-03 14:31:11--  http://doi.org/10.1093/rpc/rcv062
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv062 [following]
+--2017-02-03 14:31:12--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv062
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 112625 (110K) [text/html]
+Saving to: ‘rcv062’
+
+     0K .......... .......... .......... .......... .......... 45%  209K 0s
+    50K .......... .......... .......... .......... .......... 90%  613K 0s
+   100K .........                                             100% 16.4M=0.3s
+
+2017-02-03 14:31:32 (342 KB/s) - ‘rcv062’ saved [112625/112625]
+
+--2017-02-03 14:31:33--  http://doi.org/10.1093/rpc/rcv059
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv059 [following]
+--2017-02-03 14:31:35--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv059
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 14:31:35 ERROR 400: Bad Request.
+
+--2017-02-03 14:31:36--  http://doi.org/10.1093/rpc/rcv061
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv061 [following]
+--2017-02-03 14:31:38--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv061
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 162683 (159K) [text/html]
+Saving to: ‘rcv061’
+
+     0K .......... .......... .......... .......... .......... 31%  209K 1s
+    50K .......... .......... .......... .......... .......... 62%  603K 0s
+   100K .......... .......... .......... .......... .......... 94%  607K 0s
+   150K ........                                              100% 16.9M=0.4s
+
+2017-02-03 14:31:46 (392 KB/s) - ‘rcv061’ saved [162683/162683]
+
+--2017-02-03 14:31:47--  http://doi.org/10.1093/rpc/rcv054
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv054 [following]
+--2017-02-03 14:31:48--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv054
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 452697 (442K) [text/html]
+Saving to: ‘rcv054’
+
+     0K .......... .......... .......... .......... .......... 11%  209K 2s
+    50K .......... .......... .......... .......... .......... 22%  574K 1s
+   100K .......... .......... .......... .......... .......... 33%  608K 1s
+   150K .......... .......... .......... .......... .......... 45%  610K 1s
+   200K .......... .......... .......... .......... .......... 56%  317K 0s
+   250K .......... .......... .......... .......... .......... 67%  589K 0s
+   300K .......... .......... .......... .......... .......... 79%  613K 0s
+   350K .......... .......... .......... .......... .......... 90%  313K 0s
+   400K .......... .......... .......... .......... ..        100%  518K=1.1s
+
+2017-02-03 14:32:02 (419 KB/s) - ‘rcv054’ saved [452697/452697]
+
+--2017-02-03 14:32:03--  http://doi.org/10.1093/rpc/rcv056
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv056 [following]
+--2017-02-03 14:32:04--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv056
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 192948 (188K) [text/html]
+Saving to: ‘rcv056’
+
+     0K .......... .......... .......... .......... .......... 26%  208K 1s
+    50K .......... .......... .......... .......... .......... 53%  599K 0s
+   100K .......... .......... .......... .......... .......... 79%  611K 0s
+   150K .......... .......... .......... ........             100%  473K=0.5s
+
+2017-02-03 14:32:20 (387 KB/s) - ‘rcv056’ saved [192948/192948]
+
+--2017-02-03 14:32:21--  http://doi.org/10.1093/rpc/rcv055
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv055 [following]
+--2017-02-03 14:32:22--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv055
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 117466 (115K) [text/html]
+Saving to: ‘rcv055’
+
+     0K .......... .......... .......... .......... .......... 43%  206K 0s
+    50K .......... .......... .......... .......... .......... 87%  612K 0s
+   100K .......... ....                                       100% 7.40M=0.3s
+
+2017-02-03 14:32:34 (352 KB/s) - ‘rcv055’ saved [117466/117466]
+
+--2017-02-03 14:32:35--  http://doi.org/10.1093/rpc/rcv046
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article/132/8/541/1597992/ICAHN-SCHOOL-OF-MEDICINE-AT-MOUNT-SINAIS-SPC [following]
+--2017-02-03 14:32:36--  https://academic.oup.com/rpc/article/132/8/541/1597992/ICAHN-SCHOOL-OF-MEDICINE-AT-MOUNT-SINAIS-SPC
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 151463 (148K) [text/html]
+Saving to: ‘rcv046’
+
+     0K .......... .......... .......... .......... .......... 33% 22.7K 4s
+    50K .......... .......... .......... .......... .......... 67%  207K 1s
+   100K .......... .......... .......... .......... .......   100%  199K=2.7s
+
+2017-02-03 14:32:51 (55.0 KB/s) - ‘rcv046’ saved [151463/151463]
+
+--2017-02-03 14:32:52--  http://doi.org/10.1093/rpc/rcv043
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv043 [following]
+--2017-02-03 14:32:53--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv043
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 301442 (294K) [text/html]
+Saving to: ‘rcv043’
+
+     0K .......... .......... .......... .......... .......... 16%  209K 1s
+    50K .......... .......... .......... .......... .......... 33%  604K 1s
+   100K .......... .......... .......... .......... .......... 50%  611K 0s
+   150K .......... .......... .......... .......... .......... 67%  426K 0s
+   200K .......... .......... .......... .......... .......... 84%  392K 0s
+   250K .......... .......... .......... .......... ....      100%  547K=0.7s
+
+2017-02-03 14:33:09 (403 KB/s) - ‘rcv043’ saved [301442/301442]
+
+--2017-02-03 14:33:10--  http://doi.org/10.1093/rpc/rcv050
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv050 [following]
+--2017-02-03 14:33:12--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv050
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 207690 (203K) [text/html]
+Saving to: ‘rcv050’
+
+     0K .......... .......... .......... .......... .......... 24%  209K 1s
+    50K .......... .......... .......... .......... .......... 49%  606K 0s
+   100K .......... .......... .......... .......... .......... 73%  600K 0s
+   150K .......... .......... .......... .......... .......... 98%  316K 0s
+   200K ..                                                    100% 5383G=0.6s
+
+2017-02-03 14:33:33 (360 KB/s) - ‘rcv050’ saved [207690/207690]
+
+--2017-02-03 14:33:34--  http://doi.org/10.1093/rpc/rcv053
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv053 [following]
+--2017-02-03 14:33:35--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv053
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 143677 (140K) [text/html]
+Saving to: ‘rcv053’
+
+     0K .......... .......... .......... .......... .......... 35%  208K 0s
+    50K .......... .......... .......... .......... .......... 71%  596K 0s
+   100K .......... .......... .......... ..........           100%  511K=0.4s
+
+2017-02-03 14:33:44 (348 KB/s) - ‘rcv053’ saved [143677/143677]
+
+--2017-02-03 14:33:45--  http://doi.org/10.1093/rpc/rcv047
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv047 [following]
+--2017-02-03 14:33:46--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv047
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 146032 (143K) [text/html]
+Saving to: ‘rcv047’
+
+     0K .......... .......... .......... .......... .......... 35%  307K 0s
+    50K .......... .......... .......... .......... .......... 70%  312K 0s
+   100K .......... .......... .......... .......... ..        100%  526K=0.4s
+
+2017-02-03 14:34:04 (353 KB/s) - ‘rcv047’ saved [146032/146032]
+
+--2017-02-03 14:34:05--  http://doi.org/10.1093/rpc/rcv038
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv038 [following]
+--2017-02-03 14:34:06--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv038
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 168594 (165K) [text/html]
+Saving to: ‘rcv038’
+
+     0K .......... .......... .......... .......... .......... 30%  209K 1s
+    50K .......... .......... .......... .......... .......... 60%  602K 0s
+   100K .......... .......... .......... .......... .......... 91%  602K 0s
+   150K .......... ....                                       100%  192K=0.5s
+
+2017-02-03 14:34:34 (342 KB/s) - ‘rcv038’ saved [168594/168594]
+
+--2017-02-03 14:34:35--  http://doi.org/10.1093/rpc/rcv042
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv042 [following]
+--2017-02-03 14:34:36--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv042
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 14:34:37 ERROR 400: Bad Request.
+
+--2017-02-03 14:34:38--  http://doi.org/10.1093/rpc/rcv039
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv039 [following]
+--2017-02-03 14:34:39--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv039
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 14:34:40 ERROR 400: Bad Request.
+
+--2017-02-03 14:34:41--  http://doi.org/10.1093/rpc/rcv037
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv037 [following]
+--2017-02-03 14:34:42--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv037
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 148780 (145K) [text/html]
+Saving to: ‘rcv037’
+
+     0K .......... .......... .......... .......... .......... 34%  209K 0s
+    50K .......... .......... .......... .......... .......... 68%  596K 0s
+   100K .......... .......... .......... .......... .....     100%  555K=0.4s
+
+2017-02-03 14:34:59 (359 KB/s) - ‘rcv037’ saved [148780/148780]
+
+--2017-02-03 14:35:00--  http://doi.org/10.1093/rpc/rcv029
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article/132/5/354/2261084/AGA-MEDICAL-CORPORATION-v-OCCLUTECH-UK-LTD [following]
+--2017-02-03 14:35:01--  https://academic.oup.com/rpc/article/132/5/354/2261084/AGA-MEDICAL-CORPORATION-v-OCCLUTECH-UK-LTD
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 201521 (197K) [text/html]
+Saving to: ‘rcv029’
+
+     0K .......... .......... .......... .......... .......... 25%  209K 1s
+    50K .......... .......... .......... .......... .......... 50%  613K 0s
+   100K .......... .......... .......... .......... .......... 76%  602K 0s
+   150K .......... .......... .......... .......... ......    100%  564K=0.5s
+
+2017-02-03 14:35:18 (404 KB/s) - ‘rcv029’ saved [201521/201521]
+
+--2017-02-03 14:35:19--  http://doi.org/10.1093/rpc/rcv027
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv027 [following]
+--2017-02-03 14:35:21--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv027
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 137021 (134K) [text/html]
+Saving to: ‘rcv027’
+
+     0K .......... .......... .......... .......... .......... 37%  208K 0s
+    50K .......... .......... .......... .......... .......... 74%  603K 0s
+   100K .......... .......... .......... ...                  100%  431K=0.4s
+
+2017-02-03 14:35:44 (333 KB/s) - ‘rcv027’ saved [137021/137021]
+
+--2017-02-03 14:35:45--  http://doi.org/10.1093/rpc/rcv036
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv036 [following]
+--2017-02-03 14:35:47--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv036
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 14:35:47 ERROR 400: Bad Request.
+
+--2017-02-03 14:35:48--  http://doi.org/10.1093/rpc/rcv035
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv035 [following]
+--2017-02-03 14:35:50--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv035
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 97984 (96K) [text/html]
+Saving to: ‘rcv035’
+
+     0K .......... .......... .......... .......... .......... 52%  208K 0s
+    50K .......... .......... .......... .......... .....     100%  564K=0.3s
+
+2017-02-03 14:36:11 (297 KB/s) - ‘rcv035’ saved [97984/97984]
+
+--2017-02-03 14:36:12--  http://doi.org/10.1093/rpc/rcv034
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv034 [following]
+--2017-02-03 14:36:13--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv034
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 122874 (120K) [text/html]
+Saving to: ‘rcv034’
+
+     0K .......... .......... .......... .......... .......... 41%  209K 0s
+    50K .......... .......... .......... .......... .......... 83%  610K 0s
+   100K .......... .........                                  100% 17.8M=0.3s
+
+2017-02-03 14:36:39 (372 KB/s) - ‘rcv034’ saved [122874/122874]
+
+--2017-02-03 14:36:40--  http://doi.org/10.1093/rpc/rcv028
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv028 [following]
+--2017-02-03 14:36:41--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv028
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 170992 (167K) [text/html]
+Saving to: ‘rcv028’
+
+     0K .......... .......... .......... .......... .......... 29%  209K 1s
+    50K .......... .......... .......... .......... .......... 59%  612K 0s
+   100K .......... .......... .......... .......... .......... 89%  606K 0s
+   150K .......... ......                                     100%  216K=0.5s
+
+2017-02-03 14:37:28 (346 KB/s) - ‘rcv028’ saved [170992/170992]
+
+--2017-02-03 14:37:29--  http://doi.org/10.1093/rpc/rcv022
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv022 [following]
+--2017-02-03 14:37:30--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv022
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 168283 (164K) [text/html]
+Saving to: ‘rcv022’
+
+     0K .......... .......... .......... .......... .......... 30%  209K 1s
+    50K .......... .......... .......... .......... .......... 60%  603K 0s
+   100K .......... .......... .......... .......... .......... 91%  604K 0s
+   150K .......... ....                                       100%  185K=0.5s
+
+2017-02-03 14:37:49 (341 KB/s) - ‘rcv022’ saved [168283/168283]
+
+--2017-02-03 14:37:50--  http://doi.org/10.1093/rpc/rcv024
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv024 [following]
+--2017-02-03 14:37:51--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv024
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 157154 (153K) [text/html]
+Saving to: ‘rcv024’
+
+     0K .......... .......... .......... .......... .......... 32%  209K 0s
+    50K .......... .......... .......... .......... .......... 65%  602K 0s
+   100K .......... .......... .......... .......... .......... 97%  613K 0s
+   150K ...                                                   100% 24.2M=0.4s
+
+2017-02-03 14:38:22 (380 KB/s) - ‘rcv024’ saved [157154/157154]
+
+--2017-02-03 14:38:23--  http://doi.org/10.1093/rpc/rcv023
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv023 [following]
+--2017-02-03 14:38:25--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 137153 (134K) [text/html]
+Saving to: ‘rcv023’
+
+     0K .......... .......... .......... .......... .......... 37%  208K 0s
+    50K .......... .......... .......... .......... .......... 74%  601K 0s
+   100K .......... .......... .......... ...                  100%  424K=0.4s
+
+2017-02-03 14:38:39 (332 KB/s) - ‘rcv023’ saved [137153/137153]
+
+--2017-02-03 14:38:40--  http://doi.org/10.1093/rpc/rcv018
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv018 [following]
+--2017-02-03 14:38:42--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv018
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 354267 (346K) [text/html]
+Saving to: ‘rcv018’
+
+     0K .......... .......... .......... .......... .......... 14%  208K 1s
+    50K .......... .......... .......... .......... .......... 28%  604K 1s
+   100K .......... .......... .......... .......... .......... 43%  599K 1s
+   150K .......... .......... .......... .......... .......... 57%  318K 0s
+   200K .......... .......... .......... .......... .......... 72%  591K 0s
+   250K .......... .......... .......... .......... .......... 86%  605K 0s
+   300K .......... .......... .......... .......... .....     100%  548K=0.8s
+
+2017-02-03 14:38:58 (425 KB/s) - ‘rcv018’ saved [354267/354267]
+
+--2017-02-03 14:38:59--  http://doi.org/10.1093/rpc/rcv017
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv017 [following]
+--2017-02-03 14:39:01--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcv017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 14:39:01 ERROR 400: Bad Request.
+
+--2017-02-03 14:39:02--  http://doi.org/10.1093/rpc/rcu069
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu069 [following]
+--2017-02-03 14:39:04--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu069
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 142298 (139K) [text/html]
+Saving to: ‘rcu069’
+
+     0K .......... .......... .......... .......... .......... 35%  209K 0s
+    50K .......... .......... .......... .......... .......... 71%  607K 0s
+   100K .......... .......... .......... ........             100%  488K=0.4s
+
+2017-02-03 14:39:31 (346 KB/s) - ‘rcu069’ saved [142298/142298]
+
+--2017-02-03 14:39:32--  http://doi.org/10.1093/rpc/rcu067
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu067 [following]
+--2017-02-03 14:39:34--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu067
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 105595 (103K) [text/html]
+Saving to: ‘rcu067’
+
+     0K .......... .......... .......... .......... .......... 48%  208K 0s
+    50K .......... .......... .......... .......... .......... 96%  611K 0s
+   100K ...                                                   100% 5951G=0.3s
+
+2017-02-03 14:40:11 (320 KB/s) - ‘rcu067’ saved [105595/105595]
+
+--2017-02-03 14:40:12--  http://doi.org/10.1093/rpc/rcu068
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu068 [following]
+--2017-02-03 14:40:14--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu068
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 165932 (162K) [text/html]
+Saving to: ‘rcu068’
+
+     0K .......... .......... .......... .......... .......... 30% 69.4K 2s
+    50K .......... .......... .......... .......... .......... 61%  155K 1s
+   100K .......... .......... .......... .......... .......... 92%  157K 0s
+   150K .......... ..                                         100%  300K=1.4s
+
+2017-02-03 14:41:12 (116 KB/s) - ‘rcu068’ saved [165932/165932]
+
+--2017-02-03 14:41:13--  http://doi.org/10.1093/rpc/rcu070
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu070 [following]
+--2017-02-03 14:41:14--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu070
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 78370 (77K) [text/html]
+Saving to: ‘rcu070’
+
+     0K .......... .......... .......... .......... .......... 65%  208K 0s
+    50K .......... .......... ......                          100% 13.4M=0.2s
+
+2017-02-03 14:41:55 (316 KB/s) - ‘rcu070’ saved [78370/78370]
+
+--2017-02-03 14:41:56--  http://doi.org/10.1093/rpc/rcu071
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu071 [following]
+--2017-02-03 14:41:58--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu071
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 100430 (98K) [text/html]
+Saving to: ‘rcu071’
+
+     0K .......... .......... .......... .......... .......... 50%  308K 0s
+    50K .......... .......... .......... .......... ........  100%  302K=0.3s
+
+2017-02-03 14:42:52 (305 KB/s) - ‘rcu071’ saved [100430/100430]
+
+--2017-02-03 14:42:54--  http://doi.org/10.1093/rpc/rcw022
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw022 [following]
+--2017-02-03 14:42:55--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw022
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76905 (75K) [text/html]
+Saving to: ‘rcw022’
+
+     0K .......... .......... .......... .......... .......... 66%  209K 0s
+    50K .......... .......... .....                           100% 12.1M=0.2s
+
+2017-02-03 14:43:34 (311 KB/s) - ‘rcw022’ saved [76905/76905]
+
+--2017-02-03 14:43:35--  http://doi.org/10.1093/rpc/rcw020
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw020 [following]
+--2017-02-03 14:43:37--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw020
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 91214 (89K) [text/html]
+Saving to: ‘rcw020’
+
+     0K .......... .......... .......... .......... .......... 56%  209K 0s
+    50K .......... .......... .......... .........            100%  969K=0.3s
+
+2017-02-03 14:44:39 (319 KB/s) - ‘rcw020’ saved [91214/91214]
+
+--2017-02-03 14:44:40--  http://doi.org/10.1093/rpc/rcw021
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw021 [following]
+--2017-02-03 14:44:42--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 14:45:33--  (try: 2)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 14:45:55--  (try: 3)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 14:46:05--  (try: 4)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 14:46:38--  (try: 5)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 14:47:05--  (try: 6)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 14:47:42--  (try: 7)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 14:48:45--  (try: 8)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 14:49:25--  (try: 9)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 14:49:53--  (try:10)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 14:50:24--  (try:11)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 14:51:02--  (try:12)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 153146 (150K) [text/html]
+Saving to: ‘rcw021’
+
+     0K .......... .......... .......... .......... .......... 33%  208K 0s
+    50K .......... .......... .......... .......... .......... 66%  575K 0s
+   100K .......... .......... .......... .......... ......... 100%  579K=0.4s
+
+2017-02-03 14:51:14 (362 KB/s) - ‘rcw021’ saved [153146/153146]
+
+--2017-02-03 14:51:15--  http://doi.org/10.1093/rpc/rcw012
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw012 [following]
+--2017-02-03 14:51:16--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 14:51:38--  (try: 2)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65014 (63K) [text/html]
+Saving to: ‘rcw012’
+
+     0K .......... .......... .......... .......... .......... 78%  208K 0s
+    50K .......... ...                                        100% 13.6M=0.2s
+
+2017-02-03 14:51:47 (263 KB/s) - ‘rcw012’ saved [65014/65014]
+
+--2017-02-03 14:51:48--  http://doi.org/10.1093/rpc/rcw023
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw023 [following]
+--2017-02-03 14:51:49--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 14:52:16--  (try: 2)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 14:52:42--  (try: 3)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 14:53:45--  (try: 4)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 14:53:54--  (try: 5)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 14:54:04--  (try: 6)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 14:54:54--  (try: 7)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 14:54:55 ERROR 400: Bad Request.
+
+--2017-02-03 14:54:56--  http://doi.org/10.1093/rpc/rcw017
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw017 [following]
+--2017-02-03 14:54:57--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 14:55:25--  (try: 2)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 14:55:34--  (try: 3)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 14:56:04--  (try: 4)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 14:56:52--  (try: 5)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 14:57:12--  (try: 6)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 14:57:22--  (try: 7)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 14:57:46--  (try: 8)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 14:58:14--  (try: 9)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 14:58:30 ERROR 400: Bad Request.
+
+--2017-02-03 14:58:31--  http://doi.org/10.1093/rpc/rcw018
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw018 [following]
+--2017-02-03 14:58:32--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw018
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 14:58:33 ERROR 400: Bad Request.
+
+--2017-02-03 14:58:34--  http://doi.org/10.1093/rpc/rcw019
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw019 [following]
+--2017-02-03 14:58:35--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 14:58:49--  (try: 2)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 14:58:58--  (try: 3)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 15:00:27--  (try: 4)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 15:01:03--  (try: 5)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 15:01:09--  (try: 6)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 15:01:19--  (try: 7)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 15:01:55--  (try: 8)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 15:01:58 ERROR 400: Bad Request.
+
+--2017-02-03 15:01:59--  http://doi.org/10.1093/rpc/rcw014
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw014 [following]
+--2017-02-03 15:02:01--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw014
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 15:02:05 ERROR 400: Bad Request.
+
+--2017-02-03 15:02:06--  http://doi.org/10.1093/rpc/rcw013
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw013 [following]
+--2017-02-03 15:02:07--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 15:02:15--  (try: 2)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 15:02:17--  (try: 3)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 15:02:46--  (try: 4)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 15:03:09--  (try: 5)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 15:03:57--  (try: 6)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 15:04:44--  (try: 7)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 15:05:01--  (try: 8)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 15:05:34--  (try: 9)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 15:06:22--  (try:10)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 15:06:36--  (try:11)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 15:07:00--  (try:12)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 15:07:25--  (try:13)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 109947 (107K) [text/html]
+Saving to: ‘rcw013’
+
+     0K .......... .......... .......... .......... .......... 46%  208K 0s
+    50K .......... .......... .......... .......... .......... 93%  602K 0s
+   100K .......                                               100% 34.0M=0.3s
+
+2017-02-03 15:07:31 (332 KB/s) - ‘rcw013’ saved [109947/109947]
+
+--2017-02-03 15:07:32--  http://doi.org/10.1093/rpc/rcw015
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw015 [following]
+--2017-02-03 15:07:33--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 15:08:15--  (try: 2)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 15:08:30--  (try: 3)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 15:08:37--  (try: 4)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 15:09:25--  (try: 5)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 15:09:51--  (try: 6)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 15:10:12--  (try: 7)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 15:11:28--  (try: 8)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 15:12:28--  (try: 9)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 15:13:01--  (try:10)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 15:13:53--  (try:11)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 15:14:55--  (try:12)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 15:15:24--  (try:13)  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 83756 (82K) [text/html]
+Saving to: ‘rcw015’
+
+     0K .......... .......... .......... .......... .......... 61%  302K 0s
+    50K .......... .......... .......... .                    100%  390K=0.2s
+
+2017-02-03 15:15:38 (331 KB/s) - ‘rcw015’ saved [83756/83756]
+
+--2017-02-03 15:15:39--  http://doi.org/10.1093/rpc/rcw024
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw024 [following]
+--2017-02-03 15:15:40--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw024
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77194 (75K) [text/html]
+Saving to: ‘rcw024’
+
+     0K .......... .......... .......... .......... .......... 66%  309K 0s
+    50K .......... .......... .....                           100%  318K=0.2s
+
+2017-02-03 15:15:57 (312 KB/s) - ‘rcw024’ saved [77194/77194]
+
+--2017-02-03 15:15:58--  http://doi.org/10.1093/rpc/rcw016
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw016 [following]
+--2017-02-03 15:15:59--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcw016
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66298 (65K) [text/html]
+Saving to: ‘rcw016’
+
+     0K .......... .......... .......... .......... .......... 77%  209K 0s
+    50K .......... ....                                       100% 17.0M=0.2s
+
+2017-02-03 15:16:11 (270 KB/s) - ‘rcw016’ saved [66298/66298]
+
+--2017-02-03 15:16:12--  http://doi.org/10.1093/rpc/rcu061
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu061 [following]
+--2017-02-03 15:16:14--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu061
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 147691 (144K) [text/html]
+Saving to: ‘rcu061’
+
+     0K .......... .......... .......... .......... .......... 34%  304K 0s
+    50K .......... .......... .......... .......... .......... 69%  313K 0s
+   100K .......... .......... .......... .......... ....      100%  536K=0.4s
+
+2017-02-03 15:17:17 (355 KB/s) - ‘rcu061’ saved [147691/147691]
+
+--2017-02-03 15:17:18--  http://doi.org/10.1093/rpc/rcu062
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu062 [following]
+--2017-02-03 15:17:19--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu062
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 101948 (100K) [text/html]
+Saving to: ‘rcu062’
+
+     0K .......... .......... .......... .......... .......... 50%  209K 0s
+    50K .......... .......... .......... .......... ......... 100%  605K=0.3s
+
+2017-02-03 15:17:40 (310 KB/s) - ‘rcu062’ saved [101948/101948]
+
+--2017-02-03 15:17:41--  http://doi.org/10.1093/rpc/rcu063
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu063 [following]
+--2017-02-03 15:17:43--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu063
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 100197 (98K) [text/html]
+Saving to: ‘rcu063’
+
+     0K .......... .......... .......... .......... .......... 51%  209K 0s
+    50K .......... .......... .......... .......... .......   100%  591K=0.3s
+
+2017-02-03 15:18:05 (306 KB/s) - ‘rcu063’ saved [100197/100197]
+
+--2017-02-03 15:18:06--  http://doi.org/10.1093/rpc/rcu064
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu064 [following]
+--2017-02-03 15:18:07--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu064
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 124711 (122K) [text/html]
+Saving to: ‘rcu064’
+
+     0K .......... .......... .......... .......... .......... 41%  210K 0s
+    50K .......... .......... .......... .......... .......... 82%  609K 0s
+   100K .......... .......... .                               100% 11.4M=0.3s
+
+2017-02-03 15:18:28 (378 KB/s) - ‘rcu064’ saved [124711/124711]
+
+--2017-02-03 15:18:29--  http://doi.org/10.1093/rpc/rcu057
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://rpc.oxfordjournals.org/cgi/doi/10.1093/rpc/rcu057 [following]
+--2017-02-03 15:18:31--  http://rpc.oxfordjournals.org/cgi/doi/10.1093/rpc/rcu057
+Connecting to rpc.oxfordjournals.org (rpc.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from rpc.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/rpc/article/131/11/797/2964547/AP-RACING-LTD-v-ALCON-COMPONENTS-LTD1 [following]
+--2017-02-03 15:18:32--  https://academic.oup.com/rpc/article/131/11/797/2964547/AP-RACING-LTD-v-ALCON-COMPONENTS-LTD1
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 137670 (134K) [text/html]
+Saving to: ‘rcu057’
+
+     0K .......... .......... .......... .......... .......... 37%  209K 0s
+    50K .......... .......... .......... .......... .......... 74%  613K 0s
+   100K .......... .......... .......... ....                 100%  437K=0.4s
+
+2017-02-03 15:18:56 (336 KB/s) - ‘rcu057’ saved [137670/137670]
+
+--2017-02-03 15:18:57--  http://doi.org/10.1093/rpc/rcu058
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://rpc.oxfordjournals.org/cgi/doi/10.1093/rpc/rcu058 [following]
+--2017-02-03 15:18:58--  http://rpc.oxfordjournals.org/cgi/doi/10.1093/rpc/rcu058
+Connecting to rpc.oxfordjournals.org (rpc.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from rpc.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/rpc/article/131/11/829/2964548/SHANKS-v-UNILEVER-PLC1 [following]
+--2017-02-03 15:18:59--  https://academic.oup.com/rpc/article/131/11/829/2964548/SHANKS-v-UNILEVER-PLC1
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 193917 (189K) [text/html]
+Saving to: ‘rcu058’
+
+     0K .......... .......... .......... .......... .......... 26%  208K 1s
+    50K .......... .......... .......... .......... .......... 52%  612K 0s
+   100K .......... .......... .......... .......... .......... 79%  591K 0s
+   150K .......... .......... .......... .........            100%  481K=0.5s
+
+2017-02-03 15:19:22 (388 KB/s) - ‘rcu058’ saved [193917/193917]
+
+--2017-02-03 15:19:23--  http://doi.org/10.1093/rpc/rcu051
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu051 [following]
+--2017-02-03 15:19:24--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu051
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 15:19:25 ERROR 400: Bad Request.
+
+--2017-02-03 15:19:26--  http://doi.org/10.1093/rpc/rcu052
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu052 [following]
+--2017-02-03 15:19:27--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu052
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 301028 (294K) [text/html]
+Saving to: ‘rcu052’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 34%  561K 1s
+   100K .......... .......... .......... .......... .......... 51%  600K 0s
+   150K .......... .......... .......... .......... .......... 68%  606K 0s
+   200K .......... .......... .......... .......... .......... 85%  311K 0s
+   250K .......... .......... .......... .......... ...       100%  536K=0.7s
+
+2017-02-03 15:19:55 (399 KB/s) - ‘rcu052’ saved [301028/301028]
+
+--2017-02-03 15:19:56--  http://doi.org/10.1093/rpc/rcu049
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu049 [following]
+--2017-02-03 15:19:57--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu049
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 133590 (130K) [text/html]
+Saving to: ‘rcu049’
+
+     0K .......... .......... .......... .......... .......... 38%  208K 0s
+    50K .......... .......... .......... .......... .......... 76%  585K 0s
+   100K .......... .......... ..........                      100%  365K=0.4s
+
+2017-02-03 15:20:12 (318 KB/s) - ‘rcu049’ saved [133590/133590]
+
+--2017-02-03 15:20:13--  http://doi.org/10.1093/rpc/rcu050
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu050 [following]
+--2017-02-03 15:20:15--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu050
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 138742 (135K) [text/html]
+Saving to: ‘rcu050’
+
+     0K .......... .......... .......... .......... .......... 36%  207K 0s
+    50K .......... .......... .......... .......... .......... 73%  595K 0s
+   100K .......... .......... .......... .....                100%  441K=0.4s
+
+2017-02-03 15:20:27 (333 KB/s) - ‘rcu050’ saved [138742/138742]
+
+--2017-02-03 15:20:28--  http://doi.org/10.1093/rpc/rcu048
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu048 [following]
+--2017-02-03 15:20:29--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu048
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 179999 (176K) [text/html]
+Saving to: ‘rcu048’
+
+     0K .......... .......... .......... .......... .......... 28%  208K 1s
+    50K .......... .......... .......... .......... .......... 56%  604K 0s
+   100K .......... .......... .......... .......... .......... 85%  602K 0s
+   150K .......... .......... .....                           100%  331K=0.5s
+
+2017-02-03 15:21:11 (363 KB/s) - ‘rcu048’ saved [179999/179999]
+
+--2017-02-03 15:21:12--  http://doi.org/10.1093/rpc/rcu044
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu044 [following]
+--2017-02-03 15:21:13--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu044
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 15:21:14 ERROR 400: Bad Request.
+
+--2017-02-03 15:21:15--  http://doi.org/10.1093/rpc/rcu041
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu041 [following]
+--2017-02-03 15:21:16--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu041
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 133443 (130K) [text/html]
+Saving to: ‘rcu041’
+
+     0K .......... .......... .......... .......... .......... 38%  213K 0s
+    50K .......... .......... .......... .......... .......... 76%  607K 0s
+   100K .......... .......... ..........                      100%  379K=0.4s
+
+2017-02-03 15:21:34 (328 KB/s) - ‘rcu041’ saved [133443/133443]
+
+--2017-02-03 15:21:35--  http://doi.org/10.1093/rpc/rcu043
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu043 [following]
+--2017-02-03 15:21:37--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu043
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 115687 (113K) [text/html]
+Saving to: ‘rcu043’
+
+     0K .......... .......... .......... .......... .......... 44%  309K 0s
+    50K .......... .......... .......... .......... .......... 88%  307K 0s
+   100K .......... ..                                         100% 22.1M=0.3s
+
+2017-02-03 15:21:50 (347 KB/s) - ‘rcu043’ saved [115687/115687]
+
+--2017-02-03 15:21:51--  http://doi.org/10.1093/rpc/rcu042
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu042 [following]
+--2017-02-03 15:21:53--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu042
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 113844 (111K) [text/html]
+Saving to: ‘rcu042’
+
+     0K .......... .......... .......... .......... .......... 44%  309K 0s
+    50K .......... .......... .......... .......... .......... 89%  314K 0s
+   100K .......... .                                          100% 11.8M=0.3s
+
+2017-02-03 15:22:07 (346 KB/s) - ‘rcu042’ saved [113844/113844]
+
+--2017-02-03 15:22:08--  http://doi.org/10.1093/rpc/rcu037
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu037 [following]
+--2017-02-03 15:22:09--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu037
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 105835 (103K) [text/html]
+Saving to: ‘rcu037’
+
+     0K .......... .......... .......... .......... .......... 48%  206K 0s
+    50K .......... .......... .......... .......... .......... 96%  610K 0s
+   100K ...                                                   100% 19.6M=0.3s
+
+2017-02-03 15:22:24 (318 KB/s) - ‘rcu037’ saved [105835/105835]
+
+--2017-02-03 15:22:25--  http://doi.org/10.1093/rpc/rcu036
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu036 [following]
+--2017-02-03 15:22:26--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu036
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 139747 (136K) [text/html]
+Saving to: ‘rcu036’
+
+     0K .......... .......... .......... .......... .......... 36%  208K 0s
+    50K .......... .......... .......... .......... .......... 73%  586K 0s
+   100K .......... .......... .......... ......               100%  474K=0.4s
+
+2017-02-03 15:22:44 (339 KB/s) - ‘rcu036’ saved [139747/139747]
+
+--2017-02-03 15:22:45--  http://doi.org/10.1093/rpc/rcu038
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu038 [following]
+--2017-02-03 15:22:46--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu038
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 290814 (284K) [text/html]
+Saving to: ‘rcu038’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 35%  609K 1s
+   100K .......... .......... .......... .......... .......... 52%  597K 0s
+   150K .......... .......... .......... .......... .......... 70%  611K 0s
+   200K .......... .......... .......... .......... .......... 88%  608K 0s
+   250K .......... .......... .......... ...                  100%  419K=0.7s
+
+2017-02-03 15:23:04 (437 KB/s) - ‘rcu038’ saved [290814/290814]
+
+--2017-02-03 15:23:05--  http://doi.org/10.1093/rpc/rcu032
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu032 [following]
+--2017-02-03 15:23:06--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu032
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 196698 (192K) [text/html]
+Saving to: ‘rcu032’
+
+     0K .......... .......... .......... .......... .......... 26%  209K 1s
+    50K .......... .......... .......... .......... .......... 52%  593K 0s
+   100K .......... .......... .......... .......... .......... 78%  601K 0s
+   150K .......... .......... .......... .......... ..        100% 95.7K=0.8s
+
+2017-02-03 15:23:22 (227 KB/s) - ‘rcu032’ saved [196698/196698]
+
+--2017-02-03 15:23:23--  http://doi.org/10.1093/rpc/rcu033
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu033 [following]
+--2017-02-03 15:23:24--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu033
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 110839 (108K) [text/html]
+Saving to: ‘rcu033’
+
+     0K .......... .......... .......... .......... .......... 46%  208K 0s
+    50K .......... .......... .......... .......... .......... 92%  605K 0s
+   100K ........                                              100% 58.0M=0.3s
+
+2017-02-03 15:23:40 (335 KB/s) - ‘rcu033’ saved [110839/110839]
+
+--2017-02-03 15:23:41--  http://doi.org/10.1093/rpc/rcu031
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu031 [following]
+--2017-02-03 15:23:43--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu031
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 133357 (130K) [text/html]
+Saving to: ‘rcu031’
+
+     0K .......... .......... .......... .......... .......... 38%  209K 0s
+    50K .......... .......... .......... .......... .......... 76%  611K 0s
+   100K .......... .......... ..........                      100% 4.98M=0.3s
+
+2017-02-03 15:23:56 (398 KB/s) - ‘rcu031’ saved [133357/133357]
+
+--2017-02-03 15:23:57--  http://doi.org/10.1093/rpc/rcu028
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu028 [following]
+--2017-02-03 15:23:58--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu028
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 15:23:59 ERROR 400: Bad Request.
+
+--2017-02-03 15:24:00--  http://doi.org/10.1093/rpc/rcu027
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu027 [following]
+--2017-02-03 15:24:01--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu027
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 165820 (162K) [text/html]
+Saving to: ‘rcu027’
+
+     0K .......... .......... .......... .......... .......... 30%  208K 1s
+    50K .......... .......... .......... .......... .......... 61%  604K 0s
+   100K .......... .......... .......... .......... .......... 92%  614K 0s
+   150K .......... .                                          100% 7.01M=0.4s
+
+2017-02-03 15:24:13 (399 KB/s) - ‘rcu027’ saved [165820/165820]
+
+--2017-02-03 15:24:14--  http://doi.org/10.1093/rpc/rcu007
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu007 [following]
+--2017-02-03 15:24:15--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 433399 (423K) [text/html]
+Saving to: ‘rcu007’
+
+     0K .......... .......... .......... .......... .......... 11%  209K 2s
+    50K .......... .......... .......... .......... .......... 23%  606K 1s
+   100K .......... .......... .......... .......... .......... 35%  613K 1s
+   150K .......... .......... .......... .......... .......... 47%  609K 1s
+   200K .......... .......... .......... .......... .......... 59%  312K 0s
+   250K .......... .......... .......... .......... .......... 70%  596K 0s
+   300K .......... .......... .......... .......... .......... 82%  607K 0s
+   350K .......... .......... .......... .......... .......... 94%  319K 0s
+   400K .......... .......... ...                             100% 3.50M=1.0s
+
+2017-02-03 15:24:27 (434 KB/s) - ‘rcu007’ saved [433399/433399]
+
+--2017-02-03 15:24:28--  http://doi.org/10.1093/rpc/rcu002
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu002 [following]
+--2017-02-03 15:24:29--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 115770 (113K) [text/html]
+Saving to: ‘rcu002’
+
+     0K .......... .......... .......... .......... .......... 44%  308K 0s
+    50K .......... .......... .......... .......... .......... 88%  307K 0s
+   100K .......... ...                                        100% 21.9M=0.3s
+
+2017-02-03 15:24:36 (347 KB/s) - ‘rcu002’ saved [115770/115770]
+
+--2017-02-03 15:24:37--  http://doi.org/10.1093/rpc/rcu003
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu003 [following]
+--2017-02-03 15:24:39--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 15:24:39 ERROR 400: Bad Request.
+
+--2017-02-03 15:24:40--  http://doi.org/10.1093/rpc/rcu004
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu004 [following]
+--2017-02-03 15:24:42--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 202070 (197K) [text/html]
+Saving to: ‘rcu004’
+
+     0K .......... .......... .......... .......... .......... 25%  209K 1s
+    50K .......... .......... .......... .......... .......... 50%  602K 0s
+   100K .......... .......... .......... .......... .......... 76%  601K 0s
+   150K .......... .......... .......... .......... .......   100%  579K=0.5s
+
+2017-02-03 15:24:50 (405 KB/s) - ‘rcu004’ saved [202070/202070]
+
+--2017-02-03 15:24:51--  http://doi.org/10.1093/rpc/rcu001
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu001 [following]
+--2017-02-03 15:24:52--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rcu001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 15:24:53 ERROR 400: Bad Request.
+
+--2017-02-03 15:24:54--  http://doi.org/10.1093/rpc/rct076
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rct076 [following]
+--2017-02-03 15:24:55--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rct076
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 131258 (128K) [text/html]
+Saving to: ‘rct076’
+
+     0K .......... .......... .......... .......... .......... 39%  208K 0s
+    50K .......... .......... .......... .......... .......... 78%  602K 0s
+   100K .......... .......... ........                        100%  360K=0.4s
+
+2017-02-03 15:25:02 (319 KB/s) - ‘rct076’ saved [131258/131258]
+
+--2017-02-03 15:25:03--  http://doi.org/10.1093/rpc/rct077
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rct077 [following]
+--2017-02-03 15:25:04--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rct077
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 15:25:05 ERROR 400: Bad Request.
+
+--2017-02-03 15:25:06--  http://doi.org/10.1093/rpc/rct074
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rct074 [following]
+--2017-02-03 15:25:07--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rct074
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 129371 (126K) [text/html]
+Saving to: ‘rct074’
+
+     0K .......... .......... .......... .......... .......... 39%  209K 0s
+    50K .......... .......... .......... .......... .......... 79%  607K 0s
+   100K .......... .......... ......                          100% 16.0M=0.3s
+
+2017-02-03 15:25:14 (391 KB/s) - ‘rct074’ saved [129371/129371]
+
+--2017-02-03 15:25:15--  http://doi.org/10.1093/rpc/rct075
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rct075 [following]
+--2017-02-03 15:25:16--  https://academic.oup.com/rpc/article-lookup/doi/10.1093/rpc/rct075
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 131769 (129K) [text/html]
+Saving to: ‘rct075’
+
+     0K .......... .......... .......... .......... .......... 38%  208K 0s
+    50K .......... .......... .......... .......... .......... 77%  610K 0s
+   100K .......... .......... ........                        100% 4.93M=0.3s
+
+2017-02-03 15:25:22 (392 KB/s) - ‘rct075’ saved [131769/131769]
+
+FINISHED --2017-02-03 15:25:22--
+Total wall clock time: 59m 50s
+Downloaded: 82 files, 13M in 40s (339 KB/s)

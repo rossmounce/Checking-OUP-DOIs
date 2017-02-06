@@ -1,0 +1,1468 @@
+--2017-02-02 18:52:14--  http://doi.org/10.1093/litthe/frx002
+Resolving doi.org (doi.org)... 95.138.171.129, 208.254.38.90, 38.100.138.162, ...
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-02 18:52:15--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Resolving fdslive.oup.com (fdslive.oup.com)... 193.67.160.201
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘frx002’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-02 18:52:17 (1.20 MB/s) - ‘frx002’ saved [52438/52438]
+
+--2017-02-02 18:52:18--  http://doi.org/10.1093/litthe/frw050
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-02 18:52:19--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘frw050’
+
+     0K .......... .......... .......... .......... .......... 97% 1.25M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-02 18:52:19 (1.28 MB/s) - ‘frw050’ saved [52438/52438]
+
+--2017-02-02 18:52:20--  http://doi.org/10.1093/litthe/frw049
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-02 18:52:21--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘frw049’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-02 18:52:21 (1.19 MB/s) - ‘frw049’ saved [52438/52438]
+
+--2017-02-02 18:52:22--  http://doi.org/10.1093/litthe/frw044
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw044 [following]
+--2017-02-02 18:52:23--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw044
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 70932 (69K) [text/html]
+Saving to: ‘frw044’
+
+     0K .......... .......... .......... .......... .......... 72%  209K 0s
+    50K .......... .........                                  100% 15.8M=0.2s
+
+2017-02-02 18:52:27 (288 KB/s) - ‘frw044’ saved [70932/70932]
+
+--2017-02-02 18:52:28--  http://doi.org/10.1093/litthe/frw045
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw045 [following]
+--2017-02-02 18:52:30--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw045
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72362 (71K) [text/html]
+Saving to: ‘frw045’
+
+     0K .......... .......... .......... .......... .......... 70%  208K 0s
+    50K .......... ..........                                 100% 10.2M=0.2s
+
+2017-02-02 18:52:33 (292 KB/s) - ‘frw045’ saved [72362/72362]
+
+--2017-02-02 18:52:34--  http://doi.org/10.1093/litthe/frw035
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://litthe.oxfordjournals.org/lookup/doi/10.1093/litthe/frw035 [following]
+--2017-02-02 18:52:35--  http://litthe.oxfordjournals.org/lookup/doi/10.1093/litthe/frw035
+Resolving litthe.oxfordjournals.org (litthe.oxfordjournals.org)... 209.135.222.209
+Connecting to litthe.oxfordjournals.org (litthe.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from litthe.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from litthe.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/litthe/redirect-unavailable?url=litthe.oxfordjournals.org/lookup/doi/10.1093/litthe/frw035 [following]
+--2017-02-02 18:52:37--  https://academic.oup.com/litthe/redirect-unavailable?url=litthe.oxfordjournals.org/lookup/doi/10.1093/litthe/frw035
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-02 18:52:38 ERROR 404: Not Found.
+
+--2017-02-02 18:52:39--  http://doi.org/10.1093/litthe/frw037
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://litthe.oxfordjournals.org/lookup/doi/10.1093/litthe/frw037 [following]
+--2017-02-02 18:52:40--  http://litthe.oxfordjournals.org/lookup/doi/10.1093/litthe/frw037
+Connecting to litthe.oxfordjournals.org (litthe.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from litthe.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from litthe.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/litthe/redirect-unavailable?url=litthe.oxfordjournals.org/lookup/doi/10.1093/litthe/frw037 [following]
+--2017-02-02 18:52:41--  https://academic.oup.com/litthe/redirect-unavailable?url=litthe.oxfordjournals.org/lookup/doi/10.1093/litthe/frw037
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 18:52:42 ERROR 400: Bad Request.
+
+--2017-02-02 18:52:43--  http://doi.org/10.1093/litthe/frw036
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://litthe.oxfordjournals.org/lookup/doi/10.1093/litthe/frw036 [following]
+--2017-02-02 18:52:44--  http://litthe.oxfordjournals.org/lookup/doi/10.1093/litthe/frw036
+Connecting to litthe.oxfordjournals.org (litthe.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from litthe.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from litthe.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/litthe/redirect-unavailable?url=litthe.oxfordjournals.org/lookup/doi/10.1093/litthe/frw036 [following]
+--2017-02-02 18:52:45--  https://academic.oup.com/litthe/redirect-unavailable?url=litthe.oxfordjournals.org/lookup/doi/10.1093/litthe/frw036
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-02 18:52:47 ERROR 404: Not Found.
+
+--2017-02-02 18:52:48--  http://doi.org/10.1093/litthe/frw034
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://litthe.oxfordjournals.org/lookup/doi/10.1093/litthe/frw034 [following]
+--2017-02-02 18:52:49--  http://litthe.oxfordjournals.org/lookup/doi/10.1093/litthe/frw034
+Connecting to litthe.oxfordjournals.org (litthe.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from litthe.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from litthe.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/litthe/redirect-unavailable?url=litthe.oxfordjournals.org/lookup/doi/10.1093/litthe/frw034 [following]
+--2017-02-02 18:52:50--  https://academic.oup.com/litthe/redirect-unavailable?url=litthe.oxfordjournals.org/lookup/doi/10.1093/litthe/frw034
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-02 18:52:52 ERROR 404: Not Found.
+
+--2017-02-02 18:52:53--  http://doi.org/10.1093/litthe/frw033
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw033 [following]
+--2017-02-02 18:52:54--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw033
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75534 (74K) [text/html]
+Saving to: ‘frw033’
+
+     0K .......... .......... .......... .......... .......... 67%  208K 0s
+    50K .......... .......... ...                             100% 16.3M=0.2s
+
+2017-02-02 18:52:57 (305 KB/s) - ‘frw033’ saved [75534/75534]
+
+--2017-02-02 18:52:58--  http://doi.org/10.1093/litthe/frw030
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw030 [following]
+--2017-02-02 18:52:59--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw030
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 113879 (111K) [text/html]
+Saving to: ‘frw030’
+
+     0K .......... .......... .......... .......... .......... 44%  209K 0s
+    50K .......... .......... .......... .......... .......... 89%  576K 0s
+   100K .......... .                                          100% 33.3M=0.3s
+
+2017-02-02 18:53:03 (340 KB/s) - ‘frw030’ saved [113879/113879]
+
+--2017-02-02 18:53:04--  http://doi.org/10.1093/litthe/frw026
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw026 [following]
+--2017-02-02 18:53:05--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw026
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 150288 (147K) [text/html]
+Saving to: ‘frw026’
+
+     0K .......... .......... .......... .......... .......... 34%  209K 0s
+    50K .......... .......... .......... .......... .......... 68%  610K 0s
+   100K .......... .......... .......... .......... ......    100%  532K=0.4s
+
+2017-02-02 18:53:09 (358 KB/s) - ‘frw026’ saved [150288/150288]
+
+--2017-02-02 18:53:10--  http://doi.org/10.1093/litthe/frw032
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw032 [following]
+--2017-02-02 18:53:11--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw032
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 18:53:12 ERROR 400: Bad Request.
+
+--2017-02-02 18:53:13--  http://doi.org/10.1093/litthe/frw028
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw028 [following]
+--2017-02-02 18:53:14--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw028
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 69204 (68K) [text/html]
+Saving to: ‘frw028’
+
+     0K .......... .......... .......... .......... .......... 73%  207K 0s
+    50K .......... .......                                    100% 15.2M=0.2s
+
+2017-02-02 18:53:19 (279 KB/s) - ‘frw028’ saved [69204/69204]
+
+--2017-02-02 18:53:20--  http://doi.org/10.1093/litthe/frw031
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw031 [following]
+--2017-02-02 18:53:21--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw031
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 121986 (119K) [text/html]
+Saving to: ‘frw031’
+
+     0K .......... .......... .......... .......... .......... 41%  208K 0s
+    50K .......... .......... .......... .......... .......... 83%  604K 0s
+   100K .......... .........                                  100% 11.0M=0.3s
+
+2017-02-02 18:53:26 (366 KB/s) - ‘frw031’ saved [121986/121986]
+
+--2017-02-02 18:53:27--  http://doi.org/10.1093/litthe/frw029
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw029 [following]
+--2017-02-02 18:53:28--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw029
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 113286 (111K) [text/html]
+Saving to: ‘frw029’
+
+     0K .......... .......... .......... .......... .......... 45%  208K 0s
+    50K .......... .......... .......... .......... .......... 90%  613K 0s
+   100K ..........                                            100% 8.82M=0.3s
+
+2017-02-02 18:53:32 (342 KB/s) - ‘frw029’ saved [113286/113286]
+
+--2017-02-02 18:53:33--  http://doi.org/10.1093/litthe/frw027
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw027 [following]
+--2017-02-02 18:53:35--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw027
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 96444 (94K) [text/html]
+Saving to: ‘frw027’
+
+     0K .......... .......... .......... .......... .......... 53%  209K 0s
+    50K .......... .......... .......... .......... ....      100%  552K=0.3s
+
+2017-02-02 18:53:38 (295 KB/s) - ‘frw027’ saved [96444/96444]
+
+--2017-02-02 18:53:39--  http://doi.org/10.1093/litthe/frw023
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw023 [following]
+--2017-02-02 18:53:40--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 74067 (72K) [text/html]
+Saving to: ‘frw023’
+
+     0K .......... .......... .......... .......... .......... 69%  209K 0s
+    50K .......... .......... ..                              100% 15.4M=0.2s
+
+2017-02-02 18:53:44 (300 KB/s) - ‘frw023’ saved [74067/74067]
+
+--2017-02-02 18:53:45--  http://doi.org/10.1093/litthe/frw025
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw025 [following]
+--2017-02-02 18:53:46--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw025
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72652 (71K) [text/html]
+Saving to: ‘frw025’
+
+     0K .......... .......... .......... .......... .......... 70%  208K 0s
+    50K .......... ..........                                 100% 15.6M=0.2s
+
+2017-02-02 18:53:52 (293 KB/s) - ‘frw025’ saved [72652/72652]
+
+--2017-02-02 18:53:53--  http://doi.org/10.1093/litthe/frw022
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw022 [following]
+--2017-02-02 18:53:54--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw022
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 97250 (95K) [text/html]
+Saving to: ‘frw022’
+
+     0K .......... .......... .......... .......... .......... 52%  209K 0s
+    50K .......... .......... .......... .......... ....      100%  559K=0.3s
+
+2017-02-02 18:53:57 (297 KB/s) - ‘frw022’ saved [97250/97250]
+
+--2017-02-02 18:53:58--  http://doi.org/10.1093/litthe/frw024
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw024 [following]
+--2017-02-02 18:53:59--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw024
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 18:54:00 ERROR 400: Bad Request.
+
+--2017-02-02 18:54:01--  http://doi.org/10.1093/litthe/frw014
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw014 [following]
+--2017-02-02 18:54:02--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw014
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 157633 (154K) [text/html]
+Saving to: ‘frw014’
+
+     0K .......... .......... .......... .......... .......... 32%  209K 0s
+    50K .......... .......... .......... .......... .......... 64%  600K 0s
+   100K .......... .......... .......... .......... .......... 97%  607K 0s
+   150K ...                                                   100% 10.1M=0.4s
+
+2017-02-02 18:54:06 (379 KB/s) - ‘frw014’ saved [157633/157633]
+
+--2017-02-02 18:54:07--  http://doi.org/10.1093/litthe/frw017
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw017 [following]
+--2017-02-02 18:54:09--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 136420 (133K) [text/html]
+Saving to: ‘frw017’
+
+     0K .......... .......... .......... .......... .......... 37%  209K 0s
+    50K .......... .......... .......... .......... .......... 75%  602K 0s
+   100K .......... .......... .......... ...                  100%  422K=0.4s
+
+2017-02-02 18:54:13 (332 KB/s) - ‘frw017’ saved [136420/136420]
+
+--2017-02-02 18:54:14--  http://doi.org/10.1093/litthe/frw011
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw011 [following]
+--2017-02-02 18:54:15--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 128927 (126K) [text/html]
+Saving to: ‘frw011’
+
+     0K .......... .......... .......... .......... .......... 39%  208K 0s
+    50K .......... .......... .......... .......... .......... 79%  596K 0s
+   100K .......... .......... .....                           100% 14.4M=0.3s
+
+2017-02-02 18:54:18 (387 KB/s) - ‘frw011’ saved [128927/128927]
+
+--2017-02-02 18:54:19--  http://doi.org/10.1093/litthe/frw019
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw019 [following]
+--2017-02-02 18:54:21--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 18:54:21 ERROR 400: Bad Request.
+
+--2017-02-02 18:54:22--  http://doi.org/10.1093/litthe/frw018
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw018 [following]
+--2017-02-02 18:54:23--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw018
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 18:54:25 ERROR 400: Bad Request.
+
+--2017-02-02 18:54:26--  http://doi.org/10.1093/litthe/frw016
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw016 [following]
+--2017-02-02 18:54:27--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw016
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 138102 (135K) [text/html]
+Saving to: ‘frw016’
+
+     0K .......... .......... .......... .......... .......... 37%  209K 0s
+    50K .......... .......... .......... .......... .......... 74%  592K 0s
+   100K .......... .......... .......... ....                 100%  433K=0.4s
+
+2017-02-02 18:54:31 (333 KB/s) - ‘frw016’ saved [138102/138102]
+
+--2017-02-02 18:54:32--  http://doi.org/10.1093/litthe/frw015
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw015 [following]
+--2017-02-02 18:54:33--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 129204 (126K) [text/html]
+Saving to: ‘frw015’
+
+     0K .......... .......... .......... .......... .......... 39%  209K 0s
+    50K .......... .......... .......... .......... .......... 79%  592K 0s
+   100K .......... .......... ......                          100% 15.9M=0.3s
+
+2017-02-02 18:54:37 (388 KB/s) - ‘frw015’ saved [129204/129204]
+
+--2017-02-02 18:54:38--  http://doi.org/10.1093/litthe/frw021
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw021 [following]
+--2017-02-02 18:54:39--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 157075 (153K) [text/html]
+Saving to: ‘frw021’
+
+     0K .......... .......... .......... .......... .......... 32%  207K 0s
+    50K .......... .......... .......... .......... .......... 65%  597K 0s
+   100K .......... .......... .......... .......... .......... 97%  595K 0s
+   150K ...                                                   100% 6473G=0.4s
+
+2017-02-02 18:54:43 (375 KB/s) - ‘frw021’ saved [157075/157075]
+
+--2017-02-02 18:54:44--  http://doi.org/10.1093/litthe/frw020
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw020 [following]
+--2017-02-02 18:54:45--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw020
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 70358 (69K) [text/html]
+Saving to: ‘frw020’
+
+     0K .......... .......... .......... .......... .......... 72%  209K 0s
+    50K .......... ........                                   100% 14.7M=0.2s
+
+2017-02-02 18:54:49 (285 KB/s) - ‘frw020’ saved [70358/70358]
+
+--2017-02-02 18:54:50--  http://doi.org/10.1093/litthe/frw013
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw013 [following]
+--2017-02-02 18:54:51--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 127517 (125K) [text/html]
+Saving to: ‘frw013’
+
+     0K .......... .......... .......... .......... .......... 40%  206K 0s
+    50K .......... .......... .......... .......... .......... 80%  602K 0s
+   100K .......... .......... ....                            100% 13.9M=0.3s
+
+2017-02-02 18:54:55 (380 KB/s) - ‘frw013’ saved [127517/127517]
+
+--2017-02-02 18:54:56--  http://doi.org/10.1093/litthe/frw010
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw010 [following]
+--2017-02-02 18:54:57--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 130800 (128K) [text/html]
+Saving to: ‘frw010’
+
+     0K .......... .......... .......... .......... .......... 39%  209K 0s
+    50K .......... .......... .......... .......... .......... 78%  567K 0s
+   100K .......... .......... .......                         100% 15.2M=0.3s
+
+2017-02-02 18:55:01 (388 KB/s) - ‘frw010’ saved [130800/130800]
+
+--2017-02-02 18:55:02--  http://doi.org/10.1093/litthe/frw012
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw012 [following]
+--2017-02-02 18:55:03--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 18:55:03 ERROR 400: Bad Request.
+
+--2017-02-02 18:55:04--  http://doi.org/10.1093/litthe/frw009
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw009 [following]
+--2017-02-02 18:55:05--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 91733 (90K) [text/html]
+Saving to: ‘frw009’
+
+     0K .......... .......... .......... .......... .......... 55%  308K 0s
+    50K .......... .......... .......... .........            100%  472K=0.2s
+
+2017-02-02 18:55:10 (364 KB/s) - ‘frw009’ saved [91733/91733]
+
+--2017-02-02 18:55:11--  http://doi.org/10.1093/litthe/frw007
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw007 [following]
+--2017-02-02 18:55:12--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 18:55:13 ERROR 400: Bad Request.
+
+--2017-02-02 18:55:14--  http://doi.org/10.1093/litthe/frw005
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw005 [following]
+--2017-02-02 18:55:15--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 139242 (136K) [text/html]
+Saving to: ‘frw005’
+
+     0K .......... .......... .......... .......... .......... 36%  209K 0s
+    50K .......... .......... .......... .......... .......... 73%  607K 0s
+   100K .......... .......... .......... .....                100%  446K=0.4s
+
+2017-02-02 18:55:20 (338 KB/s) - ‘frw005’ saved [139242/139242]
+
+--2017-02-02 18:55:21--  http://doi.org/10.1093/litthe/frw004
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw004 [following]
+--2017-02-02 18:55:22--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 149730 (146K) [text/html]
+Saving to: ‘frw004’
+
+     0K .......... .......... .......... .......... .......... 34%  208K 0s
+    50K .......... .......... .......... .......... .......... 68%  605K 0s
+   100K .......... .......... .......... .......... ......    100%  560K=0.4s
+
+2017-02-02 18:55:25 (360 KB/s) - ‘frw004’ saved [149730/149730]
+
+--2017-02-02 18:55:26--  http://doi.org/10.1093/litthe/frw003
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw003 [following]
+--2017-02-02 18:55:27--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76384 (75K) [text/html]
+Saving to: ‘frw003’
+
+     0K .......... .......... .......... .......... .......... 67%  208K 0s
+    50K .......... .......... ....                            100% 13.8M=0.2s
+
+2017-02-02 18:55:33 (308 KB/s) - ‘frw003’ saved [76384/76384]
+
+--2017-02-02 18:55:34--  http://doi.org/10.1093/litthe/frw001
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw001 [following]
+--2017-02-02 18:55:35--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73564 (72K) [text/html]
+Saving to: ‘frw001’
+
+     0K .......... .......... .......... .......... .......... 69%  208K 0s
+    50K .......... .......... .                               100% 14.7M=0.2s
+
+2017-02-02 18:55:40 (297 KB/s) - ‘frw001’ saved [73564/73564]
+
+--2017-02-02 18:55:41--  http://doi.org/10.1093/litthe/frw002
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw002 [following]
+--2017-02-02 18:55:42--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 70869 (69K) [text/html]
+Saving to: ‘frw002’
+
+     0K .......... .......... .......... .......... .......... 72%  209K 0s
+    50K .......... .........                                  100% 9.27M=0.2s
+
+2017-02-02 18:55:50 (287 KB/s) - ‘frw002’ saved [70869/70869]
+
+--2017-02-02 18:55:51--  http://doi.org/10.1093/litthe/frv052
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv052 [following]
+--2017-02-02 18:55:52--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv052
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75622 (74K) [text/html]
+Saving to: ‘frv052’
+
+     0K .......... .......... .......... .......... .......... 67%  208K 0s
+    50K .......... .......... ...                             100% 9.15M=0.2s
+
+2017-02-02 18:55:56 (304 KB/s) - ‘frv052’ saved [75622/75622]
+
+--2017-02-02 18:55:57--  http://doi.org/10.1093/litthe/frw048
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-02 18:55:58--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘frw048’
+
+     0K .......... .......... .......... .......... .......... 97% 1.27M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-02 18:55:58 (1.31 MB/s) - ‘frw048’ saved [52438/52438]
+
+--2017-02-02 18:55:59--  http://doi.org/10.1093/litthe/frw041
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-02 18:56:00--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘frw041’
+
+     0K .......... .......... .......... .......... .......... 97% 1.15M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-02 18:56:00 (1.18 MB/s) - ‘frw041’ saved [52438/52438]
+
+--2017-02-02 18:56:01--  http://doi.org/10.1093/litthe/frw047
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-02 18:56:02--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘frw047’
+
+     0K .......... .......... .......... .......... .......... 97% 1.26M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-02 18:56:02 (1.29 MB/s) - ‘frw047’ saved [52438/52438]
+
+--2017-02-02 18:56:03--  http://doi.org/10.1093/litthe/frw042
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-02 18:56:05--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘frw042’
+
+     0K .......... .......... .......... .......... .......... 97% 1.27M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-02 18:56:05 (1.30 MB/s) - ‘frw042’ saved [52438/52438]
+
+--2017-02-02 18:56:06--  http://doi.org/10.1093/litthe/frw039
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw039 [following]
+--2017-02-02 18:56:07--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw039
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 124548 (122K) [text/html]
+Saving to: ‘frw039’
+
+     0K .......... .......... .......... .......... .......... 41%  209K 0s
+    50K .......... .......... .......... .......... .......... 82%  599K 0s
+   100K .......... .......... .                               100% 14.1M=0.3s
+
+2017-02-02 18:56:10 (375 KB/s) - ‘frw039’ saved [124548/124548]
+
+--2017-02-02 18:56:11--  http://doi.org/10.1093/litthe/frw040
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw040 [following]
+--2017-02-02 18:56:13--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw040
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71689 (70K) [text/html]
+Saving to: ‘frw040’
+
+     0K .......... .......... .......... .......... .......... 71%  219K 0s
+    50K .......... ..........                                 100%  248K=0.3s
+
+2017-02-02 18:56:16 (227 KB/s) - ‘frw040’ saved [71689/71689]
+
+--2017-02-02 18:56:17--  http://doi.org/10.1093/litthe/frw038
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw038 [following]
+--2017-02-02 18:56:18--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frw038
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 122834 (120K) [text/html]
+Saving to: ‘frw038’
+
+     0K .......... .......... .......... .......... .......... 41%  209K 0s
+    50K .......... .......... .......... .......... .......... 83%  587K 0s
+   100K .......... .........                                  100% 20.3M=0.3s
+
+2017-02-02 18:56:22 (368 KB/s) - ‘frw038’ saved [122834/122834]
+
+--2017-02-02 18:56:23--  http://doi.org/10.1093/litthe/frv051
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://litthe.oxfordjournals.org/lookup/doi/10.1093/litthe/frv051 [following]
+--2017-02-02 18:56:24--  http://litthe.oxfordjournals.org/lookup/doi/10.1093/litthe/frv051
+Connecting to litthe.oxfordjournals.org (litthe.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from litthe.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from litthe.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/litthe/redirect-unavailable?url=litthe.oxfordjournals.org/lookup/doi/10.1093/litthe/frv051 [following]
+--2017-02-02 18:56:25--  https://academic.oup.com/litthe/redirect-unavailable?url=litthe.oxfordjournals.org/lookup/doi/10.1093/litthe/frv051
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 18:56:26 ERROR 400: Bad Request.
+
+--2017-02-02 18:56:27--  http://doi.org/10.1093/litthe/frv050
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://litthe.oxfordjournals.org/lookup/doi/10.1093/litthe/frv050 [following]
+--2017-02-02 18:56:28--  http://litthe.oxfordjournals.org/lookup/doi/10.1093/litthe/frv050
+Connecting to litthe.oxfordjournals.org (litthe.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from litthe.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from litthe.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/litthe/redirect-unavailable?url=litthe.oxfordjournals.org/lookup/doi/10.1093/litthe/frv050 [following]
+--2017-02-02 18:56:29--  https://academic.oup.com/litthe/redirect-unavailable?url=litthe.oxfordjournals.org/lookup/doi/10.1093/litthe/frv050
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-02 18:56:33 ERROR 404: Not Found.
+
+--2017-02-02 18:56:34--  http://doi.org/10.1093/litthe/frv049
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv049 [following]
+--2017-02-02 18:56:35--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv049
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71846 (70K) [text/html]
+Saving to: ‘frv049’
+
+     0K .......... .......... .......... .......... .......... 71%  209K 0s
+    50K .......... ..........                                 100% 15.6M=0.2s
+
+2017-02-02 18:56:38 (292 KB/s) - ‘frv049’ saved [71846/71846]
+
+--2017-02-02 18:56:39--  http://doi.org/10.1093/litthe/frv043
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv043 [following]
+--2017-02-02 18:56:40--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv043
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 130799 (128K) [text/html]
+Saving to: ‘frv043’
+
+     0K .......... .......... .......... .......... .......... 39%  208K 0s
+    50K .......... .......... .......... .......... .......... 78%  561K 0s
+   100K .......... .......... .......                         100% 15.9M=0.3s
+
+2017-02-02 18:56:45 (386 KB/s) - ‘frv043’ saved [130799/130799]
+
+--2017-02-02 18:56:46--  http://doi.org/10.1093/litthe/frv042
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv042 [following]
+--2017-02-02 18:56:47--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv042
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 18:56:49 ERROR 400: Bad Request.
+
+--2017-02-02 18:56:50--  http://doi.org/10.1093/litthe/frv047
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv047 [following]
+--2017-02-02 18:56:51--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv047
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 141732 (138K) [text/html]
+Saving to: ‘frv047’
+
+     0K .......... .......... .......... .......... .......... 36%  207K 0s
+    50K .......... .......... .......... .......... .......... 72%  600K 0s
+   100K .......... .......... .......... ........             100%  475K=0.4s
+
+2017-02-02 18:56:55 (342 KB/s) - ‘frv047’ saved [141732/141732]
+
+--2017-02-02 18:56:56--  http://doi.org/10.1093/litthe/frv044
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv044 [following]
+--2017-02-02 18:56:57--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv044
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 134301 (131K) [text/html]
+Saving to: ‘frv044’
+
+     0K .......... .......... .......... .......... .......... 38%  208K 0s
+    50K .......... .......... .......... .......... .......... 76%  610K 0s
+   100K .......... .......... .......... .                    100%  394K=0.4s
+
+2017-02-02 18:57:01 (327 KB/s) - ‘frv044’ saved [134301/134301]
+
+--2017-02-02 18:57:02--  http://doi.org/10.1093/litthe/frv046
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv046 [following]
+--2017-02-02 18:57:03--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv046
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 18:57:04 ERROR 400: Bad Request.
+
+--2017-02-02 18:57:05--  http://doi.org/10.1093/litthe/frv045
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv045 [following]
+--2017-02-02 18:57:06--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv045
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 129066 (126K) [text/html]
+Saving to: ‘frv045’
+
+     0K .......... .......... .......... .......... .......... 39%  207K 0s
+    50K .......... .......... .......... .......... .......... 79%  591K 0s
+   100K .......... .......... ......                          100% 9.03M=0.3s
+
+2017-02-02 18:57:13 (383 KB/s) - ‘frv045’ saved [129066/129066]
+
+--2017-02-02 18:57:14--  http://doi.org/10.1093/litthe/frv048
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://litthe.oxfordjournals.org/cgi/doi/10.1093/litthe/frv048 [following]
+--2017-02-02 18:57:15--  http://litthe.oxfordjournals.org/cgi/doi/10.1093/litthe/frv048
+Connecting to litthe.oxfordjournals.org (litthe.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from litthe.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from litthe.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/litthe/redirect-unavailable?url=litthe.oxfordjournals.org/cgi/doi/10.1093/litthe/frv048 [following]
+--2017-02-02 18:57:16--  https://academic.oup.com/litthe/redirect-unavailable?url=litthe.oxfordjournals.org/cgi/doi/10.1093/litthe/frv048
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-02 18:57:18 ERROR 404: Not Found.
+
+--2017-02-02 18:57:19--  http://doi.org/10.1093/litthe/frv041
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv041 [following]
+--2017-02-02 18:57:20--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv041
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73770 (72K) [text/html]
+Saving to: ‘frv041’
+
+     0K .......... .......... .......... .......... .......... 69%  208K 0s
+    50K .......... .......... ..                              100% 11.5M=0.2s
+
+2017-02-02 18:57:23 (297 KB/s) - ‘frv041’ saved [73770/73770]
+
+--2017-02-02 18:57:24--  http://doi.org/10.1093/litthe/frv028
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv028 [following]
+--2017-02-02 18:57:25--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv028
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 166967 (163K) [text/html]
+Saving to: ‘frv028’
+
+     0K .......... .......... .......... .......... .......... 30%  208K 1s
+    50K .......... .......... .......... .......... .......... 61%  606K 0s
+   100K .......... .......... .......... .......... .......... 91%  607K 0s
+   150K .......... ...                                        100% 8.97M=0.4s
+
+2017-02-02 18:57:29 (401 KB/s) - ‘frv028’ saved [166967/166967]
+
+--2017-02-02 18:57:30--  http://doi.org/10.1093/litthe/frv040
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv040 [following]
+--2017-02-02 18:57:31--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv040
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71170 (70K) [text/html]
+Saving to: ‘frv040’
+
+     0K .......... .......... .......... .......... .......... 71%  209K 0s
+    50K .......... .........                                  100% 8.03M=0.2s
+
+2017-02-02 18:57:38 (287 KB/s) - ‘frv040’ saved [71170/71170]
+
+--2017-02-02 18:57:39--  http://doi.org/10.1093/litthe/frv039
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://litthe.oxfordjournals.org/lookup/doi/10.1093/litthe/frv039 [following]
+--2017-02-02 18:57:40--  http://litthe.oxfordjournals.org/lookup/doi/10.1093/litthe/frv039
+Connecting to litthe.oxfordjournals.org (litthe.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from litthe.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from litthe.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/litthe/redirect-unavailable?url=litthe.oxfordjournals.org/lookup/doi/10.1093/litthe/frv039 [following]
+--2017-02-02 18:57:41--  https://academic.oup.com/litthe/redirect-unavailable?url=litthe.oxfordjournals.org/lookup/doi/10.1093/litthe/frv039
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 18:57:42 ERROR 400: Bad Request.
+
+--2017-02-02 18:57:43--  http://doi.org/10.1093/litthe/frv038
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv038 [following]
+--2017-02-02 18:57:44--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv038
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75518 (74K) [text/html]
+Saving to: ‘frv038’
+
+     0K .......... .......... .......... .......... .......... 67%  209K 0s
+    50K .......... .......... ...                             100% 10.2M=0.2s
+
+2017-02-02 18:57:47 (305 KB/s) - ‘frv038’ saved [75518/75518]
+
+--2017-02-02 18:57:48--  http://doi.org/10.1093/litthe/frv035
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://litthe.oxfordjournals.org/lookup/doi/10.1093/litthe/frv035 [following]
+--2017-02-02 18:57:49--  http://litthe.oxfordjournals.org/lookup/doi/10.1093/litthe/frv035
+Connecting to litthe.oxfordjournals.org (litthe.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from litthe.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from litthe.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/litthe/redirect-unavailable?url=litthe.oxfordjournals.org/lookup/doi/10.1093/litthe/frv035 [following]
+--2017-02-02 18:57:50--  https://academic.oup.com/litthe/redirect-unavailable?url=litthe.oxfordjournals.org/lookup/doi/10.1093/litthe/frv035
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-02 18:57:51 ERROR 404: Not Found.
+
+--2017-02-02 18:57:52--  http://doi.org/10.1093/litthe/frv031
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://litthe.oxfordjournals.org/lookup/doi/10.1093/litthe/frv031 [following]
+--2017-02-02 18:57:53--  http://litthe.oxfordjournals.org/lookup/doi/10.1093/litthe/frv031
+Connecting to litthe.oxfordjournals.org (litthe.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from litthe.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from litthe.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/litthe/redirect-unavailable?url=litthe.oxfordjournals.org/lookup/doi/10.1093/litthe/frv031 [following]
+--2017-02-02 18:57:55--  https://academic.oup.com/litthe/redirect-unavailable?url=litthe.oxfordjournals.org/lookup/doi/10.1093/litthe/frv031
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-02 18:57:56 ERROR 404: Not Found.
+
+--2017-02-02 18:57:57--  http://doi.org/10.1093/litthe/frv029
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv029 [following]
+--2017-02-02 18:57:58--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv029
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77268 (75K) [text/html]
+Saving to: ‘frv029’
+
+     0K .......... .......... .......... .......... .......... 66%  209K 0s
+    50K .......... .......... .....                           100% 13.4M=0.2s
+
+2017-02-02 18:58:02 (313 KB/s) - ‘frv029’ saved [77268/77268]
+
+--2017-02-02 18:58:03--  http://doi.org/10.1093/litthe/frv036
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv036 [following]
+--2017-02-02 18:58:04--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv036
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73908 (72K) [text/html]
+Saving to: ‘frv036’
+
+     0K .......... .......... .......... .......... .......... 69%  208K 0s
+    50K .......... .......... ..                              100% 11.6M=0.2s
+
+2017-02-02 18:58:07 (298 KB/s) - ‘frv036’ saved [73908/73908]
+
+--2017-02-02 18:58:08--  http://doi.org/10.1093/litthe/frv033
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv033 [following]
+--2017-02-02 18:58:09--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv033
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73886 (72K) [text/html]
+Saving to: ‘frv033’
+
+     0K .......... .......... .......... .......... .......... 69%  309K 0s
+    50K .......... .......... ..                              100%  275K=0.2s
+
+2017-02-02 18:58:12 (298 KB/s) - ‘frv033’ saved [73886/73886]
+
+--2017-02-02 18:58:13--  http://doi.org/10.1093/litthe/frv034
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv034 [following]
+--2017-02-02 18:58:14--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv034
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75353 (74K) [text/html]
+Saving to: ‘frv034’
+
+     0K .......... .......... .......... .......... .......... 67%  209K 0s
+    50K .......... .......... ...                             100% 12.4M=0.2s
+
+2017-02-02 18:58:19 (305 KB/s) - ‘frv034’ saved [75353/75353]
+
+--2017-02-02 18:58:20--  http://doi.org/10.1093/litthe/frv032
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv032 [following]
+--2017-02-02 18:58:21--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv032
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75512 (74K) [text/html]
+Saving to: ‘frv032’
+
+     0K .......... .......... .......... .......... .......... 67%  209K 0s
+    50K .......... .......... ...                             100% 10.3M=0.2s
+
+2017-02-02 18:58:25 (305 KB/s) - ‘frv032’ saved [75512/75512]
+
+--2017-02-02 18:58:26--  http://doi.org/10.1093/litthe/frv027
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv027 [following]
+--2017-02-02 18:58:27--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv027
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 74888 (73K) [text/html]
+Saving to: ‘frv027’
+
+     0K .......... .......... .......... .......... .......... 68%  307K 0s
+    50K .......... .......... ...                             100%  277K=0.2s
+
+2017-02-02 18:58:31 (297 KB/s) - ‘frv027’ saved [74888/74888]
+
+--2017-02-02 18:58:32--  http://doi.org/10.1093/litthe/frv026
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv026 [following]
+--2017-02-02 18:58:34--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv026
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 126377 (123K) [text/html]
+Saving to: ‘frv026’
+
+     0K .......... .......... .......... .......... .......... 40%  208K 0s
+    50K .......... .......... .......... .......... .......... 81%  605K 0s
+   100K .......... .......... ...                             100% 6.42M=0.3s
+
+2017-02-02 18:58:38 (378 KB/s) - ‘frv026’ saved [126377/126377]
+
+--2017-02-02 18:58:39--  http://doi.org/10.1093/litthe/frv024
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv024 [following]
+--2017-02-02 18:58:40--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv024
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 121575 (119K) [text/html]
+Saving to: ‘frv024’
+
+     0K .......... .......... .......... .......... .......... 42%  209K 0s
+    50K .......... .......... .......... .......... .......... 84%  595K 0s
+   100K .......... ........                                   100% 13.5M=0.3s
+
+2017-02-02 18:58:45 (365 KB/s) - ‘frv024’ saved [121575/121575]
+
+--2017-02-02 18:58:46--  http://doi.org/10.1093/litthe/frv025
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv025 [following]
+--2017-02-02 18:58:47--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv025
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 147006 (144K) [text/html]
+Saving to: ‘frv025’
+
+     0K .......... .......... .......... .......... .......... 34%  209K 0s
+    50K .......... .......... .......... .......... .......... 69%  598K 0s
+   100K .......... .......... .......... .......... ...       100%  523K=0.4s
+
+2017-02-02 18:58:51 (354 KB/s) - ‘frv025’ saved [147006/147006]
+
+--2017-02-02 18:58:52--  http://doi.org/10.1093/litthe/frv023
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv023 [following]
+--2017-02-02 18:58:53--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 78454 (77K) [text/html]
+Saving to: ‘frv023’
+
+     0K .......... .......... .......... .......... .......... 65%  206K 0s
+    50K .......... .......... ......                          100% 12.1M=0.2s
+
+2017-02-02 18:58:57 (313 KB/s) - ‘frv023’ saved [78454/78454]
+
+--2017-02-02 18:58:58--  http://doi.org/10.1093/litthe/frv021
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv021 [following]
+--2017-02-02 18:58:59--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 69130 (68K) [text/html]
+Saving to: ‘frv021’
+
+     0K .......... .......... .......... .......... .......... 74%  208K 0s
+    50K .......... .......                                    100% 4.37M=0.2s
+
+2017-02-02 18:59:03 (276 KB/s) - ‘frv021’ saved [69130/69130]
+
+--2017-02-02 18:59:04--  http://doi.org/10.1093/litthe/frv022
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv022 [following]
+--2017-02-02 18:59:05--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv022
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 18:59:07 ERROR 400: Bad Request.
+
+--2017-02-02 18:59:08--  http://doi.org/10.1093/litthe/frv014
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv014 [following]
+--2017-02-02 18:59:09--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv014
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 18:59:10 ERROR 400: Bad Request.
+
+--2017-02-02 18:59:11--  http://doi.org/10.1093/litthe/frv012
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv012 [following]
+--2017-02-02 18:59:13--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 132931 (130K) [text/html]
+Saving to: ‘frv012’
+
+     0K .......... .......... .......... .......... .......... 38%  127K 1s
+    50K .......... .......... .......... .......... .......... 77%  595K 0s
+   100K .......... .......... .........                       100%  371K=0.6s
+
+2017-02-02 18:59:17 (232 KB/s) - ‘frv012’ saved [132931/132931]
+
+--2017-02-02 18:59:18--  http://doi.org/10.1093/litthe/frv008
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv008 [following]
+--2017-02-02 18:59:19--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 145180 (142K) [text/html]
+Saving to: ‘frv008’
+
+     0K .......... .......... .......... .......... .......... 35%  208K 0s
+    50K .......... .......... .......... .......... .......... 70%  581K 0s
+   100K .......... .......... .......... .......... .         100%  511K=0.4s
+
+2017-02-02 18:59:23 (348 KB/s) - ‘frv008’ saved [145180/145180]
+
+--2017-02-02 18:59:24--  http://doi.org/10.1093/litthe/frv013
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv013 [following]
+--2017-02-02 18:59:25--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 147998 (145K) [text/html]
+Saving to: ‘frv013’
+
+     0K .......... .......... .......... .......... .......... 34%  209K 0s
+    50K .......... .......... .......... .......... .......... 69%  601K 0s
+   100K .......... .......... .......... .......... ....      100%  546K=0.4s
+
+2017-02-02 18:59:30 (357 KB/s) - ‘frv013’ saved [147998/147998]
+
+--2017-02-02 18:59:31--  http://doi.org/10.1093/litthe/frv020
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv020 [following]
+--2017-02-02 18:59:32--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv020
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 116502 (114K) [text/html]
+Saving to: ‘frv020’
+
+     0K .......... .......... .......... .......... .......... 43%  208K 0s
+    50K .......... .......... .......... .......... .......... 87%  582K 0s
+   100K .......... ...                                        100% 15.0M=0.3s
+
+2017-02-02 18:59:38 (348 KB/s) - ‘frv020’ saved [116502/116502]
+
+--2017-02-02 18:59:39--  http://doi.org/10.1093/litthe/frv019
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv019 [following]
+--2017-02-02 18:59:40--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72440 (71K) [text/html]
+Saving to: ‘frv019’
+
+     0K .......... .......... .......... .......... .......... 70%  207K 0s
+    50K .......... ..........                                 100% 13.8M=0.2s
+
+2017-02-02 18:59:43 (291 KB/s) - ‘frv019’ saved [72440/72440]
+
+--2017-02-02 18:59:44--  http://doi.org/10.1093/litthe/frv018
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv018 [following]
+--2017-02-02 18:59:45--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv018
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72355 (71K) [text/html]
+Saving to: ‘frv018’
+
+     0K .......... .......... .......... .......... .......... 70%  307K 0s
+    50K .......... ..........                                 100%  260K=0.2s
+
+2017-02-02 18:59:48 (292 KB/s) - ‘frv018’ saved [72355/72355]
+
+--2017-02-02 18:59:49--  http://doi.org/10.1093/litthe/frv015
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv015 [following]
+--2017-02-02 18:59:50--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75536 (74K) [text/html]
+Saving to: ‘frv015’
+
+     0K .......... .......... .......... .......... .......... 67%  208K 0s
+    50K .......... .......... ...                             100% 10.9M=0.2s
+
+2017-02-02 18:59:54 (304 KB/s) - ‘frv015’ saved [75536/75536]
+
+--2017-02-02 18:59:55--  http://doi.org/10.1093/litthe/frv016
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv016 [following]
+--2017-02-02 18:59:56--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv016
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76269 (74K) [text/html]
+Saving to: ‘frv016’
+
+     0K .......... .......... .......... .......... .......... 67%  209K 0s
+    50K .......... .......... ....                            100% 11.5M=0.2s
+
+2017-02-02 18:59:59 (308 KB/s) - ‘frv016’ saved [76269/76269]
+
+--2017-02-02 19:00:00--  http://doi.org/10.1093/litthe/frv017
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv017 [following]
+--2017-02-02 19:00:01--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:00:02 ERROR 400: Bad Request.
+
+--2017-02-02 19:00:03--  http://doi.org/10.1093/litthe/frv011
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv011 [following]
+--2017-02-02 19:00:04--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73458 (72K) [text/html]
+Saving to: ‘frv011’
+
+     0K .......... .......... .......... .......... .......... 69%  208K 0s
+    50K .......... .......... .                               100% 15.2M=0.2s
+
+2017-02-02 19:00:07 (296 KB/s) - ‘frv011’ saved [73458/73458]
+
+--2017-02-02 19:00:08--  http://doi.org/10.1093/litthe/frv009
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv009 [following]
+--2017-02-02 19:00:09--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 114652 (112K) [text/html]
+Saving to: ‘frv009’
+
+     0K .......... .......... .......... .......... .......... 44%  209K 0s
+    50K .......... .......... .......... .......... .......... 89%  598K 0s
+   100K .......... .                                          100% 33.5M=0.3s
+
+2017-02-02 19:00:12 (346 KB/s) - ‘frv009’ saved [114652/114652]
+
+--2017-02-02 19:00:13--  http://doi.org/10.1093/litthe/frv010
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv010 [following]
+--2017-02-02 19:00:14--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 86859 (85K) [text/html]
+Saving to: ‘frv010’
+
+     0K .......... .......... .......... .......... .......... 58%  209K 0s
+    50K .......... .......... .......... ....                 100% 10.9M=0.2s
+
+2017-02-02 19:00:18 (350 KB/s) - ‘frv010’ saved [86859/86859]
+
+--2017-02-02 19:00:19--  http://doi.org/10.1093/litthe/frv003
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv003 [following]
+--2017-02-02 19:00:20--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76584 (75K) [text/html]
+Saving to: ‘frv003’
+
+     0K .......... .......... .......... .......... .......... 66%  209K 0s
+    50K .......... .......... ....                            100% 10.9M=0.2s
+
+2017-02-02 19:00:23 (310 KB/s) - ‘frv003’ saved [76584/76584]
+
+--2017-02-02 19:00:24--  http://doi.org/10.1093/litthe/frv005
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv005 [following]
+--2017-02-02 19:00:25--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73813 (72K) [text/html]
+Saving to: ‘frv005’
+
+     0K .......... .......... .......... .......... .......... 69%  208K 0s
+    50K .......... .......... ..                              100% 6.55M=0.2s
+
+2017-02-02 19:00:31 (296 KB/s) - ‘frv005’ saved [73813/73813]
+
+--2017-02-02 19:00:32--  http://doi.org/10.1093/litthe/frv006
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv006 [following]
+--2017-02-02 19:00:33--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77201 (75K) [text/html]
+Saving to: ‘frv006’
+
+     0K .......... .......... .......... .......... .......... 66%  207K 0s
+    50K .......... .......... .....                           100% 13.6M=0.2s
+
+2017-02-02 19:00:39 (310 KB/s) - ‘frv006’ saved [77201/77201]
+
+--2017-02-02 19:00:40--  http://doi.org/10.1093/litthe/frv007
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv007 [following]
+--2017-02-02 19:00:41--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77628 (76K) [text/html]
+Saving to: ‘frv007’
+
+     0K .......... .......... .......... .......... .......... 65%  309K 0s
+    50K .......... .......... .....                           100%  325K=0.2s
+
+2017-02-02 19:00:44 (314 KB/s) - ‘frv007’ saved [77628/77628]
+
+--2017-02-02 19:00:45--  http://doi.org/10.1093/litthe/frv004
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv004 [following]
+--2017-02-02 19:00:46--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72442 (71K) [text/html]
+Saving to: ‘frv004’
+
+     0K .......... .......... .......... .......... .......... 70%  209K 0s
+    50K .......... ..........                                 100% 7.42M=0.2s
+
+2017-02-02 19:00:49 (292 KB/s) - ‘frv004’ saved [72442/72442]
+
+--2017-02-02 19:00:50--  http://doi.org/10.1093/litthe/fru069
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/fru069 [following]
+--2017-02-02 19:00:51--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/fru069
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 69258 (68K) [text/html]
+Saving to: ‘fru069’
+
+     0K .......... .......... .......... .......... .......... 73%  208K 0s
+    50K .......... .......                                    100% 16.3M=0.2s
+
+2017-02-02 19:00:54 (281 KB/s) - ‘fru069’ saved [69258/69258]
+
+--2017-02-02 19:00:55--  http://doi.org/10.1093/litthe/frv002
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv002 [following]
+--2017-02-02 19:00:56--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:00:57 ERROR 400: Bad Request.
+
+--2017-02-02 19:00:58--  http://doi.org/10.1093/litthe/frv001
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv001 [following]
+--2017-02-02 19:00:59--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/frv001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 88439 (86K) [text/html]
+Saving to: ‘frv001’
+
+     0K .......... .......... .......... .......... .......... 57%  307K 0s
+    50K .......... .......... .......... ......               100%  449K=0.2s
+
+2017-02-02 19:01:05 (354 KB/s) - ‘frv001’ saved [88439/88439]
+
+--2017-02-02 19:01:06--  http://doi.org/10.1093/litthe/fru068
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/fru068 [following]
+--2017-02-02 19:01:07--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/fru068
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79311 (77K) [text/html]
+Saving to: ‘fru068’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... .......                         100% 13.8M=0.2s
+
+2017-02-02 19:01:10 (321 KB/s) - ‘fru068’ saved [79311/79311]
+
+--2017-02-02 19:01:11--  http://doi.org/10.1093/litthe/fru067
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/fru067 [following]
+--2017-02-02 19:01:12--  https://academic.oup.com/litthe/article-lookup/doi/10.1093/litthe/fru067
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 127943 (125K) [text/html]
+Saving to: ‘fru067’
+
+     0K .......... .......... .......... .......... .......... 40%  207K 0s
+    50K .......... .......... .......... .......... .......... 80%  602K 0s
+   100K .......... .......... ....                            100% 7.35M=0.3s
+
+2017-02-02 19:01:17 (381 KB/s) - ‘fru067’ saved [127943/127943]
+
+FINISHED --2017-02-02 19:01:17--
+Total wall clock time: 9m 3s
+Downloaded: 78 files, 7.2M in 21s (341 KB/s)

@@ -1,0 +1,2048 @@
+--2017-02-03 14:00:09--  http://doi.org/10.1093/rof/rfw054
+Resolving doi.org (doi.org)... 63.123.152.248, 208.254.38.90, 38.100.138.162, ...
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://rof.oxfordjournals.org/lookup/doi/10.1093/rof/rfw054 [following]
+--2017-02-03 14:00:11--  http://rof.oxfordjournals.org/lookup/doi/10.1093/rof/rfw054
+Resolving rof.oxfordjournals.org (rof.oxfordjournals.org)... 209.135.222.209
+Connecting to rof.oxfordjournals.org (rof.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from rof.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/rof/article/doi/10.1093/rof/rfw054/2964531/Does-Financial-Stability-Matter-to-the-Fed-in [following]
+--2017-02-03 14:00:13--  https://academic.oup.com/rof/article/doi/10.1093/rof/rfw054/2964531/Does-Financial-Stability-Matter-to-the-Fed-in
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 14:00:13 ERROR 400: Bad Request.
+
+--2017-02-03 14:00:14--  http://doi.org/10.1093/rof/rfw072
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://rof.oxfordjournals.org/lookup/doi/10.1093/rof/rfw072 [following]
+--2017-02-03 14:00:17--  http://rof.oxfordjournals.org/lookup/doi/10.1093/rof/rfw072
+Connecting to rof.oxfordjournals.org (rof.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from rof.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/rof/article/doi/10.1093/rof/rfw072/2960063/Bond-Variance-Risk-Premiums [following]
+--2017-02-03 14:00:19--  https://academic.oup.com/rof/article/doi/10.1093/rof/rfw072/2960063/Bond-Variance-Risk-Premiums
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 466011 (455K) [text/html]
+Saving to: ‘rfw072’
+
+     0K .......... .......... .......... .......... .......... 10%  207K 2s
+    50K .......... .......... .......... .......... .......... 21%  606K 1s
+   100K .......... .......... .......... .......... .......... 32%  606K 1s
+   150K .......... .......... .......... .......... .......... 43%  611K 1s
+   200K .......... .......... .......... .......... .......... 54%  313K 1s
+   250K .......... .......... .......... .......... .......... 65%  613K 0s
+   300K .......... .......... .......... .......... .......... 76%  315K 0s
+   350K .......... .......... .......... .......... .......... 87%  597K 0s
+   400K .......... .......... .......... .......... .......... 98%  609K 0s
+   450K .....                                                 100% 13.1M=1.1s
+
+2017-02-03 14:00:38 (432 KB/s) - ‘rfw072’ saved [466011/466011]
+
+--2017-02-03 14:00:39--  http://doi.org/10.1093/rof/rfw069
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://rof.oxfordjournals.org/lookup/doi/10.1093/rof/rfw069 [following]
+--2017-02-03 14:00:40--  http://rof.oxfordjournals.org/lookup/doi/10.1093/rof/rfw069
+Connecting to rof.oxfordjournals.org (rof.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from rof.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/rof/article/doi/10.1093/rof/rfw069/2877112/Incidence-of-Bank-Levy-and-Bank-Market-Power [following]
+--2017-02-03 14:00:42--  https://academic.oup.com/rof/article/doi/10.1093/rof/rfw069/2877112/Incidence-of-Bank-Levy-and-Bank-Market-Power
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 14:00:43 ERROR 400: Bad Request.
+
+--2017-02-03 14:00:44--  http://doi.org/10.1093/rof/rfw073
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://rof.oxfordjournals.org/lookup/doi/10.1093/rof/rfw073 [following]
+--2017-02-03 14:00:53--  http://rof.oxfordjournals.org/lookup/doi/10.1093/rof/rfw073
+Connecting to rof.oxfordjournals.org (rof.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from rof.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/rof/article/doi/10.1093/rof/rfw073/2932200/Equilibrium-with-Monoline-and-Multiline-Structures [following]
+--2017-02-03 14:00:54--  https://academic.oup.com/rof/article/doi/10.1093/rof/rfw073/2932200/Equilibrium-with-Monoline-and-Multiline-Structures
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 14:00:56--  (try: 2)  https://academic.oup.com/rof/article/doi/10.1093/rof/rfw073/2932200/Equilibrium-with-Monoline-and-Multiline-Structures
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 569479 (556K) [text/html]
+Saving to: ‘rfw073’
+
+     0K .......... .......... .......... .......... ..........  8%  209K 2s
+    50K .......... .......... .......... .......... .......... 17%  608K 1s
+   100K .......... .......... .......... .......... .......... 26%  597K 1s
+   150K .......... .......... .......... .......... .......... 35%  547K 1s
+   200K .......... .......... .......... .......... .......... 44%  326K 1s
+   250K .......... .......... .......... .......... .......... 53%  608K 1s
+   300K .......... .......... .......... .......... .......... 62%  603K 0s
+   350K .......... .......... .......... .......... .......... 71%  312K 0s
+   400K .......... .......... .......... .......... .......... 80%  594K 0s
+   450K .......... .......... .......... .......... .......... 89%  606K 0s
+   500K .......... .......... .......... .......... .......... 98%  558K 0s
+   550K ......                                                100% 91.2K=1.3s
+
+2017-02-03 14:01:16 (428 KB/s) - ‘rfw073’ saved [569479/569479]
+
+--2017-02-03 14:01:17--  http://doi.org/10.1093/rof/rfw075
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://rof.oxfordjournals.org/lookup/doi/10.1093/rof/rfw075 [following]
+--2017-02-03 14:01:18--  http://rof.oxfordjournals.org/lookup/doi/10.1093/rof/rfw075
+Connecting to rof.oxfordjournals.org (rof.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from rof.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/rof/article/doi/10.1093/rof/rfw075/2877115/The-Information-Value-of-Stock-Lending-Fees-Are [following]
+--2017-02-03 14:01:20--  https://academic.oup.com/rof/article/doi/10.1093/rof/rfw075/2877115/The-Information-Value-of-Stock-Lending-Fees-Are
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 14:01:21 ERROR 400: Bad Request.
+
+--2017-02-03 14:01:22--  http://doi.org/10.1093/rof/rfw065
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://rof.oxfordjournals.org/lookup/doi/10.1093/rof/rfw065 [following]
+--2017-02-03 14:01:23--  http://rof.oxfordjournals.org/lookup/doi/10.1093/rof/rfw065
+Connecting to rof.oxfordjournals.org (rof.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from rof.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/rof/article/doi/10.1093/rof/rfw065/2930762/Zero-Leverage-Puzzle-An-International-Comparison [following]
+--2017-02-03 14:01:25--  https://academic.oup.com/rof/article/doi/10.1093/rof/rfw065/2930762/Zero-Leverage-Puzzle-An-International-Comparison
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 712238 (696K) [text/html]
+Saving to: ‘rfw065’
+
+     0K .......... .......... .......... .......... ..........  7%  209K 3s
+    50K .......... .......... .......... .......... .......... 14%  599K 2s
+   100K .......... .......... .......... .......... .......... 21%  603K 1s
+   150K .......... .......... .......... .......... .......... 28%  607K 1s
+   200K .......... .......... .......... .......... .......... 35%  316K 1s
+   250K .......... .......... .......... .......... .......... 43%  567K 1s
+   300K .......... .......... .......... .......... .......... 50%  606K 1s
+   350K .......... .......... .......... .......... .......... 57%  318K 1s
+   400K .......... .......... .......... .......... .......... 64%  575K 1s
+   450K .......... .......... .......... .......... .......... 71%  608K 0s
+   500K .......... .......... .......... .......... .......... 79%  603K 0s
+   550K .......... .......... .......... .......... .......... 86%  320K 0s
+   600K .......... .......... .......... .......... .......... 93%  585K 0s
+   650K .......... .......... .......... .......... .....     100%  540K=1.6s
+
+2017-02-03 14:01:36 (448 KB/s) - ‘rfw065’ saved [712238/712238]
+
+--2017-02-03 14:01:37--  http://doi.org/10.1093/rof/rfw074
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw074 [following]
+--2017-02-03 14:01:39--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw074
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 14:01:40 ERROR 400: Bad Request.
+
+--2017-02-03 14:01:41--  http://doi.org/10.1093/rof/rfw070
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw070 [following]
+--2017-02-03 14:01:43--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw070
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 621030 (606K) [text/html]
+Saving to: ‘rfw070’
+
+     0K .......... .......... .......... .......... ..........  8%  208K 3s
+    50K .......... .......... .......... .......... .......... 16%  608K 2s
+   100K .......... .......... .......... .......... .......... 24%  610K 1s
+   150K .......... .......... .......... .......... .......... 32%  605K 1s
+   200K .......... .......... .......... .......... .......... 41%  313K 1s
+   250K .......... .......... .......... .......... .......... 49%  604K 1s
+   300K .......... .......... .......... .......... .......... 57%  611K 1s
+   350K .......... .......... .......... .......... .......... 65%  600K 0s
+   400K .......... .......... .......... .......... .......... 74%  317K 0s
+   450K .......... .......... .......... .......... .......... 82%  597K 0s
+   500K .......... .......... .......... .......... .......... 90%  606K 0s
+   550K .......... .......... .......... .......... .......... 98%  293K 0s
+   600K ......                                                100% 22.3M=1.4s
+
+2017-02-03 14:02:05 (436 KB/s) - ‘rfw070’ saved [621030/621030]
+
+--2017-02-03 14:02:06--  http://doi.org/10.1093/rof/rfw068
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw068 [following]
+--2017-02-03 14:02:08--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw068
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 657939 (643K) [text/html]
+Saving to: ‘rfw068’
+
+     0K .......... .......... .......... .......... ..........  7%  209K 3s
+    50K .......... .......... .......... .......... .......... 15%  610K 2s
+   100K .......... .......... .......... .......... .......... 23%  601K 1s
+   150K .......... .......... .......... .......... .......... 31%  431K 1s
+   200K .......... .......... .......... .......... .......... 38%  380K 1s
+   250K .......... .......... .......... .......... .......... 46%  638K 1s
+   300K .......... .......... .......... .......... .......... 54%  595K 1s
+   350K .......... .......... .......... .......... .......... 62%  605K 1s
+   400K .......... .......... .......... .......... .......... 70%  320K 0s
+   450K .......... .......... .......... .......... .......... 77%  600K 0s
+   500K .......... .......... .......... .......... .......... 85%  597K 0s
+   550K .......... .......... .......... .......... .......... 93%  598K 0s
+   600K .......... .......... .......... .......... ..        100%  524K=1.4s
+
+2017-02-03 14:02:19 (464 KB/s) - ‘rfw068’ saved [657939/657939]
+
+--2017-02-03 14:02:20--  http://doi.org/10.1093/rof/rfx008
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 14:02:21--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Resolving fdslive.oup.com (fdslive.oup.com)... 193.67.160.201
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘rfx008’
+
+     0K .......... .......... .......... .......... .......... 97% 1.16M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 14:02:22 (1.19 MB/s) - ‘rfx008’ saved [52438/52438]
+
+--2017-02-03 14:02:23--  http://doi.org/10.1093/rof/rfx009
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 14:02:25--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘rfx009’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 14:02:25 (1.20 MB/s) - ‘rfx009’ saved [52438/52438]
+
+--2017-02-03 14:02:26--  http://doi.org/10.1093/rof/rfx001
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 14:02:28--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘rfx001’
+
+     0K .......... .......... .......... .......... .......... 97%  978K 0s
+    50K .                                                     100% 2306G=0.05s
+
+2017-02-03 14:02:28 (1001 KB/s) - ‘rfx001’ saved [52438/52438]
+
+--2017-02-03 14:02:29--  http://doi.org/10.1093/rof/rfx004
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 14:02:31--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘rfx004’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 14:02:31 (1.20 MB/s) - ‘rfx004’ saved [52438/52438]
+
+--2017-02-03 14:02:32--  http://doi.org/10.1093/rof/rfx002
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 14:02:34--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘rfx002’
+
+     0K .......... .......... .......... .......... .......... 97% 1.16M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 14:02:34 (1.19 MB/s) - ‘rfx002’ saved [52438/52438]
+
+--2017-02-03 14:02:35--  http://doi.org/10.1093/rof/rfx010
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 14:02:37--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘rfx010’
+
+     0K .......... .......... .......... .......... .......... 97%  917K 0s
+    50K .                                                     100% 2306G=0.05s
+
+2017-02-03 14:02:37 (939 KB/s) - ‘rfx010’ saved [52438/52438]
+
+--2017-02-03 14:02:38--  http://doi.org/10.1093/rof/rfx005
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 14:02:40--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘rfx005’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 14:02:40 (1.32 MB/s) - ‘rfx005’ saved [52438/52438]
+
+--2017-02-03 14:02:41--  http://doi.org/10.1093/rof/rfw066
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw066 [following]
+--2017-02-03 14:02:43--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw066
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 494342 (483K) [text/html]
+Saving to: ‘rfw066’
+
+     0K .......... .......... .......... .......... .......... 10%  209K 2s
+    50K .......... .......... .......... .......... .......... 20%  607K 1s
+   100K .......... .......... .......... .......... .......... 31%  603K 1s
+   150K .......... .......... .......... .......... .......... 41%  319K 1s
+   200K .......... .......... .......... .......... .......... 51%  594K 1s
+   250K .......... .......... .......... .......... .......... 62%  561K 0s
+   300K .......... .......... .......... .......... .......... 72%  609K 0s
+   350K .......... .......... .......... .......... .......... 82%  312K 0s
+   400K .......... .......... .......... .......... .......... 93%  603K 0s
+   450K .......... .......... .......... ..                   100%  408K=1.1s
+
+2017-02-03 14:02:54 (423 KB/s) - ‘rfw066’ saved [494342/494342]
+
+--2017-02-03 14:02:55--  http://doi.org/10.1093/rof/rfw063
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw063 [following]
+--2017-02-03 14:02:57--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw063
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 439330 (429K) [text/html]
+Saving to: ‘rfw063’
+
+     0K .......... .......... .......... .......... .......... 11%  203K 2s
+    50K .......... .......... .......... .......... .......... 23%  309K 1s
+   100K .......... .......... .......... .......... .......... 34%  312K 1s
+   150K .......... .......... .......... .......... .......... 46%  603K 1s
+   200K .......... .......... .......... .......... .......... 58%  312K 1s
+   250K .......... .......... .......... .......... .......... 69%  609K 0s
+   300K .......... .......... .......... .......... .......... 81%  608K 0s
+   350K .......... .......... .......... .......... .......... 93%  313K 0s
+   400K .......... .......... .........                       100% 9.39M=1.1s
+
+2017-02-03 14:03:13 (377 KB/s) - ‘rfw063’ saved [439330/439330]
+
+--2017-02-03 14:03:14--  http://doi.org/10.1093/rof/rfw051
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw051 [following]
+--2017-02-03 14:03:17--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw051
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 412461 (403K) [text/html]
+Saving to: ‘rfw051’
+
+     0K .......... .......... .......... .......... .......... 12%  208K 2s
+    50K .......... .......... .......... .......... .......... 24%  607K 1s
+   100K .......... .......... .......... .......... .......... 37%  601K 1s
+   150K .......... .......... .......... .......... .......... 49%  318K 1s
+   200K .......... .......... .......... .......... .......... 62%  587K 0s
+   250K .......... .......... .......... .......... .......... 74%  600K 0s
+   300K .......... .......... .......... .......... .......... 86%  609K 0s
+   350K .......... .......... .......... .......... .......... 99%  319K 0s
+   400K ..                                                    100% 5329G=1.0s
+
+2017-02-03 14:03:40 (415 KB/s) - ‘rfw051’ saved [412461/412461]
+
+--2017-02-03 14:03:41--  http://doi.org/10.1093/rof/rfw061
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw061 [following]
+--2017-02-03 14:03:44--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw061
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 362714 (354K) [text/html]
+Saving to: ‘rfw061’
+
+     0K .......... .......... .......... .......... .......... 14%  208K 1s
+    50K .......... .......... .......... .......... .......... 28%  605K 1s
+   100K .......... .......... .......... .......... .......... 42%  581K 1s
+   150K .......... .......... .......... .......... .......... 56%  414K 0s
+   200K .......... .......... .......... .......... .......... 70%  425K 0s
+   250K .......... .......... .......... .......... .......... 84%  569K 0s
+   300K .......... .......... .......... .......... .......... 98%  600K 0s
+   350K ....                                                  100% 8035G=0.8s
+
+2017-02-03 14:03:59 (433 KB/s) - ‘rfw061’ saved [362714/362714]
+
+--2017-02-03 14:04:00--  http://doi.org/10.1093/rof/rfw046
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw046 [following]
+--2017-02-03 14:04:02--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw046
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 417202 (407K) [text/html]
+Saving to: ‘rfw046’
+
+     0K .......... .......... .......... .......... .......... 12%  208K 2s
+    50K .......... .......... .......... .......... .......... 24%  607K 1s
+   100K .......... .......... .......... .......... .......... 36%  598K 1s
+   150K .......... .......... .......... .......... .......... 49%  594K 1s
+   200K .......... .......... .......... .......... .......... 61%  316K 0s
+   250K .......... .......... .......... .......... .......... 73%  610K 0s
+   300K .......... .......... .......... .......... .......... 85%  598K 0s
+   350K .......... .......... .......... .......... .......... 98%  314K 0s
+   400K .......                                               100% 19.0M=1.0s
+
+2017-02-03 14:04:24 (419 KB/s) - ‘rfw046’ saved [417202/417202]
+
+--2017-02-03 14:04:25--  http://doi.org/10.1093/rof/rfw059
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw059 [following]
+--2017-02-03 14:04:27--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw059
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 360911 (352K) [text/html]
+Saving to: ‘rfw059’
+
+     0K .......... .......... .......... .......... .......... 14%  208K 1s
+    50K .......... .......... .......... .......... .......... 28%  602K 1s
+   100K .......... .......... .......... .......... .......... 42%  594K 1s
+   150K .......... .......... .......... .......... .......... 56%  317K 0s
+   200K .......... .......... .......... .......... .......... 70%  607K 0s
+   250K .......... .......... .......... .......... .......... 85%  608K 0s
+   300K .......... .......... .......... .......... .......... 99%  400K 0s
+   350K ..                                                    100% 4677G=0.9s
+
+2017-02-03 14:04:51 (412 KB/s) - ‘rfw059’ saved [360911/360911]
+
+--2017-02-03 14:04:52--  http://doi.org/10.1093/rof/rfw060
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw060 [following]
+--2017-02-03 14:04:53--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw060
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 298015 (291K) [text/html]
+Saving to: ‘rfw060’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 34%  603K 1s
+   100K .......... .......... .......... .......... .......... 51%  601K 0s
+   150K .......... .......... .......... .......... .......... 68%  601K 0s
+   200K .......... .......... .......... .......... .......... 85%  311K 0s
+   250K .......... .......... .......... .......... .         100%  510K=0.7s
+
+2017-02-03 14:05:13 (399 KB/s) - ‘rfw060’ saved [298015/298015]
+
+--2017-02-03 14:05:14--  http://doi.org/10.1093/rof/rfw052
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw052 [following]
+--2017-02-03 14:05:16--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw052
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 821081 (802K) [text/html]
+Saving to: ‘rfw052’
+
+     0K .......... .......... .......... .......... ..........  6%  208K 4s
+    50K .......... .......... .......... .......... .......... 12%  585K 2s
+   100K .......... .......... .......... .......... .......... 18%  611K 2s
+   150K .......... .......... .......... .......... .......... 24%  603K 1s
+   200K .......... .......... .......... .......... .......... 31%  311K 1s
+   250K .......... .......... .......... .......... .......... 37%  607K 1s
+   300K .......... .......... .......... .......... .......... 43%  611K 1s
+   350K .......... .......... .......... .......... .......... 49%  319K 1s
+   400K .......... .......... .......... .......... .......... 56%  612K 1s
+   450K .......... .......... .......... .......... .......... 62%  584K 1s
+   500K .......... .......... .......... .......... .......... 68%  315K 1s
+   550K .......... .......... .......... .......... .......... 74%  608K 0s
+   600K .......... .......... .......... .......... .......... 81%  604K 0s
+   650K .......... .......... .......... .......... .......... 87%  592K 0s
+   700K .......... .......... .......... .......... .......... 93%  317K 0s
+   750K .......... .......... .......... .......... .......... 99%  612K 0s
+   800K .                                                     100% 10.5M=1.8s
+
+2017-02-03 14:05:33 (449 KB/s) - ‘rfw052’ saved [821081/821081]
+
+--2017-02-03 14:05:34--  http://doi.org/10.1093/rof/rfw062
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw062 [following]
+--2017-02-03 14:05:37--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw062
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 349362 (341K) [text/html]
+Saving to: ‘rfw062’
+
+     0K .......... .......... .......... .......... .......... 14%  206K 1s
+    50K .......... .......... .......... .......... .......... 29%  598K 1s
+   100K .......... .......... .......... .......... .......... 43%  605K 1s
+   150K .......... .......... .......... .......... .......... 58%  323K 0s
+   200K .......... .......... .......... .......... .......... 73%  592K 0s
+   250K .......... .......... .......... .......... .......... 87%  579K 0s
+   300K .......... .......... .......... .......... .         100%  506K=0.8s
+
+2017-02-03 14:05:50 (418 KB/s) - ‘rfw062’ saved [349362/349362]
+
+--2017-02-03 14:05:51--  http://doi.org/10.1093/rof/rfw058
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw058 [following]
+--2017-02-03 14:05:53--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw058
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 317227 (310K) [text/html]
+Saving to: ‘rfw058’
+
+     0K .......... .......... .......... .......... .......... 16%  209K 1s
+    50K .......... .......... .......... .......... .......... 32%  602K 1s
+   100K .......... .......... .......... .......... .......... 48%  597K 0s
+   150K .......... .......... .......... .......... .......... 64%  604K 0s
+   200K .......... .......... .......... .......... .......... 80%  312K 0s
+   250K .......... .......... .......... .......... .......... 96%  602K 0s
+   300K .........                                             100% 36.2M=0.7s
+
+2017-02-03 14:06:07 (423 KB/s) - ‘rfw058’ saved [317227/317227]
+
+--2017-02-03 14:06:08--  http://doi.org/10.1093/rof/rfw057
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw057 [following]
+--2017-02-03 14:06:09--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw057
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 462099 (451K) [text/html]
+Saving to: ‘rfw057’
+
+     0K .......... .......... .......... .......... .......... 11%  209K 2s
+    50K .......... .......... .......... .......... .......... 22%  604K 1s
+   100K .......... .......... .......... .......... .......... 33%  611K 1s
+   150K .......... .......... .......... .......... .......... 44%  423K 1s
+   200K .......... .......... .......... .......... .......... 55%  384K 1s
+   250K .......... .......... .......... .......... .......... 66%  605K 0s
+   300K .......... .......... .......... .......... .......... 77%  605K 0s
+   350K .......... .......... .......... .......... .......... 88%  312K 0s
+   400K .......... .......... .......... .......... .......... 99%  609K 0s
+   450K .                                                     100% 10.1M=1.1s
+
+2017-02-03 14:06:35 (426 KB/s) - ‘rfw057’ saved [462099/462099]
+
+--2017-02-03 14:06:36--  http://doi.org/10.1093/rof/rfw055
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw055 [following]
+--2017-02-03 14:06:39--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw055
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 14:06:40 ERROR 400: Bad Request.
+
+--2017-02-03 14:06:41--  http://doi.org/10.1093/rof/rfw056
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw056 [following]
+--2017-02-03 14:06:46--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw056
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 488045 (477K) [text/html]
+Saving to: ‘rfw056’
+
+     0K .......... .......... .......... .......... .......... 10%  209K 2s
+    50K .......... .......... .......... .......... .......... 20%  604K 1s
+   100K .......... .......... .......... .......... .......... 31%  591K 1s
+   150K .......... .......... .......... .......... .......... 41%  324K 1s
+   200K .......... .......... .......... .......... .......... 52%  535K 1s
+   250K .......... .......... .......... .......... .......... 62%  607K 0s
+   300K .......... .......... .......... .......... .......... 73%  606K 0s
+   350K .......... .......... .......... .......... .......... 83%  605K 0s
+   400K .......... .......... .......... .......... .......... 94%  312K 0s
+   450K .......... .......... ......                          100% 12.1M=1.1s
+
+2017-02-03 14:07:14 (448 KB/s) - ‘rfw056’ saved [488045/488045]
+
+--2017-02-03 14:07:15--  http://doi.org/10.1093/rof/rfw053
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw053 [following]
+--2017-02-03 14:07:19--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw053
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 447296 (437K) [text/html]
+Saving to: ‘rfw053’
+
+     0K .......... .......... .......... .......... .......... 11%  206K 2s
+    50K .......... .......... .......... .......... .......... 22%  546K 1s
+   100K .......... .......... .......... .......... .......... 34%  606K 1s
+   150K .......... .......... .......... .......... .......... 45%  608K 1s
+   200K .......... .......... .......... .......... .......... 57%  311K 0s
+   250K .......... .......... .......... .......... .......... 68%  600K 0s
+   300K .......... .......... .......... .......... .......... 80%  602K 0s
+   350K .......... .......... .......... .......... .......... 91%  331K 0s
+   400K .......... .......... .......... ......               100%  458K=1.1s
+
+2017-02-03 14:07:46 (413 KB/s) - ‘rfw053’ saved [447296/447296]
+
+--2017-02-03 14:07:47--  http://doi.org/10.1093/rof/rfw048
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw048 [following]
+--2017-02-03 14:07:50--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw048
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 475490 (464K) [text/html]
+Saving to: ‘rfw048’
+
+     0K .......... .......... .......... .......... .......... 10%  309K 1s
+    50K .......... .......... .......... .......... .......... 21%  307K 1s
+   100K .......... .......... .......... .......... .......... 32%  612K 1s
+   150K .......... .......... .......... .......... .......... 43%  603K 1s
+   200K .......... .......... .......... .......... .......... 53%  324K 1s
+   250K .......... .......... .......... .......... .......... 64%  577K 0s
+   300K .......... .......... .......... .......... .......... 75%  318K 0s
+   350K .......... .......... .......... .......... .......... 86%  604K 0s
+   400K .......... .......... .......... .......... .......... 96%  605K 0s
+   450K .......... ....                                       100%  182K=1.1s
+
+2017-02-03 14:08:06 (410 KB/s) - ‘rfw048’ saved [475490/475490]
+
+--2017-02-03 14:08:07--  http://doi.org/10.1093/rof/rfw044
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw044 [following]
+--2017-02-03 14:08:08--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw044
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 520605 (508K) [text/html]
+Saving to: ‘rfw044’
+
+     0K .......... .......... .......... .......... ..........  9%  307K 1s
+    50K .......... .......... .......... .......... .......... 19%  313K 1s
+   100K .......... .......... .......... .......... .......... 29%  614K 1s
+   150K .......... .......... .......... .......... .......... 39%  313K 1s
+   200K .......... .......... .......... .......... .......... 49%  603K 1s
+   250K .......... .......... .......... .......... .......... 59%  609K 1s
+   300K .......... .......... .......... .......... .......... 68%  313K 0s
+   350K .......... .......... .......... .......... .......... 78%  590K 0s
+   400K .......... .......... .......... .......... .......... 88%  609K 0s
+   450K .......... .......... .......... .......... .......... 98%  605K 0s
+   500K ........                                              100% 18.9M=1.1s
+
+2017-02-03 14:08:42 (447 KB/s) - ‘rfw044’ saved [520605/520605]
+
+--2017-02-03 14:08:43--  http://doi.org/10.1093/rof/rfw050
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw050 [following]
+--2017-02-03 14:08:45--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw050
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 373132 (364K) [text/html]
+Saving to: ‘rfw050’
+
+     0K .......... .......... .......... .......... .......... 13%  208K 2s
+    50K .......... .......... .......... .......... .......... 27%  603K 1s
+   100K .......... .......... .......... .......... .......... 41%  602K 1s
+   150K .......... .......... .......... .......... .......... 54%  318K 0s
+   200K .......... .......... .......... .......... .......... 68%  597K 0s
+   250K .......... .......... .......... .......... .......... 82%  584K 0s
+   300K .......... .......... .......... .......... .......... 96%  611K 0s
+   350K .......... ....                                       100%  194K=0.9s
+
+2017-02-03 14:08:58 (410 KB/s) - ‘rfw050’ saved [373132/373132]
+
+--2017-02-03 14:08:59--  http://doi.org/10.1093/rof/rfw049
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw049 [following]
+--2017-02-03 14:09:04--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw049
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 396571 (387K) [text/html]
+Saving to: ‘rfw049’
+
+     0K .......... .......... .......... .......... .......... 12%  209K 2s
+    50K .......... .......... .......... .......... .......... 25%  611K 1s
+   100K .......... .......... .......... .......... .......... 38%  585K 1s
+   150K .......... .......... .......... .......... .......... 51%  587K 0s
+   200K .......... .......... .......... .......... .......... 64%  326K 0s
+   250K .......... .......... .......... .......... .......... 77%  610K 0s
+   300K .......... .......... .......... .......... .......... 90%  554K 0s
+   350K .......... .......... .......... .......              100%  458K=0.9s
+
+2017-02-03 14:09:14 (431 KB/s) - ‘rfw049’ saved [396571/396571]
+
+--2017-02-03 14:09:15--  http://doi.org/10.1093/rof/rfw047
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw047 [following]
+--2017-02-03 14:09:18--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw047
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 412288 (403K) [text/html]
+Saving to: ‘rfw047’
+
+     0K .......... .......... .......... .......... .......... 12%  208K 2s
+    50K .......... .......... .......... .......... .......... 24%  602K 1s
+   100K .......... .......... .......... .......... .......... 37%  600K 1s
+   150K .......... .......... .......... .......... .......... 49%  611K 0s
+   200K .......... .......... .......... .......... .......... 62%  308K 0s
+   250K .......... .......... .......... .......... .......... 74%  597K 0s
+   300K .......... .......... .......... .......... .......... 86%  602K 0s
+   350K .......... .......... .......... .......... .......... 99%  309K 0s
+   400K ..                                                    100% 5007G=1.0s
+
+2017-02-03 14:09:31 (411 KB/s) - ‘rfw047’ saved [412288/412288]
+
+--2017-02-03 14:09:32--  http://doi.org/10.1093/rof/rfw045
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw045 [following]
+--2017-02-03 14:09:33--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw045
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 574959 (561K) [text/html]
+Saving to: ‘rfw045’
+
+     0K .......... .......... .......... .......... ..........  8%  309K 2s
+    50K .......... .......... .......... .......... .......... 17%  314K 1s
+   100K .......... .......... .......... .......... .......... 26%  600K 1s
+   150K .......... .......... .......... .......... .......... 35%  591K 1s
+   200K .......... .......... .......... .......... .......... 44%  319K 1s
+   250K .......... .......... .......... .......... .......... 53%  599K 1s
+   300K .......... .......... .......... .......... .......... 62%  321K 1s
+   350K .......... .......... .......... .......... .......... 71%  586K 0s
+   400K .......... .......... .......... .......... .......... 80%  606K 0s
+   450K .......... .......... .......... .......... .......... 89%  611K 0s
+   500K .......... .......... .......... .......... .......... 97%  602K 0s
+   550K .......... .                                          100%  148K=1.3s
+
+2017-02-03 14:09:53 (434 KB/s) - ‘rfw045’ saved [574959/574959]
+
+--2017-02-03 14:09:54--  http://doi.org/10.1093/rof/rfw043
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw043 [following]
+--2017-02-03 14:09:56--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw043
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 434784 (425K) [text/html]
+Saving to: ‘rfw043’
+
+     0K .......... .......... .......... .......... .......... 11%  308K 1s
+    50K .......... .......... .......... .......... .......... 23%  313K 1s
+   100K .......... .......... .......... .......... .......... 35%  598K 1s
+   150K .......... .......... .......... .......... .......... 47%  607K 1s
+   200K .......... .......... .......... .......... .......... 58%  314K 0s
+   250K .......... .......... .......... .......... .......... 70%  592K 0s
+   300K .......... .......... .......... .......... .......... 82%  612K 0s
+   350K .......... .......... .......... .......... .......... 94%  604K 0s
+   400K .......... .......... ....                            100%  307K=1.0s
+
+2017-02-03 14:10:12 (435 KB/s) - ‘rfw043’ saved [434784/434784]
+
+--2017-02-03 14:10:13--  http://doi.org/10.1093/rof/rfw039
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw039 [following]
+--2017-02-03 14:10:15--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw039
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 349409 (341K) [text/html]
+Saving to: ‘rfw039’
+
+     0K .......... .......... .......... .......... .......... 14%  209K 1s
+    50K .......... .......... .......... .......... .......... 29%  604K 1s
+   100K .......... .......... .......... .......... .......... 43%  611K 1s
+   150K .......... .......... .......... .......... .......... 58%  600K 0s
+   200K .......... .......... .......... .......... .......... 73%  312K 0s
+   250K .......... .......... .......... .......... .......... 87%  602K 0s
+   300K .......... .......... .......... .......... .         100%  513K=0.8s
+
+2017-02-03 14:10:31 (421 KB/s) - ‘rfw039’ saved [349409/349409]
+
+--2017-02-03 14:10:32--  http://doi.org/10.1093/rof/rfw042
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw042 [following]
+--2017-02-03 14:10:34--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw042
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 544405 (532K) [text/html]
+Saving to: ‘rfw042’
+
+     0K .......... .......... .......... .......... ..........  9%  209K 2s
+    50K .......... .......... .......... .......... .......... 18%  604K 1s
+   100K .......... .......... .......... .......... .......... 28%  613K 1s
+   150K .......... .......... .......... .......... .......... 37%  600K 1s
+   200K .......... .......... .......... .......... .......... 47%  315K 1s
+   250K .......... .......... .......... .......... .......... 56%  606K 1s
+   300K .......... .......... .......... .......... .......... 65%  603K 0s
+   350K .......... .......... .......... .......... .......... 75%  312K 0s
+   400K .......... .......... .......... .......... .......... 84%  608K 0s
+   450K .......... .......... .......... .......... .......... 94%  416K 0s
+   500K .......... .......... .......... .                    100%  756K=1.2s
+
+2017-02-03 14:10:52 (437 KB/s) - ‘rfw042’ saved [544405/544405]
+
+--2017-02-03 14:10:53--  http://doi.org/10.1093/rof/rfw038
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw038 [following]
+--2017-02-03 14:10:54--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw038
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 307407 (300K) [text/html]
+Saving to: ‘rfw038’
+
+     0K .......... .......... .......... .......... .......... 16%  209K 1s
+    50K .......... .......... .......... .......... .......... 33%  530K 1s
+   100K .......... .......... .......... .......... .......... 49%  714K 0s
+   150K .......... .......... .......... .......... .......... 66%  408K 0s
+   200K .......... .......... .......... .......... .......... 83%  418K 0s
+   250K .......... .......... .......... .......... .......... 99%  608K 0s
+   300K                                                       100%  386G=0.7s
+
+2017-02-03 14:11:09 (412 KB/s) - ‘rfw038’ saved [307407/307407]
+
+--2017-02-03 14:11:10--  http://doi.org/10.1093/rof/rfw041
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw041 [following]
+--2017-02-03 14:11:11--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw041
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 391742 (383K) [text/html]
+Saving to: ‘rfw041’
+
+     0K .......... .......... .......... .......... .......... 13%  309K 1s
+    50K .......... .......... .......... .......... .......... 26%  312K 1s
+   100K .......... .......... .......... .......... .......... 39%  606K 1s
+   150K .......... .......... .......... .......... .......... 52%  605K 0s
+   200K .......... .......... .......... .......... .......... 65%  312K 0s
+   250K .......... .......... .......... .......... .......... 78%  608K 0s
+   300K .......... .......... .......... .......... .......... 91%  574K 0s
+   350K .......... .......... .......... ..                   100%  406K=0.9s
+
+2017-02-03 14:11:23 (426 KB/s) - ‘rfw041’ saved [391742/391742]
+
+--2017-02-03 14:11:24--  http://doi.org/10.1093/rof/rfw040
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw040 [following]
+--2017-02-03 14:11:26--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw040
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 467785 (457K) [text/html]
+Saving to: ‘rfw040’
+
+     0K .......... .......... .......... .......... .......... 10%  208K 2s
+    50K .......... .......... .......... .......... .......... 21%  592K 1s
+   100K .......... .......... .......... .......... .......... 32%  611K 1s
+   150K .......... .......... .......... .......... .......... 43%  602K 1s
+   200K .......... .......... .......... .......... .......... 54%  315K 1s
+   250K .......... .......... .......... .......... .......... 65%  586K 0s
+   300K .......... .......... .......... .......... .......... 76%  612K 0s
+   350K .......... .......... .......... .......... .......... 87%  314K 0s
+   400K .......... .......... .......... .......... .......... 98%  596K 0s
+   450K ......                                                100% 12.5M=1.1s
+
+2017-02-03 14:11:36 (431 KB/s) - ‘rfw040’ saved [467785/467785]
+
+--2017-02-03 14:11:37--  http://doi.org/10.1093/rof/rfw037
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw037 [following]
+--2017-02-03 14:11:39--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw037
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 439638 (429K) [text/html]
+Saving to: ‘rfw037’
+
+     0K .......... .......... .......... .......... .......... 11%  308K 1s
+    50K .......... .......... .......... .......... .......... 23%  311K 1s
+   100K .......... .......... .......... .......... .......... 34%  612K 1s
+   150K .......... .......... .......... .......... .......... 46%  315K 1s
+   200K .......... .......... .......... .......... .......... 58%  594K 0s
+   250K .......... .......... .......... .......... .......... 69%  610K 0s
+   300K .......... .......... .......... .......... .......... 81%  315K 0s
+   350K .......... .......... .......... .......... .......... 93%  603K 0s
+   400K .......... .......... .........                       100%  769K=1.0s
+
+2017-02-03 14:11:49 (425 KB/s) - ‘rfw037’ saved [439638/439638]
+
+--2017-02-03 14:11:50--  http://doi.org/10.1093/rof/rfw036
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw036 [following]
+--2017-02-03 14:11:52--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw036
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 479772 (469K) [text/html]
+Saving to: ‘rfw036’
+
+     0K .......... .......... .......... .......... .......... 10%  209K 2s
+    50K .......... .......... .......... .......... .......... 21%  599K 1s
+   100K .......... .......... .......... .......... .......... 32%  605K 1s
+   150K .......... .......... .......... .......... .......... 42%  318K 1s
+   200K .......... .......... .......... .......... .......... 53%  594K 1s
+   250K .......... .......... .......... .......... .......... 64%  609K 0s
+   300K .......... .......... .......... .......... .......... 74%  316K 0s
+   350K .......... .......... .......... .......... .......... 85%  590K 0s
+   400K .......... .......... .......... .......... .......... 96%  603K 0s
+   450K .......... ........                                   100% 23.0M=1.1s
+
+2017-02-03 14:12:06 (444 KB/s) - ‘rfw036’ saved [479772/479772]
+
+--2017-02-03 14:12:07--  http://doi.org/10.1093/rof/rfw035
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw035 [following]
+--2017-02-03 14:12:09--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw035
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 14:12:09 ERROR 400: Bad Request.
+
+--2017-02-03 14:12:10--  http://doi.org/10.1093/rof/rfw034
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw034 [following]
+--2017-02-03 14:12:12--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw034
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 458329 (448K) [text/html]
+Saving to: ‘rfw034’
+
+     0K .......... .......... .......... .......... .......... 11%  208K 2s
+    50K .......... .......... .......... .......... .......... 22%  558K 1s
+   100K .......... .......... .......... .......... .......... 33%  463K 1s
+   150K .......... .......... .......... .......... .......... 44%  418K 1s
+   200K .......... .......... .......... .......... .......... 55%  409K 1s
+   250K .......... .......... .......... .......... .......... 67%  607K 0s
+   300K .......... .......... .......... .......... .......... 78%  411K 0s
+   350K .......... .......... .......... .......... .......... 89%  414K 0s
+   400K .......... .......... .......... .......... .......   100%  581K=1.1s
+
+2017-02-03 14:12:26 (412 KB/s) - ‘rfw034’ saved [458329/458329]
+
+--2017-02-03 14:12:27--  http://doi.org/10.1093/rof/rfw033
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw033 [following]
+--2017-02-03 14:12:28--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw033
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 490480 (479K) [text/html]
+Saving to: ‘rfw033’
+
+     0K .......... .......... .......... .......... .......... 10%  231K 2s
+    50K .......... .......... .......... .......... .......... 20%  235K 2s
+   100K .......... .......... .......... .......... .......... 31%  466K 1s
+   150K .......... .......... .......... .......... .......... 41%  239K 1s
+   200K .......... .......... .......... .......... .......... 52%  439K 1s
+   250K .......... .......... .......... .......... .......... 62%  437K 1s
+   300K .......... .......... .......... .......... .......... 73%  243K 0s
+   350K .......... .......... .......... .......... .......... 83%  423K 0s
+   400K .......... .......... .......... .......... .......... 93%  456K 0s
+   450K .......... .......... ........                        100%  277K=1.5s
+
+2017-02-03 14:12:49 (317 KB/s) - ‘rfw033’ saved [490480/490480]
+
+--2017-02-03 14:12:50--  http://doi.org/10.1093/rof/rfw030
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw030 [following]
+--2017-02-03 14:12:53--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw030
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 512023 (500K) [text/html]
+Saving to: ‘rfw030’
+
+     0K .......... .......... .......... .......... ..........  9%  208K 2s
+    50K .......... .......... .......... .......... .......... 19%  613K 1s
+   100K .......... .......... .......... .......... .......... 29%  602K 1s
+   150K .......... .......... .......... .......... .......... 39%  602K 1s
+   200K .......... .......... .......... .......... .......... 49%  314K 1s
+   250K .......... .......... .......... .......... .......... 59%  600K 0s
+   300K .......... .......... .......... .......... .......... 69%  587K 0s
+   350K .......... .......... .......... .......... .......... 79%  601K 0s
+   400K .......... .......... .......... .......... .......... 89%  605K 0s
+   450K .......... .......... .......... .......... .......... 99%  314K 0s
+   500K                                                       100% 42.8G=1.1s
+
+2017-02-03 14:13:18 (438 KB/s) - ‘rfw030’ saved [512023/512023]
+
+--2017-02-03 14:13:19--  http://doi.org/10.1093/rof/rfw031
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw031 [following]
+--2017-02-03 14:13:21--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw031
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 500346 (489K) [text/html]
+Saving to: ‘rfw031’
+
+     0K .......... .......... .......... .......... .......... 10%  208K 2s
+    50K .......... .......... .......... .......... .......... 20%  601K 1s
+   100K .......... .......... .......... .......... .......... 30%  609K 1s
+   150K .......... .......... .......... .......... .......... 40%  601K 1s
+   200K .......... .......... .......... .......... .......... 51%  312K 1s
+   250K .......... .......... .......... .......... .......... 61%  609K 0s
+   300K .......... .......... .......... .......... .......... 71%  599K 0s
+   350K .......... .......... .......... .......... .......... 81%  315K 0s
+   400K .......... .......... .......... .......... .......... 92%  590K 0s
+   450K .......... .......... .......... ........             100%  472K=1.1s
+
+2017-02-03 14:13:31 (429 KB/s) - ‘rfw031’ saved [500346/500346]
+
+--2017-02-03 14:13:32--  http://doi.org/10.1093/rof/rfw029
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw029 [following]
+--2017-02-03 14:13:33--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw029
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 14:13:34 ERROR 400: Bad Request.
+
+--2017-02-03 14:13:35--  http://doi.org/10.1093/rof/rfw032
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw032 [following]
+--2017-02-03 14:13:37--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw032
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 401055 (392K) [text/html]
+Saving to: ‘rfw032’
+
+     0K .......... .......... .......... .......... .......... 12%  208K 2s
+    50K .......... .......... .......... .......... .......... 25%  605K 1s
+   100K .......... .......... .......... .......... .......... 38%  605K 1s
+   150K .......... .......... .......... .......... .......... 51%  429K 1s
+   200K .......... .......... .......... .......... .......... 63%  401K 0s
+   250K .......... .......... .......... .......... .......... 76%  597K 0s
+   300K .......... .......... .......... .......... .......... 89%  611K 0s
+   350K .......... .......... .......... .......... .         100%  514K=0.9s
+
+2017-02-03 14:13:47 (438 KB/s) - ‘rfw032’ saved [401055/401055]
+
+--2017-02-03 14:13:48--  http://doi.org/10.1093/rof/rfw028
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw028 [following]
+--2017-02-03 14:13:49--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw028
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 401521 (392K) [text/html]
+Saving to: ‘rfw028’
+
+     0K .......... .......... .......... .......... .......... 12%  209K 2s
+    50K .......... .......... .......... .......... .......... 25%  602K 1s
+   100K .......... .......... .......... .......... .......... 38%  613K 1s
+   150K .......... .......... .......... .......... .......... 51%  593K 0s
+   200K .......... .......... .......... .......... .......... 63%  319K 0s
+   250K .......... .......... .......... .......... .......... 76%  592K 0s
+   300K .......... .......... .......... .......... .......... 89%  603K 0s
+   350K .......... .......... .......... .......... ..        100%  520K=0.9s
+
+2017-02-03 14:13:57 (439 KB/s) - ‘rfw028’ saved [401521/401521]
+
+--2017-02-03 14:13:58--  http://doi.org/10.1093/rof/rfw026
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw026 [following]
+--2017-02-03 14:13:59--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw026
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 705031 (689K) [text/html]
+Saving to: ‘rfw026’
+
+     0K .......... .......... .......... .......... ..........  7%  207K 3s
+    50K .......... .......... .......... .......... .......... 14% 60.5K 6s
+   100K .......... .......... .......... .......... .......... 21%  310K 4s
+   150K .......... .......... .......... .......... .......... 29%  313K 3s
+   200K .......... .......... .......... .......... .......... 36%  600K 3s
+   250K .......... .......... .......... .......... .......... 43%  597K 2s
+   300K .......... .......... .......... .......... .......... 50%  316K 2s
+   350K .......... .......... .......... .......... .......... 58%  586K 1s
+   400K .......... .......... .......... .......... .......... 65%  604K 1s
+   450K .......... .......... .......... .......... .......... 72%  321K 1s
+   500K .......... .......... .......... .......... .......... 79%  582K 1s
+   550K .......... .......... .......... .......... .......... 87%  598K 0s
+   600K .......... .......... .......... .......... .......... 94%  602K 0s
+   650K .......... .......... .......... ........             100%  476K=2.4s
+
+2017-02-03 14:14:09 (290 KB/s) - ‘rfw026’ saved [705031/705031]
+
+--2017-02-03 14:14:10--  http://doi.org/10.1093/rof/rfw017
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw017 [following]
+--2017-02-03 14:14:12--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 567703 (554K) [text/html]
+Saving to: ‘rfw017’
+
+     0K .......... .......... .......... .......... ..........  9%  208K 2s
+    50K .......... .......... .......... .......... .......... 18%  571K 1s
+   100K .......... .......... .......... .......... .......... 27%  597K 1s
+   150K .......... .......... .......... .......... .......... 36%  605K 1s
+   200K .......... .......... .......... .......... .......... 45%  314K 1s
+   250K .......... .......... .......... .......... .......... 54%  596K 1s
+   300K .......... .......... .......... .......... .......... 63%  603K 0s
+   350K .......... .......... .......... .......... .......... 72%  308K 0s
+   400K .......... .......... .......... .......... .......... 81%  601K 0s
+   450K .......... .......... .......... .......... .......... 90%  587K 0s
+   500K .......... .......... .......... .......... .......... 99%  603K 0s
+   550K ....                                                  100% 8387G=1.2s
+
+2017-02-03 14:14:22 (449 KB/s) - ‘rfw017’ saved [567703/567703]
+
+--2017-02-03 14:14:23--  http://doi.org/10.1093/rof/rfw022
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw022 [following]
+--2017-02-03 14:14:25--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw022
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 615331 (601K) [text/html]
+Saving to: ‘rfw022’
+
+     0K .......... .......... .......... .......... ..........  8%  209K 3s
+    50K .......... .......... .......... .......... .......... 16%  587K 2s
+   100K .......... .......... .......... .......... .......... 24%  611K 1s
+   150K .......... .......... .......... .......... .......... 33%  596K 1s
+   200K .......... .......... .......... .......... .......... 41%  317K 1s
+   250K .......... .......... .......... .......... .......... 49%  563K 1s
+   300K .......... .......... .......... .......... .......... 58%  597K 1s
+   350K .......... .......... .......... .......... .......... 66%  322K 0s
+   400K .......... .......... .......... .......... .......... 74%  572K 0s
+   450K .......... .......... .......... .......... .......... 83%  609K 0s
+   500K .......... .......... .......... .......... .......... 91%  319K 0s
+   550K .......... .......... .......... .......... .......... 99%  602K 0s
+   600K                                                       100% 1734G=1.4s
+
+2017-02-03 14:14:44 (434 KB/s) - ‘rfw022’ saved [615331/615331]
+
+--2017-02-03 14:14:45--  http://doi.org/10.1093/rof/rfw027
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw027 [following]
+--2017-02-03 14:14:47--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw027
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 264683 (258K) [text/html]
+Saving to: ‘rfw027’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 38%  601K 1s
+   100K .......... .......... .......... .......... .......... 58%  614K 0s
+   150K .......... .......... .......... .......... .......... 77%  608K 0s
+   200K .......... .......... .......... .......... .......... 96%  307K 0s
+   250K ........                                              100% 34.0M=0.6s
+
+2017-02-03 14:14:55 (398 KB/s) - ‘rfw027’ saved [264683/264683]
+
+--2017-02-03 14:14:56--  http://doi.org/10.1093/rof/rfw019
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw019 [following]
+--2017-02-03 14:14:57--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 728063 (711K) [text/html]
+Saving to: ‘rfw019’
+
+     0K .......... .......... .......... .......... ..........  7%  209K 3s
+    50K .......... .......... .......... .......... .......... 14%  598K 2s
+   100K .......... .......... .......... .......... .......... 21%  600K 2s
+   150K .......... .......... .......... .......... .......... 28%  601K 1s
+   200K .......... .......... .......... .......... .......... 35%  314K 1s
+   250K .......... .......... .......... .......... .......... 42%  597K 1s
+   300K .......... .......... .......... .......... .......... 49%  608K 1s
+   350K .......... .......... .......... .......... .......... 56%  328K 1s
+   400K .......... .......... .......... .......... .......... 63%  527K 1s
+   450K .......... .......... .......... .......... .......... 70%  594K 0s
+   500K .......... .......... .......... .......... .......... 77%  600K 0s
+   550K .......... .......... .......... .......... .......... 84%  403K 0s
+   600K .......... .......... .......... .......... .......... 91%  612K 0s
+   650K .......... .......... .......... .......... .......... 98%  413K 0s
+   700K ..........                                            100% 7.07M=1.6s
+
+2017-02-03 14:15:18 (456 KB/s) - ‘rfw019’ saved [728063/728063]
+
+--2017-02-03 14:15:19--  http://doi.org/10.1093/rof/rfw024
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw024 [following]
+--2017-02-03 14:15:22--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw024
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 519037 (507K) [text/html]
+Saving to: ‘rfw024’
+
+     0K .......... .......... .......... .......... ..........  9%  207K 2s
+    50K .......... .......... .......... .......... .......... 19%  595K 1s
+   100K .......... .......... .......... .......... .......... 29%  600K 1s
+   150K .......... .......... .......... .......... .......... 39%  575K 1s
+   200K .......... .......... .......... .......... .......... 49%  320K 1s
+   250K .......... .......... .......... .......... .......... 59%  604K 1s
+   300K .......... .......... .......... .......... .......... 69%  560K 0s
+   350K .......... .......... .......... .......... .......... 78%  318K 0s
+   400K .......... .......... .......... .......... .......... 88%  448K 0s
+   450K .......... .......... .......... .......... .......... 98%  608K 0s
+   500K ......                                                100% 19.6M=1.2s
+
+2017-02-03 14:15:37 (431 KB/s) - ‘rfw024’ saved [519037/519037]
+
+--2017-02-03 14:15:38--  http://doi.org/10.1093/rof/rfw020
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw020 [following]
+--2017-02-03 14:15:43--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw020
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 404039 (395K) [text/html]
+Saving to: ‘rfw020’
+
+     0K .......... .......... .......... .......... .......... 12%  209K 2s
+    50K .......... .......... .......... .......... .......... 25%  609K 1s
+   100K .......... .......... .......... .......... .......... 38%  606K 1s
+   150K .......... .......... .......... .......... .......... 50%  605K 0s
+   200K .......... .......... .......... .......... .......... 63%  311K 0s
+   250K .......... .......... .......... .......... .......... 76%  612K 0s
+   300K .......... .......... .......... .......... .......... 88%  607K 0s
+   350K .......... .......... .......... .......... ....      100%  530K=0.9s
+
+2017-02-03 14:15:57 (441 KB/s) - ‘rfw020’ saved [404039/404039]
+
+--2017-02-03 14:15:58--  http://doi.org/10.1093/rof/rfw025
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw025 [following]
+--2017-02-03 14:15:59--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw025
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 467602 (457K) [text/html]
+Saving to: ‘rfw025’
+
+     0K .......... .......... .......... .......... .......... 10%  209K 2s
+    50K .......... .......... .......... .......... .......... 21%  612K 1s
+   100K .......... .......... .......... .......... .......... 32%  604K 1s
+   150K .......... .......... .......... .......... .......... 43%  317K 1s
+   200K .......... .......... .......... .......... .......... 54%  585K 1s
+   250K .......... .......... .......... .......... .......... 65%  609K 0s
+   300K .......... .......... .......... .......... .......... 76%  595K 0s
+   350K .......... .......... .......... .......... .......... 87%  314K 0s
+   400K .......... .......... .......... .......... .......... 98%  607K 0s
+   450K ......                                                100% 21.3M=1.1s
+
+2017-02-03 14:16:10 (433 KB/s) - ‘rfw025’ saved [467602/467602]
+
+--2017-02-03 14:16:11--  http://doi.org/10.1093/rof/rfw023
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw023 [following]
+--2017-02-03 14:16:12--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 535304 (523K) [text/html]
+Saving to: ‘rfw023’
+
+     0K .......... .......... .......... .......... ..........  9%  209K 2s
+    50K .......... .......... .......... .......... .......... 19%  603K 1s
+   100K .......... .......... .......... .......... .......... 28%  607K 1s
+   150K .......... .......... .......... .......... .......... 38%  412K 1s
+   200K .......... .......... .......... .......... .......... 47%  416K 1s
+   250K .......... .......... .......... .......... .......... 57%  594K 1s
+   300K .......... .......... .......... .......... .......... 66%  603K 0s
+   350K .......... .......... .......... .......... .......... 76%  314K 0s
+   400K .......... .......... .......... .......... .......... 86%  600K 0s
+   450K .......... .......... .......... .......... .......... 95%  608K 0s
+   500K .......... .......... ..                              100%  289K=1.2s
+
+2017-02-03 14:16:22 (430 KB/s) - ‘rfw023’ saved [535304/535304]
+
+--2017-02-03 14:16:23--  http://doi.org/10.1093/rof/rfw021
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw021 [following]
+--2017-02-03 14:16:25--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 351139 (343K) [text/html]
+Saving to: ‘rfw021’
+
+     0K .......... .......... .......... .......... .......... 14%  209K 1s
+    50K .......... .......... .......... .......... .......... 29%  607K 1s
+   100K .......... .......... .......... .......... .......... 43%  608K 1s
+   150K .......... .......... .......... .......... .......... 58%  604K 0s
+   200K .......... .......... .......... .......... .......... 72%  312K 0s
+   250K .......... .......... .......... .......... .......... 87%  612K 0s
+   300K .......... .......... .......... .......... ..        100%  521K=0.8s
+
+2017-02-03 14:16:45 (423 KB/s) - ‘rfw021’ saved [351139/351139]
+
+--2017-02-03 14:16:46--  http://doi.org/10.1093/rof/rfw018
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw018 [following]
+--2017-02-03 14:16:49--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw018
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 14:16:50 ERROR 400: Bad Request.
+
+--2017-02-03 14:16:51--  http://doi.org/10.1093/rof/rfw014
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw014 [following]
+--2017-02-03 14:16:53--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw014
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 352319 (344K) [text/html]
+Saving to: ‘rfw014’
+
+     0K .......... .......... .......... .......... .......... 14%  209K 1s
+    50K .......... .......... .......... .......... .......... 29%  599K 1s
+   100K .......... .......... .......... .......... .......... 43%  611K 1s
+   150K .......... .......... .......... .......... .......... 58%  423K 0s
+   200K .......... .......... .......... .......... .......... 72%  101K 0s
+   250K .......... .......... .......... .......... .......... 87%  598K 0s
+   300K .......... .......... .......... .......... ....      100%  538K=1.2s
+
+2017-02-03 14:17:04 (291 KB/s) - ‘rfw014’ saved [352319/352319]
+
+--2017-02-03 14:17:05--  http://doi.org/10.1093/rof/rfw016
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw016 [following]
+--2017-02-03 14:17:07--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw016
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 14:17:07 ERROR 400: Bad Request.
+
+--2017-02-03 14:17:08--  http://doi.org/10.1093/rof/rfw013
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw013 [following]
+--2017-02-03 14:17:10--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 458877 (448K) [text/html]
+Saving to: ‘rfw013’
+
+     0K .......... .......... .......... .......... .......... 11%  324K 1s
+    50K .......... .......... .......... .......... .......... 22%  611K 1s
+   100K .......... .......... .......... .......... .......... 33%  607K 1s
+   150K .......... .......... .......... .......... .......... 44%  584K 1s
+   200K .......... .......... .......... .......... .......... 55%  320K 0s
+   250K .......... .......... .......... .......... .......... 66%  602K 0s
+   300K .......... .......... .......... .......... .......... 78%  316K 0s
+   350K .......... .......... .......... .......... .......... 89%  609K 0s
+   400K .......... .......... .......... .......... ........  100%  576K=1.0s
+
+2017-02-03 14:17:21 (463 KB/s) - ‘rfw013’ saved [458877/458877]
+
+--2017-02-03 14:17:22--  http://doi.org/10.1093/rof/rfw005
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw005 [following]
+--2017-02-03 14:17:26--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 538911 (526K) [text/html]
+Saving to: ‘rfw005’
+
+     0K .......... .......... .......... .......... ..........  9%  209K 2s
+    50K .......... .......... .......... .......... .......... 19%  606K 1s
+   100K .......... .......... .......... .......... .......... 28%  602K 1s
+   150K .......... .......... .......... .......... .......... 38%  604K 1s
+   200K .......... .......... .......... .......... .......... 47%  313K 1s
+   250K .......... .......... .......... .......... .......... 57%  593K 1s
+   300K .......... .......... .......... .......... .......... 66%  606K 0s
+   350K .......... .......... .......... .......... .......... 76%  608K 0s
+   400K .......... .......... .......... .......... .......... 85%  315K 0s
+   450K .......... .......... .......... .......... .......... 95%  608K 0s
+   500K .......... .......... ......                          100%  330K=1.2s
+
+2017-02-03 14:17:46 (432 KB/s) - ‘rfw005’ saved [538911/538911]
+
+--2017-02-03 14:17:47--  http://doi.org/10.1093/rof/rfw007
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw007 [following]
+--2017-02-03 14:17:50--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 383465 (374K) [text/html]
+Saving to: ‘rfw007’
+
+     0K .......... .......... .......... .......... .......... 13%  209K 2s
+    50K .......... .......... .......... .......... .......... 26%  611K 1s
+   100K .......... .......... .......... .......... .......... 40%  592K 1s
+   150K .......... .......... .......... .......... .......... 53%  607K 0s
+   200K .......... .......... .......... .......... .......... 66%  313K 0s
+   250K .......... .......... .......... .......... .......... 80%  603K 0s
+   300K .......... .......... .......... .......... .......... 93%  607K 0s
+   350K .......... .......... ....                            100%  308K=0.9s
+
+2017-02-03 14:18:07 (420 KB/s) - ‘rfw007’ saved [383465/383465]
+
+--2017-02-03 14:18:08--  http://doi.org/10.1093/rof/rfw011
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw011 [following]
+--2017-02-03 14:18:10--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 425985 (416K) [text/html]
+Saving to: ‘rfw011’
+
+     0K .......... .......... .......... .......... .......... 12%  209K 2s
+    50K .......... .......... .......... .......... .......... 24%  609K 1s
+   100K .......... .......... .......... .......... .......... 36%  612K 1s
+   150K .......... .......... .......... .......... .......... 48%  603K 1s
+   200K .......... .......... .......... .......... .......... 60%  589K 0s
+   250K .......... .......... .......... .......... .......... 72%  316K 0s
+   300K .......... .......... .......... .......... .......... 84%  596K 0s
+   350K .......... .......... .......... .......... .......... 96%  608K 0s
+   400K .......... ......                                     100%  212K=1.0s
+
+2017-02-03 14:18:17 (428 KB/s) - ‘rfw011’ saved [425985/425985]
+
+--2017-02-03 14:18:18--  http://doi.org/10.1093/rof/rfw009
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw009 [following]
+--2017-02-03 14:18:20--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 394030 (385K) [text/html]
+Saving to: ‘rfw009’
+
+     0K .......... .......... .......... .......... .......... 12%  209K 2s
+    50K .......... .......... .......... .......... .......... 25%  596K 1s
+   100K .......... .......... .......... .......... .......... 38%  610K 1s
+   150K .......... .......... .......... .......... .......... 51%  603K 0s
+   200K .......... .......... .......... .......... .......... 64%  178K 0s
+   250K .......... .......... .......... .......... .......... 77%  603K 0s
+   300K .......... .......... .......... .......... .......... 90%  609K 0s
+   350K .......... .......... .......... ....                 100%  433K=1.0s
+
+2017-02-03 14:18:26 (379 KB/s) - ‘rfw009’ saved [394030/394030]
+
+--2017-02-03 14:18:27--  http://doi.org/10.1093/rof/rfw012
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw012 [following]
+--2017-02-03 14:18:28--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 315399 (308K) [text/html]
+Saving to: ‘rfw012’
+
+     0K .......... .......... .......... .......... .......... 16%  209K 1s
+    50K .......... .......... .......... .......... .......... 32%  609K 1s
+   100K .......... .......... .......... .......... .......... 48%  597K 0s
+   150K .......... .......... .......... .......... .......... 64%  319K 0s
+   200K .......... .......... .......... .......... .......... 81%  588K 0s
+   250K .......... .......... .......... .......... .......... 97%  598K 0s
+   300K ........                                              100% 22.8M=0.7s
+
+2017-02-03 14:18:38 (421 KB/s) - ‘rfw012’ saved [315399/315399]
+
+--2017-02-03 14:18:39--  http://doi.org/10.1093/rof/rfw006
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw006 [following]
+--2017-02-03 14:18:40--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 355951 (348K) [text/html]
+Saving to: ‘rfw006’
+
+     0K .......... .......... .......... .......... .......... 14%  208K 1s
+    50K .......... .......... .......... .......... .......... 28%  540K 1s
+   100K .......... .......... .......... .......... .......... 43%  610K 1s
+   150K .......... .......... .......... .......... .......... 57%  596K 0s
+   200K .......... .......... .......... .......... .......... 71%  599K 0s
+   250K .......... .......... .......... .......... .......... 86%  314K 0s
+   300K .......... .......... .......... .......... .......   100%  582K=0.8s
+
+2017-02-03 14:18:56 (422 KB/s) - ‘rfw006’ saved [355951/355951]
+
+--2017-02-03 14:18:57--  http://doi.org/10.1093/rof/rfw010
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw010 [following]
+--2017-02-03 14:18:59--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 14:19:00 ERROR 400: Bad Request.
+
+--2017-02-03 14:19:01--  http://doi.org/10.1093/rof/rfw008
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw008 [following]
+--2017-02-03 14:19:05--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 535489 (523K) [text/html]
+Saving to: ‘rfw008’
+
+     0K .......... .......... .......... .......... ..........  9%  208K 2s
+    50K .......... .......... .......... .......... .......... 19%  605K 1s
+   100K .......... .......... .......... .......... .......... 28%  606K 1s
+   150K .......... .......... .......... .......... .......... 38%  318K 1s
+   200K .......... .......... .......... .......... .......... 47%  594K 1s
+   250K .......... .......... .......... .......... .......... 57%  606K 1s
+   300K .......... .......... .......... .......... .......... 66%  607K 0s
+   350K .......... .......... .......... .......... .......... 76%  314K 0s
+   400K .......... .......... .......... .......... .......... 86%  597K 0s
+   450K .......... .......... .......... .......... .......... 95%  611K 0s
+   500K .......... .......... ..                              100%  294K=1.2s
+
+2017-02-03 14:19:15 (431 KB/s) - ‘rfw008’ saved [535489/535489]
+
+--2017-02-03 14:19:16--  http://doi.org/10.1093/rof/rfw002
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw002 [following]
+--2017-02-03 14:19:18--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 415059 (405K) [text/html]
+Saving to: ‘rfw002’
+
+     0K .......... .......... .......... .......... .......... 12%  209K 2s
+    50K .......... .......... .......... .......... .......... 24%  610K 1s
+   100K .......... .......... .......... .......... .......... 37%  608K 1s
+   150K .......... .......... .......... .......... .......... 49%  317K 1s
+   200K .......... .......... .......... .......... .......... 61%  409K 0s
+   250K .......... .......... .......... .......... .......... 74%  630K 0s
+   300K .......... .......... .......... .......... .......... 86%  567K 0s
+   350K .......... .......... .......... .......... .......... 98%  318K 0s
+   400K .....                                                 100% 37.3M=1.0s
+
+2017-02-03 14:19:32 (402 KB/s) - ‘rfw002’ saved [415059/415059]
+
+--2017-02-03 14:19:33--  http://doi.org/10.1093/rof/rfw001
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw001 [following]
+--2017-02-03 14:19:36--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 463583 (453K) [text/html]
+Saving to: ‘rfw001’
+
+     0K .......... .......... .......... .......... .......... 11%  209K 2s
+    50K .......... .......... .......... .......... .......... 22%  599K 1s
+   100K .......... .......... .......... .......... .......... 33%  594K 1s
+   150K .......... .......... .......... .......... .......... 44%  589K 1s
+   200K .......... .......... .......... .......... .......... 55%  317K 1s
+   250K .......... .......... .......... .......... .......... 66%  604K 0s
+   300K .......... .......... .......... .......... .......... 77%  562K 0s
+   350K .......... .......... .......... .......... .......... 88%  580K 0s
+   400K .......... .......... .......... .......... .......... 99%  335K 0s
+   450K ..                                                    100% 48.7M=1.1s
+
+2017-02-03 14:20:01 (428 KB/s) - ‘rfw001’ saved [463583/463583]
+
+--2017-02-03 14:20:02--  http://doi.org/10.1093/rof/rfw003
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw003 [following]
+--2017-02-03 14:20:04--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 562323 (549K) [text/html]
+Saving to: ‘rfw003’
+
+     0K .......... .......... .......... .......... ..........  9%  209K 2s
+    50K .......... .......... .......... .......... .......... 18%  608K 1s
+   100K .......... .......... .......... .......... .......... 27%  603K 1s
+   150K .......... .......... .......... .......... .......... 36%  608K 1s
+   200K .......... .......... .......... .......... .......... 45%  313K 1s
+   250K .......... .......... .......... .......... .......... 54%  601K 1s
+   300K .......... .......... .......... .......... .......... 63%  614K 0s
+   350K .......... .......... .......... .......... .......... 72%  314K 0s
+   400K .......... .......... .......... .......... .......... 81%  602K 0s
+   450K .......... .......... .......... .......... .......... 91%  591K 0s
+   500K .......... .......... .......... .......... ......... 100%  572K=1.2s
+
+2017-02-03 14:20:19 (449 KB/s) - ‘rfw003’ saved [562323/562323]
+
+--2017-02-03 14:20:20--  http://doi.org/10.1093/rof/rfv062
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfv062 [following]
+--2017-02-03 14:20:21--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfv062
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 14:20:22 ERROR 400: Bad Request.
+
+--2017-02-03 14:20:23--  http://doi.org/10.1093/rof/rfv065
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfv065 [following]
+--2017-02-03 14:20:24--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfv065
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 410821 (401K) [text/html]
+Saving to: ‘rfv065’
+
+     0K .......... .......... .......... .......... .......... 12%  208K 2s
+    50K .......... .......... .......... .......... .......... 24%  599K 1s
+   100K .......... .......... .......... .......... .......... 37%  609K 1s
+   150K .......... .......... .......... .......... .......... 49%  611K 0s
+   200K .......... .......... .......... .......... .......... 62%  318K 0s
+   250K .......... .......... .......... .......... .......... 74%  566K 0s
+   300K .......... .......... .......... .......... .......... 87%  604K 0s
+   350K .......... .......... .......... .......... .......... 99%  327K 0s
+   400K .                                                     100% 2274G=1.0s
+
+2017-02-03 14:20:40 (414 KB/s) - ‘rfv065’ saved [410821/410821]
+
+--2017-02-03 14:20:41--  http://doi.org/10.1093/rof/rfw004
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw004 [following]
+--2017-02-03 14:20:44--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfw004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 356428 (348K) [text/html]
+Saving to: ‘rfw004’
+
+     0K .......... .......... .......... .......... .......... 14%  209K 1s
+    50K .......... .......... .......... .......... .......... 28%  600K 1s
+   100K .......... .......... .......... .......... .......... 43%  607K 1s
+   150K .......... .......... .......... .......... .......... 57%  424K 0s
+   200K .......... .......... .......... .......... .......... 71%  407K 0s
+   250K .......... .......... .......... .......... .......... 86%  610K 0s
+   300K .......... .......... .......... .......... ........  100%  591K=0.8s
+
+2017-02-03 14:20:56 (430 KB/s) - ‘rfw004’ saved [356428/356428]
+
+--2017-02-03 14:20:57--  http://doi.org/10.1093/rof/rfv064
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfv064 [following]
+--2017-02-03 14:20:59--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfv064
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 433180 (423K) [text/html]
+Saving to: ‘rfv064’
+
+     0K .......... .......... .......... .......... .......... 11%  209K 2s
+    50K .......... .......... .......... .......... .......... 23%  605K 1s
+   100K .......... .......... .......... .......... .......... 35%  600K 1s
+   150K .......... .......... .......... .......... .......... 47%  612K 1s
+   200K .......... .......... .......... .......... .......... 59%  309K 0s
+   250K .......... .......... .......... .......... .......... 70%  609K 0s
+   300K .......... .......... .......... .......... .......... 82%  605K 0s
+   350K .......... .......... .......... .......... .......... 94%  311K 0s
+   400K .......... .......... ...                             100% 14.5M=1.0s
+
+2017-02-03 14:21:20 (433 KB/s) - ‘rfv064’ saved [433180/433180]
+
+--2017-02-03 14:21:21--  http://doi.org/10.1093/rof/rfv068
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfv068 [following]
+--2017-02-03 14:21:24--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfv068
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 323570 (316K) [text/html]
+Saving to: ‘rfv068’
+
+     0K .......... .......... .......... .......... .......... 15%  308K 1s
+    50K .......... .......... .......... .......... .......... 31%  313K 1s
+   100K .......... .......... .......... .......... .......... 47%  592K 0s
+   150K .......... .......... .......... .......... .......... 63%  611K 0s
+   200K .......... .......... .......... .......... .......... 79%  303K 0s
+   250K .......... .......... .......... .......... .......... 94%  587K 0s
+   300K .......... .....                                      100% 11.8M=0.7s
+
+2017-02-03 14:21:34 (427 KB/s) - ‘rfv068’ saved [323570/323570]
+
+--2017-02-03 14:21:35--  http://doi.org/10.1093/rof/rfv069
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfv069 [following]
+--2017-02-03 14:21:37--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfv069
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 404940 (395K) [text/html]
+Saving to: ‘rfv069’
+
+     0K .......... .......... .......... .......... .......... 12%  209K 2s
+    50K .......... .......... .......... .......... .......... 25%  607K 1s
+   100K .......... .......... .......... .......... .......... 37%  603K 1s
+   150K .......... .......... .......... .......... .......... 50%  422K 1s
+   200K .......... .......... .......... .......... .......... 63%  397K 0s
+   250K .......... .......... .......... .......... .......... 75%  605K 0s
+   300K .......... .......... .......... .......... .......... 88%  609K 0s
+   350K .......... .......... .......... .......... .....     100%  551K=0.9s
+
+2017-02-03 14:21:47 (441 KB/s) - ‘rfv069’ saved [404940/404940]
+
+--2017-02-03 14:21:48--  http://doi.org/10.1093/rof/rfv067
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfv067 [following]
+--2017-02-03 14:21:49--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfv067
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 406685 (397K) [text/html]
+Saving to: ‘rfv067’
+
+     0K .......... .......... .......... .......... .......... 12%  308K 1s
+    50K .......... .......... .......... .......... .......... 25%  311K 1s
+   100K .......... .......... .......... .......... .......... 37%  610K 1s
+   150K .......... .......... .......... .......... .......... 50%  568K 0s
+   200K .......... .......... .......... .......... .......... 62%  322K 0s
+   250K .......... .......... .......... .......... .......... 75%  593K 0s
+   300K .......... .......... .......... .......... .......... 88%  605K 0s
+   350K .......... .......... .......... .......... .......   100%  553K=0.9s
+
+2017-02-03 14:22:08 (441 KB/s) - ‘rfv067’ saved [406685/406685]
+
+--2017-02-03 14:22:09--  http://doi.org/10.1093/rof/rfv066
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfv066 [following]
+--2017-02-03 14:22:10--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfv066
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 467588 (457K) [text/html]
+Saving to: ‘rfv066’
+
+     0K .......... .......... .......... .......... .......... 10%  306K 1s
+    50K .......... .......... .......... .......... .......... 21%  317K 1s
+   100K .......... .......... .......... .......... .......... 32%  604K 1s
+   150K .......... .......... .......... .......... .......... 43%  586K 1s
+   200K .......... .......... .......... .......... .......... 54%  320K 1s
+   250K .......... .......... .......... .......... .......... 65%  576K 0s
+   300K .......... .......... .......... .......... .......... 76%  606K 0s
+   350K .......... .......... .......... .......... .......... 87%  598K 0s
+   400K .......... .......... .......... .......... .......... 98%  317K 0s
+   450K ......                                                100% 3.26M=1.1s
+
+2017-02-03 14:22:30 (432 KB/s) - ‘rfv066’ saved [467588/467588]
+
+--2017-02-03 14:22:31--  http://doi.org/10.1093/rof/rfw067
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 14:22:37--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘rfw067’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 14:22:37 (1.20 MB/s) - ‘rfw067’ saved [52438/52438]
+
+--2017-02-03 14:22:38--  http://doi.org/10.1093/rof/rfw064
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 14:22:40--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘rfw064’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 14:22:40 (1.32 MB/s) - ‘rfw064’ saved [52438/52438]
+
+--2017-02-03 14:22:41--  http://doi.org/10.1093/rof/rfv063
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfv063 [following]
+--2017-02-03 14:22:42--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfv063
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 387177 (378K) [text/html]
+Saving to: ‘rfv063’
+
+     0K .......... .......... .......... .......... .......... 13%  208K 2s
+    50K .......... .......... .......... .......... .......... 26%  590K 1s
+   100K .......... .......... .......... .......... .......... 39%  604K 1s
+   150K .......... .......... .......... .......... .......... 52%  606K 0s
+   200K .......... .......... .......... .......... .......... 66%  310K 0s
+   250K .......... .......... .......... .......... .......... 79%  606K 0s
+   300K .......... .......... .......... .......... .......... 92%  608K 0s
+   350K .......... .......... ........                        100%  352K=0.9s
+
+2017-02-03 14:22:53 (422 KB/s) - ‘rfv063’ saved [387177/387177]
+
+--2017-02-03 14:22:54--  http://doi.org/10.1093/rof/rfv061
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfv061 [following]
+--2017-02-03 14:22:56--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfv061
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 406931 (397K) [text/html]
+Saving to: ‘rfv061’
+
+     0K .......... .......... .......... .......... .......... 12%  209K 2s
+    50K .......... .......... .......... .......... .......... 25%  600K 1s
+   100K .......... .......... .......... .......... .......... 37%  582K 1s
+   150K .......... .......... .......... .......... .......... 50%  610K 0s
+   200K .......... .......... .......... .......... .......... 62%  322K 0s
+   250K .......... .......... .......... .......... .......... 75%  578K 0s
+   300K .......... .......... .......... .......... .......... 88%  607K 0s
+   350K .......... .......... .......... .......... .......   100%  581K=0.9s
+
+2017-02-03 14:23:06 (443 KB/s) - ‘rfv061’ saved [406931/406931]
+
+--2017-02-03 14:23:07--  http://doi.org/10.1093/rof/rfv053
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfv053 [following]
+--2017-02-03 14:23:08--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfv053
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 14:23:09 ERROR 400: Bad Request.
+
+--2017-02-03 14:23:10--  http://doi.org/10.1093/rof/rfv059
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfv059 [following]
+--2017-02-03 14:23:12--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfv059
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 443785 (433K) [text/html]
+Saving to: ‘rfv059’
+
+     0K .......... .......... .......... .......... .......... 11%  209K 2s
+    50K .......... .......... .......... .......... .......... 23%  599K 1s
+   100K .......... .......... .......... .......... .......... 34%  601K 1s
+   150K .......... .......... .......... .......... .......... 46%  318K 1s
+   200K .......... .......... .......... .......... .......... 57%  594K 0s
+   250K .......... .......... .......... .......... .......... 69%  604K 0s
+   300K .......... .......... .......... .......... .......... 80%  320K 0s
+   350K .......... .......... .......... .......... .......... 92%  581K 0s
+   400K .......... .......... .......... ...                  100%  434K=1.0s
+
+2017-02-03 14:23:23 (413 KB/s) - ‘rfv059’ saved [443785/443785]
+
+--2017-02-03 14:23:24--  http://doi.org/10.1093/rof/rfv060
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfv060 [following]
+--2017-02-03 14:23:26--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfv060
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 462278 (451K) [text/html]
+Saving to: ‘rfv060’
+
+     0K .......... .......... .......... .......... .......... 11%  208K 2s
+    50K .......... .......... .......... .......... .......... 22%  601K 1s
+   100K .......... .......... .......... .......... .......... 33%  611K 1s
+   150K .......... .......... .......... .......... .......... 44%  306K 1s
+   200K .......... .......... .......... .......... .......... 55%  604K 1s
+   250K .......... .......... .......... .......... .......... 66%  589K 0s
+   300K .......... .......... .......... .......... .......... 77%  317K 0s
+   350K .......... .......... .......... .......... .......... 88%  607K 0s
+   400K .......... .......... .......... .......... .......... 99%  590K 0s
+   450K .                                                     100% 2753G=1.1s
+
+2017-02-03 14:23:37 (425 KB/s) - ‘rfv060’ saved [462278/462278]
+
+--2017-02-03 14:23:38--  http://doi.org/10.1093/rof/rfv056
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfv056 [following]
+--2017-02-03 14:23:40--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfv056
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 373674 (365K) [text/html]
+Saving to: ‘rfv056’
+
+     0K .......... .......... .......... .......... .......... 13%  207K 2s
+    50K .......... .......... .......... .......... .......... 27%  605K 1s
+   100K .......... .......... .......... .......... .......... 41%  608K 1s
+   150K .......... .......... .......... .......... .......... 54%  318K 0s
+   200K .......... .......... .......... .......... .......... 68%  585K 0s
+   250K .......... .......... .......... .......... .......... 82%  611K 0s
+   300K .......... .......... .......... .......... .......... 95%  599K 0s
+   350K .......... ....                                       100%  187K=0.9s
+
+2017-02-03 14:23:50 (408 KB/s) - ‘rfv056’ saved [373674/373674]
+
+--2017-02-03 14:23:51--  http://doi.org/10.1093/rof/rfv055
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfv055 [following]
+--2017-02-03 14:23:52--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfv055
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 630687 (616K) [text/html]
+Saving to: ‘rfv055’
+
+     0K .......... .......... .......... .......... ..........  8%  209K 3s
+    50K .......... .......... .......... .......... .......... 16%  558K 2s
+   100K .......... .......... .......... .......... .......... 24%  609K 1s
+   150K .......... .......... .......... .......... .......... 32%  608K 1s
+   200K .......... .......... .......... .......... .......... 40%  313K 1s
+   250K .......... .......... .......... .......... .......... 48%  605K 1s
+   300K .......... .......... .......... .......... .......... 56%  601K 1s
+   350K .......... .......... .......... .......... .......... 64%  596K 0s
+   400K .......... .......... .......... .......... .......... 73%  312K 0s
+   450K .......... .......... .......... .......... .......... 81%  590K 0s
+   500K .......... .......... .......... .......... .......... 89%  599K 0s
+   550K .......... .......... .......... .......... .......... 97%  318K 0s
+   600K .......... .....                                      100% 3.75M=1.4s
+
+2017-02-03 14:24:01 (442 KB/s) - ‘rfv055’ saved [630687/630687]
+
+--2017-02-03 14:24:02--  http://doi.org/10.1093/rof/rfv058
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfv058 [following]
+--2017-02-03 14:24:04--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfv058
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 428297 (418K) [text/html]
+Saving to: ‘rfv058’
+
+     0K .......... .......... .......... .......... .......... 11%  209K 2s
+    50K .......... .......... .......... .......... .......... 23%  604K 1s
+   100K .......... .......... .......... .......... .......... 35%  608K 1s
+   150K .......... .......... .......... .......... .......... 47%  320K 1s
+   200K .......... .......... .......... .......... .......... 59%  555K 0s
+   250K .......... .......... .......... .......... .......... 71%  604K 0s
+   300K .......... .......... .......... .......... .......... 83%  612K 0s
+   350K .......... .......... .......... .......... .......... 95%  607K 0s
+   400K .......... ........                                   100%  234K=1.0s
+
+2017-02-03 14:24:14 (429 KB/s) - ‘rfv058’ saved [428297/428297]
+
+--2017-02-03 14:24:15--  http://doi.org/10.1093/rof/rfv057
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfv057 [following]
+--2017-02-03 14:24:17--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfv057
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 427112 (417K) [text/html]
+Saving to: ‘rfv057’
+
+     0K .......... .......... .......... .......... .......... 11%  209K 2s
+    50K .......... .......... .......... .......... .......... 23%  602K 1s
+   100K .......... .......... .......... .......... .......... 35%  591K 1s
+   150K .......... .......... .......... .......... .......... 47%  609K 1s
+   200K .......... .......... .......... .......... .......... 59%  309K 0s
+   250K .......... .......... .......... .......... .......... 71%  599K 0s
+   300K .......... .......... .......... .......... .......... 83%  614K 0s
+   350K .......... .......... .......... .......... .......... 95%  309K 0s
+   400K .......... .......                                    100% 6.58M=1.0s
+
+2017-02-03 14:24:27 (426 KB/s) - ‘rfv057’ saved [427112/427112]
+
+--2017-02-03 14:24:28--  http://doi.org/10.1093/rof/rfv054
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfv054 [following]
+--2017-02-03 14:24:31--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfv054
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 14:24:31 ERROR 400: Bad Request.
+
+--2017-02-03 14:24:32--  http://doi.org/10.1093/rof/rfv050
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfv050 [following]
+--2017-02-03 14:24:34--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfv050
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 390711 (382K) [text/html]
+Saving to: ‘rfv050’
+
+     0K .......... .......... .......... .......... .......... 13%  208K 2s
+    50K .......... .......... .......... .......... .......... 26%  598K 1s
+   100K .......... .......... .......... .......... .......... 39%  608K 1s
+   150K .......... .......... .......... .......... .......... 52%  603K 0s
+   200K .......... .......... .......... .......... .......... 65%  316K 0s
+   250K .......... .......... .......... .......... .......... 78%  603K 0s
+   300K .......... .......... .......... .......... .......... 91%  584K 0s
+   350K .......... .......... .......... .                    100%  392K=0.9s
+
+2017-02-03 14:24:51 (426 KB/s) - ‘rfv050’ saved [390711/390711]
+
+--2017-02-03 14:24:52--  http://doi.org/10.1093/rof/rfv051
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfv051 [following]
+--2017-02-03 14:24:54--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfv051
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 549745 (537K) [text/html]
+Saving to: ‘rfv051’
+
+     0K .......... .......... .......... .......... ..........  9%  208K 2s
+    50K .......... .......... .......... .......... .......... 18%  606K 1s
+   100K .......... .......... .......... .......... .......... 27%  580K 1s
+   150K .......... .......... .......... .......... .......... 37%  611K 1s
+   200K .......... .......... .......... .......... .......... 46%  318K 1s
+   250K .......... .......... .......... .......... .......... 55%  610K 1s
+   300K .......... .......... .......... .......... .......... 65%  594K 0s
+   350K .......... .......... .......... .......... .......... 74%  313K 0s
+   400K .......... .......... .......... .......... .......... 83%  608K 0s
+   450K .......... .......... .......... .......... .......... 93%  600K 0s
+   500K .......... .......... .......... ......               100%  460K=1.2s
+
+2017-02-03 14:25:08 (440 KB/s) - ‘rfv051’ saved [549745/549745]
+
+--2017-02-03 14:25:09--  http://doi.org/10.1093/rof/rfv049
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfv049 [following]
+--2017-02-03 14:25:12--  https://academic.oup.com/rof/article-lookup/doi/10.1093/rof/rfv049
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 424182 (414K) [text/html]
+Saving to: ‘rfv049’
+
+     0K .......... .......... .......... .......... .......... 12%  209K 2s
+    50K .......... .......... .......... .......... .......... 24%  603K 1s
+   100K .......... .......... .......... .......... .......... 36%  611K 1s
+   150K .......... .......... .......... .......... .......... 48%  608K 1s
+   200K .......... .......... .......... .......... .......... 60%  317K 0s
+   250K .......... .......... .......... .......... .......... 72%  588K 0s
+   300K .......... .......... .......... .......... .......... 84%  603K 0s
+   350K .......... .......... .......... .......... .......... 96%  596K 0s
+   400K .......... ....                                       100%  183K=1.0s
+
+2017-02-03 14:25:31 (425 KB/s) - ‘rfv049’ saved [424182/424182]
+
+FINISHED --2017-02-03 14:25:31--
+Total wall clock time: 25m 23s
+Downloaded: 87 files, 35M in 1m 23s (425 KB/s)

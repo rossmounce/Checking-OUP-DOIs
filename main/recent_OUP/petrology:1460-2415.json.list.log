@@ -1,0 +1,2439 @@
+--2017-02-03 06:55:18--  http://doi.org/10.1093/petrology/egw071
+Resolving doi.org (doi.org)... 63.123.152.248, 208.254.38.90, 95.138.171.129, ...
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://petrology.oxfordjournals.org/lookup/doi/10.1093/petrology/egw071 [following]
+--2017-02-03 06:55:19--  http://petrology.oxfordjournals.org/lookup/doi/10.1093/petrology/egw071
+Resolving petrology.oxfordjournals.org (petrology.oxfordjournals.org)... 209.135.222.209
+Connecting to petrology.oxfordjournals.org (petrology.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from petrology.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/petrology/article/doi/10.1093/petrology/egw071/2948961/Rhyolite-Generation-prior-to-a-Yellowstone [following]
+--2017-02-03 06:55:21--  https://academic.oup.com/petrology/article/doi/10.1093/petrology/egw071/2948961/Rhyolite-Generation-prior-to-a-Yellowstone
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 508127 (496K) [text/html]
+Saving to: ‘egw071’
+
+     0K .......... .......... .......... .......... .......... 10%  209K 2s
+    50K .......... .......... .......... .......... .......... 20%  609K 1s
+   100K .......... .......... .......... .......... .......... 30%  607K 1s
+   150K .......... .......... .......... .......... .......... 40%  609K 1s
+   200K .......... .......... .......... .......... .......... 50%  315K 1s
+   250K .......... .......... .......... .......... .......... 60%  612K 0s
+   300K .......... .......... .......... .......... .......... 70%  563K 0s
+   350K .......... .......... .......... .......... .......... 80%  608K 0s
+   400K .......... .......... .......... .......... .......... 90%  313K 0s
+   450K .......... .......... .......... .......... ......    100%  568K=1.1s
+
+2017-02-03 06:55:26 (436 KB/s) - ‘egw071’ saved [508127/508127]
+
+--2017-02-03 06:55:27--  http://doi.org/10.1093/petrology/egw070
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw070 [following]
+--2017-02-03 06:55:28--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw070
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 647378 (632K) [text/html]
+Saving to: ‘egw070’
+
+     0K .......... .......... .......... .......... ..........  7%  209K 3s
+    50K .......... .......... .......... .......... .......... 15%  604K 2s
+   100K .......... .......... .......... .......... .......... 23%  610K 1s
+   150K .......... .......... .......... .......... .......... 31%  419K 1s
+   200K .......... .......... .......... .......... .......... 39%  410K 1s
+   250K .......... .......... .......... .......... .......... 47%  600K 1s
+   300K .......... .......... .......... .......... .......... 55%  612K 1s
+   350K .......... .......... .......... .......... .......... 63%  315K 1s
+   400K .......... .......... .......... .......... .......... 71%  611K 0s
+   450K .......... .......... .......... .......... .......... 79%  605K 0s
+   500K .......... .......... .......... .......... .......... 86%  314K 0s
+   550K .......... .......... .......... .......... .......... 94%  599K 0s
+   600K .......... .......... .......... ..                   100%  405K=1.5s
+
+2017-02-03 06:55:34 (434 KB/s) - ‘egw070’ saved [647378/647378]
+
+--2017-02-03 06:55:35--  http://doi.org/10.1093/petrology/egx004
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 06:55:36--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Resolving fdslive.oup.com (fdslive.oup.com)... 193.67.160.201
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘egx004’
+
+     0K .......... .......... .......... .......... .......... 97% 1.16M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 06:55:36 (1.19 MB/s) - ‘egx004’ saved [52438/52438]
+
+--2017-02-03 06:55:37--  http://doi.org/10.1093/petrology/egx003
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 06:55:38--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘egx003’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 06:55:38 (1.20 MB/s) - ‘egx003’ saved [52438/52438]
+
+--2017-02-03 06:55:39--  http://doi.org/10.1093/petrology/egw073
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 06:55:41--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘egw073’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 06:55:41 (1.20 MB/s) - ‘egw073’ saved [52438/52438]
+
+--2017-02-03 06:55:42--  http://doi.org/10.1093/petrology/egx001
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 06:55:43--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘egx001’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 06:55:43 (1.20 MB/s) - ‘egx001’ saved [52438/52438]
+
+--2017-02-03 06:55:44--  http://doi.org/10.1093/petrology/egx002
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 06:55:46--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘egx002’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 06:55:46 (1.20 MB/s) - ‘egx002’ saved [52438/52438]
+
+--2017-02-03 06:55:47--  http://doi.org/10.1093/petrology/egw074
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 06:55:48--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘egw074’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 06:55:48 (1.19 MB/s) - ‘egw074’ saved [52438/52438]
+
+--2017-02-03 06:55:49--  http://doi.org/10.1093/petrology/egw065
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw065 [following]
+--2017-02-03 06:55:51--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw065
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 561396 (548K) [text/html]
+Saving to: ‘egw065’
+
+     0K .......... .......... .......... .......... ..........  9%  208K 2s
+    50K .......... .......... .......... .......... .......... 18%  603K 1s
+   100K .......... .......... .......... .......... .......... 27%  608K 1s
+   150K .......... .......... .......... .......... .......... 36%  605K 1s
+   200K .......... .......... .......... .......... .......... 45%  313K 1s
+   250K .......... .......... .......... .......... .......... 54%  606K 1s
+   300K .......... .......... .......... .......... .......... 63%  604K 0s
+   350K .......... .......... .......... .......... .......... 72%  596K 0s
+   400K .......... .......... .......... .......... .......... 82%  612K 0s
+   450K .......... .......... .......... .......... .......... 91%  313K 0s
+   500K .......... .......... .......... .......... ........  100%  585K=1.2s
+
+2017-02-03 06:55:53 (449 KB/s) - ‘egw065’ saved [561396/561396]
+
+--2017-02-03 06:55:54--  http://doi.org/10.1093/petrology/egw059
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw059 [following]
+--2017-02-03 06:55:56--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw059
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 465998 (455K) [text/html]
+Saving to: ‘egw059’
+
+     0K .......... .......... .......... .......... .......... 10%  209K 2s
+    50K .......... .......... .......... .......... .......... 21%  602K 1s
+   100K .......... .......... .......... .......... .......... 32%  614K 1s
+   150K .......... .......... .......... .......... .......... 43%  600K 1s
+   200K .......... .......... .......... .......... .......... 54%  314K 1s
+   250K .......... .......... .......... .......... .......... 65%  610K 0s
+   300K .......... .......... .......... .......... .......... 76%  584K 0s
+   350K .......... .......... .......... .......... .......... 87%  320K 0s
+   400K .......... .......... .......... .......... .......... 98%  593K 0s
+   450K .....                                                 100% 9682G=1.1s
+
+2017-02-03 06:56:01 (431 KB/s) - ‘egw059’ saved [465998/465998]
+
+--2017-02-03 06:56:02--  http://doi.org/10.1093/petrology/egw053
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw053 [following]
+--2017-02-03 06:56:03--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw053
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 627811 (613K) [text/html]
+Saving to: ‘egw053’
+
+     0K .......... .......... .......... .......... ..........  8%  209K 3s
+    50K .......... .......... .......... .......... .......... 16%  609K 2s
+   100K .......... .......... .......... .......... .......... 24%  615K 1s
+   150K .......... .......... .......... .......... .......... 32%  598K 1s
+   200K .......... .......... .......... .......... .......... 40%  320K 1s
+   250K .......... .......... .......... .......... .......... 48%  588K 1s
+   300K .......... .......... .......... .......... .......... 57%  610K 1s
+   350K .......... .......... .......... .......... .......... 65%  319K 1s
+   400K .......... .......... .......... .......... .......... 73%  606K 0s
+   450K .......... .......... .......... .......... .......... 81%  588K 0s
+   500K .......... .......... .......... .......... .......... 89%  606K 0s
+   550K .......... .......... .......... .......... .......... 97%  612K 0s
+   600K .......... ...                                        100%  169K=1.4s
+
+2017-02-03 06:56:10 (445 KB/s) - ‘egw053’ saved [627811/627811]
+
+--2017-02-03 06:56:11--  http://doi.org/10.1093/petrology/egw052
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw052 [following]
+--2017-02-03 06:56:13--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw052
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 798189 (779K) [text/html]
+Saving to: ‘egw052’
+
+     0K .......... .......... .......... .......... ..........  6%  209K 3s
+    50K .......... .......... .......... .......... .......... 12%  599K 2s
+   100K .......... .......... .......... .......... .......... 19%  607K 2s
+   150K .......... .......... .......... .......... .......... 25%  597K 1s
+   200K .......... .......... .......... .......... .......... 32%  316K 1s
+   250K .......... .......... .......... .......... .......... 38%  592K 1s
+   300K .......... .......... .......... .......... .......... 44%  611K 1s
+   350K .......... .......... .......... .......... .......... 51%  594K 1s
+   400K .......... .......... .......... .......... .......... 57%  322K 1s
+   450K .......... .......... .......... .......... .......... 64%  595K 1s
+   500K .......... .......... .......... .......... .......... 70%  603K 1s
+   550K .......... .......... .......... .......... .......... 76%  314K 0s
+   600K .......... .......... .......... .......... .......... 83%  586K 0s
+   650K .......... .......... .......... .......... .......... 89%  597K 0s
+   700K .......... .......... .......... .......... .......... 96%  322K 0s
+   750K .......... .......... .........                       100% 6.02M=1.7s
+
+2017-02-03 06:56:19 (456 KB/s) - ‘egw052’ saved [798189/798189]
+
+--2017-02-03 06:56:20--  http://doi.org/10.1093/petrology/egw057
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw057 [following]
+--2017-02-03 06:56:21--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw057
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1029291 (1005K) [text/html]
+Saving to: ‘egw057’
+
+     0K .......... .......... .......... .......... ..........  4%  209K 5s
+    50K .......... .......... .......... .......... ..........  9%  596K 3s
+   100K .......... .......... .......... .......... .......... 14%  151K 4s
+   150K .......... .......... .......... .......... .......... 19%  314K 3s
+   200K .......... .......... .......... .......... .......... 24%  586K 3s
+   250K .......... .......... .......... .......... .......... 29%  610K 2s
+   300K .......... .......... .......... .......... .......... 34%  596K 2s
+   350K .......... .......... .......... .......... .......... 39%  317K 2s
+   400K .......... .......... .......... .......... .......... 44%  595K 2s
+   450K .......... .......... .......... .......... .......... 49%  603K 1s
+   500K .......... .......... .......... .......... .......... 54%  316K 1s
+   550K .......... .......... .......... .......... .......... 59%  596K 1s
+   600K .......... .......... .......... .......... .......... 64%  585K 1s
+   650K .......... .......... .......... .......... .......... 69%  325K 1s
+   700K .......... .......... .......... .......... .......... 74%  590K 1s
+   750K .......... .......... .......... .......... .......... 79%  576K 1s
+   800K .......... .......... .......... .......... .......... 84%  328K 0s
+   850K .......... .......... .......... .......... .......... 89%  581K 0s
+   900K .......... .......... .......... .......... .......... 94%  583K 0s
+   950K .......... .......... .......... .......... .......... 99%  326K 0s
+  1000K .....                                                 100% 17.7M=2.5s
+
+2017-02-03 06:56:29 (399 KB/s) - ‘egw057’ saved [1029291/1029291]
+
+--2017-02-03 06:56:30--  http://doi.org/10.1093/petrology/egw046
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article/57/8/1437/2413411/Tectonothermal-Evolution-of-the-Middle-Crust-in [following]
+--2017-02-03 06:56:31--  https://academic.oup.com/petrology/article/57/8/1437/2413411/Tectonothermal-Evolution-of-the-Middle-Crust-in
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 568197 (555K) [text/html]
+Saving to: ‘egw046’
+
+     0K .......... .......... .......... .......... ..........  9%  209K 2s
+    50K .......... .......... .......... .......... .......... 18%  607K 1s
+   100K .......... .......... .......... .......... .......... 27%  611K 1s
+   150K .......... .......... .......... .......... .......... 36%  313K 1s
+   200K .......... .......... .......... .......... .......... 45%  606K 1s
+   250K .......... .......... .......... .......... .......... 54%  607K 1s
+   300K .......... .......... .......... .......... .......... 63%  595K 0s
+   350K .......... .......... .......... .......... .......... 72%  316K 0s
+   400K .......... .......... .......... .......... .......... 81%  610K 0s
+   450K .......... .......... .......... .......... .......... 90%  595K 0s
+   500K .......... .......... .......... .......... .......... 99%  604K 0s
+   550K ....                                                  100% 9308G=1.2s
+
+2017-02-03 06:56:36 (455 KB/s) - ‘egw046’ saved [568197/568197]
+
+--2017-02-03 06:56:37--  http://doi.org/10.1093/petrology/egw047
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article/57/8/1463/2413419/The-Smoothness-and-Shapes-of-Chondritenormalized [following]
+--2017-02-03 06:56:39--  https://academic.oup.com/petrology/article/57/8/1463/2413419/The-Smoothness-and-Shapes-of-Chondritenormalized
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 06:56:39 ERROR 400: Bad Request.
+
+--2017-02-03 06:56:40--  http://doi.org/10.1093/petrology/egw068
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw068 [following]
+--2017-02-03 06:56:42--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw068
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1206041 (1.1M) [text/html]
+Saving to: ‘egw068’
+
+     0K .......... .......... .......... .......... ..........  4%  209K 5s
+    50K .......... .......... .......... .......... ..........  8%  613K 3s
+   100K .......... .......... .......... .......... .......... 12%  604K 3s
+   150K .......... .......... .......... .......... .......... 16%  607K 2s
+   200K .......... .......... .......... .......... .......... 21%  315K 2s
+   250K .......... .......... .......... .......... .......... 25%  601K 2s
+   300K .......... .......... .......... .......... .......... 29%  316K 2s
+   350K .......... .......... .......... .......... .......... 33%  607K 2s
+   400K .......... .......... .......... .......... .......... 38%  607K 2s
+   450K .......... .......... .......... .......... .......... 42%  314K 2s
+   500K .......... .......... .......... .......... .......... 46%  607K 1s
+   550K .......... .......... .......... .......... .......... 50%  313K 1s
+   600K .......... .......... .......... .......... .......... 55%  610K 1s
+   650K .......... .......... .......... .......... .......... 59%  604K 1s
+   700K .......... .......... .......... .......... .......... 63%  592K 1s
+   750K .......... .......... .......... .......... .......... 67%  320K 1s
+   800K .......... .......... .......... .......... .......... 72%  603K 1s
+   850K .......... .......... .......... .......... .......... 76%  557K 1s
+   900K .......... .......... .......... .......... .......... 80%  606K 1s
+   950K .......... .......... .......... .......... .......... 84%  330K 0s
+  1000K .......... .......... .......... .......... .......... 89%  606K 0s
+  1050K .......... .......... .......... .......... .......... 93%  555K 0s
+  1100K .......... .......... .......... .......... .......... 97%  609K 0s
+  1150K .......... .......... .......                         100%  383K=2.6s
+
+2017-02-03 06:56:52 (454 KB/s) - ‘egw068’ saved [1206041/1206041]
+
+--2017-02-03 06:56:53--  http://doi.org/10.1093/petrology/egw069
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw069 [following]
+--2017-02-03 06:56:54--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw069
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 06:56:55 ERROR 400: Bad Request.
+
+--2017-02-03 06:56:56--  http://doi.org/10.1093/petrology/egw067
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw067 [following]
+--2017-02-03 06:56:57--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw067
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 558989 (546K) [text/html]
+Saving to: ‘egw067’
+
+     0K .......... .......... .......... .......... ..........  9%  308K 2s
+    50K .......... .......... .......... .......... .......... 18%  314K 1s
+   100K .......... .......... .......... .......... .......... 27%  544K 1s
+   150K .......... .......... .......... .......... .......... 36%  606K 1s
+   200K .......... .......... .......... .......... .......... 45%  330K 1s
+   250K .......... .......... .......... .......... .......... 54%  596K 1s
+   300K .......... .......... .......... .......... .......... 64%  555K 0s
+   350K .......... .......... .......... .......... .......... 73%  322K 0s
+   400K .......... .......... .......... .......... .......... 82%  612K 0s
+   450K .......... .......... .......... .......... .......... 91%  570K 0s
+   500K .......... .......... .......... .......... .....     100%  558K=1.2s
+
+2017-02-03 06:57:03 (444 KB/s) - ‘egw067’ saved [558989/558989]
+
+--2017-02-03 06:57:04--  http://doi.org/10.1093/petrology/egw058
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw058 [following]
+--2017-02-03 06:57:05--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw058
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 523308 (511K) [text/html]
+Saving to: ‘egw058’
+
+     0K .......... .......... .......... .......... ..........  9%  209K 2s
+    50K .......... .......... .......... .......... .......... 19%  612K 1s
+   100K .......... .......... .......... .......... .......... 29%  605K 1s
+   150K .......... .......... .......... .......... .......... 39%  319K 1s
+   200K .......... .......... .......... .......... .......... 48%  581K 1s
+   250K .......... .......... .......... .......... .......... 58%  616K 1s
+   300K .......... .......... .......... .......... .......... 68%  610K 0s
+   350K .......... .......... .......... .......... .......... 78%  313K 0s
+   400K .......... .......... .......... .......... .......... 88%  614K 0s
+   450K .......... .......... .......... .......... .......... 97%  603K 0s
+   500K .......... .                                          100% 2.70M=1.1s
+
+2017-02-03 06:57:11 (449 KB/s) - ‘egw058’ saved [523308/523308]
+
+--2017-02-03 06:57:12--  http://doi.org/10.1093/petrology/egw061
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw061 [following]
+--2017-02-03 06:57:13--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw061
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 897672 (877K) [text/html]
+Saving to: ‘egw061’
+
+     0K .......... .......... .......... .......... ..........  5%  208K 4s
+    50K .......... .......... .......... .......... .......... 11%  613K 2s
+   100K .......... .......... .......... .......... .......... 17%  589K 2s
+   150K .......... .......... .......... .......... .......... 22%  317K 2s
+   200K .......... .......... .......... .......... .......... 28%  603K 2s
+   250K .......... .......... .......... .......... .......... 34%  603K 1s
+   300K .......... .......... .......... .......... .......... 39%  315K 1s
+   350K .......... .......... .......... .......... .......... 45%  559K 1s
+   400K .......... .......... .......... .......... .......... 51%  606K 1s
+   450K .......... .......... .......... .......... .......... 57%  610K 1s
+   500K .......... .......... .......... .......... .......... 62%  314K 1s
+   550K .......... .......... .......... .......... .......... 68%  601K 1s
+   600K .......... .......... .......... .......... .......... 74%  612K 1s
+   650K .......... .......... .......... .......... .......... 79%  313K 0s
+   700K .......... .......... .......... .......... .......... 85%  606K 0s
+   750K .......... .......... .......... .......... .......... 91%  610K 0s
+   800K .......... .......... .......... .......... .......... 96%  603K 0s
+   850K .......... .......... ......                          100%  337K=2.0s
+
+2017-02-03 06:57:20 (449 KB/s) - ‘egw061’ saved [897672/897672]
+
+--2017-02-03 06:57:21--  http://doi.org/10.1093/petrology/egw064
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw064 [following]
+--2017-02-03 06:57:22--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw064
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 06:57:25 ERROR 400: Bad Request.
+
+--2017-02-03 06:57:26--  http://doi.org/10.1093/petrology/egw066
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw066 [following]
+--2017-02-03 06:57:28--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw066
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 06:57:28 ERROR 400: Bad Request.
+
+--2017-02-03 06:57:29--  http://doi.org/10.1093/petrology/egw049
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw049 [following]
+--2017-02-03 06:57:31--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw049
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 623024 (608K) [text/html]
+Saving to: ‘egw049’
+
+     0K .......... .......... .......... .......... ..........  8%  209K 3s
+    50K .......... .......... .......... .......... .......... 16%  605K 2s
+   100K .......... .......... .......... .......... .......... 24%  583K 1s
+   150K .......... .......... .......... .......... .......... 32%  601K 1s
+   200K .......... .......... .......... .......... .......... 41%  315K 1s
+   250K .......... .......... .......... .......... .......... 49%  600K 1s
+   300K .......... .......... .......... .......... .......... 57%  610K 1s
+   350K .......... .......... .......... .......... .......... 65%  310K 1s
+   400K .......... .......... .......... .......... .......... 73%  608K 0s
+   450K .......... .......... .......... .......... .......... 82%  606K 0s
+   500K .......... .......... .......... .......... .......... 90%  605K 0s
+   550K .......... .......... .......... .......... .......... 98%  311K 0s
+   600K ........                                              100% 18.7M=1.4s
+
+2017-02-03 06:57:36 (440 KB/s) - ‘egw049’ saved [623024/623024]
+
+--2017-02-03 06:57:37--  http://doi.org/10.1093/petrology/egw050
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw050 [following]
+--2017-02-03 06:57:38--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw050
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1050254 (1.0M) [text/html]
+Saving to: ‘egw050’
+
+     0K .......... .......... .......... .......... ..........  4%  309K 3s
+    50K .......... .......... .......... .......... ..........  9%  314K 3s
+   100K .......... .......... .......... .......... .......... 14%  599K 2s
+   150K .......... .......... .......... .......... .......... 19%  316K 2s
+   200K .......... .......... .......... .......... .......... 24%  588K 2s
+   250K .......... .......... .......... .......... .......... 29%  610K 2s
+   300K .......... .......... .......... .......... .......... 34%  611K 2s
+   350K .......... .......... .......... .......... .......... 39%  314K 2s
+   400K .......... .......... .......... .......... .......... 43%  605K 1s
+   450K .......... .......... .......... .......... .......... 48%  590K 1s
+   500K .......... .......... .......... .......... .......... 53%  322K 1s
+   550K .......... .......... .......... .......... .......... 58%  609K 1s
+   600K .......... .......... .......... .......... .......... 63%  601K 1s
+   650K .......... .......... .......... .......... .......... 68%  315K 1s
+   700K .......... .......... .......... .......... .......... 73%  571K 1s
+   750K .......... .......... .......... .......... .......... 78%  604K 1s
+   800K .......... .......... .......... .......... .......... 82%  611K 0s
+   850K .......... .......... .......... .......... .......... 87%  313K 0s
+   900K .......... .......... .......... .......... .......... 92%  604K 0s
+   950K .......... .......... .......... .......... .......... 97%  610K 0s
+  1000K .......... .......... .....                           100%  325K=2.3s
+
+2017-02-03 06:57:46 (451 KB/s) - ‘egw050’ saved [1050254/1050254]
+
+--2017-02-03 06:57:47--  http://doi.org/10.1093/petrology/egw048
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw048 [following]
+--2017-02-03 06:57:49--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw048
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 549570 (537K) [text/html]
+Saving to: ‘egw048’
+
+     0K .......... .......... .......... .......... ..........  9%  208K 2s
+    50K .......... .......... .......... .......... .......... 18%  602K 1s
+   100K .......... .......... .......... .......... .......... 27%  613K 1s
+   150K .......... .......... .......... .......... .......... 37%  602K 1s
+   200K .......... .......... .......... .......... .......... 46%  313K 1s
+   250K .......... .......... .......... .......... .......... 55%  608K 1s
+   300K .......... .......... .......... .......... .......... 65%  597K 0s
+   350K .......... .......... .......... .......... .......... 74%  602K 0s
+   400K .......... .......... .......... .......... .......... 83%  315K 0s
+   450K .......... .......... .......... .......... .......... 93%  601K 0s
+   500K .......... .......... .......... ......               100%  453K=1.2s
+
+2017-02-03 06:57:54 (440 KB/s) - ‘egw048’ saved [549570/549570]
+
+--2017-02-03 06:57:55--  http://doi.org/10.1093/petrology/egw044
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw044 [following]
+--2017-02-03 06:57:56--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw044
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 448583 (438K) [text/html]
+Saving to: ‘egw044’
+
+     0K .......... .......... .......... .......... .......... 11%  208K 2s
+    50K .......... .......... .......... .......... .......... 22%  610K 1s
+   100K .......... .......... .......... .......... .......... 34%  601K 1s
+   150K .......... .......... .......... .......... .......... 45%  316K 1s
+   200K .......... .......... .......... .......... .......... 57%  588K 0s
+   250K .......... .......... .......... .......... .......... 68%  609K 0s
+   300K .......... .......... .......... .......... .......... 79%  313K 0s
+   350K .......... .......... .......... .......... .......... 91%  604K 0s
+   400K .......... .......... .......... ........             100%  474K=1.1s
+
+2017-02-03 06:58:02 (416 KB/s) - ‘egw044’ saved [448583/448583]
+
+--2017-02-03 06:58:03--  http://doi.org/10.1093/petrology/egw042
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw042 [following]
+--2017-02-03 06:58:04--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw042
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 740040 (723K) [text/html]
+Saving to: ‘egw042’
+
+     0K .......... .......... .......... .......... ..........  6%  209K 3s
+    50K .......... .......... .......... .......... .......... 13%  602K 2s
+   100K .......... .......... .......... .......... .......... 20%  615K 2s
+   150K .......... .......... .......... .......... .......... 27%  318K 1s
+   200K .......... .......... .......... .......... .......... 34%  591K 1s
+   250K .......... .......... .......... .......... .......... 41%  611K 1s
+   300K .......... .......... .......... .......... .......... 48%  420K 1s
+   350K .......... .......... .......... .......... .......... 55%  607K 1s
+   400K .......... .......... .......... .......... .......... 62%  408K 1s
+   450K .......... .......... .......... .......... .......... 69%  605K 1s
+   500K .......... .......... .......... .......... .......... 76%  423K 0s
+   550K .......... .......... .......... .......... .......... 83%  405K 0s
+   600K .......... .......... .......... .......... .......... 89%  613K 0s
+   650K .......... .......... .......... .......... .......... 96%  426K 0s
+   700K .......... .......... ..                              100%  512K=1.6s
+
+2017-02-03 06:58:10 (447 KB/s) - ‘egw042’ saved [740040/740040]
+
+--2017-02-03 06:58:11--  http://doi.org/10.1093/petrology/egw043
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw043 [following]
+--2017-02-03 06:58:12--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw043
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 692707 (676K) [text/html]
+Saving to: ‘egw043’
+
+     0K .......... .......... .......... .......... ..........  7%  209K 3s
+    50K .......... .......... .......... .......... .......... 14%  615K 2s
+   100K .......... .......... .......... .......... .......... 22%  599K 1s
+   150K .......... .......... .......... .......... .......... 29%  607K 1s
+   200K .......... .......... .......... .......... .......... 36%  310K 1s
+   250K .......... .......... .......... .......... .......... 44%  612K 1s
+   300K .......... .......... .......... .......... .......... 51%  604K 1s
+   350K .......... .......... .......... .......... .......... 59%  608K 1s
+   400K .......... .......... .......... .......... .......... 66%  315K 1s
+   450K .......... .......... .......... .......... .......... 73%  606K 0s
+   500K .......... .......... .......... .......... .......... 81%  609K 0s
+   550K .......... .......... .......... .......... .......... 88%  312K 0s
+   600K .......... .......... .......... .......... .......... 96%  607K 0s
+   650K .......... .......... ......                          100%  336K=1.5s
+
+2017-02-03 06:58:20 (440 KB/s) - ‘egw043’ saved [692707/692707]
+
+--2017-02-03 06:58:21--  http://doi.org/10.1093/petrology/egw041
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw041 [following]
+--2017-02-03 06:58:22--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw041
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 603706 (590K) [text/html]
+Saving to: ‘egw041’
+
+     0K .......... .......... .......... .......... ..........  8%  208K 3s
+    50K .......... .......... .......... .......... .......... 16%  607K 2s
+   100K .......... .......... .......... .......... .......... 25%  607K 1s
+   150K .......... .......... .......... .......... .......... 33%  596K 1s
+   200K .......... .......... .......... .......... .......... 42%  312K 1s
+   250K .......... .......... .......... .......... .......... 50%  607K 1s
+   300K .......... .......... .......... .......... .......... 59%  602K 1s
+   350K .......... .......... .......... .......... .......... 67%  604K 0s
+   400K .......... .......... .......... .......... .......... 76%  313K 0s
+   450K .......... .......... .......... .......... .......... 84%  606K 0s
+   500K .......... .......... .......... .......... .......... 93%  598K 0s
+   550K .......... .......... .......... .........            100%  485K=1.3s
+
+2017-02-03 06:58:27 (452 KB/s) - ‘egw041’ saved [603706/603706]
+
+--2017-02-03 06:58:28--  http://doi.org/10.1093/petrology/egw045
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw045 [following]
+--2017-02-03 06:58:29--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw045
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 905203 (884K) [text/html]
+Saving to: ‘egw045’
+
+     0K .......... .......... .......... .......... ..........  5%  209K 4s
+    50K .......... .......... .......... .......... .......... 11%  606K 3s
+   100K .......... .......... .......... .......... .......... 16%  609K 2s
+   150K .......... .......... .......... .......... .......... 22%  598K 2s
+   200K .......... .......... .......... .......... .......... 28%  315K 2s
+   250K .......... .......... .......... .......... .......... 33%  609K 1s
+   300K .......... .......... .......... .......... .......... 39%  605K 1s
+   350K .......... .......... .......... .......... .......... 45%  429K 1s
+   400K .......... .......... .......... .......... .......... 50%  402K 1s
+   450K .......... .......... .......... .......... .......... 56%  606K 1s
+   500K .......... .......... .......... .......... .......... 62%  599K 1s
+   550K .......... .......... .......... .......... .......... 67%  433K 1s
+   600K .......... .......... .......... .......... .......... 73%  397K 1s
+   650K .......... .......... .......... .......... .......... 79%  595K 0s
+   700K .......... .......... .......... .......... .......... 84%  314K 0s
+   750K .......... .......... .......... .......... .......... 90%  614K 0s
+   800K .......... .......... .......... .......... .......... 96%  604K 0s
+   850K .......... .......... .......... ...                  100%  422K=1.9s
+
+2017-02-03 06:58:37 (454 KB/s) - ‘egw045’ saved [905203/905203]
+
+--2017-02-03 06:58:38--  http://doi.org/10.1093/petrology/egw040
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw040 [following]
+--2017-02-03 06:58:39--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw040
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 976360 (953K) [text/html]
+Saving to: ‘egw040’
+
+     0K .......... .......... .......... .......... ..........  5%  209K 4s
+    50K .......... .......... .......... .......... .......... 10%  597K 3s
+   100K .......... .......... .......... .......... .......... 15%  610K 2s
+   150K .......... .......... .......... .......... .......... 20%  590K 2s
+   200K .......... .......... .......... .......... .......... 26%  314K 2s
+   250K .......... .......... .......... .......... .......... 31%  603K 2s
+   300K .......... .......... .......... .......... .......... 36%  612K 1s
+   350K .......... .......... .......... .......... .......... 41%  312K 1s
+   400K .......... .......... .......... .......... .......... 47%  609K 1s
+   450K .......... .......... .......... .......... .......... 52%  604K 1s
+   500K .......... .......... .......... .......... .......... 57%  315K 1s
+   550K .......... .......... .......... .......... .......... 62%  601K 1s
+   600K .......... .......... .......... .......... .......... 68%  603K 1s
+   650K .......... .......... .......... .......... .......... 73%  320K 1s
+   700K .......... .......... .......... .......... .......... 78%  592K 0s
+   750K .......... .......... .......... .......... .......... 83%  610K 0s
+   800K .......... .......... .......... .......... .......... 89%  313K 0s
+   850K .......... .......... .......... .......... .......... 94%  592K 0s
+   900K .......... .......... .......... .......... .......... 99%  611K 0s
+   950K ...                                                   100% 6631G=2.1s
+
+2017-02-03 06:58:46 (451 KB/s) - ‘egw040’ saved [976360/976360]
+
+--2017-02-03 06:58:47--  http://doi.org/10.1093/petrology/egw039
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw039 [following]
+--2017-02-03 06:58:49--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw039
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 820769 (802K) [text/html]
+Saving to: ‘egw039’
+
+     0K .......... .......... .......... .......... ..........  6%  209K 4s
+    50K .......... .......... .......... .......... .......... 12%  604K 2s
+   100K .......... .......... .......... .......... .......... 18%  611K 2s
+   150K .......... .......... .......... .......... .......... 24%  603K 1s
+   200K .......... .......... .......... .......... .......... 31%  314K 1s
+   250K .......... .......... .......... .......... .......... 37%  610K 1s
+   300K .......... .......... .......... .......... .......... 43%  613K 1s
+   350K .......... .......... .......... .......... .......... 49%  420K 1s
+   400K .......... .......... .......... .......... .......... 56%  406K 1s
+   450K .......... .......... .......... .......... .......... 62%  431K 1s
+   500K .......... .......... .......... .......... .......... 68%  592K 1s
+   550K .......... .......... .......... .......... .......... 74%  407K 0s
+   600K .......... .......... .......... .......... .......... 81%  612K 0s
+   650K .......... .......... .......... .......... .......... 87%  419K 0s
+   700K .......... .......... .......... .......... .......... 93%  404K 0s
+   750K .......... .......... .......... .......... .......... 99%  611K 0s
+   800K .                                                     100% 6.62M=1.8s
+
+2017-02-03 06:58:55 (450 KB/s) - ‘egw039’ saved [820769/820769]
+
+--2017-02-03 06:58:56--  http://doi.org/10.1093/petrology/egw038
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw038 [following]
+--2017-02-03 06:58:57--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw038
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 502625 (491K) [text/html]
+Saving to: ‘egw038’
+
+     0K .......... .......... .......... .......... .......... 10%  209K 2s
+    50K .......... .......... .......... .......... .......... 20%  613K 1s
+   100K .......... .......... .......... .......... .......... 30%  604K 1s
+   150K .......... .......... .......... .......... .......... 40%  316K 1s
+   200K .......... .......... .......... .......... .......... 50%  607K 1s
+   250K .......... .......... .......... .......... .......... 61%  610K 0s
+   300K .......... .......... .......... .......... .......... 71%  313K 0s
+   350K .......... .......... .......... .......... .......... 81%  607K 0s
+   400K .......... .......... .......... .......... .......... 91%  599K 0s
+   450K .......... .......... .......... ..........           100%  504K=1.1s
+
+2017-02-03 06:59:03 (433 KB/s) - ‘egw038’ saved [502625/502625]
+
+--2017-02-03 06:59:04--  http://doi.org/10.1093/petrology/egw029
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw029 [following]
+--2017-02-03 06:59:05--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw029
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 672860 (657K) [text/html]
+Saving to: ‘egw029’
+
+     0K .......... .......... .......... .......... ..........  7%  211K 3s
+    50K .......... .......... .......... .......... .......... 15%  613K 2s
+   100K .......... .......... .......... .......... .......... 22%  608K 1s
+   150K .......... .......... .......... .......... .......... 30%  618K 1s
+   200K .......... .......... .......... .......... .......... 38%  318K 1s
+   250K .......... .......... .......... .......... .......... 45%  611K 1s
+   300K .......... .......... .......... .......... .......... 53%  615K 1s
+   350K .......... .......... .......... .......... .......... 60%  321K 1s
+   400K .......... .......... .......... .......... .......... 68%  596K 0s
+   450K .......... .......... .......... .......... .......... 76%  611K 0s
+   500K .......... .......... .......... .......... .......... 83%  325K 0s
+   550K .......... .......... .......... .......... .......... 91%  600K 0s
+   600K .......... .......... .......... .......... .......... 98%  610K 0s
+   650K .......                                               100% 10.9M=1.4s
+
+2017-02-03 06:59:12 (455 KB/s) - ‘egw029’ saved [672860/672860]
+
+--2017-02-03 06:59:13--  http://doi.org/10.1093/petrology/egw036
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw036 [following]
+--2017-02-03 06:59:15--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw036
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 06:59:15 ERROR 400: Bad Request.
+
+--2017-02-03 06:59:16--  http://doi.org/10.1093/petrology/egw030
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw030 [following]
+--2017-02-03 06:59:18--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw030
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 727585 (711K) [text/html]
+Saving to: ‘egw030’
+
+     0K .......... .......... .......... .......... ..........  7%  212K 3s
+    50K .......... .......... .......... .......... .......... 14%  617K 2s
+   100K .......... .......... .......... .......... .......... 21%  614K 1s
+   150K .......... .......... .......... .......... .......... 28%  318K 1s
+   200K .......... .......... .......... .......... .......... 35%  601K 1s
+   250K .......... .......... .......... .......... .......... 42%  601K 1s
+   300K .......... .......... .......... .......... .......... 49%  615K 1s
+   350K .......... .......... .......... .......... .......... 56%  321K 1s
+   400K .......... .......... .......... .......... .......... 63%  610K 1s
+   450K .......... .......... .......... .......... .......... 70%  609K 0s
+   500K .......... .......... .......... .......... .......... 77%  601K 0s
+   550K .......... .......... .......... .......... .......... 84%  323K 0s
+   600K .......... .......... .......... .......... .......... 91%  612K 0s
+   650K .......... .......... .......... .......... .......... 98%  604K 0s
+   700K ..........                                            100% 21.7M=1.5s
+
+2017-02-03 06:59:23 (466 KB/s) - ‘egw030’ saved [727585/727585]
+
+--2017-02-03 06:59:24--  http://doi.org/10.1093/petrology/egw037
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw037 [following]
+--2017-02-03 06:59:25--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw037
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 791306 (773K) [text/html]
+Saving to: ‘egw037’
+
+     0K .......... .......... .......... .......... ..........  6%  314K 2s
+    50K .......... .......... .......... .......... .......... 12%  315K 2s
+   100K .......... .......... .......... .......... .......... 19%  614K 2s
+   150K .......... .......... .......... .......... .......... 25%  618K 1s
+   200K .......... .......... .......... .......... .......... 32%  313K 1s
+   250K .......... .......... .......... .......... .......... 38%  617K 1s
+   300K .......... .......... .......... .......... .......... 45%  620K 1s
+   350K .......... .......... .......... .......... .......... 51%  604K 1s
+   400K .......... .......... .......... .......... .......... 58%  319K 1s
+   450K .......... .......... .......... .......... .......... 64%  620K 1s
+   500K .......... .......... .......... .......... .......... 71%  596K 0s
+   550K .......... .......... .......... .......... .......... 77%  318K 0s
+   600K .......... .......... .......... .......... .......... 84%  618K 0s
+   650K .......... .......... .......... .......... .......... 90%  610K 0s
+   700K .......... .......... .......... .......... .......... 97%  313K 0s
+   750K .......... .......... ..                              100% 10.8M=1.7s
+
+2017-02-03 06:59:32 (458 KB/s) - ‘egw037’ saved [791306/791306]
+
+--2017-02-03 06:59:33--  http://doi.org/10.1093/petrology/egw034
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw034 [following]
+--2017-02-03 06:59:34--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw034
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 868584 (848K) [text/html]
+Saving to: ‘egw034’
+
+     0K .......... .......... .......... .......... ..........  5%  212K 4s
+    50K .......... .......... .......... .......... .......... 11%  602K 2s
+   100K .......... .......... .......... .......... .......... 17%  610K 2s
+   150K .......... .......... .......... .......... .......... 23%  617K 2s
+   200K .......... .......... .......... .......... .......... 29%  322K 2s
+   250K .......... .......... .......... .......... .......... 35%  621K 1s
+   300K .......... .......... .......... .......... .......... 41%  592K 1s
+   350K .......... .......... .......... .......... .......... 47%  595K 1s
+   400K .......... .......... .......... .......... .......... 53%  610K 1s
+   450K .......... .......... .......... .......... .......... 58%  330K 1s
+   500K .......... .......... .......... .......... .......... 64%  567K 1s
+   550K .......... .......... .......... .......... .......... 70%  610K 1s
+   600K .......... .......... .......... .......... .......... 76%  602K 0s
+   650K .......... .......... .......... .......... .......... 82%  322K 0s
+   700K .......... .......... .......... .......... .......... 88%  596K 0s
+   750K .......... .......... .......... .......... .......... 94%  571K 0s
+   800K .......... .......... .......... .......... ........  100%  602K=1.8s
+
+2017-02-03 06:59:40 (476 KB/s) - ‘egw034’ saved [868584/868584]
+
+--2017-02-03 06:59:41--  http://doi.org/10.1093/petrology/egw035
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw035 [following]
+--2017-02-03 06:59:43--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw035
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 06:59:43 ERROR 400: Bad Request.
+
+--2017-02-03 06:59:44--  http://doi.org/10.1093/petrology/egw027
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw027 [following]
+--2017-02-03 06:59:46--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw027
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 200175 (195K) [text/html]
+Saving to: ‘egw027’
+
+     0K .......... .......... .......... .......... .......... 25%  211K 1s
+    50K .......... .......... .......... .......... .......... 51%  615K 0s
+   100K .......... .......... .......... .......... .......... 76%  614K 0s
+   150K .......... .......... .......... .......... .....     100%  554K=0.5s
+
+2017-02-03 06:59:49 (406 KB/s) - ‘egw027’ saved [200175/200175]
+
+--2017-02-03 06:59:50--  http://doi.org/10.1093/petrology/egw028
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw028 [following]
+--2017-02-03 06:59:52--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw028
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1414280 (1.3M) [text/html]
+Saving to: ‘egw028’
+
+     0K .......... .......... .......... .......... ..........  3%  313K 4s
+    50K .......... .......... .......... .......... ..........  7%  317K 4s
+   100K .......... .......... .......... .......... .......... 10%  607K 3s
+   150K .......... .......... .......... .......... .......... 14%  614K 3s
+   200K .......... .......... .......... .......... .......... 18%  317K 3s
+   250K .......... .......... .......... .......... .......... 21%  613K 3s
+   300K .......... .......... .......... .......... .......... 25%  613K 2s
+   350K .......... .......... .......... .......... .......... 28%  609K 2s
+   400K .......... .......... .......... .......... .......... 32%  316K 2s
+   450K .......... .......... .......... .......... .......... 36%  620K 2s
+   500K .......... .......... .......... .......... .......... 39%  609K 2s
+   550K .......... .......... .......... .......... .......... 43%  316K 2s
+   600K .......... .......... .......... .......... .......... 47%  620K 2s
+   650K .......... .......... .......... .......... .......... 50%  607K 1s
+   700K .......... .......... .......... .......... .......... 54%  317K 1s
+   750K .......... .......... .......... .......... .......... 57%  618K 1s
+   800K .......... .......... .......... .......... .......... 61%  611K 1s
+   850K .......... .......... .......... .......... .......... 65%  603K 1s
+   900K .......... .......... .......... .......... .......... 68%  614K 1s
+   950K .......... .......... .......... .......... .......... 72%  310K 1s
+  1000K .......... .......... .......... .......... .......... 76%  613K 1s
+  1050K .......... .......... .......... .......... .......... 79%  611K 1s
+  1100K .......... .......... .......... .......... .......... 83%  317K 1s
+  1150K .......... .......... .......... .......... .......... 86%  614K 0s
+  1200K .......... .......... .......... .......... .......... 90%  616K 0s
+  1250K .......... .......... .......... .......... .......... 94%  606K 0s
+  1300K .......... .......... .......... .......... .......... 97%  317K 0s
+  1350K .......... .......... .......... .                    100% 9.76M=2.9s
+
+2017-02-03 06:59:58 (476 KB/s) - ‘egw028’ saved [1414280/1414280]
+
+--2017-02-03 06:59:59--  http://doi.org/10.1093/petrology/egw024
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw024 [following]
+--2017-02-03 07:00:01--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw024
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 837161 (818K) [text/html]
+Saving to: ‘egw024’
+
+     0K .......... .......... .......... .......... ..........  6%  197K 4s
+    50K .......... .......... .......... .......... .......... 12%  394K 3s
+   100K .......... .......... .......... .......... .......... 18%  616K 2s
+   150K .......... .......... .......... .......... .......... 24%  612K 2s
+   200K .......... .......... .......... .......... .......... 30%  341K 2s
+   250K .......... .......... .......... .......... .......... 36%  534K 1s
+   300K .......... .......... .......... .......... .......... 42%  618K 1s
+   350K .......... .......... .......... .......... .......... 48%  315K 1s
+   400K .......... .......... .......... .......... .......... 55%  614K 1s
+   450K .......... .......... .......... .......... .......... 61%  614K 1s
+   500K .......... .......... .......... .......... .......... 67%  615K 1s
+   550K .......... .......... .......... .......... .......... 73%  318K 1s
+   600K .......... .......... .......... .......... .......... 79%  611K 0s
+   650K .......... .......... .......... .......... .......... 85%  608K 0s
+   700K .......... .......... .......... .......... .......... 91%  599K 0s
+   750K .......... .......... .......... .......... .......... 97%  315K 0s
+   800K .......... .......                                    100% 15.0M=1.8s
+
+2017-02-03 07:00:06 (446 KB/s) - ‘egw024’ saved [837161/837161]
+
+--2017-02-03 07:00:07--  http://doi.org/10.1093/petrology/egw032
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw032 [following]
+--2017-02-03 07:00:08--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw032
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 831736 (812K) [text/html]
+Saving to: ‘egw032’
+
+     0K .......... .......... .......... .......... ..........  6%  261K 3s
+    50K .......... .......... .......... .......... .......... 12%  316K 2s
+   100K .......... .......... .......... .......... .......... 18%  612K 2s
+   150K .......... .......... .......... .......... .......... 24%  611K 2s
+   200K .......... .......... .......... .......... .......... 30%  313K 2s
+   250K .......... .......... .......... .......... .......... 36%  589K 1s
+   300K .......... .......... .......... .......... .......... 43%  617K 1s
+   350K .......... .......... .......... .......... .......... 49%  326K 1s
+   400K .......... .......... .......... .......... .......... 55%  609K 1s
+   450K .......... .......... .......... .......... .......... 61%  570K 1s
+   500K .......... .......... .......... .......... .......... 67%  606K 1s
+   550K .......... .......... .......... .......... .......... 73%  615K 0s
+   600K .......... .......... .......... .......... .......... 80%  334K 0s
+   650K .......... .......... .......... .......... .......... 86%  555K 0s
+   700K .......... .......... .......... .......... .......... 92%  605K 0s
+   750K .......... .......... .......... .......... .......... 98%  336K 0s
+   800K .......... ..                                         100% 24.9M=1.8s
+
+2017-02-03 07:00:14 (452 KB/s) - ‘egw032’ saved [831736/831736]
+
+--2017-02-03 07:00:15--  http://doi.org/10.1093/petrology/egw025
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw025 [following]
+--2017-02-03 07:00:16--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw025
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 616300 (602K) [text/html]
+Saving to: ‘egw025’
+
+     0K .......... .......... .......... .......... ..........  8%  211K 3s
+    50K .......... .......... .......... .......... .......... 16%  613K 2s
+   100K .......... .......... .......... .......... .......... 24%  610K 1s
+   150K .......... .......... .......... .......... .......... 33%  616K 1s
+   200K .......... .......... .......... .......... .......... 41%  318K 1s
+   250K .......... .......... .......... .......... .......... 49%  577K 1s
+   300K .......... .......... .......... .......... .......... 58%  616K 1s
+   350K .......... .......... .......... .......... .......... 66%  613K 0s
+   400K .......... .......... .......... .......... .......... 74%  316K 0s
+   450K .......... .......... .......... .......... .......... 83%  620K 0s
+   500K .......... .......... .......... .......... .......... 91%  602K 0s
+   550K .......... .......... .......... .......... .......... 99%  614K 0s
+   600K .                                                     100% 3539G=1.3s
+
+2017-02-03 07:00:21 (466 KB/s) - ‘egw025’ saved [616300/616300]
+
+--2017-02-03 07:00:22--  http://doi.org/10.1093/petrology/egw023
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw023 [following]
+--2017-02-03 07:00:23--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 797669 (779K) [text/html]
+Saving to: ‘egw023’
+
+     0K .......... .......... .......... .......... ..........  6%  211K 3s
+    50K .......... .......... .......... .......... .......... 12%  610K 2s
+   100K .......... .......... .......... .......... .......... 19%  613K 2s
+   150K .......... .......... .......... .......... .......... 25%  321K 2s
+   200K .......... .......... .......... .......... .......... 32%  584K 1s
+   250K .......... .......... .......... .......... .......... 38%  616K 1s
+   300K .......... .......... .......... .......... .......... 44%  613K 1s
+   350K .......... .......... .......... .......... .......... 51%  608K 1s
+   400K .......... .......... .......... .......... .......... 57%  318K 1s
+   450K .......... .......... .......... .......... .......... 64%  598K 1s
+   500K .......... .......... .......... .......... .......... 70%  616K 1s
+   550K .......... .......... .......... .......... .......... 77%  310K 0s
+   600K .......... .......... .......... .......... .......... 83%  612K 0s
+   650K .......... .......... .......... .......... .......... 89%  610K 0s
+   700K .......... .......... .......... .......... .......... 96%  613K 0s
+   750K .......... .......... ........                        100%  368K=1.7s
+
+2017-02-03 07:00:29 (460 KB/s) - ‘egw023’ saved [797669/797669]
+
+--2017-02-03 07:00:30--  http://doi.org/10.1093/petrology/egw033
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw033 [following]
+--2017-02-03 07:00:31--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw033
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 746154 (729K) [text/html]
+Saving to: ‘egw033’
+
+     0K .......... .......... .......... .......... ..........  6%  211K 3s
+    50K .......... .......... .......... .......... .......... 13%  610K 2s
+   100K .......... .......... .......... .......... .......... 20%  597K 2s
+   150K .......... .......... .......... .......... .......... 27%  447K 1s
+   200K .......... .......... .......... .......... .......... 34%  394K 1s
+   250K .......... .......... .......... .......... .......... 41%  616K 1s
+   300K .......... .......... .......... .......... .......... 48%  597K 1s
+   350K .......... .......... .......... .......... .......... 54%  315K 1s
+   400K .......... .......... .......... .......... .......... 61%  598K 1s
+   450K .......... .......... .......... .......... .......... 68%  617K 1s
+   500K .......... .......... .......... .......... .......... 75%  610K 0s
+   550K .......... .......... .......... .......... .......... 82%  314K 0s
+   600K .......... .......... .......... .......... .......... 89%  594K 0s
+   650K .......... .......... .......... .......... .......... 96%  323K 0s
+   700K .......... .......... ........                        100% 4.13M=1.6s
+
+2017-02-03 07:00:38 (451 KB/s) - ‘egw033’ saved [746154/746154]
+
+--2017-02-03 07:00:39--  http://doi.org/10.1093/petrology/egw026
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw026 [following]
+--2017-02-03 07:00:40--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw026
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 07:00:41 ERROR 400: Bad Request.
+
+--2017-02-03 07:00:42--  http://doi.org/10.1093/petrology/egw018
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw018 [following]
+--2017-02-03 07:00:43--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw018
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 746527 (729K) [text/html]
+Saving to: ‘egw018’
+
+     0K .......... .......... .......... .......... ..........  6%  211K 3s
+    50K .......... .......... .......... .......... .......... 13%  613K 2s
+   100K .......... .......... .......... .......... .......... 20%  619K 2s
+   150K .......... .......... .......... .......... .......... 27%  609K 1s
+   200K .......... .......... .......... .......... .......... 34%  316K 1s
+   250K .......... .......... .......... .......... .......... 41%  617K 1s
+   300K .......... .......... .......... .......... .......... 48%  609K 1s
+   350K .......... .......... .......... .......... .......... 54%  318K 1s
+   400K .......... .......... .......... .......... .......... 61%  613K 1s
+   450K .......... .......... .......... .......... .......... 68%  619K 1s
+   500K .......... .......... .......... .......... .......... 75%  317K 0s
+   550K .......... .......... .......... .......... .......... 82%  606K 0s
+   600K .......... .......... .......... .......... .......... 89%  614K 0s
+   650K .......... .......... .......... .......... .......... 96%  616K 0s
+   700K .......... .......... .........                       100%  368K=1.6s
+
+2017-02-03 07:00:48 (454 KB/s) - ‘egw018’ saved [746527/746527]
+
+--2017-02-03 07:00:49--  http://doi.org/10.1093/petrology/egw011
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw011 [following]
+--2017-02-03 07:00:50--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 894184 (873K) [text/html]
+Saving to: ‘egw011’
+
+     0K .......... .......... .......... .......... ..........  5%  309K 3s
+    50K .......... .......... .......... .......... .......... 11%  314K 2s
+   100K .......... .......... .......... .......... .......... 17%  579K 2s
+   150K .......... .......... .......... .......... .......... 22%  611K 2s
+   200K .......... .......... .......... .......... .......... 28%  311K 2s
+   250K .......... .......... .......... .......... .......... 34%  606K 1s
+   300K .......... .......... .......... .......... .......... 40%  613K 1s
+   350K .......... .......... .......... .......... .......... 45%  314K 1s
+   400K .......... .......... .......... .......... .......... 51%  602K 1s
+   450K .......... .......... .......... .......... .......... 57%  608K 1s
+   500K .......... .......... .......... .......... .......... 62%  315K 1s
+   550K .......... .......... .......... .......... .......... 68%  594K 1s
+   600K .......... .......... .......... .......... .......... 74%  602K 1s
+   650K .......... .......... .......... .......... .......... 80%  610K 0s
+   700K .......... .......... .......... .......... .......... 85%  316K 0s
+   750K .......... .......... .......... .......... .......... 91%  596K 0s
+   800K .......... .......... .......... .......... .......... 97%  606K 0s
+   850K .......... .......... ...                             100%  305K=1.9s
+
+2017-02-03 07:00:56 (448 KB/s) - ‘egw011’ saved [894184/894184]
+
+--2017-02-03 07:00:57--  http://doi.org/10.1093/petrology/egw017
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw017 [following]
+--2017-02-03 07:00:58--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 568600 (555K) [text/html]
+Saving to: ‘egw017’
+
+     0K .......... .......... .......... .......... ..........  9%  209K 2s
+    50K .......... .......... .......... .......... .......... 18%  605K 1s
+   100K .......... .......... .......... .......... .......... 27%  606K 1s
+   150K .......... .......... .......... .......... .......... 36%  606K 1s
+   200K .......... .......... .......... .......... .......... 45%  315K 1s
+   250K .......... .......... .......... .......... .......... 54%  607K 1s
+   300K .......... .......... .......... .......... .......... 63%  410K 0s
+   350K .......... .......... .......... .......... .......... 72%  403K 0s
+   400K .......... .......... .......... .......... .......... 81%  607K 0s
+   450K .......... .......... .......... .......... .......... 90%  417K 0s
+   500K .......... .......... .......... .......... .......... 99%  411K 0s
+   550K .....                                                 100% 19.9M=1.3s
+
+2017-02-03 07:01:03 (428 KB/s) - ‘egw017’ saved [568600/568600]
+
+--2017-02-03 07:01:04--  http://doi.org/10.1093/petrology/egw031
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw031 [following]
+--2017-02-03 07:01:06--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw031
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 67986 (66K) [text/html]
+Saving to: ‘egw031’
+
+     0K .......... .......... .......... .......... .......... 75%  309K 0s
+    50K .......... ......                                     100%  209K=0.2s
+
+2017-02-03 07:01:08 (277 KB/s) - ‘egw031’ saved [67986/67986]
+
+--2017-02-03 07:01:09--  http://doi.org/10.1093/petrology/egw020
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw020 [following]
+--2017-02-03 07:01:11--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw020
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 844239 (824K) [text/html]
+Saving to: ‘egw020’
+
+     0K .......... .......... .......... .......... ..........  6%  209K 4s
+    50K .......... .......... .......... .......... .......... 12%  607K 2s
+   100K .......... .......... .......... .......... .......... 18%  612K 2s
+   150K .......... .......... .......... .......... .......... 24%  416K 2s
+   200K .......... .......... .......... .......... .......... 30%  399K 1s
+   250K .......... .......... .......... .......... .......... 36%  606K 1s
+   300K .......... .......... .......... .......... .......... 42%  609K 1s
+   350K .......... .......... .......... .......... .......... 48%  315K 1s
+   400K .......... .......... .......... .......... .......... 54%  607K 1s
+   450K .......... .......... .......... .......... .......... 60%  604K 1s
+   500K .......... .......... .......... .......... .......... 66%  607K 1s
+   550K .......... .......... .......... .......... .......... 72%  312K 1s
+   600K .......... .......... .......... .......... .......... 78%  609K 0s
+   650K .......... .......... .......... .......... .......... 84%  606K 0s
+   700K .......... .......... .......... .......... .......... 90%  588K 0s
+   750K .......... .......... .......... .......... .......... 97%  313K 0s
+   800K .......... .......... ....                            100% 15.6M=1.8s
+
+2017-02-03 07:01:17 (460 KB/s) - ‘egw020’ saved [844239/844239]
+
+--2017-02-03 07:01:18--  http://doi.org/10.1093/petrology/egw012
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw012 [following]
+--2017-02-03 07:01:20--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 92524 (90K) [text/html]
+Saving to: ‘egw012’
+
+     0K .......... .......... .......... .......... .......... 55%  208K 0s
+    50K .......... .......... .......... ..........           100% 1003K=0.3s
+
+2017-02-03 07:01:24 (322 KB/s) - ‘egw012’ saved [92524/92524]
+
+--2017-02-03 07:01:25--  http://doi.org/10.1093/petrology/egw016
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw016 [following]
+--2017-02-03 07:01:26--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw016
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 735865 (719K) [text/html]
+Saving to: ‘egw016’
+
+     0K .......... .......... .......... .......... ..........  6%  209K 3s
+    50K .......... .......... .......... .......... .......... 13%  612K 2s
+   100K .......... .......... .......... .......... .......... 20%  607K 2s
+   150K .......... .......... .......... .......... .......... 27%  317K 1s
+   200K .......... .......... .......... .......... .......... 34%  603K 1s
+   250K .......... .......... .......... .......... .......... 41%  611K 1s
+   300K .......... .......... .......... .......... .......... 48%  608K 1s
+   350K .......... .......... .......... .......... .......... 55%  313K 1s
+   400K .......... .......... .......... .......... .......... 62%  611K 1s
+   450K .......... .......... .......... .......... .......... 69%  605K 0s
+   500K .......... .......... .......... .......... .......... 76%  610K 0s
+   550K .......... .......... .......... .......... .......... 83%  317K 0s
+   600K .......... .......... .......... .......... .......... 90%  602K 0s
+   650K .......... .......... .......... .......... .......... 97%  606K 0s
+   700K .......... ........                                   100%  239K=1.6s
+
+2017-02-03 07:01:32 (445 KB/s) - ‘egw016’ saved [735865/735865]
+
+--2017-02-03 07:01:33--  http://doi.org/10.1093/petrology/egw013
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw013 [following]
+--2017-02-03 07:01:34--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 488426 (477K) [text/html]
+Saving to: ‘egw013’
+
+     0K .......... .......... .......... .......... .......... 10%  209K 2s
+    50K .......... .......... .......... .......... .......... 20%  602K 1s
+   100K .......... .......... .......... .......... .......... 31%  608K 1s
+   150K .......... .......... .......... .......... .......... 41%  319K 1s
+   200K .......... .......... .......... .......... .......... 52%  585K 1s
+   250K .......... .......... .......... .......... .......... 62%  614K 0s
+   300K .......... .......... .......... .......... .......... 73%  603K 0s
+   350K .......... .......... .......... .......... .......... 83%  320K 0s
+   400K .......... .......... .......... .......... .......... 94%  587K 0s
+   450K .......... .......... ......                          100% 12.9M=1.1s
+
+2017-02-03 07:01:38 (452 KB/s) - ‘egw013’ saved [488426/488426]
+
+--2017-02-03 07:01:39--  http://doi.org/10.1093/petrology/egw022
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw022 [following]
+--2017-02-03 07:01:41--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw022
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 522969 (511K) [text/html]
+Saving to: ‘egw022’
+
+     0K .......... .......... .......... .......... ..........  9%  208K 2s
+    50K .......... .......... .......... .......... .......... 19%  607K 1s
+   100K .......... .......... .......... .......... .......... 29%  588K 1s
+   150K .......... .......... .......... .......... .......... 39%  318K 1s
+   200K .......... .......... .......... .......... .......... 48%  588K 1s
+   250K .......... .......... .......... .......... .......... 58%  608K 1s
+   300K .......... .......... .......... .......... .......... 68%  593K 0s
+   350K .......... .......... .......... .......... .......... 78%  606K 0s
+   400K .......... .......... .......... .......... .......... 88%  317K 0s
+   450K .......... .......... .......... .......... .......... 97%  578K 0s
+   500K ..........                                            100% 3.42M=1.1s
+
+2017-02-03 07:01:45 (445 KB/s) - ‘egw022’ saved [522969/522969]
+
+--2017-02-03 07:01:46--  http://doi.org/10.1093/petrology/egw021
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw021 [following]
+--2017-02-03 07:01:47--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 819865 (801K) [text/html]
+Saving to: ‘egw021’
+
+     0K .......... .......... .......... .......... ..........  6%  209K 4s
+    50K .......... .......... .......... .......... .......... 12%  606K 2s
+   100K .......... .......... .......... .......... .......... 18%  609K 2s
+   150K .......... .......... .......... .......... .......... 24%  317K 2s
+   200K .......... .......... .......... .......... .......... 31%  596K 1s
+   250K .......... .......... .......... .......... .......... 37%  602K 1s
+   300K .......... .......... .......... .......... .......... 43%  606K 1s
+   350K .......... .......... .......... .......... .......... 49%  312K 1s
+   400K .......... .......... .......... .......... .......... 56%  611K 1s
+   450K .......... .......... .......... .......... .......... 62%  606K 1s
+   500K .......... .......... .......... .......... .......... 68%  312K 1s
+   550K .......... .......... .......... .......... .......... 74%  592K 0s
+   600K .......... .......... .......... .......... .......... 81%  612K 0s
+   650K .......... .......... .......... .......... .......... 87%  592K 0s
+   700K .......... .......... .......... .......... .......... 93%  317K 0s
+   750K .......... .......... .......... .......... .......... 99%  614K 0s
+   800K                                                       100% 4.32M=1.8s
+
+2017-02-03 07:01:52 (448 KB/s) - ‘egw021’ saved [819865/819865]
+
+--2017-02-03 07:01:53--  http://doi.org/10.1093/petrology/egw019
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw019 [following]
+--2017-02-03 07:01:55--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 539456 (527K) [text/html]
+Saving to: ‘egw019’
+
+     0K .......... .......... .......... .......... ..........  9%  209K 2s
+    50K .......... .......... .......... .......... .......... 18%  548K 1s
+   100K .......... .......... .......... .......... .......... 28%  606K 1s
+   150K .......... .......... .......... .......... .......... 37%  606K 1s
+   200K .......... .......... .......... .......... .......... 47%  313K 1s
+   250K .......... .......... .......... .......... .......... 56%  612K 1s
+   300K .......... .......... .......... .......... .......... 66%  608K 0s
+   350K .......... .......... .......... .......... .......... 75%  313K 0s
+   400K .......... .......... .......... .......... .......... 85%  562K 0s
+   450K .......... .......... .......... .......... .......... 94%  614K 0s
+   500K .......... .......... ......                          100%  337K=1.2s
+
+2017-02-03 07:01:59 (429 KB/s) - ‘egw019’ saved [539456/539456]
+
+--2017-02-03 07:02:00--  http://doi.org/10.1093/petrology/egw015
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw015 [following]
+--2017-02-03 07:02:01--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 07:02:02 ERROR 400: Bad Request.
+
+--2017-02-03 07:02:03--  http://doi.org/10.1093/petrology/egw001
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw001 [following]
+--2017-02-03 07:02:04--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 958064 (936K) [text/html]
+Saving to: ‘egw001’
+
+     0K .......... .......... .......... .......... ..........  5%  209K 4s
+    50K .......... .......... .......... .......... .......... 10%  613K 3s
+   100K .......... .......... .......... .......... .......... 16%  599K 2s
+   150K .......... .......... .......... .......... .......... 21%  609K 2s
+   200K .......... .......... .......... .......... .......... 26%  315K 2s
+   250K .......... .......... .......... .......... .......... 32%  599K 2s
+   300K .......... .......... .......... .......... .......... 37%  606K 1s
+   350K .......... .......... .......... .......... .......... 42%  319K 1s
+   400K .......... .......... .......... .......... .......... 48%  578K 1s
+   450K .......... .......... .......... .......... .......... 53%  590K 1s
+   500K .......... .......... .......... .......... .......... 58%  605K 1s
+   550K .......... .......... .......... .......... .......... 64%  326K 1s
+   600K .......... .......... .......... .......... .......... 69%  608K 1s
+   650K .......... .......... .......... .......... .......... 74%  560K 1s
+   700K .......... .......... .......... .......... .......... 80%  607K 0s
+   750K .......... .......... .......... .......... .......... 85%  315K 0s
+   800K .......... .......... .......... .......... .......... 90%  599K 0s
+   850K .......... .......... .......... .......... .......... 96%  602K 0s
+   900K .......... .......... .......... .....                100%  449K=2.0s
+
+2017-02-03 07:02:10 (460 KB/s) - ‘egw001’ saved [958064/958064]
+
+--2017-02-03 07:02:11--  http://doi.org/10.1093/petrology/egw009
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw009 [following]
+--2017-02-03 07:02:12--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 953387 (931K) [text/html]
+Saving to: ‘egw009’
+
+     0K .......... .......... .......... .......... ..........  5%  309K 3s
+    50K .......... .......... .......... .......... .......... 10%  306K 3s
+   100K .......... .......... .......... .......... .......... 16%  612K 2s
+   150K .......... .......... .......... .......... .......... 21%  604K 2s
+   200K .......... .......... .......... .......... .......... 26%  322K 2s
+   250K .......... .......... .......... .......... .......... 32%  576K 2s
+   300K .......... .......... .......... .......... .......... 37%  608K 1s
+   350K .......... .......... .......... .......... .......... 42%  605K 1s
+   400K .......... .......... .......... .......... .......... 48%  308K 1s
+   450K .......... .......... .......... .......... .......... 53%  604K 1s
+   500K .......... .......... .......... .......... .......... 59%  601K 1s
+   550K .......... .......... .......... .......... .......... 64%  315K 1s
+   600K .......... .......... .......... .......... .......... 69%  611K 1s
+   650K .......... .......... .......... .......... .......... 75%  587K 1s
+   700K .......... .......... .......... .......... .......... 80%  609K 0s
+   750K .......... .......... .......... .......... .......... 85%  314K 0s
+   800K .......... .......... .......... .......... .......... 91%  600K 0s
+   850K .......... .......... .......... .......... .......... 96%  600K 0s
+   900K .......... .......... .......... .                    100%  387K=2.0s
+
+2017-02-03 07:02:18 (457 KB/s) - ‘egw009’ saved [953387/953387]
+
+--2017-02-03 07:02:19--  http://doi.org/10.1093/petrology/egw008
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw008 [following]
+--2017-02-03 07:02:20--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 851435 (831K) [text/html]
+Saving to: ‘egw008’
+
+     0K .......... .......... .......... .......... ..........  6%  207K 4s
+    50K .......... .......... .......... .......... .......... 12%  594K 2s
+   100K .......... .......... .......... .......... .......... 18%  608K 2s
+   150K .......... .......... .......... .......... .......... 24%  597K 2s
+   200K .......... .......... .......... .......... .......... 30%  608K 1s
+   250K .......... .......... .......... .......... .......... 36%  312K 1s
+   300K .......... .......... .......... .......... .......... 42%  600K 1s
+   350K .......... .......... .......... .......... .......... 48%  597K 1s
+   400K .......... .......... .......... .......... .......... 54%  605K 1s
+   450K .......... .......... .......... .......... .......... 60%  314K 1s
+   500K .......... .......... .......... .......... .......... 66%  605K 1s
+   550K .......... .......... .......... .......... .......... 72%  606K 1s
+   600K .......... .......... .......... .......... .......... 78%  594K 0s
+   650K .......... .......... .......... .......... .......... 84%  313K 0s
+   700K .......... .......... .......... .......... .......... 90%  605K 0s
+   750K .......... .......... .......... .......... .......... 96%  606K 0s
+   800K .......... .......... .......... .                    100%  399K=1.8s
+
+2017-02-03 07:02:28 (463 KB/s) - ‘egw008’ saved [851435/851435]
+
+--2017-02-03 07:02:29--  http://doi.org/10.1093/petrology/egw003
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw003 [following]
+--2017-02-03 07:02:30--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 948372 (926K) [text/html]
+Saving to: ‘egw003’
+
+     0K .......... .......... .......... .......... ..........  5%  209K 4s
+    50K .......... .......... .......... .......... .......... 10%  605K 3s
+   100K .......... .......... .......... .......... .......... 16%  612K 2s
+   150K .......... .......... .......... .......... .......... 21%  417K 2s
+   200K .......... .......... .......... .......... .......... 26%  406K 2s
+   250K .......... .......... .......... .......... .......... 32%  610K 2s
+   300K .......... .......... .......... .......... .......... 37%  413K 1s
+   350K .......... .......... .......... .......... .......... 43%  411K 1s
+   400K .......... .......... .......... .......... .......... 48%  609K 1s
+   450K .......... .......... .......... .......... .......... 53%  315K 1s
+   500K .......... .......... .......... .......... .......... 59%  607K 1s
+   550K .......... .......... .......... .......... .......... 64%  606K 1s
+   600K .......... .......... .......... .......... .......... 70%  605K 1s
+   650K .......... .......... .......... .......... .......... 75%  311K 1s
+   700K .......... .......... .......... .......... .......... 80%  612K 0s
+   750K .......... .......... .......... .......... .......... 86%  602K 0s
+   800K .......... .......... .......... .......... .......... 91%  315K 0s
+   850K .......... .......... .......... .......... .......... 97%  604K 0s
+   900K .......... .......... ......                          100%  333K=2.1s
+
+2017-02-03 07:02:39 (440 KB/s) - ‘egw003’ saved [948372/948372]
+
+--2017-02-03 07:02:40--  http://doi.org/10.1093/petrology/egw010
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw010 [following]
+--2017-02-03 07:02:41--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 07:02:42 ERROR 400: Bad Request.
+
+--2017-02-03 07:02:43--  http://doi.org/10.1093/petrology/egw014
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw014 [following]
+--2017-02-03 07:02:44--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw014
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 534712 (522K) [text/html]
+Saving to: ‘egw014’
+
+     0K .......... .......... .......... .......... ..........  9%  209K 2s
+    50K .......... .......... .......... .......... .......... 19%  606K 1s
+   100K .......... .......... .......... .......... .......... 28%  605K 1s
+   150K .......... .......... .......... .......... .......... 38%  605K 1s
+   200K .......... .......... .......... .......... .......... 47%  312K 1s
+   250K .......... .......... .......... .......... .......... 57%  606K 1s
+   300K .......... .......... .......... .......... .......... 67%  609K 0s
+   350K .......... .......... .......... .......... .......... 76%  440K 0s
+   400K .......... .......... .......... .......... .......... 86%  393K 0s
+   450K .......... .......... .......... .......... .......... 95%  608K 0s
+   500K .......... .......... ..                              100%  280K=1.2s
+
+2017-02-03 07:02:49 (430 KB/s) - ‘egw014’ saved [534712/534712]
+
+--2017-02-03 07:02:50--  http://doi.org/10.1093/petrology/egw006
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw006 [following]
+--2017-02-03 07:02:51--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 719708 (703K) [text/html]
+Saving to: ‘egw006’
+
+     0K .......... .......... .......... .......... ..........  7%  209K 3s
+    50K .......... .......... .......... .......... .......... 14%  609K 2s
+   100K .......... .......... .......... .......... .......... 21%  606K 1s
+   150K .......... .......... .......... .......... .......... 28%  315K 1s
+   200K .......... .......... .......... .......... .......... 35%  583K 1s
+   250K .......... .......... .......... .......... .......... 42%  606K 1s
+   300K .......... .......... .......... .......... .......... 49%  592K 1s
+   350K .......... .......... .......... .......... .......... 56%  324K 1s
+   400K .......... .......... .......... .......... .......... 64%  571K 1s
+   450K .......... .......... .......... .......... .......... 71%  606K 0s
+   500K .......... .......... .......... .......... .......... 78%  574K 0s
+   550K .......... .......... .......... .......... .......... 85%  326K 0s
+   600K .......... .......... .......... .......... .......... 92%  564K 0s
+   650K .......... .......... .......... .......... .......... 99%  602K 0s
+   700K ..                                                    100% 5417G=1.6s
+
+2017-02-03 07:02:56 (453 KB/s) - ‘egw006’ saved [719708/719708]
+
+--2017-02-03 07:02:57--  http://doi.org/10.1093/petrology/egv074
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv074 [following]
+--2017-02-03 07:02:59--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv074
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 888280 (867K) [text/html]
+Saving to: ‘egv074’
+
+     0K .......... .......... .......... .......... ..........  5%  209K 4s
+    50K .......... .......... .......... .......... .......... 11%  606K 2s
+   100K .......... .......... .......... .......... .......... 17%  611K 2s
+   150K .......... .......... .......... .......... .......... 23%  601K 2s
+   200K .......... .......... .......... .......... .......... 28%  316K 2s
+   250K .......... .......... .......... .......... .......... 34%  608K 1s
+   300K .......... .......... .......... .......... .......... 40%  597K 1s
+   350K .......... .......... .......... .......... .......... 46%  315K 1s
+   400K .......... .......... .......... .......... .......... 51%  592K 1s
+   450K .......... .......... .......... .......... .......... 57%  595K 1s
+   500K .......... .......... .......... .......... .......... 63%  596K 1s
+   550K .......... .......... .......... .......... .......... 69%  317K 1s
+   600K .......... .......... .......... .......... .......... 74%  601K 0s
+   650K .......... .......... .......... .......... .......... 80%  607K 0s
+   700K .......... .......... .......... .......... .......... 86%  597K 0s
+   750K .......... .......... .......... .......... .......... 92%  315K 0s
+   800K .......... .......... .......... .......... .......... 97%  569K 0s
+   850K .......... .......                                    100% 11.8M=1.9s
+
+2017-02-03 07:03:05 (462 KB/s) - ‘egv074’ saved [888280/888280]
+
+--2017-02-03 07:03:06--  http://doi.org/10.1093/petrology/egv082
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv082 [following]
+--2017-02-03 07:03:07--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv082
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 957698 (935K) [text/html]
+Saving to: ‘egv082’
+
+     0K .......... .......... .......... .......... ..........  5%  209K 4s
+    50K .......... .......... .......... .......... .......... 10%  609K 3s
+   100K .......... .......... .......... .......... .......... 16%  605K 2s
+   150K .......... .......... .......... .......... .......... 21%  586K 2s
+   200K .......... .......... .......... .......... .......... 26%  314K 2s
+   250K .......... .......... .......... .......... .......... 32%  602K 2s
+   300K .......... .......... .......... .......... .......... 37%  605K 1s
+   350K .......... .......... .......... .......... .......... 42%  310K 1s
+   400K .......... .......... .......... .......... .......... 48%  311K 1s
+   450K .......... .......... .......... .......... .......... 53%  418K 1s
+   500K .......... .......... .......... .......... .......... 58%  395K 1s
+   550K .......... .......... .......... .......... .......... 64%  311K 1s
+   600K .......... .......... .......... .......... .......... 69%  315K 1s
+   650K .......... .......... .......... .......... .......... 74%  600K 1s
+   700K .......... .......... .......... .......... .......... 80%  601K 0s
+   750K .......... .......... .......... .......... .......... 85%  435K 0s
+   800K .......... .......... .......... .......... .......... 90%  400K 0s
+   850K .......... .......... .......... .......... .......... 96%  595K 0s
+   900K .......... .......... .......... .....                100%  451K=2.3s
+
+2017-02-03 07:03:13 (412 KB/s) - ‘egv082’ saved [957698/957698]
+
+--2017-02-03 07:03:14--  http://doi.org/10.1093/petrology/egv070
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv070 [following]
+--2017-02-03 07:03:15--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv070
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 625730 (611K) [text/html]
+Saving to: ‘egv070’
+
+     0K .......... .......... .......... .......... ..........  8%  208K 3s
+    50K .......... .......... .......... .......... .......... 16%  602K 2s
+   100K .......... .......... .......... .......... .......... 24%  610K 1s
+   150K .......... .......... .......... .......... .......... 32%  584K 1s
+   200K .......... .......... .......... .......... .......... 40%  318K 1s
+   250K .......... .......... .......... .......... .......... 49%  611K 1s
+   300K .......... .......... .......... .......... .......... 57%  599K 1s
+   350K .......... .......... .......... .......... .......... 65%  317K 1s
+   400K .......... .......... .......... .......... .......... 73%  604K 0s
+   450K .......... .......... .......... .......... .......... 81%  602K 0s
+   500K .......... .......... .......... .......... .......... 90%  582K 0s
+   550K .......... .......... .......... .......... .......... 98%  323K 0s
+   600K .......... .                                          100% 2.30M=1.4s
+
+2017-02-03 07:03:20 (442 KB/s) - ‘egv070’ saved [625730/625730]
+
+--2017-02-03 07:03:21--  http://doi.org/10.1093/petrology/egw005
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw005 [following]
+--2017-02-03 07:03:22--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 961059 (939K) [text/html]
+Saving to: ‘egw005’
+
+     0K .......... .......... .......... .......... ..........  5%  209K 4s
+    50K .......... .......... .......... .......... .......... 10%  606K 3s
+   100K .......... .......... .......... .......... .......... 15%  610K 2s
+   150K .......... .......... .......... .......... .......... 21%  426K 2s
+   200K .......... .......... .......... .......... .......... 26%  606K 2s
+   250K .......... .......... .......... .......... .......... 31%  394K 2s
+   300K .......... .......... .......... .......... .......... 37%  605K 1s
+   350K .......... .......... .......... .......... .......... 42%  435K 1s
+   400K .......... .......... .......... .......... .......... 47%  608K 1s
+   450K .......... .......... .......... .......... .......... 53%  395K 1s
+   500K .......... .......... .......... .......... .......... 58%  584K 1s
+   550K .......... .......... .......... .......... .......... 63%  311K 1s
+   600K .......... .......... .......... .......... .......... 69%  611K 1s
+   650K .......... .......... .......... .......... .......... 74%  596K 1s
+   700K .......... .......... .......... .......... .......... 79%  316K 0s
+   750K .......... .......... .......... .......... .......... 85%  610K 0s
+   800K .......... .......... .......... .......... .......... 90%  605K 0s
+   850K .......... .......... .......... .......... .......... 95%  313K 0s
+   900K .......... .......... .......... ........             100%  489K=2.1s
+
+2017-02-03 07:03:28 (445 KB/s) - ‘egw005’ saved [961059/961059]
+
+--2017-02-03 07:03:29--  http://doi.org/10.1093/petrology/egw002
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw002 [following]
+--2017-02-03 07:03:31--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 735129 (718K) [text/html]
+Saving to: ‘egw002’
+
+     0K .......... .......... .......... .......... ..........  6%  209K 3s
+    50K .......... .......... .......... .......... .......... 13%  605K 2s
+   100K .......... .......... .......... .......... .......... 20%  609K 2s
+   150K .......... .......... .......... .......... .......... 27%  417K 1s
+   200K .......... .......... .......... .......... .......... 34%  407K 1s
+   250K .......... .......... .......... .......... .......... 41%  614K 1s
+   300K .......... .......... .......... .......... .......... 48%  607K 1s
+   350K .......... .......... .......... .......... .......... 55%  316K 1s
+   400K .......... .......... .......... .......... .......... 62%  572K 1s
+   450K .......... .......... .......... .......... .......... 69%  613K 0s
+   500K .......... .......... .......... .......... .......... 76%  322K 0s
+   550K .......... .......... .......... .......... .......... 83%  572K 0s
+   600K .......... .......... .......... .......... .......... 90%  614K 0s
+   650K .......... .......... .......... .......... .......... 97%  606K 0s
+   700K .......... .......                                    100%  229K=1.6s
+
+2017-02-03 07:03:36 (442 KB/s) - ‘egw002’ saved [735129/735129]
+
+--2017-02-03 07:03:37--  http://doi.org/10.1093/petrology/egw004
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw004 [following]
+--2017-02-03 07:03:38--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 979557 (957K) [text/html]
+Saving to: ‘egw004’
+
+     0K .......... .......... .......... .......... ..........  5%  206K 4s
+    50K .......... .......... .......... .......... .......... 10%  601K 3s
+   100K .......... .......... .......... .......... .......... 15%  613K 2s
+   150K .......... .......... .......... .......... .......... 20%  603K 2s
+   200K .......... .......... .......... .......... .......... 26%  317K 2s
+   250K .......... .......... .......... .......... .......... 31%  585K 2s
+   300K .......... .......... .......... .......... .......... 36%  610K 1s
+   350K .......... .......... .......... .......... .......... 41%  318K 1s
+   400K .......... .......... .......... .......... .......... 47%  607K 1s
+   450K .......... .......... .......... .......... .......... 52%  572K 1s
+   500K .......... .......... .......... .......... .......... 57%  602K 1s
+   550K .......... .......... .......... .......... .......... 62%  321K 1s
+   600K .......... .......... .......... .......... .......... 67%  570K 1s
+   650K .......... .......... .......... .......... .......... 73%  604K 1s
+   700K .......... .......... .......... .......... .......... 78%  324K 0s
+   750K .......... .......... .......... .......... .......... 83%  609K 0s
+   800K .......... .......... .......... .......... .......... 88%  560K 0s
+   850K .......... .......... .......... .......... .......... 94%  601K 0s
+   900K .......... .......... .......... .......... .......... 99%  315K 0s
+   950K ......                                                100% 25.3M=2.1s
+
+2017-02-03 07:03:44 (451 KB/s) - ‘egw004’ saved [979557/979557]
+
+--2017-02-03 07:03:45--  http://doi.org/10.1093/petrology/egv072
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv072 [following]
+--2017-02-03 07:03:46--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv072
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 796966 (778K) [text/html]
+Saving to: ‘egv072’
+
+     0K .......... .......... .......... .......... ..........  6%  208K 3s
+    50K .......... .......... .......... .......... .......... 12%  610K 2s
+   100K .......... .......... .......... .......... .......... 19%  603K 2s
+   150K .......... .......... .......... .......... .......... 25%  315K 2s
+   200K .......... .......... .......... .......... .......... 32%  599K 1s
+   250K .......... .......... .......... .......... .......... 38%  602K 1s
+   300K .......... .......... .......... .......... .......... 44%  604K 1s
+   350K .......... .......... .......... .......... .......... 51%  309K 1s
+   400K .......... .......... .......... .......... .......... 57%  602K 1s
+   450K .......... .......... .......... .......... .......... 64%  592K 1s
+   500K .......... .......... .......... .......... .......... 70%  312K 1s
+   550K .......... .......... .......... .......... .......... 77%  599K 0s
+   600K .......... .......... .......... .......... .......... 83%  580K 0s
+   650K .......... .......... .......... .......... .......... 89%  599K 0s
+   700K .......... .......... .......... .......... .......... 96%  320K 0s
+   750K .......... .......... ........                        100% 4.40M=1.7s
+
+2017-02-03 07:03:52 (453 KB/s) - ‘egv072’ saved [796966/796966]
+
+--2017-02-03 07:03:53--  http://doi.org/10.1093/petrology/egv083
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv083 [following]
+--2017-02-03 07:03:54--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv083
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 586619 (573K) [text/html]
+Saving to: ‘egv083’
+
+     0K .......... .......... .......... .......... ..........  8%  208K 3s
+    50K .......... .......... .......... .......... .......... 17%  609K 2s
+   100K .......... .......... .......... .......... .......... 26%  603K 1s
+   150K .......... .......... .......... .......... .......... 34%  607K 1s
+   200K .......... .......... .......... .......... .......... 43%  313K 1s
+   250K .......... .......... .......... .......... .......... 52%  603K 1s
+   300K .......... .......... .......... .......... .......... 61%  606K 1s
+   350K .......... .......... .......... .......... .......... 69%  605K 0s
+   400K .......... .......... .......... .......... .......... 78%  308K 0s
+   450K .......... .......... .......... .......... .......... 87%  611K 0s
+   500K .......... .......... .......... .......... .......... 96%  603K 0s
+   550K .......... .......... ..                              100%  286K=1.3s
+
+2017-02-03 07:03:59 (440 KB/s) - ‘egv083’ saved [586619/586619]
+
+--2017-02-03 07:04:00--  http://doi.org/10.1093/petrology/egw007
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw007 [following]
+--2017-02-03 07:04:02--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 07:04:02 ERROR 400: Bad Request.
+
+--2017-02-03 07:04:03--  http://doi.org/10.1093/petrology/egw072
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 07:04:05--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘egw072’
+
+     0K .......... .......... .......... .......... .......... 97% 1.28M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 07:04:05 (1.31 MB/s) - ‘egw072’ saved [52438/52438]
+
+--2017-02-03 07:04:06--  http://doi.org/10.1093/petrology/egw060
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw060 [following]
+--2017-02-03 07:04:07--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw060
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1113163 (1.1M) [text/html]
+Saving to: ‘egw060’
+
+     0K .......... .......... .......... .......... ..........  4%  309K 3s
+    50K .......... .......... .......... .......... ..........  9%  312K 3s
+   100K .......... .......... .......... .......... .......... 13%  607K 3s
+   150K .......... .......... .......... .......... .......... 18%  605K 2s
+   200K .......... .......... .......... .......... .......... 22%  314K 2s
+   250K .......... .......... .......... .......... .......... 27%  603K 2s
+   300K .......... .......... .......... .......... .......... 32%  605K 2s
+   350K .......... .......... .......... .......... .......... 36%  577K 2s
+   400K .......... .......... .......... .......... .......... 41%  322K 1s
+   450K .......... .......... .......... .......... .......... 45%  606K 1s
+   500K .......... .......... .......... .......... .......... 50%  604K 1s
+   550K .......... .......... .......... .......... .......... 55%  313K 1s
+   600K .......... .......... .......... .......... .......... 59%  606K 1s
+   650K .......... .......... .......... .......... .......... 64%  216K 1s
+   700K .......... .......... .......... .......... .......... 68%  605K 1s
+   750K .......... .......... .......... .......... .......... 73%  606K 1s
+   800K .......... .......... .......... .......... .......... 78%  311K 1s
+   850K .......... .......... .......... .......... .......... 82%  591K 0s
+   900K .......... .......... .......... .......... .......... 87%  602K 0s
+   950K .......... .......... .......... .......... .......... 91%  315K 0s
+  1000K .......... .......... .......... .......... .......... 96%  573K 0s
+  1050K .......... .......... .......... .......              100%  497K=2.5s
+
+2017-02-03 07:04:14 (434 KB/s) - ‘egw060’ saved [1113163/1113163]
+
+--2017-02-03 07:04:15--  http://doi.org/10.1093/petrology/egw063
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw063 [following]
+--2017-02-03 07:04:17--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw063
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 764714 (747K) [text/html]
+Saving to: ‘egw063’
+
+     0K .......... .......... .......... .......... ..........  6%  209K 3s
+    50K .......... .......... .......... .......... .......... 13%  611K 2s
+   100K .......... .......... .......... .......... .......... 20%  587K 2s
+   150K .......... .......... .......... .......... .......... 26%  603K 1s
+   200K .......... .......... .......... .......... .......... 33%  319K 1s
+   250K .......... .......... .......... .......... .......... 40%  586K 1s
+   300K .......... .......... .......... .......... .......... 46%  597K 1s
+   350K .......... .......... .......... .......... .......... 53%  319K 1s
+   400K .......... .......... .......... .......... .......... 60%  613K 1s
+   450K .......... .......... .......... .......... .......... 66%  577K 1s
+   500K .......... .......... .......... .......... .......... 73%  606K 0s
+   550K .......... .......... .......... .......... .......... 80%  322K 0s
+   600K .......... .......... .......... .......... .......... 87%  612K 0s
+   650K .......... .......... .......... .......... .......... 93%  573K 0s
+   700K .......... .......... .......... .......... ......    100%  569K=1.6s
+
+2017-02-03 07:04:22 (458 KB/s) - ‘egw063’ saved [764714/764714]
+
+--2017-02-03 07:04:23--  http://doi.org/10.1093/petrology/egw062
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw062 [following]
+--2017-02-03 07:04:24--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egw062
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 632671 (618K) [text/html]
+Saving to: ‘egw062’
+
+     0K .......... .......... .......... .......... ..........  8%  209K 3s
+    50K .......... .......... .......... .......... .......... 16%  607K 2s
+   100K .......... .......... .......... .......... .......... 24%  601K 1s
+   150K .......... .......... .......... .......... .......... 32%  317K 1s
+   200K .......... .......... .......... .......... .......... 40%  583K 1s
+   250K .......... .......... .......... .......... .......... 48%  609K 1s
+   300K .......... .......... .......... .......... .......... 56%  315K 1s
+   350K .......... .......... .......... .......... .......... 64%  591K 1s
+   400K .......... .......... .......... .......... .......... 72%  607K 0s
+   450K .......... .......... .......... .......... .......... 80%  313K 0s
+   500K .......... .......... .......... .......... .......... 89%  601K 0s
+   550K .......... .......... .......... .......... .......... 97%  589K 0s
+   600K .......... .......                                    100%  242K=1.5s
+
+2017-02-03 07:04:30 (424 KB/s) - ‘egw062’ saved [632671/632671]
+
+--2017-02-03 07:04:31--  http://doi.org/10.1093/petrology/egv079
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv079 [following]
+--2017-02-03 07:04:32--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv079
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 639527 (625K) [text/html]
+Saving to: ‘egv079’
+
+     0K .......... .......... .......... .......... ..........  8%  309K 2s
+    50K .......... .......... .......... .......... .......... 16%  312K 2s
+   100K .......... .......... .......... .......... .......... 24%  606K 1s
+   150K .......... .......... .......... .......... .......... 32%  612K 1s
+   200K .......... .......... .......... .......... .......... 40%  312K 1s
+   250K .......... .......... .......... .......... .......... 48%  603K 1s
+   300K .......... .......... .......... .......... .......... 56%  606K 1s
+   350K .......... .......... .......... .......... .......... 64%  316K 1s
+   400K .......... .......... .......... .......... .......... 72%  598K 0s
+   450K .......... .......... .......... .......... .......... 80%  603K 0s
+   500K .......... .......... .......... .......... .......... 88%  314K 0s
+   550K .......... .......... .......... .......... .......... 96%  608K 0s
+   600K .......... .......... ....                            100% 7.23M=1.4s
+
+2017-02-03 07:04:37 (452 KB/s) - ‘egv079’ saved [639527/639527]
+
+--2017-02-03 07:04:38--  http://doi.org/10.1093/petrology/egv080
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv080 [following]
+--2017-02-03 07:04:40--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv080
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 520116 (508K) [text/html]
+Saving to: ‘egv080’
+
+     0K .......... .......... .......... .......... ..........  9%  209K 2s
+    50K .......... .......... .......... .......... .......... 19%  609K 1s
+   100K .......... .......... .......... .......... .......... 29%  596K 1s
+   150K .......... .......... .......... .......... .......... 39%  607K 1s
+   200K .......... .......... .......... .......... .......... 49%  317K 1s
+   250K .......... .......... .......... .......... .......... 59%  596K 1s
+   300K .......... .......... .......... .......... .......... 68%  613K 0s
+   350K .......... .......... .......... .......... .......... 78%  606K 0s
+   400K .......... .......... .......... .......... .......... 88%  315K 0s
+   450K .......... .......... .......... .......... .......... 98%  601K 0s
+   500K .......                                               100% 18.8M=1.1s
+
+2017-02-03 07:04:44 (447 KB/s) - ‘egv080’ saved [520116/520116]
+
+--2017-02-03 07:04:45--  http://doi.org/10.1093/petrology/egv060
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv060 [following]
+--2017-02-03 07:04:46--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv060
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 507215 (495K) [text/html]
+Saving to: ‘egv060’
+
+     0K .......... .......... .......... .......... .......... 10%  209K 2s
+    50K .......... .......... .......... .......... .......... 20%  609K 1s
+   100K .......... .......... .......... .......... .......... 30%  602K 1s
+   150K .......... .......... .......... .......... .......... 40%  318K 1s
+   200K .......... .......... .......... .......... .......... 50%  574K 1s
+   250K .......... .......... .......... .......... .......... 60%  611K 0s
+   300K .......... .......... .......... .......... .......... 70%  608K 0s
+   350K .......... .......... .......... .......... .......... 80%  314K 0s
+   400K .......... .......... .......... .......... .......... 90%  608K 0s
+   450K .......... .......... .......... .......... .....     100%  556K=1.1s
+
+2017-02-03 07:04:50 (436 KB/s) - ‘egv060’ saved [507215/507215]
+
+--2017-02-03 07:04:51--  http://doi.org/10.1093/petrology/egv075
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv075 [following]
+--2017-02-03 07:04:53--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv075
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 532606 (520K) [text/html]
+Saving to: ‘egv075’
+
+     0K .......... .......... .......... .......... ..........  9%  209K 2s
+    50K .......... .......... .......... .......... .......... 19%  604K 1s
+   100K .......... .......... .......... .......... .......... 28%  613K 1s
+   150K .......... .......... .......... .......... .......... 38%  599K 1s
+   200K .......... .......... .......... .......... .......... 48%  312K 1s
+   250K .......... .......... .......... .......... .......... 57%  600K 1s
+   300K .......... .......... .......... .......... .......... 67%  434K 0s
+   350K .......... .......... .......... .......... .......... 76%  604K 0s
+   400K .......... .......... .......... .......... .......... 86%  396K 0s
+   450K .......... .......... .......... .......... .......... 96%  613K 0s
+   500K .......... ..........                                 100%  523K=1.2s
+
+2017-02-03 07:04:58 (443 KB/s) - ‘egv075’ saved [532606/532606]
+
+--2017-02-03 07:04:59--  http://doi.org/10.1093/petrology/egv081
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv081 [following]
+--2017-02-03 07:05:00--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv081
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 117299 (115K) [text/html]
+Saving to: ‘egv081’
+
+     0K .......... .......... .......... .......... .......... 43%  209K 0s
+    50K .......... .......... .......... .......... .......... 87%  612K 0s
+   100K .......... ....                                       100% 6.58M=0.3s
+
+2017-02-03 07:05:05 (354 KB/s) - ‘egv081’ saved [117299/117299]
+
+--2017-02-03 07:05:06--  http://doi.org/10.1093/petrology/egv062
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv062 [following]
+--2017-02-03 07:05:08--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv062
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 477566 (466K) [text/html]
+Saving to: ‘egv062’
+
+     0K .......... .......... .......... .......... .......... 10%  282K 1s
+    50K .......... .......... .......... .......... .......... 21%  321K 1s
+   100K .......... .......... .......... .......... .......... 32%  583K 1s
+   150K .......... .......... .......... .......... .......... 42%  607K 1s
+   200K .......... .......... .......... .......... .......... 53%  322K 1s
+   250K .......... .......... .......... .......... .......... 64%  576K 0s
+   300K .......... .......... .......... .......... .......... 75%  601K 0s
+   350K .......... .......... .......... .......... .......... 85%  608K 0s
+   400K .......... .......... .......... .......... .......... 96%  313K 0s
+   450K .......... ......                                     100% 13.3M=1.1s
+
+2017-02-03 07:05:13 (436 KB/s) - ‘egv062’ saved [477566/477566]
+
+--2017-02-03 07:05:14--  http://doi.org/10.1093/petrology/egv077
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv077 [following]
+--2017-02-03 07:05:15--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv077
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 602970 (589K) [text/html]
+Saving to: ‘egv077’
+
+     0K .......... .......... .......... .......... ..........  8%  207K 3s
+    50K .......... .......... .......... .......... .......... 16%  609K 2s
+   100K .......... .......... .......... .......... .......... 25%  590K 1s
+   150K .......... .......... .......... .......... .......... 33%  610K 1s
+   200K .......... .......... .......... .......... .......... 42%  314K 1s
+   250K .......... .......... .......... .......... .......... 50%  606K 1s
+   300K .......... .......... .......... .......... .......... 59%  596K 1s
+   350K .......... .......... .......... .......... .......... 67%  607K 0s
+   400K .......... .......... .......... .......... .......... 76%  313K 0s
+   450K .......... .......... .......... .......... .......... 84%  609K 0s
+   500K .......... .......... .......... .......... .......... 93%  604K 0s
+   550K .......... .......... .......... ........             100%  479K=1.3s
+
+2017-02-03 07:05:20 (452 KB/s) - ‘egv077’ saved [602970/602970]
+
+--2017-02-03 07:05:21--  http://doi.org/10.1093/petrology/egv078
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv078 [following]
+--2017-02-03 07:05:22--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv078
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 598341 (584K) [text/html]
+Saving to: ‘egv078’
+
+     0K .......... .......... .......... .......... ..........  8%  209K 3s
+    50K .......... .......... .......... .......... .......... 17%  609K 2s
+   100K .......... .......... .......... .......... .......... 25%  603K 1s
+   150K .......... .......... .......... .......... .......... 34%  611K 1s
+   200K .......... .......... .......... .......... .......... 42%  312K 1s
+   250K .......... .......... .......... .......... .......... 51%  601K 1s
+   300K .......... .......... .......... .......... .......... 59%  608K 1s
+   350K .......... .......... .......... .......... .......... 68%  608K 0s
+   400K .......... .......... .......... .......... .......... 77%  313K 0s
+   450K .......... .......... .......... .......... .......... 85%  605K 0s
+   500K .......... .......... .......... .......... .......... 94%  605K 0s
+   550K .......... .......... .......... ....                 100%  428K=1.3s
+
+2017-02-03 07:05:27 (450 KB/s) - ‘egv078’ saved [598341/598341]
+
+--2017-02-03 07:05:28--  http://doi.org/10.1093/petrology/egv076
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv076 [following]
+--2017-02-03 07:05:30--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv076
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 542793 (530K) [text/html]
+Saving to: ‘egv076’
+
+     0K .......... .......... .......... .......... ..........  9%  208K 2s
+    50K .......... .......... .......... .......... .......... 18%  600K 1s
+   100K .......... .......... .......... .......... .......... 28%  611K 1s
+   150K .......... .......... .......... .......... .......... 37%  604K 1s
+   200K .......... .......... .......... .......... .......... 47%  321K 1s
+   250K .......... .......... .......... .......... .......... 56%  574K 1s
+   300K .......... .......... .......... .......... .......... 66%  613K 0s
+   350K .......... .......... .......... .......... .......... 75%  604K 0s
+   400K .......... .......... .......... .......... .......... 84%  314K 0s
+   450K .......... .......... .......... .......... .......... 94%  603K 0s
+   500K .......... .......... ..........                      100%  378K=1.2s
+
+2017-02-03 07:05:35 (436 KB/s) - ‘egv076’ saved [542793/542793]
+
+--2017-02-03 07:05:36--  http://doi.org/10.1093/petrology/egv065
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv065 [following]
+--2017-02-03 07:05:37--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv065
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 562535 (549K) [text/html]
+Saving to: ‘egv065’
+
+     0K .......... .......... .......... .......... ..........  9%  209K 2s
+    50K .......... .......... .......... .......... .......... 18%  606K 1s
+   100K .......... .......... .......... .......... .......... 27%  606K 1s
+   150K .......... .......... .......... .......... .......... 36%  605K 1s
+   200K .......... .......... .......... .......... .......... 45%  411K 1s
+   250K .......... .......... .......... .......... .......... 54%  413K 1s
+   300K .......... .......... .......... .......... .......... 63%  610K 0s
+   350K .......... .......... .......... .......... .......... 72%  409K 0s
+   400K .......... .......... .......... .......... .......... 81%  416K 0s
+   450K .......... .......... .......... .......... .......... 91%  601K 0s
+   500K .......... .......... .......... .......... ......... 100%  600K=1.2s
+
+2017-02-03 07:05:46 (451 KB/s) - ‘egv065’ saved [562535/562535]
+
+--2017-02-03 07:05:47--  http://doi.org/10.1093/petrology/egv067
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv067 [following]
+--2017-02-03 07:05:48--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv067
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 685339 (669K) [text/html]
+Saving to: ‘egv067’
+
+     0K .......... .......... .......... .......... ..........  7%  209K 3s
+    50K .......... .......... .......... .......... .......... 14%  597K 2s
+   100K .......... .......... .......... .......... .......... 22%  605K 1s
+   150K .......... .......... .......... .......... .......... 29%  425K 1s
+   200K .......... .......... .......... .......... .......... 37%  407K 1s
+   250K .......... .......... .......... .......... .......... 44%  416K 1s
+   300K .......... .......... .......... .......... .......... 52%  614K 1s
+   350K .......... .......... .......... .......... .......... 59%  405K 1s
+   400K .......... .......... .......... .......... .......... 67%  418K 1s
+   450K .......... .......... .......... .......... .......... 74%  603K 0s
+   500K .......... .......... .......... .......... .......... 82%  405K 0s
+   550K .......... .......... .......... .......... .......... 89%  422K 0s
+   600K .......... .......... .......... .......... .......... 97%  610K 0s
+   650K .......... .........                                  100%  434K=1.5s
+
+2017-02-03 07:05:54 (434 KB/s) - ‘egv067’ saved [685339/685339]
+
+--2017-02-03 07:05:55--  http://doi.org/10.1093/petrology/egv068
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv068 [following]
+--2017-02-03 07:05:56--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv068
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 07:05:57 ERROR 400: Bad Request.
+
+--2017-02-03 07:05:58--  http://doi.org/10.1093/petrology/egv071
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv071 [following]
+--2017-02-03 07:05:59--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv071
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 761938 (744K) [text/html]
+Saving to: ‘egv071’
+
+     0K .......... .......... .......... .......... ..........  6%  209K 3s
+    50K .......... .......... .......... .......... .......... 13%  599K 2s
+   100K .......... .......... .......... .......... .......... 20%  608K 2s
+   150K .......... .......... .......... .......... .......... 26%  316K 2s
+   200K .......... .......... .......... .......... .......... 33%  599K 1s
+   250K .......... .......... .......... .......... .......... 40%  605K 1s
+   300K .......... .......... .......... .......... .......... 47%  317K 1s
+   350K .......... .......... .......... .......... .......... 53%  593K 1s
+   400K .......... .......... .......... .......... .......... 60%  600K 1s
+   450K .......... .......... .......... .......... .......... 67%  318K 1s
+   500K .......... .......... .......... .......... .......... 73%  593K 0s
+   550K .......... .......... .......... .......... .......... 80%  605K 0s
+   600K .......... .......... .......... .......... .......... 87%  611K 0s
+   650K .......... .......... .......... .......... .......... 94%  310K 0s
+   700K .......... .......... .......... .......... ....      100%  541K=1.7s
+
+2017-02-03 07:06:05 (437 KB/s) - ‘egv071’ saved [761938/761938]
+
+--2017-02-03 07:06:06--  http://doi.org/10.1093/petrology/egv073
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv073 [following]
+--2017-02-03 07:06:08--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv073
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 07:06:08 ERROR 400: Bad Request.
+
+--2017-02-03 07:06:09--  http://doi.org/10.1093/petrology/egv064
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv064 [following]
+--2017-02-03 07:06:11--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv064
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 776663 (758K) [text/html]
+Saving to: ‘egv064’
+
+     0K .......... .......... .......... .......... ..........  6%  207K 3s
+    50K .......... .......... .......... .......... .......... 13%  593K 2s
+   100K .......... .......... .......... .......... .......... 19%  607K 2s
+   150K .......... .......... .......... .......... .......... 26%  591K 1s
+   200K .......... .......... .......... .......... .......... 32%  318K 1s
+   250K .......... .......... .......... .......... .......... 39%  611K 1s
+   300K .......... .......... .......... .......... .......... 46%  320K 1s
+   350K .......... .......... .......... .......... .......... 52%  602K 1s
+   400K .......... .......... .......... .......... .......... 59%  585K 1s
+   450K .......... .......... .......... .......... .......... 65%  612K 1s
+   500K .......... .......... .......... .......... .......... 72%  319K 0s
+   550K .......... .......... .......... .......... .......... 79%  601K 0s
+   600K .......... .......... .......... .......... .......... 85%  615K 0s
+   650K .......... .......... .......... .......... .......... 92%  575K 0s
+   700K .......... .......... .......... .......... .......... 98%  322K 0s
+   750K ........                                              100% 22.4M=1.7s
+
+2017-02-03 07:06:16 (446 KB/s) - ‘egv064’ saved [776663/776663]
+
+--2017-02-03 07:06:17--  http://doi.org/10.1093/petrology/egv069
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv069 [following]
+--2017-02-03 07:06:18--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv069
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 546546 (534K) [text/html]
+Saving to: ‘egv069’
+
+     0K .......... .......... .......... .......... ..........  9%  209K 2s
+    50K .......... .......... .......... .......... .......... 18%  609K 1s
+   100K .......... .......... .......... .......... .......... 28%  606K 1s
+   150K .......... .......... .......... .......... .......... 37%  318K 1s
+   200K .......... .......... .......... .......... .......... 46%  601K 1s
+   250K .......... .......... .......... .......... .......... 56%  594K 1s
+   300K .......... .......... .......... .......... .......... 65%  421K 0s
+   350K .......... .......... .......... .......... .......... 74%  408K 0s
+   400K .......... .......... .......... .......... .......... 84%  611K 0s
+   450K .......... .......... .......... .......... .......... 93%  617K 0s
+   500K .......... .......... .......... ...                  100%  417K=1.2s
+
+2017-02-03 07:06:25 (440 KB/s) - ‘egv069’ saved [546546/546546]
+
+--2017-02-03 07:06:26--  http://doi.org/10.1093/petrology/egv048
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv048 [following]
+--2017-02-03 07:06:27--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv048
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 906736 (885K) [text/html]
+Saving to: ‘egv048’
+
+     0K .......... .......... .......... .......... ..........  5%  209K 4s
+    50K .......... .......... .......... .......... .......... 11%  605K 3s
+   100K .......... .......... .......... .......... .......... 16%  583K 2s
+   150K .......... .......... .......... .......... .......... 22%  607K 2s
+   200K .......... .......... .......... .......... .......... 28%  317K 2s
+   250K .......... .......... .......... .......... .......... 33%  609K 1s
+   300K .......... .......... .......... .......... .......... 39%  577K 1s
+   350K .......... .......... .......... .......... .......... 45%  322K 1s
+   400K .......... .......... .......... .......... .......... 50%  605K 1s
+   450K .......... .......... .......... .......... .......... 56%  613K 1s
+   500K .......... .......... .......... .......... .......... 62%  544K 1s
+   550K .......... .......... .......... .......... .......... 67%  332K 1s
+   600K .......... .......... .......... .......... .......... 73%  613K 1s
+   650K .......... .......... .......... .......... .......... 79%  541K 0s
+   700K .......... .......... .......... .......... .......... 84%  594K 0s
+   750K .......... .......... .......... .......... .......... 90%  336K 0s
+   800K .......... .......... .......... .......... .......... 95%  534K 0s
+   850K .......... .......... .......... .....                100%  514K=1.9s
+
+2017-02-03 07:06:34 (455 KB/s) - ‘egv048’ saved [906736/906736]
+
+--2017-02-03 07:06:35--  http://doi.org/10.1093/petrology/egv053
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv053 [following]
+--2017-02-03 07:06:36--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv053
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1351467 (1.3M) [text/html]
+Saving to: ‘egv053’
+
+     0K .......... .......... .......... .......... ..........  3%  208K 6s
+    50K .......... .......... .......... .......... ..........  7%  606K 4s
+   100K .......... .......... .......... .......... .......... 11%  612K 3s
+   150K .......... .......... .......... .......... .......... 15%  600K 3s
+   200K .......... .......... .......... .......... .......... 18%  315K 3s
+   250K .......... .......... .......... .......... .......... 22%  608K 2s
+   300K .......... .......... .......... .......... .......... 26%  606K 2s
+   350K .......... .......... .......... .......... .......... 30%  315K 2s
+   400K .......... .......... .......... .......... .......... 34%  603K 2s
+   450K .......... .......... .......... .......... .......... 37%  606K 2s
+   500K .......... .......... .......... .......... .......... 41%  606K 2s
+   550K .......... .......... .......... .......... .......... 45%  310K 2s
+   600K .......... .......... .......... .......... .......... 49%  612K 2s
+   650K .......... .......... .......... .......... .......... 53%  606K 1s
+   700K .......... .......... .......... .......... .......... 56%  610K 1s
+   750K .......... .......... .......... .......... .......... 60%  309K 1s
+   800K .......... .......... .......... .......... .......... 64%  606K 1s
+   850K .......... .......... .......... .......... .......... 68%  599K 1s
+   900K .......... .......... .......... .......... .......... 71%  316K 1s
+   950K .......... .......... .......... .......... .......... 75%  606K 1s
+  1000K .......... .......... .......... .......... .......... 79%  603K 1s
+  1050K .......... .......... .......... .......... .......... 83%  313K 0s
+  1100K .......... .......... .......... .......... .......... 87%  613K 0s
+  1150K .......... .......... .......... .......... .......... 90%  602K 0s
+  1200K .......... .......... .......... .......... .......... 94%  606K 0s
+  1250K .......... .......... .......... .......... .......... 98%  316K 0s
+  1300K .......... .........                                  100% 6.73M=2.8s
+
+2017-02-03 07:06:43 (464 KB/s) - ‘egv053’ saved [1351467/1351467]
+
+--2017-02-03 07:06:44--  http://doi.org/10.1093/petrology/egv066
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv066 [following]
+--2017-02-03 07:06:45--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv066
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 532145 (520K) [text/html]
+Saving to: ‘egv066’
+
+     0K .......... .......... .......... .......... ..........  9%  209K 2s
+    50K .......... .......... .......... .......... .......... 19%  609K 1s
+   100K .......... .......... .......... .......... .......... 28%  612K 1s
+   150K .......... .......... .......... .......... .......... 38%  316K 1s
+   200K .......... .......... .......... .......... .......... 48%  572K 1s
+   250K .......... .......... .......... .......... .......... 57%  614K 1s
+   300K .......... .......... .......... .......... .......... 67%  317K 0s
+   350K .......... .......... .......... .......... .......... 76%  608K 0s
+   400K .......... .......... .......... .......... .......... 86%  603K 0s
+   450K .......... .......... .......... .......... .......... 96%  314K 0s
+   500K .......... .........                                  100% 6.78M=1.2s
+
+2017-02-03 07:06:50 (428 KB/s) - ‘egv066’ saved [532145/532145]
+
+--2017-02-03 07:06:51--  http://doi.org/10.1093/petrology/egv063
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv063 [following]
+--2017-02-03 07:06:52--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv063
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 810535 (792K) [text/html]
+Saving to: ‘egv063’
+
+     0K .......... .......... .......... .......... ..........  6%  208K 4s
+    50K .......... .......... .......... .......... .......... 12%  610K 2s
+   100K .......... .......... .......... .......... .......... 18%  596K 2s
+   150K .......... .......... .......... .......... .......... 25%  317K 2s
+   200K .......... .......... .......... .......... .......... 31%  606K 1s
+   250K .......... .......... .......... .......... .......... 37%  597K 1s
+   300K .......... .......... .......... .......... .......... 44%  593K 1s
+   350K .......... .......... .......... .......... .......... 50%  322K 1s
+   400K .......... .......... .......... .......... .......... 56%  588K 1s
+   450K .......... .......... .......... .......... .......... 63%  611K 1s
+   500K .......... .......... .......... .......... .......... 69%  318K 1s
+   550K .......... .......... .......... .......... .......... 75%  591K 0s
+   600K .......... .......... .......... .......... .......... 82%  607K 0s
+   650K .......... .......... .......... .......... .......... 88%  316K 0s
+   700K .......... .......... .......... .......... .......... 94%  600K 0s
+   750K .......... .......... .......... .......... .         100%  512K=1.8s
+
+2017-02-03 07:07:00 (444 KB/s) - ‘egv063’ saved [810535/810535]
+
+--2017-02-03 07:07:01--  http://doi.org/10.1093/petrology/egv059
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv059 [following]
+--2017-02-03 07:07:02--  https://academic.oup.com/petrology/article-lookup/doi/10.1093/petrology/egv059
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 740274 (723K) [text/html]
+Saving to: ‘egv059’
+
+     0K .......... .......... .......... .......... ..........  6%  209K 3s
+    50K .......... .......... .......... .......... .......... 13%  589K 2s
+   100K .......... .......... .......... .......... .......... 20%  589K 2s
+   150K .......... .......... .......... .......... .......... 27%  603K 1s
+   200K .......... .......... .......... .......... .......... 34%  315K 1s
+   250K .......... .......... .......... .......... .......... 41%  606K 1s
+   300K .......... .......... .......... .......... .......... 48%  614K 1s
+   350K .......... .......... .......... .......... .......... 55%  570K 1s
+   400K .......... .......... .......... .......... .......... 62%  323K 1s
+   450K .......... .......... .......... .......... .......... 69%  601K 1s
+   500K .......... .......... .......... .......... .......... 76%  314K 0s
+   550K .......... .......... .......... .......... .......... 82%  584K 0s
+   600K .......... .......... .......... .......... .......... 89%  613K 0s
+   650K .......... .......... .......... .......... .......... 96%  595K 0s
+   700K .......... .......... ..                              100%  286K=1.6s
+
+2017-02-03 07:07:07 (443 KB/s) - ‘egv059’ saved [740274/740274]
+
+FINISHED --2017-02-03 07:07:07--
+Total wall clock time: 11m 50s
+Downloaded: 88 files, 55M in 2m 6s (448 KB/s)

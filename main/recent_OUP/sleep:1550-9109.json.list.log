@@ -1,0 +1,1710 @@
+--2017-02-03 17:49:14--  http://doi.org/10.5665/sleep.6300
+Resolving doi.org (doi.org)... 63.123.152.248, 38.100.138.163, 208.254.38.90, ...
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6300 [following]
+--2017-02-03 17:49:16--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6300
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6300 [following]
+--2017-02-03 17:49:23--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6300
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23937 (23K) [text/html]
+Saving to: ‘sleep.6300’
+
+     0K .......... .......... ...                             100%  289K=0.08s
+
+2017-02-03 17:49:24 (289 KB/s) - ‘sleep.6300’ saved [23937/23937]
+
+--2017-02-03 17:49:25--  http://doi.org/10.5665/sleep.6312
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6312 [following]
+--2017-02-03 17:49:27--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6312
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 252770 (247K) [text/html]
+Saving to: ‘sleep.6312’
+
+     0K .......... .......... .......... .......... .......... 20%  307K 1s
+    50K .......... .......... .......... .......... .......... 40%  308K 0s
+   100K .......... .......... .......... .......... .......... 60%  600K 0s
+   150K .......... .......... .......... .......... .......... 81%  591K 0s
+   200K .......... .......... .......... .......... ......    100%  300K=0.6s
+
+2017-02-03 17:49:34 (380 KB/s) - ‘sleep.6312’ saved [252770/252770]
+
+--2017-02-03 17:49:35--  http://doi.org/10.5665/sleep.6320
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6320 [following]
+--2017-02-03 17:49:37--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6320
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 17:49:38 ERROR 400: Bad Request.
+
+--2017-02-03 17:49:39--  http://doi.org/10.5665/sleep.6328
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6328 [following]
+--2017-02-03 17:49:40--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6328
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 321261 (314K) [text/html]
+Saving to: ‘sleep.6328’
+
+     0K .......... .......... .......... .......... .......... 15%  206K 1s
+    50K .......... .......... .......... .......... .......... 31%  609K 1s
+   100K .......... .......... .......... .......... .......... 47%  607K 0s
+   150K .......... .......... .......... .......... .......... 63%  608K 0s
+   200K .......... .......... .......... .......... .......... 79%  312K 0s
+   250K .......... .......... .......... .......... .......... 95%  600K 0s
+   300K .......... ...                                        100% 26.1M=0.7s
+
+2017-02-03 17:49:52 (428 KB/s) - ‘sleep.6328’ saved [321261/321261]
+
+--2017-02-03 17:49:53--  http://doi.org/10.5665/sleep.6318
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6318 [following]
+--2017-02-03 17:49:55--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6318
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 138185 (135K) [text/html]
+Saving to: ‘sleep.6318’
+
+     0K .......... .......... .......... .......... .......... 37%  205K 0s
+    50K .......... .......... .......... .......... .......... 74%  608K 0s
+   100K .......... .......... .......... ....                 100%  437K=0.4s
+
+2017-02-03 17:50:05 (333 KB/s) - ‘sleep.6318’ saved [138185/138185]
+
+--2017-02-03 17:50:06--  http://doi.org/10.5665/sleep.6314
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6314 [following]
+--2017-02-03 17:50:08--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6314
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 315511 (308K) [text/html]
+Saving to: ‘sleep.6314’
+
+     0K .......... .......... .......... .......... .......... 16%  306K 1s
+    50K .......... .......... .......... .......... .......... 32%  313K 1s
+   100K .......... .......... .......... .......... .......... 48%  585K 0s
+   150K .......... .......... .......... .......... .......... 64%  589K 0s
+   200K .......... .......... .......... .......... .......... 81%  595K 0s
+   250K .......... .......... .......... .......... .......... 97%  309K 0s
+   300K ........                                              100% 62.6M=0.7s
+
+2017-02-03 17:50:17 (417 KB/s) - ‘sleep.6314’ saved [315511/315511]
+
+--2017-02-03 17:50:18--  http://doi.org/10.5665/sleep.6310
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6310 [following]
+--2017-02-03 17:50:20--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6310
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 231467 (226K) [text/html]
+Saving to: ‘sleep.6310’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 44%  610K 0s
+   100K .......... .......... .......... .......... .......... 66%  600K 0s
+   150K .......... .......... .......... .......... .......... 88%  316K 0s
+   200K .......... .......... ......                          100% 6.79M=0.6s
+
+2017-02-03 17:50:29 (399 KB/s) - ‘sleep.6310’ saved [231467/231467]
+
+--2017-02-03 17:50:30--  http://doi.org/10.5665/sleep.6330
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6330 [following]
+--2017-02-03 17:50:33--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6330
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 104837 (102K) [text/html]
+Saving to: ‘sleep.6330’
+
+     0K .......... .......... .......... .......... .......... 48%  207K 0s
+    50K .......... .......... .......... .......... .......... 97%  607K 0s
+   100K ..                                                    100% 4539G=0.3s
+
+2017-02-03 17:50:38 (316 KB/s) - ‘sleep.6330’ saved [104837/104837]
+
+--2017-02-03 17:50:39--  http://doi.org/10.5665/sleep.6306
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6306 [following]
+--2017-02-03 17:50:40--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6306
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 222618 (217K) [text/html]
+Saving to: ‘sleep.6306’
+
+     0K .......... .......... .......... .......... .......... 22%  208K 1s
+    50K .......... .......... .......... .......... .......... 45%  595K 0s
+   100K .......... .......... .......... .......... .......... 68%  597K 0s
+   150K .......... .......... .......... .......... .......... 91%  547K 0s
+   200K .......... .......                                    100%  246K=0.6s
+
+2017-02-03 17:50:46 (381 KB/s) - ‘sleep.6306’ saved [222618/222618]
+
+--2017-02-03 17:50:47--  http://doi.org/10.5665/sleep.6326
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6326 [following]
+--2017-02-03 17:50:49--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6326
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 323636 (316K) [text/html]
+Saving to: ‘sleep.6326’
+
+     0K .......... .......... .......... .......... .......... 15%  208K 1s
+    50K .......... .......... .......... .......... .......... 31%  598K 1s
+   100K .......... .......... .......... .......... .......... 47%  586K 0s
+   150K .......... .......... .......... .......... .......... 63%  308K 0s
+   200K .......... .......... .......... .......... .......... 79% 26.0K 1s
+   250K .......... .......... .......... .......... .......... 94% 88.4K 0s
+   300K .......... ......                                     100%  133K=3.2s
+
+2017-02-03 17:50:59 (99.5 KB/s) - ‘sleep.6326’ saved [323636/323636]
+
+--2017-02-03 17:51:00--  http://doi.org/10.5665/sleep.6304
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6304 [following]
+--2017-02-03 17:51:02--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6304
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 227117 (222K) [text/html]
+Saving to: ‘sleep.6304’
+
+     0K .......... .......... .......... .......... .......... 22%  302K 1s
+    50K .......... .......... .......... .......... .......... 45%  299K 0s
+   100K .......... .......... .......... .......... .......... 67%  310K 0s
+   150K .......... .......... .......... .......... .......... 90%  602K 0s
+   200K .......... .......... .                               100% 12.2M=0.6s
+
+2017-02-03 17:51:07 (383 KB/s) - ‘sleep.6304’ saved [227117/227117]
+
+--2017-02-03 17:51:08--  http://doi.org/10.5665/sleep.6308
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6308 [following]
+--2017-02-03 17:51:11--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6308
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 483274 (472K) [text/html]
+Saving to: ‘sleep.6308’
+
+     0K .......... .......... .......... .......... .......... 10%  209K 2s
+    50K .......... .......... .......... .......... .......... 21%  590K 1s
+   100K .......... .......... .......... .......... .......... 31%  607K 1s
+   150K .......... .......... .......... .......... .......... 42%  599K 1s
+   200K .......... .......... .......... .......... .......... 52%  312K 1s
+   250K .......... .......... .......... .......... .......... 63%  597K 0s
+   300K .......... .......... .......... .......... .......... 74%  588K 0s
+   350K .......... .......... .......... .......... .......... 84%  601K 0s
+   400K .......... .......... .......... .......... .......... 95%  311K 0s
+   450K .......... .......... .                               100% 16.8M=1.1s
+
+2017-02-03 17:51:16 (444 KB/s) - ‘sleep.6308’ saved [483274/483274]
+
+--2017-02-03 17:51:17--  http://doi.org/10.5665/sleep.6322
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6322 [following]
+--2017-02-03 17:51:20--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6322
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 474312 (463K) [text/html]
+Saving to: ‘sleep.6322’
+
+     0K .......... .......... .......... .......... .......... 10%  209K 2s
+    50K .......... .......... .......... .......... .......... 21%  585K 1s
+   100K .......... .......... .......... .......... .......... 32%  596K 1s
+   150K .......... .......... .......... .......... .......... 43%  437K 1s
+   200K .......... .......... .......... .......... .......... 53%  397K 1s
+   250K .......... .......... .......... .......... .......... 64%  597K 0s
+   300K .......... .......... .......... .......... .......... 75%  582K 0s
+   350K .......... .......... .......... .......... .......... 86%  322K 0s
+   400K .......... .......... .......... .......... .......... 97%  600K 0s
+   450K .......... ...                                        100% 1.93M=1.1s
+
+2017-02-03 17:51:24 (436 KB/s) - ‘sleep.6322’ saved [474312/474312]
+
+--2017-02-03 17:51:25--  http://doi.org/10.5665/sleep.6302
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6302 [following]
+--2017-02-03 17:51:27--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6302
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6302 [following]
+--2017-02-03 17:51:31--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6302
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23937 (23K) [text/html]
+Saving to: ‘sleep.6302’
+
+     0K .......... .......... ...                             100%  291K=0.08s
+
+2017-02-03 17:51:31 (291 KB/s) - ‘sleep.6302’ saved [23937/23937]
+
+--2017-02-03 17:51:32--  http://doi.org/10.5665/sleep.6316
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6316 [following]
+--2017-02-03 17:51:36--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6316
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 210276 (205K) [text/html]
+Saving to: ‘sleep.6316’
+
+     0K .......... .......... .......... .......... .......... 24%  208K 1s
+    50K .......... .......... .......... .......... .......... 48%  613K 0s
+   100K .......... .......... .......... .......... .......... 73%  592K 0s
+   150K .......... .......... .......... .......... .......... 97%  602K 0s
+   200K .....                                                 100% 16.3M=0.5s
+
+2017-02-03 17:51:41 (419 KB/s) - ‘sleep.6316’ saved [210276/210276]
+
+--2017-02-03 17:51:42--  http://doi.org/10.5665/sleep.6324
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6324 [following]
+--2017-02-03 17:51:46--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6324
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 17:51:46 ERROR 400: Bad Request.
+
+--2017-02-03 17:51:47--  http://doi.org/10.5665/sleep.6232
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6232 [following]
+--2017-02-03 17:51:49--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6232
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6232 [following]
+--2017-02-03 17:51:53--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6232
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 38889 (38K) [text/html]
+Saving to: ‘sleep.6232’
+
+     0K .......... .......... .......... .......              100%  238K=0.2s
+
+2017-02-03 17:51:53 (238 KB/s) - ‘sleep.6232’ saved [38889/38889]
+
+--2017-02-03 17:51:54--  http://doi.org/10.5665/sleep.6222
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6222 [following]
+--2017-02-03 17:52:00--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6222
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 279773 (273K) [text/html]
+Saving to: ‘sleep.6222’
+
+     0K .......... .......... .......... .......... .......... 18%  206K 1s
+    50K .......... .......... .......... .......... .......... 36%  603K 1s
+   100K .......... .......... .......... .......... .......... 54%  597K 0s
+   150K .......... .......... .......... .......... .......... 73%  610K 0s
+   200K .......... .......... .......... .......... .......... 91%  321K 0s
+   250K .......... .......... ...                             100% 2.38M=0.7s
+
+2017-02-03 17:52:05 (416 KB/s) - ‘sleep.6222’ saved [279773/279773]
+
+--2017-02-03 17:52:06--  http://doi.org/10.5665/sleep.6218
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6218 [following]
+--2017-02-03 17:52:08--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6218
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 358886 (350K) [text/html]
+Saving to: ‘sleep.6218’
+
+     0K .......... .......... .......... .......... .......... 14%  209K 1s
+    50K .......... .......... .......... .......... .......... 28%  607K 1s
+   100K .......... .......... .......... .......... .......... 42%  597K 1s
+   150K .......... .......... .......... .......... .......... 57%  313K 0s
+   200K .......... .......... .......... .......... .......... 71%  585K 0s
+   250K .......... .......... .......... .......... .......... 85%  610K 0s
+   300K .......... .......... .......... .......... .......... 99%  590K 0s
+   350K                                                       100%  905G=0.8s
+
+2017-02-03 17:52:13 (429 KB/s) - ‘sleep.6218’ saved [358886/358886]
+
+--2017-02-03 17:52:14--  http://doi.org/10.5665/sleep.6228
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6228 [following]
+--2017-02-03 17:52:15--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6228
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 193367 (189K) [text/html]
+Saving to: ‘sleep.6228’
+
+     0K .......... .......... .......... .......... .......... 26%  207K 1s
+    50K .......... .......... .......... .......... .......... 52%  604K 0s
+   100K .......... .......... .......... .......... .......... 79%  608K 0s
+   150K .......... .......... .......... ........             100%  471K=0.5s
+
+2017-02-03 17:52:20 (386 KB/s) - ‘sleep.6228’ saved [193367/193367]
+
+--2017-02-03 17:52:21--  http://doi.org/10.5665/sleep.6230
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6230 [following]
+--2017-02-03 17:52:23--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6230
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 377785 (369K) [text/html]
+Saving to: ‘sleep.6230’
+
+     0K .......... .......... .......... .......... .......... 13%  206K 2s
+    50K .......... .......... .......... .......... .......... 27%  613K 1s
+   100K .......... .......... .......... .......... .......... 40%  605K 1s
+   150K .......... .......... .......... .......... .......... 54%  422K 0s
+   200K .......... .......... .......... .......... .......... 67%  412K 0s
+   250K .......... .......... .......... .......... .......... 81%  593K 0s
+   300K .......... .......... .......... .......... .......... 94%  596K 0s
+   350K .......... ........                                   100%  249K=0.9s
+
+2017-02-03 17:52:28 (414 KB/s) - ‘sleep.6230’ saved [377785/377785]
+
+--2017-02-03 17:52:29--  http://doi.org/10.5665/sleep.6234
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6234 [following]
+--2017-02-03 17:52:31--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6234
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 17:52:31 ERROR 400: Bad Request.
+
+--2017-02-03 17:52:32--  http://doi.org/10.5665/sleep.6240
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6240 [following]
+--2017-02-03 17:52:35--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6240
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6240 [following]
+--2017-02-03 17:52:38--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6240
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23937 (23K) [text/html]
+Saving to: ‘sleep.6240’
+
+     0K .......... .......... ...                             100%  290K=0.08s
+
+2017-02-03 17:52:39 (290 KB/s) - ‘sleep.6240’ saved [23937/23937]
+
+--2017-02-03 17:52:40--  http://doi.org/10.5665/sleep.6242
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6242 [following]
+--2017-02-03 17:52:42--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6242
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 228860 (223K) [text/html]
+Saving to: ‘sleep.6242’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 44%  603K 0s
+   100K .......... .......... .......... .......... .......... 67%  603K 0s
+   150K .......... .......... .......... .......... .......... 89%  317K 0s
+   200K .......... .......... ...                             100% 7.40M=0.6s
+
+2017-02-03 17:52:47 (395 KB/s) - ‘sleep.6242’ saved [228860/228860]
+
+--2017-02-03 17:52:48--  http://doi.org/10.5665/sleep.6216
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6216 [following]
+--2017-02-03 17:52:50--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6216
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 272587 (266K) [text/html]
+Saving to: ‘sleep.6216’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 37%  599K 1s
+   100K .......... .......... .......... .......... .......... 56%  609K 0s
+   150K .......... .......... .......... .......... .......... 75%  314K 0s
+   200K .......... .......... .......... .......... .......... 93%  595K 0s
+   250K .......... ......                                     100% 20.9M=0.6s
+
+2017-02-03 17:52:55 (410 KB/s) - ‘sleep.6216’ saved [272587/272587]
+
+--2017-02-03 17:52:56--  http://doi.org/10.5665/sleep.6220
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6220 [following]
+--2017-02-03 17:52:58--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6220
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6220 [following]
+--2017-02-03 17:53:04--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6220
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 38889 (38K) [text/html]
+Saving to: ‘sleep.6220’
+
+     0K .......... .......... .......... .......              100%  237K=0.2s
+
+2017-02-03 17:53:05 (237 KB/s) - ‘sleep.6220’ saved [38889/38889]
+
+--2017-02-03 17:53:06--  http://doi.org/10.5665/sleep.6224
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6224 [following]
+--2017-02-03 17:53:08--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6224
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 302057 (295K) [text/html]
+Saving to: ‘sleep.6224’
+
+     0K .......... .......... .......... .......... .......... 16%  209K 1s
+    50K .......... .......... .......... .......... .......... 33%  608K 1s
+   100K .......... .......... .......... .......... .......... 50%  613K 0s
+   150K .......... .......... .......... .......... .......... 67%  314K 0s
+   200K .......... .......... .......... .......... .......... 84%  594K 0s
+   250K .......... .......... .......... .......... ....      100%  551K=0.7s
+
+2017-02-03 17:53:15 (405 KB/s) - ‘sleep.6224’ saved [302057/302057]
+
+--2017-02-03 17:53:16--  http://doi.org/10.5665/sleep.6238
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6238 [following]
+--2017-02-03 17:53:18--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6238
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 213901 (209K) [text/html]
+Saving to: ‘sleep.6238’
+
+     0K .......... .......... .......... .......... .......... 23%  209K 1s
+    50K .......... .......... .......... .......... .......... 47%  606K 0s
+   100K .......... .......... .......... .......... .......... 71%  613K 0s
+   150K .......... .......... .......... .......... .......... 95%  590K 0s
+   200K ........                                              100%  118K=0.6s
+
+2017-02-03 17:53:33 (371 KB/s) - ‘sleep.6238’ saved [213901/213901]
+
+--2017-02-03 17:53:34--  http://doi.org/10.5665/sleep.6214
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6214 [following]
+--2017-02-03 17:53:35--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6214
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 265740 (260K) [text/html]
+Saving to: ‘sleep.6214’
+
+     0K .......... .......... .......... .......... .......... 19%  208K 1s
+    50K .......... .......... .......... .......... .......... 38%  598K 1s
+   100K .......... .......... .......... .......... .......... 57%  613K 0s
+   150K .......... .......... .......... .......... .......... 77%  596K 0s
+   200K .......... .......... .......... .......... .......... 96%  318K 0s
+   250K .........                                             100% 6.59M=0.6s
+
+2017-02-03 17:53:46 (401 KB/s) - ‘sleep.6214’ saved [265740/265740]
+
+--2017-02-03 17:53:47--  http://doi.org/10.5665/sleep.6212
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6212 [following]
+--2017-02-03 17:53:48--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6212
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 220207 (215K) [text/html]
+Saving to: ‘sleep.6212’
+
+     0K .......... .......... .......... .......... .......... 23%  209K 1s
+    50K .......... .......... .......... .......... .......... 46%  609K 0s
+   100K .......... .......... .......... .......... .......... 69%  603K 0s
+   150K .......... .......... .......... .......... .......... 93%  314K 0s
+   200K .......... .....                                      100% 8.22M=0.6s
+
+2017-02-03 17:53:57 (381 KB/s) - ‘sleep.6212’ saved [220207/220207]
+
+--2017-02-03 17:53:58--  http://doi.org/10.5665/sleep.6226
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6226 [following]
+--2017-02-03 17:53:59--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6226
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 17:54:01 ERROR 400: Bad Request.
+
+--2017-02-03 17:54:02--  http://doi.org/10.5665/sleep.6236
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6236 [following]
+--2017-02-03 17:54:04--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6236
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 304761 (298K) [text/html]
+Saving to: ‘sleep.6236’
+
+     0K .......... .......... .......... .......... .......... 16%  209K 1s
+    50K .......... .......... .......... .......... .......... 33%  609K 1s
+   100K .......... .......... .......... .......... .......... 50%  601K 0s
+   150K .......... .......... .......... .......... .......... 67%  419K 0s
+   200K .......... .......... .......... .......... .......... 84%  409K 0s
+   250K .......... .......... .......... .......... .......   100%  584K=0.7s
+
+2017-02-03 17:54:14 (409 KB/s) - ‘sleep.6236’ saved [304761/304761]
+
+--2017-02-03 17:54:15--  http://doi.org/10.5665/sleep.6168
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6168 [following]
+--2017-02-03 17:54:17--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6168
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 214049 (209K) [text/html]
+Saving to: ‘sleep.6168’
+
+     0K .......... .......... .......... .......... .......... 23%  209K 1s
+    50K .......... .......... .......... .......... .......... 47%  597K 0s
+   100K .......... .......... .......... .......... .......... 71%  613K 0s
+   150K .......... .......... .......... .......... .......... 95%  603K 0s
+   200K .........                                             100%  118K=0.6s
+
+2017-02-03 17:54:26 (371 KB/s) - ‘sleep.6168’ saved [214049/214049]
+
+--2017-02-03 17:54:27--  http://doi.org/10.5665/sleep.6162
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6162 [following]
+--2017-02-03 17:54:28--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6162
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6162 [following]
+--2017-02-03 17:54:34--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6162
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 38889 (38K) [text/html]
+Saving to: ‘sleep.6162’
+
+     0K .......... .......... .......... .......              100%  237K=0.2s
+
+2017-02-03 17:54:35 (237 KB/s) - ‘sleep.6162’ saved [38889/38889]
+
+--2017-02-03 17:54:36--  http://doi.org/10.5665/sleep.6176
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6176 [following]
+--2017-02-03 17:54:39--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6176
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 192871 (188K) [text/html]
+Saving to: ‘sleep.6176’
+
+     0K .......... .......... .......... .......... .......... 26%  208K 1s
+    50K .......... .......... .......... .......... .......... 53%  599K 0s
+   100K .......... .......... .......... .......... .......... 79%  611K 0s
+   150K .......... .......... .......... ........             100%  460K=0.5s
+
+2017-02-03 17:54:52 (386 KB/s) - ‘sleep.6176’ saved [192871/192871]
+
+--2017-02-03 17:54:53--  http://doi.org/10.5665/sleep.6154
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6154 [following]
+--2017-02-03 17:54:55--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6154
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6154 [following]
+--2017-02-03 17:55:01--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6154
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23937 (23K) [text/html]
+Saving to: ‘sleep.6154’
+
+     0K .......... .......... ...                             100%  289K=0.08s
+
+2017-02-03 17:55:02 (289 KB/s) - ‘sleep.6154’ saved [23937/23937]
+
+--2017-02-03 17:55:03--  http://doi.org/10.5665/sleep.6170
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6170 [following]
+--2017-02-03 17:55:05--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6170
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 348430 (340K) [text/html]
+Saving to: ‘sleep.6170’
+
+     0K .......... .......... .......... .......... .......... 14%  209K 1s
+    50K .......... .......... .......... .......... .......... 29%  605K 1s
+   100K .......... .......... .......... .......... .......... 44%  608K 1s
+   150K .......... .......... .......... .......... .......... 58%  319K 0s
+   200K .......... .......... .......... .......... .......... 73%  594K 0s
+   250K .......... .......... .......... .......... .......... 88%  610K 0s
+   300K .......... .......... .......... ..........           100%  496K=0.8s
+
+2017-02-03 17:55:13 (421 KB/s) - ‘sleep.6170’ saved [348430/348430]
+
+--2017-02-03 17:55:14--  http://doi.org/10.5665/sleep.6150
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6150 [following]
+--2017-02-03 17:55:16--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6150
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 115396 (113K) [text/html]
+Saving to: ‘sleep.6150’
+
+     0K .......... .......... .......... .......... .......... 44%  209K 0s
+    50K .......... .......... .......... .......... .......... 88%  591K 0s
+   100K .......... ..                                         100% 31.8M=0.3s
+
+2017-02-03 17:55:22 (348 KB/s) - ‘sleep.6150’ saved [115396/115396]
+
+--2017-02-03 17:55:23--  http://doi.org/10.5665/sleep.6166
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6166 [following]
+--2017-02-03 17:55:25--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6166
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6166 [following]
+--2017-02-03 17:55:30--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6166
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23937 (23K) [text/html]
+Saving to: ‘sleep.6166’
+
+     0K .......... .......... ...                             100%  284K=0.08s
+
+2017-02-03 17:55:31 (284 KB/s) - ‘sleep.6166’ saved [23937/23937]
+
+--2017-02-03 17:55:32--  http://doi.org/10.5665/sleep.6172
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6172 [following]
+--2017-02-03 17:55:34--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6172
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6172 [following]
+--2017-02-03 17:55:37--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6172
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23937 (23K) [text/html]
+Saving to: ‘sleep.6172’
+
+     0K .......... .......... ...                             100%  291K=0.08s
+
+2017-02-03 17:55:38 (291 KB/s) - ‘sleep.6172’ saved [23937/23937]
+
+--2017-02-03 17:55:39--  http://doi.org/10.5665/sleep.6158
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6158 [following]
+--2017-02-03 17:55:40--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6158
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6158 [following]
+--2017-02-03 17:55:44--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6158
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23937 (23K) [text/html]
+Saving to: ‘sleep.6158’
+
+     0K .......... .......... ...                             100%  292K=0.08s
+
+2017-02-03 17:55:44 (292 KB/s) - ‘sleep.6158’ saved [23937/23937]
+
+--2017-02-03 17:55:45--  http://doi.org/10.5665/sleep.6164
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6164 [following]
+--2017-02-03 17:55:47--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6164
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 313362 (306K) [text/html]
+Saving to: ‘sleep.6164’
+
+     0K .......... .......... .......... .......... .......... 16%  208K 1s
+    50K .......... .......... .......... .......... .......... 32%  604K 1s
+   100K .......... .......... .......... .......... .......... 49%  599K 0s
+   150K .......... .......... .......... .......... .......... 65%  318K 0s
+   200K .......... .......... .......... .......... .......... 81%  595K 0s
+   250K .......... .......... .......... .......... .......... 98%  605K 0s
+   300K ......                                                100% 11478G=0.7s
+
+2017-02-03 17:55:53 (419 KB/s) - ‘sleep.6164’ saved [313362/313362]
+
+--2017-02-03 17:55:54--  http://doi.org/10.5665/sleep.6174
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6174 [following]
+--2017-02-03 17:55:59--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6174
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 178497 (174K) [text/html]
+Saving to: ‘sleep.6174’
+
+     0K .......... .......... .......... .......... .......... 28%  209K 1s
+    50K .......... .......... .......... .......... .......... 57%  611K 0s
+   100K .......... .......... .......... .......... .......... 86%  606K 0s
+   150K .......... .......... ....                            100%  306K=0.5s
+
+2017-02-03 17:56:04 (361 KB/s) - ‘sleep.6174’ saved [178497/178497]
+
+--2017-02-03 17:56:05--  http://doi.org/10.5665/sleep.6152
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6152 [following]
+--2017-02-03 17:56:07--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6152
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 277429 (271K) [text/html]
+Saving to: ‘sleep.6152’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 36%  610K 1s
+   100K .......... .......... .......... .......... .......... 55%  600K 0s
+   150K .......... .......... .......... .......... .......... 73%  423K 0s
+   200K .......... .......... .......... .......... .......... 92%  404K 0s
+   250K .......... ..........                                 100%  561K=0.7s
+
+2017-02-03 17:56:13 (396 KB/s) - ‘sleep.6152’ saved [277429/277429]
+
+--2017-02-03 17:56:14--  http://doi.org/10.5665/sleep.6156
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6156 [following]
+--2017-02-03 17:56:15--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6156
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6156 [following]
+--2017-02-03 17:56:19--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6156
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 38889 (38K) [text/html]
+Saving to: ‘sleep.6156’
+
+     0K .......... .......... .......... .......              100%  237K=0.2s
+
+2017-02-03 17:56:20 (237 KB/s) - ‘sleep.6156’ saved [38889/38889]
+
+--2017-02-03 17:56:21--  http://doi.org/10.5665/sleep.6160
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6160 [following]
+--2017-02-03 17:56:23--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6160
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 150843 (147K) [text/html]
+Saving to: ‘sleep.6160’
+
+     0K .......... .......... .......... .......... .......... 33%  209K 0s
+    50K .......... .......... .......... .......... .......... 67%  602K 0s
+   100K .......... .......... .......... .......... .......   100%  582K=0.4s
+
+2017-02-03 17:56:27 (365 KB/s) - ‘sleep.6160’ saved [150843/150843]
+
+--2017-02-03 17:56:28--  http://doi.org/10.5665/sleep.6098
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6098 [following]
+--2017-02-03 17:56:32--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6098
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6098 [following]
+--2017-02-03 17:56:34--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6098
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 23937 (23K) [text/html]
+Saving to: ‘sleep.6098’
+
+     0K .......... .......... ...                             100%  147K=0.2s
+
+2017-02-03 17:56:35 (147 KB/s) - ‘sleep.6098’ saved [23937/23937]
+
+--2017-02-03 17:56:36--  http://doi.org/10.5665/sleep.6100
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6100 [following]
+--2017-02-03 17:56:38--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6100
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6100 [following]
+--2017-02-03 17:56:39--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6100
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23937 (23K) [text/html]
+Saving to: ‘sleep.6100’
+
+     0K .......... .......... ...                             100%  291K=0.08s
+
+2017-02-03 17:56:40 (291 KB/s) - ‘sleep.6100’ saved [23937/23937]
+
+--2017-02-03 17:56:41--  http://doi.org/10.5665/sleep.6090
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6090 [following]
+--2017-02-03 17:56:43--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6090
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6090 [following]
+--2017-02-03 17:56:44--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6090
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23937 (23K) [text/html]
+Saving to: ‘sleep.6090’
+
+     0K .......... .......... ...                             100%  292K=0.08s
+
+2017-02-03 17:56:45 (292 KB/s) - ‘sleep.6090’ saved [23937/23937]
+
+--2017-02-03 17:56:46--  http://doi.org/10.5665/sleep.6102
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6102 [following]
+--2017-02-03 17:56:49--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6102
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6102 [following]
+--2017-02-03 17:56:51--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6102
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23937 (23K) [text/html]
+Saving to: ‘sleep.6102’
+
+     0K .......... .......... ...                             100%  289K=0.08s
+
+2017-02-03 17:56:52 (289 KB/s) - ‘sleep.6102’ saved [23937/23937]
+
+--2017-02-03 17:56:53--  http://doi.org/10.5665/sleep.6080
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6080 [following]
+--2017-02-03 17:56:57--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6080
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6080 [following]
+--2017-02-03 17:56:59--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6080
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 17:57:00 ERROR 400: Bad Request.
+
+--2017-02-03 17:57:01--  http://doi.org/10.5665/sleep.6082
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6082 [following]
+--2017-02-03 17:57:03--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6082
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6082 [following]
+--2017-02-03 17:57:05--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6082
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23937 (23K) [text/html]
+Saving to: ‘sleep.6082’
+
+     0K .......... .......... ...                             100%  292K=0.08s
+
+2017-02-03 17:57:06 (292 KB/s) - ‘sleep.6082’ saved [23937/23937]
+
+--2017-02-03 17:57:07--  http://doi.org/10.5665/sleep.6104
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6104 [following]
+--2017-02-03 17:57:08--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6104
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 17:57:09 ERROR 400: Bad Request.
+
+--2017-02-03 17:57:10--  http://doi.org/10.5665/sleep.6084
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6084 [following]
+--2017-02-03 17:57:11--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6084
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6084 [following]
+--2017-02-03 17:57:13--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6084
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23937 (23K) [text/html]
+Saving to: ‘sleep.6084’
+
+     0K .......... .......... ...                             100%  290K=0.08s
+
+2017-02-03 17:57:14 (290 KB/s) - ‘sleep.6084’ saved [23937/23937]
+
+--2017-02-03 17:57:15--  http://doi.org/10.5665/sleep.6108
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6108 [following]
+--2017-02-03 17:57:16--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6108
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6108 [following]
+--2017-02-03 17:57:18--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6108
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 23937 (23K) [text/html]
+Saving to: ‘sleep.6108’
+
+     0K .......... .......... ...                             100%  147K=0.2s
+
+2017-02-03 17:57:20 (147 KB/s) - ‘sleep.6108’ saved [23937/23937]
+
+--2017-02-03 17:57:21--  http://doi.org/10.5665/sleep.6078
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6078 [following]
+--2017-02-03 17:57:23--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6078
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6078 [following]
+--2017-02-03 17:57:24--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6078
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 17:57:25 ERROR 400: Bad Request.
+
+--2017-02-03 17:57:26--  http://doi.org/10.5665/sleep.6096
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6096 [following]
+--2017-02-03 17:57:27--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6096
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6096 [following]
+--2017-02-03 17:57:29--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6096
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23937 (23K) [text/html]
+Saving to: ‘sleep.6096’
+
+     0K .......... .......... ...                             100%  290K=0.08s
+
+2017-02-03 17:57:30 (290 KB/s) - ‘sleep.6096’ saved [23937/23937]
+
+--2017-02-03 17:57:31--  http://doi.org/10.5665/sleep.6086
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6086 [following]
+--2017-02-03 17:57:33--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6086
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6086 [following]
+--2017-02-03 17:57:34--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6086
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 38889 (38K) [text/html]
+Saving to: ‘sleep.6086’
+
+     0K .......... .......... .......... .......              100%  237K=0.2s
+
+2017-02-03 17:57:35 (237 KB/s) - ‘sleep.6086’ saved [38889/38889]
+
+--2017-02-03 17:57:36--  http://doi.org/10.5665/sleep.6094
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6094 [following]
+--2017-02-03 17:57:38--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6094
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6094 [following]
+--2017-02-03 17:57:39--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6094
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23937 (23K) [text/html]
+Saving to: ‘sleep.6094’
+
+     0K .......... .......... ...                             100%  291K=0.08s
+
+2017-02-03 17:58:43 (291 KB/s) - ‘sleep.6094’ saved [23937/23937]
+
+--2017-02-03 17:58:44--  http://doi.org/10.5665/sleep.6088
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6088 [following]
+--2017-02-03 17:58:48--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6088
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6088 [following]
+--2017-02-03 17:58:50--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6088
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23937 (23K) [text/html]
+Saving to: ‘sleep.6088’
+
+     0K .......... .......... ...                             100%  290K=0.08s
+
+2017-02-03 17:58:51 (290 KB/s) - ‘sleep.6088’ saved [23937/23937]
+
+--2017-02-03 17:58:52--  http://doi.org/10.5665/sleep.6092
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6092 [following]
+--2017-02-03 17:58:54--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6092
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6092 [following]
+--2017-02-03 17:58:57--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6092
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23937 (23K) [text/html]
+Saving to: ‘sleep.6092’
+
+     0K .......... .......... ...                             100%  293K=0.08s
+
+2017-02-03 17:58:58 (293 KB/s) - ‘sleep.6092’ saved [23937/23937]
+
+--2017-02-03 17:58:59--  http://doi.org/10.5665/sleep.6106
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6106 [following]
+--2017-02-03 17:59:04--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6106
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6106 [following]
+--2017-02-03 17:59:06--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6106
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 38889 (38K) [text/html]
+Saving to: ‘sleep.6106’
+
+     0K .......... .......... .......... .......              100%  236K=0.2s
+
+2017-02-03 17:59:07 (236 KB/s) - ‘sleep.6106’ saved [38889/38889]
+
+--2017-02-03 17:59:08--  http://doi.org/10.5665/sleep.6008
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6008 [following]
+--2017-02-03 17:59:10--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 17:59:12 ERROR 400: Bad Request.
+
+--2017-02-03 17:59:13--  http://doi.org/10.5665/sleep.6028
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6028 [following]
+--2017-02-03 17:59:15--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6028
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6028 [following]
+--2017-02-03 17:59:21--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6028
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23937 (23K) [text/html]
+Saving to: ‘sleep.6028’
+
+     0K .......... .......... ...                             100%  291K=0.08s
+
+2017-02-03 17:59:22 (291 KB/s) - ‘sleep.6028’ saved [23937/23937]
+
+--2017-02-03 17:59:23--  http://doi.org/10.5665/sleep.6016
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6016 [following]
+--2017-02-03 17:59:25--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6016
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 251805 (246K) [text/html]
+Saving to: ‘sleep.6016’
+
+     0K .......... .......... .......... .......... .......... 20%  206K 1s
+    50K .......... .......... .......... .......... .......... 40%  309K 1s
+   100K .......... .......... .......... .......... .......... 60%  610K 0s
+   150K .......... .......... .......... .......... .......... 81%  313K 0s
+   200K .......... .......... .......... .......... .....     100%  560K=0.7s
+
+2017-02-03 17:59:33 (338 KB/s) - ‘sleep.6016’ saved [251805/251805]
+
+--2017-02-03 17:59:34--  http://doi.org/10.5665/sleep.6000
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6000 [following]
+--2017-02-03 17:59:36--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6000
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 114601 (112K) [text/html]
+Saving to: ‘sleep.6000’
+
+     0K .......... .......... .......... .......... .......... 44%  209K 0s
+    50K .......... .......... .......... .......... .......... 89%  607K 0s
+   100K .......... .                                          100% 16.0M=0.3s
+
+2017-02-03 17:59:41 (347 KB/s) - ‘sleep.6000’ saved [114601/114601]
+
+--2017-02-03 17:59:42--  http://doi.org/10.5665/sleep.6026
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6026 [following]
+--2017-02-03 17:59:44--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6026
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 261111 (255K) [text/html]
+Saving to: ‘sleep.6026’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 39%  610K 0s
+   100K .......... .......... .......... .......... .......... 58%  593K 0s
+   150K .......... .......... .......... .......... .......... 78%  608K 0s
+   200K .......... .......... .......... .......... .......... 98%  316K 0s
+   250K ....                                                  100% 9520G=0.6s
+
+2017-02-03 17:59:51 (395 KB/s) - ‘sleep.6026’ saved [261111/261111]
+
+--2017-02-03 17:59:52--  http://doi.org/10.5665/sleep.6012
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6012 [following]
+--2017-02-03 17:59:54--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 17:59:55 ERROR 400: Bad Request.
+
+--2017-02-03 17:59:56--  http://doi.org/10.5665/sleep.6032
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6032 [following]
+--2017-02-03 18:00:05--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6032
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 313949 (307K) [text/html]
+Saving to: ‘sleep.6032’
+
+     0K .......... .......... .......... .......... .......... 16%  208K 1s
+    50K .......... .......... .......... .......... .......... 32%  597K 1s
+   100K .......... .......... .......... .......... .......... 48%  611K 0s
+   150K .......... .......... .......... .......... .......... 65%  601K 0s
+   200K .......... .......... .......... .......... .......... 81%  314K 0s
+   250K .......... .......... .......... .......... .......... 97%  603K 0s
+   300K ......                                                100% 15.2M=0.7s
+
+2017-02-03 18:00:14 (419 KB/s) - ‘sleep.6032’ saved [313949/313949]
+
+--2017-02-03 18:00:15--  http://doi.org/10.5665/sleep.6004
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6004 [following]
+--2017-02-03 18:00:18--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:00:19 ERROR 400: Bad Request.
+
+--2017-02-03 18:00:20--  http://doi.org/10.5665/sleep.6030
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6030 [following]
+--2017-02-03 18:00:21--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6030
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 297158 (290K) [text/html]
+Saving to: ‘sleep.6030’
+
+     0K .......... .......... .......... .......... .......... 17%  207K 1s
+    50K .......... .......... .......... .......... .......... 34%  610K 1s
+   100K .......... .......... .......... .......... .......... 51%  598K 0s
+   150K .......... .......... .......... .......... .......... 68%  606K 0s
+   200K .......... .......... .......... .......... .......... 86%  311K 0s
+   250K .......... .......... .......... ..........           100%  501K=0.7s
+
+2017-02-03 18:00:29 (397 KB/s) - ‘sleep.6030’ saved [297158/297158]
+
+--2017-02-03 18:00:30--  http://doi.org/10.5665/sleep.6006
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6006 [following]
+--2017-02-03 18:00:31--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 183957 (180K) [text/html]
+Saving to: ‘sleep.6006’
+
+     0K .......... .......... .......... .......... .......... 27%  208K 1s
+    50K .......... .......... .......... .......... .......... 55%  602K 0s
+   100K .......... .......... .......... .......... .......... 83%  614K 0s
+   150K .......... .......... .........                       100%  371K=0.5s
+
+2017-02-03 18:00:37 (371 KB/s) - ‘sleep.6006’ saved [183957/183957]
+
+--2017-02-03 18:00:38--  http://doi.org/10.5665/sleep.6024
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6024 [following]
+--2017-02-03 18:00:41--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6024
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:00:41 ERROR 400: Bad Request.
+
+--2017-02-03 18:00:42--  http://doi.org/10.5665/sleep.6022
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6022 [following]
+--2017-02-03 18:00:45--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6022
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 293774 (287K) [text/html]
+Saving to: ‘sleep.6022’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 34%  593K 1s
+   100K .......... .......... .......... .......... .......... 52%  613K 0s
+   150K .......... .......... .......... .......... .......... 69%  608K 0s
+   200K .......... .......... .......... .......... .......... 87%  314K 0s
+   250K .......... .......... .......... ......               100%  474K=0.7s
+
+2017-02-03 18:00:51 (396 KB/s) - ‘sleep.6022’ saved [293774/293774]
+
+--2017-02-03 18:00:52--  http://doi.org/10.5665/sleep.6010
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6010 [following]
+--2017-02-03 18:00:53--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:00:55 ERROR 400: Bad Request.
+
+--2017-02-03 18:00:56--  http://doi.org/10.5665/sleep.6002
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6002 [following]
+--2017-02-03 18:00:58--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 123166 (120K) [text/html]
+Saving to: ‘sleep.6002’
+
+     0K .......... .......... .......... .......... .......... 41%  209K 0s
+    50K .......... .......... .......... .......... .......... 83%  604K 0s
+   100K .......... ..........                                 100% 15.6M=0.3s
+
+2017-02-03 18:01:02 (373 KB/s) - ‘sleep.6002’ saved [123166/123166]
+
+--2017-02-03 18:01:03--  http://doi.org/10.5665/sleep.6020
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6020 [following]
+--2017-02-03 18:01:05--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6020
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 258285 (252K) [text/html]
+Saving to: ‘sleep.6020’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 39%  607K 0s
+   100K .......... .......... .......... .......... .......... 59%  589K 0s
+   150K .......... .......... .......... .......... .......... 79%  319K 0s
+   200K .......... .......... .......... .......... .......... 99%  590K 0s
+   250K ..                                                    100% 4256G=0.6s
+
+2017-02-03 18:01:10 (389 KB/s) - ‘sleep.6020’ saved [258285/258285]
+
+--2017-02-03 18:01:11--  http://doi.org/10.5665/sleep.6018
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6018 [following]
+--2017-02-03 18:01:13--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6018
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:01:15 ERROR 400: Bad Request.
+
+--2017-02-03 18:01:16--  http://doi.org/10.5665/sleep.6014
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6014 [following]
+--2017-02-03 18:01:18--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.6014
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6014 [following]
+--2017-02-03 18:01:22--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.6014
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23937 (23K) [text/html]
+Saving to: ‘sleep.6014’
+
+     0K .......... .......... ...                             100%  291K=0.08s
+
+2017-02-03 18:01:23 (291 KB/s) - ‘sleep.6014’ saved [23937/23937]
+
+--2017-02-03 18:01:24--  http://doi.org/10.5665/sleep.5978
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5978 [following]
+--2017-02-03 18:01:28--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5978
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 369617 (361K) [text/html]
+Saving to: ‘sleep.5978’
+
+     0K .......... .......... .......... .......... .......... 13%  209K 1s
+    50K .......... .......... .......... .......... .......... 27%  606K 1s
+   100K .......... .......... .......... .......... .......... 41%  597K 1s
+   150K .......... .......... .......... .......... .......... 55%  319K 0s
+   200K .......... .......... .......... .......... .......... 69%  595K 0s
+   250K .......... .......... .......... .......... .......... 83%  602K 0s
+   300K .......... .......... .......... .......... .......... 96%  612K 0s
+   350K ..........                                            100%  141K=0.9s
+
+2017-02-03 18:01:34 (406 KB/s) - ‘sleep.5978’ saved [369617/369617]
+
+--2017-02-03 18:01:35--  http://doi.org/10.5665/sleep.5958
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5958 [following]
+--2017-02-03 18:01:38--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5958
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 301617 (295K) [text/html]
+Saving to: ‘sleep.5958’
+
+     0K .......... .......... .......... .......... .......... 16%  209K 1s
+    50K .......... .......... .......... .......... .......... 33%  611K 1s
+   100K .......... .......... .......... .......... .......... 50%  605K 0s
+   150K .......... .......... .......... .......... .......... 67%  421K 0s
+   200K .......... .......... .......... .......... .......... 84%  409K 0s
+   250K .......... .......... .......... .......... ....      100%  551K=0.7s
+
+2017-02-03 18:01:45 (406 KB/s) - ‘sleep.5958’ saved [301617/301617]
+
+--2017-02-03 18:01:46--  http://doi.org/10.5665/sleep.5976
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5976 [following]
+--2017-02-03 18:01:48--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5976
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 228152 (223K) [text/html]
+Saving to: ‘sleep.5976’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 44%  595K 0s
+   100K .......... .......... .......... .......... .......... 67%  611K 0s
+   150K .......... .......... .......... .......... .......... 89%  603K 0s
+   200K .......... .......... ..                              100%  286K=0.6s
+
+2017-02-03 18:01:55 (393 KB/s) - ‘sleep.5976’ saved [228152/228152]
+
+--2017-02-03 18:01:56--  http://doi.org/10.5665/sleep.5970
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5970 [following]
+--2017-02-03 18:01:57--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5970
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 380669 (372K) [text/html]
+Saving to: ‘sleep.5970’
+
+     0K .......... .......... .......... .......... .......... 13%  209K 2s
+    50K .......... .......... .......... .......... .......... 26%  613K 1s
+   100K .......... .......... .......... .......... .......... 40%  605K 1s
+   150K .......... .......... .......... .......... .......... 53%  602K 0s
+   200K .......... .......... .......... .......... .......... 67%  318K 0s
+   250K .......... .......... .......... .......... .......... 80%  594K 0s
+   300K .......... .......... .......... .......... .......... 94%  603K 0s
+   350K .......... .......... .                               100%  284K=0.9s
+
+2017-02-03 18:02:02 (419 KB/s) - ‘sleep.5970’ saved [380669/380669]
+
+--2017-02-03 18:02:03--  http://doi.org/10.5665/sleep.5962
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5962 [following]
+--2017-02-03 18:02:06--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5962
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 260616 (255K) [text/html]
+Saving to: ‘sleep.5962’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 39%  610K 0s
+   100K .......... .......... .......... .......... .......... 58%  605K 0s
+   150K .......... .......... .......... .......... .......... 78%  318K 0s
+   200K .......... .......... .......... .......... .......... 98%  597K 0s
+   250K ....                                                  100% 19.2M=0.6s
+
+2017-02-03 18:02:25 (394 KB/s) - ‘sleep.5962’ saved [260616/260616]
+
+--2017-02-03 18:02:26--  http://doi.org/10.5665/sleep.5960
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5960 [following]
+--2017-02-03 18:02:29--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5960
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:02:29 ERROR 400: Bad Request.
+
+--2017-02-03 18:02:30--  http://doi.org/10.5665/sleep.5964
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5964 [following]
+--2017-02-03 18:02:32--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5964
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.5964 [following]
+--2017-02-03 18:02:35--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.5964
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23905 (23K) [text/html]
+Saving to: ‘sleep.5964’
+
+     0K .......... .......... ...                             100%  290K=0.08s
+
+2017-02-03 18:02:37 (290 KB/s) - ‘sleep.5964’ saved [23905/23905]
+
+--2017-02-03 18:02:38--  http://doi.org/10.5665/sleep.5982
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5982 [following]
+--2017-02-03 18:02:44--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5982
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:02:46 ERROR 400: Bad Request.
+
+--2017-02-03 18:02:47--  http://doi.org/10.5665/sleep.5968
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5968 [following]
+--2017-02-03 18:02:49--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5968
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.5968 [following]
+--2017-02-03 18:02:57--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.5968
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23937 (23K) [text/html]
+Saving to: ‘sleep.5968’
+
+     0K .......... .......... ...                             100%  291K=0.08s
+
+2017-02-03 18:02:58 (291 KB/s) - ‘sleep.5968’ saved [23937/23937]
+
+--2017-02-03 18:02:59--  http://doi.org/10.5665/sleep.5956
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5956 [following]
+--2017-02-03 18:03:02--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5956
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:03:02 ERROR 400: Bad Request.
+
+--2017-02-03 18:03:03--  http://doi.org/10.5665/sleep.5966
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5966 [following]
+--2017-02-03 18:03:06--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5966
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 249380 (244K) [text/html]
+Saving to: ‘sleep.5966’
+
+     0K .......... .......... .......... .......... .......... 20%  209K 1s
+    50K .......... .......... .......... .......... .......... 41%  606K 0s
+   100K .......... .......... .......... .......... .......... 61%  605K 0s
+   150K .......... .......... .......... .......... .......... 82%  313K 0s
+   200K .......... .......... .......... .......... ...       100%  534K=0.6s
+
+2017-02-03 18:03:18 (377 KB/s) - ‘sleep.5966’ saved [249380/249380]
+
+--2017-02-03 18:03:19--  http://doi.org/10.5665/sleep.5974
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5974 [following]
+--2017-02-03 18:03:21--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5974
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.5974 [following]
+--2017-02-03 18:03:32--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.5974
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:03:32 ERROR 400: Bad Request.
+
+--2017-02-03 18:03:33--  http://doi.org/10.5665/sleep.5972
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5972 [following]
+--2017-02-03 18:03:35--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5972
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 18:03:57--  (try: 2)  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5972
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 18:04:04--  (try: 3)  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5972
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:04:06 ERROR 400: Bad Request.
+
+--2017-02-03 18:04:07--  http://doi.org/10.5665/sleep.5986
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5986 [following]
+--2017-02-03 18:04:08--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5986
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 18:04:15--  (try: 2)  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5986
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:04:23 ERROR 400: Bad Request.
+
+--2017-02-03 18:04:24--  http://doi.org/10.5665/sleep.5988
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5988 [following]
+--2017-02-03 18:04:26--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5988
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 18:04:51--  (try: 2)  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5988
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 80773 (79K) [text/html]
+Saving to: ‘sleep.5988’
+
+     0K .......... .......... .......... .......... .......... 63%  209K 0s
+    50K .......... .......... ........                        100% 11.4M=0.2s
+
+2017-02-03 18:05:15 (326 KB/s) - ‘sleep.5988’ saved [80773/80773]
+
+--2017-02-03 18:05:16--  http://doi.org/10.5665/sleep.5980
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5980 [following]
+--2017-02-03 18:05:17--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5980
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 286861 (280K) [text/html]
+Saving to: ‘sleep.5980’
+
+     0K .......... .......... .......... .......... .......... 17%  309K 1s
+    50K .......... .......... .......... .......... .......... 35%  313K 1s
+   100K .......... .......... .......... .......... .......... 53%  605K 0s
+   150K .......... .......... .......... .......... .......... 71%  315K 0s
+   200K .......... .......... .......... .......... .......... 89%  601K 0s
+   250K .......... .......... ..........                      100%  366K=0.7s
+
+2017-02-03 18:05:31 (385 KB/s) - ‘sleep.5980’ saved [286861/286861]
+
+--2017-02-03 18:05:32--  http://doi.org/10.5665/sleep.5984
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5984 [following]
+--2017-02-03 18:05:34--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5984
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 18:06:00--  (try: 2)  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5984
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 18:06:28--  (try: 3)  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5984
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Retrying.
+
+--2017-02-03 18:06:40--  (try: 4)  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5984
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 333665 (326K) [text/html]
+Saving to: ‘sleep.5984’
+
+     0K .......... .......... .......... .......... .......... 15%  208K 1s
+    50K .......... .......... .......... .......... .......... 30%  604K 1s
+   100K .......... .......... .......... .......... .......... 46%  589K 0s
+   150K .......... .......... .......... .......... .......... 61%  322K 0s
+   200K .......... .......... .......... .......... .......... 76%  558K 0s
+   250K .......... .......... .......... .......... .......... 92%  597K 0s
+   300K .......... .......... .....                           100%  329K=0.8s
+
+2017-02-03 18:07:05 (400 KB/s) - ‘sleep.5984’ saved [333665/333665]
+
+--2017-02-03 18:07:06--  http://doi.org/10.5665/sleep.5852
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5852 [following]
+--2017-02-03 18:07:14--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5852
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 226948 (222K) [text/html]
+Saving to: ‘sleep.5852’
+
+     0K .......... .......... .......... .......... .......... 22%  207K 1s
+    50K .......... .......... .......... .......... .......... 45%  610K 0s
+   100K .......... .......... .......... .......... .......... 67%  558K 0s
+   150K .......... .......... .......... .......... .......... 90%  592K 0s
+   200K .......... .......... .                               100%  296K=0.6s
+
+2017-02-03 18:07:49 (389 KB/s) - ‘sleep.5852’ saved [226948/226948]
+
+--2017-02-03 18:07:50--  http://doi.org/10.5665/sleep.5844
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5844 [following]
+--2017-02-03 18:07:53--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5844
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 182143 (178K) [text/html]
+Saving to: ‘sleep.5844’
+
+     0K .......... .......... .......... .......... .......... 28%  309K 0s
+    50K .......... .......... .......... .......... .......... 56%  311K 0s
+   100K .......... .......... .......... .......... .......... 84%  610K 0s
+   150K .......... .......... .......                         100%  342K=0.5s
+
+2017-02-03 18:08:23 (366 KB/s) - ‘sleep.5844’ saved [182143/182143]
+
+--2017-02-03 18:08:24--  http://doi.org/10.5665/sleep.5842
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5842 [following]
+--2017-02-03 18:08:29--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5842
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 216689 (212K) [text/html]
+Saving to: ‘sleep.5842’
+
+     0K .......... .......... .......... .......... .......... 23%  208K 1s
+    50K .......... .......... .......... .......... .......... 47%  610K 0s
+   100K .......... .......... .......... .......... .......... 70%  606K 0s
+   150K .......... .......... .......... .......... .......... 94%  316K 0s
+   200K .......... .                                          100% 2.33M=0.6s
+
+2017-02-03 18:08:49 (373 KB/s) - ‘sleep.5842’ saved [216689/216689]
+
+--2017-02-03 18:08:50--  http://doi.org/10.5665/sleep.5860
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5860 [following]
+--2017-02-03 18:08:52--  https://academic.oup.com/sleep/article-lookup/doi/10.5665/sleep.5860
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.5860 [following]
+--2017-02-03 18:09:04--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/sleep/article-lookup/doi/10.5665/sleep.5860
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 21927 (21K) [text/html]
+Saving to: ‘sleep.5860’
+
+     0K .......... .......... .                               100%  266K=0.08s
+
+2017-02-03 18:09:05 (266 KB/s) - ‘sleep.5860’ saved [21927/21927]
+
+FINISHED --2017-02-03 18:09:05--
+Total wall clock time: 19m 51s
+Downloaded: 81 files, 13M in 38s (360 KB/s)

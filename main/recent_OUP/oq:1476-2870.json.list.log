@@ -1,0 +1,1536 @@
+--2017-02-03 05:01:56--  http://doi.org/10.1093/oq/kbw001
+Resolving doi.org (doi.org)... 208.254.38.90, 63.123.152.248, 38.100.138.162, ...
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 05:01:57--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Resolving fdslive.oup.com (fdslive.oup.com)... 193.67.160.201
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘kbw001’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 05:01:58 (1.20 MB/s) - ‘kbw001’ saved [52438/52438]
+
+--2017-02-03 05:01:59--  http://doi.org/10.1093/oq/kbw002
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 05:02:00--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘kbw002’
+
+     0K .......... .......... .......... .......... .......... 97%  937K 0s
+    50K .                                                     100% 2306G=0.05s
+
+2017-02-03 05:02:00 (960 KB/s) - ‘kbw002’ saved [52438/52438]
+
+--2017-02-03 05:02:01--  http://doi.org/10.1093/oq/kbu044
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu044 [following]
+--2017-02-03 05:02:02--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu044
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62417 (61K) [text/html]
+Saving to: ‘kbu044’
+
+     0K .......... .......... .......... .......... .......... 82%  209K 0s
+    50K ..........                                            100% 21.9M=0.2s
+
+2017-02-03 05:02:15 (254 KB/s) - ‘kbu044’ saved [62417/62417]
+
+--2017-02-03 05:02:16--  http://doi.org/10.1093/oq/kbv013
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbv013 [following]
+--2017-02-03 05:02:17--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbv013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 180993 (177K) [text/html]
+Saving to: ‘kbv013’
+
+     0K .......... .......... .......... .......... .......... 28%  208K 1s
+    50K .......... .......... .......... .......... .......... 56%  543K 0s
+   100K .......... .......... .......... .......... .......... 84%  538K 0s
+   150K .......... .......... ......                          100%  346K=0.5s
+
+2017-02-03 05:02:29 (352 KB/s) - ‘kbv013’ saved [180993/180993]
+
+--2017-02-03 05:02:30--  http://doi.org/10.1093/oq/kbv015
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbv015 [following]
+--2017-02-03 05:02:31--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbv015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 05:02:32 ERROR 400: Bad Request.
+
+--2017-02-03 05:02:33--  http://doi.org/10.1093/oq/kbu036
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu036 [following]
+--2017-02-03 05:02:34--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu036
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62440 (61K) [text/html]
+Saving to: ‘kbu036’
+
+     0K .......... .......... .......... .......... .......... 81%  208K 0s
+    50K ..........                                            100% 25.0M=0.2s
+
+2017-02-03 05:02:45 (254 KB/s) - ‘kbu036’ saved [62440/62440]
+
+--2017-02-03 05:02:46--  http://doi.org/10.1093/oq/kbv014
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbv014 [following]
+--2017-02-03 05:02:47--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbv014
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 215942 (211K) [text/html]
+Saving to: ‘kbv014’
+
+     0K .......... .......... .......... .......... .......... 23%  206K 1s
+    50K .......... .......... .......... .......... .......... 47%  557K 0s
+   100K .......... .......... .......... .......... .......... 71%  606K 0s
+   150K .......... .......... .......... .......... .......... 94%  584K 0s
+   200K ..........                                            100%  138K=0.6s
+
+2017-02-03 05:02:59 (364 KB/s) - ‘kbv014’ saved [215942/215942]
+
+--2017-02-03 05:03:00--  http://doi.org/10.1093/oq/kbv012
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbv012 [following]
+--2017-02-03 05:03:01--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbv012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 173075 (169K) [text/html]
+Saving to: ‘kbv012’
+
+     0K .......... .......... .......... .......... .......... 29%  209K 1s
+    50K .......... .......... .......... .......... .......... 59%  574K 0s
+   100K .......... .......... .......... .......... .......... 88%  526K 0s
+   150K .......... .........                                  100%  241K=0.5s
+
+2017-02-03 05:03:08 (338 KB/s) - ‘kbv012’ saved [173075/173075]
+
+--2017-02-03 05:03:09--  http://doi.org/10.1093/oq/kbv017
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbv017 [following]
+--2017-02-03 05:03:10--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbv017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 05:03:10 ERROR 400: Bad Request.
+
+--2017-02-03 05:03:11--  http://doi.org/10.1093/oq/kbu048
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu048 [following]
+--2017-02-03 05:03:13--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu048
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62461 (61K) [text/html]
+Saving to: ‘kbu048’
+
+     0K .......... .......... .......... .......... .......... 81%  209K 0s
+    50K ..........                                            100% 17.2M=0.2s
+
+2017-02-03 05:03:17 (254 KB/s) - ‘kbu048’ saved [62461/62461]
+
+--2017-02-03 05:03:18--  http://doi.org/10.1093/oq/kbu040
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu040 [following]
+--2017-02-03 05:03:20--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu040
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62476 (61K) [text/html]
+Saving to: ‘kbu040’
+
+     0K .......... .......... .......... .......... .......... 81%  209K 0s
+    50K .......... .                                          100% 22.7M=0.2s
+
+2017-02-03 05:03:30 (254 KB/s) - ‘kbu040’ saved [62476/62476]
+
+--2017-02-03 05:03:31--  http://doi.org/10.1093/oq/kbv016
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbv016 [following]
+--2017-02-03 05:03:32--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbv016
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 05:03:32 ERROR 400: Bad Request.
+
+--2017-02-03 05:03:33--  http://doi.org/10.1093/oq/kbv011
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbv011 [following]
+--2017-02-03 05:03:35--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbv011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 96215 (94K) [text/html]
+Saving to: ‘kbv011’
+
+     0K .......... .......... .......... .......... .......... 53%  249K 0s
+    50K .......... .......... .......... .......... ...       100%  279K=0.4s
+
+2017-02-03 05:03:41 (262 KB/s) - ‘kbv011’ saved [96215/96215]
+
+--2017-02-03 05:03:42--  http://doi.org/10.1093/oq/kbu035
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu035 [following]
+--2017-02-03 05:03:43--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu035
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62431 (61K) [text/html]
+Saving to: ‘kbu035’
+
+     0K .......... .......... .......... .......... .......... 82%  209K 0s
+    50K ..........                                            100% 10.0M=0.2s
+
+2017-02-03 05:03:49 (253 KB/s) - ‘kbu035’ saved [62431/62431]
+
+--2017-02-03 05:03:50--  http://doi.org/10.1093/oq/kbu047
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu047 [following]
+--2017-02-03 05:03:51--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu047
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62469 (61K) [text/html]
+Saving to: ‘kbu047’
+
+     0K .......... .......... .......... .......... .......... 81%  209K 0s
+    50K .......... .                                          100% 22.7M=0.2s
+
+2017-02-03 05:03:57 (254 KB/s) - ‘kbu047’ saved [62469/62469]
+
+--2017-02-03 05:03:58--  http://doi.org/10.1093/oq/kbv010
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbv010 [following]
+--2017-02-03 05:03:59--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbv010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 85605 (84K) [text/html]
+Saving to: ‘kbv010’
+
+     0K .......... .......... .......... .......... .......... 59%  209K 0s
+    50K .......... .......... .......... ...                  100% 3.02M=0.3s
+
+2017-02-03 05:04:10 (334 KB/s) - ‘kbv010’ saved [85605/85605]
+
+--2017-02-03 05:04:11--  http://doi.org/10.1093/oq/kbu043
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu043 [following]
+--2017-02-03 05:04:12--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu043
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62425 (61K) [text/html]
+Saving to: ‘kbu043’
+
+     0K .......... .......... .......... .......... .......... 82%  300K 0s
+    50K ..........                                            100%  150K=0.2s
+
+2017-02-03 05:04:22 (254 KB/s) - ‘kbu043’ saved [62425/62425]
+
+--2017-02-03 05:04:23--  http://doi.org/10.1093/oq/kbu039
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu039 [following]
+--2017-02-03 05:04:24--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu039
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62484 (61K) [text/html]
+Saving to: ‘kbu039’
+
+     0K .......... .......... .......... .......... .......... 81%  209K 0s
+    50K .......... .                                          100% 14.8M=0.2s
+
+2017-02-03 05:04:32 (255 KB/s) - ‘kbu039’ saved [62484/62484]
+
+--2017-02-03 05:04:33--  http://doi.org/10.1093/oq/kbv009
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbv009 [following]
+--2017-02-03 05:04:35--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbv009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 95841 (94K) [text/html]
+Saving to: ‘kbv009’
+
+     0K .......... .......... .......... .......... .......... 53%  209K 0s
+    50K .......... .......... .......... .......... ...       100%  512K=0.3s
+
+2017-02-03 05:04:44 (288 KB/s) - ‘kbv009’ saved [95841/95841]
+
+--2017-02-03 05:04:45--  http://doi.org/10.1093/oq/kbv007
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbv007 [following]
+--2017-02-03 05:04:47--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbv007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 103950 (102K) [text/html]
+Saving to: ‘kbv007’
+
+     0K .......... .......... .......... .......... .......... 49%  205K 0s
+    50K .......... .......... .......... .......... .......... 98%  560K 0s
+   100K .                                                     100% 2887G=0.3s
+
+2017-02-03 05:04:53 (304 KB/s) - ‘kbv007’ saved [103950/103950]
+
+--2017-02-03 05:04:54--  http://doi.org/10.1093/oq/kbv008
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbv008 [following]
+--2017-02-03 05:04:55--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbv008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 85123 (83K) [text/html]
+Saving to: ‘kbv008’
+
+     0K .......... .......... .......... .......... .......... 60%  209K 0s
+    50K .......... .......... .......... ...                  100% 2.74M=0.3s
+
+2017-02-03 05:05:05 (331 KB/s) - ‘kbv008’ saved [85123/85123]
+
+--2017-02-03 05:05:06--  http://doi.org/10.1093/oq/kbu028
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu028 [following]
+--2017-02-03 05:05:08--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu028
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 125658 (123K) [text/html]
+Saving to: ‘kbu028’
+
+     0K .......... .......... .......... .......... .......... 40%  209K 0s
+    50K .......... .......... .......... .......... .......... 81%  613K 0s
+   100K .......... .......... ..                              100% 6.84M=0.3s
+
+2017-02-03 05:05:19 (379 KB/s) - ‘kbu028’ saved [125658/125658]
+
+--2017-02-03 05:05:20--  http://doi.org/10.1093/oq/kbu033
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu033 [following]
+--2017-02-03 05:05:21--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu033
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62056 (61K) [text/html]
+Saving to: ‘kbu033’
+
+     0K .......... .......... .......... .......... .......... 82%  208K 0s
+    50K ..........                                            100% 25.2M=0.2s
+
+2017-02-03 05:05:31 (251 KB/s) - ‘kbu033’ saved [62056/62056]
+
+--2017-02-03 05:05:32--  http://doi.org/10.1093/oq/kbv006
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbv006 [following]
+--2017-02-03 05:05:33--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbv006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 82554 (81K) [text/html]
+Saving to: ‘kbv006’
+
+     0K .......... .......... .......... .......... .......... 62%  209K 0s
+    50K .......... .......... ..........                      100% 11.1M=0.2s
+
+2017-02-03 05:05:46 (333 KB/s) - ‘kbv006’ saved [82554/82554]
+
+--2017-02-03 05:05:47--  http://doi.org/10.1093/oq/kbu041
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu041 [following]
+--2017-02-03 05:05:48--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu041
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76963 (75K) [text/html]
+Saving to: ‘kbu041’
+
+     0K .......... .......... .......... .......... .......... 66%  209K 0s
+    50K .......... .......... .....                           100% 13.8M=0.2s
+
+2017-02-03 05:05:56 (312 KB/s) - ‘kbu041’ saved [76963/76963]
+
+--2017-02-03 05:05:57--  http://doi.org/10.1093/oq/kbv004
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbv004 [following]
+--2017-02-03 05:05:58--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbv004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 05:05:58 ERROR 400: Bad Request.
+
+--2017-02-03 05:05:59--  http://doi.org/10.1093/oq/kbv002
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbv002 [following]
+--2017-02-03 05:06:00--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbv002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 305084 (298K) [text/html]
+Saving to: ‘kbv002’
+
+     0K .......... .......... .......... .......... .......... 16%  209K 1s
+    50K .......... .......... .......... .......... .......... 33%  603K 1s
+   100K .......... .......... .......... .......... .......... 50%  613K 0s
+   150K .......... .......... .......... .......... .......... 67%  607K 0s
+   200K .......... .......... .......... .......... .......... 83%  310K 0s
+   250K .......... .......... .......... .......... .......   100%  589K=0.7s
+
+2017-02-03 05:06:07 (409 KB/s) - ‘kbv002’ saved [305084/305084]
+
+--2017-02-03 05:06:08--  http://doi.org/10.1093/oq/kbu037
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu037 [following]
+--2017-02-03 05:06:10--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu037
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62071 (61K) [text/html]
+Saving to: ‘kbu037’
+
+     0K .......... .......... .......... .......... .......... 82%  209K 0s
+    50K ..........                                            100% 24.9M=0.2s
+
+2017-02-03 05:06:27 (253 KB/s) - ‘kbu037’ saved [62071/62071]
+
+--2017-02-03 05:06:28--  http://doi.org/10.1093/oq/kbu045
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu045 [following]
+--2017-02-03 05:06:29--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu045
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 05:06:30 ERROR 400: Bad Request.
+
+--2017-02-03 05:06:31--  http://doi.org/10.1093/oq/kbu030
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu030 [following]
+--2017-02-03 05:06:32--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu030
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 136574 (133K) [text/html]
+Saving to: ‘kbu030’
+
+     0K .......... .......... .......... .......... .......... 37%  209K 0s
+    50K .......... .......... .......... .......... .......... 74%  592K 0s
+   100K .......... .......... .......... ...                  100%  420K=0.4s
+
+2017-02-03 05:06:42 (331 KB/s) - ‘kbu030’ saved [136574/136574]
+
+--2017-02-03 05:06:43--  http://doi.org/10.1093/oq/kbv005
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbv005 [following]
+--2017-02-03 05:06:44--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbv005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 135015 (132K) [text/html]
+Saving to: ‘kbv005’
+
+     0K .......... .......... .......... .......... .......... 37%  209K 0s
+    50K .......... .......... .......... .......... .......... 75%  605K 0s
+   100K .......... .......... .......... .                    100%  405K=0.4s
+
+2017-02-03 05:06:55 (329 KB/s) - ‘kbv005’ saved [135015/135015]
+
+--2017-02-03 05:06:56--  http://doi.org/10.1093/oq/kbv003
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbv003 [following]
+--2017-02-03 05:06:57--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbv003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 83716 (82K) [text/html]
+Saving to: ‘kbv003’
+
+     0K .......... .......... .......... .......... .......... 61%  309K 0s
+    50K .......... .......... .......... .                    100%  395K=0.2s
+
+2017-02-03 05:07:04 (338 KB/s) - ‘kbv003’ saved [83716/83716]
+
+--2017-02-03 05:07:05--  http://doi.org/10.1093/oq/kbu029
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu029 [following]
+--2017-02-03 05:07:06--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu029
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 05:07:06 ERROR 400: Bad Request.
+
+--2017-02-03 05:07:07--  http://doi.org/10.1093/oq/kbu022
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu022 [following]
+--2017-02-03 05:07:09--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu022
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 05:07:10 ERROR 400: Bad Request.
+
+--2017-02-03 05:07:11--  http://doi.org/10.1093/oq/kbu027
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu027 [following]
+--2017-02-03 05:07:12--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu027
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 87755 (86K) [text/html]
+Saving to: ‘kbu027’
+
+     0K .......... .......... .......... .......... .......... 58%  209K 0s
+    50K .......... .......... .......... .....                100% 10.5M=0.2s
+
+2017-02-03 05:07:17 (353 KB/s) - ‘kbu027’ saved [87755/87755]
+
+--2017-02-03 05:07:18--  http://doi.org/10.1093/oq/kbt040
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt040 [following]
+--2017-02-03 05:07:19--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt040
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62483 (61K) [text/html]
+Saving to: ‘kbt040’
+
+     0K .......... .......... .......... .......... .......... 81%  308K 0s
+    50K .......... .                                          100%  141K=0.2s
+
+2017-02-03 05:07:29 (254 KB/s) - ‘kbt040’ saved [62483/62483]
+
+--2017-02-03 05:07:30--  http://doi.org/10.1093/oq/kbv001
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbv001 [following]
+--2017-02-03 05:07:31--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbv001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 96296 (94K) [text/html]
+Saving to: ‘kbv001’
+
+     0K .......... .......... .......... .......... .......... 53%  209K 0s
+    50K .......... .......... .......... .......... ....      100%  552K=0.3s
+
+2017-02-03 05:07:40 (294 KB/s) - ‘kbv001’ saved [96296/96296]
+
+--2017-02-03 05:07:41--  http://doi.org/10.1093/oq/kbt048
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt048 [following]
+--2017-02-03 05:07:43--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt048
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62424 (61K) [text/html]
+Saving to: ‘kbt048’
+
+     0K .......... .......... .......... .......... .......... 82%  209K 0s
+    50K ..........                                            100% 21.6M=0.2s
+
+2017-02-03 05:07:46 (254 KB/s) - ‘kbt048’ saved [62424/62424]
+
+--2017-02-03 05:07:47--  http://doi.org/10.1093/oq/kbu031
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu031 [following]
+--2017-02-03 05:07:48--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu031
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 191966 (187K) [text/html]
+Saving to: ‘kbu031’
+
+     0K .......... .......... .......... .......... .......... 26%  209K 1s
+    50K .......... .......... .......... .......... .......... 53%  597K 0s
+   100K .......... .......... .......... .......... .......... 80%  607K 0s
+   150K .......... .......... .......... .......              100%  467K=0.5s
+
+2017-02-03 05:07:56 (386 KB/s) - ‘kbu031’ saved [191966/191966]
+
+--2017-02-03 05:07:57--  http://doi.org/10.1093/oq/kbt052
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt052 [following]
+--2017-02-03 05:07:58--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt052
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62468 (61K) [text/html]
+Saving to: ‘kbt052’
+
+     0K .......... .......... .......... .......... .......... 81%  207K 0s
+    50K .......... .                                          100% 23.9M=0.2s
+
+2017-02-03 05:08:05 (251 KB/s) - ‘kbt052’ saved [62468/62468]
+
+--2017-02-03 05:08:06--  http://doi.org/10.1093/oq/kbt044
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt044 [following]
+--2017-02-03 05:08:07--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt044
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62462 (61K) [text/html]
+Saving to: ‘kbt044’
+
+     0K .......... .......... .......... .......... .......... 81%  209K 0s
+    50K ..........                                            100% 25.5M=0.2s
+
+2017-02-03 05:08:14 (254 KB/s) - ‘kbt044’ saved [62462/62462]
+
+--2017-02-03 05:08:15--  http://doi.org/10.1093/oq/kbu032
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu032 [following]
+--2017-02-03 05:08:16--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu032
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 186327 (182K) [text/html]
+Saving to: ‘kbu032’
+
+     0K .......... .......... .......... .......... .......... 27%  209K 1s
+    50K .......... .......... .......... .......... .......... 54%  613K 0s
+   100K .......... .......... .......... .......... .......... 82%  607K 0s
+   150K .......... .......... .......... .                    100%  393K=0.5s
+
+2017-02-03 05:08:22 (376 KB/s) - ‘kbu032’ saved [186327/186327]
+
+--2017-02-03 05:08:23--  http://doi.org/10.1093/oq/kbu026
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu026 [following]
+--2017-02-03 05:08:24--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu026
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 142214 (139K) [text/html]
+Saving to: ‘kbu026’
+
+     0K .......... .......... .......... .......... .......... 36%  208K 0s
+    50K .......... .......... .......... .......... .......... 72%  607K 0s
+   100K .......... .......... .......... ........             100%  481K=0.4s
+
+2017-02-03 05:08:31 (344 KB/s) - ‘kbu026’ saved [142214/142214]
+
+--2017-02-03 05:08:32--  http://doi.org/10.1093/oq/kbu019
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://oq.oxfordjournals.org/cgi/doi/10.1093/oq/kbu019 [following]
+--2017-02-03 05:08:33--  http://oq.oxfordjournals.org/cgi/doi/10.1093/oq/kbu019
+Resolving oq.oxfordjournals.org (oq.oxfordjournals.org)... 209.135.222.209
+Connecting to oq.oxfordjournals.org (oq.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from oq.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/oq/article/30/2-3/188/2962737/An-All-Too-Secret-Wagner-Ernst-Bloch-the-Wagnerian [following]
+--2017-02-03 05:08:35--  https://academic.oup.com/oq/article/30/2-3/188/2962737/An-All-Too-Secret-Wagner-Ernst-Bloch-the-Wagnerian
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 156269 (153K) [text/html]
+Saving to: ‘kbu019’
+
+     0K .......... .......... .......... .......... .......... 32%  209K 0s
+    50K .......... .......... .......... .......... .......... 65%  606K 0s
+   100K .......... .......... .......... .......... .......... 98%  611K 0s
+   150K ..                                                    100% 16.0M=0.4s
+
+2017-02-03 05:08:47 (378 KB/s) - ‘kbu019’ saved [156269/156269]
+
+--2017-02-03 05:08:48--  http://doi.org/10.1093/oq/kbu018
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://oq.oxfordjournals.org/cgi/doi/10.1093/oq/kbu018 [following]
+--2017-02-03 05:08:49--  http://oq.oxfordjournals.org/cgi/doi/10.1093/oq/kbu018
+Connecting to oq.oxfordjournals.org (oq.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from oq.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/oq/article/30/2-3/172/2962735/Allegory-and-Its-Limits-in-the-Ring-Bernard-Shaw [following]
+--2017-02-03 05:08:50--  https://academic.oup.com/oq/article/30/2-3/172/2962735/Allegory-and-Its-Limits-in-the-Ring-Bernard-Shaw
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 128439 (125K) [text/html]
+Saving to: ‘kbu018’
+
+     0K .......... .......... .......... .......... .......... 39%  209K 0s
+    50K .......... .......... .......... .......... .......... 79%  609K 0s
+   100K .......... .......... .....                           100% 7.35M=0.3s
+
+2017-02-03 05:08:57 (386 KB/s) - ‘kbu018’ saved [128439/128439]
+
+--2017-02-03 05:08:58--  http://doi.org/10.1093/oq/kbu021
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://oq.oxfordjournals.org/cgi/doi/10.1093/oq/kbu021 [following]
+--2017-02-03 05:08:59--  http://oq.oxfordjournals.org/cgi/doi/10.1093/oq/kbu021
+Connecting to oq.oxfordjournals.org (oq.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from oq.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/oq/article/30/2-3/246/2962739/Art-as-Utopia-Parsifal-and-the-East-German-Left [following]
+--2017-02-03 05:09:01--  https://academic.oup.com/oq/article/30/2-3/246/2962739/Art-as-Utopia-Parsifal-and-the-East-German-Left
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 05:09:02 ERROR 400: Bad Request.
+
+--2017-02-03 05:09:03--  http://doi.org/10.1093/oq/kbu023
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://oq.oxfordjournals.org/cgi/doi/10.1093/oq/kbu023 [following]
+--2017-02-03 05:09:04--  http://oq.oxfordjournals.org/cgi/doi/10.1093/oq/kbu023
+Connecting to oq.oxfordjournals.org (oq.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from oq.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/oq/article/30/2-3/169/2962741/A-Note-from-the-Guest-Editor [following]
+--2017-02-03 05:09:06--  https://academic.oup.com/oq/article/30/2-3/169/2962741/A-Note-from-the-Guest-Editor
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 74858 (73K) [text/html]
+Saving to: ‘kbu023’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ...                             100% 9.40M=0.2s
+
+2017-02-03 05:09:13 (302 KB/s) - ‘kbu023’ saved [74858/74858]
+
+--2017-02-03 05:09:14--  http://doi.org/10.1093/oq/kbu024
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://oq.oxfordjournals.org/cgi/doi/10.1093/oq/kbu024 [following]
+--2017-02-03 05:09:16--  http://oq.oxfordjournals.org/cgi/doi/10.1093/oq/kbu024
+Connecting to oq.oxfordjournals.org (oq.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from oq.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/oq/article/30/2-3/228/2962743/Reading-Right-from-Left-Hans-Mayer-and-Postwar [following]
+--2017-02-03 05:09:17--  https://academic.oup.com/oq/article/30/2-3/228/2962743/Reading-Right-from-Left-Hans-Mayer-and-Postwar
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 143582 (140K) [text/html]
+Saving to: ‘kbu024’
+
+     0K .......... .......... .......... .......... .......... 35%  209K 0s
+    50K .......... .......... .......... .......... .......... 71%  595K 0s
+   100K .......... .......... .......... ..........           100%  497K=0.4s
+
+2017-02-03 05:09:23 (347 KB/s) - ‘kbu024’ saved [143582/143582]
+
+--2017-02-03 05:09:24--  http://doi.org/10.1093/oq/kbt050
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt050 [following]
+--2017-02-03 05:09:26--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt050
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77010 (75K) [text/html]
+Saving to: ‘kbt050’
+
+     0K .......... .......... .......... .......... .......... 66%  209K 0s
+    50K .......... .......... .....                           100% 11.7M=0.2s
+
+2017-02-03 05:09:37 (312 KB/s) - ‘kbt050’ saved [77010/77010]
+
+--2017-02-03 05:09:38--  http://doi.org/10.1093/oq/kbt046
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt046 [following]
+--2017-02-03 05:09:39--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt046
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62018 (61K) [text/html]
+Saving to: ‘kbt046’
+
+     0K .......... .......... .......... .......... .......... 82%  207K 0s
+    50K ..........                                            100% 22.9M=0.2s
+
+2017-02-03 05:09:45 (251 KB/s) - ‘kbt046’ saved [62018/62018]
+
+--2017-02-03 05:09:46--  http://doi.org/10.1093/oq/kbu020
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu020 [following]
+--2017-02-03 05:09:47--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu020
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 167749 (164K) [text/html]
+Saving to: ‘kbu020’
+
+     0K .......... .......... .......... .......... .......... 30%  208K 1s
+    50K .......... .......... .......... .......... .......... 61%  604K 0s
+   100K .......... .......... .......... .......... .......... 91%  604K 0s
+   150K .......... ...                                        100%  179K=0.5s
+
+2017-02-03 05:10:01 (339 KB/s) - ‘kbu020’ saved [167749/167749]
+
+--2017-02-03 05:10:02--  http://doi.org/10.1093/oq/kbt038
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt038 [following]
+--2017-02-03 05:10:03--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt038
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62075 (61K) [text/html]
+Saving to: ‘kbt038’
+
+     0K .......... .......... .......... .......... .......... 82%  208K 0s
+    50K ..........                                            100% 14.1M=0.2s
+
+2017-02-03 05:10:11 (251 KB/s) - ‘kbt038’ saved [62075/62075]
+
+--2017-02-03 05:10:12--  http://doi.org/10.1093/oq/kbt042
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt042 [following]
+--2017-02-03 05:10:13--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt042
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62057 (61K) [text/html]
+Saving to: ‘kbt042’
+
+     0K .......... .......... .......... .......... .......... 82%  310K 0s
+    50K ..........                                            100%  136K=0.2s
+
+2017-02-03 05:10:21 (253 KB/s) - ‘kbt042’ saved [62057/62057]
+
+--2017-02-03 05:10:22--  http://doi.org/10.1093/oq/kbu017
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://oq.oxfordjournals.org/cgi/doi/10.1093/oq/kbu017 [following]
+--2017-02-03 05:10:23--  http://oq.oxfordjournals.org/cgi/doi/10.1093/oq/kbu017
+Connecting to oq.oxfordjournals.org (oq.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from oq.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/oq/article/30/2-3/267/2962734/Waiting-for-Wagner-Reluctant-Musicology-Radical [following]
+--2017-02-03 05:10:24--  https://academic.oup.com/oq/article/30/2-3/267/2962734/Waiting-for-Wagner-Reluctant-Musicology-Radical
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 145333 (142K) [text/html]
+Saving to: ‘kbu017’
+
+     0K .......... .......... .......... .......... .......... 35%  208K 0s
+    50K .......... .......... .......... .......... .......... 70%  612K 0s
+   100K .......... .......... .......... .......... .         100%  509K=0.4s
+
+2017-02-03 05:10:31 (351 KB/s) - ‘kbu017’ saved [145333/145333]
+
+--2017-02-03 05:10:32--  http://doi.org/10.1093/oq/kbu013
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu013 [following]
+--2017-02-03 05:10:33--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 122339 (119K) [text/html]
+Saving to: ‘kbu013’
+
+     0K .......... .......... .......... .......... .......... 41%  209K 0s
+    50K .......... .......... .......... .......... .......... 83%  605K 0s
+   100K .......... .........                                  100% 22.6M=0.3s
+
+2017-02-03 05:10:41 (370 KB/s) - ‘kbu013’ saved [122339/122339]
+
+--2017-02-03 05:10:42--  http://doi.org/10.1093/oq/kbu015
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://oq.oxfordjournals.org/cgi/doi/10.1093/oq/kbu015 [following]
+--2017-02-03 05:10:43--  http://oq.oxfordjournals.org/cgi/doi/10.1093/oq/kbu015
+Connecting to oq.oxfordjournals.org (oq.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from oq.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/oq/article/30/1/105/2962740/Orality-Invisibility-and-Laughter-Traces-of-Milan [following]
+--2017-02-03 05:10:45--  https://academic.oup.com/oq/article/30/1/105/2962740/Orality-Invisibility-and-Laughter-Traces-of-Milan
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 190958 (186K) [text/html]
+Saving to: ‘kbu015’
+
+     0K .......... .......... .......... .......... .......... 26%  208K 1s
+    50K .......... .......... .......... .......... .......... 53%  608K 0s
+   100K .......... .......... .......... .......... .......... 80%  615K 0s
+   150K .......... .......... .......... ......               100%  450K=0.5s
+
+2017-02-03 05:10:51 (385 KB/s) - ‘kbu015’ saved [190958/190958]
+
+--2017-02-03 05:10:52--  http://doi.org/10.1093/oq/kbu010
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://oq.oxfordjournals.org/cgi/doi/10.1093/oq/kbu010 [following]
+--2017-02-03 05:10:53--  http://oq.oxfordjournals.org/cgi/doi/10.1093/oq/kbu010
+Connecting to oq.oxfordjournals.org (oq.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from oq.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/oq/article/30/1/49/2962736/Staging-Crisis-Opera-aperta-and-the-1959-Venice [following]
+--2017-02-03 05:10:54--  https://academic.oup.com/oq/article/30/1/49/2962736/Staging-Crisis-Opera-aperta-and-the-1959-Venice
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 153536 (150K) [text/html]
+Saving to: ‘kbu010’
+
+     0K .......... .......... .......... .......... .......... 33%  209K 0s
+    50K .......... .......... .......... .......... .......... 66%  607K 0s
+   100K .......... .......... .......... .......... ......... 100%  602K=0.4s
+
+2017-02-03 05:11:10 (371 KB/s) - ‘kbu010’ saved [153536/153536]
+
+--2017-02-03 05:11:11--  http://doi.org/10.1093/oq/kbu005
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://oq.oxfordjournals.org/cgi/doi/10.1093/oq/kbu005 [following]
+--2017-02-03 05:11:12--  http://oq.oxfordjournals.org/cgi/doi/10.1093/oq/kbu005
+Connecting to oq.oxfordjournals.org (oq.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from oq.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/oq/article/30/1/161/2962730/Tempest-Ex-Machina-A-Review-of-the-Opera-Onstage [following]
+--2017-02-03 05:11:13--  https://academic.oup.com/oq/article/30/1/161/2962730/Tempest-Ex-Machina-A-Review-of-the-Opera-Onstage
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 83287 (81K) [text/html]
+Saving to: ‘kbu005’
+
+     0K .......... .......... .......... .......... .......... 61%  309K 0s
+    50K .......... .......... .......... .                    100%  390K=0.2s
+
+2017-02-03 05:11:27 (336 KB/s) - ‘kbu005’ saved [83287/83287]
+
+--2017-02-03 05:11:28--  http://doi.org/10.1093/oq/kbu008
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://oq.oxfordjournals.org/cgi/doi/10.1093/oq/kbu008 [following]
+--2017-02-03 05:11:29--  http://oq.oxfordjournals.org/cgi/doi/10.1093/oq/kbu008
+Connecting to oq.oxfordjournals.org (oq.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from oq.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/oq/article/30/1/166/2962732/Prospero-s-Ossified-Isle-Thomas-Ades-s-The-Tempest [following]
+--2017-02-03 05:11:30--  https://academic.oup.com/oq/article/30/1/166/2962732/Prospero-s-Ossified-Isle-Thomas-Ades-s-The-Tempest
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 89305 (87K) [text/html]
+Saving to: ‘kbu008’
+
+     0K .......... .......... .......... .......... .......... 57%  209K 0s
+    50K .......... .......... .......... .......              100% 11.9M=0.2s
+
+2017-02-03 05:11:45 (360 KB/s) - ‘kbu008’ saved [89305/89305]
+
+--2017-02-03 05:11:46--  http://doi.org/10.1093/oq/kbu006
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://oq.oxfordjournals.org/cgi/doi/10.1093/oq/kbu006 [following]
+--2017-02-03 05:11:47--  http://oq.oxfordjournals.org/cgi/doi/10.1093/oq/kbu006
+Connecting to oq.oxfordjournals.org (oq.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from oq.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/oq/article/30/1/157/2962731/Power-Exchange-Thomas-Ades-s-The-Tempest [following]
+--2017-02-03 05:11:48--  https://academic.oup.com/oq/article/30/1/157/2962731/Power-Exchange-Thomas-Ades-s-The-Tempest
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77788 (76K) [text/html]
+Saving to: ‘kbu006’
+
+     0K .......... .......... .......... .......... .......... 65%  209K 0s
+    50K .......... .......... .....                           100% 12.3M=0.2s
+
+2017-02-03 05:12:02 (315 KB/s) - ‘kbu006’ saved [77788/77788]
+
+--2017-02-03 05:12:03--  http://doi.org/10.1093/oq/kbu009
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://oq.oxfordjournals.org/cgi/doi/10.1093/oq/kbu009 [following]
+--2017-02-03 05:12:04--  http://oq.oxfordjournals.org/cgi/doi/10.1093/oq/kbu009
+Connecting to oq.oxfordjournals.org (oq.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from oq.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/oq/article/30/1/5/2962733/Meanwhile-Let-s-Go-Back-in-Time-Allegory-Actuality [following]
+--2017-02-03 05:12:06--  https://academic.oup.com/oq/article/30/1/5/2962733/Meanwhile-Let-s-Go-Back-in-Time-Allegory-Actuality
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 294412 (288K) [text/html]
+Saving to: ‘kbu009’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 34%  601K 1s
+   100K .......... .......... .......... .......... .......... 52%  606K 0s
+   150K .......... .......... .......... .......... .......... 69%  316K 0s
+   200K .......... .......... .......... .......... .......... 86%  591K 0s
+   250K .......... .......... .......... .......              100%  469K=0.7s
+
+2017-02-03 05:12:15 (395 KB/s) - ‘kbu009’ saved [294412/294412]
+
+--2017-02-03 05:12:16--  http://doi.org/10.1093/oq/kbu011
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://oq.oxfordjournals.org/cgi/doi/10.1093/oq/kbu011 [following]
+--2017-02-03 05:12:17--  http://oq.oxfordjournals.org/cgi/doi/10.1093/oq/kbu011
+Connecting to oq.oxfordjournals.org (oq.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from oq.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/oq/article/30/1/93/2962738/The-Absent-Diva-Notes-toward-a-Life-of-Cathy [following]
+--2017-02-03 05:12:19--  https://academic.oup.com/oq/article/30/1/93/2962738/The-Absent-Diva-Notes-toward-a-Life-of-Cathy
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 05:12:19 ERROR 400: Bad Request.
+
+--2017-02-03 05:12:20--  http://doi.org/10.1093/oq/kbu016
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://oq.oxfordjournals.org/cgi/doi/10.1093/oq/kbu016 [following]
+--2017-02-03 05:12:21--  http://oq.oxfordjournals.org/cgi/doi/10.1093/oq/kbu016
+Connecting to oq.oxfordjournals.org (oq.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from oq.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/oq/article/30/1/135/2962742/Four-Texts-by-Bernd-Alois-Zimmermann [following]
+--2017-02-03 05:12:23--  https://academic.oup.com/oq/article/30/1/135/2962742/Four-Texts-by-Bernd-Alois-Zimmermann
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 84370 (82K) [text/html]
+Saving to: ‘kbu016’
+
+     0K .......... .......... .......... .......... .......... 60%  209K 0s
+    50K .......... .......... .......... ..                   100% 13.6M=0.2s
+
+2017-02-03 05:12:30 (341 KB/s) - ‘kbu016’ saved [84370/84370]
+
+--2017-02-03 05:12:31--  http://doi.org/10.1093/oq/kbu025
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu025 [following]
+--2017-02-03 05:12:32--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu025
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 05:12:33 ERROR 400: Bad Request.
+
+--2017-02-03 05:12:34--  http://doi.org/10.1093/oq/kbt041
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt041 [following]
+--2017-02-03 05:12:35--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt041
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77413 (76K) [text/html]
+Saving to: ‘kbt041’
+
+     0K .......... .......... .......... .......... .......... 66%  208K 0s
+    50K .......... .......... .....                           100% 13.4M=0.2s
+
+2017-02-03 05:12:45 (312 KB/s) - ‘kbt041’ saved [77413/77413]
+
+--2017-02-03 05:12:46--  http://doi.org/10.1093/oq/kbu012
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu012 [following]
+--2017-02-03 05:12:47--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 194073 (190K) [text/html]
+Saving to: ‘kbu012’
+
+     0K .......... .......... .......... .......... .......... 26%  209K 1s
+    50K .......... .......... .......... .......... .......... 52%  602K 0s
+   100K .......... .......... .......... .......... .......... 79%  612K 0s
+   150K .......... .......... .......... .........            100%  486K=0.5s
+
+2017-02-03 05:13:02 (390 KB/s) - ‘kbu012’ saved [194073/194073]
+
+--2017-02-03 05:13:03--  http://doi.org/10.1093/oq/kbt037
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt037 [following]
+--2017-02-03 05:13:05--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt037
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62479 (61K) [text/html]
+Saving to: ‘kbt037’
+
+     0K .......... .......... .......... .......... .......... 81%  209K 0s
+    50K .......... .                                          100% 23.4M=0.2s
+
+2017-02-03 05:13:18 (255 KB/s) - ‘kbt037’ saved [62479/62479]
+
+--2017-02-03 05:13:19--  http://doi.org/10.1093/oq/kbt045
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt045 [following]
+--2017-02-03 05:13:20--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt045
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77370 (76K) [text/html]
+Saving to: ‘kbt045’
+
+     0K .......... .......... .......... .......... .......... 66%  209K 0s
+    50K .......... .......... .....                           100% 12.3M=0.2s
+
+2017-02-03 05:13:35 (313 KB/s) - ‘kbt045’ saved [77370/77370]
+
+--2017-02-03 05:13:36--  http://doi.org/10.1093/oq/kbt049
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt049 [following]
+--2017-02-03 05:13:37--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt049
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 05:13:38 ERROR 400: Bad Request.
+
+--2017-02-03 05:13:39--  http://doi.org/10.1093/oq/kbu014
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu014 [following]
+--2017-02-03 05:13:40--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu014
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 81620 (80K) [text/html]
+Saving to: ‘kbu014’
+
+     0K .......... .......... .......... .......... .......... 62%  209K 0s
+    50K .......... .......... .........                       100% 10.6M=0.2s
+
+2017-02-03 05:13:46 (329 KB/s) - ‘kbu014’ saved [81620/81620]
+
+--2017-02-03 05:13:47--  http://doi.org/10.1093/oq/kbu007
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu007 [following]
+--2017-02-03 05:13:49--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79046 (77K) [text/html]
+Saving to: ‘kbu007’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... .......                         100% 10.2M=0.2s
+
+2017-02-03 05:13:55 (319 KB/s) - ‘kbu007’ saved [79046/79046]
+
+--2017-02-03 05:13:56--  http://doi.org/10.1093/oq/kbt036
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://oq.oxfordjournals.org/cgi/doi/10.1093/oq/kbt036 [following]
+--2017-02-03 05:13:57--  http://oq.oxfordjournals.org/cgi/doi/10.1093/oq/kbt036
+Connecting to oq.oxfordjournals.org (oq.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from oq.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/oq/article/29/3-4/335/2962729/Badiou-and-Wagner-From-Fidelity-to-Prophecy [following]
+--2017-02-03 05:13:58--  https://academic.oup.com/oq/article/29/3-4/335/2962729/Badiou-and-Wagner-From-Fidelity-to-Prophecy
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 92867 (91K) [text/html]
+Saving to: ‘kbt036’
+
+     0K .......... .......... .......... .......... .......... 55%  209K 0s
+    50K .......... .......... .......... ..........           100%  980K=0.3s
+
+2017-02-03 05:14:05 (323 KB/s) - ‘kbt036’ saved [92867/92867]
+
+--2017-02-03 05:14:06--  http://doi.org/10.1093/oq/kbs065
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbs065 [following]
+--2017-02-03 05:14:08--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbs065
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62469 (61K) [text/html]
+Saving to: ‘kbs065’
+
+     0K .......... .......... .......... .......... .......... 81%  209K 0s
+    50K .......... .                                          100% 26.6M=0.2s
+
+2017-02-03 05:14:13 (255 KB/s) - ‘kbs065’ saved [62469/62469]
+
+--2017-02-03 05:14:14--  http://doi.org/10.1093/oq/kbt027
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt027 [following]
+--2017-02-03 05:14:15--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt027
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 144764 (141K) [text/html]
+Saving to: ‘kbt027’
+
+     0K .......... .......... .......... .......... .......... 35%  309K 0s
+    50K .......... .......... .......... .......... .......... 70%  313K 0s
+   100K .......... .......... .......... .......... .         100%  511K=0.4s
+
+2017-02-03 05:14:24 (351 KB/s) - ‘kbt027’ saved [144764/144764]
+
+--2017-02-03 05:14:25--  http://doi.org/10.1093/oq/kbt034
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt034 [following]
+--2017-02-03 05:14:26--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt034
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 05:14:27 ERROR 400: Bad Request.
+
+--2017-02-03 05:14:28--  http://doi.org/10.1093/oq/kbs053
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbs053 [following]
+--2017-02-03 05:14:29--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbs053
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 05:14:30 ERROR 400: Bad Request.
+
+--2017-02-03 05:14:31--  http://doi.org/10.1093/oq/kbu002
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu002 [following]
+--2017-02-03 05:14:32--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 91199 (89K) [text/html]
+Saving to: ‘kbu002’
+
+     0K .......... .......... .......... .......... .......... 56%  208K 0s
+    50K .......... .......... .......... .........            100% 10.3M=0.2s
+
+2017-02-03 05:14:49 (365 KB/s) - ‘kbu002’ saved [91199/91199]
+
+--2017-02-03 05:14:50--  http://doi.org/10.1093/oq/kbu001
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu001 [following]
+--2017-02-03 05:14:51--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 85771 (84K) [text/html]
+Saving to: ‘kbu001’
+
+     0K .......... .......... .......... .......... .......... 59%  209K 0s
+    50K .......... .......... .......... ...                  100% 10.6M=0.2s
+
+2017-02-03 05:14:57 (346 KB/s) - ‘kbu001’ saved [85771/85771]
+
+--2017-02-03 05:14:58--  http://doi.org/10.1093/oq/kbt029
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt029 [following]
+--2017-02-03 05:14:59--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt029
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 92130 (90K) [text/html]
+Saving to: ‘kbt029’
+
+     0K .......... .......... .......... .......... .......... 55%  208K 0s
+    50K .......... .......... .......... .........            100% 10.7M=0.2s
+
+2017-02-03 05:15:13 (368 KB/s) - ‘kbt029’ saved [92130/92130]
+
+--2017-02-03 05:15:14--  http://doi.org/10.1093/oq/kbt026
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt026 [following]
+--2017-02-03 05:15:15--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt026
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 131895 (129K) [text/html]
+Saving to: ‘kbt026’
+
+     0K .......... .......... .......... .......... .......... 38%  306K 0s
+    50K .......... .......... .......... .......... .......... 77%  316K 0s
+   100K .......... .......... ........                        100% 3.62M=0.3s
+
+2017-02-03 05:15:26 (391 KB/s) - ‘kbt026’ saved [131895/131895]
+
+--2017-02-03 05:15:27--  http://doi.org/10.1093/oq/kbt024
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt024 [following]
+--2017-02-03 05:15:29--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt024
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 100775 (98K) [text/html]
+Saving to: ‘kbt024’
+
+     0K .......... .......... .......... .......... .......... 50%  208K 0s
+    50K .......... .......... .......... .......... ........  100%  591K=0.3s
+
+2017-02-03 05:15:41 (306 KB/s) - ‘kbt024’ saved [100775/100775]
+
+--2017-02-03 05:15:42--  http://doi.org/10.1093/oq/kbs058
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbs058 [following]
+--2017-02-03 05:15:43--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbs058
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62074 (61K) [text/html]
+Saving to: ‘kbs058’
+
+     0K .......... .......... .......... .......... .......... 82%  208K 0s
+    50K ..........                                            100% 22.5M=0.2s
+
+2017-02-03 05:15:50 (251 KB/s) - ‘kbs058’ saved [62074/62074]
+
+--2017-02-03 05:15:51--  http://doi.org/10.1093/oq/kbt031
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt031 [following]
+--2017-02-03 05:15:52--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt031
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 92849 (91K) [text/html]
+Saving to: ‘kbt031’
+
+     0K .......... .......... .......... .......... .......... 55%  209K 0s
+    50K .......... .......... .......... ..........           100% 9.72M=0.2s
+
+2017-02-03 05:15:59 (372 KB/s) - ‘kbt031’ saved [92849/92849]
+
+--2017-02-03 05:16:00--  http://doi.org/10.1093/oq/kbs062
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbs062 [following]
+--2017-02-03 05:16:01--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbs062
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 05:16:01 ERROR 400: Bad Request.
+
+--2017-02-03 05:16:02--  http://doi.org/10.1093/oq/kbu003
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu003 [following]
+--2017-02-03 05:16:04--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 96989 (95K) [text/html]
+Saving to: ‘kbu003’
+
+     0K .......... .......... .......... .......... .......... 52%  208K 0s
+    50K .......... .......... .......... .......... ....      100%  554K=0.3s
+
+2017-02-03 05:16:12 (295 KB/s) - ‘kbu003’ saved [96989/96989]
+
+--2017-02-03 05:16:13--  http://doi.org/10.1093/oq/kbt035
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt035 [following]
+--2017-02-03 05:16:15--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt035
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 233375 (228K) [text/html]
+Saving to: ‘kbt035’
+
+     0K .......... .......... .......... .......... .......... 21%  209K 1s
+    50K .......... .......... .......... .......... .......... 43%  602K 0s
+   100K .......... .......... .......... .......... .......... 65%  591K 0s
+   150K .......... .......... .......... .......... .......... 87%  579K 0s
+   200K .......... .......... .......                         100%  368K=0.6s
+
+2017-02-03 05:16:28 (401 KB/s) - ‘kbt035’ saved [233375/233375]
+
+--2017-02-03 05:16:29--  http://doi.org/10.1093/oq/kbt028
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt028 [following]
+--2017-02-03 05:16:30--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt028
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 168711 (165K) [text/html]
+Saving to: ‘kbt028’
+
+     0K .......... .......... .......... .......... .......... 30%  209K 1s
+    50K .......... .......... .......... .......... .......... 60%  600K 0s
+   100K .......... .......... .......... .......... .......... 91%  611K 0s
+   150K .......... ....                                       100%  193K=0.5s
+
+2017-02-03 05:16:37 (342 KB/s) - ‘kbt028’ saved [168711/168711]
+
+--2017-02-03 05:16:38--  http://doi.org/10.1093/oq/kbs066
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbs066 [following]
+--2017-02-03 05:16:39--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbs066
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62059 (61K) [text/html]
+Saving to: ‘kbs066’
+
+     0K .......... .......... .......... .......... .......... 82%  208K 0s
+    50K ..........                                            100% 22.8M=0.2s
+
+2017-02-03 05:16:57 (251 KB/s) - ‘kbs066’ saved [62059/62059]
+
+--2017-02-03 05:16:58--  http://doi.org/10.1093/oq/kbt033
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt033 [following]
+--2017-02-03 05:16:59--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt033
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 169432 (165K) [text/html]
+Saving to: ‘kbt033’
+
+     0K .......... .......... .......... .......... .......... 30%  309K 0s
+    50K .......... .......... .......... .......... .......... 60%  313K 0s
+   100K .......... .......... .......... .......... .......... 90%  608K 0s
+   150K .......... .....                                      100%  202K=0.5s
+
+2017-02-03 05:17:06 (345 KB/s) - ‘kbt033’ saved [169432/169432]
+
+--2017-02-03 05:17:07--  http://doi.org/10.1093/oq/kbs054
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbs054 [following]
+--2017-02-03 05:17:08--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbs054
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62051 (61K) [text/html]
+Saving to: ‘kbs054’
+
+     0K .......... .......... .......... .......... .......... 82%  209K 0s
+    50K ..........                                            100% 17.8M=0.2s
+
+2017-02-03 05:17:25 (253 KB/s) - ‘kbs054’ saved [62051/62051]
+
+--2017-02-03 05:17:26--  http://doi.org/10.1093/oq/kbt025
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt025 [following]
+--2017-02-03 05:17:27--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt025
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 81974 (80K) [text/html]
+Saving to: ‘kbt025’
+
+     0K .......... .......... .......... .......... .......... 62%  209K 0s
+    50K .......... .......... ..........                      100% 11.4M=0.2s
+
+2017-02-03 05:17:37 (331 KB/s) - ‘kbt025’ saved [81974/81974]
+
+--2017-02-03 05:17:38--  http://doi.org/10.1093/oq/kbt030
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt030 [following]
+--2017-02-03 05:17:39--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt030
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 92932 (91K) [text/html]
+Saving to: ‘kbt030’
+
+     0K .......... .......... .......... .......... .......... 55%  209K 0s
+    50K .......... .......... .......... ..........           100% 1021K=0.3s
+
+2017-02-03 05:17:48 (325 KB/s) - ‘kbt030’ saved [92932/92932]
+
+--2017-02-03 05:17:49--  http://doi.org/10.1093/oq/kbu004
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu004 [following]
+--2017-02-03 05:17:50--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbu004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 05:17:51 ERROR 400: Bad Request.
+
+--2017-02-03 05:17:52--  http://doi.org/10.1093/oq/kbs057
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbs057 [following]
+--2017-02-03 05:17:53--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbs057
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62484 (61K) [text/html]
+Saving to: ‘kbs057’
+
+     0K .......... .......... .......... .......... .......... 81%  209K 0s
+    50K .......... .                                          100% 22.1M=0.2s
+
+2017-02-03 05:17:59 (255 KB/s) - ‘kbs057’ saved [62484/62484]
+
+--2017-02-03 05:18:00--  http://doi.org/10.1093/oq/kbs061
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbs061 [following]
+--2017-02-03 05:18:02--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbs061
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62425 (61K) [text/html]
+Saving to: ‘kbs061’
+
+     0K .......... .......... .......... .......... .......... 82%  206K 0s
+    50K ..........                                            100% 25.3M=0.2s
+
+2017-02-03 05:18:14 (251 KB/s) - ‘kbs061’ saved [62425/62425]
+
+--2017-02-03 05:18:15--  http://doi.org/10.1093/oq/kbt032
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt032 [following]
+--2017-02-03 05:18:16--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt032
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 05:18:17 ERROR 400: Bad Request.
+
+--2017-02-03 05:18:18--  http://doi.org/10.1093/oq/kbt015
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt015 [following]
+--2017-02-03 05:18:19--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 304719 (298K) [text/html]
+Saving to: ‘kbt015’
+
+     0K .......... .......... .......... .......... .......... 16%  209K 1s
+    50K .......... .......... .......... .......... .......... 33%  599K 1s
+   100K .......... .......... .......... .......... .......... 50%  608K 0s
+   150K .......... .......... .......... .......... .......... 67%  612K 0s
+   200K .......... .......... .......... .......... .......... 84%  313K 0s
+   250K .......... .......... .......... .......... .......   100%  589K=0.7s
+
+2017-02-03 05:18:27 (409 KB/s) - ‘kbt015’ saved [304719/304719]
+
+--2017-02-03 05:18:28--  http://doi.org/10.1093/oq/kbt023
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt023 [following]
+--2017-02-03 05:18:29--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68786 (67K) [text/html]
+Saving to: ‘kbt023’
+
+     0K .......... .......... .......... .......... .......... 74%  209K 0s
+    50K .......... .......                                    100% 15.2M=0.2s
+
+2017-02-03 05:18:36 (279 KB/s) - ‘kbt023’ saved [68786/68786]
+
+--2017-02-03 05:18:37--  http://doi.org/10.1093/oq/kbt019
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt019 [following]
+--2017-02-03 05:18:38--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 87529 (85K) [text/html]
+Saving to: ‘kbt019’
+
+     0K .......... .......... .......... .......... .......... 58%  209K 0s
+    50K .......... .......... .......... .....                100% 10.9M=0.2s
+
+2017-02-03 05:18:44 (352 KB/s) - ‘kbt019’ saved [87529/87529]
+
+--2017-02-03 05:18:45--  http://doi.org/10.1093/oq/kbt018
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt018 [following]
+--2017-02-03 05:18:46--  https://academic.oup.com/oq/article-lookup/doi/10.1093/oq/kbt018
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 85661 (84K) [text/html]
+Saving to: ‘kbt018’
+
+     0K .......... .......... .......... .......... .......... 59%  207K 0s
+    50K .......... .......... .......... ...                  100% 10.7M=0.2s
+
+2017-02-03 05:19:06 (342 KB/s) - ‘kbt018’ saved [85661/85661]
+
+FINISHED --2017-02-03 05:19:06--
+Total wall clock time: 17m 9s
+Downloaded: 84 files, 8.6M in 26s (332 KB/s)

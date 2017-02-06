@@ -1,0 +1,2050 @@
+--2017-02-02 23:59:10--  http://doi.org/10.1093/nar/gkx046
+Resolving doi.org (doi.org)... 54.191.229.235, 38.100.138.162, 63.123.152.248, ...
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx046 [following]
+--2017-02-02 23:59:11--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx046
+Resolving nar.oxfordjournals.org (nar.oxfordjournals.org)... 209.135.222.209
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/doi/10.1093/nar/gkx046/2962180/BrainScope-interactive-visual-exploration-of-the [following]
+--2017-02-02 23:59:13--  https://academic.oup.com/nar/article/doi/10.1093/nar/gkx046/2962180/BrainScope-interactive-visual-exploration-of-the
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 295448 (289K) [text/html]
+Saving to: ‘gkx046’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 34%  613K 1s
+   100K .......... .......... .......... .......... .......... 51%  427K 0s
+   150K .......... .......... .......... .......... .......... 69%  402K 0s
+   200K .......... .......... .......... .......... .......... 86%  428K 0s
+   250K .......... .......... .......... ........             100%  792K=0.7s
+
+2017-02-02 23:59:16 (397 KB/s) - ‘gkx046’ saved [295448/295448]
+
+--2017-02-02 23:59:17--  http://doi.org/10.1093/nar/gkx062
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx062 [following]
+--2017-02-02 23:59:19--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx062
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/doi/10.1093/nar/gkx062/2962184/USP15-regulates-dynamic-protein-protein [following]
+--2017-02-02 23:59:20--  https://academic.oup.com/nar/article/doi/10.1093/nar/gkx062/2962184/USP15-regulates-dynamic-protein-protein
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 23:59:20 ERROR 400: Bad Request.
+
+--2017-02-02 23:59:21--  http://doi.org/10.1093/nar/gkx055
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx055 [following]
+--2017-02-02 23:59:23--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx055
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/doi/10.1093/nar/gkx055/2962182/Long-non-coding-RNAs-transcribed-by-ERV-9-LTR [following]
+--2017-02-02 23:59:24--  https://academic.oup.com/nar/article/doi/10.1093/nar/gkx055/2962182/Long-non-coding-RNAs-transcribed-by-ERV-9-LTR
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 344385 (336K) [text/html]
+Saving to: ‘gkx055’
+
+     0K .......... .......... .......... .......... .......... 14%  309K 1s
+    50K .......... .......... .......... .......... .......... 29%  313K 1s
+   100K .......... .......... .......... .......... .......... 44%  599K 1s
+   150K .......... .......... .......... .......... .......... 59%  590K 0s
+   200K .......... .......... .......... .......... .......... 74%  315K 0s
+   250K .......... .......... .......... .......... .......... 89%  602K 0s
+   300K .......... .......... .......... ......               100%  447K=0.8s
+
+2017-02-02 23:59:33 (414 KB/s) - ‘gkx055’ saved [344385/344385]
+
+--2017-02-02 23:59:34--  http://doi.org/10.1093/nar/gkx010
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx010 [following]
+--2017-02-02 23:59:35--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx010
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/doi/10.1093/nar/gkx010/2962178/digit-a-tool-for-detection-and-identification-of [following]
+--2017-02-02 23:59:37--  https://academic.oup.com/nar/article/doi/10.1093/nar/gkx010/2962178/digit-a-tool-for-detection-and-identification-of
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 287159 (280K) [text/html]
+Saving to: ‘gkx010’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 35%  601K 1s
+   100K .......... .......... .......... .......... .......... 53%  587K 0s
+   150K .......... .......... .......... .......... .......... 71%  601K 0s
+   200K .......... .......... .......... .......... .......... 89%  313K 0s
+   250K .......... .......... ..........                      100% 8.78M=0.7s
+
+2017-02-02 23:59:40 (429 KB/s) - ‘gkx010’ saved [287159/287159]
+
+--2017-02-02 23:59:41--  http://doi.org/10.1093/nar/gkx059
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx059 [following]
+--2017-02-02 23:59:42--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx059
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/doi/10.1093/nar/gkx059/2962183/DRNApred-fast-sequence-based-method-that [following]
+--2017-02-02 23:59:44--  https://academic.oup.com/nar/article/doi/10.1093/nar/gkx059/2962183/DRNApred-fast-sequence-based-method-that
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 23:59:44 ERROR 400: Bad Request.
+
+--2017-02-02 23:59:45--  http://doi.org/10.1093/nar/gkx050
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx050 [following]
+--2017-02-02 23:59:47--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx050
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/doi/10.1093/nar/gkx050/2962181/DNA-editing-in-DNA-RNA-hybrids-by-adenosine [following]
+--2017-02-02 23:59:48--  https://academic.oup.com/nar/article/doi/10.1093/nar/gkx050/2962181/DNA-editing-in-DNA-RNA-hybrids-by-adenosine
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 305255 (298K) [text/html]
+Saving to: ‘gkx050’
+
+     0K .......... .......... .......... .......... .......... 16%  208K 1s
+    50K .......... .......... .......... .......... .......... 33%  605K 1s
+   100K .......... .......... .......... .......... .......... 50%  599K 0s
+   150K .......... .......... .......... .......... .......... 67%  428K 0s
+   200K .......... .......... .......... .......... .......... 83%  400K 0s
+   250K .......... .......... .......... .......... ........  100%  584K=0.7s
+
+2017-02-02 23:59:51 (408 KB/s) - ‘gkx050’ saved [305255/305255]
+
+--2017-02-02 23:59:52--  http://doi.org/10.1093/nar/gkw1340
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkw1340 [following]
+--2017-02-02 23:59:53--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkw1340
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/doi/10.1093/nar/gkw1340/2962175/KSHV-SOX-mediated-host-shutoff-the-molecular [following]
+--2017-02-02 23:59:55--  https://academic.oup.com/nar/article/doi/10.1093/nar/gkw1340/2962175/KSHV-SOX-mediated-host-shutoff-the-molecular
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 279940 (273K) [text/html]
+Saving to: ‘gkw1340’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 36%  599K 1s
+   100K .......... .......... .......... .......... .......... 54%  585K 0s
+   150K .......... .......... .......... .......... .......... 73%  441K 0s
+   200K .......... .......... .......... .......... .......... 91%  400K 0s
+   250K .......... .......... ...                             100%  638K=0.7s
+
+2017-02-02 23:59:59 (400 KB/s) - ‘gkw1340’ saved [279940/279940]
+
+--2017-02-03 00:00:00--  http://doi.org/10.1093/nar/gkx048
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx048 [following]
+--2017-02-03 00:00:01--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx048
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/doi/10.1093/nar/gkx048/2953497/Integrative-FourD-omics-approach-profiles-the [following]
+--2017-02-03 00:00:02--  https://academic.oup.com/nar/article/doi/10.1093/nar/gkx048/2953497/Integrative-FourD-omics-approach-profiles-the
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 452474 (442K) [text/html]
+Saving to: ‘gkx048’
+
+     0K .......... .......... .......... .......... .......... 11%  209K 2s
+    50K .......... .......... .......... .......... .......... 22%  603K 1s
+   100K .......... .......... .......... .......... .......... 33%  596K 1s
+   150K .......... .......... .......... .......... .......... 45%  612K 1s
+   200K .......... .......... .......... .......... .......... 56%  606K 0s
+   250K .......... .......... .......... .......... .......... 67%  313K 0s
+   300K .......... .......... .......... .......... .......... 79%  596K 0s
+   350K .......... .......... .......... .......... .......... 90%  601K 0s
+   400K .......... .......... .......... .......... .         100%  512K=1.0s
+
+2017-02-03 00:00:08 (451 KB/s) - ‘gkx048’ saved [452474/452474]
+
+--2017-02-03 00:00:09--  http://doi.org/10.1093/nar/gkw1350
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkw1350 [following]
+--2017-02-03 00:00:11--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkw1350
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/doi/10.1093/nar/gkw1350/2953491/Bayesian-prediction-of-RNA-translation-from [following]
+--2017-02-03 00:00:12--  https://academic.oup.com/nar/article/doi/10.1093/nar/gkw1350/2953491/Bayesian-prediction-of-RNA-translation-from
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 310317 (303K) [text/html]
+Saving to: ‘gkw1350’
+
+     0K .......... .......... .......... .......... .......... 16%  208K 1s
+    50K .......... .......... .......... .......... .......... 32%  607K 1s
+   100K .......... .......... .......... .......... .......... 49%  605K 0s
+   150K .......... .......... .......... .......... .......... 65%  582K 0s
+   200K .......... .......... .......... .......... .......... 82%  311K 0s
+   250K .......... .......... .......... .......... .......... 98%  612K 0s
+   300K ...                                                   100% 8.81M=0.7s
+
+2017-02-03 00:00:17 (413 KB/s) - ‘gkw1350’ saved [310317/310317]
+
+--2017-02-03 00:00:18--  http://doi.org/10.1093/nar/gkx044
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx044 [following]
+--2017-02-03 00:00:19--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx044
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/doi/10.1093/nar/gkx044/2953496/RNA-binding-and-chaperone-activity-of-the-E-coli [following]
+--2017-02-03 00:00:20--  https://academic.oup.com/nar/article/doi/10.1093/nar/gkx044/2953496/RNA-binding-and-chaperone-activity-of-the-E-coli
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:00:21 ERROR 400: Bad Request.
+
+--2017-02-03 00:00:22--  http://doi.org/10.1093/nar/gkx022
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx022 [following]
+--2017-02-03 00:00:23--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx022
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/doi/10.1093/nar/gkx022/2953492/Sustained-expression-of-miR-26a-promotes [following]
+--2017-02-03 00:00:24--  https://academic.oup.com/nar/article/doi/10.1093/nar/gkx022/2953492/Sustained-expression-of-miR-26a-promotes
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 374512 (366K) [text/html]
+Saving to: ‘gkx022’
+
+     0K .......... .......... .......... .......... .......... 13%  208K 2s
+    50K .......... .......... .......... .......... .......... 27%  613K 1s
+   100K .......... .......... .......... .......... .......... 41%  597K 1s
+   150K .......... .......... .......... .......... .......... 54%  319K 0s
+   200K .......... .......... .......... .......... .......... 68%  591K 0s
+   250K .......... .......... .......... .......... .......... 82%  588K 0s
+   300K .......... .......... .......... .......... .......... 95%  603K 0s
+   350K .......... .....                                      100%  209K=0.9s
+
+2017-02-03 00:00:29 (411 KB/s) - ‘gkx022’ saved [374512/374512]
+
+--2017-02-03 00:00:30--  http://doi.org/10.1093/nar/gkx043
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx043 [following]
+--2017-02-03 00:00:31--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx043
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/doi/10.1093/nar/gkx043/2953495/An-in-vitro-fluorescence-based-study-of-initiation [following]
+--2017-02-03 00:00:32--  https://academic.oup.com/nar/article/doi/10.1093/nar/gkx043/2953495/An-in-vitro-fluorescence-based-study-of-initiation
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 412788 (403K) [text/html]
+Saving to: ‘gkx043’
+
+     0K .......... .......... .......... .......... .......... 12%  209K 2s
+    50K .......... .......... .......... .......... .......... 24%  607K 1s
+   100K .......... .......... .......... .......... .......... 37%  601K 1s
+   150K .......... .......... .......... .......... .......... 49%  412K 1s
+   200K .......... .......... .......... .......... .......... 62%  399K 0s
+   250K .......... .......... .......... .......... .......... 74%  602K 0s
+   300K .......... .......... .......... .......... .......... 86%  407K 0s
+   350K .......... .......... .......... .......... .......... 99%  598K 0s
+   400K ...                                                   100% 14.8M=0.9s
+
+2017-02-03 00:00:37 (428 KB/s) - ‘gkx043’ saved [412788/412788]
+
+--2017-02-03 00:00:38--  http://doi.org/10.1093/nar/gkx038
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx038 [following]
+--2017-02-03 00:00:39--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx038
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/doi/10.1093/nar/gkx038/2953494/Deletion-of-the-rnl-gene-encoding-a-nick-sealing [following]
+--2017-02-03 00:00:40--  https://academic.oup.com/nar/article/doi/10.1093/nar/gkx038/2953494/Deletion-of-the-rnl-gene-encoding-a-nick-sealing
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 310761 (303K) [text/html]
+Saving to: ‘gkx038’
+
+     0K .......... .......... .......... .......... .......... 16%  209K 1s
+    50K .......... .......... .......... .......... .......... 32%  610K 1s
+   100K .......... .......... .......... .......... .......... 49%  565K 0s
+   150K .......... .......... .......... .......... .......... 65%  606K 0s
+   200K .......... .......... .......... .......... .......... 82%  312K 0s
+   250K .......... .......... .......... .......... .......... 98%  602K 0s
+   300K ...                                                   100% 6633G=0.7s
+
+2017-02-03 00:00:46 (413 KB/s) - ‘gkx038’ saved [310761/310761]
+
+--2017-02-03 00:00:47--  http://doi.org/10.1093/nar/gkx026
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx026 [following]
+--2017-02-03 00:00:48--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx026
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/doi/10.1093/nar/gkx026/2953493/Bisulfite-independent-analysis-of-CpG-island [following]
+--2017-02-03 00:00:49--  https://academic.oup.com/nar/article/doi/10.1093/nar/gkx026/2953493/Bisulfite-independent-analysis-of-CpG-island
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 413406 (404K) [text/html]
+Saving to: ‘gkx026’
+
+     0K .......... .......... .......... .......... .......... 12%  209K 2s
+    50K .......... .......... .......... .......... .......... 24%  611K 1s
+   100K .......... .......... .......... .......... .......... 37%  574K 1s
+   150K .......... .......... .......... .......... .......... 49%  607K 0s
+   200K .......... .......... .......... .......... .......... 61%  322K 0s
+   250K .......... .......... .......... .......... .......... 74%  604K 0s
+   300K .......... .......... .......... .......... .......... 86%  571K 0s
+   350K .......... .......... .......... .......... .......... 99%  324K 0s
+   400K ...                                                   100% 7089G=1.0s
+
+2017-02-03 00:00:55 (416 KB/s) - ‘gkx026’ saved [413406/413406]
+
+--2017-02-03 00:00:56--  http://doi.org/10.1093/nar/gkx036
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx036 [following]
+--2017-02-03 00:00:58--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx036
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/doi/10.1093/nar/gkx036/2958551/IC-Finder-inferring-robustly-the-hierarchical [following]
+--2017-02-03 00:00:59--  https://academic.oup.com/nar/article/doi/10.1093/nar/gkx036/2958551/IC-Finder-inferring-robustly-the-hierarchical
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:01:00 ERROR 400: Bad Request.
+
+--2017-02-03 00:01:01--  http://doi.org/10.1093/nar/gkx042
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx042 [following]
+--2017-02-03 00:01:02--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx042
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/doi/10.1093/nar/gkx042/2958552/The-action-of-Escherichia-coli-CRISPR-Cas-system [following]
+--2017-02-03 00:01:03--  https://academic.oup.com/nar/article/doi/10.1093/nar/gkx042/2958552/The-action-of-Escherichia-coli-CRISPR-Cas-system
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 353896 (346K) [text/html]
+Saving to: ‘gkx042’
+
+     0K .......... .......... .......... .......... .......... 14%  208K 1s
+    50K .......... .......... .......... .......... .......... 28%  606K 1s
+   100K .......... .......... .......... .......... .......... 43%  607K 1s
+   150K .......... .......... .......... .......... .......... 57%  606K 0s
+   200K .......... .......... .......... .......... .......... 72%  311K 0s
+   250K .......... .......... .......... .......... .......... 86%  611K 0s
+   300K .......... .......... .......... .......... .....     100%  526K=0.8s
+
+2017-02-03 00:01:09 (423 KB/s) - ‘gkx042’ saved [353896/353896]
+
+--2017-02-03 00:01:10--  http://doi.org/10.1093/nar/gkx034
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx034 [following]
+--2017-02-03 00:01:12--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx034
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/doi/10.1093/nar/gkx034/2958550/AssemblX-a-user-friendly-toolkit-for-rapid-and [following]
+--2017-02-03 00:01:13--  https://academic.oup.com/nar/article/doi/10.1093/nar/gkx034/2958550/AssemblX-a-user-friendly-toolkit-for-rapid-and
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 299997 (293K) [text/html]
+Saving to: ‘gkx034’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 34%  608K 1s
+   100K .......... .......... .......... .......... .......... 51%  610K 0s
+   150K .......... .......... .......... .......... .......... 68%  600K 0s
+   200K .......... .......... .......... .......... .......... 85%  311K 0s
+   250K .......... .......... .......... .......... ..        100%  529K=0.7s
+
+2017-02-03 00:01:19 (402 KB/s) - ‘gkx034’ saved [299997/299997]
+
+--2017-02-03 00:01:20--  http://doi.org/10.1093/nar/gkx030
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx030 [following]
+--2017-02-03 00:01:22--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx030
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/doi/10.1093/nar/gkx030/2958549/Extensive-libraries-of-gene-truncation-variants [following]
+--2017-02-03 00:01:23--  https://academic.oup.com/nar/article/doi/10.1093/nar/gkx030/2958549/Extensive-libraries-of-gene-truncation-variants
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:01:23 ERROR 400: Bad Request.
+
+--2017-02-03 00:01:24--  http://doi.org/10.1093/nar/gkw1335
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkw1335 [following]
+--2017-02-03 00:01:26--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkw1335
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/45/2/i/2953295/Nucleic-Acids-ResearchVOLUME-45-ISSUE-2-2017 [following]
+--2017-02-03 00:01:27--  https://academic.oup.com/nar/article/45/2/i/2953295/Nucleic-Acids-ResearchVOLUME-45-ISSUE-2-2017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 67637 (66K) [text/html]
+Saving to: ‘gkw1335’
+
+     0K .......... .......... .......... .......... .......... 75%  209K 0s
+    50K .......... ......                                     100% 14.1M=0.2s
+
+2017-02-03 00:01:30 (275 KB/s) - ‘gkw1335’ saved [67637/67637]
+
+--2017-02-03 00:01:31--  http://doi.org/10.1093/nar/gkw1334
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkw1334 [following]
+--2017-02-03 00:01:33--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkw1334
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/45/2/iii/2953294/Subscriptions [following]
+--2017-02-03 00:01:34--  https://academic.oup.com/nar/article/45/2/iii/2953294/Subscriptions
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73220 (72K) [text/html]
+Saving to: ‘gkw1334’
+
+     0K .......... .......... .......... .......... .......... 69%  208K 0s
+    50K .......... .......... .                               100% 8.40M=0.2s
+
+2017-02-03 00:01:38 (294 KB/s) - ‘gkw1334’ saved [73220/73220]
+
+--2017-02-03 00:01:39--  http://doi.org/10.1093/nar/gkw1333
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkw1333 [following]
+--2017-02-03 00:01:40--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkw1333
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/45/2/ii/2953293/Nucleic-Acids-Research-Editorial-Board [following]
+--2017-02-03 00:01:41--  https://academic.oup.com/nar/article/45/2/ii/2953293/Nucleic-Acids-Research-Editorial-Board
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76441 (75K) [text/html]
+Saving to: ‘gkw1333’
+
+     0K .......... .......... .......... .......... .......... 66%  208K 0s
+    50K .......... .......... ....                            100% 4.57M=0.2s
+
+2017-02-03 00:01:45 (304 KB/s) - ‘gkw1333’ saved [76441/76441]
+
+--2017-02-03 00:01:46--  http://doi.org/10.1093/nar/gkx029
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx029 [following]
+--2017-02-03 00:01:47--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx029
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/doi/10.1093/nar/gkx029/2937948/Non-canonical-targets-destabilize-microRNAs-in [following]
+--2017-02-03 00:01:48--  https://academic.oup.com/nar/article/doi/10.1093/nar/gkx029/2937948/Non-canonical-targets-destabilize-microRNAs-in
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:01:49 ERROR 400: Bad Request.
+
+--2017-02-03 00:01:50--  http://doi.org/10.1093/nar/gkx018
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx018 [following]
+--2017-02-03 00:01:51--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx018
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/doi/10.1093/nar/gkx018/2937942/The-CCTL-Cpf1-assisted-Cutting-and-Taq-DNA-ligase [following]
+--2017-02-03 00:01:52--  https://academic.oup.com/nar/article/doi/10.1093/nar/gkx018/2937942/The-CCTL-Cpf1-assisted-Cutting-and-Taq-DNA-ligase
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 244741 (239K) [text/html]
+Saving to: ‘gkx018’
+
+     0K .......... .......... .......... .......... .......... 20%  208K 1s
+    50K .......... .......... .......... .......... .......... 41%  601K 0s
+   100K .......... .......... .......... .......... .......... 62%  612K 0s
+   150K .......... .......... .......... .......... .......... 83%  315K 0s
+   200K .......... .......... .......... .........            100%  484K=0.6s
+
+2017-02-03 00:01:58 (371 KB/s) - ‘gkx018’ saved [244741/244741]
+
+--2017-02-03 00:01:59--  http://doi.org/10.1093/nar/gkw1368
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkw1368 [following]
+--2017-02-03 00:02:00--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkw1368
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/doi/10.1093/nar/gkw1368/2937933/Histone-derived-piRNA-biogenesis-depends-on-the [following]
+--2017-02-03 00:02:01--  https://academic.oup.com/nar/article/doi/10.1093/nar/gkw1368/2937933/Histone-derived-piRNA-biogenesis-depends-on-the
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 378760 (370K) [text/html]
+Saving to: ‘gkw1368’
+
+     0K .......... .......... .......... .......... .......... 13%  209K 2s
+    50K .......... .......... .......... .......... .......... 27%  605K 1s
+   100K .......... .......... .......... .......... .......... 40%  602K 1s
+   150K .......... .......... .......... .......... .......... 54%  604K 0s
+   200K .......... .......... .......... .......... .......... 67%  313K 0s
+   250K .......... .......... .......... .......... .......... 81%  603K 0s
+   300K .......... .......... .......... .......... .......... 94%  609K 0s
+   350K .......... .........                                  100%  113K=1.0s
+
+2017-02-03 00:02:13 (374 KB/s) - ‘gkw1368’ saved [378760/378760]
+
+--2017-02-03 00:02:14--  http://doi.org/10.1093/nar/gkx014
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx014 [following]
+--2017-02-03 00:02:15--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx014
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/doi/10.1093/nar/gkx014/2937939/Allosteric-regulation-of-helicase-core-activities [following]
+--2017-02-03 00:02:17--  https://academic.oup.com/nar/article/doi/10.1093/nar/gkx014/2937939/Allosteric-regulation-of-helicase-core-activities
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 338324 (330K) [text/html]
+Saving to: ‘gkx014’
+
+     0K .......... .......... .......... .......... .......... 15%  208K 1s
+    50K .......... .......... .......... .......... .......... 30%  599K 1s
+   100K .......... .......... .......... .......... .......... 45%  595K 0s
+   150K .......... .......... .......... .......... .......... 60%  317K 0s
+   200K .......... .......... .......... .......... .......... 75%  598K 0s
+   250K .......... .......... .......... .......... .......... 90%  595K 0s
+   300K .......... .......... ..........                      100%  383K=0.8s
+
+2017-02-03 00:02:24 (407 KB/s) - ‘gkx014’ saved [338324/338324]
+
+--2017-02-03 00:02:25--  http://doi.org/10.1093/nar/gkx028
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx028 [following]
+--2017-02-03 00:02:26--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx028
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/doi/10.1093/nar/gkx028/2937947/Sas3-and-Ada2-Gcn5-dependent-histone-H3 [following]
+--2017-02-03 00:02:27--  https://academic.oup.com/nar/article/doi/10.1093/nar/gkx028/2937947/Sas3-and-Ada2-Gcn5-dependent-histone-H3
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:02:28 ERROR 400: Bad Request.
+
+--2017-02-03 00:02:29--  http://doi.org/10.1093/nar/gkw1369
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkw1369 [following]
+--2017-02-03 00:02:30--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkw1369
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/doi/10.1093/nar/gkw1369/2937936/Genome-maintenance-in-Saccharomyces-cerevisiae-the [following]
+--2017-02-03 00:02:31--  https://academic.oup.com/nar/article/doi/10.1093/nar/gkw1369/2937936/Genome-maintenance-in-Saccharomyces-cerevisiae-the
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 732717 (716K) [text/html]
+Saving to: ‘gkw1369’
+
+     0K .......... .......... .......... .......... ..........  6%  209K 3s
+    50K .......... .......... .......... .......... .......... 13%  603K 2s
+   100K .......... .......... .......... .......... .......... 20%  604K 2s
+   150K .......... .......... .......... .......... .......... 27%  604K 1s
+   200K .......... .......... .......... .......... .......... 34%  309K 1s
+   250K .......... .......... .......... .......... .......... 41%  608K 1s
+   300K .......... .......... .......... .......... .......... 48%  603K 1s
+   350K .......... .......... .......... .......... .......... 55%  311K 1s
+   400K .......... .......... .......... .......... .......... 62%  597K 1s
+   450K .......... .......... .......... .......... .......... 69%  597K 0s
+   500K .......... .......... .......... .......... .......... 76%  315K 0s
+   550K .......... .......... .......... .......... .......... 83%  595K 0s
+   600K .......... .......... .......... .......... .......... 90%  594K 0s
+   650K .......... .......... .......... .......... .......... 97%  318K 0s
+   700K .......... .....                                      100% 10.9M=1.6s
+
+2017-02-03 00:02:36 (439 KB/s) - ‘gkw1369’ saved [732717/732717]
+
+--2017-02-03 00:02:37--  http://doi.org/10.1093/nar/gkx016
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx016 [following]
+--2017-02-03 00:02:39--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx016
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/doi/10.1093/nar/gkx016/2937941/Ligand-binding-to-2-deoxyguanosine-sensing [following]
+--2017-02-03 00:02:40--  https://academic.oup.com/nar/article/doi/10.1093/nar/gkx016/2937941/Ligand-binding-to-2-deoxyguanosine-sensing
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 300067 (293K) [text/html]
+Saving to: ‘gkx016’
+
+     0K .......... .......... .......... .......... .......... 17%  307K 1s
+    50K .......... .......... .......... .......... .......... 34%  310K 1s
+   100K .......... .......... .......... .......... .......... 51%  605K 0s
+   150K .......... .......... .......... .......... .......... 68%  600K 0s
+   200K .......... .......... .......... .......... .......... 85%  307K 0s
+   250K .......... .......... .......... .......... ...       100%  521K=0.7s
+
+2017-02-03 00:02:45 (398 KB/s) - ‘gkx016’ saved [300067/300067]
+
+--2017-02-03 00:02:46--  http://doi.org/10.1093/nar/gkx020
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx020 [following]
+--2017-02-03 00:02:47--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx020
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/doi/10.1093/nar/gkx020/2937944/Body-hypomethylated-human-genes-harbor-extensive [following]
+--2017-02-03 00:02:48--  https://academic.oup.com/nar/article/doi/10.1093/nar/gkx020/2937944/Body-hypomethylated-human-genes-harbor-extensive
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:02:49 ERROR 400: Bad Request.
+
+--2017-02-03 00:02:50--  http://doi.org/10.1093/nar/gkw1361
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkw1361 [following]
+--2017-02-03 00:02:51--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkw1361
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/doi/10.1093/nar/gkw1361/2937926/The-assembly-factor-Erb1-functions-in-multiple [following]
+--2017-02-03 00:02:53--  https://academic.oup.com/nar/article/doi/10.1093/nar/gkw1361/2937926/The-assembly-factor-Erb1-functions-in-multiple
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 441986 (432K) [text/html]
+Saving to: ‘gkw1361’
+
+     0K .......... .......... .......... .......... .......... 11%  209K 2s
+    50K .......... .......... .......... .......... .......... 23%  602K 1s
+   100K .......... .......... .......... .......... .......... 34%  610K 1s
+   150K .......... .......... .......... .......... .......... 46%  576K 1s
+   200K .......... .......... .......... .......... .......... 57%  309K 0s
+   250K .......... .......... .......... .......... .......... 69%  586K 0s
+   300K .......... .......... .......... .......... .......... 81%  320K 0s
+   350K .......... .......... .......... .......... .......... 92%  590K 0s
+   400K .......... .......... .......... .                    100%  391K=1.1s
+
+2017-02-03 00:02:59 (407 KB/s) - ‘gkw1361’ saved [441986/441986]
+
+--2017-02-03 00:03:00--  http://doi.org/10.1093/nar/gkx025
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx025 [following]
+--2017-02-03 00:03:02--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx025
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/doi/10.1093/nar/gkx025/2937945/Reversible-manipulation-of-the-G-quadruplex [following]
+--2017-02-03 00:03:03--  https://academic.oup.com/nar/article/doi/10.1093/nar/gkx025/2937945/Reversible-manipulation-of-the-G-quadruplex
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:03:04 ERROR 400: Bad Request.
+
+--2017-02-03 00:03:05--  http://doi.org/10.1093/nar/gkx031
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx031 [following]
+--2017-02-03 00:03:06--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx031
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/doi/10.1093/nar/gkx031/2937949/SECIS-binding-protein-2-interacts-with-the-SMN [following]
+--2017-02-03 00:03:07--  https://academic.oup.com/nar/article/doi/10.1093/nar/gkx031/2937949/SECIS-binding-protein-2-interacts-with-the-SMN
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 457385 (447K) [text/html]
+Saving to: ‘gkx031’
+
+     0K .......... .......... .......... .......... .......... 11%  209K 2s
+    50K .......... .......... .......... .......... .......... 22%  581K 1s
+   100K .......... .......... .......... .......... .......... 33%  597K 1s
+   150K .......... .......... .......... .......... .......... 44%  422K 1s
+   200K .......... .......... .......... .......... .......... 55%  399K 1s
+   250K .......... .......... .......... .......... .......... 67%  595K 0s
+   300K .......... .......... .......... .......... .......... 78%  584K 0s
+   350K .......... .......... .......... .......... .......... 89%  604K 0s
+   400K .......... .......... .......... .......... ......    100%  565K=1.0s
+
+2017-02-03 00:03:11 (452 KB/s) - ‘gkx031’ saved [457385/457385]
+
+--2017-02-03 00:03:12--  http://doi.org/10.1093/nar/gkx013
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx013 [following]
+--2017-02-03 00:03:13--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx013
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/doi/10.1093/nar/gkx013/2937938/The-G-patch-protein-NF-B-repressing-factor [following]
+--2017-02-03 00:03:14--  https://academic.oup.com/nar/article/doi/10.1093/nar/gkx013/2937938/The-G-patch-protein-NF-B-repressing-factor
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 450181 (440K) [text/html]
+Saving to: ‘gkx013’
+
+     0K .......... .......... .......... .......... .......... 11%  209K 2s
+    50K .......... .......... .......... .......... .......... 22%  578K 1s
+   100K .......... .......... .......... .......... .......... 34%  606K 1s
+   150K .......... .......... .......... .......... .......... 45%  602K 1s
+   200K .......... .......... .......... .......... .......... 56%  314K 0s
+   250K .......... .......... .......... .......... .......... 68%  531K 0s
+   300K .......... .......... .......... .......... .......... 79%  613K 0s
+   350K .......... .......... .......... .......... .......... 90%  592K 0s
+   400K .......... .......... .......... .........            100%  485K=1.0s
+
+2017-02-03 00:03:20 (443 KB/s) - ‘gkx013’ saved [450181/450181]
+
+--2017-02-03 00:03:21--  http://doi.org/10.1093/nar/gkw1327
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkw1327 [following]
+--2017-02-03 00:03:22--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkw1327
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/doi/10.1093/nar/gkw1327/2937924/Divalent-ion-competition-reveals-reorganization-of [following]
+--2017-02-03 00:03:23--  https://academic.oup.com/nar/article/doi/10.1093/nar/gkw1327/2937924/Divalent-ion-competition-reveals-reorganization-of
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:03:24 ERROR 400: Bad Request.
+
+--2017-02-03 00:03:25--  http://doi.org/10.1093/nar/gkx015
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx015 [following]
+--2017-02-03 00:03:26--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx015
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/doi/10.1093/nar/gkx015/2937940/A-novel-role-for-transcription-coupled-nucleotide [following]
+--2017-02-03 00:03:27--  https://academic.oup.com/nar/article/doi/10.1093/nar/gkx015/2937940/A-novel-role-for-transcription-coupled-nucleotide
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 371037 (362K) [text/html]
+Saving to: ‘gkx015’
+
+     0K .......... .......... .......... .......... .......... 13%  209K 1s
+    50K .......... .......... .......... .......... .......... 27%  595K 1s
+   100K .......... .......... .......... .......... .......... 41%  609K 1s
+   150K .......... .......... .......... .......... .......... 55%  602K 0s
+   200K .......... .......... .......... .......... .......... 68%  312K 0s
+   250K .......... .......... .......... .......... .......... 82%  612K 0s
+   300K .......... .......... .......... .......... .......... 96%  604K 0s
+   350K .......... ..                                         100% 9.42M=0.8s
+
+2017-02-03 00:03:31 (445 KB/s) - ‘gkx015’ saved [371037/371037]
+
+--2017-02-03 00:03:32--  http://doi.org/10.1093/nar/gkw1367
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkw1367 [following]
+--2017-02-03 00:03:34--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkw1367
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/doi/10.1093/nar/gkw1367/2937930/PRMT5-regulates-IRES-dependent-translation-via [following]
+--2017-02-03 00:03:35--  https://academic.oup.com/nar/article/doi/10.1093/nar/gkw1367/2937930/PRMT5-regulates-IRES-dependent-translation-via
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:03:36 ERROR 400: Bad Request.
+
+--2017-02-03 00:03:37--  http://doi.org/10.1093/nar/gkx027
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx027 [following]
+--2017-02-03 00:03:38--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx027
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/doi/10.1093/nar/gkx027/2937946/Roles-of-MIWI-MILI-and-PLD6-in-small-RNA [following]
+--2017-02-03 00:03:39--  https://academic.oup.com/nar/article/doi/10.1093/nar/gkx027/2937946/Roles-of-MIWI-MILI-and-PLD6-in-small-RNA
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 428470 (418K) [text/html]
+Saving to: ‘gkx027’
+
+     0K .......... .......... .......... .......... .......... 11%  209K 2s
+    50K .......... .......... .......... .......... .......... 23%  614K 1s
+   100K .......... .......... .......... .......... .......... 35%  598K 1s
+   150K .......... .......... .......... .......... .......... 47%  606K 1s
+   200K .......... .......... .......... .......... .......... 59%  313K 0s
+   250K .......... .......... .......... .......... .......... 71%  607K 0s
+   300K .......... .......... .......... .......... .......... 83%  606K 0s
+   350K .......... .......... .......... .......... .......... 95%  320K 0s
+   400K .......... ........                                   100% 4.37M=1.0s
+
+2017-02-03 00:03:44 (431 KB/s) - ‘gkx027’ saved [428470/428470]
+
+--2017-02-03 00:03:45--  http://doi.org/10.1093/nar/gkx012
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx012 [following]
+--2017-02-03 00:03:47--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx012
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/doi/10.1093/nar/gkx012/2937937/Ensemble-simulations-folding-unfolding-and [following]
+--2017-02-03 00:03:48--  https://academic.oup.com/nar/article/doi/10.1093/nar/gkx012/2937937/Ensemble-simulations-folding-unfolding-and
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 365136 (357K) [text/html]
+Saving to: ‘gkx012’
+
+     0K .......... .......... .......... .......... .......... 14%  309K 1s
+    50K .......... .......... .......... .......... .......... 28%  312K 1s
+   100K .......... .......... .......... .......... .......... 42%  610K 1s
+   150K .......... .......... .......... .......... .......... 56%  318K 0s
+   200K .......... .......... .......... .......... .......... 70%  589K 0s
+   250K .......... .......... .......... .......... .......... 84%  602K 0s
+   300K .......... .......... .......... .......... .......... 98%  603K 0s
+   350K ......                                                100% 29.1M=0.8s
+
+2017-02-03 00:04:03 (439 KB/s) - ‘gkx012’ saved [365136/365136]
+
+--2017-02-03 00:04:04--  http://doi.org/10.1093/nar/gkx047
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx047 [following]
+--2017-02-03 00:04:05--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx047
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/doi/10.1093/nar/gkx047/2948439/DNA-polymerase-uses-its-lyase-domain-in-a [following]
+--2017-02-03 00:04:07--  https://academic.oup.com/nar/article/doi/10.1093/nar/gkx047/2948439/DNA-polymerase-uses-its-lyase-domain-in-a
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 330832 (323K) [text/html]
+Saving to: ‘gkx047’
+
+     0K .......... .......... .......... .......... .......... 15%  209K 1s
+    50K .......... .......... .......... .......... .......... 30%  607K 1s
+   100K .......... .......... .......... .......... .......... 46%  614K 0s
+   150K .......... .......... .......... .......... .......... 61%  610K 0s
+   200K .......... .......... .......... .......... .......... 77%  574K 0s
+   250K .......... .......... .......... .......... .......... 92%  319K 0s
+   300K .......... .......... ...                             100% 4.62M=0.7s
+
+2017-02-03 00:04:19 (440 KB/s) - ‘gkx047’ saved [330832/330832]
+
+--2017-02-03 00:04:20--  http://doi.org/10.1093/nar/gkx039
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx039 [following]
+--2017-02-03 00:04:22--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx039
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/doi/10.1093/nar/gkx039/2948438/Interaction-with-ZMYND11-mediates-opposing-roles [following]
+--2017-02-03 00:04:23--  https://academic.oup.com/nar/article/doi/10.1093/nar/gkx039/2948438/Interaction-with-ZMYND11-mediates-opposing-roles
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:04:24 ERROR 400: Bad Request.
+
+--2017-02-03 00:04:25--  http://doi.org/10.1093/nar/gkx023
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx023 [following]
+--2017-02-03 00:04:26--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx023
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/doi/10.1093/nar/gkx023/2948420/Nucleoid-and-cytoplasmic-localization-of-small [following]
+--2017-02-03 00:04:27--  https://academic.oup.com/nar/article/doi/10.1093/nar/gkx023/2948420/Nucleoid-and-cytoplasmic-localization-of-small
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:04:28 ERROR 400: Bad Request.
+
+--2017-02-03 00:04:29--  http://doi.org/10.1093/nar/gkx051
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx051 [following]
+--2017-02-03 00:04:30--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx051
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/doi/10.1093/nar/gkx051/2948441/Human-BCDIN3D-monomethylates-cytoplasmic-histidine [following]
+--2017-02-03 00:04:31--  https://academic.oup.com/nar/article/doi/10.1093/nar/gkx051/2948441/Human-BCDIN3D-monomethylates-cytoplasmic-histidine
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 324056 (316K) [text/html]
+Saving to: ‘gkx051’
+
+     0K .......... .......... .......... .......... .......... 15%  209K 1s
+    50K .......... .......... .......... .......... .......... 31%  597K 1s
+   100K .......... .......... .......... .......... .......... 47%  608K 0s
+   150K .......... .......... .......... .......... .......... 63%  606K 0s
+   200K .......... .......... .......... .......... .......... 78%  316K 0s
+   250K .......... .......... .......... .......... .......... 94%  576K 0s
+   300K .......... ......                                     100% 9.45M=0.7s
+
+2017-02-03 00:04:40 (430 KB/s) - ‘gkx051’ saved [324056/324056]
+
+--2017-02-03 00:04:41--  http://doi.org/10.1093/nar/gkx049
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx049 [following]
+--2017-02-03 00:04:43--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx049
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/doi/10.1093/nar/gkx049/2948440/In-vivo-evidence-that-eIF3-stays-bound-to [following]
+--2017-02-03 00:04:44--  https://academic.oup.com/nar/article/doi/10.1093/nar/gkx049/2948440/In-vivo-evidence-that-eIF3-stays-bound-to
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 395062 (386K) [text/html]
+Saving to: ‘gkx049’
+
+     0K .......... .......... .......... .......... .......... 12%  209K 2s
+    50K .......... .......... .......... .......... .......... 25%  582K 1s
+   100K .......... .......... .......... .......... .......... 38%  597K 1s
+   150K .......... .......... .......... .......... .......... 51%  608K 0s
+   200K .......... .......... .......... .......... .......... 64%  313K 0s
+   250K .......... .......... .......... .......... .......... 77%  563K 0s
+   300K .......... .......... .......... .......... .......... 90%  605K 0s
+   350K .......... .......... .......... .....                100%  445K=0.9s
+
+2017-02-03 00:04:57 (427 KB/s) - ‘gkx049’ saved [395062/395062]
+
+--2017-02-03 00:04:58--  http://doi.org/10.1093/nar/gkx033
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx033 [following]
+--2017-02-03 00:04:59--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx033
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/doi/10.1093/nar/gkx033/2948436/Single-stranded-DNA-library-preparation-from [following]
+--2017-02-03 00:05:00--  https://academic.oup.com/nar/article/doi/10.1093/nar/gkx033/2948436/Single-stranded-DNA-library-preparation-from
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 305957 (299K) [text/html]
+Saving to: ‘gkx033’
+
+     0K .......... .......... .......... .......... .......... 16%  209K 1s
+    50K .......... .......... .......... .......... .......... 33%  614K 1s
+   100K .......... .......... .......... .......... .......... 50%  595K 0s
+   150K .......... .......... .......... .......... .......... 66%  315K 0s
+   200K .......... .......... .......... .......... .......... 83%  596K 0s
+   250K .......... .......... .......... .......... ........  100%  601K=0.7s
+
+2017-02-03 00:05:03 (410 KB/s) - ‘gkx033’ saved [305957/305957]
+
+--2017-02-03 00:05:04--  http://doi.org/10.1093/nar/gkx037
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx037 [following]
+--2017-02-03 00:05:06--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx037
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/doi/10.1093/nar/gkx037/2948437/Wide-ranging-and-unexpected-consequences-of [following]
+--2017-02-03 00:05:07--  https://academic.oup.com/nar/article/doi/10.1093/nar/gkx037/2948437/Wide-ranging-and-unexpected-consequences-of
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 538030 (525K) [text/html]
+Saving to: ‘gkx037’
+
+     0K .......... .......... .......... .......... ..........  9%  309K 2s
+    50K .......... .......... .......... .......... .......... 19%  309K 1s
+   100K .......... .......... .......... .......... .......... 28%  609K 1s
+   150K .......... .......... .......... .......... .......... 38%  591K 1s
+   200K .......... .......... .......... .......... .......... 47%  316K 1s
+   250K .......... .......... .......... .......... .......... 57%  601K 1s
+   300K .......... .......... .......... .......... .......... 66%  311K 0s
+   350K .......... .......... .......... .......... .......... 76%  586K 0s
+   400K .......... .......... .......... .......... .......... 85%  603K 0s
+   450K .......... .......... .......... .......... .......... 95%  609K 0s
+   500K .......... .......... .....                           100%  318K=1.2s
+
+2017-02-03 00:05:12 (430 KB/s) - ‘gkx037’ saved [538030/538030]
+
+--2017-02-03 00:05:13--  http://doi.org/10.1093/nar/gkx019
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx019 [following]
+--2017-02-03 00:05:14--  http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkx019
+Connecting to nar.oxfordjournals.org (nar.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nar.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nar/article/doi/10.1093/nar/gkx019/2937943/Robust-and-rapid-algorithms-facilitate-large-scale [following]
+--2017-02-03 00:05:15--  https://academic.oup.com/nar/article/doi/10.1093/nar/gkx019/2937943/Robust-and-rapid-algorithms-facilitate-large-scale
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 321347 (314K) [text/html]
+Saving to: ‘gkx019’
+
+     0K .......... .......... .......... .......... .......... 15%  209K 1s
+    50K .......... .......... .......... .......... .......... 31%  601K 1s
+   100K .......... .......... .......... .......... .......... 47%  611K 0s
+   150K .......... .......... .......... .......... .......... 63%  603K 0s
+   200K .......... .......... .......... .......... .......... 79%  313K 0s
+   250K .......... .......... .......... .......... .......... 95%  603K 0s
+   300K .......... ...                                        100% 27.0M=0.7s
+
+2017-02-03 00:05:22 (430 KB/s) - ‘gkx019’ saved [321347/321347]
+
+--2017-02-03 00:05:23--  http://doi.org/10.1093/nar/gkx008
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkx008 [following]
+--2017-02-03 00:05:24--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkx008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 373509 (365K) [text/html]
+Saving to: ‘gkx008’
+
+     0K .......... .......... .......... .......... .......... 13%  209K 2s
+    50K .......... .......... .......... .......... .......... 27%  605K 1s
+   100K .......... .......... .......... .......... .......... 41%  603K 1s
+   150K .......... .......... .......... .......... .......... 54%  611K 0s
+   200K .......... .......... .......... .......... .......... 68%  314K 0s
+   250K .......... .......... .......... .......... .......... 82%  601K 0s
+   300K .......... .......... .......... .......... .......... 95%  607K 0s
+   350K .......... ....                                       100%  197K=0.9s
+
+2017-02-03 00:05:29 (412 KB/s) - ‘gkx008’ saved [373509/373509]
+
+--2017-02-03 00:05:30--  http://doi.org/10.1093/nar/gkx005
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkx005 [following]
+--2017-02-03 00:05:32--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkx005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:05:32 ERROR 400: Bad Request.
+
+--2017-02-03 00:05:33--  http://doi.org/10.1093/nar/gkx004
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkx004 [following]
+--2017-02-03 00:05:35--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkx004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 311451 (304K) [text/html]
+Saving to: ‘gkx004’
+
+     0K .......... .......... .......... .......... .......... 16%  208K 1s
+    50K .......... .......... .......... .......... .......... 32%  593K 1s
+   100K .......... .......... .......... .......... .......... 49%  606K 0s
+   150K .......... .......... .......... .......... .......... 65%  586K 0s
+   200K .......... .......... .......... .......... .......... 82%  312K 0s
+   250K .......... .......... .......... .......... .......... 98%  606K 0s
+   300K ....                                                  100% 13.4M=0.7s
+
+2017-02-03 00:05:39 (413 KB/s) - ‘gkx004’ saved [311451/311451]
+
+--2017-02-03 00:05:40--  http://doi.org/10.1093/nar/gkx002
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkx002 [following]
+--2017-02-03 00:05:42--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkx002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 467073 (456K) [text/html]
+Saving to: ‘gkx002’
+
+     0K .......... .......... .......... .......... .......... 10%  209K 2s
+    50K .......... .......... .......... .......... .......... 21%  610K 1s
+   100K .......... .......... .......... .......... .......... 32%  609K 1s
+   150K .......... .......... .......... .......... .......... 43%  308K 1s
+   200K .......... .......... .......... .......... .......... 54%  593K 1s
+   250K .......... .......... .......... .......... .......... 65%  603K 0s
+   300K .......... .......... .......... .......... .......... 76%  324K 0s
+   350K .......... .......... .......... .......... .......... 87%  564K 0s
+   400K .......... .......... .......... .......... .......... 98%  603K 0s
+   450K ......                                                100% 11684G=1.1s
+
+2017-02-03 00:05:47 (431 KB/s) - ‘gkx002’ saved [467073/467073]
+
+--2017-02-03 00:05:48--  http://doi.org/10.1093/nar/gkw1363
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1363 [following]
+--2017-02-03 00:05:49--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1363
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 267975 (262K) [text/html]
+Saving to: ‘gkw1363’
+
+     0K .......... .......... .......... .......... .......... 19%  208K 1s
+    50K .......... .......... .......... .......... .......... 38%  605K 1s
+   100K .......... .......... .......... .......... .......... 57%  603K 0s
+   150K .......... .......... .......... .......... .......... 76%  316K 0s
+   200K .......... .......... .......... .......... .......... 95%  597K 0s
+   250K .......... .                                          100% 15.1M=0.6s
+
+2017-02-03 00:06:00 (403 KB/s) - ‘gkw1363’ saved [267975/267975]
+
+--2017-02-03 00:06:01--  http://doi.org/10.1093/nar/gkx003
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkx003 [following]
+--2017-02-03 00:06:03--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkx003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 432752 (423K) [text/html]
+Saving to: ‘gkx003’
+
+     0K .......... .......... .......... .......... .......... 11%  205K 2s
+    50K .......... .......... .......... .......... .......... 23%  583K 1s
+   100K .......... .......... .......... .......... .......... 35%  599K 1s
+   150K .......... .......... .......... .......... .......... 47%  609K 1s
+   200K .......... .......... .......... .......... .......... 59%  313K 0s
+   250K .......... .......... .......... .......... .......... 70%  599K 0s
+   300K .......... .......... .......... .......... .......... 82%  614K 0s
+   350K .......... .......... .......... .......... .......... 94%  313K 0s
+   400K .......... .......... ..                              100% 14.7M=1.0s
+
+2017-02-03 00:06:09 (431 KB/s) - ‘gkx003’ saved [432752/432752]
+
+--2017-02-03 00:06:10--  http://doi.org/10.1093/nar/gkw1352
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1352 [following]
+--2017-02-03 00:06:11--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1352
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 303855 (297K) [text/html]
+Saving to: ‘gkw1352’
+
+     0K .......... .......... .......... .......... .......... 16%  209K 1s
+    50K .......... .......... .......... .......... .......... 33%  602K 1s
+   100K .......... .......... .......... .......... .......... 50%  604K 0s
+   150K .......... .......... .......... .......... .......... 67%  608K 0s
+   200K .......... .......... .......... .......... .......... 84%  315K 0s
+   250K .......... .......... .......... .......... ......    100%  575K=0.7s
+
+2017-02-03 00:06:15 (408 KB/s) - ‘gkw1352’ saved [303855/303855]
+
+--2017-02-03 00:06:16--  http://doi.org/10.1093/nar/gkx007
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkx007 [following]
+--2017-02-03 00:06:18--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkx007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 339964 (332K) [text/html]
+Saving to: ‘gkx007’
+
+     0K .......... .......... .......... .......... .......... 15%  209K 1s
+    50K .......... .......... .......... .......... .......... 30%  596K 1s
+   100K .......... .......... .......... .......... .......... 45%  609K 0s
+   150K .......... .......... .......... .......... .......... 60%  427K 0s
+   200K .......... .......... .......... .......... .......... 75%  401K 0s
+   250K .......... .......... .......... .......... .......... 90%  601K 0s
+   300K .......... .......... .......... .                    100%  403K=0.8s
+
+2017-02-03 00:06:23 (410 KB/s) - ‘gkx007’ saved [339964/339964]
+
+--2017-02-03 00:06:24--  http://doi.org/10.1093/nar/gkw1325
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1325 [following]
+--2017-02-03 00:06:26--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1325
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:06:26 ERROR 400: Bad Request.
+
+--2017-02-03 00:06:27--  http://doi.org/10.1093/nar/gkw1348
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1348 [following]
+--2017-02-03 00:06:29--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1348
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 383577 (375K) [text/html]
+Saving to: ‘gkw1348’
+
+     0K .......... .......... .......... .......... .......... 13%  208K 2s
+    50K .......... .......... .......... .......... .......... 26%  605K 1s
+   100K .......... .......... .......... .......... .......... 40%  283K 1s
+   150K .......... .......... .......... .......... .......... 53%  312K 1s
+   200K .......... .......... .......... .......... .......... 66%  365K 0s
+   250K .......... .......... .......... .......... .......... 80%  611K 0s
+   300K .......... .......... .......... .......... .......... 93%  560K 0s
+   350K .......... .......... ....                            100%  340K=1.0s
+
+2017-02-03 00:06:33 (360 KB/s) - ‘gkw1348’ saved [383577/383577]
+
+--2017-02-03 00:06:34--  http://doi.org/10.1093/nar/gkw1359
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1359 [following]
+--2017-02-03 00:06:36--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1359
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 399510 (390K) [text/html]
+Saving to: ‘gkw1359’
+
+     0K .......... .......... .......... .......... .......... 12%  209K 2s
+    50K .......... .......... .......... .......... .......... 25%  605K 1s
+   100K .......... .......... .......... .......... .......... 38%  596K 1s
+   150K .......... .......... .......... .......... .......... 51%  319K 1s
+   200K .......... .......... .......... .......... .......... 64%  600K 0s
+   250K .......... .......... .......... .......... .......... 76%  597K 0s
+   300K .......... .......... .......... .......... .......... 89%  603K 0s
+   350K .......... .......... .......... ..........           100%  495K=0.9s
+
+2017-02-03 00:06:41 (437 KB/s) - ‘gkw1359’ saved [399510/399510]
+
+--2017-02-03 00:06:42--  http://doi.org/10.1093/nar/gkx032
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkx032 [following]
+--2017-02-03 00:06:44--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkx032
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 86226 (84K) [text/html]
+Saving to: ‘gkx032’
+
+     0K .......... .......... .......... .......... .......... 59%  206K 0s
+    50K .......... .......... .......... ....                 100% 9.91M=0.2s
+
+2017-02-03 00:06:47 (342 KB/s) - ‘gkx032’ saved [86226/86226]
+
+--2017-02-03 00:06:48--  http://doi.org/10.1093/nar/gkw1354
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1354 [following]
+--2017-02-03 00:06:50--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1354
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 404748 (395K) [text/html]
+Saving to: ‘gkw1354’
+
+     0K .......... .......... .......... .......... .......... 12%  307K 1s
+    50K .......... .......... .......... .......... .......... 25%  313K 1s
+   100K .......... .......... .......... .......... .......... 37%  603K 1s
+   150K .......... .......... .......... .......... .......... 50%  600K 0s
+   200K .......... .......... .......... .......... .......... 63%  309K 0s
+   250K .......... .......... .......... .......... .......... 75%  594K 0s
+   300K .......... .......... .......... .......... .......... 88%  600K 0s
+   350K .......... .......... .......... .......... .....     100%  555K=0.9s
+
+2017-02-03 00:06:54 (439 KB/s) - ‘gkw1354’ saved [404748/404748]
+
+--2017-02-03 00:06:55--  http://doi.org/10.1093/nar/gkw1364
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1364 [following]
+--2017-02-03 00:06:56--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1364
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 417705 (408K) [text/html]
+Saving to: ‘gkw1364’
+
+     0K .......... .......... .......... .......... .......... 12%  207K 2s
+    50K .......... .......... .......... .......... .......... 24%  602K 1s
+   100K .......... .......... .......... .......... .......... 36%  598K 1s
+   150K .......... .......... .......... .......... .......... 49%  607K 1s
+   200K .......... .......... .......... .......... .......... 61%  318K 0s
+   250K .......... .......... .......... .......... .......... 73%  583K 0s
+   300K .......... .......... .......... .......... .......... 85%  582K 0s
+   350K .......... .......... .......... .......... .......... 98%  594K 0s
+   400K .......                                               100%  114K=1.0s
+
+2017-02-03 00:07:01 (419 KB/s) - ‘gkw1364’ saved [417705/417705]
+
+--2017-02-03 00:07:02--  http://doi.org/10.1093/nar/gkx001
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkx001 [following]
+--2017-02-03 00:07:03--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkx001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 371167 (362K) [text/html]
+Saving to: ‘gkx001’
+
+     0K .......... .......... .......... .......... .......... 13%  209K 1s
+    50K .......... .......... .......... .......... .......... 27%  595K 1s
+   100K .......... .......... .......... .......... .......... 41%  589K 1s
+   150K .......... .......... .......... .......... .......... 55%  601K 0s
+   200K .......... .......... .......... .......... .......... 68%  306K 0s
+   250K .......... .......... .......... .......... .......... 82%  594K 0s
+   300K .......... .......... .......... .......... .......... 96%  604K 0s
+   350K .......... ..                                         100% 18.2M=0.8s
+
+2017-02-03 00:07:12 (441 KB/s) - ‘gkx001’ saved [371167/371167]
+
+--2017-02-03 00:07:13--  http://doi.org/10.1093/nar/gkx006
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkx006 [following]
+--2017-02-03 00:07:15--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkx006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 473408 (462K) [text/html]
+Saving to: ‘gkx006’
+
+     0K .......... .......... .......... .......... .......... 10%  207K 2s
+    50K .......... .......... .......... .......... .......... 21%  585K 1s
+   100K .......... .......... .......... .......... .......... 32%  599K 1s
+   150K .......... .......... .......... .......... .......... 43%  422K 1s
+   200K .......... .......... .......... .......... .......... 54%  406K 1s
+   250K .......... .......... .......... .......... .......... 64%  577K 0s
+   300K .......... .......... .......... .......... .......... 75%  612K 0s
+   350K .......... .......... .......... .......... .......... 86%  310K 0s
+   400K .......... .......... .......... .......... .......... 97%  600K 0s
+   450K .......... ..                                         100% 29.8M=1.1s
+
+2017-02-03 00:07:20 (434 KB/s) - ‘gkx006’ saved [473408/473408]
+
+--2017-02-03 00:07:21--  http://doi.org/10.1093/nar/gkw1358
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1358 [following]
+--2017-02-03 00:07:23--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1358
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 206795 (202K) [text/html]
+Saving to: ‘gkw1358’
+
+     0K .......... .......... .......... .......... .......... 24%  205K 1s
+    50K .......... .......... .......... .......... .......... 49%  594K 0s
+   100K .......... .......... .......... .......... .......... 74%  595K 0s
+   150K .......... .......... .......... .......... .......... 99%  421K 0s
+   200K .                                                     100% 3716G=0.5s
+
+2017-02-03 00:07:27 (381 KB/s) - ‘gkw1358’ saved [206795/206795]
+
+--2017-02-03 00:07:28--  http://doi.org/10.1093/nar/gkw1362
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1362 [following]
+--2017-02-03 00:07:29--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1362
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 356714 (348K) [text/html]
+Saving to: ‘gkw1362’
+
+     0K .......... .......... .......... .......... .......... 14%  206K 1s
+    50K .......... .......... .......... .......... .......... 28%  599K 1s
+   100K .......... .......... .......... .......... .......... 43%  606K 1s
+   150K .......... .......... .......... .......... .......... 57%  607K 0s
+   200K .......... .......... .......... .......... .......... 71%  315K 0s
+   250K .......... .......... .......... .......... .......... 86%  581K 0s
+   300K .......... .......... .......... .......... ........  100%  587K=0.8s
+
+2017-02-03 00:07:34 (426 KB/s) - ‘gkw1362’ saved [356714/356714]
+
+--2017-02-03 00:07:35--  http://doi.org/10.1093/nar/gkw1357
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1357 [following]
+--2017-02-03 00:07:36--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1357
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:07:37 ERROR 400: Bad Request.
+
+--2017-02-03 00:07:38--  http://doi.org/10.1093/nar/gkx035
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkx035 [following]
+--2017-02-03 00:07:39--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkx035
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76890 (75K) [text/html]
+Saving to: ‘gkx035’
+
+     0K .......... .......... .......... .......... .......... 66%  309K 0s
+    50K .......... .......... .....                           100%  304K=0.2s
+
+2017-02-03 00:07:49 (307 KB/s) - ‘gkx035’ saved [76890/76890]
+
+--2017-02-03 00:07:50--  http://doi.org/10.1093/nar/gkw1346
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1346 [following]
+--2017-02-03 00:07:51--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1346
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 452588 (442K) [text/html]
+Saving to: ‘gkw1346’
+
+     0K .......... .......... .......... .......... .......... 11%  207K 2s
+    50K .......... .......... .......... .......... .......... 22%  592K 1s
+   100K .......... .......... .......... .......... .......... 33%  607K 1s
+   150K .......... .......... .......... .......... .......... 45%  604K 1s
+   200K .......... .......... .......... .......... .......... 56%  309K 1s
+   250K .......... .......... .......... .......... .......... 67%  606K 0s
+   300K .......... .......... .......... .......... .......... 79%  605K 0s
+   350K .......... .......... .......... .......... .......... 90%  589K 0s
+   400K .......... .......... .......... .......... .         100%  496K=1.0s
+
+2017-02-03 00:07:55 (448 KB/s) - ‘gkw1346’ saved [452588/452588]
+
+--2017-02-03 00:07:56--  http://doi.org/10.1093/nar/gkx021
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkx021 [following]
+--2017-02-03 00:07:58--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkx021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71779 (70K) [text/html]
+Saving to: ‘gkx021’
+
+     0K .......... .......... .......... .......... .......... 71%  206K 0s
+    50K .......... ..........                                 100% 11.3M=0.2s
+
+2017-02-03 00:08:02 (286 KB/s) - ‘gkx021’ saved [71779/71779]
+
+--2017-02-03 00:08:03--  http://doi.org/10.1093/nar/gkw1365
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1365 [following]
+--2017-02-03 00:08:04--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1365
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 427512 (417K) [text/html]
+Saving to: ‘gkw1365’
+
+     0K .......... .......... .......... .......... .......... 11%  208K 2s
+    50K .......... .......... .......... .......... .......... 23%  608K 1s
+   100K .......... .......... .......... .......... .......... 35%  611K 1s
+   150K .......... .......... .......... .......... .......... 47%  314K 1s
+   200K .......... .......... .......... .......... .......... 59%  573K 0s
+   250K .......... .......... .......... .......... .......... 71%  598K 0s
+   300K .......... .......... .......... .......... .......... 83%  609K 0s
+   350K .......... .......... .......... .......... .......... 95%  315K 0s
+   400K .......... .......                                    100% 5.73M=1.0s
+
+2017-02-03 00:08:16 (427 KB/s) - ‘gkw1365’ saved [427512/427512]
+
+--2017-02-03 00:08:17--  http://doi.org/10.1093/nar/gkw1347
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1347 [following]
+--2017-02-03 00:08:18--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1347
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 431384 (421K) [text/html]
+Saving to: ‘gkw1347’
+
+     0K .......... .......... .......... .......... .......... 11%  208K 2s
+    50K .......... .......... .......... .......... .......... 23%  602K 1s
+   100K .......... .......... .......... .......... .......... 35%  604K 1s
+   150K .......... .......... .......... .......... .......... 47%  607K 1s
+   200K .......... .......... .......... .......... .......... 59%  311K 0s
+   250K .......... .......... .......... .......... .......... 71%  601K 0s
+   300K .......... .......... .......... .......... .......... 83%  609K 0s
+   350K .......... .......... .......... .......... .......... 94%  312K 0s
+   400K .......... .......... .                               100% 10.4M=1.0s
+
+2017-02-03 00:08:22 (431 KB/s) - ‘gkw1347’ saved [431384/431384]
+
+--2017-02-03 00:08:23--  http://doi.org/10.1093/nar/gkw1355
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1355 [following]
+--2017-02-03 00:08:24--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1355
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 399899 (391K) [text/html]
+Saving to: ‘gkw1355’
+
+     0K .......... .......... .......... .......... .......... 12%  209K 2s
+    50K .......... .......... .......... .......... .......... 25%  605K 1s
+   100K .......... .......... .......... .......... .......... 38%  609K 1s
+   150K .......... .......... .......... .......... .......... 51%  420K 0s
+   200K .......... .......... .......... .......... .......... 64%  404K 0s
+   250K .......... .......... .......... .......... .......... 76%  604K 0s
+   300K .......... .......... .......... .......... .......... 89%  613K 0s
+   350K .......... .......... .......... ..........           100%  500K=0.9s
+
+2017-02-03 00:08:29 (438 KB/s) - ‘gkw1355’ saved [399899/399899]
+
+--2017-02-03 00:08:30--  http://doi.org/10.1093/nar/gkw1360
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1360 [following]
+--2017-02-03 00:08:31--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1360
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 306124 (299K) [text/html]
+Saving to: ‘gkw1360’
+
+     0K .......... .......... .......... .......... .......... 16%  209K 1s
+    50K .......... .......... .......... .......... .......... 33%  596K 1s
+   100K .......... .......... .......... .......... .......... 50%  610K 0s
+   150K .......... .......... .......... .......... .......... 66%  601K 0s
+   200K .......... .......... .......... .......... .......... 83%  314K 0s
+   250K .......... .......... .......... .......... ........  100%  598K=0.7s
+
+2017-02-03 00:08:36 (410 KB/s) - ‘gkw1360’ saved [306124/306124]
+
+--2017-02-03 00:08:37--  http://doi.org/10.1093/nar/gkw1353
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1353 [following]
+--2017-02-03 00:08:38--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1353
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 305994 (299K) [text/html]
+Saving to: ‘gkw1353’
+
+     0K .......... .......... .......... .......... .......... 16%  208K 1s
+    50K .......... .......... .......... .......... .......... 33%  603K 1s
+   100K .......... .......... .......... .......... .......... 50%  598K 0s
+   150K .......... .......... .......... .......... .......... 66%  310K 0s
+   200K .......... .......... .......... .......... .......... 83%  603K 0s
+   250K .......... .......... .......... .......... ........  100%  592K=0.7s
+
+2017-02-03 00:08:42 (407 KB/s) - ‘gkw1353’ saved [305994/305994]
+
+--2017-02-03 00:08:43--  http://doi.org/10.1093/nar/gkw1301
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1301 [following]
+--2017-02-03 00:08:45--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1301
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 402247 (393K) [text/html]
+Saving to: ‘gkw1301’
+
+     0K .......... .......... .......... .......... .......... 12%  208K 2s
+    50K .......... .......... .......... .......... .......... 25%  607K 1s
+   100K .......... .......... .......... .......... .......... 38%  579K 1s
+   150K .......... .......... .......... .......... .......... 50%  316K 1s
+   200K .......... .......... .......... .......... .......... 63%  573K 0s
+   250K .......... .......... .......... .......... .......... 76%  599K 0s
+   300K .......... .......... .......... .......... .......... 89%  614K 0s
+   350K .......... .......... .......... .......... ..        100%  512K=0.9s
+
+2017-02-03 00:08:49 (435 KB/s) - ‘gkw1301’ saved [402247/402247]
+
+--2017-02-03 00:08:50--  http://doi.org/10.1093/nar/gkw1344
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1344 [following]
+--2017-02-03 00:08:51--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1344
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 348924 (341K) [text/html]
+Saving to: ‘gkw1344’
+
+     0K .......... .......... .......... .......... .......... 14%  308K 1s
+    50K .......... .......... .......... .......... .......... 29%  312K 1s
+   100K .......... .......... .......... .......... .......... 44%  601K 1s
+   150K .......... .......... .......... .......... .......... 58%  606K 0s
+   200K .......... .......... .......... .......... .......... 73%  311K 0s
+   250K .......... .......... .......... .......... .......... 88%  606K 0s
+   300K .......... .......... .......... ..........           100%  502K=0.8s
+
+2017-02-03 00:08:57 (420 KB/s) - ‘gkw1344’ saved [348924/348924]
+
+--2017-02-03 00:08:58--  http://doi.org/10.1093/nar/gkw1295
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1295 [following]
+--2017-02-03 00:08:59--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1295
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 390972 (382K) [text/html]
+Saving to: ‘gkw1295’
+
+     0K .......... .......... .......... .......... .......... 13%  209K 2s
+    50K .......... .......... .......... .......... .......... 26%  608K 1s
+   100K .......... .......... .......... .......... .......... 39%  598K 1s
+   150K .......... .......... .......... .......... .......... 52%  604K 0s
+   200K .......... .......... .......... .......... .......... 65%  312K 0s
+   250K .......... .......... .......... .......... .......... 78%  603K 0s
+   300K .......... .......... .......... .......... .......... 91%  614K 0s
+   350K .......... .......... .......... .                    100%  379K=0.9s
+
+2017-02-03 00:09:21 (426 KB/s) - ‘gkw1295’ saved [390972/390972]
+
+--2017-02-03 00:09:22--  http://doi.org/10.1093/nar/gkw1290
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1290 [following]
+--2017-02-03 00:09:23--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1290
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:09:24 ERROR 400: Bad Request.
+
+--2017-02-03 00:09:25--  http://doi.org/10.1093/nar/gkw1366
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1366 [following]
+--2017-02-03 00:09:26--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1366
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 535186 (523K) [text/html]
+Saving to: ‘gkw1366’
+
+     0K .......... .......... .......... .......... ..........  9%  209K 2s
+    50K .......... .......... .......... .......... .......... 19%  601K 1s
+   100K .......... .......... .......... .......... .......... 28%  600K 1s
+   150K .......... .......... .......... .......... .......... 38%  576K 1s
+   200K .......... .......... .......... .......... .......... 47%  311K 1s
+   250K .......... .......... .......... .......... .......... 57%  585K 1s
+   300K .......... .......... .......... .......... .......... 66%  598K 0s
+   350K .......... .......... .......... .......... .......... 76%  312K 0s
+   400K .......... .......... .......... .......... .......... 86%  601K 0s
+   450K .......... .......... .......... .......... .......... 95%  605K 0s
+   500K .......... .......... ..                              100%  288K=1.2s
+
+2017-02-03 00:09:47 (426 KB/s) - ‘gkw1366’ saved [535186/535186]
+
+--2017-02-03 00:09:48--  http://doi.org/10.1093/nar/gkw1332
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1332 [following]
+--2017-02-03 00:09:49--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1332
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 353663 (345K) [text/html]
+Saving to: ‘gkw1332’
+
+     0K .......... .......... .......... .......... .......... 14%  209K 1s
+    50K .......... .......... .......... .......... .......... 28%  613K 1s
+   100K .......... .......... .......... .......... .......... 43%  574K 1s
+   150K .......... .......... .......... .......... .......... 57%  610K 0s
+   200K .......... .......... .......... .......... .......... 72%  299K 0s
+   250K .......... .......... .......... .......... .......... 86%  611K 0s
+   300K .......... .......... .......... .......... .....     100%  556K=0.8s
+
+2017-02-03 00:10:13 (421 KB/s) - ‘gkw1332’ saved [353663/353663]
+
+--2017-02-03 00:10:14--  http://doi.org/10.1093/nar/gkw1356
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1356 [following]
+--2017-02-03 00:10:16--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1356
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 497354 (486K) [text/html]
+Saving to: ‘gkw1356’
+
+     0K .......... .......... .......... .......... .......... 10%  209K 2s
+    50K .......... .......... .......... .......... .......... 20%  600K 1s
+   100K .......... .......... .......... .......... .......... 30%  600K 1s
+   150K .......... .......... .......... .......... .......... 41%  320K 1s
+   200K .......... .......... .......... .......... .......... 51%  578K 1s
+   250K .......... .......... .......... .......... .......... 61%  614K 0s
+   300K .......... .......... .......... .......... .......... 72%  421K 0s
+   350K .......... .......... .......... .......... .......... 82%  410K 0s
+   400K .......... .......... .......... .......... .......... 92%  579K 0s
+   450K .......... .......... .......... .....                100%  468K=1.1s
+
+2017-02-03 00:10:28 (429 KB/s) - ‘gkw1356’ saved [497354/497354]
+
+--2017-02-03 00:10:29--  http://doi.org/10.1093/nar/gkw1320
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1320 [following]
+--2017-02-03 00:10:31--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1320
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 324713 (317K) [text/html]
+Saving to: ‘gkw1320’
+
+     0K .......... .......... .......... .......... .......... 15%  209K 1s
+    50K .......... .......... .......... .......... .......... 31%  606K 1s
+   100K .......... .......... .......... .......... .......... 47%  612K 0s
+   150K .......... .......... .......... .......... .......... 63%  602K 0s
+   200K .......... .......... .......... .......... .......... 78%  311K 0s
+   250K .......... .......... .......... .......... .......... 94%  600K 0s
+   300K .......... .......                                    100% 17.7M=0.7s
+
+2017-02-03 00:10:48 (433 KB/s) - ‘gkw1320’ saved [324713/324713]
+
+--2017-02-03 00:10:49--  http://doi.org/10.1093/nar/gkw1316
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1316 [following]
+--2017-02-03 00:10:50--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1316
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 403784 (394K) [text/html]
+Saving to: ‘gkw1316’
+
+     0K .......... .......... .......... .......... .......... 12%  209K 2s
+    50K .......... .......... .......... .......... .......... 25%  598K 1s
+   100K .......... .......... .......... .......... .......... 38%  612K 1s
+   150K .......... .......... .......... .......... .......... 50%  605K 0s
+   200K .......... .......... .......... .......... .......... 63%  314K 0s
+   250K .......... .......... .......... .......... .......... 76%  602K 0s
+   300K .......... .......... .......... .......... .......... 88%  610K 0s
+   350K .......... .......... .......... .......... ....      100%  540K=0.9s
+
+2017-02-03 00:10:55 (441 KB/s) - ‘gkw1316’ saved [403784/403784]
+
+--2017-02-03 00:10:56--  http://doi.org/10.1093/nar/gkw1351
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1351 [following]
+--2017-02-03 00:10:58--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1351
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 400266 (391K) [text/html]
+Saving to: ‘gkw1351’
+
+     0K .......... .......... .......... .......... .......... 12%  209K 2s
+    50K .......... .......... .......... .......... .......... 25%  613K 1s
+   100K .......... .......... .......... .......... .......... 38%  597K 1s
+   150K .......... .......... .......... .......... .......... 51%  604K 0s
+   200K .......... .......... .......... .......... .......... 63%  314K 0s
+   250K .......... .......... .......... .......... .......... 76%  609K 0s
+   300K .......... .......... .......... .......... .......... 89%  600K 0s
+   350K .......... .......... .......... ..........           100%  503K=0.9s
+
+2017-02-03 00:11:04 (438 KB/s) - ‘gkw1351’ saved [400266/400266]
+
+--2017-02-03 00:11:05--  http://doi.org/10.1093/nar/gkw1343
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1343 [following]
+--2017-02-03 00:11:06--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1343
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 377876 (369K) [text/html]
+Saving to: ‘gkw1343’
+
+     0K .......... .......... .......... .......... .......... 13%  208K 2s
+    50K .......... .......... .......... .......... .......... 27%  613K 1s
+   100K .......... .......... .......... .......... .......... 40%  603K 1s
+   150K .......... .......... .......... .......... .......... 54%  604K 0s
+   200K .......... .......... .......... .......... .......... 67%  316K 0s
+   250K .......... .......... .......... .......... .......... 81%  604K 0s
+   300K .......... .......... .......... .......... .......... 94%  604K 0s
+   350K .......... .........                                  100%  245K=0.9s
+
+2017-02-03 00:11:11 (415 KB/s) - ‘gkw1343’ saved [377876/377876]
+
+--2017-02-03 00:11:12--  http://doi.org/10.1093/nar/gkw1324
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1324 [following]
+--2017-02-03 00:11:13--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1324
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 355032 (347K) [text/html]
+Saving to: ‘gkw1324’
+
+     0K .......... .......... .......... .......... .......... 14%  209K 1s
+    50K .......... .......... .......... .......... .......... 28%  611K 1s
+   100K .......... .......... .......... .......... .......... 43%  607K 1s
+   150K .......... .......... .......... .......... .......... 57%  598K 0s
+   200K .......... .......... .......... .......... .......... 72%  315K 0s
+   250K .......... .......... .......... .......... .......... 86%  585K 0s
+   300K .......... .......... .......... .......... ......    100%  575K=0.8s
+
+2017-02-03 00:11:21 (427 KB/s) - ‘gkw1324’ saved [355032/355032]
+
+--2017-02-03 00:11:22--  http://doi.org/10.1093/nar/gkw1345
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1345 [following]
+--2017-02-03 00:11:24--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1345
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 492517 (481K) [text/html]
+Saving to: ‘gkw1345’
+
+     0K .......... .......... .......... .......... .......... 10%  309K 1s
+    50K .......... .......... .......... .......... .......... 20%  311K 1s
+   100K .......... .......... .......... .......... .......... 31%  611K 1s
+   150K .......... .......... .......... .......... .......... 41%  583K 1s
+   200K .......... .......... .......... .......... .......... 51%  314K 1s
+   250K .......... .......... .......... .......... .......... 62%  596K 0s
+   300K .......... .......... .......... .......... .......... 72%  602K 0s
+   350K .......... .......... .......... .......... .......... 83%  596K 0s
+   400K .......... .......... .......... .......... .......... 93%  310K 0s
+   450K .......... .......... ..........                      100% 9.16M=1.1s
+
+2017-02-03 00:11:30 (452 KB/s) - ‘gkw1345’ saved [492517/492517]
+
+--2017-02-03 00:11:31--  http://doi.org/10.1093/nar/gkw1331
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1331 [following]
+--2017-02-03 00:11:32--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1331
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 399790 (390K) [text/html]
+Saving to: ‘gkw1331’
+
+     0K .......... .......... .......... .......... .......... 12%  209K 2s
+    50K .......... .......... .......... .......... .......... 25%  591K 1s
+   100K .......... .......... .......... .......... .......... 38%  614K 1s
+   150K .......... .......... .......... .......... .......... 51%  604K 0s
+   200K .......... .......... .......... .......... .......... 64%  312K 0s
+   250K .......... .......... .......... .......... .......... 76%  606K 0s
+   300K .......... .......... .......... .......... .......... 89%  610K 0s
+   350K .......... .......... .......... ..........           100%  499K=0.9s
+
+2017-02-03 00:11:40 (437 KB/s) - ‘gkw1331’ saved [399790/399790]
+
+--2017-02-03 00:11:41--  http://doi.org/10.1093/nar/gkw1312
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1312 [following]
+--2017-02-03 00:11:43--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1312
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 91256 (89K) [text/html]
+Saving to: ‘gkw1312’
+
+     0K .......... .......... .......... .......... .......... 56%  208K 0s
+    50K .......... .......... .......... .........            100%  488K=0.3s
+
+2017-02-03 00:11:48 (278 KB/s) - ‘gkw1312’ saved [91256/91256]
+
+--2017-02-03 00:11:49--  http://doi.org/10.1093/nar/gkw1281
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1281 [following]
+--2017-02-03 00:11:50--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1281
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 462414 (452K) [text/html]
+Saving to: ‘gkw1281’
+
+     0K .......... .......... .......... .......... .......... 11%  309K 1s
+    50K .......... .......... .......... .......... .......... 22%  312K 1s
+   100K .......... .......... .......... .......... .......... 33%  608K 1s
+   150K .......... .......... .......... .......... .......... 44%  318K 1s
+   200K .......... .......... .......... .......... .......... 55%  572K 1s
+   250K .......... .......... .......... .......... .......... 66%  603K 0s
+   300K .......... .......... .......... .......... .......... 77%  607K 0s
+   350K .......... .......... .......... .......... .......... 88%  315K 0s
+   400K .......... .......... .......... .......... .......... 99%  612K 0s
+   450K .                                                     100% 3006G=1.1s
+
+2017-02-03 00:12:01 (428 KB/s) - ‘gkw1281’ saved [462414/462414]
+
+--2017-02-03 00:12:02--  http://doi.org/10.1093/nar/gkw1314
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1314 [following]
+--2017-02-03 00:12:04--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1314
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 82420 (80K) [text/html]
+Saving to: ‘gkw1314’
+
+     0K .......... .......... .......... .......... .......... 62%  207K 0s
+    50K .......... .......... ..........                      100% 12.1M=0.2s
+
+2017-02-03 00:12:08 (330 KB/s) - ‘gkw1314’ saved [82420/82420]
+
+--2017-02-03 00:12:09--  http://doi.org/10.1093/nar/gkw1313
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1313 [following]
+--2017-02-03 00:12:10--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1313
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73610 (72K) [text/html]
+Saving to: ‘gkw1313’
+
+     0K .......... .......... .......... .......... .......... 69%  209K 0s
+    50K .......... .......... .                               100% 12.5M=0.2s
+
+2017-02-03 00:12:14 (298 KB/s) - ‘gkw1313’ saved [73610/73610]
+
+--2017-02-03 00:12:15--  http://doi.org/10.1093/nar/gkw1291
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1291 [following]
+--2017-02-03 00:12:16--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1291
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 402403 (393K) [text/html]
+Saving to: ‘gkw1291’
+
+     0K .......... .......... .......... .......... .......... 12%  209K 2s
+    50K .......... .......... .......... .......... .......... 25%  609K 1s
+   100K .......... .......... .......... .......... .......... 38%  596K 1s
+   150K .......... .......... .......... .......... .......... 50%  318K 1s
+   200K .......... .......... .......... .......... .......... 63%  586K 0s
+   250K .......... .......... .......... .......... .......... 76%  585K 0s
+   300K .......... .......... .......... .......... .......... 89%  327K 0s
+   350K .......... .......... .......... .......... ..        100%  530K=1.0s
+
+2017-02-03 00:12:21 (406 KB/s) - ‘gkw1291’ saved [402403/402403]
+
+--2017-02-03 00:12:22--  http://doi.org/10.1093/nar/gkw1328
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1328 [following]
+--2017-02-03 00:12:23--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1328
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:12:24 ERROR 400: Bad Request.
+
+--2017-02-03 00:12:25--  http://doi.org/10.1093/nar/gkw1303
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1303 [following]
+--2017-02-03 00:12:26--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1303
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 458830 (448K) [text/html]
+Saving to: ‘gkw1303’
+
+     0K .......... .......... .......... .......... .......... 11%  209K 2s
+    50K .......... .......... .......... .......... .......... 22%  587K 1s
+   100K .......... .......... .......... .......... .......... 33%  604K 1s
+   150K .......... .......... .......... .......... .......... 44%  419K 1s
+   200K .......... .......... .......... .......... .......... 55%  409K 1s
+   250K .......... .......... .......... .......... .......... 66%  608K 0s
+   300K .......... .......... .......... .......... .......... 78%  417K 0s
+   350K .......... .......... .......... .......... .......... 89%  410K 0s
+   400K .......... .......... .......... .......... ........  100%  588K=1.1s
+
+2017-02-03 00:12:38 (425 KB/s) - ‘gkw1303’ saved [458830/458830]
+
+--2017-02-03 00:12:39--  http://doi.org/10.1093/nar/gkw1308
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1308 [following]
+--2017-02-03 00:12:40--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1308
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 327626 (320K) [text/html]
+Saving to: ‘gkw1308’
+
+     0K .......... .......... .......... .......... .......... 15%  208K 1s
+    50K .......... .......... .......... .......... .......... 31%  601K 1s
+   100K .......... .......... .......... .......... .......... 46%  601K 0s
+   150K .......... .......... .......... .......... .......... 62%  312K 0s
+   200K .......... .......... .......... .......... .......... 78%  596K 0s
+   250K .......... .......... .......... .......... .......... 93%  314K 0s
+   300K .......... .........                                  100% 20.2M=0.8s
+
+2017-02-03 00:12:45 (394 KB/s) - ‘gkw1308’ saved [327626/327626]
+
+--2017-02-03 00:12:46--  http://doi.org/10.1093/nar/gkw1349
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1349 [following]
+--2017-02-03 00:12:48--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1349
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 435760 (426K) [text/html]
+Saving to: ‘gkw1349’
+
+     0K .......... .......... .......... .......... .......... 11%  209K 2s
+    50K .......... .......... .......... .......... .......... 23%  597K 1s
+   100K .......... .......... .......... .......... .......... 35%  613K 1s
+   150K .......... .......... .......... .......... .......... 46%  608K 1s
+   200K .......... .......... .......... .......... .......... 58%  314K 0s
+   250K .......... .......... .......... .......... .......... 70%  604K 0s
+   300K .......... .......... .......... .......... .......... 82%  583K 0s
+   350K .......... .......... .......... .......... .......... 93%  470K 0s
+   400K .......... .......... .....                           100%  319K=1.0s
+
+2017-02-03 00:13:51 (425 KB/s) - ‘gkw1349’ saved [435760/435760]
+
+--2017-02-03 00:13:52--  http://doi.org/10.1093/nar/gkw1338
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1338 [following]
+--2017-02-03 00:13:53--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1338
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 67620 (66K) [text/html]
+Saving to: ‘gkw1338’
+
+     0K .......... .......... .......... .......... .......... 75%  310K 0s
+    50K .......... ......                                     100%  204K=0.2s
+
+2017-02-03 00:13:57 (275 KB/s) - ‘gkw1338’ saved [67620/67620]
+
+--2017-02-03 00:13:58--  http://doi.org/10.1093/nar/gkw1323
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1323 [following]
+--2017-02-03 00:13:59--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1323
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 273769 (267K) [text/html]
+Saving to: ‘gkw1323’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 37%  610K 1s
+   100K .......... .......... .......... .......... .......... 56%  585K 0s
+   150K .......... .......... .......... .......... .......... 74%  575K 0s
+   200K .......... .......... .......... .......... .......... 93%  604K 0s
+   250K .......... .......                                    100%  220K=0.7s
+
+2017-02-03 00:14:04 (408 KB/s) - ‘gkw1323’ saved [273769/273769]
+
+--2017-02-03 00:14:05--  http://doi.org/10.1093/nar/gkw1339
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1339 [following]
+--2017-02-03 00:14:06--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1339
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 425170 (415K) [text/html]
+Saving to: ‘gkw1339’
+
+     0K .......... .......... .......... .......... .......... 12%  208K 2s
+    50K .......... .......... .......... .......... .......... 24%  604K 1s
+   100K .......... .......... .......... .......... .......... 36%  599K 1s
+   150K .......... .......... .......... .......... .......... 48%  599K 1s
+   200K .......... .......... .......... .......... .......... 60%  312K 0s
+   250K .......... .......... .......... .......... .......... 72%  592K 0s
+   300K .......... .......... .......... .......... .......... 84%  575K 0s
+   350K .......... .......... .......... .......... .......... 96%  597K 0s
+   400K .......... .....                                      100%  191K=1.0s
+
+2017-02-03 00:14:10 (421 KB/s) - ‘gkw1339’ saved [425170/425170]
+
+--2017-02-03 00:14:11--  http://doi.org/10.1093/nar/gkw1329
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1329 [following]
+--2017-02-03 00:14:13--  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw1329
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 276141 (270K) [text/html]
+Saving to: ‘gkw1329’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 37%  606K 1s
+   100K .......... .......... .......... .......... .......... 55%  607K 0s
+   150K .......... .......... .......... .......... .......... 74%  611K 0s
+   200K .......... .......... .......... .......... .......... 92%  315K 0s
+   250K .......... .........                                  100% 10.3M=0.6s
+
+2017-02-03 00:14:20 (417 KB/s) - ‘gkw1329’ saved [276141/276141]
+
+FINISHED --2017-02-03 00:14:20--
+Total wall clock time: 15m 10s
+Downloaded: 82 files, 27M in 1m 6s (417 KB/s)

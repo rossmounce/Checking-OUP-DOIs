@@ -1,0 +1,1588 @@
+--2017-02-02 22:55:50--  http://doi.org/10.1093/idpl/ipw027
+Resolving doi.org (doi.org)... 208.254.38.90, 95.138.171.129, 54.191.229.235, ...
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-02 22:55:51--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Resolving fdslive.oup.com (fdslive.oup.com)... 193.67.160.201
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘ipw027’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-02 22:55:51 (1.20 MB/s) - ‘ipw027’ saved [52438/52438]
+
+--2017-02-02 22:55:52--  http://doi.org/10.1093/idpl/ipw026
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-02 22:55:54--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘ipw026’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-02 22:55:54 (1.32 MB/s) - ‘ipw026’ saved [52438/52438]
+
+--2017-02-02 22:55:55--  http://doi.org/10.1093/idpl/ipw016
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://idpl.oxfordjournals.org/lookup/doi/10.1093/idpl/ipw016 [following]
+--2017-02-02 22:55:56--  http://idpl.oxfordjournals.org/lookup/doi/10.1093/idpl/ipw016
+Resolving idpl.oxfordjournals.org (idpl.oxfordjournals.org)... 209.135.222.209
+Connecting to idpl.oxfordjournals.org (idpl.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from idpl.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/idpl/article/6/4/291/2567745/Transferring-athletes-personal-data-from-the-EU-to [following]
+--2017-02-02 22:56:02--  https://academic.oup.com/idpl/article/6/4/291/2567745/Transferring-athletes-personal-data-from-the-EU-to
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 134466 (131K) [text/html]
+Saving to: ‘ipw016’
+
+     0K .......... .......... .......... .......... .......... 38%  209K 0s
+    50K .......... .......... .......... .......... .......... 76%  609K 0s
+   100K .......... .......... .......... .                    100%  392K=0.4s
+
+2017-02-02 22:56:11 (327 KB/s) - ‘ipw016’ saved [134466/134466]
+
+--2017-02-02 22:56:12--  http://doi.org/10.1093/idpl/ipw020
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://idpl.oxfordjournals.org/lookup/doi/10.1093/idpl/ipw020 [following]
+--2017-02-02 22:56:13--  http://idpl.oxfordjournals.org/lookup/doi/10.1093/idpl/ipw020
+Connecting to idpl.oxfordjournals.org (idpl.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from idpl.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/idpl/article/6/4/310/2567746/How-the-best-laid-plans-go-awry-the-unsolved [following]
+--2017-02-02 22:56:15--  https://academic.oup.com/idpl/article/6/4/310/2567746/How-the-best-laid-plans-go-awry-the-unsolved
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 22:56:15 ERROR 400: Bad Request.
+
+--2017-02-02 22:56:16--  http://doi.org/10.1093/idpl/ipw021
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://idpl.oxfordjournals.org/lookup/doi/10.1093/idpl/ipw021 [following]
+--2017-02-02 22:56:17--  http://idpl.oxfordjournals.org/lookup/doi/10.1093/idpl/ipw021
+Connecting to idpl.oxfordjournals.org (idpl.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from idpl.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/idpl/article/6/4/261/2567747/Voter-databases-micro-targeting-and-data [following]
+--2017-02-02 22:56:19--  https://academic.oup.com/idpl/article/6/4/261/2567747/Voter-databases-micro-targeting-and-data
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 196516 (192K) [text/html]
+Saving to: ‘ipw021’
+
+     0K .......... .......... .......... .......... .......... 26%  208K 1s
+    50K .......... .......... .......... .......... .......... 52%  585K 0s
+   100K .......... .......... .......... .......... .......... 78%  612K 0s
+   150K .......... .......... .......... .......... .         100%  512K=0.5s
+
+2017-02-02 22:56:26 (392 KB/s) - ‘ipw021’ saved [196516/196516]
+
+--2017-02-02 22:56:27--  http://doi.org/10.1093/idpl/ipw022
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://idpl.oxfordjournals.org/lookup/doi/10.1093/idpl/ipw022 [following]
+--2017-02-02 22:56:28--  http://idpl.oxfordjournals.org/lookup/doi/10.1093/idpl/ipw022
+Connecting to idpl.oxfordjournals.org (idpl.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from idpl.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/idpl/article/6/4/259/2926179/The-language-of-data-privacy-law-and-how-it [following]
+--2017-02-02 22:56:29--  https://academic.oup.com/idpl/article/6/4/259/2926179/The-language-of-data-privacy-law-and-how-it
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 98737 (96K) [text/html]
+Saving to: ‘ipw022’
+
+     0K .......... .......... .......... .......... .......... 51%  209K 0s
+    50K .......... .......... .......... .......... ......    100%  569K=0.3s
+
+2017-02-02 22:56:40 (300 KB/s) - ‘ipw022’ saved [98737/98737]
+
+--2017-02-02 22:56:41--  http://doi.org/10.1093/idpl/ipw019
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://idpl.oxfordjournals.org/lookup/doi/10.1093/idpl/ipw019 [following]
+--2017-02-02 22:56:43--  http://idpl.oxfordjournals.org/lookup/doi/10.1093/idpl/ipw019
+Connecting to idpl.oxfordjournals.org (idpl.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from idpl.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/idpl/article/6/4/276/2571288/Do-Not-Track-initiatives-regaining-the-lost-user [following]
+--2017-02-02 22:56:44--  https://academic.oup.com/idpl/article/6/4/276/2571288/Do-Not-Track-initiatives-regaining-the-lost-user
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 191951 (187K) [text/html]
+Saving to: ‘ipw019’
+
+     0K .......... .......... .......... .......... .......... 26%  208K 1s
+    50K .......... .......... .......... .......... .......... 53%  595K 0s
+   100K .......... .......... .......... .......... .......... 80%  610K 0s
+   150K .......... .......... .......... .......              100%  463K=0.5s
+
+2017-02-02 22:56:48 (384 KB/s) - ‘ipw019’ saved [191951/191951]
+
+--2017-02-02 22:56:49--  http://doi.org/10.1093/idpl/ipw017
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://idpl.oxfordjournals.org/lookup/doi/10.1093/idpl/ipw017 [following]
+--2017-02-02 22:56:50--  http://idpl.oxfordjournals.org/lookup/doi/10.1093/idpl/ipw017
+Connecting to idpl.oxfordjournals.org (idpl.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from idpl.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/idpl/article/6/4/324/2525427/O-Lynskey-The-Foundations-of-EU-Data-Protection [following]
+--2017-02-02 22:56:52--  https://academic.oup.com/idpl/article/6/4/324/2525427/O-Lynskey-The-Foundations-of-EU-Data-Protection
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79473 (78K) [text/html]
+Saving to: ‘ipw017’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... .......                         100% 9.37M=0.2s
+
+2017-02-02 22:57:02 (321 KB/s) - ‘ipw017’ saved [79473/79473]
+
+--2017-02-02 22:57:03--  http://doi.org/10.1093/idpl/ipw012
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://idpl.oxfordjournals.org/lookup/doi/10.1093/idpl/ipw012 [following]
+--2017-02-02 22:57:04--  http://idpl.oxfordjournals.org/lookup/doi/10.1093/idpl/ipw012
+Connecting to idpl.oxfordjournals.org (idpl.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from idpl.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/idpl/article/6/4/299/2525426/Identifiability-and-the-applicability-of-data [following]
+--2017-02-02 22:57:05--  https://academic.oup.com/idpl/article/6/4/299/2525426/Identifiability-and-the-applicability-of-data
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 22:57:06 ERROR 400: Bad Request.
+
+--2017-02-02 22:57:07--  http://doi.org/10.1093/idpl/ipw013
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipw013 [following]
+--2017-02-02 22:57:08--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipw013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 169042 (165K) [text/html]
+Saving to: ‘ipw013’
+
+     0K .......... .......... .......... .......... .......... 30%  209K 1s
+    50K .......... .......... .......... .......... .......... 60%  607K 0s
+   100K .......... .......... .......... .......... .......... 90%  615K 0s
+   150K .......... .....                                      100%  373K=0.4s
+
+2017-02-02 22:57:20 (372 KB/s) - ‘ipw013’ saved [169042/169042]
+
+--2017-02-02 22:57:21--  http://doi.org/10.1093/idpl/ipw010
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipw010 [following]
+--2017-02-02 22:57:22--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipw010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 84123 (82K) [text/html]
+Saving to: ‘ipw010’
+
+     0K .......... .......... .......... .......... .......... 60%  206K 0s
+    50K .......... .......... .......... ..                   100% 11.0M=0.2s
+
+2017-02-02 22:57:29 (335 KB/s) - ‘ipw010’ saved [84123/84123]
+
+--2017-02-02 22:57:30--  http://doi.org/10.1093/idpl/ipw011
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipw011 [following]
+--2017-02-02 22:57:31--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipw011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 104771 (102K) [text/html]
+Saving to: ‘ipw011’
+
+     0K .......... .......... .......... .......... .......... 48%  209K 0s
+    50K .......... .......... .......... .......... .......... 97%  609K 0s
+   100K ..                                                    100% 4416G=0.3s
+
+2017-02-02 22:57:36 (318 KB/s) - ‘ipw011’ saved [104771/104771]
+
+--2017-02-02 22:57:37--  http://doi.org/10.1093/idpl/ipw018
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipw018 [following]
+--2017-02-02 22:57:38--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipw018
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 102936 (101K) [text/html]
+Saving to: ‘ipw018’
+
+     0K .......... .......... .......... .......... .......... 49%  308K 0s
+    50K .......... .......... .......... .......... .......... 99%  313K 0s
+   100K                                                       100%  998G=0.3s
+
+2017-02-02 22:57:48 (312 KB/s) - ‘ipw018’ saved [102936/102936]
+
+--2017-02-02 22:57:49--  http://doi.org/10.1093/idpl/ipw014
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipw014 [following]
+--2017-02-02 22:57:51--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipw014
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 182712 (178K) [text/html]
+Saving to: ‘ipw014’
+
+     0K .......... .......... .......... .......... .......... 28%  209K 1s
+    50K .......... .......... .......... .......... .......... 56%  604K 0s
+   100K .......... .......... .......... .......... .......... 84%  614K 0s
+   150K .......... .......... ........                        100%  354K=0.5s
+
+2017-02-02 22:57:57 (369 KB/s) - ‘ipw014’ saved [182712/182712]
+
+--2017-02-02 22:57:58--  http://doi.org/10.1093/idpl/ipw015
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipw015 [following]
+--2017-02-02 22:57:59--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipw015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 86931 (85K) [text/html]
+Saving to: ‘ipw015’
+
+     0K .......... .......... .......... .......... .......... 58%  208K 0s
+    50K .......... .......... .......... ....                 100% 11.5M=0.2s
+
+2017-02-02 22:58:03 (349 KB/s) - ‘ipw015’ saved [86931/86931]
+
+--2017-02-02 22:58:04--  http://doi.org/10.1093/idpl/ipw007
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipw007 [following]
+--2017-02-02 22:58:05--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipw007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 137142 (134K) [text/html]
+Saving to: ‘ipw007’
+
+     0K .......... .......... .......... .......... .......... 37%  209K 0s
+    50K .......... .......... .......... .......... .......... 74%  609K 0s
+   100K .......... .......... .......... ...                  100%  410K=0.4s
+
+2017-02-02 22:58:09 (331 KB/s) - ‘ipw007’ saved [137142/137142]
+
+--2017-02-02 22:58:10--  http://doi.org/10.1093/idpl/ipw008
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipw008 [following]
+--2017-02-02 22:58:11--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipw008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 176058 (172K) [text/html]
+Saving to: ‘ipw008’
+
+     0K .......... .......... .......... .......... .......... 29%  209K 1s
+    50K .......... .......... .......... .......... .......... 58%  603K 0s
+   100K .......... .......... .......... .......... .......... 87%  613K 0s
+   150K .......... .......... .                               100%  279K=0.5s
+
+2017-02-02 22:58:15 (356 KB/s) - ‘ipw008’ saved [176058/176058]
+
+--2017-02-02 22:58:16--  http://doi.org/10.1093/idpl/ipw004
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipw004 [following]
+--2017-02-02 22:58:17--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipw004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 309819 (303K) [text/html]
+Saving to: ‘ipw004’
+
+     0K .......... .......... .......... .......... .......... 16%  208K 1s
+    50K .......... .......... .......... .......... .......... 33%  613K 1s
+   100K .......... .......... .......... .......... .......... 49%  601K 0s
+   150K .......... .......... .......... .......... .......... 66%  604K 0s
+   200K .......... .......... .......... .......... .......... 82%  314K 0s
+   250K .......... .......... .......... .......... .......... 99%  608K 0s
+   300K ..                                                    100% 4878G=0.7s
+
+2017-02-02 22:58:49 (415 KB/s) - ‘ipw004’ saved [309819/309819]
+
+--2017-02-02 22:58:50--  http://doi.org/10.1093/idpl/ipw006
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipw006 [following]
+--2017-02-02 22:58:51--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipw006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76193 (74K) [text/html]
+Saving to: ‘ipw006’
+
+     0K .......... .......... .......... .......... .......... 67%  209K 0s
+    50K .......... .......... ....                            100% 10.4M=0.2s
+
+2017-02-02 22:58:55 (308 KB/s) - ‘ipw006’ saved [76193/76193]
+
+--2017-02-02 22:58:56--  http://doi.org/10.1093/idpl/ipw005
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipw005 [following]
+--2017-02-02 22:58:57--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipw005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 226009 (221K) [text/html]
+Saving to: ‘ipw005’
+
+     0K .......... .......... .......... .......... .......... 22%  309K 1s
+    50K .......... .......... .......... .......... .......... 45%  313K 0s
+   100K .......... .......... .......... .......... .......... 67%  614K 0s
+   150K .......... .......... .......... .......... .......... 90%  605K 0s
+   200K .......... ..........                                 100%  262K=0.6s
+
+2017-02-02 22:59:06 (391 KB/s) - ‘ipw005’ saved [226009/226009]
+
+--2017-02-02 22:59:07--  http://doi.org/10.1093/idpl/ipw009
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipw009 [following]
+--2017-02-02 22:59:08--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipw009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 243124 (237K) [text/html]
+Saving to: ‘ipw009’
+
+     0K .......... .......... .......... .......... .......... 21%  209K 1s
+    50K .......... .......... .......... .......... .......... 42%  609K 0s
+   100K .......... .......... .......... .......... .......... 63%  602K 0s
+   150K .......... .......... .......... .......... .......... 84%  320K 0s
+   200K .......... .......... .......... .......              100%  873K=0.6s
+
+2017-02-02 22:59:14 (393 KB/s) - ‘ipw009’ saved [243124/243124]
+
+--2017-02-02 22:59:15--  http://doi.org/10.1093/idpl/ipw003
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipw003 [following]
+--2017-02-02 22:59:16--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipw003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 284923 (278K) [text/html]
+Saving to: ‘ipw003’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 35%  616K 1s
+   100K .......... .......... .......... .......... .......... 53%  601K 0s
+   150K .......... .......... .......... .......... .......... 71%  319K 0s
+   200K .......... .......... .......... .......... .......... 89%  595K 0s
+   250K .......... .......... ........                        100% 9.24M=0.6s
+
+2017-02-02 22:59:21 (430 KB/s) - ‘ipw003’ saved [284923/284923]
+
+--2017-02-02 22:59:22--  http://doi.org/10.1093/idpl/ipw002
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipw002 [following]
+--2017-02-02 22:59:23--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipw002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 87482 (85K) [text/html]
+Saving to: ‘ipw002’
+
+     0K .......... .......... .......... .......... .......... 58%  209K 0s
+    50K .......... .......... .......... .....                100% 8.68M=0.2s
+
+2017-02-02 22:59:28 (351 KB/s) - ‘ipw002’ saved [87482/87482]
+
+--2017-02-02 22:59:29--  http://doi.org/10.1093/idpl/ipw001
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipw001 [following]
+--2017-02-02 22:59:31--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipw001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 93302 (91K) [text/html]
+Saving to: ‘ipw001’
+
+     0K .......... .......... .......... .......... .......... 54%  208K 0s
+    50K .......... .......... .......... .......... .         100% 12.0M=0.2s
+
+2017-02-02 22:59:35 (374 KB/s) - ‘ipw001’ saved [93302/93302]
+
+--2017-02-02 22:59:36--  http://doi.org/10.1093/idpl/ipv030
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv030 [following]
+--2017-02-02 22:59:38--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv030
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 195115 (191K) [text/html]
+Saving to: ‘ipv030’
+
+     0K .......... .......... .......... .......... .......... 26%  209K 1s
+    50K .......... .......... .......... .......... .......... 52%  613K 0s
+   100K .......... .......... .......... .......... .......... 78%  602K 0s
+   150K .......... .......... .......... ..........           100%  503K=0.5s
+
+2017-02-02 22:59:42 (393 KB/s) - ‘ipv030’ saved [195115/195115]
+
+--2017-02-02 22:59:43--  http://doi.org/10.1093/idpl/ipv029
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv029 [following]
+--2017-02-02 22:59:44--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv029
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 155196 (152K) [text/html]
+Saving to: ‘ipv029’
+
+     0K .......... .......... .......... .......... .......... 32%  208K 0s
+    50K .......... .......... .......... .......... .......... 65%  605K 0s
+   100K .......... .......... .......... .......... .......... 98%  608K 0s
+   150K .                                                     100% 12.4M=0.4s
+
+2017-02-02 22:59:49 (374 KB/s) - ‘ipv029’ saved [155196/155196]
+
+--2017-02-02 22:59:50--  http://doi.org/10.1093/idpl/ipv028
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv028 [following]
+--2017-02-02 22:59:51--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv028
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 160582 (157K) [text/html]
+Saving to: ‘ipv028’
+
+     0K .......... .......... .......... .......... .......... 31%  309K 0s
+    50K .......... .......... .......... .......... .......... 63%  312K 0s
+   100K .......... .......... .......... .......... .......... 95%  610K 0s
+   150K ......                                                100% 18.3M=0.4s
+
+2017-02-02 22:59:56 (388 KB/s) - ‘ipv028’ saved [160582/160582]
+
+--2017-02-02 22:59:57--  http://doi.org/10.1093/idpl/ipw024
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-02 22:59:58--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘ipw024’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-02 22:59:58 (1.20 MB/s) - ‘ipw024’ saved [52438/52438]
+
+--2017-02-02 22:59:59--  http://doi.org/10.1093/idpl/ipw025
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-02 23:00:00--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘ipw025’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-02 23:00:00 (1.32 MB/s) - ‘ipw025’ saved [52438/52438]
+
+--2017-02-02 23:00:01--  http://doi.org/10.1093/idpl/ipv027
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv027 [following]
+--2017-02-02 23:00:03--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv027
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 23:00:03 ERROR 400: Bad Request.
+
+--2017-02-02 23:00:04--  http://doi.org/10.1093/idpl/ipv026
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv026 [following]
+--2017-02-02 23:00:05--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv026
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 158856 (155K) [text/html]
+Saving to: ‘ipv026’
+
+     0K .......... .......... .......... .......... .......... 32%  207K 1s
+    50K .......... .......... .......... .......... .......... 64%  603K 0s
+   100K .......... .......... .......... .......... .......... 96%  601K 0s
+   150K .....                                                 100% 13.9M=0.4s
+
+2017-02-02 23:00:09 (381 KB/s) - ‘ipv026’ saved [158856/158856]
+
+--2017-02-02 23:00:10--  http://doi.org/10.1093/idpl/ipv022
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv022 [following]
+--2017-02-02 23:00:11--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv022
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 250590 (245K) [text/html]
+Saving to: ‘ipv022’
+
+     0K .......... .......... .......... .......... .......... 20%  206K 1s
+    50K .......... .......... .......... .......... .......... 40%  603K 0s
+   100K .......... .......... .......... .......... .......... 61%  611K 0s
+   150K .......... .......... .......... .......... .......... 81%  600K 0s
+   200K .......... .......... .......... .......... ....      100%  548K=0.6s
+
+2017-02-02 23:00:16 (427 KB/s) - ‘ipv022’ saved [250590/250590]
+
+--2017-02-02 23:00:17--  http://doi.org/10.1093/idpl/ipv019
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv019 [following]
+--2017-02-02 23:00:18--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 163575 (160K) [text/html]
+Saving to: ‘ipv019’
+
+     0K .......... .......... .......... .......... .......... 31%  309K 0s
+    50K .......... .......... .......... .......... .......... 62%  313K 0s
+   100K .......... .......... .......... .......... .......... 93%  608K 0s
+   150K .........                                             100% 7.95M=0.4s
+
+2017-02-02 23:00:22 (394 KB/s) - ‘ipv019’ saved [163575/163575]
+
+--2017-02-02 23:00:23--  http://doi.org/10.1093/idpl/ipv025
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv025 [following]
+--2017-02-02 23:00:24--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv025
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/idpl/article-lookup/doi/10.1093/idpl/ipv025 [following]
+--2017-02-02 23:00:28--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/idpl/article-lookup/doi/10.1093/idpl/ipv025
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 38897 (38K) [text/html]
+Saving to: ‘ipv025’
+
+     0K .......... .......... .......... .......              100%  237K=0.2s
+
+2017-02-02 23:00:29 (237 KB/s) - ‘ipv025’ saved [38897/38897]
+
+--2017-02-02 23:00:30--  http://doi.org/10.1093/idpl/ipv017
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv017 [following]
+--2017-02-02 23:00:31--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 23:00:33 ERROR 400: Bad Request.
+
+--2017-02-02 23:00:34--  http://doi.org/10.1093/idpl/ipv023
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv023 [following]
+--2017-02-02 23:00:35--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 151438 (148K) [text/html]
+Saving to: ‘ipv023’
+
+     0K .......... .......... .......... .......... .......... 33%  208K 0s
+    50K .......... .......... .......... .......... .......... 67%  597K 0s
+   100K .......... .......... .......... .......... .......   100%  554K=0.4s
+
+2017-02-02 23:00:40 (361 KB/s) - ‘ipv023’ saved [151438/151438]
+
+--2017-02-02 23:00:41--  http://doi.org/10.1093/idpl/ipv020
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv020 [following]
+--2017-02-02 23:00:42--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv020
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 204144 (199K) [text/html]
+Saving to: ‘ipv020’
+
+     0K .......... .......... .......... .......... .......... 25%  207K 1s
+    50K .......... .......... .......... .......... .......... 50%  606K 0s
+   100K .......... .......... .......... .......... .......... 75%  586K 0s
+   150K .......... .......... .......... .......... ......... 100%  316K=0.6s
+
+2017-02-02 23:00:47 (352 KB/s) - ‘ipv020’ saved [204144/204144]
+
+--2017-02-02 23:00:48--  http://doi.org/10.1093/idpl/ipv024
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv024 [following]
+--2017-02-02 23:00:49--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv024
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/idpl/article-lookup/doi/10.1093/idpl/ipv024 [following]
+--2017-02-02 23:00:57--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/idpl/article-lookup/doi/10.1093/idpl/ipv024
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 23945 (23K) [text/html]
+Saving to: ‘ipv024’
+
+     0K .......... .......... ...                             100%  121K=0.2s
+
+2017-02-02 23:00:59 (121 KB/s) - ‘ipv024’ saved [23945/23945]
+
+--2017-02-02 23:01:00--  http://doi.org/10.1093/idpl/ipv021
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv021 [following]
+--2017-02-02 23:01:01--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 157001 (153K) [text/html]
+Saving to: ‘ipv021’
+
+     0K .......... .......... .......... .......... .......... 32%  208K 0s
+    50K .......... .......... .......... .......... .......... 65%  608K 0s
+   100K .......... .......... .......... .......... .......... 97%  612K 0s
+   150K ...                                                   100% 14.8M=0.4s
+
+2017-02-02 23:01:07 (380 KB/s) - ‘ipv021’ saved [157001/157001]
+
+--2017-02-02 23:01:08--  http://doi.org/10.1093/idpl/ipv018
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv018 [following]
+--2017-02-02 23:01:09--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv018
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 151967 (148K) [text/html]
+Saving to: ‘ipv018’
+
+     0K .......... .......... .......... .......... .......... 33%  208K 0s
+    50K .......... .......... .......... .......... .......... 67%  605K 0s
+   100K .......... .......... .......... .......... ........  100%  592K=0.4s
+
+2017-02-02 23:01:13 (366 KB/s) - ‘ipv018’ saved [151967/151967]
+
+--2017-02-02 23:01:14--  http://doi.org/10.1093/idpl/ipv016
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv016 [following]
+--2017-02-02 23:01:15--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv016
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 176684 (173K) [text/html]
+Saving to: ‘ipv016’
+
+     0K .......... .......... .......... .......... .......... 28%  207K 1s
+    50K .......... .......... .......... .......... .......... 57%  609K 0s
+   100K .......... .......... .......... .......... .......... 86%  584K 0s
+   150K .......... .......... ..                              100%  300K=0.5s
+
+2017-02-02 23:01:20 (357 KB/s) - ‘ipv016’ saved [176684/176684]
+
+--2017-02-02 23:01:21--  http://doi.org/10.1093/idpl/ipv015
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv015 [following]
+--2017-02-02 23:01:22--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 163505 (160K) [text/html]
+Saving to: ‘ipv015’
+
+     0K .......... .......... .......... .......... .......... 31%  208K 1s
+    50K .......... .......... .......... .......... .......... 62%  608K 0s
+   100K .......... .......... .......... .......... .......... 93%  610K 0s
+   150K .........                                             100% 6.26M=0.4s
+
+2017-02-02 23:01:27 (393 KB/s) - ‘ipv015’ saved [163505/163505]
+
+--2017-02-02 23:01:28--  http://doi.org/10.1093/idpl/ipv013
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv013 [following]
+--2017-02-02 23:01:30--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 146258 (143K) [text/html]
+Saving to: ‘ipv013’
+
+     0K .......... .......... .......... .......... .......... 35%  310K 0s
+    50K .......... .......... .......... .......... .......... 70%  315K 0s
+   100K .......... .......... .......... .......... ..        100%  526K=0.4s
+
+2017-02-02 23:01:36 (356 KB/s) - ‘ipv013’ saved [146258/146258]
+
+--2017-02-02 23:01:37--  http://doi.org/10.1093/idpl/ipv014
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv014 [following]
+--2017-02-02 23:01:39--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv014
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 83989 (82K) [text/html]
+Saving to: ‘ipv014’
+
+     0K .......... .......... .......... .......... .......... 60%  309K 0s
+    50K .......... .......... .......... ..                   100%  397K=0.2s
+
+2017-02-02 23:01:44 (338 KB/s) - ‘ipv014’ saved [83989/83989]
+
+--2017-02-02 23:01:45--  http://doi.org/10.1093/idpl/ipv012
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv012 [following]
+--2017-02-02 23:01:46--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 81333 (79K) [text/html]
+Saving to: ‘ipv012’
+
+     0K .......... .......... .......... .......... .......... 62%  208K 0s
+    50K .......... .......... .........                       100% 13.0M=0.2s
+
+2017-02-02 23:01:52 (328 KB/s) - ‘ipv012’ saved [81333/81333]
+
+--2017-02-02 23:01:53--  http://doi.org/10.1093/idpl/ipv009
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv009 [following]
+--2017-02-02 23:01:54--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 167363 (163K) [text/html]
+Saving to: ‘ipv009’
+
+     0K .......... .......... .......... .......... .......... 30%  209K 1s
+    50K .......... .......... .......... .......... .......... 61%  606K 0s
+   100K .......... .......... .......... .......... .......... 91%  615K 0s
+   150K .......... ...                                        100%  360K=0.4s
+
+2017-02-02 23:01:58 (371 KB/s) - ‘ipv009’ saved [167363/167363]
+
+--2017-02-02 23:01:59--  http://doi.org/10.1093/idpl/ipv011
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv011 [following]
+--2017-02-02 23:02:00--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 187492 (183K) [text/html]
+Saving to: ‘ipv011’
+
+     0K .......... .......... .......... .......... .......... 27%  208K 1s
+    50K .......... .......... .......... .......... .......... 54%  587K 0s
+   100K .......... .......... .......... .......... .......... 81%  603K 0s
+   150K .......... .......... .......... ...                  100%  414K=0.5s
+
+2017-02-02 23:02:10 (375 KB/s) - ‘ipv011’ saved [187492/187492]
+
+--2017-02-02 23:02:11--  http://doi.org/10.1093/idpl/ipv008
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv008 [following]
+--2017-02-02 23:02:12--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 166623 (163K) [text/html]
+Saving to: ‘ipv008’
+
+     0K .......... .......... .......... .......... .......... 30%  209K 1s
+    50K .......... .......... .......... .......... .......... 61%  611K 0s
+   100K .......... .......... .......... .......... .......... 92%  600K 0s
+   150K .......... ..                                         100% 14.9M=0.4s
+
+2017-02-02 23:02:18 (401 KB/s) - ‘ipv008’ saved [166623/166623]
+
+--2017-02-02 23:02:19--  http://doi.org/10.1093/idpl/ipv010
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv010 [following]
+--2017-02-02 23:02:20--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 23:02:20 ERROR 400: Bad Request.
+
+--2017-02-02 23:02:21--  http://doi.org/10.1093/idpl/ipv005
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv005 [following]
+--2017-02-02 23:02:23--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 100773 (98K) [text/html]
+Saving to: ‘ipv005’
+
+     0K .......... .......... .......... .......... .......... 50%  209K 0s
+    50K .......... .......... .......... .......... ........  100%  589K=0.3s
+
+2017-02-02 23:02:27 (306 KB/s) - ‘ipv005’ saved [100773/100773]
+
+--2017-02-02 23:02:28--  http://doi.org/10.1093/idpl/ipv006
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv006 [following]
+--2017-02-02 23:02:29--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 164949 (161K) [text/html]
+Saving to: ‘ipv006’
+
+     0K .......... .......... .......... .......... .......... 31%  209K 1s
+    50K .......... .......... .......... .......... .......... 62%  605K 0s
+   100K .......... .......... .......... .......... .......... 93%  607K 0s
+   150K .......... .                                          100% 10.7M=0.4s
+
+2017-02-02 23:02:39 (397 KB/s) - ‘ipv006’ saved [164949/164949]
+
+--2017-02-02 23:02:40--  http://doi.org/10.1093/idpl/ipv003
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv003 [following]
+--2017-02-02 23:02:41--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 211851 (207K) [text/html]
+Saving to: ‘ipv003’
+
+     0K .......... .......... .......... .......... .......... 24%  209K 1s
+    50K .......... .......... .......... .......... .......... 48%  612K 0s
+   100K .......... .......... .......... .......... .......... 72%  597K 0s
+   150K .......... .......... .......... .......... .......... 96%  320K 0s
+   200K ......                                                100% 8.55M=0.6s
+
+2017-02-02 23:02:48 (368 KB/s) - ‘ipv003’ saved [211851/211851]
+
+--2017-02-02 23:02:49--  http://doi.org/10.1093/idpl/ipv004
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv004 [following]
+--2017-02-02 23:02:50--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 129463 (126K) [text/html]
+Saving to: ‘ipv004’
+
+     0K .......... .......... .......... .......... .......... 39%  208K 0s
+    50K .......... .......... .......... .......... .......... 79%  606K 0s
+   100K .......... .......... ......                          100% 10.1M=0.3s
+
+2017-02-02 23:02:57 (389 KB/s) - ‘ipv004’ saved [129463/129463]
+
+--2017-02-02 23:02:58--  http://doi.org/10.1093/idpl/ipv002
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv002 [following]
+--2017-02-02 23:03:00--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75420 (74K) [text/html]
+Saving to: ‘ipv002’
+
+     0K .......... .......... .......... .......... .......... 67%  209K 0s
+    50K .......... .......... ...                             100% 8.13M=0.2s
+
+2017-02-02 23:03:05 (304 KB/s) - ‘ipv002’ saved [75420/75420]
+
+--2017-02-02 23:03:06--  http://doi.org/10.1093/idpl/ipv001
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv001 [following]
+--2017-02-02 23:03:07--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipv001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 171781 (168K) [text/html]
+Saving to: ‘ipv001’
+
+     0K .......... .......... .......... .......... .......... 29%  309K 0s
+    50K .......... .......... .......... .......... .......... 59%  311K 0s
+   100K .......... .......... .......... .......... .......... 89%  597K 0s
+   150K .......... .......                                    100%  229K=0.5s
+
+2017-02-02 23:03:11 (346 KB/s) - ‘ipv001’ saved [171781/171781]
+
+--2017-02-02 23:03:12--  http://doi.org/10.1093/idpl/ipu036
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu036 [following]
+--2017-02-02 23:03:13--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu036
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 162325 (159K) [text/html]
+Saving to: ‘ipu036’
+
+     0K .......... .......... .......... .......... .......... 31%  309K 0s
+    50K .......... .......... .......... .......... .......... 63%  313K 0s
+   100K .......... .......... .......... .......... .......... 94%  602K 0s
+   150K ........                                              100% 42.4M=0.4s
+
+2017-02-02 23:03:22 (392 KB/s) - ‘ipu036’ saved [162325/162325]
+
+--2017-02-02 23:03:23--  http://doi.org/10.1093/idpl/ipu035
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu035 [following]
+--2017-02-02 23:03:24--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu035
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 217337 (212K) [text/html]
+Saving to: ‘ipu035’
+
+     0K .......... .......... .......... .......... .......... 23%  209K 1s
+    50K .......... .......... .......... .......... .......... 47%  608K 0s
+   100K .......... .......... .......... .......... .......... 70%  604K 0s
+   150K .......... .......... .......... .......... .......... 94%  605K 0s
+   200K .......... ..                                         100%  156K=0.6s
+
+2017-02-02 23:03:29 (375 KB/s) - ‘ipu035’ saved [217337/217337]
+
+--2017-02-02 23:03:30--  http://doi.org/10.1093/idpl/ipu032
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu032 [following]
+--2017-02-02 23:03:31--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu032
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 84612 (83K) [text/html]
+Saving to: ‘ipu032’
+
+     0K .......... .......... .......... .......... .......... 60%  209K 0s
+    50K .......... .......... .......... ..                   100% 11.0M=0.2s
+
+2017-02-02 23:03:35 (341 KB/s) - ‘ipu032’ saved [84612/84612]
+
+--2017-02-02 23:03:36--  http://doi.org/10.1093/idpl/ipu034
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu034 [following]
+--2017-02-02 23:03:37--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu034
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 91011 (89K) [text/html]
+Saving to: ‘ipu034’
+
+     0K .......... .......... .......... .......... .......... 56%  208K 0s
+    50K .......... .......... .......... ........             100% 11.8M=0.2s
+
+2017-02-02 23:03:41 (366 KB/s) - ‘ipu034’ saved [91011/91011]
+
+--2017-02-02 23:03:42--  http://doi.org/10.1093/idpl/ipu033
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu033 [following]
+--2017-02-02 23:03:43--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu033
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 183607 (179K) [text/html]
+Saving to: ‘ipu033’
+
+     0K .......... .......... .......... .......... .......... 27%  310K 0s
+    50K .......... .......... .......... .......... .......... 55%  311K 0s
+   100K .......... .......... .......... .......... .......... 83%  605K 0s
+   150K .......... .......... .........                       100%  370K=0.5s
+
+2017-02-02 23:03:52 (370 KB/s) - ‘ipu033’ saved [183607/183607]
+
+--2017-02-02 23:03:53--  http://doi.org/10.1093/idpl/ipu030
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu030 [following]
+--2017-02-02 23:03:54--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu030
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 23:03:54 ERROR 400: Bad Request.
+
+--2017-02-02 23:03:55--  http://doi.org/10.1093/idpl/ipu031
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu031 [following]
+--2017-02-02 23:03:57--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu031
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 87857 (86K) [text/html]
+Saving to: ‘ipu031’
+
+     0K .......... .......... .......... .......... .......... 58%  208K 0s
+    50K .......... .......... .......... .....                100% 11.5M=0.2s
+
+2017-02-02 23:04:00 (353 KB/s) - ‘ipu031’ saved [87857/87857]
+
+--2017-02-02 23:04:01--  http://doi.org/10.1093/idpl/ipu028
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu028 [following]
+--2017-02-02 23:04:02--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu028
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 134316 (131K) [text/html]
+Saving to: ‘ipu028’
+
+     0K .......... .......... .......... .......... .......... 38%  209K 0s
+    50K .......... .......... .......... .......... .......... 76%  600K 0s
+   100K .......... .......... .......... .                    100%  403K=0.4s
+
+2017-02-02 23:04:05 (328 KB/s) - ‘ipu028’ saved [134316/134316]
+
+--2017-02-02 23:04:06--  http://doi.org/10.1093/idpl/ipu029
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu029 [following]
+--2017-02-02 23:04:07--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu029
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 183908 (180K) [text/html]
+Saving to: ‘ipu029’
+
+     0K .......... .......... .......... .......... .......... 27%  308K 0s
+    50K .......... .......... .......... .......... .......... 55%  316K 0s
+   100K .......... .......... .......... .......... .......... 83%  598K 0s
+   150K .......... .......... .........                       100%  370K=0.5s
+
+2017-02-02 23:04:12 (371 KB/s) - ‘ipu029’ saved [183908/183908]
+
+--2017-02-02 23:04:13--  http://doi.org/10.1093/idpl/ipu027
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu027 [following]
+--2017-02-02 23:04:14--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu027
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 159079 (155K) [text/html]
+Saving to: ‘ipu027’
+
+     0K .......... .......... .......... .......... .......... 32%  209K 1s
+    50K .......... .......... .......... .......... .......... 64%  598K 0s
+   100K .......... .......... .......... .......... .......... 96%  585K 0s
+   150K .....                                                 100% 10205G=0.4s
+
+2017-02-02 23:04:19 (381 KB/s) - ‘ipu027’ saved [159079/159079]
+
+--2017-02-02 23:04:20--  http://doi.org/10.1093/idpl/ipu025
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu025 [following]
+--2017-02-02 23:04:21--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu025
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 85250 (83K) [text/html]
+Saving to: ‘ipu025’
+
+     0K .......... .......... .......... .......... .......... 60%  209K 0s
+    50K .......... .......... .......... ...                  100% 11.2M=0.2s
+
+2017-02-02 23:04:25 (343 KB/s) - ‘ipu025’ saved [85250/85250]
+
+--2017-02-02 23:04:26--  http://doi.org/10.1093/idpl/ipu024
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu024 [following]
+--2017-02-02 23:04:27--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu024
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 116101 (113K) [text/html]
+Saving to: ‘ipu024’
+
+     0K .......... .......... .......... .......... .......... 44%  209K 0s
+    50K .......... .......... .......... .......... .......... 88%  605K 0s
+   100K .......... ...                                        100% 27.8M=0.3s
+
+2017-02-02 23:04:31 (352 KB/s) - ‘ipu024’ saved [116101/116101]
+
+--2017-02-02 23:04:32--  http://doi.org/10.1093/idpl/ipu026
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu026 [following]
+--2017-02-02 23:04:33--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu026
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 99065 (97K) [text/html]
+Saving to: ‘ipu026’
+
+     0K .......... .......... .......... .......... .......... 51%  208K 0s
+    50K .......... .......... .......... .......... ......    100%  575K=0.3s
+
+2017-02-02 23:04:39 (300 KB/s) - ‘ipu026’ saved [99065/99065]
+
+--2017-02-02 23:04:40--  http://doi.org/10.1093/idpl/ipu023
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu023 [following]
+--2017-02-02 23:04:42--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 148049 (145K) [text/html]
+Saving to: ‘ipu023’
+
+     0K .......... .......... .......... .......... .......... 34%  208K 0s
+    50K .......... .......... .......... .......... .......... 69%  593K 0s
+   100K .......... .......... .......... .......... ....      100%  552K=0.4s
+
+2017-02-02 23:04:45 (357 KB/s) - ‘ipu023’ saved [148049/148049]
+
+--2017-02-02 23:04:46--  http://doi.org/10.1093/idpl/ipu019
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu019 [following]
+--2017-02-02 23:04:48--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 131705 (129K) [text/html]
+Saving to: ‘ipu019’
+
+     0K .......... .......... .......... .......... .......... 38%  209K 0s
+    50K .......... .......... .......... .......... .......... 77%  602K 0s
+   100K .......... .......... ........                        100% 11.0M=0.3s
+
+2017-02-02 23:04:51 (396 KB/s) - ‘ipu019’ saved [131705/131705]
+
+--2017-02-02 23:04:52--  http://doi.org/10.1093/idpl/ipu022
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu022 [following]
+--2017-02-02 23:04:54--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu022
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 23:04:54 ERROR 400: Bad Request.
+
+--2017-02-02 23:04:55--  http://doi.org/10.1093/idpl/ipu020
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu020 [following]
+--2017-02-02 23:04:56--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu020
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 125056 (122K) [text/html]
+Saving to: ‘ipu020’
+
+     0K .......... .......... .......... .......... .......... 40%  209K 0s
+    50K .......... .......... .......... .......... .......... 81%  609K 0s
+   100K .......... .......... ..                              100% 5.08M=0.3s
+
+2017-02-02 23:05:02 (375 KB/s) - ‘ipu020’ saved [125056/125056]
+
+--2017-02-02 23:05:03--  http://doi.org/10.1093/idpl/ipu021
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu021 [following]
+--2017-02-02 23:05:05--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 67319 (66K) [text/html]
+Saving to: ‘ipu021’
+
+     0K .......... .......... .......... .......... .......... 76%  208K 0s
+    50K .......... .....                                      100% 13.7M=0.2s
+
+2017-02-02 23:05:19 (272 KB/s) - ‘ipu021’ saved [67319/67319]
+
+--2017-02-02 23:05:20--  http://doi.org/10.1093/idpl/ipu018
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu018 [following]
+--2017-02-02 23:05:21--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu018
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 112348 (110K) [text/html]
+Saving to: ‘ipu018’
+
+     0K .......... .......... .......... .......... .......... 45%  208K 0s
+    50K .......... .......... .......... .......... .......... 91%  611K 0s
+   100K .........                                             100% 17.4M=0.3s
+
+2017-02-02 23:05:24 (340 KB/s) - ‘ipu018’ saved [112348/112348]
+
+--2017-02-02 23:05:25--  http://doi.org/10.1093/idpl/ipu017
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu017 [following]
+--2017-02-02 23:05:26--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 23:05:27 ERROR 400: Bad Request.
+
+--2017-02-02 23:05:28--  http://doi.org/10.1093/idpl/ipu014
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu014 [following]
+--2017-02-02 23:05:29--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu014
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 23:05:30 ERROR 400: Bad Request.
+
+--2017-02-02 23:05:31--  http://doi.org/10.1093/idpl/ipu016
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu016 [following]
+--2017-02-02 23:05:32--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu016
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 173873 (170K) [text/html]
+Saving to: ‘ipu016’
+
+     0K .......... .......... .......... .......... .......... 29%  208K 1s
+    50K .......... .......... .......... .......... .......... 58%  584K 0s
+   100K .......... .......... .......... .......... .......... 88%  611K 0s
+   150K .......... .........                                  100%  258K=0.5s
+
+2017-02-02 23:05:36 (350 KB/s) - ‘ipu016’ saved [173873/173873]
+
+--2017-02-02 23:05:37--  http://doi.org/10.1093/idpl/ipu015
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu015 [following]
+--2017-02-02 23:05:38--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 199074 (194K) [text/html]
+Saving to: ‘ipu015’
+
+     0K .......... .......... .......... .......... .......... 25%  209K 1s
+    50K .......... .......... .......... .......... .......... 51%  582K 0s
+   100K .......... .......... .......... .......... .......... 77%  611K 0s
+   150K .......... .......... .......... .......... ....      100%  542K=0.5s
+
+2017-02-02 23:05:47 (398 KB/s) - ‘ipu015’ saved [199074/199074]
+
+--2017-02-02 23:05:48--  http://doi.org/10.1093/idpl/ipu011
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu011 [following]
+--2017-02-02 23:05:50--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 152911 (149K) [text/html]
+Saving to: ‘ipu011’
+
+     0K .......... .......... .......... .......... .......... 33%  209K 0s
+    50K .......... .......... .......... .......... .......... 66%  605K 0s
+   100K .......... .......... .......... .......... ......... 100%  604K=0.4s
+
+2017-02-02 23:05:53 (370 KB/s) - ‘ipu011’ saved [152911/152911]
+
+--2017-02-02 23:05:54--  http://doi.org/10.1093/idpl/ipu013
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu013 [following]
+--2017-02-02 23:05:55--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 97240 (95K) [text/html]
+Saving to: ‘ipu013’
+
+     0K .......... .......... .......... .......... .......... 52%  208K 0s
+    50K .......... .......... .......... .......... ....      100%  550K=0.3s
+
+2017-02-02 23:06:00 (295 KB/s) - ‘ipu013’ saved [97240/97240]
+
+--2017-02-02 23:06:01--  http://doi.org/10.1093/idpl/ipu012
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu012 [following]
+--2017-02-02 23:06:03--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 92383 (90K) [text/html]
+Saving to: ‘ipu012’
+
+     0K .......... .......... .......... .......... .......... 55%  209K 0s
+    50K .......... .......... .......... ..........           100% 11.9M=0.2s
+
+2017-02-02 23:06:05 (372 KB/s) - ‘ipu012’ saved [92383/92383]
+
+--2017-02-02 23:06:06--  http://doi.org/10.1093/idpl/ipu008
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu008 [following]
+--2017-02-02 23:06:07--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 177602 (173K) [text/html]
+Saving to: ‘ipu008’
+
+     0K .......... .......... .......... .......... .......... 28%  209K 1s
+    50K .......... .......... .......... .......... .......... 57%  606K 0s
+   100K .......... .......... .......... .......... .......... 86%  604K 0s
+   150K .......... .......... ...                             100%  296K=0.5s
+
+2017-02-02 23:06:10 (359 KB/s) - ‘ipu008’ saved [177602/177602]
+
+--2017-02-02 23:06:11--  http://doi.org/10.1093/idpl/ipu006
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu006 [following]
+--2017-02-02 23:06:12--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 23:06:13 ERROR 400: Bad Request.
+
+--2017-02-02 23:06:14--  http://doi.org/10.1093/idpl/ipu005
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu005 [following]
+--2017-02-02 23:06:15--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 224883 (220K) [text/html]
+Saving to: ‘ipu005’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 45%  606K 0s
+   100K .......... .......... .......... .......... .......... 68%  612K 0s
+   150K .......... .......... .......... .......... .......... 91%  304K 0s
+   200K .......... .........                                  100% 11.4M=0.6s
+
+2017-02-02 23:06:19 (386 KB/s) - ‘ipu005’ saved [224883/224883]
+
+--2017-02-02 23:06:20--  http://doi.org/10.1093/idpl/ipu003
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu003 [following]
+--2017-02-02 23:06:21--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 80196 (78K) [text/html]
+Saving to: ‘ipu003’
+
+     0K .......... .......... .......... .......... .......... 63%  207K 0s
+    50K .......... .......... ........                        100% 12.4M=0.2s
+
+2017-02-02 23:06:25 (322 KB/s) - ‘ipu003’ saved [80196/80196]
+
+--2017-02-02 23:06:26--  http://doi.org/10.1093/idpl/ipu002
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu002 [following]
+--2017-02-02 23:06:28--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 128854 (126K) [text/html]
+Saving to: ‘ipu002’
+
+     0K .......... .......... .......... .......... .......... 39%  208K 0s
+    50K .......... .......... .......... .......... .......... 79%  603K 0s
+   100K .......... .......... .....                           100% 10.9M=0.3s
+
+2017-02-02 23:06:37 (386 KB/s) - ‘ipu002’ saved [128854/128854]
+
+--2017-02-02 23:06:38--  http://doi.org/10.1093/idpl/ipu009
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu009 [following]
+--2017-02-02 23:06:39--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 92508 (90K) [text/html]
+Saving to: ‘ipu009’
+
+     0K .......... .......... .......... .......... .......... 55%  207K 0s
+    50K .......... .......... .......... ..........           100%  502K=0.3s
+
+2017-02-02 23:06:42 (281 KB/s) - ‘ipu009’ saved [92508/92508]
+
+--2017-02-02 23:06:43--  http://doi.org/10.1093/idpl/ipu004
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu004 [following]
+--2017-02-02 23:06:44--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 253172 (247K) [text/html]
+Saving to: ‘ipu004’
+
+     0K .......... .......... .......... .......... .......... 20%  207K 1s
+    50K .......... .......... .......... .......... .......... 40%  606K 0s
+   100K .......... .......... .......... .......... .......... 60%  608K 0s
+   150K .......... .......... .......... .......... .......... 80%  603K 0s
+   200K .......... .......... .......... .......... .......   100%  299K=0.6s
+
+2017-02-02 23:06:48 (382 KB/s) - ‘ipu004’ saved [253172/253172]
+
+--2017-02-02 23:06:49--  http://doi.org/10.1093/idpl/ipu007
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu007 [following]
+--2017-02-02 23:06:51--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 186873 (182K) [text/html]
+Saving to: ‘ipu007’
+
+     0K .......... .......... .......... .......... .......... 27%  309K 0s
+    50K .......... .......... .......... .......... .......... 54%  308K 0s
+   100K .......... .......... .......... .......... .......... 82%  604K 0s
+   150K .......... .......... .......... ..                   100%  409K=0.5s
+
+2017-02-02 23:06:54 (375 KB/s) - ‘ipu007’ saved [186873/186873]
+
+--2017-02-02 23:06:55--  http://doi.org/10.1093/idpl/ipu001
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu001 [following]
+--2017-02-02 23:06:56--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 193118 (189K) [text/html]
+Saving to: ‘ipu001’
+
+     0K .......... .......... .......... .......... .......... 26%  208K 1s
+    50K .......... .......... .......... .......... .......... 53%  603K 0s
+   100K .......... .......... .......... .......... .......... 79%  612K 0s
+   150K .......... .......... .......... ........             100%  475K=0.5s
+
+2017-02-02 23:07:00 (388 KB/s) - ‘ipu001’ saved [193118/193118]
+
+--2017-02-02 23:07:01--  http://doi.org/10.1093/idpl/ipu010
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu010 [following]
+--2017-02-02 23:07:02--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipu010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 23:07:03 ERROR 400: Bad Request.
+
+--2017-02-02 23:07:04--  http://doi.org/10.1093/idpl/ipt028
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipt028 [following]
+--2017-02-02 23:07:05--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipt028
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 137816 (135K) [text/html]
+Saving to: ‘ipt028’
+
+     0K .......... .......... .......... .......... .......... 37%  206K 0s
+    50K .......... .......... .......... .......... .......... 74%  606K 0s
+   100K .......... .......... .......... ....                 100%  425K=0.4s
+
+2017-02-02 23:07:15 (331 KB/s) - ‘ipt028’ saved [137816/137816]
+
+--2017-02-02 23:07:16--  http://doi.org/10.1093/idpl/ipt030
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipt030 [following]
+--2017-02-02 23:07:17--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipt030
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 140889 (138K) [text/html]
+Saving to: ‘ipt030’
+
+     0K .......... .......... .......... .......... .......... 36%  209K 0s
+    50K .......... .......... .......... .......... .......... 72%  602K 0s
+   100K .......... .......... .......... .......              100%  468K=0.4s
+
+2017-02-02 23:07:21 (342 KB/s) - ‘ipt030’ saved [140889/140889]
+
+--2017-02-02 23:07:22--  http://doi.org/10.1093/idpl/ipt033
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipt033 [following]
+--2017-02-02 23:07:23--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipt033
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 130022 (127K) [text/html]
+Saving to: ‘ipt033’
+
+     0K .......... .......... .......... .......... .......... 39%  307K 0s
+    50K .......... .......... .......... .......... .......... 78%  307K 0s
+   100K .......... .......... ......                          100% 5.06M=0.3s
+
+2017-02-02 23:07:26 (384 KB/s) - ‘ipt033’ saved [130022/130022]
+
+--2017-02-02 23:07:27--  http://doi.org/10.1093/idpl/ipt037
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipt037 [following]
+--2017-02-02 23:07:28--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipt037
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 23:07:29 ERROR 400: Bad Request.
+
+--2017-02-02 23:07:30--  http://doi.org/10.1093/idpl/ipt034
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipt034 [following]
+--2017-02-02 23:07:31--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipt034
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 169557 (166K) [text/html]
+Saving to: ‘ipt034’
+
+     0K .......... .......... .......... .......... .......... 30%  208K 1s
+    50K .......... .......... .......... .......... .......... 60%  611K 0s
+   100K .......... .......... .......... .......... .......... 90%  604K 0s
+   150K .......... .....                                      100% 9.44M=0.4s
+
+2017-02-02 23:07:40 (408 KB/s) - ‘ipt034’ saved [169557/169557]
+
+--2017-02-02 23:07:41--  http://doi.org/10.1093/idpl/ipt039
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipt039 [following]
+--2017-02-02 23:07:42--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipt039
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 87749 (86K) [text/html]
+Saving to: ‘ipt039’
+
+     0K .......... .......... .......... .......... .......... 58%  208K 0s
+    50K .......... .......... .......... .....                100% 8.58M=0.2s
+
+2017-02-02 23:07:45 (351 KB/s) - ‘ipt039’ saved [87749/87749]
+
+--2017-02-02 23:07:46--  http://doi.org/10.1093/idpl/ipt029
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipt029 [following]
+--2017-02-02 23:07:47--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipt029
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 132045 (129K) [text/html]
+Saving to: ‘ipt029’
+
+     0K .......... .......... .......... .......... .......... 38%  208K 0s
+    50K .......... .......... .......... .......... .......... 77%  606K 0s
+   100K .......... .......... ........                        100%  369K=0.4s
+
+2017-02-02 23:07:52 (321 KB/s) - ‘ipt029’ saved [132045/132045]
+
+--2017-02-02 23:07:53--  http://doi.org/10.1093/idpl/ipt031
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipt031 [following]
+--2017-02-02 23:07:54--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipt031
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 161614 (158K) [text/html]
+Saving to: ‘ipt031’
+
+     0K .......... .......... .......... .......... .......... 31%  208K 1s
+    50K .......... .......... .......... .......... .......... 63%  595K 0s
+   100K .......... .......... .......... .......... .......... 95%  605K 0s
+   150K .......                                               100% 69.0M=0.4s
+
+2017-02-02 23:08:04 (387 KB/s) - ‘ipt031’ saved [161614/161614]
+
+--2017-02-02 23:08:05--  http://doi.org/10.1093/idpl/ipt032
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipt032 [following]
+--2017-02-02 23:08:06--  https://academic.oup.com/idpl/article-lookup/doi/10.1093/idpl/ipt032
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 192889 (188K) [text/html]
+Saving to: ‘ipt032’
+
+     0K .......... .......... .......... .......... .......... 26%  208K 1s
+    50K .......... .......... .......... .......... .......... 53%  608K 0s
+   100K .......... .......... .......... .......... .......... 79%  589K 0s
+   150K .......... .......... .......... ........             100%  471K=0.5s
+
+2017-02-02 23:08:10 (385 KB/s) - ‘ipt032’ saved [192889/192889]
+
+FINISHED --2017-02-02 23:08:10--
+Total wall clock time: 12m 19s
+Downloaded: 88 files, 12M in 33s (368 KB/s)

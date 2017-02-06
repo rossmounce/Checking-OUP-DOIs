@@ -1,0 +1,1595 @@
+--2017-02-02 17:33:32--  http://doi.org/10.1093/adaptation/apx003
+Resolving doi.org (doi.org)... 38.100.138.163, 95.138.171.129, 54.191.229.235, ...
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-02 17:33:33--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Resolving fdslive.oup.com (fdslive.oup.com)... 193.67.160.201
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘apx003’
+
+     0K .......... .......... .......... .......... .......... 97% 1.16M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-02 17:33:33 (1.19 MB/s) - ‘apx003’ saved [52438/52438]
+
+--2017-02-02 17:33:34--  http://doi.org/10.1093/adaptation/apx002
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-02 17:33:36--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘apx002’
+
+     0K .......... .......... .......... .......... .......... 97% 1.27M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-02 17:33:36 (1.30 MB/s) - ‘apx002’ saved [52438/52438]
+
+--2017-02-02 17:33:37--  http://doi.org/10.1093/adaptation/apx001
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-02 17:33:38--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘apx001’
+
+     0K .......... .......... .......... .......... .......... 97% 1.16M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-02 17:33:38 (1.19 MB/s) - ‘apx001’ saved [52438/52438]
+
+--2017-02-02 17:33:39--  http://doi.org/10.1093/adaptation/apw042
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://adaptation.oxfordjournals.org/lookup/doi/10.1093/adaptation/apw042 [following]
+--2017-02-02 17:33:40--  http://adaptation.oxfordjournals.org/lookup/doi/10.1093/adaptation/apw042
+Resolving adaptation.oxfordjournals.org (adaptation.oxfordjournals.org)... 209.135.222.209
+Connecting to adaptation.oxfordjournals.org (adaptation.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from adaptation.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/adaptation/article/doi/10.1093/adaptation/apw042/2755820/The-Wild-Palms-in-a-New-Wave-Adaptive-Gleaning-and [following]
+--2017-02-02 17:33:41--  https://academic.oup.com/adaptation/article/doi/10.1093/adaptation/apw042/2755820/The-Wild-Palms-in-a-New-Wave-Adaptive-Gleaning-and
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 205168 (200K) [text/html]
+Saving to: ‘apw042’
+
+     0K .......... .......... .......... .......... .......... 24%  209K 1s
+    50K .......... .......... .......... .......... .......... 49%  609K 0s
+   100K .......... .......... .......... .......... .......... 74%  609K 0s
+   150K .......... .......... .......... .......... .......... 99%  598K 0s
+   200K                                                       100%  685G=0.5s
+
+2017-02-02 17:33:45 (412 KB/s) - ‘apw042’ saved [205168/205168]
+
+--2017-02-02 17:33:46--  http://doi.org/10.1093/adaptation/apw021
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article/9/3/NP/2572076/Subscriptions [following]
+--2017-02-02 17:33:47--  https://academic.oup.com/adaptation/article/9/3/NP/2572076/Subscriptions
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63703 (62K) [text/html]
+Saving to: ‘apw021’
+
+     0K .......... .......... .......... .......... .......... 80%  209K 0s
+    50K .......... ..                                         100% 14.0M=0.2s
+
+2017-02-02 17:33:50 (259 KB/s) - ‘apw021’ saved [63703/63703]
+
+--2017-02-02 17:33:51--  http://doi.org/10.1093/adaptation/apw020
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article/9/3/NP/2572075/InstructionstoAuthors [following]
+--2017-02-02 17:33:53--  https://academic.oup.com/adaptation/article/9/3/NP/2572075/InstructionstoAuthors
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63839 (62K) [text/html]
+Saving to: ‘apw020’
+
+     0K .......... .......... .......... .......... .......... 80%  209K 0s
+    50K .......... ..                                         100% 22.8M=0.2s
+
+2017-02-02 17:33:56 (260 KB/s) - ‘apw020’ saved [63839/63839]
+
+--2017-02-02 17:33:57--  http://doi.org/10.1093/adaptation/apw017
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article/9/3/NP/2572072/BackCover [following]
+--2017-02-02 17:33:58--  https://academic.oup.com/adaptation/article/9/3/NP/2572072/BackCover
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63647 (62K) [text/html]
+Saving to: ‘apw017’
+
+     0K .......... .......... .......... .......... .......... 80%  209K 0s
+    50K .......... ..                                         100% 23.7M=0.2s
+
+2017-02-02 17:34:01 (259 KB/s) - ‘apw017’ saved [63647/63647]
+
+--2017-02-02 17:34:02--  http://doi.org/10.1093/adaptation/apw019
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article/9/3/NP/2572074/FrontCover [following]
+--2017-02-02 17:34:03--  https://academic.oup.com/adaptation/article/9/3/NP/2572074/FrontCover
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63662 (62K) [text/html]
+Saving to: ‘apw019’
+
+     0K .......... .......... .......... .......... .......... 80%  209K 0s
+    50K .......... ..                                         100% 23.8M=0.2s
+
+2017-02-02 17:34:06 (259 KB/s) - ‘apw019’ saved [63662/63662]
+
+--2017-02-02 17:34:07--  http://doi.org/10.1093/adaptation/apw018
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article/9/3/NP/2572073/EditorialBoard [following]
+--2017-02-02 17:34:08--  https://academic.oup.com/adaptation/article/9/3/NP/2572073/EditorialBoard
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 78662 (77K) [text/html]
+Saving to: ‘apw018’
+
+     0K .......... .......... .......... .......... .......... 65%  209K 0s
+    50K .......... .......... ......                          100% 12.3M=0.2s
+
+2017-02-02 17:34:12 (318 KB/s) - ‘apw018’ saved [78662/78662]
+
+--2017-02-02 17:34:13--  http://doi.org/10.1093/adaptation/apw022
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article/9/3/NP/2572077/TableofContents [following]
+--2017-02-02 17:34:14--  https://academic.oup.com/adaptation/article/9/3/NP/2572077/TableofContents
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63654 (62K) [text/html]
+Saving to: ‘apw022’
+
+     0K .......... .......... .......... .......... .......... 80%  209K 0s
+    50K .......... ..                                         100% 24.6M=0.2s
+
+2017-02-02 17:34:17 (259 KB/s) - ‘apw022’ saved [63654/63654]
+
+--2017-02-02 17:34:18--  http://doi.org/10.1093/adaptation/apw035
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw035 [following]
+--2017-02-02 17:34:19--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw035
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 169510 (166K) [text/html]
+Saving to: ‘apw035’
+
+     0K .......... .......... .......... .......... .......... 30%  209K 1s
+    50K .......... .......... .......... .......... .......... 60%  605K 0s
+   100K .......... .......... .......... .......... .......... 90%  609K 0s
+   150K .......... .....                                      100%  201K=0.5s
+
+2017-02-02 17:34:23 (344 KB/s) - ‘apw035’ saved [169510/169510]
+
+--2017-02-02 17:34:24--  http://doi.org/10.1093/adaptation/apw036
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw036 [following]
+--2017-02-02 17:34:25--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw036
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 263693 (258K) [text/html]
+Saving to: ‘apw036’
+
+     0K .......... .......... .......... .......... .......... 19%  208K 1s
+    50K .......... .......... .......... .......... .......... 38%  605K 1s
+   100K .......... .......... .......... .......... .......... 58%  600K 0s
+   150K .......... .......... .......... .......... .......... 77%  420K 0s
+   200K .......... .......... .......... .......... .......... 97%  400K 0s
+   250K .......                                               100% 21.4M=0.7s
+
+2017-02-02 17:34:29 (396 KB/s) - ‘apw036’ saved [263693/263693]
+
+--2017-02-02 17:34:30--  http://doi.org/10.1093/adaptation/apw034
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw034 [following]
+--2017-02-02 17:34:31--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw034
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 17:34:32 ERROR 400: Bad Request.
+
+--2017-02-02 17:34:33--  http://doi.org/10.1093/adaptation/apw031
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw031 [following]
+--2017-02-02 17:34:34--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw031
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 158567 (155K) [text/html]
+Saving to: ‘apw031’
+
+     0K .......... .......... .......... .......... .......... 32%  209K 1s
+    50K .......... .......... .......... .......... .......... 64%  598K 0s
+   100K .......... .......... .......... .......... .......... 96%  613K 0s
+   150K ....                                                  100% 20.8M=0.4s
+
+2017-02-02 17:34:37 (382 KB/s) - ‘apw031’ saved [158567/158567]
+
+--2017-02-02 17:34:38--  http://doi.org/10.1093/adaptation/apw033
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw033 [following]
+--2017-02-02 17:34:39--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw033
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 157505 (154K) [text/html]
+Saving to: ‘apw033’
+
+     0K .......... .......... .......... .......... .......... 32%  208K 1s
+    50K .......... .......... .......... .......... .......... 65%  606K 0s
+   100K .......... .......... .......... .......... .......... 97%  611K 0s
+   150K ...                                                   100% 5.31M=0.4s
+
+2017-02-02 17:34:44 (379 KB/s) - ‘apw033’ saved [157505/157505]
+
+--2017-02-02 17:34:45--  http://doi.org/10.1093/adaptation/apw032
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw032 [following]
+--2017-02-02 17:34:46--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw032
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 104524 (102K) [text/html]
+Saving to: ‘apw032’
+
+     0K .......... .......... .......... .......... .......... 48%  208K 0s
+    50K .......... .......... .......... .......... .......... 97%  610K 0s
+   100K ..                                                    100% 3956G=0.3s
+
+2017-02-02 17:34:50 (316 KB/s) - ‘apw032’ saved [104524/104524]
+
+--2017-02-02 17:34:51--  http://doi.org/10.1093/adaptation/apw030
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw030 [following]
+--2017-02-02 17:34:52--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw030
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 78382 (77K) [text/html]
+Saving to: ‘apw030’
+
+     0K .......... .......... .......... .......... .......... 65%  207K 0s
+    50K .......... .......... ......                          100% 8.71M=0.2s
+
+2017-02-02 17:34:55 (313 KB/s) - ‘apw030’ saved [78382/78382]
+
+--2017-02-02 17:34:56--  http://doi.org/10.1093/adaptation/apw014
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw014 [following]
+--2017-02-02 17:34:57--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw014
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64265 (63K) [text/html]
+Saving to: ‘apw014’
+
+     0K .......... .......... .......... .......... .......... 79%  208K 0s
+    50K .......... ..                                         100% 18.2M=0.2s
+
+2017-02-02 17:35:00 (261 KB/s) - ‘apw014’ saved [64265/64265]
+
+--2017-02-02 17:35:01--  http://doi.org/10.1093/adaptation/apw013
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw013 [following]
+--2017-02-02 17:35:02--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 17:35:03 ERROR 400: Bad Request.
+
+--2017-02-02 17:35:04--  http://doi.org/10.1093/adaptation/apw012
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw012 [following]
+--2017-02-02 17:35:05--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64191 (63K) [text/html]
+Saving to: ‘apw012’
+
+     0K .......... .......... .......... .......... .......... 79%  209K 0s
+    50K .......... ..                                         100% 14.5M=0.2s
+
+2017-02-02 17:35:08 (261 KB/s) - ‘apw012’ saved [64191/64191]
+
+--2017-02-02 17:35:09--  http://doi.org/10.1093/adaptation/apw016
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw016 [following]
+--2017-02-02 17:35:10--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw016
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64198 (63K) [text/html]
+Saving to: ‘apw016’
+
+     0K .......... .......... .......... .......... .......... 79%  208K 0s
+    50K .......... ..                                         100% 17.4M=0.2s
+
+2017-02-02 17:35:13 (261 KB/s) - ‘apw016’ saved [64198/64198]
+
+--2017-02-02 17:35:14--  http://doi.org/10.1093/adaptation/apw011
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw011 [following]
+--2017-02-02 17:35:15--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64151 (63K) [text/html]
+Saving to: ‘apw011’
+
+     0K .......... .......... .......... .......... .......... 79%  209K 0s
+    50K .......... ..                                         100% 20.7M=0.2s
+
+2017-02-02 17:35:18 (261 KB/s) - ‘apw011’ saved [64151/64151]
+
+--2017-02-02 17:35:19--  http://doi.org/10.1093/adaptation/apw015
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw015 [following]
+--2017-02-02 17:35:20--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64067 (63K) [text/html]
+Saving to: ‘apw015’
+
+     0K .......... .......... .......... .......... .......... 79%  208K 0s
+    50K .......... ..                                         100% 18.6M=0.2s
+
+2017-02-02 17:35:24 (260 KB/s) - ‘apw015’ saved [64067/64067]
+
+--2017-02-02 17:35:25--  http://doi.org/10.1093/adaptation/apw029
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw029 [following]
+--2017-02-02 17:35:27--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw029
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 199290 (195K) [text/html]
+Saving to: ‘apw029’
+
+     0K .......... .......... .......... .......... .......... 25%  209K 1s
+    50K .......... .......... .......... .......... .......... 51%  605K 0s
+   100K .......... .......... .......... .......... .......... 77%  613K 0s
+   150K .......... .......... .......... .......... ....      100%  544K=0.5s
+
+2017-02-02 17:35:30 (401 KB/s) - ‘apw029’ saved [199290/199290]
+
+--2017-02-02 17:35:31--  http://doi.org/10.1093/adaptation/apw028
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw028 [following]
+--2017-02-02 17:35:32--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw028
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 188101 (184K) [text/html]
+Saving to: ‘apw028’
+
+     0K .......... .......... .......... .......... .......... 27%  209K 1s
+    50K .......... .......... .......... .......... .......... 54%  610K 0s
+   100K .......... .......... .......... .......... .......... 81%  600K 0s
+   150K .......... .......... .......... ...                  100%  424K=0.5s
+
+2017-02-02 17:35:35 (379 KB/s) - ‘apw028’ saved [188101/188101]
+
+--2017-02-02 17:35:36--  http://doi.org/10.1093/adaptation/apw027
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw027 [following]
+--2017-02-02 17:35:37--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw027
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 164134 (160K) [text/html]
+Saving to: ‘apw027’
+
+     0K .......... .......... .......... .......... .......... 31%  209K 1s
+    50K .......... .......... .......... .......... .......... 62%  601K 0s
+   100K .......... .......... .......... .......... .......... 93%  594K 0s
+   150K ..........                                            100% 45.5M=0.4s
+
+2017-02-02 17:35:40 (394 KB/s) - ‘apw027’ saved [164134/164134]
+
+--2017-02-02 17:35:41--  http://doi.org/10.1093/adaptation/apw026
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw026 [following]
+--2017-02-02 17:35:42--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw026
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 80856 (79K) [text/html]
+Saving to: ‘apw026’
+
+     0K .......... .......... .......... .......... .......... 63%  309K 0s
+    50K .......... .......... ........                        100%  358K=0.2s
+
+2017-02-02 17:35:45 (326 KB/s) - ‘apw026’ saved [80856/80856]
+
+--2017-02-02 17:35:46--  http://doi.org/10.1093/adaptation/apw025
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw025 [following]
+--2017-02-02 17:35:48--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw025
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 231886 (226K) [text/html]
+Saving to: ‘apw025’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 44%  600K 0s
+   100K .......... .......... .......... .......... .......... 66%  612K 0s
+   150K .......... .......... .......... .......... .......... 88%  314K 0s
+   200K .......... .......... ......                          100% 11.1M=0.6s
+
+2017-02-02 17:35:51 (400 KB/s) - ‘apw025’ saved [231886/231886]
+
+--2017-02-02 17:35:52--  http://doi.org/10.1093/adaptation/apw024
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw024 [following]
+--2017-02-02 17:35:53--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw024
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 225610 (220K) [text/html]
+Saving to: ‘apw024’
+
+     0K .......... .......... .......... .......... .......... 22%  208K 1s
+    50K .......... .......... .......... .......... .......... 45%  605K 0s
+   100K .......... .......... .......... .......... .......... 68%  598K 0s
+   150K .......... .......... .......... .......... .......... 90%  318K 0s
+   200K .......... ..........                                 100% 3.31M=0.6s
+
+2017-02-02 17:35:57 (387 KB/s) - ‘apw024’ saved [225610/225610]
+
+--2017-02-02 17:35:58--  http://doi.org/10.1093/adaptation/apw023
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw023 [following]
+--2017-02-02 17:35:59--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 280285 (274K) [text/html]
+Saving to: ‘apw023’
+
+     0K .......... .......... .......... .......... .......... 18%  208K 1s
+    50K .......... .......... .......... .......... .......... 36%  607K 1s
+   100K .......... .......... .......... .......... .......... 54%  602K 0s
+   150K .......... .......... .......... .......... .......... 73%  318K 0s
+   200K .......... .......... .......... .......... .......... 91%  600K 0s
+   250K .......... .......... ...                             100%  603K=0.7s
+
+2017-02-02 17:36:07 (400 KB/s) - ‘apw023’ saved [280285/280285]
+
+--2017-02-02 17:36:08--  http://doi.org/10.1093/adaptation/apw001
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw001 [following]
+--2017-02-02 17:36:09--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73808 (72K) [text/html]
+Saving to: ‘apw001’
+
+     0K .......... .......... .......... .......... .......... 69%  209K 0s
+    50K .......... .......... ..                              100% 10.1M=0.2s
+
+2017-02-02 17:36:12 (299 KB/s) - ‘apw001’ saved [73808/73808]
+
+--2017-02-02 17:36:13--  http://doi.org/10.1093/adaptation/apw003
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw003 [following]
+--2017-02-02 17:36:15--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 199684 (195K) [text/html]
+Saving to: ‘apw003’
+
+     0K .......... .......... .......... .......... .......... 25%  209K 1s
+    50K .......... .......... .......... .......... .......... 51%  599K 0s
+   100K .......... .......... .......... .......... .......... 76%  614K 0s
+   150K .......... .......... .......... .......... .....     100%  551K=0.5s
+
+2017-02-02 17:36:19 (401 KB/s) - ‘apw003’ saved [199684/199684]
+
+--2017-02-02 17:36:20--  http://doi.org/10.1093/adaptation/apw010
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw010 [following]
+--2017-02-02 17:36:21--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 198038 (193K) [text/html]
+Saving to: ‘apw010’
+
+     0K .......... .......... .......... .......... .......... 25%  209K 1s
+    50K .......... .......... .......... .......... .......... 51%  607K 0s
+   100K .......... .......... .......... .......... .......... 77%  609K 0s
+   150K .......... .......... .......... .......... ...       100%  516K=0.5s
+
+2017-02-02 17:36:27 (396 KB/s) - ‘apw010’ saved [198038/198038]
+
+--2017-02-02 17:36:28--  http://doi.org/10.1093/adaptation/apw002
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw002 [following]
+--2017-02-02 17:36:29--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 125124 (122K) [text/html]
+Saving to: ‘apw002’
+
+     0K .......... .......... .......... .......... .......... 40%  309K 0s
+    50K .......... .......... .......... .......... .......... 81%  312K 0s
+   100K .......... .......... ..                              100% 11.1M=0.3s
+
+2017-02-02 17:36:32 (377 KB/s) - ‘apw002’ saved [125124/125124]
+
+--2017-02-02 17:36:33--  http://doi.org/10.1093/adaptation/apw006
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw006 [following]
+--2017-02-02 17:36:34--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64138 (63K) [text/html]
+Saving to: ‘apw006’
+
+     0K .......... .......... .......... .......... .......... 79%  209K 0s
+    50K .......... ..                                         100% 11.9M=0.2s
+
+2017-02-02 17:36:38 (261 KB/s) - ‘apw006’ saved [64138/64138]
+
+--2017-02-02 17:36:39--  http://doi.org/10.1093/adaptation/apw004
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw004 [following]
+--2017-02-02 17:36:40--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79095 (77K) [text/html]
+Saving to: ‘apw004’
+
+     0K .......... .......... .......... .......... .......... 64%  207K 0s
+    50K .......... .......... .......                         100% 12.2M=0.2s
+
+2017-02-02 17:36:43 (318 KB/s) - ‘apw004’ saved [79095/79095]
+
+--2017-02-02 17:36:44--  http://doi.org/10.1093/adaptation/apw008
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw008 [following]
+--2017-02-02 17:36:45--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64070 (63K) [text/html]
+Saving to: ‘apw008’
+
+     0K .......... .......... .......... .......... .......... 79%  206K 0s
+    50K .......... ..                                         100% 23.2M=0.2s
+
+2017-02-02 17:36:48 (258 KB/s) - ‘apw008’ saved [64070/64070]
+
+--2017-02-02 17:36:49--  http://doi.org/10.1093/adaptation/apw005
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw005 [following]
+--2017-02-02 17:36:50--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64193 (63K) [text/html]
+Saving to: ‘apw005’
+
+     0K .......... .......... .......... .......... .......... 79%  209K 0s
+    50K .......... ..                                         100% 18.9M=0.2s
+
+2017-02-02 17:36:53 (261 KB/s) - ‘apw005’ saved [64193/64193]
+
+--2017-02-02 17:36:54--  http://doi.org/10.1093/adaptation/apw009
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw009 [following]
+--2017-02-02 17:36:55--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64201 (63K) [text/html]
+Saving to: ‘apw009’
+
+     0K .......... .......... .......... .......... .......... 79%  207K 0s
+    50K .......... ..                                         100% 15.8M=0.2s
+
+2017-02-02 17:36:58 (259 KB/s) - ‘apw009’ saved [64201/64201]
+
+--2017-02-02 17:36:59--  http://doi.org/10.1093/adaptation/apw007
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw007 [following]
+--2017-02-02 17:37:00--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apw007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64267 (63K) [text/html]
+Saving to: ‘apw007’
+
+     0K .......... .......... .......... .......... .......... 79%  207K 0s
+    50K .......... ..                                         100% 20.2M=0.2s
+
+2017-02-02 17:37:03 (259 KB/s) - ‘apw007’ saved [64267/64267]
+
+--2017-02-02 17:37:04--  http://doi.org/10.1093/adaptation/apv030
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv030 [following]
+--2017-02-02 17:37:05--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv030
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 17:37:05 ERROR 400: Bad Request.
+
+--2017-02-02 17:37:06--  http://doi.org/10.1093/adaptation/apv031
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv031 [following]
+--2017-02-02 17:37:07--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv031
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 208905 (204K) [text/html]
+Saving to: ‘apv031’
+
+     0K .......... .......... .......... .......... .......... 24%  209K 1s
+    50K .......... .......... .......... .......... .......... 49%  595K 0s
+   100K .......... .......... .......... .......... .......... 73%  609K 0s
+   150K .......... .......... .......... .......... .......... 98%  607K 0s
+   200K ....                                                  100% 20.5M=0.5s
+
+2017-02-02 17:37:11 (418 KB/s) - ‘apv031’ saved [208905/208905]
+
+--2017-02-02 17:37:12--  http://doi.org/10.1093/adaptation/apw043
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-02 17:37:13--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘apw043’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-02 17:37:13 (1.19 MB/s) - ‘apw043’ saved [52438/52438]
+
+--2017-02-02 17:37:14--  http://doi.org/10.1093/adaptation/apw063
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-02 17:37:15--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘apw063’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-02 17:37:15 (1.32 MB/s) - ‘apw063’ saved [52438/52438]
+
+--2017-02-02 17:37:16--  http://doi.org/10.1093/adaptation/apw040
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-02 17:37:17--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘apw040’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-02 17:37:17 (1.19 MB/s) - ‘apw040’ saved [52438/52438]
+
+--2017-02-02 17:37:18--  http://doi.org/10.1093/adaptation/apw039
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-02 17:37:20--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘apw039’
+
+     0K .......... .......... .......... .......... .......... 97% 1.26M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-02 17:37:20 (1.29 MB/s) - ‘apw039’ saved [52438/52438]
+
+--2017-02-02 17:37:21--  http://doi.org/10.1093/adaptation/apw062
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-02 17:37:22--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘apw062’
+
+     0K .......... .......... .......... .......... .......... 97% 1.15M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-02 17:37:22 (1.18 MB/s) - ‘apw062’ saved [52438/52438]
+
+--2017-02-02 17:37:23--  http://doi.org/10.1093/adaptation/apw041
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-02 17:37:24--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘apw041’
+
+     0K .......... .......... .......... .......... .......... 97% 1.27M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-02 17:37:24 (1.30 MB/s) - ‘apw041’ saved [52438/52438]
+
+--2017-02-02 17:37:25--  http://doi.org/10.1093/adaptation/apv029
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv029 [following]
+--2017-02-02 17:37:26--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv029
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76348 (75K) [text/html]
+Saving to: ‘apv029’
+
+     0K .......... .......... .......... .......... .......... 67%  209K 0s
+    50K .......... .......... ....                            100% 10.7M=0.2s
+
+2017-02-02 17:37:29 (308 KB/s) - ‘apv029’ saved [76348/76348]
+
+--2017-02-02 17:37:30--  http://doi.org/10.1093/adaptation/apu066
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apu066 [following]
+--2017-02-02 17:37:32--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apu066
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 17:37:32 ERROR 400: Bad Request.
+
+--2017-02-02 17:37:33--  http://doi.org/10.1093/adaptation/apu068
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apu068 [following]
+--2017-02-02 17:37:34--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apu068
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63750 (62K) [text/html]
+Saving to: ‘apu068’
+
+     0K .......... .......... .......... .......... .......... 80%  207K 0s
+    50K .......... ..                                         100% 17.5M=0.2s
+
+2017-02-02 17:37:37 (257 KB/s) - ‘apu068’ saved [63750/63750]
+
+--2017-02-02 17:37:38--  http://doi.org/10.1093/adaptation/apu065
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apu065 [following]
+--2017-02-02 17:37:39--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apu065
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63687 (62K) [text/html]
+Saving to: ‘apu065’
+
+     0K .......... .......... .......... .......... .......... 80%  208K 0s
+    50K .......... ..                                         100% 23.9M=0.2s
+
+2017-02-02 17:37:43 (258 KB/s) - ‘apu065’ saved [63687/63687]
+
+--2017-02-02 17:37:44--  http://doi.org/10.1093/adaptation/apu063
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apu063 [following]
+--2017-02-02 17:37:45--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apu063
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 17:37:46 ERROR 400: Bad Request.
+
+--2017-02-02 17:37:47--  http://doi.org/10.1093/adaptation/apu064
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apu064 [following]
+--2017-02-02 17:37:48--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apu064
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63742 (62K) [text/html]
+Saving to: ‘apu064’
+
+     0K .......... .......... .......... .......... .......... 80%  304K 0s
+    50K .......... ..                                         100%  154K=0.2s
+
+2017-02-02 17:37:52 (255 KB/s) - ‘apu064’ saved [63742/63742]
+
+--2017-02-02 17:37:53--  http://doi.org/10.1093/adaptation/apu067
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apu067 [following]
+--2017-02-02 17:37:54--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apu067
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63619 (62K) [text/html]
+Saving to: ‘apu067’
+
+     0K .......... .......... .......... .......... .......... 80%  309K 0s
+    50K .......... ..                                         100%  156K=0.2s
+
+2017-02-02 17:37:57 (259 KB/s) - ‘apu067’ saved [63619/63619]
+
+--2017-02-02 17:37:58--  http://doi.org/10.1093/adaptation/apv028
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv028 [following]
+--2017-02-02 17:37:59--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv028
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 198853 (194K) [text/html]
+Saving to: ‘apv028’
+
+     0K .......... .......... .......... .......... .......... 25%  309K 0s
+    50K .......... .......... .......... .......... .......... 51%  314K 0s
+   100K .......... .......... .......... .......... .......... 77%  607K 0s
+   150K .......... .......... .......... .......... ....      100%  537K=0.5s
+
+2017-02-02 17:38:02 (400 KB/s) - ‘apv028’ saved [198853/198853]
+
+--2017-02-02 17:38:03--  http://doi.org/10.1093/adaptation/apv026
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv026 [following]
+--2017-02-02 17:38:04--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv026
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 132201 (129K) [text/html]
+Saving to: ‘apv026’
+
+     0K .......... .......... .......... .......... .......... 38%  795K 0s
+    50K .......... .......... .......... .......... .......... 77%  602K 0s
+   100K .......... .......... .........                       100% 10.7M=0.1s
+
+2017-02-02 17:38:06 (869 KB/s) - ‘apv026’ saved [132201/132201]
+
+--2017-02-02 17:38:07--  http://doi.org/10.1093/adaptation/apv027
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv027 [following]
+--2017-02-02 17:38:08--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv027
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 81306 (79K) [text/html]
+Saving to: ‘apv027’
+
+     0K .......... .......... .......... .......... .......... 62%  209K 0s
+    50K .......... .......... .........                       100% 13.2M=0.2s
+
+2017-02-02 17:38:11 (328 KB/s) - ‘apv027’ saved [81306/81306]
+
+--2017-02-02 17:38:12--  http://doi.org/10.1093/adaptation/apv022
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv022 [following]
+--2017-02-02 17:38:14--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv022
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 176997 (173K) [text/html]
+Saving to: ‘apv022’
+
+     0K .......... .......... .......... .......... .......... 28%  208K 1s
+    50K .......... .......... .......... .......... .......... 57%  601K 0s
+   100K .......... .......... .......... .......... .......... 86%  602K 0s
+   150K .......... .......... ..                              100%  293K=0.5s
+
+2017-02-02 17:38:17 (357 KB/s) - ‘apv022’ saved [176997/176997]
+
+--2017-02-02 17:38:18--  http://doi.org/10.1093/adaptation/apv024
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv024 [following]
+--2017-02-02 17:38:19--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv024
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 261484 (255K) [text/html]
+Saving to: ‘apv024’
+
+     0K .......... .......... .......... .......... .......... 19%  208K 1s
+    50K .......... .......... .......... .......... .......... 39%  602K 1s
+   100K .......... .......... .......... .......... .......... 58%  609K 0s
+   150K .......... .......... .......... .......... .......... 78%  594K 0s
+   200K .......... .......... .......... .......... .......... 97%  314K 0s
+   250K .....                                                 100% 10215G=0.6s
+
+2017-02-02 17:38:22 (393 KB/s) - ‘apv024’ saved [261484/261484]
+
+--2017-02-02 17:38:23--  http://doi.org/10.1093/adaptation/apv025
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv025 [following]
+--2017-02-02 17:38:24--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv025
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79132 (77K) [text/html]
+Saving to: ‘apv025’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... .......                         100% 11.2M=0.2s
+
+2017-02-02 17:38:28 (320 KB/s) - ‘apv025’ saved [79132/79132]
+
+--2017-02-02 17:38:29--  http://doi.org/10.1093/adaptation/apv021
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv021 [following]
+--2017-02-02 17:38:30--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 154569 (151K) [text/html]
+Saving to: ‘apv021’
+
+     0K .......... .......... .......... .......... .......... 33%  208K 0s
+    50K .......... .......... .......... .......... .......... 66%  604K 0s
+   100K .......... .......... .......... .......... .......... 99%  605K 0s
+   150K                                                       100% 1805G=0.4s
+
+2017-02-02 17:38:33 (372 KB/s) - ‘apv021’ saved [154569/154569]
+
+--2017-02-02 17:38:34--  http://doi.org/10.1093/adaptation/apv023
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv023 [following]
+--2017-02-02 17:38:35--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 195106 (191K) [text/html]
+Saving to: ‘apv023’
+
+     0K .......... .......... .......... .......... .......... 26%  308K 0s
+    50K .......... .......... .......... .......... .......... 52%  312K 0s
+   100K .......... .......... .......... .......... .......... 78%  610K 0s
+   150K .......... .......... .......... ..........           100%  501K=0.5s
+
+2017-02-02 17:38:38 (393 KB/s) - ‘apv023’ saved [195106/195106]
+
+--2017-02-02 17:38:39--  http://doi.org/10.1093/adaptation/apu060
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apu060 [following]
+--2017-02-02 17:38:40--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apu060
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64223 (63K) [text/html]
+Saving to: ‘apu060’
+
+     0K .......... .......... .......... .......... .......... 79%  308K 0s
+    50K .......... ..                                         100%  161K=0.2s
+
+2017-02-02 17:38:46 (260 KB/s) - ‘apu060’ saved [64223/64223]
+
+--2017-02-02 17:38:47--  http://doi.org/10.1093/adaptation/apu057
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apu057 [following]
+--2017-02-02 17:38:48--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apu057
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64109 (63K) [text/html]
+Saving to: ‘apu057’
+
+     0K .......... .......... .......... .......... .......... 79%  209K 0s
+    50K .......... ..                                         100% 19.8M=0.2s
+
+2017-02-02 17:38:52 (261 KB/s) - ‘apu057’ saved [64109/64109]
+
+--2017-02-02 17:38:53--  http://doi.org/10.1093/adaptation/apv020
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv020 [following]
+--2017-02-02 17:38:54--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv020
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 238743 (233K) [text/html]
+Saving to: ‘apv020’
+
+     0K .......... .......... .......... .......... .......... 21%  209K 1s
+    50K .......... .......... .......... .......... .......... 42%  604K 0s
+   100K .......... .......... .......... .......... .......... 64%  607K 0s
+   150K .......... .......... .......... .......... .......... 85%  315K 0s
+   200K .......... .......... .......... ...                  100% 6.61M=0.6s
+
+2017-02-02 17:38:58 (410 KB/s) - ‘apv020’ saved [238743/238743]
+
+--2017-02-02 17:38:59--  http://doi.org/10.1093/adaptation/apu061
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apu061 [following]
+--2017-02-02 17:39:01--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apu061
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64029 (63K) [text/html]
+Saving to: ‘apu061’
+
+     0K .......... .......... .......... .......... .......... 79%  207K 0s
+    50K .......... ..                                         100% 18.0M=0.2s
+
+2017-02-02 17:39:03 (258 KB/s) - ‘apu061’ saved [64029/64029]
+
+--2017-02-02 17:39:04--  http://doi.org/10.1093/adaptation/apu058
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apu058 [following]
+--2017-02-02 17:39:06--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apu058
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79098 (77K) [text/html]
+Saving to: ‘apu058’
+
+     0K .......... .......... .......... .......... .......... 64%  208K 0s
+    50K .......... .......... .......                         100% 8.50M=0.2s
+
+2017-02-02 17:39:09 (318 KB/s) - ‘apu058’ saved [79098/79098]
+
+--2017-02-02 17:39:10--  http://doi.org/10.1093/adaptation/apv013
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv013 [following]
+--2017-02-02 17:39:11--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 380310 (371K) [text/html]
+Saving to: ‘apv013’
+
+     0K .......... .......... .......... .......... .......... 13%  209K 2s
+    50K .......... .......... .......... .......... .......... 26%  605K 1s
+   100K .......... .......... .......... .......... .......... 40%  610K 1s
+   150K .......... .......... .......... .......... .......... 53%  317K 0s
+   200K .......... .......... .......... .......... .......... 67%  592K 0s
+   250K .......... .......... .......... .......... .......... 80%  605K 0s
+   300K .......... .......... .......... .......... .......... 94%  607K 0s
+   350K .......... .......... .                               100%  271K=0.9s
+
+2017-02-02 17:39:15 (417 KB/s) - ‘apv013’ saved [380310/380310]
+
+--2017-02-02 17:39:16--  http://doi.org/10.1093/adaptation/apu059
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apu059 [following]
+--2017-02-02 17:39:18--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apu059
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64094 (63K) [text/html]
+Saving to: ‘apu059’
+
+     0K .......... .......... .......... .......... .......... 79%  209K 0s
+    50K .......... ..                                         100% 17.5M=0.2s
+
+2017-02-02 17:39:21 (261 KB/s) - ‘apu059’ saved [64094/64094]
+
+--2017-02-02 17:39:22--  http://doi.org/10.1093/adaptation/apu062
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apu062 [following]
+--2017-02-02 17:39:23--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apu062
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 17:39:23 ERROR 400: Bad Request.
+
+--2017-02-02 17:39:24--  http://doi.org/10.1093/adaptation/apv019
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv019 [following]
+--2017-02-02 17:39:26--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 170377 (166K) [text/html]
+Saving to: ‘apv019’
+
+     0K .......... .......... .......... .......... .......... 30%  209K 1s
+    50K .......... .......... .......... .......... .......... 60%  606K 0s
+   100K .......... .......... .......... .......... .......... 90%  599K 0s
+   150K .......... ......                                     100% 24.9M=0.4s
+
+2017-02-02 17:39:29 (410 KB/s) - ‘apv019’ saved [170377/170377]
+
+--2017-02-02 17:39:30--  http://doi.org/10.1093/adaptation/apv018
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv018 [following]
+--2017-02-02 17:39:31--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv018
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 97455 (95K) [text/html]
+Saving to: ‘apv018’
+
+     0K .......... .......... .......... .......... .......... 52%  209K 0s
+    50K .......... .......... .......... .......... .....     100%  559K=0.3s
+
+2017-02-02 17:39:34 (297 KB/s) - ‘apv018’ saved [97455/97455]
+
+--2017-02-02 17:39:35--  http://doi.org/10.1093/adaptation/apv015
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv015 [following]
+--2017-02-02 17:39:36--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 136330 (133K) [text/html]
+Saving to: ‘apv015’
+
+     0K .......... .......... .......... .......... .......... 37%  209K 0s
+    50K .......... .......... .......... .......... .......... 75%  608K 0s
+   100K .......... .......... .......... ...                  100%  416K=0.4s
+
+2017-02-02 17:39:40 (332 KB/s) - ‘apv015’ saved [136330/136330]
+
+--2017-02-02 17:39:41--  http://doi.org/10.1093/adaptation/apv017
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv017 [following]
+--2017-02-02 17:39:42--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 169311 (165K) [text/html]
+Saving to: ‘apv017’
+
+     0K .......... .......... .......... .......... .......... 30%  207K 1s
+    50K .......... .......... .......... .......... .......... 60%  614K 0s
+   100K .......... .......... .......... .......... .......... 90%  604K 0s
+   150K .......... .....                                      100%  201K=0.5s
+
+2017-02-02 17:39:46 (343 KB/s) - ‘apv017’ saved [169311/169311]
+
+--2017-02-02 17:39:47--  http://doi.org/10.1093/adaptation/apv014
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv014 [following]
+--2017-02-02 17:39:49--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv014
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 242257 (237K) [text/html]
+Saving to: ‘apv014’
+
+     0K .......... .......... .......... .......... .......... 21%  209K 1s
+    50K .......... .......... .......... .......... .......... 42%  604K 0s
+   100K .......... .......... .......... .......... .......... 63%  608K 0s
+   150K .......... .......... .......... .......... .......... 84%  606K 0s
+   200K .......... .......... .......... ......               100%  448K=0.6s
+
+2017-02-02 17:39:51 (416 KB/s) - ‘apv014’ saved [242257/242257]
+
+--2017-02-02 17:39:52--  http://doi.org/10.1093/adaptation/apv016
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv016 [following]
+--2017-02-02 17:39:53--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv016
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 101791 (99K) [text/html]
+Saving to: ‘apv016’
+
+     0K .......... .......... .......... .......... .......... 50%  208K 0s
+    50K .......... .......... .......... .......... ......... 100%  599K=0.3s
+
+2017-02-02 17:39:57 (308 KB/s) - ‘apv016’ saved [101791/101791]
+
+--2017-02-02 17:39:58--  http://doi.org/10.1093/adaptation/apv010
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv010 [following]
+--2017-02-02 17:39:59--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 201835 (197K) [text/html]
+Saving to: ‘apv010’
+
+     0K .......... .......... .......... .......... .......... 25%  207K 1s
+    50K .......... .......... .......... .......... .......... 50%  599K 0s
+   100K .......... .......... .......... .......... .......... 76%  581K 0s
+   150K .......... .......... .......... .......... .......   100%  579K=0.5s
+
+2017-02-02 17:40:03 (400 KB/s) - ‘apv010’ saved [201835/201835]
+
+--2017-02-02 17:40:04--  http://doi.org/10.1093/adaptation/apv011
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv011 [following]
+--2017-02-02 17:40:05--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 183503 (179K) [text/html]
+Saving to: ‘apv011’
+
+     0K .......... .......... .......... .......... .......... 27%  309K 0s
+    50K .......... .......... .......... .......... .......... 55%  312K 0s
+   100K .......... .......... .......... .......... .......... 83%  605K 0s
+   150K .......... .......... .........                       100%  370K=0.5s
+
+2017-02-02 17:40:08 (370 KB/s) - ‘apv011’ saved [183503/183503]
+
+--2017-02-02 17:40:09--  http://doi.org/10.1093/adaptation/apv012
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv012 [following]
+--2017-02-02 17:40:10--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 214190 (209K) [text/html]
+Saving to: ‘apv012’
+
+     0K .......... .......... .......... .......... .......... 23%  209K 1s
+    50K .......... .......... .......... .......... .......... 47%  602K 0s
+   100K .......... .......... .......... .......... .......... 71%  613K 0s
+   150K .......... .......... .......... .......... .......... 95%  585K 0s
+   200K .........                                             100%  262K=0.5s
+
+2017-02-02 17:40:14 (399 KB/s) - ‘apv012’ saved [214190/214190]
+
+--2017-02-02 17:40:15--  http://doi.org/10.1093/adaptation/apv005
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv005 [following]
+--2017-02-02 17:40:16--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 188189 (184K) [text/html]
+Saving to: ‘apv005’
+
+     0K .......... .......... .......... .......... .......... 27%  309K 0s
+    50K .......... .......... .......... .......... .......... 54%  315K 0s
+   100K .......... .......... .......... .......... .......... 81%  596K 0s
+   150K .......... .......... .......... ...                  100%  423K=0.5s
+
+2017-02-02 17:40:20 (380 KB/s) - ‘apv005’ saved [188189/188189]
+
+--2017-02-02 17:40:21--  http://doi.org/10.1093/adaptation/apv008
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv008 [following]
+--2017-02-02 17:40:22--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 190024 (186K) [text/html]
+Saving to: ‘apv008’
+
+     0K .......... .......... .......... .......... .......... 26%  209K 1s
+    50K .......... .......... .......... .......... .......... 53%  609K 0s
+   100K .......... .......... .......... .......... .......... 80%  613K 0s
+   150K .......... .......... .......... .....                100%  437K=0.5s
+
+2017-02-02 17:40:25 (384 KB/s) - ‘apv008’ saved [190024/190024]
+
+--2017-02-02 17:40:26--  http://doi.org/10.1093/adaptation/apv009
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv009 [following]
+--2017-02-02 17:40:27--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 135939 (133K) [text/html]
+Saving to: ‘apv009’
+
+     0K .......... .......... .......... .......... .......... 37%  209K 0s
+    50K .......... .......... .......... .......... .......... 75%  601K 0s
+   100K .......... .......... .......... ..                   100%  418K=0.4s
+
+2017-02-02 17:40:32 (331 KB/s) - ‘apv009’ saved [135939/135939]
+
+--2017-02-02 17:40:33--  http://doi.org/10.1093/adaptation/apv007
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv007 [following]
+--2017-02-02 17:40:34--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 161798 (158K) [text/html]
+Saving to: ‘apv007’
+
+     0K .......... .......... .......... .......... .......... 31%  208K 1s
+    50K .......... .......... .......... .......... .......... 63%  603K 0s
+   100K .......... .......... .......... .......... .......... 94%  599K 0s
+   150K ........                                              100% 37.0M=0.4s
+
+2017-02-02 17:40:37 (388 KB/s) - ‘apv007’ saved [161798/161798]
+
+--2017-02-02 17:40:38--  http://doi.org/10.1093/adaptation/apv006
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv006 [following]
+--2017-02-02 17:40:39--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 206320 (201K) [text/html]
+Saving to: ‘apv006’
+
+     0K .......... .......... .......... .......... .......... 24%  208K 1s
+    50K .......... .......... .......... .......... .......... 49%  611K 0s
+   100K .......... .......... .......... .......... .......... 74%  606K 0s
+   150K .......... .......... .......... .......... .......... 99%  612K 0s
+   200K .                                                     100% 2831G=0.5s
+
+2017-02-02 17:40:44 (414 KB/s) - ‘apv006’ saved [206320/206320]
+
+--2017-02-02 17:40:45--  http://doi.org/10.1093/adaptation/apv004
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv004 [following]
+--2017-02-02 17:40:46--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 213803 (209K) [text/html]
+Saving to: ‘apv004’
+
+     0K .......... .......... .......... .......... .......... 23%  208K 1s
+    50K .......... .......... .......... .......... .......... 47%  593K 0s
+   100K .......... .......... .......... .......... .......... 71%  608K 0s
+   150K .......... .......... .......... .......... .......... 95%  591K 0s
+   200K ........                                              100%  119K=0.6s
+
+2017-02-02 17:40:50 (369 KB/s) - ‘apv004’ saved [213803/213803]
+
+--2017-02-02 17:40:51--  http://doi.org/10.1093/adaptation/apv003
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv003 [following]
+--2017-02-02 17:40:52--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 194633 (190K) [text/html]
+Saving to: ‘apv003’
+
+     0K .......... .......... .......... .......... .......... 26%  309K 0s
+    50K .......... .......... .......... .......... .......... 52%  309K 0s
+   100K .......... .......... .......... .......... .......... 78%  605K 0s
+   150K .......... .......... .......... ..........           100%  495K=0.5s
+
+2017-02-02 17:40:56 (390 KB/s) - ‘apv003’ saved [194633/194633]
+
+--2017-02-02 17:40:57--  http://doi.org/10.1093/adaptation/apu048
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apu048 [following]
+--2017-02-02 17:40:58--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apu048
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 258317 (252K) [text/html]
+Saving to: ‘apu048’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 39%  596K 0s
+   100K .......... .......... .......... .......... .......... 59%  613K 0s
+   150K .......... .......... .......... .......... .......... 79%  408K 0s
+   200K .......... .......... .......... .......... .......... 99%  412K 0s
+   250K ..                                                    100% 4316G=0.6s
+
+2017-02-02 17:41:03 (389 KB/s) - ‘apu048’ saved [258317/258317]
+
+--2017-02-02 17:41:04--  http://doi.org/10.1093/adaptation/apu049
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apu049 [following]
+--2017-02-02 17:41:05--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apu049
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 169178 (165K) [text/html]
+Saving to: ‘apu049’
+
+     0K .......... .......... .......... .......... .......... 30%  209K 1s
+    50K .......... .......... .......... .......... .......... 60%  605K 0s
+   100K .......... .......... .......... .......... .......... 90%  613K 0s
+   150K .......... .....                                      100%  195K=0.5s
+
+2017-02-02 17:41:08 (343 KB/s) - ‘apu049’ saved [169178/169178]
+
+--2017-02-02 17:41:09--  http://doi.org/10.1093/adaptation/apu047
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apu047 [following]
+--2017-02-02 17:41:10--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apu047
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 158665 (155K) [text/html]
+Saving to: ‘apu047’
+
+     0K .......... .......... .......... .......... .......... 32%  209K 1s
+    50K .......... .......... .......... .......... .......... 64%  602K 0s
+   100K .......... .......... .......... .......... .......... 96%  608K 0s
+   150K ....                                                  100% 13.6M=0.4s
+
+2017-02-02 17:41:14 (383 KB/s) - ‘apu047’ saved [158665/158665]
+
+--2017-02-02 17:41:15--  http://doi.org/10.1093/adaptation/apu053
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apu053 [following]
+--2017-02-02 17:41:16--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apu053
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64097 (63K) [text/html]
+Saving to: ‘apu053’
+
+     0K .......... .......... .......... .......... .......... 79%  208K 0s
+    50K .......... ..                                         100% 16.4M=0.2s
+
+2017-02-02 17:41:19 (259 KB/s) - ‘apu053’ saved [64097/64097]
+
+--2017-02-02 17:41:20--  http://doi.org/10.1093/adaptation/apu055
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apu055 [following]
+--2017-02-02 17:41:21--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apu055
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64032 (63K) [text/html]
+Saving to: ‘apu055’
+
+     0K .......... .......... .......... .......... .......... 79%  209K 0s
+    50K .......... ..                                         100% 11.2M=0.2s
+
+2017-02-02 17:41:25 (260 KB/s) - ‘apu055’ saved [64032/64032]
+
+--2017-02-02 17:41:26--  http://doi.org/10.1093/adaptation/apu052
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apu052 [following]
+--2017-02-02 17:41:27--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apu052
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64152 (63K) [text/html]
+Saving to: ‘apu052’
+
+     0K .......... .......... .......... .......... .......... 79%  208K 0s
+    50K .......... ..                                         100% 10.8M=0.2s
+
+2017-02-02 17:41:29 (260 KB/s) - ‘apu052’ saved [64152/64152]
+
+--2017-02-02 17:41:30--  http://doi.org/10.1093/adaptation/apu051
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apu051 [following]
+--2017-02-02 17:41:32--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apu051
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64111 (63K) [text/html]
+Saving to: ‘apu051’
+
+     0K .......... .......... .......... .......... .......... 79%  308K 0s
+    50K .......... ..                                         100%  161K=0.2s
+
+2017-02-02 17:41:35 (260 KB/s) - ‘apu051’ saved [64111/64111]
+
+--2017-02-02 17:41:36--  http://doi.org/10.1093/adaptation/apu054
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apu054 [following]
+--2017-02-02 17:41:37--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apu054
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64226 (63K) [text/html]
+Saving to: ‘apu054’
+
+     0K .......... .......... .......... .......... .......... 79%  209K 0s
+    50K .......... ..                                         100% 17.9M=0.2s
+
+2017-02-02 17:41:39 (261 KB/s) - ‘apu054’ saved [64226/64226]
+
+--2017-02-02 17:41:40--  http://doi.org/10.1093/adaptation/apv001
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://adaptation.oxfordjournals.org/cgi/doi/10.1093/adaptation/apv001 [following]
+--2017-02-02 17:41:42--  http://adaptation.oxfordjournals.org/cgi/doi/10.1093/adaptation/apv001
+Connecting to adaptation.oxfordjournals.org (adaptation.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from adaptation.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/adaptation/article/8/1/130/2447454/Richard-Matheson-s-I-Am-Legend-Colonization-and [following]
+--2017-02-02 17:41:43--  https://academic.oup.com/adaptation/article/8/1/130/2447454/Richard-Matheson-s-I-Am-Legend-Colonization-and
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 175040 (171K) [text/html]
+Saving to: ‘apv001’
+
+     0K .......... .......... .......... .......... .......... 29%  209K 1s
+    50K .......... .......... .......... .......... .......... 58%  605K 0s
+   100K .......... .......... .......... .......... .......... 87%  613K 0s
+   150K .......... ..........                                 100%  272K=0.5s
+
+2017-02-02 17:41:46 (356 KB/s) - ‘apv001’ saved [175040/175040]
+
+--2017-02-02 17:41:47--  http://doi.org/10.1093/adaptation/apu056
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apu056 [following]
+--2017-02-02 17:41:49--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apu056
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79109 (77K) [text/html]
+Saving to: ‘apu056’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... .......                         100% 7.37M=0.2s
+
+2017-02-02 17:41:51 (319 KB/s) - ‘apu056’ saved [79109/79109]
+
+--2017-02-02 17:41:52--  http://doi.org/10.1093/adaptation/apv002
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv002 [following]
+--2017-02-02 17:41:54--  https://academic.oup.com/adaptation/article-lookup/doi/10.1093/adaptation/apv002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 74851 (73K) [text/html]
+Saving to: ‘apv002’
+
+     0K .......... .......... .......... .......... .......... 68%  309K 0s
+    50K .......... .......... ...                             100%  290K=0.2s
+
+2017-02-02 17:41:57 (303 KB/s) - ‘apv002’ saved [74851/74851]
+
+--2017-02-02 17:41:58--  http://doi.org/10.1093/adaptation/apu070
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://adaptation.oxfordjournals.org/cgi/doi/10.1093/adaptation/apu070 [following]
+--2017-02-02 17:41:59--  http://adaptation.oxfordjournals.org/cgi/doi/10.1093/adaptation/apu070
+Connecting to adaptation.oxfordjournals.org (adaptation.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from adaptation.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/adaptation/article/8/1/89/2642652/It-Is-the-Cause-Let-Me-Not-Name-It-mis-Reading [following]
+--2017-02-02 17:42:00--  https://academic.oup.com/adaptation/article/8/1/89/2642652/It-Is-the-Cause-Let-Me-Not-Name-It-mis-Reading
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 186171 (182K) [text/html]
+Saving to: ‘apu070’
+
+     0K .......... .......... .......... .......... .......... 27%  294K 0s
+    50K .......... .......... .......... .......... .......... 55%  310K 0s
+   100K .......... .......... .......... .......... .......... 82%  612K 0s
+   150K .......... .......... .......... .                    100%  397K=0.5s
+
+2017-02-02 17:42:03 (369 KB/s) - ‘apu070’ saved [186171/186171]
+
+--2017-02-02 17:42:04--  http://doi.org/10.1093/adaptation/apu071
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://adaptation.oxfordjournals.org/cgi/doi/10.1093/adaptation/apu071 [following]
+--2017-02-02 17:42:06--  http://adaptation.oxfordjournals.org/cgi/doi/10.1093/adaptation/apu071
+Connecting to adaptation.oxfordjournals.org (adaptation.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from adaptation.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/adaptation/article/8/1/111/2447451/Quotation-Memory-and-Adaptation-in-Federico [following]
+--2017-02-02 17:42:07--  https://academic.oup.com/adaptation/article/8/1/111/2447451/Quotation-Memory-and-Adaptation-in-Federico
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 202538 (198K) [text/html]
+Saving to: ‘apu071’
+
+     0K .......... .......... .......... .......... .......... 25%  209K 1s
+    50K .......... .......... .......... .......... .......... 50%  598K 0s
+   100K .......... .......... .......... .......... .......... 75%  610K 0s
+   150K .......... .......... .......... .......... .......   100%  587K=0.5s
+
+2017-02-02 17:42:10 (407 KB/s) - ‘apu071’ saved [202538/202538]
+
+FINISHED --2017-02-02 17:42:10--
+Total wall clock time: 8m 38s
+Downloaded: 94 files, 11M in 32s (364 KB/s)

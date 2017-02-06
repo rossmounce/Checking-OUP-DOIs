@@ -1,0 +1,1760 @@
+--2017-02-03 12:57:59--  http://doi.org/10.1093/reseval/rvw024
+Resolving doi.org (doi.org)... 63.123.152.248, 208.254.38.90, 38.100.138.163, ...
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://rev.oxfordjournals.org/lookup/doi/10.1093/reseval/rvw024 [following]
+--2017-02-03 12:58:00--  http://rev.oxfordjournals.org/lookup/doi/10.1093/reseval/rvw024
+Resolving rev.oxfordjournals.org (rev.oxfordjournals.org)... 209.135.222.209
+Connecting to rev.oxfordjournals.org (rev.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from rev.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/rev/article/doi/10.1093/reseval/rvw024/2919400/Slightly-dirty-maths-The-richly-textured [following]
+--2017-02-03 12:58:01--  https://academic.oup.com/rev/article/doi/10.1093/reseval/rvw024/2919400/Slightly-dirty-maths-The-richly-textured
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 253384 (247K) [text/html]
+Saving to: ‘rvw024’
+
+     0K .......... .......... .......... .......... .......... 20%  208K 1s
+    50K .......... .......... .......... .......... .......... 40%  578K 0s
+   100K .......... .......... .......... .......... .......... 60%  606K 0s
+   150K .......... .......... .......... .......... .......... 80%  423K 0s
+   200K .......... .......... .......... .......... .......   100%  581K=0.6s
+
+2017-02-03 12:58:08 (406 KB/s) - ‘rvw024’ saved [253384/253384]
+
+--2017-02-03 12:58:09--  http://doi.org/10.1093/reseval/rvw021
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw021 [following]
+--2017-02-03 12:58:10--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 246896 (241K) [text/html]
+Saving to: ‘rvw021’
+
+     0K .......... .......... .......... .......... .......... 20%  209K 1s
+    50K .......... .......... .......... .......... .......... 41%  610K 0s
+   100K .......... .......... .......... .......... .......... 62%  609K 0s
+   150K .......... .......... .......... .......... .......... 82%  318K 0s
+   200K .......... .......... .......... .......... .         100%  983K=0.6s
+
+2017-02-03 12:58:16 (400 KB/s) - ‘rvw021’ saved [246896/246896]
+
+--2017-02-03 12:58:17--  http://doi.org/10.1093/reseval/rvw023
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw023 [following]
+--2017-02-03 12:58:18--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 218004 (213K) [text/html]
+Saving to: ‘rvw023’
+
+     0K .......... .......... .......... .......... .......... 23%  207K 1s
+    50K .......... .......... .......... .......... .......... 46%  604K 0s
+   100K .......... .......... .......... .......... .......... 70%  604K 0s
+   150K .......... .......... .......... .......... .......... 93%  428K 0s
+   200K .......... ..                                         100%  295K=0.6s
+
+2017-02-03 12:58:27 (375 KB/s) - ‘rvw023’ saved [218004/218004]
+
+--2017-02-03 12:58:28--  http://doi.org/10.1093/reseval/rvx002
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 12:58:29--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Resolving fdslive.oup.com (fdslive.oup.com)... 193.67.160.201
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘rvx002’
+
+     0K .......... .......... .......... .......... .......... 97% 1.16M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 12:58:29 (1.18 MB/s) - ‘rvx002’ saved [52438/52438]
+
+--2017-02-03 12:58:30--  http://doi.org/10.1093/reseval/rvx001
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 12:58:32--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘rvx001’
+
+     0K .......... .......... .......... .......... .......... 97% 1.28M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 12:58:32 (1.32 MB/s) - ‘rvx001’ saved [52438/52438]
+
+--2017-02-03 12:58:33--  http://doi.org/10.1093/reseval/rvw015
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article/25/4/358/2593873/The-proof-of-the-pudding-University-responses-to [following]
+--2017-02-03 12:58:34--  https://academic.oup.com/rev/article/25/4/358/2593873/The-proof-of-the-pudding-University-responses-to
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 286457 (280K) [text/html]
+Saving to: ‘rvw015’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 35%  596K 1s
+   100K .......... .......... .......... .......... .......... 53%  609K 0s
+   150K .......... .......... .......... .......... .......... 71%  603K 0s
+   200K .......... .......... .......... .......... .......... 89%  311K 0s
+   250K .......... .......... .........                       100% 6.38M=0.7s
+
+2017-02-03 12:58:43 (428 KB/s) - ‘rvw015’ saved [286457/286457]
+
+--2017-02-03 12:58:44--  http://doi.org/10.1093/reseval/rvw018
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw018 [following]
+--2017-02-03 12:58:46--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw018
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 256120 (250K) [text/html]
+Saving to: ‘rvw018’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 39%  593K 0s
+   100K .......... .......... .......... .......... .......... 59%  609K 0s
+   150K .......... .......... .......... .......... .......... 79%  592K 0s
+   200K .......... .......... .......... .......... .......... 99%  319K 0s
+   250K                                                       100%  224G=0.6s
+
+2017-02-03 12:58:52 (386 KB/s) - ‘rvw018’ saved [256120/256120]
+
+--2017-02-03 12:58:53--  http://doi.org/10.1093/reseval/rvw019
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw019 [following]
+--2017-02-03 12:58:55--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 216555 (211K) [text/html]
+Saving to: ‘rvw019’
+
+     0K .......... .......... .......... .......... .......... 23%  309K 1s
+    50K .......... .......... .......... .......... .......... 47%  314K 0s
+   100K .......... .......... .......... .......... .......... 70%  593K 0s
+   150K .......... .......... .......... .......... .......... 94%  317K 0s
+   200K .......... .                                          100% 6.04M=0.6s
+
+2017-02-03 12:59:16 (374 KB/s) - ‘rvw019’ saved [216555/216555]
+
+--2017-02-03 12:59:17--  http://doi.org/10.1093/reseval/rvw016
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw016 [following]
+--2017-02-03 12:59:18--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw016
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 202883 (198K) [text/html]
+Saving to: ‘rvw016’
+
+     0K .......... .......... .......... .......... .......... 25%  207K 1s
+    50K .......... .......... .......... .......... .......... 50%  612K 0s
+   100K .......... .......... .......... .......... .......... 75%  604K 0s
+   150K .......... .......... .......... .......... ........  100%  588K=0.5s
+
+2017-02-03 12:59:40 (406 KB/s) - ‘rvw016’ saved [202883/202883]
+
+--2017-02-03 12:59:41--  http://doi.org/10.1093/reseval/rvw020
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw020 [following]
+--2017-02-03 12:59:43--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw020
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 95592 (93K) [text/html]
+Saving to: ‘rvw020’
+
+     0K .......... .......... .......... .......... .......... 53%  257K 0s
+    50K .......... .......... .......... .......... ...       100%  275K=0.4s
+
+2017-02-03 12:59:59 (265 KB/s) - ‘rvw020’ saved [95592/95592]
+
+--2017-02-03 13:00:00--  http://doi.org/10.1093/reseval/rvw013
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw013 [following]
+--2017-02-03 13:00:01--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 13:00:02 ERROR 400: Bad Request.
+
+--2017-02-03 13:00:03--  http://doi.org/10.1093/reseval/rvw017
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw017 [following]
+--2017-02-03 13:00:04--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 219045 (214K) [text/html]
+Saving to: ‘rvw017’
+
+     0K .......... .......... .......... .......... .......... 23%  209K 1s
+    50K .......... .......... .......... .......... .......... 46%  602K 0s
+   100K .......... .......... .......... .......... .......... 70%  607K 0s
+   150K .......... .......... .......... .......... .......... 93%  319K 0s
+   200K .......... ...                                        100% 4.38M=0.6s
+
+2017-02-03 13:00:14 (379 KB/s) - ‘rvw017’ saved [219045/219045]
+
+--2017-02-03 13:00:15--  http://doi.org/10.1093/reseval/rvw012
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw012 [following]
+--2017-02-03 13:00:17--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 392373 (383K) [text/html]
+Saving to: ‘rvw012’
+
+     0K .......... .......... .......... .......... .......... 13%  209K 2s
+    50K .......... .......... .......... .......... .......... 26%  611K 1s
+   100K .......... .......... .......... .......... .......... 39%  601K 1s
+   150K .......... .......... .......... .......... .......... 52%  567K 0s
+   200K .......... .......... .......... .......... .......... 65%  613K 0s
+   250K .......... .......... .......... .......... .......... 78%  313K 0s
+   300K .......... .......... .......... .......... .......... 91%  609K 0s
+   350K .......... .......... .......... ...                  100%  414K=0.9s
+
+2017-02-03 13:00:25 (428 KB/s) - ‘rvw012’ saved [392373/392373]
+
+--2017-02-03 13:00:26--  http://doi.org/10.1093/reseval/rvw011
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw011 [following]
+--2017-02-03 13:00:28--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 328326 (321K) [text/html]
+Saving to: ‘rvw011’
+
+     0K .......... .......... .......... .......... .......... 15%  208K 1s
+    50K .......... .......... .......... .......... .......... 31%  608K 1s
+   100K .......... .......... .......... .......... .......... 46%  600K 0s
+   150K .......... .......... .......... .......... .......... 62%  604K 0s
+   200K .......... .......... .......... .......... .......... 77%  307K 0s
+   250K .......... .......... .......... .......... .......... 93%  609K 0s
+   300K .......... ..........                                 100%  267K=0.8s
+
+2017-02-03 13:00:45 (395 KB/s) - ‘rvw011’ saved [328326/328326]
+
+--2017-02-03 13:00:46--  http://doi.org/10.1093/reseval/rvw010
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw010 [following]
+--2017-02-03 13:00:48--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 90921 (89K) [text/html]
+Saving to: ‘rvw010’
+
+     0K .......... .......... .......... .......... .......... 56%  209K 0s
+    50K .......... .......... .......... ........             100% 10.4M=0.2s
+
+2017-02-03 13:00:57 (365 KB/s) - ‘rvw010’ saved [90921/90921]
+
+--2017-02-03 13:00:58--  http://doi.org/10.1093/reseval/rvw008
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw008 [following]
+--2017-02-03 13:00:59--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 250557 (245K) [text/html]
+Saving to: ‘rvw008’
+
+     0K .......... .......... .......... .......... .......... 20%  209K 1s
+    50K .......... .......... .......... .......... .......... 40%  610K 0s
+   100K .......... .......... .......... .......... .......... 61%  603K 0s
+   150K .......... .......... .......... .......... .......... 81%  604K 0s
+   200K .......... .......... .......... .......... ....      100%  542K=0.6s
+
+2017-02-03 13:01:13 (429 KB/s) - ‘rvw008’ saved [250557/250557]
+
+--2017-02-03 13:01:14--  http://doi.org/10.1093/reseval/rvw002
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw002 [following]
+--2017-02-03 13:01:15--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 279871 (273K) [text/html]
+Saving to: ‘rvw002’
+
+     0K .......... .......... .......... .......... .......... 18%  310K 1s
+    50K .......... .......... .......... .......... .......... 36%  312K 1s
+   100K .......... .......... .......... .......... .......... 54%  614K 0s
+   150K .......... .......... .......... .......... .......... 73%  426K 0s
+   200K .......... .......... .......... .......... .......... 91%  404K 0s
+   250K .......... .......... ...                             100% 8.59M=0.6s
+
+2017-02-03 13:01:24 (423 KB/s) - ‘rvw002’ saved [279871/279871]
+
+--2017-02-03 13:01:25--  http://doi.org/10.1093/reseval/rvw014
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw014 [following]
+--2017-02-03 13:01:26--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw014
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 93855 (92K) [text/html]
+Saving to: ‘rvw014’
+
+     0K .......... .......... .......... .......... .......... 54%  209K 0s
+    50K .......... .......... .......... .......... .         100%  522K=0.3s
+
+2017-02-03 13:01:43 (287 KB/s) - ‘rvw014’ saved [93855/93855]
+
+--2017-02-03 13:01:44--  http://doi.org/10.1093/reseval/rvw009
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw009 [following]
+--2017-02-03 13:01:45--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 302910 (296K) [text/html]
+Saving to: ‘rvw009’
+
+     0K .......... .......... .......... .......... .......... 16%  209K 1s
+    50K .......... .......... .......... .......... .......... 33%  589K 1s
+   100K .......... .......... .......... .......... .......... 50%  613K 0s
+   150K .......... .......... .......... .......... .......... 67%  587K 0s
+   200K .......... .......... .......... .......... .......... 84%  609K 0s
+   250K .......... .......... .......... .......... .....     100%  290K=0.7s
+
+2017-02-03 13:01:53 (405 KB/s) - ‘rvw009’ saved [302910/302910]
+
+--2017-02-03 13:01:54--  http://doi.org/10.1093/reseval/rvw007
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw007 [following]
+--2017-02-03 13:01:56--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 232985 (228K) [text/html]
+Saving to: ‘rvw007’
+
+     0K .......... .......... .......... .......... .......... 21%  209K 1s
+    50K .......... .......... .......... .......... .......... 43%  610K 0s
+   100K .......... .......... .......... .......... .......... 65%  610K 0s
+   150K .......... .......... .......... .......... .......... 87%  611K 0s
+   200K .......... .......... .......                         100%  346K=0.6s
+
+2017-02-03 13:02:16 (403 KB/s) - ‘rvw007’ saved [232985/232985]
+
+--2017-02-03 13:02:17--  http://doi.org/10.1093/reseval/rvv041
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv041 [following]
+--2017-02-03 13:02:19--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv041
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 236470 (231K) [text/html]
+Saving to: ‘rvv041’
+
+     0K .......... .......... .......... .......... .......... 21%  209K 1s
+    50K .......... .......... .......... .......... .......... 43%  608K 0s
+   100K .......... .......... .......... .......... .......... 64%  607K 0s
+   150K .......... .......... .......... .......... .......... 86%  317K 0s
+   200K .......... .......... ..........                      100% 6.82M=0.6s
+
+2017-02-03 13:02:28 (408 KB/s) - ‘rvv041’ saved [236470/236470]
+
+--2017-02-03 13:02:29--  http://doi.org/10.1093/reseval/rvw006
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw006 [following]
+--2017-02-03 13:02:30--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 290110 (283K) [text/html]
+Saving to: ‘rvw006’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 35%  586K 1s
+   100K .......... .......... .......... .......... .......... 52%  609K 0s
+   150K .......... .......... .......... .......... .......... 70%  425K 0s
+   200K .......... .......... .......... .......... .......... 88%  407K 0s
+   250K .......... .......... .......... ...                  100%  415K=0.7s
+
+2017-02-03 13:03:02 (389 KB/s) - ‘rvw006’ saved [290110/290110]
+
+--2017-02-03 13:03:03--  http://doi.org/10.1093/reseval/rvw005
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw005 [following]
+--2017-02-03 13:03:04--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 393486 (384K) [text/html]
+Saving to: ‘rvw005’
+
+     0K .......... .......... .......... .......... .......... 13%  207K 2s
+    50K .......... .......... .......... .......... .......... 26%  604K 1s
+   100K .......... .......... .......... .......... .......... 39%  607K 1s
+   150K .......... .......... .......... .......... .......... 52%  605K 0s
+   200K .......... .......... .......... .......... .......... 65%  312K 0s
+   250K .......... .......... .......... .......... .......... 78%  604K 0s
+   300K .......... .......... .......... .......... .......... 91%  613K 0s
+   350K .......... .......... .......... ....                 100%  426K=0.9s
+
+2017-02-03 13:03:14 (430 KB/s) - ‘rvw005’ saved [393486/393486]
+
+--2017-02-03 13:03:15--  http://doi.org/10.1093/reseval/rvw004
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw004 [following]
+--2017-02-03 13:03:16--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 82185 (80K) [text/html]
+Saving to: ‘rvw004’
+
+     0K .......... .......... .......... .......... .......... 62%  209K 0s
+    50K .......... .......... ..........                      100% 10.7M=0.2s
+
+2017-02-03 13:03:23 (332 KB/s) - ‘rvw004’ saved [82185/82185]
+
+--2017-02-03 13:03:24--  http://doi.org/10.1093/reseval/rvw001
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw001 [following]
+--2017-02-03 13:03:26--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 295532 (289K) [text/html]
+Saving to: ‘rvw001’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 34%  609K 1s
+   100K .......... .......... .......... .......... .......... 51%  606K 0s
+   150K .......... .......... .......... .......... .......... 69%  317K 0s
+   200K .......... .......... .......... .......... .......... 86%  488K 0s
+   250K .......... .......... .......... ........             100%  481K=0.7s
+
+2017-02-03 13:03:43 (388 KB/s) - ‘rvw001’ saved [295532/295532]
+
+--2017-02-03 13:03:44--  http://doi.org/10.1093/reseval/rvv044
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv044 [following]
+--2017-02-03 13:03:45--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv044
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 13:03:46 ERROR 400: Bad Request.
+
+--2017-02-03 13:03:47--  http://doi.org/10.1093/reseval/rvw003
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw003 [following]
+--2017-02-03 13:03:48--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 235485 (230K) [text/html]
+Saving to: ‘rvw003’
+
+     0K .......... .......... .......... .......... .......... 21%  209K 1s
+    50K .......... .......... .......... .......... .......... 43%  611K 0s
+   100K .......... .......... .......... .......... .......... 65%  603K 0s
+   150K .......... .......... .......... .......... .......... 86%  310K 0s
+   200K .......... .......... .........                       100% 8.87M=0.6s
+
+2017-02-03 13:03:57 (404 KB/s) - ‘rvw003’ saved [235485/235485]
+
+--2017-02-03 13:03:58--  http://doi.org/10.1093/reseval/rvv048
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv048 [following]
+--2017-02-03 13:03:59--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv048
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 446881 (436K) [text/html]
+Saving to: ‘rvv048’
+
+     0K .......... .......... .......... .......... .......... 11%  209K 2s
+    50K .......... .......... .......... .......... .......... 22%  606K 1s
+   100K .......... .......... .......... .......... .......... 34%  605K 1s
+   150K .......... .......... .......... .......... .......... 45%  603K 1s
+   200K .......... .......... .......... .......... .......... 57%  312K 0s
+   250K .......... .......... .......... .......... .......... 68%  605K 0s
+   300K .......... .......... .......... .......... .......... 80%  613K 0s
+   350K .......... .......... .......... .......... .......... 91%  312K 0s
+   400K .......... .......... .......... ......               100%  456K=1.1s
+
+2017-02-03 13:04:19 (415 KB/s) - ‘rvv048’ saved [446881/446881]
+
+--2017-02-03 13:04:20--  http://doi.org/10.1093/reseval/rvv031
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv031 [following]
+--2017-02-03 13:04:22--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv031
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 300032 (293K) [text/html]
+Saving to: ‘rvv031’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 34%  600K 1s
+   100K .......... .......... .......... .......... .......... 51%  609K 0s
+   150K .......... .......... .......... .......... .......... 68%  317K 0s
+   200K .......... .......... .......... .......... .......... 85%  588K 0s
+   250K .......... .......... .......... .......... ...       100%  535K=0.7s
+
+2017-02-03 13:04:27 (403 KB/s) - ‘rvv031’ saved [300032/300032]
+
+--2017-02-03 13:04:28--  http://doi.org/10.1093/reseval/rvv049
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv049 [following]
+--2017-02-03 13:04:30--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv049
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 242832 (237K) [text/html]
+Saving to: ‘rvv049’
+
+     0K .......... .......... .......... .......... .......... 21%  208K 1s
+    50K .......... .......... .......... .......... .......... 42%  606K 0s
+   100K .......... .......... .......... .......... .......... 63%  606K 0s
+   150K .......... .......... .......... .......... .......... 84%  314K 0s
+   200K .......... .......... .......... .......              100%  939K=0.6s
+
+2017-02-03 13:04:45 (392 KB/s) - ‘rvv049’ saved [242832/242832]
+
+--2017-02-03 13:04:46--  http://doi.org/10.1093/reseval/rvv047
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv047 [following]
+--2017-02-03 13:04:48--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv047
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 253863 (248K) [text/html]
+Saving to: ‘rvv047’
+
+     0K .......... .......... .......... .......... .......... 20%  207K 1s
+    50K .......... .......... .......... .......... .......... 40%  615K 0s
+   100K .......... .......... .......... .......... .......... 60%  605K 0s
+   150K .......... .......... .......... .......... .......... 80%  606K 0s
+   200K .......... .......... .......... .......... .......   100%  304K=0.6s
+
+2017-02-03 13:05:10 (384 KB/s) - ‘rvv047’ saved [253863/253863]
+
+--2017-02-03 13:05:11--  http://doi.org/10.1093/reseval/rvv046
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv046 [following]
+--2017-02-03 13:05:12--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv046
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 284805 (278K) [text/html]
+Saving to: ‘rvv046’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 35%  614K 1s
+   100K .......... .......... .......... .......... .......... 53%  602K 0s
+   150K .......... .......... .......... .......... .......... 71%  611K 0s
+   200K .......... .......... .......... .......... .......... 89%  312K 0s
+   250K .......... .......... ........                        100% 13.0M=0.6s
+
+2017-02-03 13:05:23 (429 KB/s) - ‘rvv046’ saved [284805/284805]
+
+--2017-02-03 13:05:24--  http://doi.org/10.1093/reseval/rvv045
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv045 [following]
+--2017-02-03 13:05:25--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv045
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 308019 (301K) [text/html]
+Saving to: ‘rvv045’
+
+     0K .......... .......... .......... .......... .......... 16%  209K 1s
+    50K .......... .......... .......... .......... .......... 33%  609K 1s
+   100K .......... .......... .......... .......... .......... 49%  609K 0s
+   150K .......... .......... .......... .......... .......... 66%  315K 0s
+   200K .......... .......... .......... .......... .......... 83%  579K 0s
+   250K .......... .......... .......... .......... .......... 99%  602K 0s
+   300K                                                       100% 3.64M=0.7s
+
+2017-02-03 13:05:33 (411 KB/s) - ‘rvv045’ saved [308019/308019]
+
+--2017-02-03 13:05:34--  http://doi.org/10.1093/reseval/rvv040
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv040 [following]
+--2017-02-03 13:05:35--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv040
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 277545 (271K) [text/html]
+Saving to: ‘rvv040’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 36%  609K 1s
+   100K .......... .......... .......... .......... .......... 55%  597K 0s
+   150K .......... .......... .......... .......... .......... 73%  428K 0s
+   200K .......... .......... .......... .......... .......... 92%  399K 0s
+   250K .......... .......... .                               100% 22.5M=0.6s
+
+2017-02-03 13:05:43 (418 KB/s) - ‘rvv040’ saved [277545/277545]
+
+--2017-02-03 13:05:44--  http://doi.org/10.1093/reseval/rvv043
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv043 [following]
+--2017-02-03 13:05:46--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv043
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 295014 (288K) [text/html]
+Saving to: ‘rvv043’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 34%  611K 1s
+   100K .......... .......... .......... .......... .......... 52%  552K 0s
+   150K .......... .......... .......... .......... .......... 69%  420K 0s
+   200K .......... .......... .......... .......... .......... 86%  406K 0s
+   250K .......... .......... .......... ........             100%  544K=0.7s
+
+2017-02-03 13:05:53 (398 KB/s) - ‘rvv043’ saved [295014/295014]
+
+--2017-02-03 13:05:54--  http://doi.org/10.1093/reseval/rvw025
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 13:05:56--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘rvw025’
+
+     0K .......... .......... .......... .......... .......... 97%  640K 0s
+    50K .                                                     100% 2306G=0.08s
+
+2017-02-03 13:05:56 (655 KB/s) - ‘rvw025’ saved [52438/52438]
+
+--2017-02-03 13:05:57--  http://doi.org/10.1093/reseval/rvw022
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw022 [following]
+--2017-02-03 13:05:58--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvw022
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 13:05:59 ERROR 400: Bad Request.
+
+--2017-02-03 13:06:00--  http://doi.org/10.1093/reseval/rvv042
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv042 [following]
+--2017-02-03 13:06:01--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv042
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 248827 (243K) [text/html]
+Saving to: ‘rvv042’
+
+     0K .......... .......... .......... .......... .......... 20%  209K 1s
+    50K .......... .......... .......... .......... .......... 41%  606K 0s
+   100K .......... .......... .......... .......... .......... 61%  610K 0s
+   150K .......... .......... .......... .......... .......... 82%  600K 0s
+   200K .......... .......... .......... .......... ..        100%  531K=0.6s
+
+2017-02-03 13:06:19 (428 KB/s) - ‘rvv042’ saved [248827/248827]
+
+--2017-02-03 13:06:20--  http://doi.org/10.1093/reseval/rvv039
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv039 [following]
+--2017-02-03 13:06:21--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv039
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 353988 (346K) [text/html]
+Saving to: ‘rvv039’
+
+     0K .......... .......... .......... .......... .......... 14%  209K 1s
+    50K .......... .......... .......... .......... .......... 28%  609K 1s
+   100K .......... .......... .......... .......... .......... 43%  610K 1s
+   150K .......... .......... .......... .......... .......... 57%  611K 0s
+   200K .......... .......... .......... .......... .......... 72%  313K 0s
+   250K .......... .......... .......... .......... .......... 86%  605K 0s
+   300K .......... .......... .......... .......... .....     100%  564K=0.8s
+
+2017-02-03 13:06:27 (427 KB/s) - ‘rvv039’ saved [353988/353988]
+
+--2017-02-03 13:06:28--  http://doi.org/10.1093/reseval/rvv038
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv038 [following]
+--2017-02-03 13:06:30--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv038
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 418499 (409K) [text/html]
+Saving to: ‘rvv038’
+
+     0K .......... .......... .......... .......... .......... 12%  209K 2s
+    50K .......... .......... .......... .......... .......... 24%  606K 1s
+   100K .......... .......... .......... .......... .......... 36%  607K 1s
+   150K .......... .......... .......... .......... .......... 48%  607K 1s
+   200K .......... .......... .......... .......... .......... 61%  312K 0s
+   250K .......... .......... .......... .......... .......... 73%  611K 0s
+   300K .......... .......... .......... .......... .......... 85%  605K 0s
+   350K .......... .......... .......... .......... .......... 97%  418K 0s
+   400K ........                                              100% 21.6M=0.9s
+
+2017-02-03 13:06:39 (439 KB/s) - ‘rvv038’ saved [418499/418499]
+
+--2017-02-03 13:06:40--  http://doi.org/10.1093/reseval/rvv037
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv037 [following]
+--2017-02-03 13:06:42--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv037
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 288184 (281K) [text/html]
+Saving to: ‘rvv037’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 35%  603K 1s
+   100K .......... .......... .......... .......... .......... 53%  610K 0s
+   150K .......... .......... .......... .......... .......... 71%  426K 0s
+   200K .......... .......... .......... .......... .......... 88%  408K 0s
+   250K .......... .......... .......... .                    100% 5.09M=0.6s
+
+2017-02-03 13:06:48 (433 KB/s) - ‘rvv037’ saved [288184/288184]
+
+--2017-02-03 13:06:49--  http://doi.org/10.1093/reseval/rvv033
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv033 [following]
+--2017-02-03 13:06:51--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv033
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 354888 (347K) [text/html]
+Saving to: ‘rvv033’
+
+     0K .......... .......... .......... .......... .......... 14%  209K 1s
+    50K .......... .......... .......... .......... .......... 28%  609K 1s
+   100K .......... .......... .......... .......... .......... 43%  605K 1s
+   150K .......... .......... .......... .......... .......... 57%  433K 0s
+   200K .......... .......... .......... .......... .......... 72%  394K 0s
+   250K .......... .......... .......... .......... .......... 86%  614K 0s
+   300K .......... .......... .......... .......... ......    100%  568K=0.8s
+
+2017-02-03 13:07:04 (428 KB/s) - ‘rvv033’ saved [354888/354888]
+
+--2017-02-03 13:07:05--  http://doi.org/10.1093/reseval/rvv036
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv036 [following]
+--2017-02-03 13:07:07--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv036
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 248326 (243K) [text/html]
+Saving to: ‘rvv036’
+
+     0K .......... .......... .......... .......... .......... 20%  309K 1s
+    50K .......... .......... .......... .......... .......... 41%  313K 0s
+   100K .......... .......... .......... .......... .......... 61%  599K 0s
+   150K .......... .......... .......... .......... .......... 82%  611K 0s
+   200K .......... .......... .......... .......... ..        100%  524K=0.6s
+
+2017-02-03 13:07:27 (427 KB/s) - ‘rvv036’ saved [248326/248326]
+
+--2017-02-03 13:07:28--  http://doi.org/10.1093/reseval/rvv035
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv035 [following]
+--2017-02-03 13:07:29--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv035
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 282220 (276K) [text/html]
+Saving to: ‘rvv035’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 36%  595K 1s
+   100K .......... .......... .......... .......... .......... 54%  613K 0s
+   150K .......... .......... .......... .......... .......... 72%  425K 0s
+   200K .......... .......... .......... .......... .......... 90%  404K 0s
+   250K .......... .......... .....                           100%  633K=0.7s
+
+2017-02-03 13:07:40 (401 KB/s) - ‘rvv035’ saved [282220/282220]
+
+--2017-02-03 13:07:41--  http://doi.org/10.1093/reseval/rvv034
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv034 [following]
+--2017-02-03 13:07:42--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv034
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 303824 (297K) [text/html]
+Saving to: ‘rvv034’
+
+     0K .......... .......... .......... .......... .......... 16%  209K 1s
+    50K .......... .......... .......... .......... .......... 33%  602K 1s
+   100K .......... .......... .......... .......... .......... 50%  604K 0s
+   150K .......... .......... .......... .......... .......... 67%  597K 0s
+   200K .......... .......... .......... .......... .......... 84%  318K 0s
+   250K .......... .......... .......... .......... ......    100%  577K=0.7s
+
+2017-02-03 13:08:05 (408 KB/s) - ‘rvv034’ saved [303824/303824]
+
+--2017-02-03 13:08:06--  http://doi.org/10.1093/reseval/rvv028
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv028 [following]
+--2017-02-03 13:08:07--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv028
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 13:08:08 ERROR 400: Bad Request.
+
+--2017-02-03 13:08:09--  http://doi.org/10.1093/reseval/rvv027
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv027 [following]
+--2017-02-03 13:08:10--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv027
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 295750 (289K) [text/html]
+Saving to: ‘rvv027’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 34%  603K 1s
+   100K .......... .......... .......... .......... .......... 51%  610K 0s
+   150K .......... .......... .......... .......... .......... 69%  602K 0s
+   200K .......... .......... .......... .......... .......... 86%  311K 0s
+   250K .......... .......... .......... ........             100%  875K=0.7s
+
+2017-02-03 13:08:31 (417 KB/s) - ‘rvv027’ saved [295750/295750]
+
+--2017-02-03 13:08:32--  http://doi.org/10.1093/reseval/rvv029
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv029 [following]
+--2017-02-03 13:08:33--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv029
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 256147 (250K) [text/html]
+Saving to: ‘rvv029’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 39%  603K 0s
+   100K .......... .......... .......... .......... .......... 59%  609K 0s
+   150K .......... .......... .......... .......... .......... 79%  421K 0s
+   200K .......... .......... .......... .......... .......... 99%  611K 0s
+   250K                                                       100%  274G=0.6s
+
+2017-02-03 13:08:41 (413 KB/s) - ‘rvv029’ saved [256147/256147]
+
+--2017-02-03 13:08:42--  http://doi.org/10.1093/reseval/rvv032
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv032 [following]
+--2017-02-03 13:08:43--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv032
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 289102 (282K) [text/html]
+Saving to: ‘rvv032’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 35%  605K 1s
+   100K .......... .......... .......... .......... .......... 53%  615K 0s
+   150K .......... .......... .......... .......... .......... 70%  316K 0s
+   200K .......... .......... .......... .......... .......... 88%  596K 0s
+   250K .......... .......... .......... ..                   100%  406K=0.7s
+
+2017-02-03 13:08:56 (389 KB/s) - ‘rvv032’ saved [289102/289102]
+
+--2017-02-03 13:08:57--  http://doi.org/10.1093/reseval/rvv025
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv025 [following]
+--2017-02-03 13:08:59--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv025
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 348497 (340K) [text/html]
+Saving to: ‘rvv025’
+
+     0K .......... .......... .......... .......... .......... 14%  208K 1s
+    50K .......... .......... .......... .......... .......... 29%  609K 1s
+   100K .......... .......... .......... .......... .......... 44%  603K 1s
+   150K .......... .......... .......... .......... .......... 58%  315K 0s
+   200K .......... .......... .......... .......... .......... 73%  600K 0s
+   250K .......... .......... .......... .......... .......... 88%  612K 0s
+   300K .......... .......... .......... ..........           100%  498K=0.8s
+
+2017-02-03 13:09:11 (420 KB/s) - ‘rvv025’ saved [348497/348497]
+
+--2017-02-03 13:09:12--  http://doi.org/10.1093/reseval/rvv023
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv023 [following]
+--2017-02-03 13:09:14--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 293666 (287K) [text/html]
+Saving to: ‘rvv023’
+
+     0K .......... .......... .......... .......... .......... 17%  208K 1s
+    50K .......... .......... .......... .......... .......... 34%  603K 1s
+   100K .......... .......... .......... .......... .......... 52%  611K 0s
+   150K .......... .......... .......... .......... .......... 69%  608K 0s
+   200K .......... .......... .......... .......... .......... 87%  310K 0s
+   250K .......... .......... .......... ......               100%  460K=0.7s
+
+2017-02-03 13:09:25 (393 KB/s) - ‘rvv023’ saved [293666/293666]
+
+--2017-02-03 13:09:26--  http://doi.org/10.1093/reseval/rvv026
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv026 [following]
+--2017-02-03 13:09:27--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv026
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 281537 (275K) [text/html]
+Saving to: ‘rvv026’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 36%  604K 1s
+   100K .......... .......... .......... .......... .......... 54%  607K 0s
+   150K .......... .......... .......... .......... .......... 72%  422K 0s
+   200K .......... .......... .......... .......... .......... 90%  400K 0s
+   250K .......... .......... ....                            100%  715K=0.7s
+
+2017-02-03 13:09:38 (403 KB/s) - ‘rvv026’ saved [281537/281537]
+
+--2017-02-03 13:09:39--  http://doi.org/10.1093/reseval/rvv024
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv024 [following]
+--2017-02-03 13:09:40--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv024
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 408506 (399K) [text/html]
+Saving to: ‘rvv024’
+
+     0K .......... .......... .......... .......... .......... 12%  208K 2s
+    50K .......... .......... .......... .......... .......... 25%  608K 1s
+   100K .......... .......... .......... .......... .......... 37%  605K 1s
+   150K .......... .......... .......... .......... .......... 50%  599K 0s
+   200K .......... .......... .......... .......... .......... 62%  312K 0s
+   250K .......... .......... .......... .......... .......... 75%  599K 0s
+   300K .......... .......... .......... .......... .......... 87%  606K 0s
+   350K .......... .......... .......... .......... ........  100%  310K=1.0s
+
+2017-02-03 13:09:48 (410 KB/s) - ‘rvv024’ saved [408506/408506]
+
+--2017-02-03 13:09:49--  http://doi.org/10.1093/reseval/rvv030
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv030 [following]
+--2017-02-03 13:09:50--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv030
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71865 (70K) [text/html]
+Saving to: ‘rvv030’
+
+     0K .......... .......... .......... .......... .......... 71%  208K 0s
+    50K .......... ..........                                 100% 13.5M=0.2s
+
+2017-02-03 13:09:59 (290 KB/s) - ‘rvv030’ saved [71865/71865]
+
+--2017-02-03 13:10:00--  http://doi.org/10.1093/reseval/rvv022
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv022 [following]
+--2017-02-03 13:10:01--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv022
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 255921 (250K) [text/html]
+Saving to: ‘rvv022’
+
+     0K .......... .......... .......... .......... .......... 20%  209K 1s
+    50K .......... .......... .......... .......... .......... 40%  604K 0s
+   100K .......... .......... .......... .......... .......... 60%  607K 0s
+   150K .......... .......... .......... .......... .......... 80%  318K 0s
+   200K .......... .......... .......... .......... ......... 100%  598K=0.6s
+
+2017-02-03 13:10:11 (387 KB/s) - ‘rvv022’ saved [255921/255921]
+
+--2017-02-03 13:10:12--  http://doi.org/10.1093/reseval/rvv021
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv021 [following]
+--2017-02-03 13:10:13--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 280198 (274K) [text/html]
+Saving to: ‘rvv021’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 36%  610K 1s
+   100K .......... .......... .......... .......... .......... 54%  611K 0s
+   150K .......... .......... .......... .......... .......... 73%  315K 0s
+   200K .......... .......... .......... .......... .......... 91%  593K 0s
+   250K .......... .......... ...                             100% 13.8M=0.6s
+
+2017-02-03 13:10:19 (423 KB/s) - ‘rvv021’ saved [280198/280198]
+
+--2017-02-03 13:10:20--  http://doi.org/10.1093/reseval/rvv020
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv020 [following]
+--2017-02-03 13:10:22--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv020
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 248840 (243K) [text/html]
+Saving to: ‘rvv020’
+
+     0K .......... .......... .......... .......... .......... 20%  209K 1s
+    50K .......... .......... .......... .......... .......... 41%  610K 0s
+   100K .......... .......... .......... .......... .......... 61%  603K 0s
+   150K .......... .......... .......... .......... .......... 82%  318K 0s
+   200K .......... .......... .......... .......... ...       100%  535K=0.6s
+
+2017-02-03 13:10:27 (379 KB/s) - ‘rvv020’ saved [248840/248840]
+
+--2017-02-03 13:10:28--  http://doi.org/10.1093/reseval/rvv018
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv018 [following]
+--2017-02-03 13:10:29--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv018
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 397275 (388K) [text/html]
+Saving to: ‘rvv018’
+
+     0K .......... .......... .......... .......... .......... 12%  209K 2s
+    50K .......... .......... .......... .......... .......... 25%  615K 1s
+   100K .......... .......... .......... .......... .......... 38%  608K 1s
+   150K .......... .......... .......... .......... .......... 51%  604K 0s
+   200K .......... .......... .......... .......... .......... 64%  313K 0s
+   250K .......... .......... .......... .......... .......... 77%  611K 0s
+   300K .......... .......... .......... .......... .......... 90%  610K 0s
+   350K .......... .......... .......... .......              100%  463K=0.9s
+
+2017-02-03 13:10:41 (435 KB/s) - ‘rvv018’ saved [397275/397275]
+
+--2017-02-03 13:10:42--  http://doi.org/10.1093/reseval/rvv016
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv016 [following]
+--2017-02-03 13:10:44--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv016
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 288980 (282K) [text/html]
+Saving to: ‘rvv016’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 35%  611K 1s
+   100K .......... .......... .......... .......... .......... 53%  608K 0s
+   150K .......... .......... .......... .......... .......... 70%  417K 0s
+   200K .......... .......... .......... .......... .......... 88%  408K 0s
+   250K .......... .......... .......... ..                   100%  806K=0.7s
+
+2017-02-03 13:10:52 (411 KB/s) - ‘rvv016’ saved [288980/288980]
+
+--2017-02-03 13:10:53--  http://doi.org/10.1093/reseval/rvv019
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv019 [following]
+--2017-02-03 13:10:55--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 292204 (285K) [text/html]
+Saving to: ‘rvv019’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 35%  612K 1s
+   100K .......... .......... .......... .......... .......... 52%  582K 0s
+   150K .......... .......... .......... .......... .......... 70%  433K 0s
+   200K .......... .......... .......... .......... .......... 87%  605K 0s
+   250K .......... .......... .......... .....                100%  439K=0.7s
+
+2017-02-03 13:11:03 (416 KB/s) - ‘rvv019’ saved [292204/292204]
+
+--2017-02-03 13:11:04--  http://doi.org/10.1093/reseval/rvv017
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv017 [following]
+--2017-02-03 13:11:06--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 345440 (337K) [text/html]
+Saving to: ‘rvv017’
+
+     0K .......... .......... .......... .......... .......... 14%  209K 1s
+    50K .......... .......... .......... .......... .......... 29%  612K 1s
+   100K .......... .......... .......... .......... .......... 44%  604K 1s
+   150K .......... .......... .......... .......... .......... 59%  609K 0s
+   200K .......... .......... .......... .......... .......... 74%  315K 0s
+   250K .......... .......... .......... .......... .......... 88%  609K 0s
+   300K .......... .......... .......... .......              100%  462K=0.8s
+
+2017-02-03 13:11:13 (417 KB/s) - ‘rvv017’ saved [345440/345440]
+
+--2017-02-03 13:11:14--  http://doi.org/10.1093/reseval/rvv014
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv014 [following]
+--2017-02-03 13:11:16--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv014
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 270675 (264K) [text/html]
+Saving to: ‘rvv014’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 37%  610K 1s
+   100K .......... .......... .......... .......... .......... 56%  612K 0s
+   150K .......... .......... .......... .......... .......... 75%  317K 0s
+   200K .......... .......... .......... .......... .......... 94%  584K 0s
+   250K .......... ....                                       100% 24.2M=0.6s
+
+2017-02-03 13:11:24 (409 KB/s) - ‘rvv014’ saved [270675/270675]
+
+--2017-02-03 13:11:25--  http://doi.org/10.1093/reseval/rvv015
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv015 [following]
+--2017-02-03 13:11:26--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 320978 (313K) [text/html]
+Saving to: ‘rvv015’
+
+     0K .......... .......... .......... .......... .......... 15%  209K 1s
+    50K .......... .......... .......... .......... .......... 31%  603K 1s
+   100K .......... .......... .......... .......... .......... 47%  607K 0s
+   150K .......... .......... .......... .......... .......... 63%  315K 0s
+   200K .......... .......... .......... .......... .......... 79%  585K 0s
+   250K .......... .......... .......... .......... .......... 95%  604K 0s
+   300K .......... ...                                        100%  175K=0.8s
+
+2017-02-03 13:11:31 (388 KB/s) - ‘rvv015’ saved [320978/320978]
+
+--2017-02-03 13:11:32--  http://doi.org/10.1093/reseval/rvv013
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv013 [following]
+--2017-02-03 13:11:34--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 13:11:34 ERROR 400: Bad Request.
+
+--2017-02-03 13:11:35--  http://doi.org/10.1093/reseval/rvv012
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv012 [following]
+--2017-02-03 13:11:36--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 253227 (247K) [text/html]
+Saving to: ‘rvv012’
+
+     0K .......... .......... .......... .......... .......... 20%  209K 1s
+    50K .......... .......... .......... .......... .......... 40%  606K 0s
+   100K .......... .......... .......... .......... .......... 60%  606K 0s
+   150K .......... .......... .......... .......... .......... 80%  317K 0s
+   200K .......... .......... .......... .......... .......   100%  564K=0.6s
+
+2017-02-03 13:11:46 (383 KB/s) - ‘rvv012’ saved [253227/253227]
+
+--2017-02-03 13:11:47--  http://doi.org/10.1093/reseval/rvv011
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv011 [following]
+--2017-02-03 13:11:49--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 345806 (338K) [text/html]
+Saving to: ‘rvv011’
+
+     0K .......... .......... .......... .......... .......... 14%  209K 1s
+    50K .......... .......... .......... .......... .......... 29%  579K 1s
+   100K .......... .......... .......... .......... .......... 44%  610K 1s
+   150K .......... .......... .......... .......... .......... 59%  609K 0s
+   200K .......... .......... .......... .......... .......... 74%  309K 0s
+   250K .......... .......... .......... .......... .......... 88%  605K 0s
+   300K .......... .......... .......... .......              100%  475K=0.8s
+
+2017-02-03 13:12:27 (415 KB/s) - ‘rvv011’ saved [345806/345806]
+
+--2017-02-03 13:12:28--  http://doi.org/10.1093/reseval/rvv009
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv009 [following]
+--2017-02-03 13:12:30--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 257940 (252K) [text/html]
+Saving to: ‘rvv009’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 39%  591K 0s
+   100K .......... .......... .......... .......... .......... 59%  609K 0s
+   150K .......... .......... .......... .......... .......... 79%  609K 0s
+   200K .......... .......... .......... .......... .......... 99%  315K 0s
+   250K .                                                     100% 3614G=0.6s
+
+2017-02-03 13:12:40 (390 KB/s) - ‘rvv009’ saved [257940/257940]
+
+--2017-02-03 13:12:41--  http://doi.org/10.1093/reseval/rvv008
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv008 [following]
+--2017-02-03 13:12:43--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 356851 (348K) [text/html]
+Saving to: ‘rvv008’
+
+     0K .......... .......... .......... .......... .......... 14%  209K 1s
+    50K .......... .......... .......... .......... .......... 28%  607K 1s
+   100K .......... .......... .......... .......... .......... 43%  613K 1s
+   150K .......... .......... .......... .......... .......... 57%  313K 0s
+   200K .......... .......... .......... .......... .......... 71%  607K 0s
+   250K .......... .......... .......... .......... .......... 86%  602K 0s
+   300K .......... .......... .......... .......... ........  100%  592K=0.8s
+
+2017-02-03 13:12:55 (430 KB/s) - ‘rvv008’ saved [356851/356851]
+
+--2017-02-03 13:12:56--  http://doi.org/10.1093/reseval/rvv010
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv010 [following]
+--2017-02-03 13:12:57--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 13:12:57 ERROR 400: Bad Request.
+
+--2017-02-03 13:12:58--  http://doi.org/10.1093/reseval/rvv007
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv007 [following]
+--2017-02-03 13:13:00--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 274901 (268K) [text/html]
+Saving to: ‘rvv007’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 37%  607K 1s
+   100K .......... .......... .......... .......... .......... 55%  606K 0s
+   150K .......... .......... .......... .......... .......... 74%  608K 0s
+   200K .......... .......... .......... .......... .......... 93%  317K 0s
+   250K .......... ........                                   100% 7.16M=0.6s
+
+2017-02-03 13:13:12 (415 KB/s) - ‘rvv007’ saved [274901/274901]
+
+--2017-02-03 13:13:13--  http://doi.org/10.1093/reseval/rvv006
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv006 [following]
+--2017-02-03 13:13:15--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 281727 (275K) [text/html]
+Saving to: ‘rvv006’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 36%  614K 1s
+   100K .......... .......... .......... .......... .......... 54%  601K 0s
+   150K .......... .......... .......... .......... .......... 72%  318K 0s
+   200K .......... .......... .......... .......... .......... 90%  595K 0s
+   250K .......... .......... .....                           100% 10.8M=0.6s
+
+2017-02-03 13:13:27 (425 KB/s) - ‘rvv006’ saved [281727/281727]
+
+--2017-02-03 13:13:28--  http://doi.org/10.1093/reseval/rvv005
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv005 [following]
+--2017-02-03 13:13:29--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 237344 (232K) [text/html]
+Saving to: ‘rvv005’
+
+     0K .......... .......... .......... .......... .......... 21%  209K 1s
+    50K .......... .......... .......... .......... .......... 43%  604K 0s
+   100K .......... .......... .......... .......... .......... 64%  616K 0s
+   150K .......... .......... .......... .......... .......... 86%  602K 0s
+   200K .......... .......... .......... .                    100%  401K=0.6s
+
+2017-02-03 13:13:36 (409 KB/s) - ‘rvv005’ saved [237344/237344]
+
+--2017-02-03 13:13:37--  http://doi.org/10.1093/reseval/rvv004
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv004 [following]
+--2017-02-03 13:13:38--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 13:13:39 ERROR 400: Bad Request.
+
+--2017-02-03 13:13:40--  http://doi.org/10.1093/reseval/rvv002
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv002 [following]
+--2017-02-03 13:13:41--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 274107 (268K) [text/html]
+Saving to: ‘rvv002’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 37%  591K 1s
+   100K .......... .......... .......... .......... .......... 56%  606K 0s
+   150K .......... .......... .......... .......... .......... 74%  588K 0s
+   200K .......... .......... .......... .......... .......... 93%  319K 0s
+   250K .......... .......                                    100% 18.2M=0.6s
+
+2017-02-03 13:13:48 (412 KB/s) - ‘rvv002’ saved [274107/274107]
+
+--2017-02-03 13:13:49--  http://doi.org/10.1093/reseval/rvv003
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv003 [following]
+--2017-02-03 13:13:50--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 209076 (204K) [text/html]
+Saving to: ‘rvv003’
+
+     0K .......... .......... .......... .......... .......... 24%  209K 1s
+    50K .......... .......... .......... .......... .......... 48%  606K 0s
+   100K .......... .......... .......... .......... .......... 73%  609K 0s
+   150K .......... .......... .......... .......... .......... 97%  418K 0s
+   200K ....                                                  100%  111K=0.6s
+
+2017-02-03 13:13:57 (364 KB/s) - ‘rvv003’ saved [209076/209076]
+
+--2017-02-03 13:13:58--  http://doi.org/10.1093/reseval/rvv001
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv001 [following]
+--2017-02-03 13:13:59--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvv001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 13:14:00 ERROR 400: Bad Request.
+
+--2017-02-03 13:14:01--  http://doi.org/10.1093/reseval/rvu035
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu035 [following]
+--2017-02-03 13:14:02--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu035
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 254589 (249K) [text/html]
+Saving to: ‘rvu035’
+
+     0K .......... .......... .......... .......... .......... 20%  208K 1s
+    50K .......... .......... .......... .......... .......... 40%  613K 0s
+   100K .......... .......... .......... .......... .......... 60%  600K 0s
+   150K .......... .......... .......... .......... .......... 80%  316K 0s
+   200K .......... .......... .......... .......... ........  100%  593K=0.6s
+
+2017-02-03 13:14:08 (385 KB/s) - ‘rvu035’ saved [254589/254589]
+
+--2017-02-03 13:14:09--  http://doi.org/10.1093/reseval/rvu037
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu037 [following]
+--2017-02-03 13:14:10--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu037
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 393033 (384K) [text/html]
+Saving to: ‘rvu037’
+
+     0K .......... .......... .......... .......... .......... 13%  209K 2s
+    50K .......... .......... .......... .......... .......... 26%  584K 1s
+   100K .......... .......... .......... .......... .......... 39%  612K 1s
+   150K .......... .......... .......... .......... .......... 52%  607K 0s
+   200K .......... .......... .......... .......... .......... 65%  322K 0s
+   250K .......... .......... .......... .......... .......... 78%  569K 0s
+   300K .......... .......... .......... .......... .......... 91%  607K 0s
+   350K .......... .......... .......... ...                  100%  422K=0.9s
+
+2017-02-03 13:14:21 (429 KB/s) - ‘rvu037’ saved [393033/393033]
+
+--2017-02-03 13:14:22--  http://doi.org/10.1093/reseval/rvu036
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu036 [following]
+--2017-02-03 13:14:23--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu036
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 13:14:24 ERROR 400: Bad Request.
+
+--2017-02-03 13:14:25--  http://doi.org/10.1093/reseval/rvu034
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu034 [following]
+--2017-02-03 13:14:26--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu034
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 364838 (356K) [text/html]
+Saving to: ‘rvu034’
+
+     0K .......... .......... .......... .......... .......... 14%  207K 1s
+    50K .......... .......... .......... .......... .......... 28%  600K 1s
+   100K .......... .......... .......... .......... .......... 42%  611K 1s
+   150K .......... .......... .......... .......... .......... 56%  421K 0s
+   200K .......... .......... .......... .......... .......... 70%  411K 0s
+   250K .......... .......... .......... .......... .......... 84%  575K 0s
+   300K .......... .......... .......... .......... .......... 98%  605K 0s
+   350K ......                                                100% 17.9M=0.8s
+
+2017-02-03 13:14:36 (436 KB/s) - ‘rvu034’ saved [364838/364838]
+
+--2017-02-03 13:14:37--  http://doi.org/10.1093/reseval/rvu033
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu033 [following]
+--2017-02-03 13:14:39--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu033
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 85657 (84K) [text/html]
+Saving to: ‘rvu033’
+
+     0K .......... .......... .......... .......... .......... 59%  208K 0s
+    50K .......... .......... .......... ...                  100% 12.2M=0.2s
+
+2017-02-03 13:14:47 (345 KB/s) - ‘rvu033’ saved [85657/85657]
+
+--2017-02-03 13:14:48--  http://doi.org/10.1093/reseval/rvu031
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu031 [following]
+--2017-02-03 13:14:49--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu031
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 213809 (209K) [text/html]
+Saving to: ‘rvu031’
+
+     0K .......... .......... .......... .......... .......... 23%  209K 1s
+    50K .......... .......... .......... .......... .......... 47%  601K 0s
+   100K .......... .......... .......... .......... .......... 71%  598K 0s
+   150K .......... .......... .......... .......... .......... 95%  315K 0s
+   200K ........                                              100% 18.5M=0.6s
+
+2017-02-03 13:14:57 (369 KB/s) - ‘rvu031’ saved [213809/213809]
+
+--2017-02-03 13:14:58--  http://doi.org/10.1093/reseval/rvu032
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu032 [following]
+--2017-02-03 13:14:59--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu032
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 378417 (370K) [text/html]
+Saving to: ‘rvu032’
+
+     0K .......... .......... .......... .......... .......... 13%  209K 2s
+    50K .......... .......... .......... .......... .......... 27%  604K 1s
+   100K .......... .......... .......... .......... .......... 40%  615K 1s
+   150K .......... .......... .......... .......... .......... 54%  609K 0s
+   200K .......... .......... .......... .......... .......... 67%  312K 0s
+   250K .......... .......... .......... .......... .......... 81%  611K 0s
+   300K .......... .......... .......... .......... .......... 94%  606K 0s
+   350K .......... .........                                  100%  245K=0.9s
+
+2017-02-03 13:15:14 (415 KB/s) - ‘rvu032’ saved [378417/378417]
+
+--2017-02-03 13:15:15--  http://doi.org/10.1093/reseval/rvu028
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu028 [following]
+--2017-02-03 13:15:16--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu028
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 227324 (222K) [text/html]
+Saving to: ‘rvu028’
+
+     0K .......... .......... .......... .......... .......... 22%  208K 1s
+    50K .......... .......... .......... .......... .......... 45%  606K 0s
+   100K .......... .......... .......... .......... .......... 67%  601K 0s
+   150K .......... .......... .......... .......... .......... 90%  605K 0s
+   200K .......... .......... .                               100%  272K=0.6s
+
+2017-02-03 13:15:23 (390 KB/s) - ‘rvu028’ saved [227324/227324]
+
+--2017-02-03 13:15:24--  http://doi.org/10.1093/reseval/rvu029
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu029 [following]
+--2017-02-03 13:15:25--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu029
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 13:15:26 ERROR 400: Bad Request.
+
+--2017-02-03 13:15:27--  http://doi.org/10.1093/reseval/rvu030
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu030 [following]
+--2017-02-03 13:15:28--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu030
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 220850 (216K) [text/html]
+Saving to: ‘rvu030’
+
+     0K .......... .......... .......... .......... .......... 23%  205K 1s
+    50K .......... .......... .......... .......... .......... 46%  586K 0s
+   100K .......... .......... .......... .......... .......... 69%  568K 0s
+   150K .......... .......... .......... .......... .......... 92%  300K 0s
+   200K .......... .....                                      100% 3.86M=0.6s
+
+2017-02-03 13:15:35 (367 KB/s) - ‘rvu030’ saved [220850/220850]
+
+--2017-02-03 13:15:36--  http://doi.org/10.1093/reseval/rvu027
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu027 [following]
+--2017-02-03 13:15:37--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu027
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 268434 (262K) [text/html]
+Saving to: ‘rvu027’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 38%  604K 1s
+   100K .......... .......... .......... .......... .......... 57%  608K 0s
+   150K .......... .......... .......... .......... .......... 76%  608K 0s
+   200K .......... .......... .......... .......... .......... 95%  314K 0s
+   250K .......... ..                                         100% 17.7M=0.6s
+
+2017-02-03 13:15:44 (405 KB/s) - ‘rvu027’ saved [268434/268434]
+
+--2017-02-03 13:15:45--  http://doi.org/10.1093/reseval/rvu024
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu024 [following]
+--2017-02-03 13:15:47--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu024
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 298647 (292K) [text/html]
+Saving to: ‘rvu024’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 34%  604K 1s
+   100K .......... .......... .......... .......... .......... 51%  606K 0s
+   150K .......... .......... .......... .......... .......... 68%  319K 0s
+   200K .......... .......... .......... .......... .......... 85%  594K 0s
+   250K .......... .......... .......... .......... .         100%  513K=0.7s
+
+2017-02-03 13:15:54 (402 KB/s) - ‘rvu024’ saved [298647/298647]
+
+--2017-02-03 13:15:55--  http://doi.org/10.1093/reseval/rvu023
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu023 [following]
+--2017-02-03 13:15:56--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 167983 (164K) [text/html]
+Saving to: ‘rvu023’
+
+     0K .......... .......... .......... .......... .......... 30%  209K 1s
+    50K .......... .......... .......... .......... .......... 60%  601K 0s
+   100K .......... .......... .......... .......... .......... 91%  611K 0s
+   150K .......... ....                                       100% 12.8M=0.4s
+
+2017-02-03 13:16:05 (404 KB/s) - ‘rvu023’ saved [167983/167983]
+
+--2017-02-03 13:16:06--  http://doi.org/10.1093/reseval/rvu026
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu026 [following]
+--2017-02-03 13:16:07--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu026
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63758 (62K) [text/html]
+Saving to: ‘rvu026’
+
+     0K .......... .......... .......... .......... .......... 80%  250K 0s
+    50K .......... ..                                         100%  304K=0.2s
+
+2017-02-03 13:16:16 (259 KB/s) - ‘rvu026’ saved [63758/63758]
+
+--2017-02-03 13:16:17--  http://doi.org/10.1093/reseval/rvu025
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu025 [following]
+--2017-02-03 13:16:18--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu025
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75025 (73K) [text/html]
+Saving to: ‘rvu025’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ...                             100% 10.3M=0.2s
+
+2017-02-03 13:16:25 (304 KB/s) - ‘rvu025’ saved [75025/75025]
+
+--2017-02-03 13:16:26--  http://doi.org/10.1093/reseval/rvu021
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu021 [following]
+--2017-02-03 13:16:28--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 271018 (265K) [text/html]
+Saving to: ‘rvu021’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 37%  604K 1s
+   100K .......... .......... .......... .......... .......... 56%  605K 0s
+   150K .......... .......... .......... .......... .......... 75%  613K 0s
+   200K .......... .......... .......... .......... .......... 94%  313K 0s
+   250K .......... ....                                       100% 12.9M=0.6s
+
+2017-02-03 13:16:32 (409 KB/s) - ‘rvu021’ saved [271018/271018]
+
+--2017-02-03 13:16:33--  http://doi.org/10.1093/reseval/rvu022
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu022 [following]
+--2017-02-03 13:16:35--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu022
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 354117 (346K) [text/html]
+Saving to: ‘rvu022’
+
+     0K .......... .......... .......... .......... .......... 14%  209K 1s
+    50K .......... .......... .......... .......... .......... 28%  613K 1s
+   100K .......... .......... .......... .......... .......... 43%  607K 1s
+   150K .......... .......... .......... .......... .......... 57%  316K 0s
+   200K .......... .......... .......... .......... .......... 72%  600K 0s
+   250K .......... .......... .......... .......... .......... 86%  606K 0s
+   300K .......... .......... .......... .......... .....     100%  560K=0.8s
+
+2017-02-03 13:16:41 (428 KB/s) - ‘rvu022’ saved [354117/354117]
+
+--2017-02-03 13:16:42--  http://doi.org/10.1093/reseval/rvu020
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu020 [following]
+--2017-02-03 13:16:43--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu020
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 230454 (225K) [text/html]
+Saving to: ‘rvu020’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 44%  600K 0s
+   100K .......... .......... .......... .......... .......... 66%  612K 0s
+   150K .......... .......... .......... .......... .......... 88%  315K 0s
+   200K .......... .......... .....                           100% 6.64M=0.6s
+
+2017-02-03 13:16:49 (397 KB/s) - ‘rvu020’ saved [230454/230454]
+
+--2017-02-03 13:16:50--  http://doi.org/10.1093/reseval/rvu019
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu019 [following]
+--2017-02-03 13:16:51--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 13:16:52 ERROR 400: Bad Request.
+
+--2017-02-03 13:16:53--  http://doi.org/10.1093/reseval/rvu015
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu015 [following]
+--2017-02-03 13:16:54--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 211772 (207K) [text/html]
+Saving to: ‘rvu015’
+
+     0K .......... .......... .......... .......... .......... 24%  207K 1s
+    50K .......... .......... .......... .......... .......... 48%  592K 0s
+   100K .......... .......... .......... .......... .......... 72%  608K 0s
+   150K .......... .......... .......... .......... .......... 96%  426K 0s
+   200K ......                                                100% 4.98M=0.5s
+
+2017-02-03 13:17:00 (393 KB/s) - ‘rvu015’ saved [211772/211772]
+
+--2017-02-03 13:17:01--  http://doi.org/10.1093/reseval/rvu018
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu018 [following]
+--2017-02-03 13:17:02--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu018
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 247237 (241K) [text/html]
+Saving to: ‘rvu018’
+
+     0K .......... .......... .......... .......... .......... 20%  207K 1s
+    50K .......... .......... .......... .......... .......... 41%  612K 0s
+   100K .......... .......... .......... .......... .......... 62%  604K 0s
+   150K .......... .......... .......... .......... .......... 82%  613K 0s
+   200K .......... .......... .......... .......... .         100%  503K=0.6s
+
+2017-02-03 13:17:08 (424 KB/s) - ‘rvu018’ saved [247237/247237]
+
+--2017-02-03 13:17:09--  http://doi.org/10.1093/reseval/rvu016
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu016 [following]
+--2017-02-03 13:17:10--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu016
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 240161 (235K) [text/html]
+Saving to: ‘rvu016’
+
+     0K .......... .......... .......... .......... .......... 21%  209K 1s
+    50K .......... .......... .......... .......... .......... 42%  611K 0s
+   100K .......... .......... .......... .......... .......... 63%  606K 0s
+   150K .......... .......... .......... .......... .......... 85%  608K 0s
+   200K .......... .......... .......... ....                 100%  431K=0.6s
+
+2017-02-03 13:17:15 (414 KB/s) - ‘rvu016’ saved [240161/240161]
+
+--2017-02-03 13:17:16--  http://doi.org/10.1093/reseval/rvu017
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu017 [following]
+--2017-02-03 13:17:18--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 342025 (334K) [text/html]
+Saving to: ‘rvu017’
+
+     0K .......... .......... .......... .......... .......... 14%  209K 1s
+    50K .......... .......... .......... .......... .......... 29%  603K 1s
+   100K .......... .......... .......... .......... .......... 44%  612K 0s
+   150K .......... .......... .......... .......... .......... 59%  601K 0s
+   200K .......... .......... .......... .......... .......... 74%  318K 0s
+   250K .......... .......... .......... .......... .......... 89%  595K 0s
+   300K .......... .......... .......... ....                 100%  436K=0.8s
+
+2017-02-03 13:17:25 (414 KB/s) - ‘rvu017’ saved [342025/342025]
+
+--2017-02-03 13:17:26--  http://doi.org/10.1093/reseval/rvu014
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu014 [following]
+--2017-02-03 13:17:27--  https://academic.oup.com/rev/article-lookup/doi/10.1093/reseval/rvu014
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 322416 (315K) [text/html]
+Saving to: ‘rvu014’
+
+     0K .......... .......... .......... .......... .......... 15%  195K 1s
+    50K .......... .......... .......... .......... .......... 31%  605K 1s
+   100K .......... .......... .......... .......... .......... 47%  588K 0s
+   150K .......... .......... .......... .......... .......... 63%  325K 0s
+   200K .......... .......... .......... .......... .......... 79%  570K 0s
+   250K .......... .......... .......... .......... .......... 95%  604K 0s
+   300K .......... ....                                       100% 13.5M=0.7s
+
+2017-02-03 13:17:35 (420 KB/s) - ‘rvu014’ saved [322416/322416]
+
+FINISHED --2017-02-03 13:17:35--
+Total wall clock time: 19m 36s
+Downloaded: 89 files, 22M in 56s (406 KB/s)

@@ -1,0 +1,1554 @@
+--2017-02-03 20:19:24--  http://doi.org/10.1093/eurpub/ckw264
+Resolving doi.org (doi.org)... 38.100.138.163, 38.100.138.162, 95.138.171.129, ...
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://eurpub.oxfordjournals.org/lookup/doi/10.1093/eurpub/ckw264 [following]
+--2017-02-03 20:19:25--  http://eurpub.oxfordjournals.org/lookup/doi/10.1093/eurpub/ckw264
+Resolving eurpub.oxfordjournals.org (eurpub.oxfordjournals.org)... 209.135.222.209
+Connecting to eurpub.oxfordjournals.org (eurpub.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from eurpub.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw264/2951099/Association-between-unmet-healthcare-needs-and [following]
+--2017-02-03 20:19:27--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw264/2951099/Association-between-unmet-healthcare-needs-and
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 229004 (224K) [text/html]
+Saving to: ‘ckw264’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 44%  608K 0s
+   100K .......... .......... .......... .......... .......... 67%  615K 0s
+   150K .......... .......... .......... .......... .......... 89%  571K 0s
+   200K .......... .......... ...                             100%  321K=0.6s
+
+2017-02-03 20:19:34 (397 KB/s) - ‘ckw264’ saved [229004/229004]
+
+--2017-02-03 20:19:35--  http://doi.org/10.1093/eurpub/ckx004
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://eurpub.oxfordjournals.org/lookup/doi/10.1093/eurpub/ckx004 [following]
+--2017-02-03 20:19:36--  http://eurpub.oxfordjournals.org/lookup/doi/10.1093/eurpub/ckx004
+Connecting to eurpub.oxfordjournals.org (eurpub.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from eurpub.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckx004/2938124/Commentary-ASPHER-at-age-50 [following]
+--2017-02-03 20:19:37--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckx004/2938124/Commentary-ASPHER-at-age-50
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 20:19:39 ERROR 400: Bad Request.
+
+--2017-02-03 20:19:40--  http://doi.org/10.1093/eurpub/ckw265
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://eurpub.oxfordjournals.org/lookup/doi/10.1093/eurpub/ckw265 [following]
+--2017-02-03 20:19:41--  http://eurpub.oxfordjournals.org/lookup/doi/10.1093/eurpub/ckw265
+Connecting to eurpub.oxfordjournals.org (eurpub.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from eurpub.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw265/2939511/Parental-separation-in-childhood-and-adult-smoking [following]
+--2017-02-03 20:19:42--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw265/2939511/Parental-separation-in-childhood-and-adult-smoking
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 218725 (214K) [text/html]
+Saving to: ‘ckw265’
+
+     0K .......... .......... .......... .......... .......... 23%  209K 1s
+    50K .......... .......... .......... .......... .......... 46%  606K 0s
+   100K .......... .......... .......... .......... .......... 70%  611K 0s
+   150K .......... .......... .......... .......... .......... 93%  315K 0s
+   200K .......... ...                                        100% 13.4M=0.6s
+
+2017-02-03 20:19:47 (379 KB/s) - ‘ckw265’ saved [218725/218725]
+
+--2017-02-03 20:19:48--  http://doi.org/10.1093/eurpub/ckw248
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://eurpub.oxfordjournals.org/lookup/doi/10.1093/eurpub/ckw248 [following]
+--2017-02-03 20:19:50--  http://eurpub.oxfordjournals.org/lookup/doi/10.1093/eurpub/ckw248
+Connecting to eurpub.oxfordjournals.org (eurpub.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from eurpub.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw248/2939509/Increase-in-vaccination-coverage-between [following]
+--2017-02-03 20:19:51--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw248/2939509/Increase-in-vaccination-coverage-between
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 203750 (199K) [text/html]
+Saving to: ‘ckw248’
+
+     0K .......... .......... .......... .......... .......... 25%  207K 1s
+    50K .......... .......... .......... .......... .......... 50%  607K 0s
+   100K .......... .......... .......... .......... .......... 75%  608K 0s
+   150K .......... .......... .......... .......... ........  100%  303K=0.6s
+
+2017-02-03 20:19:58 (350 KB/s) - ‘ckw248’ saved [203750/203750]
+
+--2017-02-03 20:19:59--  http://doi.org/10.1093/eurpub/ckw261
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://eurpub.oxfordjournals.org/lookup/doi/10.1093/eurpub/ckw261 [following]
+--2017-02-03 20:20:00--  http://eurpub.oxfordjournals.org/lookup/doi/10.1093/eurpub/ckw261
+Connecting to eurpub.oxfordjournals.org (eurpub.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from eurpub.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw261/2939510/Education-predicts-cervical-cancer-survival-a [following]
+--2017-02-03 20:20:01--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw261/2939510/Education-predicts-cervical-cancer-survival-a
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 180127 (176K) [text/html]
+Saving to: ‘ckw261’
+
+     0K .......... .......... .......... .......... .......... 28%  209K 1s
+    50K .......... .......... .......... .......... .......... 56%  606K 0s
+   100K .......... .......... .......... .......... .......... 85%  614K 0s
+   150K .......... .......... .....                           100%  327K=0.5s
+
+2017-02-03 20:20:06 (365 KB/s) - ‘ckw261’ saved [180127/180127]
+
+--2017-02-03 20:20:07--  http://doi.org/10.1093/eurpub/ckw271
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://eurpub.oxfordjournals.org/lookup/doi/10.1093/eurpub/ckw271 [following]
+--2017-02-03 20:20:09--  http://eurpub.oxfordjournals.org/lookup/doi/10.1093/eurpub/ckw271
+Connecting to eurpub.oxfordjournals.org (eurpub.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from eurpub.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw271/2939512/Standardization-of-physical-measurements-in [following]
+--2017-02-03 20:20:10--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw271/2939512/Standardization-of-physical-measurements-in
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 203313 (199K) [text/html]
+Saving to: ‘ckw271’
+
+     0K .......... .......... .......... .......... .......... 25%  209K 1s
+    50K .......... .......... .......... .......... .......... 50%  604K 0s
+   100K .......... .......... .......... .......... .......... 75%  608K 0s
+   150K .......... .......... .......... .......... ........  100%  594K=0.5s
+
+2017-02-03 20:20:15 (408 KB/s) - ‘ckw271’ saved [203313/203313]
+
+--2017-02-03 20:20:16--  http://doi.org/10.1093/eurpub/ckw262
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw262 [following]
+--2017-02-03 20:20:17--  https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw262
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 223844 (219K) [text/html]
+Saving to: ‘ckw262’
+
+     0K .......... .......... .......... .......... .......... 22%  207K 1s
+    50K .......... .......... .......... .......... .......... 45%  609K 0s
+   100K .......... .......... .......... .......... .......... 68%  604K 0s
+   150K .......... .......... .......... .......... .......... 91%  317K 0s
+   200K .......... ........                                   100% 6.52M=0.6s
+
+2017-02-03 20:20:23 (385 KB/s) - ‘ckw262’ saved [223844/223844]
+
+--2017-02-03 20:20:24--  http://doi.org/10.1093/eurpub/ckw245
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw245 [following]
+--2017-02-03 20:20:26--  https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw245
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 173674 (170K) [text/html]
+Saving to: ‘ckw245’
+
+     0K .......... .......... .......... .......... .......... 29%  209K 1s
+    50K .......... .......... .......... .......... .......... 58%  603K 0s
+   100K .......... .......... .......... .......... .......... 88%  614K 0s
+   150K .......... .........                                  100%  250K=0.5s
+
+2017-02-03 20:20:34 (352 KB/s) - ‘ckw245’ saved [173674/173674]
+
+--2017-02-03 20:20:35--  http://doi.org/10.1093/eurpub/ckw249
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw249 [following]
+--2017-02-03 20:20:37--  https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw249
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 20:20:38 ERROR 400: Bad Request.
+
+--2017-02-03 20:20:39--  http://doi.org/10.1093/eurpub/ckw235
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw235 [following]
+--2017-02-03 20:20:40--  https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw235
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 211813 (207K) [text/html]
+Saving to: ‘ckw235’
+
+     0K .......... .......... .......... .......... .......... 24%  207K 1s
+    50K .......... .......... .......... .......... .......... 48%  610K 0s
+   100K .......... .......... .......... .......... .......... 72%  596K 0s
+   150K .......... .......... .......... .......... .......... 96%  602K 0s
+   200K ......                                                100%  191K=0.5s
+
+2017-02-03 20:20:48 (393 KB/s) - ‘ckw235’ saved [211813/211813]
+
+--2017-02-03 20:20:49--  http://doi.org/10.1093/eurpub/ckw247
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw247 [following]
+--2017-02-03 20:20:50--  https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw247
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 211701 (207K) [text/html]
+Saving to: ‘ckw247’
+
+     0K .......... .......... .......... .......... .......... 24%  309K 1s
+    50K .......... .......... .......... .......... .......... 48%  313K 0s
+   100K .......... .......... .......... .......... .......... 72%  609K 0s
+   150K .......... .......... .......... .......... .......... 96%  317K 0s
+   200K ......                                                100% 2.05M=0.6s
+
+2017-02-03 20:20:56 (366 KB/s) - ‘ckw247’ saved [211701/211701]
+
+--2017-02-03 20:20:57--  http://doi.org/10.1093/eurpub/ckw214
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw214 [following]
+--2017-02-03 20:20:58--  https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw214
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 20:21:00 ERROR 400: Bad Request.
+
+--2017-02-03 20:21:01--  http://doi.org/10.1093/eurpub/ckw238
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw238 [following]
+--2017-02-03 20:21:02--  https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw238
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 190652 (186K) [text/html]
+Saving to: ‘ckw238’
+
+     0K .......... .......... .......... .......... .......... 26%  209K 1s
+    50K .......... .......... .......... .......... .......... 53%  606K 0s
+   100K .......... .......... .......... .......... .......... 80%  476K 0s
+   150K .......... .......... .......... ......               100%  442K=0.5s
+
+2017-02-03 20:21:07 (366 KB/s) - ‘ckw238’ saved [190652/190652]
+
+--2017-02-03 20:21:08--  http://doi.org/10.1093/eurpub/ckw269
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 20:21:09--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Resolving fdslive.oup.com (fdslive.oup.com)... 193.67.160.201
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘ckw269’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 20:21:09 (1.20 MB/s) - ‘ckw269’ saved [52438/52438]
+
+--2017-02-03 20:21:10--  http://doi.org/10.1093/eurpub/ckw241
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 20:21:12--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘ckw241’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 20:21:12 (1.33 MB/s) - ‘ckw241’ saved [52438/52438]
+
+--2017-02-03 20:21:13--  http://doi.org/10.1093/eurpub/ckw228
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 20:21:14--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘ckw228’
+
+     0K .......... .......... .......... .......... .......... 97% 1.28M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 20:21:14 (1.31 MB/s) - ‘ckw228’ saved [52438/52438]
+
+--2017-02-03 20:21:15--  http://doi.org/10.1093/eurpub/ckw263
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 20:21:16--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘ckw263’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 20:21:16 (1.19 MB/s) - ‘ckw263’ saved [52438/52438]
+
+--2017-02-03 20:21:17--  http://doi.org/10.1093/eurpub/ckw270
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 20:21:18--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘ckw270’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 20:21:18 (1.32 MB/s) - ‘ckw270’ saved [52438/52438]
+
+--2017-02-03 20:21:19--  http://doi.org/10.1093/eurpub/ckx001
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 20:21:20--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘ckx001’
+
+     0K .......... .......... .......... .......... .......... 97% 1.28M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 20:21:21 (1.32 MB/s) - ‘ckx001’ saved [52438/52438]
+
+--2017-02-03 20:21:22--  http://doi.org/10.1093/eurpub/ckx012
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 20:21:23--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘ckx012’
+
+     0K .......... .......... .......... .......... .......... 97% 1.14M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 20:21:23 (1.17 MB/s) - ‘ckx012’ saved [52438/52438]
+
+--2017-02-03 20:21:24--  http://doi.org/10.1093/eurpub/ckw268
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 20:21:25--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘ckw268’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 20:21:25 (1.20 MB/s) - ‘ckw268’ saved [52438/52438]
+
+--2017-02-03 20:21:26--  http://doi.org/10.1093/eurpub/ckw251
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 20:21:27--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘ckw251’
+
+     0K .......... .......... .......... .......... .......... 97% 1.16M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 20:21:27 (1.19 MB/s) - ‘ckw251’ saved [52438/52438]
+
+--2017-02-03 20:21:28--  http://doi.org/10.1093/eurpub/ckw260
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 20:21:29--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘ckw260’
+
+     0K .......... .......... .......... .......... .......... 97% 1.28M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 20:21:29 (1.31 MB/s) - ‘ckw260’ saved [52438/52438]
+
+--2017-02-03 20:21:30--  http://doi.org/10.1093/eurpub/ckx013
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 20:21:32--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘ckx013’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 20:21:32 (1.32 MB/s) - ‘ckx013’ saved [52438/52438]
+
+--2017-02-03 20:21:33--  http://doi.org/10.1093/eurpub/ckx010
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 20:21:34--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘ckx010’
+
+     0K .......... .......... .......... .......... .......... 97% 1.30M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 20:21:34 (1.33 MB/s) - ‘ckx010’ saved [52438/52438]
+
+--2017-02-03 20:21:35--  http://doi.org/10.1093/eurpub/ckw243
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 20:21:36--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘ckw243’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 20:21:36 (1.20 MB/s) - ‘ckw243’ saved [52438/52438]
+
+--2017-02-03 20:21:37--  http://doi.org/10.1093/eurpub/ckw239
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 20:21:38--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘ckw239’
+
+     0K .......... .......... .......... .......... .......... 97% 1.28M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 20:21:38 (1.32 MB/s) - ‘ckw239’ saved [52438/52438]
+
+--2017-02-03 20:21:39--  http://doi.org/10.1093/eurpub/ckw219
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 20:21:41--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘ckw219’
+
+     0K .......... .......... .......... .......... .......... 97% 1.28M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 20:21:41 (1.32 MB/s) - ‘ckw219’ saved [52438/52438]
+
+--2017-02-03 20:21:42--  http://doi.org/10.1093/eurpub/ckx002
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 20:21:43--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘ckx002’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 20:21:43 (1.20 MB/s) - ‘ckx002’ saved [52438/52438]
+
+--2017-02-03 20:21:44--  http://doi.org/10.1093/eurpub/ckx009
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 20:21:45--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘ckx009’
+
+     0K .......... .......... .......... .......... .......... 97% 1.00M 0s
+    50K .                                                     100% 2306G=0.05s
+
+2017-02-03 20:21:45 (1.03 MB/s) - ‘ckx009’ saved [52438/52438]
+
+--2017-02-03 20:21:46--  http://doi.org/10.1093/eurpub/ckw250
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 20:21:47--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘ckw250’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 20:21:47 (1.20 MB/s) - ‘ckw250’ saved [52438/52438]
+
+--2017-02-03 20:21:48--  http://doi.org/10.1093/eurpub/ckx011
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 20:21:50--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘ckx011’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 20:21:50 (1.20 MB/s) - ‘ckx011’ saved [52438/52438]
+
+--2017-02-03 20:21:51--  http://doi.org/10.1093/eurpub/ckx015
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 20:21:52--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘ckx015’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 20:21:52 (1.32 MB/s) - ‘ckx015’ saved [52438/52438]
+
+--2017-02-03 20:21:53--  http://doi.org/10.1093/eurpub/ckw215
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw215 [following]
+--2017-02-03 20:21:54--  https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw215
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 232178 (227K) [text/html]
+Saving to: ‘ckw215’
+
+     0K .......... .......... .......... .......... .......... 22%  208K 1s
+    50K .......... .......... .......... .......... .......... 44%  606K 0s
+   100K .......... .......... .......... .......... .......... 66%  601K 0s
+   150K .......... .......... .......... .......... .......... 88%  317K 0s
+   200K .......... .......... ......                          100% 3.05M=0.6s
+
+2017-02-03 20:21:58 (397 KB/s) - ‘ckw215’ saved [232178/232178]
+
+--2017-02-03 20:21:59--  http://doi.org/10.1093/eurpub/ckw237
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw237 [following]
+--2017-02-03 20:22:00--  https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw237
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 263956 (258K) [text/html]
+Saving to: ‘ckw237’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 38%  595K 1s
+   100K .......... .......... .......... .......... .......... 58%  606K 0s
+   150K .......... .......... .......... .......... .......... 77%  420K 0s
+   200K .......... .......... .......... .......... .......... 96%  408K 0s
+   250K .......                                               100% 3.35M=0.6s
+
+2017-02-03 20:22:06 (397 KB/s) - ‘ckw237’ saved [263956/263956]
+
+--2017-02-03 20:22:07--  http://doi.org/10.1093/eurpub/ckw233
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw233 [following]
+--2017-02-03 20:22:09--  https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw233
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 230046 (225K) [text/html]
+Saving to: ‘ckw233’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 44%  601K 0s
+   100K .......... .......... .......... .......... .......... 66%  610K 0s
+   150K .......... .......... .......... .......... .......... 89%  316K 0s
+   200K .......... .......... ....                            100% 5.61M=0.6s
+
+2017-02-03 20:22:13 (396 KB/s) - ‘ckw233’ saved [230046/230046]
+
+--2017-02-03 20:22:14--  http://doi.org/10.1093/eurpub/ckw236
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw236 [following]
+--2017-02-03 20:22:15--  https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw236
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 276059 (270K) [text/html]
+Saving to: ‘ckw236’
+
+     0K .......... .......... .......... .......... .......... 18%  308K 1s
+    50K .......... .......... .......... .......... .......... 37%  313K 1s
+   100K .......... .......... .......... .......... .......... 55%  575K 0s
+   150K .......... .......... .......... .......... .......... 74%  593K 0s
+   200K .......... .......... .......... .......... .......... 92%  323K 0s
+   250K .......... .........                                  100% 3.74M=0.7s
+
+2017-02-03 20:22:22 (413 KB/s) - ‘ckw236’ saved [276059/276059]
+
+--2017-02-03 20:22:23--  http://doi.org/10.1093/eurpub/ckw216
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw216 [following]
+--2017-02-03 20:22:24--  https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw216
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 262141 (256K) [text/html]
+Saving to: ‘ckw216’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 39%  592K 1s
+   100K .......... .......... .......... .......... .......... 58%  609K 0s
+   150K .......... .......... .......... .......... .......... 78%  604K 0s
+   200K .......... .......... .......... .......... .......... 97%  314K 0s
+   250K .....                                                 100% 20.4M=0.6s
+
+2017-02-03 20:22:29 (395 KB/s) - ‘ckw216’ saved [262141/262141]
+
+--2017-02-03 20:22:30--  http://doi.org/10.1093/eurpub/ckw206
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw206 [following]
+--2017-02-03 20:22:31--  https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw206
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 308603 (301K) [text/html]
+Saving to: ‘ckw206’
+
+     0K .......... .......... .......... .......... .......... 16%  209K 1s
+    50K .......... .......... .......... .......... .......... 33%  598K 1s
+   100K .......... .......... .......... .......... .......... 49%  609K 0s
+   150K .......... .......... .......... .......... .......... 66%  318K 0s
+   200K .......... .......... .......... .......... .......... 82%  598K 0s
+   250K .......... .......... .......... .......... .......... 99%  591K 0s
+   300K .                                                     100% 5.07M=0.7s
+
+2017-02-03 20:22:35 (413 KB/s) - ‘ckw206’ saved [308603/308603]
+
+--2017-02-03 20:22:36--  http://doi.org/10.1093/eurpub/ckw234
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw234 [following]
+--2017-02-03 20:22:37--  https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw234
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 20:22:38 ERROR 400: Bad Request.
+
+--2017-02-03 20:22:39--  http://doi.org/10.1093/eurpub/ckw240
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://eurpub.oxfordjournals.org/lookup/doi/10.1093/eurpub/ckw240 [following]
+--2017-02-03 20:22:40--  http://eurpub.oxfordjournals.org/lookup/doi/10.1093/eurpub/ckw240
+Connecting to eurpub.oxfordjournals.org (eurpub.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from eurpub.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/eurpub/article/26/6/1089/2731288/European-Public-Health-News [following]
+--2017-02-03 20:22:41--  https://academic.oup.com/eurpub/article/26/6/1089/2731288/European-Public-Health-News
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 100374 (98K) [text/html]
+Saving to: ‘ckw240’
+
+     0K .......... .......... .......... .......... .......... 51%  209K 0s
+    50K .......... .......... .......... .......... ........  100%  591K=0.3s
+
+2017-02-03 20:22:45 (306 KB/s) - ‘ckw240’ saved [100374/100374]
+
+--2017-02-03 20:22:46--  http://doi.org/10.1093/eurpub/ckw210
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw210 [following]
+--2017-02-03 20:22:47--  https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw210
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 113953 (111K) [text/html]
+Saving to: ‘ckw210’
+
+     0K .......... .......... .......... .......... .......... 44%  209K 0s
+    50K .......... .......... .......... .......... .......... 89%  609K 0s
+   100K .......... .                                          100% 14.9M=0.3s
+
+2017-02-03 20:22:51 (345 KB/s) - ‘ckw210’ saved [113953/113953]
+
+--2017-02-03 20:22:52--  http://doi.org/10.1093/eurpub/ckw211
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw211 [following]
+--2017-02-03 20:22:53--  https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw211
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 20:22:54 ERROR 400: Bad Request.
+
+--2017-02-03 20:22:55--  http://doi.org/10.1093/eurpub/ckw207
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw207 [following]
+--2017-02-03 20:22:56--  https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw207
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 259652 (254K) [text/html]
+Saving to: ‘ckw207’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 39%  585K 0s
+   100K .......... .......... .......... .......... .......... 59%  610K 0s
+   150K .......... .......... .......... .......... .......... 78%  605K 0s
+   200K .......... .......... .......... .......... .......... 98%  324K 0s
+   250K ...                                                   100% 6802G=0.6s
+
+2017-02-03 20:23:01 (394 KB/s) - ‘ckw207’ saved [259652/259652]
+
+--2017-02-03 20:23:02--  http://doi.org/10.1093/eurpub/ckw200
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw200 [following]
+--2017-02-03 20:23:03--  https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw200
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 235011 (230K) [text/html]
+Saving to: ‘ckw200’
+
+     0K .......... .......... .......... .......... .......... 21%  209K 1s
+    50K .......... .......... .......... .......... .......... 43%  596K 0s
+   100K .......... .......... .......... .......... .......... 65%  598K 0s
+   150K .......... .......... .......... .......... .......... 87%  605K 0s
+   200K .......... .......... .........                       100%  368K=0.6s
+
+2017-02-03 20:23:08 (403 KB/s) - ‘ckw200’ saved [235011/235011]
+
+--2017-02-03 20:23:09--  http://doi.org/10.1093/eurpub/ckw208
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw208 [following]
+--2017-02-03 20:23:10--  https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw208
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 20:23:10 ERROR 400: Bad Request.
+
+--2017-02-03 20:23:11--  http://doi.org/10.1093/eurpub/ckw199
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw199 [following]
+--2017-02-03 20:23:13--  https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw199
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 20:23:14 ERROR 400: Bad Request.
+
+--2017-02-03 20:23:15--  http://doi.org/10.1093/eurpub/ckw203
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw203 [following]
+--2017-02-03 20:23:16--  https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw203
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 199525 (195K) [text/html]
+Saving to: ‘ckw203’
+
+     0K .......... .......... .......... .......... .......... 25%  209K 1s
+    50K .......... .......... .......... .......... .......... 51%  581K 0s
+   100K .......... .......... .......... .......... .......... 76%  616K 0s
+   150K .......... .......... .......... .......... ....      100%  533K=0.5s
+
+2017-02-03 20:23:21 (397 KB/s) - ‘ckw203’ saved [199525/199525]
+
+--2017-02-03 20:23:22--  http://doi.org/10.1093/eurpub/ckw209
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw209 [following]
+--2017-02-03 20:23:23--  https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw209
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 240903 (235K) [text/html]
+Saving to: ‘ckw209’
+
+     0K .......... .......... .......... .......... .......... 21%  209K 1s
+    50K .......... .......... .......... .......... .......... 42%  593K 0s
+   100K .......... .......... .......... .......... .......... 63%  604K 0s
+   150K .......... .......... .......... .......... .......... 85%  593K 0s
+   200K .......... .......... .......... .....                100%  430K=0.6s
+
+2017-02-03 20:23:28 (410 KB/s) - ‘ckw209’ saved [240903/240903]
+
+--2017-02-03 20:23:29--  http://doi.org/10.1093/eurpub/ckw205
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw205 [following]
+--2017-02-03 20:23:31--  https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw205
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 216069 (211K) [text/html]
+Saving to: ‘ckw205’
+
+     0K .......... .......... .......... .......... .......... 23%  209K 1s
+    50K .......... .......... .......... .......... .......... 47%  607K 0s
+   100K .......... .......... .......... .......... .......... 71%  603K 0s
+   150K .......... .......... .......... .......... .......... 94%  424K 0s
+   200K .......... .                                          100%  261K=0.6s
+
+2017-02-03 20:23:34 (374 KB/s) - ‘ckw205’ saved [216069/216069]
+
+--2017-02-03 20:23:35--  http://doi.org/10.1093/eurpub/ckw202
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw202 [following]
+--2017-02-03 20:23:36--  https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw202
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 230418 (225K) [text/html]
+Saving to: ‘ckw202’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 44%  607K 0s
+   100K .......... .......... .......... .......... .......... 66%  597K 0s
+   150K .......... .......... .......... .......... .......... 88%  584K 0s
+   200K .......... .......... .....                           100%  315K=0.6s
+
+2017-02-03 20:23:40 (394 KB/s) - ‘ckw202’ saved [230418/230418]
+
+--2017-02-03 20:23:41--  http://doi.org/10.1093/eurpub/ckw201
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw201 [following]
+--2017-02-03 20:23:42--  https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw201
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 235864 (230K) [text/html]
+Saving to: ‘ckw201’
+
+     0K .......... .......... .......... .......... .......... 21%  208K 1s
+    50K .......... .......... .......... .......... .......... 43%  587K 0s
+   100K .......... .......... .......... .......... .......... 65%  614K 0s
+   150K .......... .......... .......... .......... .......... 86%  596K 0s
+   200K .......... .......... ..........                      100%  382K=0.6s
+
+2017-02-03 20:23:47 (404 KB/s) - ‘ckw201’ saved [235864/235864]
+
+--2017-02-03 20:23:48--  http://doi.org/10.1093/eurpub/ckw198
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw198 [following]
+--2017-02-03 20:23:49--  https://academic.oup.com/eurpub/article-lookup/doi/10.1093/eurpub/ckw198
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 102314 (100K) [text/html]
+Saving to: ‘ckw198’
+
+     0K .......... .......... .......... .......... .......... 50%  209K 0s
+    50K .......... .......... .......... .......... ......... 100%  614K=0.3s
+
+2017-02-03 20:23:55 (312 KB/s) - ‘ckw198’ saved [102314/102314]
+
+--2017-02-03 20:23:56--  http://doi.org/10.1093/eurpub/ckw175.166
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw175.166/2449622/Dposters-Poster-Display-Health-promotion [following]
+--2017-02-03 20:23:57--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw175.166/2449622/Dposters-Poster-Display-Health-promotion
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66877 (65K) [text/html]
+Saving to: ‘ckw175.166’
+
+     0K .......... .......... .......... .......... .......... 76%  209K 0s
+    50K .......... .....                                      100% 15.2M=0.2s
+
+2017-02-03 20:24:05 (272 KB/s) - ‘ckw175.166’ saved [66877/66877]
+
+--2017-02-03 20:24:06--  http://doi.org/10.1093/eurpub/ckw172.003
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw172.003/2448989/Model-for-fighting-undernutrition-among-06-yo [following]
+--2017-02-03 20:24:07--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw172.003/2448989/Model-for-fighting-undernutrition-among-06-yo
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76547 (75K) [text/html]
+Saving to: ‘ckw172.003’
+
+     0K .......... .......... .......... .......... .......... 66%  209K 0s
+    50K .......... .......... ....                            100% 13.6M=0.2s
+
+2017-02-03 20:24:11 (310 KB/s) - ‘ckw172.003’ saved [76547/76547]
+
+--2017-02-03 20:24:12--  http://doi.org/10.1093/eurpub/ckw165.055
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw165.055/2448345/The-stronger-primary-care-the-lower-financially [following]
+--2017-02-03 20:24:13--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw165.055/2448345/The-stronger-primary-care-the-lower-financially
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 97300 (95K) [text/html]
+Saving to: ‘ckw165.055’
+
+     0K .......... .......... .......... .......... .......... 52%  208K 0s
+    50K .......... .......... .......... .......... .....     100%  563K=0.3s
+
+2017-02-03 20:24:18 (297 KB/s) - ‘ckw165.055’ saved [97300/97300]
+
+--2017-02-03 20:24:19--  http://doi.org/10.1093/eurpub/ckw171.099
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw171.099/2448984/8P-Skills-building-seminar-Interprofessional [following]
+--2017-02-03 20:24:21--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw171.099/2448984/8P-Skills-building-seminar-Interprofessional
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 67254 (66K) [text/html]
+Saving to: ‘ckw171.099’
+
+     0K .......... .......... .......... .......... .......... 76%  209K 0s
+    50K .......... .....                                      100% 11.7M=0.2s
+
+2017-02-03 20:24:29 (273 KB/s) - ‘ckw171.099’ saved [67254/67254]
+
+--2017-02-03 20:24:30--  http://doi.org/10.1093/eurpub/ckw174.107
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw174.107/2449283/Between-sense-of-mission-and-professional-burnout [following]
+--2017-02-03 20:24:31--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw174.107/2449283/Between-sense-of-mission-and-professional-burnout
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77913 (76K) [text/html]
+Saving to: ‘ckw174.107’
+
+     0K .......... .......... .......... .......... .......... 65%  209K 0s
+    50K .......... .......... ......                          100% 13.5M=0.2s
+
+2017-02-03 20:24:37 (315 KB/s) - ‘ckw174.107’ saved [77913/77913]
+
+--2017-02-03 20:24:38--  http://doi.org/10.1093/eurpub/ckw165.035
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw165.035/2448325/Child-living-arrangements-following-separation-and [following]
+--2017-02-03 20:24:40--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw165.035/2448325/Child-living-arrangements-following-separation-and
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 78911 (77K) [text/html]
+Saving to: ‘ckw165.035’
+
+     0K .......... .......... .......... .......... .......... 64%  309K 0s
+    50K .......... .......... .......                         100%  337K=0.2s
+
+2017-02-03 20:24:49 (318 KB/s) - ‘ckw165.035’ saved [78911/78911]
+
+--2017-02-03 20:24:50--  http://doi.org/10.1093/eurpub/ckw166.019
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw166.019/2448404/Exploring-participatory-leadership-through [following]
+--2017-02-03 20:24:51--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw166.019/2448404/Exploring-participatory-leadership-through
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77013 (75K) [text/html]
+Saving to: ‘ckw166.019’
+
+     0K .......... .......... .......... .......... .......... 66%  209K 0s
+    50K .......... .......... .....                           100% 7.61M=0.2s
+
+2017-02-03 20:24:58 (310 KB/s) - ‘ckw166.019’ saved [77013/77013]
+
+--2017-02-03 20:24:59--  http://doi.org/10.1093/eurpub/ckw174.276
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw174.276/2449451/7S-Poster-walk-Mental-health-and-urban-health [following]
+--2017-02-03 20:25:00--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw174.276/2449451/7S-Poster-walk-Mental-health-and-urban-health
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66940 (65K) [text/html]
+Saving to: ‘ckw174.276’
+
+     0K .......... .......... .......... .......... .......... 76%  209K 0s
+    50K .......... .....                                      100% 10.7M=0.2s
+
+2017-02-03 20:25:07 (272 KB/s) - ‘ckw174.276’ saved [66940/66940]
+
+--2017-02-03 20:25:08--  http://doi.org/10.1093/eurpub/ckw174.253
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw174.253/2449428/Satisfaction-of-the-employees-with-educational [following]
+--2017-02-03 20:25:09--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw174.253/2449428/Satisfaction-of-the-employees-with-educational
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 74045 (72K) [text/html]
+Saving to: ‘ckw174.253’
+
+     0K .......... .......... .......... .......... .......... 69%  208K 0s
+    50K .......... .......... ..                              100% 8.68M=0.2s
+
+2017-02-03 20:25:16 (298 KB/s) - ‘ckw174.253’ saved [74045/74045]
+
+--2017-02-03 20:25:17--  http://doi.org/10.1093/eurpub/ckw166.009
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw166.009/2448394/Cardiovascular-disease-knowledge-and-health [following]
+--2017-02-03 20:25:18--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw166.009/2448394/Cardiovascular-disease-knowledge-and-health
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 20:25:19 ERROR 400: Bad Request.
+
+--2017-02-03 20:25:20--  http://doi.org/10.1093/eurpub/ckw169.075
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw169.075/2448764/Data-availability-and-analytical-capacity-enhance [following]
+--2017-02-03 20:25:22--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw169.075/2448764/Data-availability-and-analytical-capacity-enhance
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72217 (71K) [text/html]
+Saving to: ‘ckw169.075’
+
+     0K .......... .......... .......... .......... .......... 70%  209K 0s
+    50K .......... ..........                                 100% 5.31M=0.2s
+
+2017-02-03 20:25:28 (290 KB/s) - ‘ckw169.075’ saved [72217/72217]
+
+--2017-02-03 20:25:29--  http://doi.org/10.1093/eurpub/ckw171.020
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw171.020/2448905/Parental-perception-and-attitude-toward-their [following]
+--2017-02-03 20:25:30--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw171.020/2448905/Parental-perception-and-attitude-toward-their
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73949 (72K) [text/html]
+Saving to: ‘ckw171.020’
+
+     0K .......... .......... .......... .......... .......... 69%  209K 0s
+    50K .......... .......... ..                              100% 9.03M=0.2s
+
+2017-02-03 20:25:40 (299 KB/s) - ‘ckw171.020’ saved [73949/73949]
+
+--2017-02-03 20:25:41--  http://doi.org/10.1093/eurpub/ckw165.020
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw165.020/2448310/Multicomponent-physical-activity-and-dietary [following]
+--2017-02-03 20:25:42--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw165.020/2448310/Multicomponent-physical-activity-and-dietary
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75043 (73K) [text/html]
+Saving to: ‘ckw165.020’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ...                             100% 9.91M=0.2s
+
+2017-02-03 20:25:48 (303 KB/s) - ‘ckw165.020’ saved [75043/75043]
+
+--2017-02-03 20:25:49--  http://doi.org/10.1093/eurpub/ckw170.064
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw170.064/2448852/Detection-of-at-risk-mothers-and-infants-by [following]
+--2017-02-03 20:25:50--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw170.064/2448852/Detection-of-at-risk-mothers-and-infants-by
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73677 (72K) [text/html]
+Saving to: ‘ckw170.064’
+
+     0K .......... .......... .......... .......... .......... 69%  209K 0s
+    50K .......... .......... .                               100% 11.5M=0.2s
+
+2017-02-03 20:25:59 (299 KB/s) - ‘ckw170.064’ saved [73677/73677]
+
+--2017-02-03 20:26:00--  http://doi.org/10.1093/eurpub/ckw174.015
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw174.015/2449192/Research-on-the-eating-habits-of-pregnant-Romani [following]
+--2017-02-03 20:26:01--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw174.015/2449192/Research-on-the-eating-habits-of-pregnant-Romani
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75081 (73K) [text/html]
+Saving to: ‘ckw174.015’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ...                             100% 3.40M=0.2s
+
+2017-02-03 20:26:10 (298 KB/s) - ‘ckw174.015’ saved [75081/75081]
+
+--2017-02-03 20:26:11--  http://doi.org/10.1093/eurpub/ckw174.261
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw174.261/2449436/Current-understandings-of-health-literacy-in [following]
+--2017-02-03 20:26:12--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw174.261/2449436/Current-understandings-of-health-literacy-in
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77962 (76K) [text/html]
+Saving to: ‘ckw174.261’
+
+     0K .......... .......... .......... .......... .......... 65%  209K 0s
+    50K .......... .......... ......                          100% 13.8M=0.2s
+
+2017-02-03 20:26:18 (316 KB/s) - ‘ckw174.261’ saved [77962/77962]
+
+--2017-02-03 20:26:19--  http://doi.org/10.1093/eurpub/ckw174.262
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw174.262/2449437/Maternal-health-factors-and-lifestyles-among-a [following]
+--2017-02-03 20:26:20--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw174.262/2449437/Maternal-health-factors-and-lifestyles-among-a
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 20:26:22 ERROR 400: Bad Request.
+
+--2017-02-03 20:26:23--  http://doi.org/10.1093/eurpub/ckw172.056
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw172.056/2449042/User-clusters-click-streams-and-barriers-on [following]
+--2017-02-03 20:26:24--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw172.056/2449042/User-clusters-click-streams-and-barriers-on
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 91490 (89K) [text/html]
+Saving to: ‘ckw172.056’
+
+     0K .......... .......... .......... .......... .......... 55%  207K 0s
+    50K .......... .......... .......... .........            100% 10.7M=0.2s
+
+2017-02-03 20:26:30 (364 KB/s) - ‘ckw172.056’ saved [91490/91490]
+
+--2017-02-03 20:26:31--  http://doi.org/10.1093/eurpub/ckw170.015
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw170.015/2448803/An-intervention-program-to-create-a-school [following]
+--2017-02-03 20:26:32--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw170.015/2448803/An-intervention-program-to-create-a-school
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75029 (73K) [text/html]
+Saving to: ‘ckw170.015’
+
+     0K .......... .......... .......... .......... .......... 68%  206K 0s
+    50K .......... .......... ...                             100% 11.2M=0.2s
+
+2017-02-03 20:26:45 (300 KB/s) - ‘ckw170.015’ saved [75029/75029]
+
+--2017-02-03 20:26:46--  http://doi.org/10.1093/eurpub/ckw174.028
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw174.028/2449205/Psychometric-propertiesJudit-Gangl [following]
+--2017-02-03 20:26:48--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw174.028/2449205/Psychometric-propertiesJudit-Gangl
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73470 (72K) [text/html]
+Saving to: ‘ckw174.028’
+
+     0K .......... .......... .......... .......... .......... 69%  209K 0s
+    50K .......... .......... .                               100% 15.7M=0.2s
+
+2017-02-03 20:26:55 (298 KB/s) - ‘ckw174.028’ saved [73470/73470]
+
+--2017-02-03 20:26:56--  http://doi.org/10.1093/eurpub/ckw169
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw169/2448788/The-results-of-the-US-presidential-elections-and [following]
+--2017-02-03 20:26:57--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw169/2448788/The-results-of-the-US-presidential-elections-and
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 20:26:58 ERROR 400: Bad Request.
+
+--2017-02-03 20:26:59--  http://doi.org/10.1093/eurpub/ckw174.153
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw174.153/2449329/The-social-patterning-of-smoking-in-Portugal [following]
+--2017-02-03 20:27:00--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw174.153/2449329/The-social-patterning-of-smoking-in-Portugal
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73374 (72K) [text/html]
+Saving to: ‘ckw174.153’
+
+     0K .......... .......... .......... .......... .......... 69%  208K 0s
+    50K .......... .......... .                               100% 3.91M=0.2s
+
+2017-02-03 20:27:07 (291 KB/s) - ‘ckw174.153’ saved [73374/73374]
+
+--2017-02-03 20:27:08--  http://doi.org/10.1093/eurpub/ckw169.002
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw169.002/2448692/Interim-evaluation-of-an-integrated-approach-to [following]
+--2017-02-03 20:27:09--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw169.002/2448692/Interim-evaluation-of-an-integrated-approach-to
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 80679 (79K) [text/html]
+Saving to: ‘ckw169.002’
+
+     0K .......... .......... .......... .......... .......... 63%  309K 0s
+    50K .......... .......... ........                        100%  359K=0.2s
+
+2017-02-03 20:27:15 (326 KB/s) - ‘ckw169.002’ saved [80679/80679]
+
+--2017-02-03 20:27:16--  http://doi.org/10.1093/eurpub/ckw172.024
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw172.024/2449010/Barriers-to-healthy-eating-in-Switzerland-a [following]
+--2017-02-03 20:27:17--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw172.024/2449010/Barriers-to-healthy-eating-in-Switzerland-a
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77352 (76K) [text/html]
+Saving to: ‘ckw172.024’
+
+     0K .......... .......... .......... .......... .......... 66%  208K 0s
+    50K .......... .......... .....                           100% 13.9M=0.2s
+
+2017-02-03 20:27:22 (312 KB/s) - ‘ckw172.024’ saved [77352/77352]
+
+--2017-02-03 20:27:23--  http://doi.org/10.1093/eurpub/ckw174.052
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw174.052/2449229/Association-of-morbidity-and-mortality-from [following]
+--2017-02-03 20:27:24--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw174.052/2449229/Association-of-morbidity-and-mortality-from
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 90113 (88K) [text/html]
+Saving to: ‘ckw174.052’
+
+     0K .......... .......... .......... .......... .......... 56%  209K 0s
+    50K .......... .......... .......... ........             100% 9.74M=0.2s
+
+2017-02-03 20:27:28 (362 KB/s) - ‘ckw174.052’ saved [90113/90113]
+
+--2017-02-03 20:27:29--  http://doi.org/10.1093/eurpub/ckw167.025
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw167.025/2448512/Health-problems-and-health-related-behavior-of [following]
+--2017-02-03 20:27:31--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw167.025/2448512/Health-problems-and-health-related-behavior-of
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77453 (76K) [text/html]
+Saving to: ‘ckw167.025’
+
+     0K .......... .......... .......... .......... .......... 66%  309K 0s
+    50K .......... .......... .....                           100%  324K=0.2s
+
+2017-02-03 20:27:35 (314 KB/s) - ‘ckw167.025’ saved [77453/77453]
+
+--2017-02-03 20:27:36--  http://doi.org/10.1093/eurpub/ckw174.220
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw174.220/2449395/Desktop-HIA-reduction-of-availability-of-sugar [following]
+--2017-02-03 20:27:37--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw174.220/2449395/Desktop-HIA-reduction-of-availability-of-sugar
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 74893 (73K) [text/html]
+Saving to: ‘ckw174.220’
+
+     0K .......... .......... .......... .......... .......... 68%  207K 0s
+    50K .......... .......... ...                             100% 10.9M=0.2s
+
+2017-02-03 20:27:41 (300 KB/s) - ‘ckw174.220’ saved [74893/74893]
+
+--2017-02-03 20:27:42--  http://doi.org/10.1093/eurpub/ckw167.074
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw167.074/2448559/Impacts-of-tendering-for-offpatent-medicines-on [following]
+--2017-02-03 20:27:43--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw167.074/2448559/Impacts-of-tendering-for-offpatent-medicines-on
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 74709 (73K) [text/html]
+Saving to: ‘ckw167.074’
+
+     0K .......... .......... .......... .......... .......... 68%  208K 0s
+    50K .......... .......... ..                              100% 12.6M=0.2s
+
+2017-02-03 20:27:49 (301 KB/s) - ‘ckw167.074’ saved [74709/74709]
+
+--2017-02-03 20:27:50--  http://doi.org/10.1093/eurpub/ckw172.002
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw172.002/2448988/Awarenessraising-on-air-quality-and-health-effects [following]
+--2017-02-03 20:27:51--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw172.002/2448988/Awarenessraising-on-air-quality-and-health-effects
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 103294 (101K) [text/html]
+Saving to: ‘ckw172.002’
+
+     0K .......... .......... .......... .......... .......... 49%  208K 0s
+    50K .......... .......... .......... .......... .......... 99%  610K 0s
+   100K                                                       100% 1665G=0.3s
+
+2017-02-03 20:27:56 (313 KB/s) - ‘ckw172.002’ saved [103294/103294]
+
+--2017-02-03 20:27:57--  http://doi.org/10.1093/eurpub/ckw170.082
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw170.082/2448870/7B-Oral-presentations-Mental-health-issues [following]
+--2017-02-03 20:27:58--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw170.082/2448870/7B-Oral-presentations-Mental-health-issues
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66917 (65K) [text/html]
+Saving to: ‘ckw170.082’
+
+     0K .......... .......... .......... .......... .......... 76%  209K 0s
+    50K .......... .....                                      100% 23.7M=0.2s
+
+2017-02-03 20:28:04 (272 KB/s) - ‘ckw170.082’ saved [66917/66917]
+
+--2017-02-03 20:28:05--  http://doi.org/10.1093/eurpub/ckw172.012
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw172.012/2448998/Monitoring-system-for-a-cohesive-strategy-for [following]
+--2017-02-03 20:28:06--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw172.012/2448998/Monitoring-system-for-a-cohesive-strategy-for
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79300 (77K) [text/html]
+Saving to: ‘ckw172.012’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... .......                         100% 12.8M=0.2s
+
+2017-02-03 20:28:16 (321 KB/s) - ‘ckw172.012’ saved [79300/79300]
+
+--2017-02-03 20:28:17--  http://doi.org/10.1093/eurpub/ckw171.100
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw171.100/2448985/8Q-Pitch-presentations-Capacity-building [following]
+--2017-02-03 20:28:19--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw171.100/2448985/8Q-Pitch-presentations-Capacity-building
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66884 (65K) [text/html]
+Saving to: ‘ckw171.100’
+
+     0K .......... .......... .......... .......... .......... 76%  209K 0s
+    50K .......... .....                                      100% 16.5M=0.2s
+
+2017-02-03 20:28:24 (272 KB/s) - ‘ckw171.100’ saved [66884/66884]
+
+--2017-02-03 20:28:25--  http://doi.org/10.1093/eurpub/ckw171.063
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw171.063/2448948/Increasing-access-to-interventional-cardiology-in [following]
+--2017-02-03 20:28:26--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw171.063/2448948/Increasing-access-to-interventional-cardiology-in
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 80155 (78K) [text/html]
+Saving to: ‘ckw171.063’
+
+     0K .......... .......... .......... .......... .......... 63%  209K 0s
+    50K .......... .......... ........                        100% 5.83M=0.2s
+
+2017-02-03 20:28:32 (320 KB/s) - ‘ckw171.063’ saved [80155/80155]
+
+--2017-02-03 20:28:33--  http://doi.org/10.1093/eurpub/ckw171.009
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw171.009/2448894/Structuring-and-implementing-the-Austrian-suicide [following]
+--2017-02-03 20:28:34--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw171.009/2448894/Structuring-and-implementing-the-Austrian-suicide
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 74837 (73K) [text/html]
+Saving to: ‘ckw171.009’
+
+     0K .......... .......... .......... .......... .......... 68%  208K 0s
+    50K .......... .......... ...                             100% 13.5M=0.2s
+
+2017-02-03 20:28:39 (302 KB/s) - ‘ckw171.009’ saved [74837/74837]
+
+--2017-02-03 20:28:40--  http://doi.org/10.1093/eurpub/ckw164.003
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw164.003/2448188/Common-Misconceptions-And-Publication-Ethics [following]
+--2017-02-03 20:28:41--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw164.003/2448188/Common-Misconceptions-And-Publication-Ethics
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 86960 (85K) [text/html]
+Saving to: ‘ckw164.003’
+
+     0K .......... .......... .......... .......... .......... 58%  209K 0s
+    50K .......... .......... .......... ....                 100% 9.45M=0.2s
+
+2017-02-03 20:28:47 (349 KB/s) - ‘ckw164.003’ saved [86960/86960]
+
+--2017-02-03 20:28:48--  http://doi.org/10.1093/eurpub/ckw164.095
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw164.095/2448280/1F-Oral-presentations-Models-of-chronic-care [following]
+--2017-02-03 20:28:49--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw164.095/2448280/1F-Oral-presentations-Models-of-chronic-care
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 81894 (80K) [text/html]
+Saving to: ‘ckw164.095’
+
+     0K .......... .......... .......... .......... .......... 62%  209K 0s
+    50K .......... .......... .........                       100% 11.6M=0.2s
+
+2017-02-03 20:28:53 (330 KB/s) - ‘ckw164.095’ saved [81894/81894]
+
+--2017-02-03 20:28:54--  http://doi.org/10.1093/eurpub/ckw174.089
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw174.089/2449266/Participation-of-marginalized-communities-in [following]
+--2017-02-03 20:28:55--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw174.089/2449266/Participation-of-marginalized-communities-in
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 74706 (73K) [text/html]
+Saving to: ‘ckw174.089’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ..                              100% 7.91M=0.2s
+
+2017-02-03 20:28:58 (301 KB/s) - ‘ckw174.089’ saved [74706/74706]
+
+--2017-02-03 20:28:59--  http://doi.org/10.1093/eurpub/ckw173.030
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw173.030/2449113/Socioeconomic-inequalities-in-cancer-careRosana [following]
+--2017-02-03 20:29:00--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw173.030/2449113/Socioeconomic-inequalities-in-cancer-careRosana
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 93842 (92K) [text/html]
+Saving to: ‘ckw173.030’
+
+     0K .......... .......... .......... .......... .......... 54%  209K 0s
+    50K .......... .......... .......... .......... .         100%  520K=0.3s
+
+2017-02-03 20:29:04 (287 KB/s) - ‘ckw173.030’ saved [93842/93842]
+
+--2017-02-03 20:29:05--  http://doi.org/10.1093/eurpub/ckw174.070
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw174.070/2449247/The-Rise-of-Transnational-NonGovernmental [following]
+--2017-02-03 20:29:06--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw174.070/2449247/The-Rise-of-Transnational-NonGovernmental
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73376 (72K) [text/html]
+Saving to: ‘ckw174.070’
+
+     0K .......... .......... .......... .......... .......... 69%  208K 0s
+    50K .......... .......... .                               100% 10.8M=0.2s
+
+2017-02-03 20:29:09 (296 KB/s) - ‘ckw174.070’ saved [73376/73376]
+
+--2017-02-03 20:29:10--  http://doi.org/10.1093/eurpub/ckw174.233
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw174.233/2449408/Identification-of-different-malaria-patterns-due [following]
+--2017-02-03 20:29:11--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw174.233/2449408/Identification-of-different-malaria-patterns-due
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71925 (70K) [text/html]
+Saving to: ‘ckw174.233’
+
+     0K .......... .......... .......... .......... .......... 71%  209K 0s
+    50K .......... ..........                                 100% 15.4M=0.2s
+
+2017-02-03 20:29:14 (292 KB/s) - ‘ckw174.233’ saved [71925/71925]
+
+--2017-02-03 20:29:15--  http://doi.org/10.1093/eurpub/ckw175.115
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw175.115/2449573/Many-schools-in-Sweden-need-to-improve-cleaning [following]
+--2017-02-03 20:29:17--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw175.115/2449573/Many-schools-in-Sweden-need-to-improve-cleaning
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77643 (76K) [text/html]
+Saving to: ‘ckw175.115’
+
+     0K .......... .......... .......... .......... .......... 65%  198K 0s
+    50K .......... .......... .....                           100% 4.18M=0.3s
+
+2017-02-03 20:29:21 (293 KB/s) - ‘ckw175.115’ saved [77643/77643]
+
+--2017-02-03 20:29:22--  http://doi.org/10.1093/eurpub/ckw174.242
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw174.242/2449417/Is-provision-of-family-medicine-units-in-Turkey [following]
+--2017-02-03 20:29:23--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw174.242/2449417/Is-provision-of-family-medicine-units-in-Turkey
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 91398 (89K) [text/html]
+Saving to: ‘ckw174.242’
+
+     0K .......... .......... .......... .......... .......... 56%  209K 0s
+    50K .......... .......... .......... .........            100% 11.0M=0.2s
+
+2017-02-03 20:29:26 (368 KB/s) - ‘ckw174.242’ saved [91398/91398]
+
+--2017-02-03 20:29:27--  http://doi.org/10.1093/eurpub/ckw174.019
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw174.019/2449196/Nutritional-status-in-a-population-of-pregnant [following]
+--2017-02-03 20:29:29--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw174.019/2449196/Nutritional-status-in-a-population-of-pregnant
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77473 (76K) [text/html]
+Saving to: ‘ckw174.019’
+
+     0K .......... .......... .......... .......... .......... 66%  310K 0s
+    50K .......... .......... .....                           100%  323K=0.2s
+
+2017-02-03 20:29:33 (314 KB/s) - ‘ckw174.019’ saved [77473/77473]
+
+--2017-02-03 20:29:34--  http://doi.org/10.1093/eurpub/ckw175.073
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw175.073/2449531/The-IRCCS-Policlinico-San-Matteo-in-Pavia-as [following]
+--2017-02-03 20:29:35--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw175.073/2449531/The-IRCCS-Policlinico-San-Matteo-in-Pavia-as
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 92675 (91K) [text/html]
+Saving to: ‘ckw175.073’
+
+     0K .......... .......... .......... .......... .......... 55%  209K 0s
+    50K .......... .......... .......... ..........           100% 9.23M=0.2s
+
+2017-02-03 20:29:39 (372 KB/s) - ‘ckw175.073’ saved [92675/92675]
+
+--2017-02-03 20:29:40--  http://doi.org/10.1093/eurpub/ckw174.001
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw174.001/2449178/Clinical-pathway-for-patients-with-cerebral [following]
+--2017-02-03 20:29:41--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw174.001/2449178/Clinical-pathway-for-patients-with-cerebral
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 85696 (84K) [text/html]
+Saving to: ‘ckw174.001’
+
+     0K .......... .......... .......... .......... .......... 59%  209K 0s
+    50K .......... .......... .......... ...                  100% 3.86M=0.2s
+
+2017-02-03 20:29:46 (338 KB/s) - ‘ckw174.001’ saved [85696/85696]
+
+--2017-02-03 20:29:47--  http://doi.org/10.1093/eurpub/ckw174.168
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw174.168/2449344/Socioeconomic-inequalities-in-obesity-prevalence [following]
+--2017-02-03 20:29:48--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw174.168/2449344/Socioeconomic-inequalities-in-obesity-prevalence
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 109127 (107K) [text/html]
+Saving to: ‘ckw174.168’
+
+     0K .......... .......... .......... .......... .......... 46%  309K 0s
+    50K .......... .......... .......... .......... .......... 93%  313K 0s
+   100K ......                                                100% 11.8M=0.3s
+
+2017-02-03 20:29:52 (331 KB/s) - ‘ckw174.168’ saved [109127/109127]
+
+--2017-02-03 20:29:53--  http://doi.org/10.1093/eurpub/ckw171.071
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw171.071/2448956/Empirical-analysis-of-the-subdomain-structure-of [following]
+--2017-02-03 20:29:54--  https://academic.oup.com/eurpub/article/doi/10.1093/eurpub/ckw171.071/2448956/Empirical-analysis-of-the-subdomain-structure-of
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76972 (75K) [text/html]
+Saving to: ‘ckw171.071’
+
+     0K .......... .......... .......... .......... .......... 66%  209K 0s
+    50K .......... .......... .....                           100% 11.3M=0.2s
+
+2017-02-03 20:29:58 (311 KB/s) - ‘ckw171.071’ saved [76972/76972]
+
+FINISHED --2017-02-03 20:29:58--
+Total wall clock time: 10m 33s
+Downloaded: 90 files, 9.6M in 26s (381 KB/s)

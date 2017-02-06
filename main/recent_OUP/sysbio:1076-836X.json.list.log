@@ -1,0 +1,1693 @@
+--2017-02-03 20:00:21--  http://doi.org/10.1093/sysbio/syw104
+Resolving doi.org (doi.org)... 63.123.152.248, 38.100.138.163, 208.254.38.90, ...
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://sysbio.oxfordjournals.org/lookup/doi/10.1093/sysbio/syw104 [following]
+--2017-02-03 20:00:23--  http://sysbio.oxfordjournals.org/lookup/doi/10.1093/sysbio/syw104
+Resolving sysbio.oxfordjournals.org (sysbio.oxfordjournals.org)... 209.135.222.209
+Connecting to sysbio.oxfordjournals.org (sysbio.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from sysbio.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from sysbio.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/sysbio/redirect-unavailable?url=sysbio.oxfordjournals.org/lookup/doi/10.1093/sysbio/syw104 [following]
+--2017-02-03 20:00:29--  https://academic.oup.com/sysbio/redirect-unavailable?url=sysbio.oxfordjournals.org/lookup/doi/10.1093/sysbio/syw104
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 20:00:30 ERROR 404: Not Found.
+
+--2017-02-03 20:00:31--  http://doi.org/10.1093/sysbio/syw105
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://sysbio.oxfordjournals.org/lookup/doi/10.1093/sysbio/syw105 [following]
+--2017-02-03 20:00:35--  http://sysbio.oxfordjournals.org/lookup/doi/10.1093/sysbio/syw105
+Connecting to sysbio.oxfordjournals.org (sysbio.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from sysbio.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from sysbio.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/sysbio/redirect-unavailable?url=sysbio.oxfordjournals.org/lookup/doi/10.1093/sysbio/syw105 [following]
+--2017-02-03 20:00:36--  https://academic.oup.com/sysbio/redirect-unavailable?url=sysbio.oxfordjournals.org/lookup/doi/10.1093/sysbio/syw105
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 20:00:38 ERROR 404: Not Found.
+
+--2017-02-03 20:00:39--  http://doi.org/10.1093/sysbio/syw078
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://sysbio.oxfordjournals.org/lookup/doi/10.1093/sysbio/syw078 [following]
+--2017-02-03 20:00:40--  http://sysbio.oxfordjournals.org/lookup/doi/10.1093/sysbio/syw078
+Connecting to sysbio.oxfordjournals.org (sysbio.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from sysbio.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syw078/2957003/How-the-Aridification-of-Australia-Structured-the [following]
+--2017-02-03 20:00:41--  https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syw078/2957003/How-the-Aridification-of-Australia-Structured-the
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 561729 (549K) [text/html]
+Saving to: ‘syw078’
+
+     0K .......... .......... .......... .......... ..........  9%  209K 2s
+    50K .......... .......... .......... .......... .......... 18%  610K 1s
+   100K .......... .......... .......... .......... .......... 27%  609K 1s
+   150K .......... .......... .......... .......... .......... 36%  421K 1s
+   200K .......... .......... .......... .......... .......... 45%  385K 1s
+   250K .......... .......... .......... .......... .......... 54%  606K 1s
+   300K .......... .......... .......... .......... .......... 63%  616K 0s
+   350K .......... .......... .......... .......... .......... 72%  428K 0s
+   400K .......... .......... .......... .......... .......... 82%  398K 0s
+   450K .......... .......... .......... .......... .......... 91%  588K 0s
+   500K .......... .......... .......... .......... ........  100%  592K=1.2s
+
+2017-02-03 20:00:46 (448 KB/s) - ‘syw078’ saved [561729/561729]
+
+--2017-02-03 20:00:47--  http://doi.org/10.1093/sysbio/syw113
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://sysbio.oxfordjournals.org/lookup/doi/10.1093/sysbio/syw113 [following]
+--2017-02-03 20:00:49--  http://sysbio.oxfordjournals.org/lookup/doi/10.1093/sysbio/syw113
+Connecting to sysbio.oxfordjournals.org (sysbio.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from sysbio.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syw113/2957006/Erratum [following]
+--2017-02-03 20:00:50--  https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syw113/2957006/Erratum
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64466 (63K) [text/html]
+Saving to: ‘syw113’
+
+     0K .......... .......... .......... .......... .......... 79%  209K 0s
+    50K .......... ..                                         100% 13.4M=0.2s
+
+2017-02-03 20:00:53 (262 KB/s) - ‘syw113’ saved [64466/64466]
+
+--2017-02-03 20:00:54--  http://doi.org/10.1093/sysbio/syw108
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://sysbio.oxfordjournals.org/lookup/doi/10.1093/sysbio/syw108 [following]
+--2017-02-03 20:00:57--  http://sysbio.oxfordjournals.org/lookup/doi/10.1093/sysbio/syw108
+Connecting to sysbio.oxfordjournals.org (sysbio.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from sysbio.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from sysbio.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/sysbio/redirect-unavailable?url=sysbio.oxfordjournals.org/lookup/doi/10.1093/sysbio/syw108 [following]
+--2017-02-03 20:00:58--  https://academic.oup.com/sysbio/redirect-unavailable?url=sysbio.oxfordjournals.org/lookup/doi/10.1093/sysbio/syw108
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 20:00:59 ERROR 404: Not Found.
+
+--2017-02-03 20:01:00--  http://doi.org/10.1093/sysbio/syx027
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://sysbio.oxfordjournals.org/lookup/doi/10.1093/sysbio/syx027 [following]
+--2017-02-03 20:01:02--  http://sysbio.oxfordjournals.org/lookup/doi/10.1093/sysbio/syx027
+Connecting to sysbio.oxfordjournals.org (sysbio.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from sysbio.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syx027/2929402/Phylogenomics-using-Target-restricted-Assembly [following]
+--2017-02-03 20:01:03--  https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syx027/2929402/Phylogenomics-using-Target-restricted-Assembly
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 91001 (89K) [text/html]
+Saving to: ‘syx027’
+
+     0K .......... .......... .......... .......... .......... 56%  209K 0s
+    50K .......... .......... .......... ........             100% 8.83M=0.2s
+
+2017-02-03 20:01:08 (365 KB/s) - ‘syx027’ saved [91001/91001]
+
+--2017-02-03 20:01:09--  http://doi.org/10.1093/sysbio/syw120
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw120 [following]
+--2017-02-03 20:01:11--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw120
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sysbio/article-lookup/doi/10.1093/sysbio/?redirectedFrom=fulltext [following]
+--2017-02-03 20:01:13--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/sysbio/article-lookup/doi/10.1093/sysbio/ [following]
+--2017-02-03 20:01:14--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/sysbio/article-lookup/doi/10.1093/sysbio/
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 20:01:15 ERROR 400: Bad Request.
+
+--2017-02-03 20:01:16--  http://doi.org/10.1093/sysbio/syw121
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw121 [following]
+--2017-02-03 20:01:17--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw121
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 20:02:30 ERROR 400: Bad Request.
+
+--2017-02-03 20:02:31--  http://doi.org/10.1093/sysbio/syw119
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw119 [following]
+--2017-02-03 20:02:33--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw119
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73732 (72K) [text/html]
+Saving to: ‘syw119’
+
+     0K .......... .......... .......... .......... .......... 69%  209K 0s
+    50K .......... .......... ..                              100% 11.1M=0.2s
+
+2017-02-03 20:02:37 (299 KB/s) - ‘syw119’ saved [73732/73732]
+
+--2017-02-03 20:02:38--  http://doi.org/10.1093/sysbio/syx001
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 20:02:40--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Resolving fdslive.oup.com (fdslive.oup.com)... 193.67.160.201
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘syx001’
+
+     0K .......... .......... .......... .......... .......... 97% 1.16M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 20:02:41 (1.19 MB/s) - ‘syx001’ saved [52438/52438]
+
+--2017-02-03 20:02:42--  http://doi.org/10.1093/sysbio/syx031
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 20:02:46--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘syx031’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 20:02:46 (1.32 MB/s) - ‘syx031’ saved [52438/52438]
+
+--2017-02-03 20:02:47--  http://doi.org/10.1093/sysbio/syx030
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 20:02:50--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘syx030’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 20:02:50 (1.20 MB/s) - ‘syx030’ saved [52438/52438]
+
+--2017-02-03 20:02:51--  http://doi.org/10.1093/sysbio/syw116
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw116 [following]
+--2017-02-03 20:02:52--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw116
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 74630 (73K) [text/html]
+Saving to: ‘syw116’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ..                              100% 10.1M=0.2s
+
+2017-02-03 20:03:00 (302 KB/s) - ‘syw116’ saved [74630/74630]
+
+--2017-02-03 20:03:01--  http://doi.org/10.1093/sysbio/syw117
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw117 [following]
+--2017-02-03 20:03:05--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw117
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77278 (75K) [text/html]
+Saving to: ‘syw117’
+
+     0K .......... .......... .......... .......... .......... 66%  209K 0s
+    50K .......... .......... .....                           100% 9.67M=0.2s
+
+2017-02-03 20:03:26 (312 KB/s) - ‘syw117’ saved [77278/77278]
+
+--2017-02-03 20:03:27--  http://doi.org/10.1093/sysbio/syw115
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw115 [following]
+--2017-02-03 20:03:30--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw115
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77058 (75K) [text/html]
+Saving to: ‘syw115’
+
+     0K .......... .......... .......... .......... .......... 66%  209K 0s
+    50K .......... .......... .....                           100% 10.8M=0.2s
+
+2017-02-03 20:03:34 (311 KB/s) - ‘syw115’ saved [77058/77058]
+
+--2017-02-03 20:03:35--  http://doi.org/10.1093/sysbio/syw101
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://sysbio.oxfordjournals.org/lookup/doi/10.1093/sysbio/syw101 [following]
+--2017-02-03 20:03:37--  http://sysbio.oxfordjournals.org/lookup/doi/10.1093/sysbio/syw101
+Connecting to sysbio.oxfordjournals.org (sysbio.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from sysbio.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syw101/2950896/Bayes-factors-unmask-highly-variable-information [following]
+--2017-02-03 20:03:39--  https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syw101/2950896/Bayes-factors-unmask-highly-variable-information
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 74562 (73K) [text/html]
+Saving to: ‘syw101’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ..                              100% 7.95M=0.2s
+
+2017-02-03 20:03:43 (300 KB/s) - ‘syw101’ saved [74562/74562]
+
+--2017-02-03 20:03:44--  http://doi.org/10.1093/sysbio/syw107
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jigpal/article-lookup/doi/10.1093/sysbio/syw107 [following]
+--2017-02-03 20:03:47--  https://academic.oup.com/jigpal/article-lookup/doi/10.1093/sysbio/syw107
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 391017 (382K) [text/html]
+Saving to: ‘syw107’
+
+     0K .......... .......... .......... .......... .......... 13%  210K 2s
+    50K .......... .......... .......... .......... .......... 26%  598K 1s
+   100K .......... .......... .......... .......... .......... 39%  570K 1s
+   150K .......... .......... .......... .......... .......... 52%  613K 0s
+   200K .......... .......... .......... .......... .......... 65%  606K 0s
+   250K .......... .......... .......... .......... .......... 78%  310K 0s
+   300K .......... .......... .......... .......... .......... 91%  605K 0s
+   350K .......... .......... .......... .                    100%  394K=0.9s
+
+2017-02-03 20:03:58 (425 KB/s) - ‘syw107’ saved [391017/391017]
+
+--2017-02-03 20:03:59--  http://doi.org/10.1093/sysbio/syw103
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://sysbio.oxfordjournals.org/lookup/doi/10.1093/sysbio/syw103 [following]
+--2017-02-03 20:04:02--  http://sysbio.oxfordjournals.org/lookup/doi/10.1093/sysbio/syw103
+Connecting to sysbio.oxfordjournals.org (sysbio.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from sysbio.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syw103/2684527/Split-Scores-A-Tool-to-Quantify-Phylogenetic [following]
+--2017-02-03 20:04:03--  https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syw103/2684527/Split-Scores-A-Tool-to-Quantify-Phylogenetic
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 20:04:04 ERROR 400: Bad Request.
+
+--2017-02-03 20:04:05--  http://doi.org/10.1093/sysbio/syw106
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw106 [following]
+--2017-02-03 20:04:08--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw106
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sysbio/article-lookup/doi/10.1093/sysbio/?redirectedFrom=fulltext [following]
+--2017-02-03 20:04:13--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/sysbio/article-lookup/doi/10.1093/sysbio/ [following]
+--2017-02-03 20:04:15--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/sysbio/article-lookup/doi/10.1093/sysbio/
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23905 (23K) [text/html]
+Saving to: ‘syw106’
+
+     0K .......... .......... ...                             100%  292K=0.08s
+
+2017-02-03 20:04:16 (292 KB/s) - ‘syw106’ saved [23905/23905]
+
+--2017-02-03 20:04:17--  http://doi.org/10.1093/sysbio/syw102
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jigpal/article-lookup/doi/10.1093/sysbio/syw102 [following]
+--2017-02-03 20:04:20--  https://academic.oup.com/jigpal/article-lookup/doi/10.1093/sysbio/syw102
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72503 (71K) [text/html]
+Saving to: ‘syw102’
+
+     0K .......... .......... .......... .......... .......... 70%  209K 0s
+    50K .......... ..........                                 100% 10.7M=0.2s
+
+2017-02-03 20:04:30 (294 KB/s) - ‘syw102’ saved [72503/72503]
+
+--2017-02-03 20:04:31--  http://doi.org/10.1093/sysbio/syw100
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jigpal/article-lookup/doi/10.1093/sysbio/syw100 [following]
+--2017-02-03 20:04:38--  https://academic.oup.com/jigpal/article-lookup/doi/10.1093/sysbio/syw100
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 80061 (78K) [text/html]
+Saving to: ‘syw100’
+
+     0K .......... .......... .......... .......... .......... 63%  309K 0s
+    50K .......... .......... ........                        100%  352K=0.2s
+
+2017-02-03 20:04:45 (323 KB/s) - ‘syw100’ saved [80061/80061]
+
+--2017-02-03 20:04:46--  http://doi.org/10.1093/sysbio/syw095
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jigpal/article-lookup/doi/10.1093/sysbio/syw095 [following]
+--2017-02-03 20:04:49--  https://academic.oup.com/jigpal/article-lookup/doi/10.1093/sysbio/syw095
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 90497 (88K) [text/html]
+Saving to: ‘syw095’
+
+     0K .......... .......... .......... .......... .......... 56%  209K 0s
+    50K .......... .......... .......... ........             100% 10.0M=0.2s
+
+2017-02-03 20:04:57 (364 KB/s) - ‘syw095’ saved [90497/90497]
+
+--2017-02-03 20:04:58--  http://doi.org/10.1093/sysbio/syw098
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jigpal/article-lookup/doi/10.1093/sysbio/syw098 [following]
+--2017-02-03 20:04:59--  https://academic.oup.com/jigpal/article-lookup/doi/10.1093/sysbio/syw098
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 78441 (77K) [text/html]
+Saving to: ‘syw098’
+
+     0K .......... .......... .......... .......... .......... 65%  310K 0s
+    50K .......... .......... ......                          100%  320K=0.2s
+
+2017-02-03 20:05:05 (313 KB/s) - ‘syw098’ saved [78441/78441]
+
+--2017-02-03 20:05:06--  http://doi.org/10.1093/sysbio/syw099
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://sysbio.oxfordjournals.org/lookup/doi/10.1093/sysbio/syw099 [following]
+--2017-02-03 20:05:08--  http://sysbio.oxfordjournals.org/lookup/doi/10.1093/sysbio/syw099
+Connecting to sysbio.oxfordjournals.org (sysbio.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from sysbio.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syw099/2684526/Construction-of-a-Species-Level-Tree-of-Life-for [following]
+--2017-02-03 20:05:09--  https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syw099/2684526/Construction-of-a-Species-Level-Tree-of-Life-for
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 20:05:11 ERROR 400: Bad Request.
+
+--2017-02-03 20:05:12--  http://doi.org/10.1093/sysbio/syw097
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://sysbio.oxfordjournals.org/lookup/doi/10.1093/sysbio/syw097 [following]
+--2017-02-03 20:05:13--  http://sysbio.oxfordjournals.org/lookup/doi/10.1093/sysbio/syw097
+Connecting to sysbio.oxfordjournals.org (sysbio.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from sysbio.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syw097/2682287/Displayed-Trees-Do-Not-Determine [following]
+--2017-02-03 20:05:15--  https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syw097/2682287/Displayed-Trees-Do-Not-Determine
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 20:05:15 ERROR 400: Bad Request.
+
+--2017-02-03 20:05:16--  http://doi.org/10.1093/sysbio/syw096
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jigpal/article-lookup/doi/10.1093/sysbio/syw096 [following]
+--2017-02-03 20:05:18--  https://academic.oup.com/jigpal/article-lookup/doi/10.1093/sysbio/syw096
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 20:05:18 ERROR 400: Bad Request.
+
+--2017-02-03 20:05:19--  http://doi.org/10.1093/sysbio/syw094
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw094 [following]
+--2017-02-03 20:05:23--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw094
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 84711 (83K) [text/html]
+Saving to: ‘syw094’
+
+     0K .......... .......... .......... .......... .......... 60%  209K 0s
+    50K .......... .......... .......... ..                   100% 10.6M=0.2s
+
+2017-02-03 20:05:30 (341 KB/s) - ‘syw094’ saved [84711/84711]
+
+--2017-02-03 20:05:31--  http://doi.org/10.1093/sysbio/syw077
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw077 [following]
+--2017-02-03 20:05:34--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw077
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sysbio/article-lookup/doi/10.1093/sysbio/?redirectedFrom=fulltext [following]
+--2017-02-03 20:05:36--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 20:05:36 ERROR 400: Bad Request.
+
+--2017-02-03 20:05:37--  http://doi.org/10.1093/sysbio/syw092
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jigpal/article-lookup/doi/10.1093/sysbio/syw092 [following]
+--2017-02-03 20:05:39--  https://academic.oup.com/jigpal/article-lookup/doi/10.1093/sysbio/syw092
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77509 (76K) [text/html]
+Saving to: ‘syw092’
+
+     0K .......... .......... .......... .......... .......... 66%  209K 0s
+    50K .......... .......... .....                           100% 13.9M=0.2s
+
+2017-02-03 20:05:43 (314 KB/s) - ‘syw092’ saved [77509/77509]
+
+--2017-02-03 20:05:44--  http://doi.org/10.1093/sysbio/syw093
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw093 [following]
+--2017-02-03 20:05:46--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw093
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 81905 (80K) [text/html]
+Saving to: ‘syw093’
+
+     0K .......... .......... .......... .......... .......... 62%  209K 0s
+    50K .......... .......... .........                       100% 9.42M=0.2s
+
+2017-02-03 20:05:51 (330 KB/s) - ‘syw093’ saved [81905/81905]
+
+--2017-02-03 20:05:52--  http://doi.org/10.1093/sysbio/syv112
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syv112 [following]
+--2017-02-03 20:05:57--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syv112
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64626 (63K) [text/html]
+Saving to: ‘syv112’
+
+     0K .......... .......... .......... .......... .......... 79%  209K 0s
+    50K .......... ...                                        100% 14.2M=0.2s
+
+2017-02-03 20:06:02 (263 KB/s) - ‘syv112’ saved [64626/64626]
+
+--2017-02-03 20:06:03--  http://doi.org/10.1093/sysbio/syv113
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syv113 [following]
+--2017-02-03 20:06:05--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syv113
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79727 (78K) [text/html]
+Saving to: ‘syv113’
+
+     0K .......... .......... .......... .......... .......... 64%  207K 0s
+    50K .......... .......... .......                         100% 12.7M=0.2s
+
+2017-02-03 20:06:09 (320 KB/s) - ‘syv113’ saved [79727/79727]
+
+--2017-02-03 20:06:10--  http://doi.org/10.1093/sysbio/syw090
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw090 [following]
+--2017-02-03 20:06:11--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw090
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68843 (67K) [text/html]
+Saving to: ‘syw090’
+
+     0K .......... .......... .......... .......... .......... 74%  209K 0s
+    50K .......... .......                                    100% 11.7M=0.2s
+
+2017-02-03 20:06:16 (279 KB/s) - ‘syw090’ saved [68843/68843]
+
+--2017-02-03 20:06:17--  http://doi.org/10.1093/sysbio/syv111
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syv111 [following]
+--2017-02-03 20:06:20--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syv111
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79807 (78K) [text/html]
+Saving to: ‘syv111’
+
+     0K .......... .......... .......... .......... .......... 64%  208K 0s
+    50K .......... .......... .......                         100% 10.6M=0.2s
+
+2017-02-03 20:06:24 (320 KB/s) - ‘syv111’ saved [79807/79807]
+
+--2017-02-03 20:06:25--  http://doi.org/10.1093/sysbio/syv110
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syv110 [following]
+--2017-02-03 20:06:27--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syv110
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64770 (63K) [text/html]
+Saving to: ‘syv110’
+
+     0K .......... .......... .......... .......... .......... 79%  308K 0s
+    50K .......... ...                                        100%  169K=0.2s
+
+2017-02-03 20:06:32 (263 KB/s) - ‘syv110’ saved [64770/64770]
+
+--2017-02-03 20:06:33--  http://doi.org/10.1093/sysbio/syw088
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw088 [following]
+--2017-02-03 20:06:35--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw088
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 292558 (286K) [text/html]
+Saving to: ‘syw088’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 35%  597K 1s
+   100K .......... .......... .......... .......... .......... 52%  612K 0s
+   150K .......... .......... .......... .......... .......... 70%  594K 0s
+   200K .......... .......... .......... .......... .......... 87%  315K 0s
+   250K .......... .......... .......... .....                100%  811K=0.7s
+
+2017-02-03 20:06:40 (413 KB/s) - ‘syw088’ saved [292558/292558]
+
+--2017-02-03 20:06:41--  http://doi.org/10.1093/sysbio/syw089
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jigpal/article-lookup/doi/10.1093/sysbio/syw089 [following]
+--2017-02-03 20:06:44--  https://academic.oup.com/jigpal/article-lookup/doi/10.1093/sysbio/syw089
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 78383 (77K) [text/html]
+Saving to: ‘syw089’
+
+     0K .......... .......... .......... .......... .......... 65%  308K 0s
+    50K .......... .......... ......                          100%  330K=0.2s
+
+2017-02-03 20:06:48 (316 KB/s) - ‘syw089’ saved [78383/78383]
+
+--2017-02-03 20:06:49--  http://doi.org/10.1093/sysbio/syw087
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw087 [following]
+--2017-02-03 20:06:50--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw087
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 213016 (208K) [text/html]
+Saving to: ‘syw087’
+
+     0K .......... .......... .......... .......... .......... 24%  209K 1s
+    50K .......... .......... .......... .......... .......... 48%  606K 0s
+   100K .......... .......... .......... .......... .......... 72%  615K 0s
+   150K .......... .......... .......... .......... .......... 96%  423K 0s
+   200K ........                                              100% 5.46M=0.5s
+
+2017-02-03 20:06:54 (398 KB/s) - ‘syw087’ saved [213016/213016]
+
+--2017-02-03 20:06:55--  http://doi.org/10.1093/sysbio/syw079
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw079 [following]
+--2017-02-03 20:06:56--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw079
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 98049 (96K) [text/html]
+Saving to: ‘syw079’
+
+     0K .......... .......... .......... .......... .......... 52%  208K 0s
+    50K .......... .......... .......... .......... .....     100%  571K=0.3s
+
+2017-02-03 20:07:00 (299 KB/s) - ‘syw079’ saved [98049/98049]
+
+--2017-02-03 20:07:01--  http://doi.org/10.1093/sysbio/syw086
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw086 [following]
+--2017-02-03 20:07:02--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw086
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 82186 (80K) [text/html]
+Saving to: ‘syw086’
+
+     0K .......... .......... .......... .......... .......... 62%  309K 0s
+    50K .......... .......... ..........                      100%  379K=0.2s
+
+2017-02-03 20:07:07 (332 KB/s) - ‘syw086’ saved [82186/82186]
+
+--2017-02-03 20:07:08--  http://doi.org/10.1093/sysbio/syw083
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw083 [following]
+--2017-02-03 20:07:11--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw083
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 20:07:13 ERROR 400: Bad Request.
+
+--2017-02-03 20:07:14--  http://doi.org/10.1093/sysbio/syw074
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw074 [following]
+--2017-02-03 20:07:19--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw074
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 252496 (247K) [text/html]
+Saving to: ‘syw074’
+
+     0K .......... .......... .......... .......... .......... 20%  310K 1s
+    50K .......... .......... .......... .......... .......... 40%  311K 0s
+   100K .......... .......... .......... .......... .......... 60%  616K 0s
+   150K .......... .......... .......... .......... .......... 81%  604K 0s
+   200K .......... .......... .......... .......... ......    100%  569K=0.6s
+
+2017-02-03 20:07:25 (434 KB/s) - ‘syw074’ saved [252496/252496]
+
+--2017-02-03 20:07:26--  http://doi.org/10.1093/sysbio/syw084
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw084 [following]
+--2017-02-03 20:07:33--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw084
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 527634 (515K) [text/html]
+Saving to: ‘syw084’
+
+     0K .......... .......... .......... .......... ..........  9%  207K 2s
+    50K .......... .......... .......... .......... .......... 19%  607K 1s
+   100K .......... .......... .......... .......... .......... 29%  606K 1s
+   150K .......... .......... .......... .......... .......... 38%  610K 1s
+   200K .......... .......... .......... .......... .......... 48%  307K 1s
+   250K .......... .......... .......... .......... .......... 58%  612K 1s
+   300K .......... .......... .......... .......... .......... 67%  597K 0s
+   350K .......... .......... .......... .......... .......... 77%  312K 0s
+   400K .......... .......... .......... .......... .......... 87%  608K 0s
+   450K .......... .......... .......... .......... .......... 97%  610K 0s
+   500K .......... .....                                      100%  197K=1.2s
+
+2017-02-03 20:07:37 (423 KB/s) - ‘syw084’ saved [527634/527634]
+
+--2017-02-03 20:07:38--  http://doi.org/10.1093/sysbio/syw085
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw085 [following]
+--2017-02-03 20:07:41--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw085
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66336 (65K) [text/html]
+Saving to: ‘syw085’
+
+     0K .......... .......... .......... .......... .......... 77%  209K 0s
+    50K .......... ....                                       100% 14.3M=0.2s
+
+2017-02-03 20:07:44 (269 KB/s) - ‘syw085’ saved [66336/66336]
+
+--2017-02-03 20:07:45--  http://doi.org/10.1093/sysbio/syw066
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw066 [following]
+--2017-02-03 20:07:48--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw066
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 101125 (99K) [text/html]
+Saving to: ‘syw066’
+
+     0K .......... .......... .......... .......... .......... 50%  209K 0s
+    50K .......... .......... .......... .......... ........  100%  599K=0.3s
+
+2017-02-03 20:07:51 (308 KB/s) - ‘syw066’ saved [101125/101125]
+
+--2017-02-03 20:07:52--  http://doi.org/10.1093/sysbio/syw072
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw072 [following]
+--2017-02-03 20:07:54--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw072
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75109 (73K) [text/html]
+Saving to: ‘syw072’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ...                             100% 10.2M=0.2s
+
+2017-02-03 20:07:58 (303 KB/s) - ‘syw072’ saved [75109/75109]
+
+--2017-02-03 20:07:59--  http://doi.org/10.1093/sysbio/syw081
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw081 [following]
+--2017-02-03 20:08:00--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw081
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sysbio/article-lookup/doi/10.1093/sysbio/?redirectedFrom=fulltext [following]
+--2017-02-03 20:08:02--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 20:08:03 ERROR 400: Bad Request.
+
+--2017-02-03 20:08:04--  http://doi.org/10.1093/sysbio/syw082
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw082 [following]
+--2017-02-03 20:08:06--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw082
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sysbio/article-lookup/doi/10.1093/sysbio/?redirectedFrom=fulltext [following]
+--2017-02-03 20:08:08--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 20:08:08 ERROR 400: Bad Request.
+
+--2017-02-03 20:08:09--  http://doi.org/10.1093/sysbio/syw080
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw080 [following]
+--2017-02-03 20:08:13--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw080
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 95294 (93K) [text/html]
+Saving to: ‘syw080’
+
+     0K .......... .......... .......... .......... .......... 53%  209K 0s
+    50K .......... .......... .......... .......... ...       100%  538K=0.3s
+
+2017-02-03 20:08:17 (291 KB/s) - ‘syw080’ saved [95294/95294]
+
+--2017-02-03 20:08:18--  http://doi.org/10.1093/sysbio/syw075
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw075 [following]
+--2017-02-03 20:08:19--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw075
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75058 (73K) [text/html]
+Saving to: ‘syw075’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ...                             100% 13.2M=0.2s
+
+2017-02-03 20:08:23 (304 KB/s) - ‘syw075’ saved [75058/75058]
+
+--2017-02-03 20:08:24--  http://doi.org/10.1093/sysbio/syw073
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw073 [following]
+--2017-02-03 20:08:27--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw073
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sysbio/article-lookup/doi/10.1093/sysbio/?redirectedFrom=fulltext [following]
+--2017-02-03 20:08:29--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/sysbio/article-lookup/doi/10.1093/sysbio/ [following]
+--2017-02-03 20:08:31--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/sysbio/article-lookup/doi/10.1093/sysbio/
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23905 (23K) [text/html]
+Saving to: ‘syw073’
+
+     0K .......... .......... ...                             100%  279K=0.08s
+
+2017-02-03 20:08:31 (279 KB/s) - ‘syw073’ saved [23905/23905]
+
+--2017-02-03 20:08:32--  http://doi.org/10.1093/sysbio/syw076
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw076 [following]
+--2017-02-03 20:08:34--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw076
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sysbio/article-lookup/doi/10.1093/sysbio/?redirectedFrom=fulltext [following]
+--2017-02-03 20:08:36--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/sysbio/article-lookup/doi/10.1093/sysbio/ [following]
+--2017-02-03 20:08:37--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/sysbio/article-lookup/doi/10.1093/sysbio/
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 38857 (38K) [text/html]
+Saving to: ‘syw076’
+
+     0K .......... .......... .......... .......              100%  237K=0.2s
+
+2017-02-03 20:08:38 (237 KB/s) - ‘syw076’ saved [38857/38857]
+
+--2017-02-03 20:08:39--  http://doi.org/10.1093/sysbio/syv106
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syv106 [following]
+--2017-02-03 20:08:44--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syv106
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64780 (63K) [text/html]
+Saving to: ‘syv106’
+
+     0K .......... .......... .......... .......... .......... 79%  209K 0s
+    50K .......... ...                                        100% 14.5M=0.2s
+
+2017-02-03 20:08:47 (263 KB/s) - ‘syv106’ saved [64780/64780]
+
+--2017-02-03 20:08:48--  http://doi.org/10.1093/sysbio/syv107
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syv107 [following]
+--2017-02-03 20:08:50--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syv107
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64867 (63K) [text/html]
+Saving to: ‘syv107’
+
+     0K .......... .......... .......... .......... .......... 78%  209K 0s
+    50K .......... ...                                        100% 14.5M=0.2s
+
+2017-02-03 20:08:52 (263 KB/s) - ‘syv107’ saved [64867/64867]
+
+--2017-02-03 20:08:53--  http://doi.org/10.1093/sysbio/syv109
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syv109 [following]
+--2017-02-03 20:08:56--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syv109
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64779 (63K) [text/html]
+Saving to: ‘syv109’
+
+     0K .......... .......... .......... .......... .......... 79%  209K 0s
+    50K .......... ...                                        100% 13.5M=0.2s
+
+2017-02-03 20:08:59 (264 KB/s) - ‘syv109’ saved [64779/64779]
+
+--2017-02-03 20:09:00--  http://doi.org/10.1093/sysbio/syw071
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw071 [following]
+--2017-02-03 20:09:01--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw071
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68840 (67K) [text/html]
+Saving to: ‘syw071’
+
+     0K .......... .......... .......... .......... .......... 74%  209K 0s
+    50K .......... .......                                    100% 5.60M=0.2s
+
+2017-02-03 20:09:04 (277 KB/s) - ‘syw071’ saved [68840/68840]
+
+--2017-02-03 20:09:05--  http://doi.org/10.1093/sysbio/syv108
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syv108 [following]
+--2017-02-03 20:09:07--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syv108
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64626 (63K) [text/html]
+Saving to: ‘syv108’
+
+     0K .......... .......... .......... .......... .......... 79%  209K 0s
+    50K .......... ...                                        100% 14.0M=0.2s
+
+2017-02-03 20:09:10 (262 KB/s) - ‘syv108’ saved [64626/64626]
+
+--2017-02-03 20:09:11--  http://doi.org/10.1093/sysbio/syw060
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syw060/2670056/Bayesian-Total-Evidence-Dating-Reveals-the-Recent [following]
+--2017-02-03 20:09:12--  https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syw060/2670056/Bayesian-Total-Evidence-Dating-Reveals-the-Recent
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 559336 (546K) [text/html]
+Saving to: ‘syw060’
+
+     0K .......... .......... .......... .......... ..........  9%  209K 2s
+    50K .......... .......... .......... .......... .......... 18%  613K 1s
+   100K .......... .......... .......... .......... .......... 27%  587K 1s
+   150K .......... .......... .......... .......... .......... 36%  323K 1s
+   200K .......... .......... .......... .......... .......... 45%  592K 1s
+   250K .......... .......... .......... .......... .......... 54%  596K 1s
+   300K .......... .......... .......... .......... .......... 64%  597K 0s
+   350K .......... .......... .......... .......... .......... 73%  324K 0s
+   400K .......... .......... .......... .......... .......... 82%  578K 0s
+   450K .......... .......... .......... .......... .......... 91%  600K 0s
+   500K .......... .......... .......... .......... ......    100%  565K=1.2s
+
+2017-02-03 20:09:17 (448 KB/s) - ‘syw060’ saved [559336/559336]
+
+--2017-02-03 20:09:18--  http://doi.org/10.1093/sysbio/syw069
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw069 [following]
+--2017-02-03 20:09:20--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw069
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 598913 (585K) [text/html]
+Saving to: ‘syw069’
+
+     0K .......... .......... .......... .......... ..........  8%  309K 2s
+    50K .......... .......... .......... .......... .......... 17%  312K 2s
+   100K .......... .......... .......... .......... .......... 25%  605K 1s
+   150K .......... .......... .......... .......... .......... 34%  612K 1s
+   200K .......... .......... .......... .......... .......... 42%  315K 1s
+   250K .......... .......... .......... .......... .......... 51%  598K 1s
+   300K .......... .......... .......... .......... .......... 59%  608K 1s
+   350K .......... .......... .......... .......... .......... 68%  319K 0s
+   400K .......... .......... .......... .......... .......... 76%  596K 0s
+   450K .......... .......... .......... .......... .......... 85%  588K 0s
+   500K .......... .......... .......... .......... .......... 94%  605K 0s
+   550K .......... .......... .......... ....                 100%  436K=1.3s
+
+2017-02-03 20:09:24 (450 KB/s) - ‘syw069’ saved [598913/598913]
+
+--2017-02-03 20:09:25--  http://doi.org/10.1093/sysbio/syw070
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw070 [following]
+--2017-02-03 20:09:27--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw070
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65984 (64K) [text/html]
+Saving to: ‘syw070’
+
+     0K .......... .......... .......... .......... .......... 77%  209K 0s
+    50K .......... ....                                       100% 9.36M=0.2s
+
+2017-02-03 20:09:31 (267 KB/s) - ‘syw070’ saved [65984/65984]
+
+--2017-02-03 20:09:32--  http://doi.org/10.1093/sysbio/syw067
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw067 [following]
+--2017-02-03 20:09:34--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw067
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79293 (77K) [text/html]
+Saving to: ‘syw067’
+
+     0K .......... .......... .......... .......... .......... 64%  208K 0s
+    50K .......... .......... .......                         100% 13.2M=0.2s
+
+2017-02-03 20:09:37 (320 KB/s) - ‘syw067’ saved [79293/79293]
+
+--2017-02-03 20:09:38--  http://doi.org/10.1093/sysbio/syw068
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syw068/2670090/Novel-Approaches-for-Phylogenetic-Inference-from [following]
+--2017-02-03 20:09:40--  https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syw068/2670090/Novel-Approaches-for-Phylogenetic-Inference-from
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72481 (71K) [text/html]
+Saving to: ‘syw068’
+
+     0K .......... .......... .......... .......... .......... 70%  206K 0s
+    50K .......... ..........                                 100% 12.4M=0.2s
+
+2017-02-03 20:09:43 (289 KB/s) - ‘syw068’ saved [72481/72481]
+
+--2017-02-03 20:09:44--  http://doi.org/10.1093/sysbio/syw065
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syw065/2670079/Macroevolution-of-specificity-in-cyanolichens-of [following]
+--2017-02-03 20:09:46--  https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syw065/2670079/Macroevolution-of-specificity-in-cyanolichens-of
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 81938 (80K) [text/html]
+Saving to: ‘syw065’
+
+     0K .......... .......... .......... .......... .......... 62%  209K 0s
+    50K .......... .......... ..........                      100% 14.2M=0.2s
+
+2017-02-03 20:09:50 (332 KB/s) - ‘syw065’ saved [81938/81938]
+
+--2017-02-03 20:09:51--  http://doi.org/10.1093/sysbio/syw062
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw062 [following]
+--2017-02-03 20:09:53--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw062
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 113789 (111K) [text/html]
+Saving to: ‘syw062’
+
+     0K .......... .......... .......... .......... .......... 44%  208K 0s
+    50K .......... .......... .......... .......... .......... 89%  607K 0s
+   100K .......... .                                          100% 13.9M=0.3s
+
+2017-02-03 20:09:56 (343 KB/s) - ‘syw062’ saved [113789/113789]
+
+--2017-02-03 20:09:57--  http://doi.org/10.1093/sysbio/syw064
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw064 [following]
+--2017-02-03 20:10:02--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw064
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 246616 (241K) [text/html]
+Saving to: ‘syw064’
+
+     0K .......... .......... .......... .......... .......... 20%  208K 1s
+    50K .......... .......... .......... .......... .......... 41%  604K 0s
+   100K .......... .......... .......... .......... .......... 62%  585K 0s
+   150K .......... .......... .......... .......... .......... 83%  609K 0s
+   200K .......... .......... .......... ..........           100%  501K=0.6s
+
+2017-02-03 20:10:06 (421 KB/s) - ‘syw064’ saved [246616/246616]
+
+--2017-02-03 20:10:07--  http://doi.org/10.1093/sysbio/syw056
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syw056/2670014/Statistical-inference-in-the-Wright-Fisher-model [following]
+--2017-02-03 20:10:09--  https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syw056/2670014/Statistical-inference-in-the-Wright-Fisher-model
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77222 (75K) [text/html]
+Saving to: ‘syw056’
+
+     0K .......... .......... .......... .......... .......... 66%  207K 0s
+    50K .......... .......... .....                           100% 11.5M=0.2s
+
+2017-02-03 20:10:13 (309 KB/s) - ‘syw056’ saved [77222/77222]
+
+--2017-02-03 20:10:14--  http://doi.org/10.1093/sysbio/syw063
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syw063/2670069/Maximum-Likelihood-Implementation-of-an-Isolation [following]
+--2017-02-03 20:10:19--  https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syw063/2670069/Maximum-Likelihood-Implementation-of-an-Isolation
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 93404 (91K) [text/html]
+Saving to: ‘syw063’
+
+     0K .......... .......... .......... .......... .......... 54%  208K 0s
+    50K .......... .......... .......... .......... .         100% 10.5M=0.2s
+
+2017-02-03 20:10:22 (374 KB/s) - ‘syw063’ saved [93404/93404]
+
+--2017-02-03 20:10:23--  http://doi.org/10.1093/sysbio/syw046
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw046 [following]
+--2017-02-03 20:10:25--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw046
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 67113 (66K) [text/html]
+Saving to: ‘syw046’
+
+     0K .......... .......... .......... .......... .......... 76%  209K 0s
+    50K .......... .....                                      100% 16.8M=0.2s
+
+2017-02-03 20:10:30 (273 KB/s) - ‘syw046’ saved [67113/67113]
+
+--2017-02-03 20:10:31--  http://doi.org/10.1093/sysbio/syw045
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw045 [following]
+--2017-02-03 20:10:32--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw045
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65585 (64K) [text/html]
+Saving to: ‘syw045’
+
+     0K .......... .......... .......... .......... .......... 78%  209K 0s
+    50K .......... ....                                       100% 14.3M=0.2s
+
+2017-02-03 20:10:35 (267 KB/s) - ‘syw045’ saved [65585/65585]
+
+--2017-02-03 20:10:36--  http://doi.org/10.1093/sysbio/syw057
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw057 [following]
+--2017-02-03 20:10:39--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw057
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 819944 (801K) [text/html]
+Saving to: ‘syw057’
+
+     0K .......... .......... .......... .......... ..........  6%  207K 4s
+    50K .......... .......... .......... .......... .......... 12%  609K 2s
+   100K .......... .......... .......... .......... .......... 18%  604K 2s
+   150K .......... .......... .......... .......... .......... 24%  609K 1s
+   200K .......... .......... .......... .......... .......... 31%  314K 1s
+   250K .......... .......... .......... .......... .......... 37%  596K 1s
+   300K .......... .......... .......... .......... .......... 43%  611K 1s
+   350K .......... .......... .......... .......... .......... 49%  312K 1s
+   400K .......... .......... .......... .......... .......... 56%  610K 1s
+   450K .......... .......... .......... .......... .......... 62%  603K 1s
+   500K .......... .......... .......... .......... .......... 68%  310K 1s
+   550K .......... .......... .......... .......... .......... 74%  606K 0s
+   600K .......... .......... .......... .......... .......... 81%  610K 0s
+   650K .......... .......... .......... .......... .......... 87%  314K 0s
+   700K .......... .......... .......... .......... .......... 93%  611K 0s
+   750K .......... .......... .......... .......... .......... 99%  602K 0s
+   800K                                                       100% 1386G=1.8s
+
+2017-02-03 20:10:45 (448 KB/s) - ‘syw057’ saved [819944/819944]
+
+--2017-02-03 20:10:46--  http://doi.org/10.1093/sysbio/syw061
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw061 [following]
+--2017-02-03 20:10:47--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw061
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 20:10:48 ERROR 400: Bad Request.
+
+--2017-02-03 20:10:49--  http://doi.org/10.1093/sysbio/syw059
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syw059/2670024/Evolutionary-Patterns-and-Processes-Lessons-from [following]
+--2017-02-03 20:10:51--  https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syw059/2670024/Evolutionary-Patterns-and-Processes-Lessons-from
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 106662 (104K) [text/html]
+Saving to: ‘syw059’
+
+     0K .......... .......... .......... .......... .......... 48%  208K 0s
+    50K .......... .......... .......... .......... .......... 96%  610K 0s
+   100K ....                                                  100% 7939G=0.3s
+
+2017-02-03 20:10:56 (323 KB/s) - ‘syw059’ saved [106662/106662]
+
+--2017-02-03 20:10:57--  http://doi.org/10.1093/sysbio/syw050
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw050 [following]
+--2017-02-03 20:11:02--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw050
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 498231 (487K) [text/html]
+Saving to: ‘syw050’
+
+     0K .......... .......... .......... .......... .......... 10%  207K 2s
+    50K .......... .......... .......... .......... .......... 20%  606K 1s
+   100K .......... .......... .......... .......... .......... 30%  600K 1s
+   150K .......... .......... .......... .......... .......... 41%  427K 1s
+   200K .......... .......... .......... .......... .......... 51%  405K 1s
+   250K .......... .......... .......... .......... .......... 61%  420K 0s
+   300K .......... .......... .......... .......... .......... 71%  614K 0s
+   350K .......... .......... .......... .......... .......... 82%  393K 0s
+   400K .......... .......... .......... .......... .......... 92%  607K 0s
+   450K .......... .......... .......... ......               100%  464K=1.1s
+
+2017-02-03 20:11:07 (428 KB/s) - ‘syw050’ saved [498231/498231]
+
+--2017-02-03 20:11:08--  http://doi.org/10.1093/sysbio/syw025
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw025 [following]
+--2017-02-03 20:11:10--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw025
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sysbio/article-lookup/doi/10.1093/sysbio/?redirectedFrom=fulltext [following]
+--2017-02-03 20:11:11--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/sysbio/article-lookup/doi/10.1093/sysbio/ [following]
+--2017-02-03 20:11:13--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/sysbio/article-lookup/doi/10.1093/sysbio/
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23905 (23K) [text/html]
+Saving to: ‘syw025’
+
+     0K .......... .......... ...                             100%  290K=0.08s
+
+2017-02-03 20:11:13 (290 KB/s) - ‘syw025’ saved [23905/23905]
+
+--2017-02-03 20:11:14--  http://doi.org/10.1093/sysbio/syv104
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syv104 [following]
+--2017-02-03 20:11:17--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syv104
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64619 (63K) [text/html]
+Saving to: ‘syv104’
+
+     0K .......... .......... .......... .......... .......... 79%  209K 0s
+    50K .......... ...                                        100% 12.8M=0.2s
+
+2017-02-03 20:11:21 (262 KB/s) - ‘syv104’ saved [64619/64619]
+
+--2017-02-03 20:11:22--  http://doi.org/10.1093/sysbio/syv102
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syv102 [following]
+--2017-02-03 20:11:25--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syv102
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64735 (63K) [text/html]
+Saving to: ‘syv102’
+
+     0K .......... .......... .......... .......... .......... 79%  310K 0s
+    50K .......... ...                                        100%  169K=0.2s
+
+2017-02-03 20:11:28 (264 KB/s) - ‘syv102’ saved [64735/64735]
+
+--2017-02-03 20:11:29--  http://doi.org/10.1093/sysbio/syv103
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syv103 [following]
+--2017-02-03 20:11:30--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syv103
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64826 (63K) [text/html]
+Saving to: ‘syv103’
+
+     0K .......... .......... .......... .......... .......... 78%  209K 0s
+    50K .......... ...                                        100% 16.3M=0.2s
+
+2017-02-03 20:11:34 (264 KB/s) - ‘syv103’ saved [64826/64826]
+
+--2017-02-03 20:11:35--  http://doi.org/10.1093/sysbio/syw058
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw058 [following]
+--2017-02-03 20:11:37--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw058
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68888 (67K) [text/html]
+Saving to: ‘syw058’
+
+     0K .......... .......... .......... .......... .......... 74%  209K 0s
+    50K .......... .......                                    100% 14.0M=0.2s
+
+2017-02-03 20:11:41 (280 KB/s) - ‘syw058’ saved [68888/68888]
+
+--2017-02-03 20:11:42--  http://doi.org/10.1093/sysbio/syv105
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syv105 [following]
+--2017-02-03 20:11:44--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syv105
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 20:11:44 ERROR 400: Bad Request.
+
+--2017-02-03 20:11:45--  http://doi.org/10.1093/sysbio/syw051
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw051 [following]
+--2017-02-03 20:11:50--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw051
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 492515 (481K) [text/html]
+Saving to: ‘syw051’
+
+     0K .......... .......... .......... .......... .......... 10%  208K 2s
+    50K .......... .......... .......... .......... .......... 20%  604K 1s
+   100K .......... .......... .......... .......... .......... 31%  599K 1s
+   150K .......... .......... .......... .......... .......... 41%  599K 1s
+   200K .......... .......... .......... .......... .......... 51%  315K 1s
+   250K .......... .......... .......... .......... .......... 62%  588K 0s
+   300K .......... .......... .......... .......... .......... 72%  606K 0s
+   350K .......... .......... .......... .......... .......... 83%  313K 0s
+   400K .......... .......... .......... .......... .......... 93%  607K 0s
+   450K .......... .......... ..........                      100% 8.47M=1.1s
+
+2017-02-03 20:11:56 (453 KB/s) - ‘syw051’ saved [492515/492515]
+
+--2017-02-03 20:11:57--  http://doi.org/10.1093/sysbio/syw052
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw052 [following]
+--2017-02-03 20:11:58--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw052
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/sysbio/article-lookup/doi/10.1093/sysbio/syw052 [following]
+--2017-02-03 20:12:02--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/sysbio/article-lookup/doi/10.1093/sysbio/syw052
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23929 (23K) [text/html]
+Saving to: ‘syw052’
+
+     0K .......... .......... ...                             100%  291K=0.08s
+
+2017-02-03 20:12:03 (291 KB/s) - ‘syw052’ saved [23929/23929]
+
+--2017-02-03 20:12:04--  http://doi.org/10.1093/sysbio/syw049
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw049 [following]
+--2017-02-03 20:12:06--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw049
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 712098 (695K) [text/html]
+Saving to: ‘syw049’
+
+     0K .......... .......... .......... .......... ..........  7%  209K 3s
+    50K .......... .......... .......... .......... .......... 14%  609K 2s
+   100K .......... .......... .......... .......... .......... 21%  611K 1s
+   150K .......... .......... .......... .......... .......... 28%  423K 1s
+   200K .......... .......... .......... .......... .......... 35%  397K 1s
+   250K .......... .......... .......... .......... .......... 43%  610K 1s
+   300K .......... .......... .......... .......... .......... 50%  605K 1s
+   350K .......... .......... .......... .......... .......... 57%  556K 1s
+   400K .......... .......... .......... .......... .......... 64%  311K 1s
+   450K .......... .......... .......... .......... .......... 71%  608K 0s
+   500K .......... .......... .......... .......... .......... 79%  312K 0s
+   550K .......... .......... .......... .......... .......... 86%  608K 0s
+   600K .......... .......... .......... .......... .......... 93%  606K 0s
+   650K .......... .......... .......... .......... .....     100%  552K=1.6s
+
+2017-02-03 20:12:13 (448 KB/s) - ‘syw049’ saved [712098/712098]
+
+--2017-02-03 20:12:14--  http://doi.org/10.1093/sysbio/syw044
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw044 [following]
+--2017-02-03 20:12:16--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw044
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 534116 (522K) [text/html]
+Saving to: ‘syw044’
+
+     0K .......... .......... .......... .......... ..........  9%  209K 2s
+    50K .......... .......... .......... .......... .......... 19%  604K 1s
+   100K .......... .......... .......... .......... .......... 28%  606K 1s
+   150K .......... .......... .......... .......... .......... 38%  315K 1s
+   200K .......... .......... .......... .......... .......... 47%  594K 1s
+   250K .......... .......... .......... .......... .......... 57%  601K 1s
+   300K .......... .......... .......... .......... .......... 67%  591K 0s
+   350K .......... .......... .......... .......... .......... 76%  315K 0s
+   400K .......... .......... .......... .......... .......... 86%  605K 0s
+   450K .......... .......... .......... .......... .......... 95%  311K 0s
+   500K .......... .......... .                               100% 12.2M=1.2s
+
+2017-02-03 20:12:22 (428 KB/s) - ‘syw044’ saved [534116/534116]
+
+--2017-02-03 20:12:23--  http://doi.org/10.1093/sysbio/syw055
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw055 [following]
+--2017-02-03 20:12:26--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw055
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 663946 (648K) [text/html]
+Saving to: ‘syw055’
+
+     0K .......... .......... .......... .......... ..........  7%  209K 3s
+    50K .......... .......... .......... .......... .......... 15%  607K 2s
+   100K .......... .......... .......... .......... .......... 23%  605K 1s
+   150K .......... .......... .......... .......... .......... 30%  316K 1s
+   200K .......... .......... .......... .......... .......... 38%  571K 1s
+   250K .......... .......... .......... .......... .......... 46%  607K 1s
+   300K .......... .......... .......... .......... .......... 53%  610K 1s
+   350K .......... .......... .......... .......... .......... 61%  312K 1s
+   400K .......... .......... .......... .......... .......... 69%  608K 0s
+   450K .......... .......... .......... .......... .......... 77%  598K 0s
+   500K .......... .......... .......... .......... .......... 84%  613K 0s
+   550K .......... .......... .......... .......... .......... 92%  575K 0s
+   600K .......... .......... .......... .......... ........  100%  318K=1.5s
+
+2017-02-03 20:12:31 (444 KB/s) - ‘syw055’ saved [663946/663946]
+
+--2017-02-03 20:12:32--  http://doi.org/10.1093/sysbio/syw036
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw036 [following]
+--2017-02-03 20:12:35--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw036
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 524297 (512K) [text/html]
+Saving to: ‘syw036’
+
+     0K .......... .......... .......... .......... ..........  9%  209K 2s
+    50K .......... .......... .......... .......... .......... 19%  603K 1s
+   100K .......... .......... .......... .......... .......... 29%  574K 1s
+   150K .......... .......... .......... .......... .......... 39%  596K 1s
+   200K .......... .......... .......... .......... .......... 48%  325K 1s
+   250K .......... .......... .......... .......... .......... 58%  560K 1s
+   300K .......... .......... .......... .......... .......... 68%  614K 0s
+   350K .......... .......... .......... .......... .......... 78%  326K 0s
+   400K .......... .......... .......... .......... .......... 87%  557K 0s
+   450K .......... .......... .......... .......... .......... 97%  613K 0s
+   500K .......... ..                                         100% 2.47M=1.1s
+
+2017-02-03 20:12:39 (446 KB/s) - ‘syw036’ saved [524297/524297]
+
+--2017-02-03 20:12:40--  http://doi.org/10.1093/sysbio/syw043
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw043 [following]
+--2017-02-03 20:12:42--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw043
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 276161 (270K) [text/html]
+Saving to: ‘syw043’
+
+     0K .......... .......... .......... .......... .......... 18%  208K 1s
+    50K .......... .......... .......... .......... .......... 37%  605K 1s
+   100K .......... .......... .......... .......... .......... 55%  607K 0s
+   150K .......... .......... .......... .......... .......... 74%  316K 0s
+   200K .......... .......... .......... .......... .......... 92%  598K 0s
+   250K .......... .........                                  100% 1.99M=0.7s
+
+2017-02-03 20:12:50 (411 KB/s) - ‘syw043’ saved [276161/276161]
+
+--2017-02-03 20:12:51--  http://doi.org/10.1093/sysbio/syw053
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw053 [following]
+--2017-02-03 20:12:52--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw053
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 227471 (222K) [text/html]
+Saving to: ‘syw053’
+
+     0K .......... .......... .......... .......... .......... 22%  208K 1s
+    50K .......... .......... .......... .......... .......... 45%  606K 0s
+   100K .......... .......... .......... .......... .......... 67%  616K 0s
+   150K .......... .......... .......... .......... .......... 90%  594K 0s
+   200K .......... .......... ..                              100%  274K=0.6s
+
+2017-02-03 20:12:58 (390 KB/s) - ‘syw053’ saved [227471/227471]
+
+--2017-02-03 20:12:59--  http://doi.org/10.1093/sysbio/syw047
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw047 [following]
+--2017-02-03 20:13:00--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw047
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 110229 (108K) [text/html]
+Saving to: ‘syw047’
+
+     0K .......... .......... .......... .......... .......... 46%  309K 0s
+    50K .......... .......... .......... .......... .......... 92%  312K 0s
+   100K .......                                               100% 31.7M=0.3s
+
+2017-02-03 20:13:04 (334 KB/s) - ‘syw047’ saved [110229/110229]
+
+--2017-02-03 20:13:05--  http://doi.org/10.1093/sysbio/syw054
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syw054/2670001/Emerging-concepts-of-data-integration-in-pathogen [following]
+--2017-02-03 20:13:07--  https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syw054/2670001/Emerging-concepts-of-data-integration-in-pathogen
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 80932 (79K) [text/html]
+Saving to: ‘syw054’
+
+     0K .......... .......... .......... .......... .......... 63%  209K 0s
+    50K .......... .......... .........                       100% 12.5M=0.2s
+
+2017-02-03 20:13:11 (327 KB/s) - ‘syw054’ saved [80932/80932]
+
+--2017-02-03 20:13:12--  http://doi.org/10.1093/sysbio/syw021
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw021 [following]
+--2017-02-03 20:13:15--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 466415 (455K) [text/html]
+Saving to: ‘syw021’
+
+     0K .......... .......... .......... .......... .......... 10%  209K 2s
+    50K .......... .......... .......... .......... .......... 21%  609K 1s
+   100K .......... .......... .......... .......... .......... 32%  613K 1s
+   150K .......... .......... .......... .......... .......... 43%  607K 1s
+   200K .......... .......... .......... .......... .......... 54%  311K 1s
+   250K .......... .......... .......... .......... .......... 65%  615K 0s
+   300K .......... .......... .......... .......... .......... 76%  595K 0s
+   350K .......... .......... .......... .......... .......... 87%  433K 0s
+   400K .......... .......... .......... .......... .......... 98%  401K 0s
+   450K .....                                                 100% 12.8M=1.1s
+
+2017-02-03 20:13:20 (433 KB/s) - ‘syw021’ saved [466415/466415]
+
+--2017-02-03 20:13:21--  http://doi.org/10.1093/sysbio/syw008
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw008 [following]
+--2017-02-03 20:13:22--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 20:13:23 ERROR 400: Bad Request.
+
+--2017-02-03 20:13:24--  http://doi.org/10.1093/sysbio/syw004
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw004 [following]
+--2017-02-03 20:13:28--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 334981 (327K) [text/html]
+Saving to: ‘syw004’
+
+     0K .......... .......... .......... .......... .......... 15%  209K 1s
+    50K .......... .......... .......... .......... .......... 30%  607K 1s
+   100K .......... .......... .......... .......... .......... 45%  609K 0s
+   150K .......... .......... .......... .......... .......... 61%  317K 0s
+   200K .......... .......... .......... .......... .......... 76%  585K 0s
+   250K .......... .......... .......... .......... .......... 91%  606K 0s
+   300K .......... .......... .......                         100%  342K=0.8s
+
+2017-02-03 20:13:33 (404 KB/s) - ‘syw004’ saved [334981/334981]
+
+--2017-02-03 20:13:34--  http://doi.org/10.1093/sysbio/syw041
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw041 [following]
+--2017-02-03 20:13:36--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw041
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 645782 (631K) [text/html]
+Saving to: ‘syw041’
+
+     0K .......... .......... .......... .......... ..........  7%  209K 3s
+    50K .......... .......... .......... .......... .......... 15%  593K 2s
+   100K .......... .......... .......... .......... .......... 23%  608K 1s
+   150K .......... .......... .......... .......... .......... 31%  413K 1s
+   200K .......... .......... .......... .......... .......... 39%  415K 1s
+   250K .......... .......... .......... .......... .......... 47%  608K 1s
+   300K .......... .......... .......... .......... .......... 55%  607K 1s
+   350K .......... .......... .......... .......... .......... 63%  313K 1s
+   400K .......... .......... .......... .......... .......... 71%  603K 0s
+   450K .......... .......... .......... .......... .......... 79%  611K 0s
+   500K .......... .......... .......... .......... .......... 87%  539K 0s
+   550K .......... .......... .......... .......... .......... 95%  607K 0s
+   600K .......... .......... ..........                      100%  384K=1.4s
+
+2017-02-03 20:13:41 (453 KB/s) - ‘syw041’ saved [645782/645782]
+
+--2017-02-03 20:13:42--  http://doi.org/10.1093/sysbio/syw040
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw040 [following]
+--2017-02-03 20:13:43--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw040
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 20:13:45 ERROR 400: Bad Request.
+
+--2017-02-03 20:13:46--  http://doi.org/10.1093/sysbio/syw039
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw039 [following]
+--2017-02-03 20:13:49--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw039
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 644323 (629K) [text/html]
+Saving to: ‘syw039’
+
+     0K .......... .......... .......... .......... ..........  7%  209K 3s
+    50K .......... .......... .......... .......... .......... 15%  613K 2s
+   100K .......... .......... .......... .......... .......... 23%  605K 1s
+   150K .......... .......... .......... .......... .......... 31%  598K 1s
+   200K .......... .......... .......... .......... .......... 39%  313K 1s
+   250K .......... .......... .......... .......... .......... 47%  603K 1s
+   300K .......... .......... .......... .......... .......... 55%  596K 1s
+   350K .......... .......... .......... .......... .......... 63%  311K 1s
+   400K .......... .......... .......... .......... .......... 71%  599K 0s
+   450K .......... .......... .......... .......... .......... 79%  612K 0s
+   500K .......... .......... .......... .......... .......... 87%  309K 0s
+   550K .......... .......... .......... .......... .......... 95%  605K 0s
+   600K .......... .......... .........                       100% 14.5M=1.4s
+
+2017-02-03 20:13:54 (454 KB/s) - ‘syw039’ saved [644323/644323]
+
+--2017-02-03 20:13:55--  http://doi.org/10.1093/sysbio/syw042
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw042 [following]
+--2017-02-03 20:13:57--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw042
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 440671 (430K) [text/html]
+Saving to: ‘syw042’
+
+     0K .......... .......... .......... .......... .......... 11%  209K 2s
+    50K .......... .......... .......... .......... .......... 23%  603K 1s
+   100K .......... .......... .......... .......... .......... 34%  605K 1s
+   150K .......... .......... .......... .......... .......... 46%  318K 1s
+   200K .......... .......... .......... .......... .......... 58%  597K 0s
+   250K .......... .......... .......... .......... .......... 69%  609K 0s
+   300K .......... .......... .......... .......... .......... 81%  604K 0s
+   350K .......... .......... .......... .......... .......... 92%  317K 0s
+   400K .......... .......... ..........                      100% 4.85M=1.0s
+
+2017-02-03 20:14:02 (441 KB/s) - ‘syw042’ saved [440671/440671]
+
+--2017-02-03 20:14:03--  http://doi.org/10.1093/sysbio/syw030
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw030 [following]
+--2017-02-03 20:14:05--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw030
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 338434 (331K) [text/html]
+Saving to: ‘syw030’
+
+     0K .......... .......... .......... .......... .......... 15%  204K 1s
+    50K .......... .......... .......... .......... .......... 30%  608K 1s
+   100K .......... .......... .......... .......... .......... 45%  612K 0s
+   150K .......... .......... .......... .......... .......... 60%  398K 0s
+   200K .......... .......... .......... .......... .......... 75%  422K 0s
+   250K .......... .......... .......... .......... .......... 90%  603K 0s
+   300K .......... .......... ..........                      100%  396K=0.8s
+
+2017-02-03 20:14:09 (406 KB/s) - ‘syw030’ saved [338434/338434]
+
+--2017-02-03 20:14:10--  http://doi.org/10.1093/sysbio/syw032
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw032 [following]
+--2017-02-03 20:14:13--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syw032
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 344179 (336K) [text/html]
+Saving to: ‘syw032’
+
+     0K .......... .......... .......... .......... .......... 14%  209K 1s
+    50K .......... .......... .......... .......... .......... 29%  606K 1s
+   100K .......... .......... .......... .......... .......... 44%  610K 1s
+   150K .......... .......... .......... .......... .......... 59%  429K 0s
+   200K .......... .......... .......... .......... .......... 74%  398K 0s
+   250K .......... .......... .......... .......... .......... 89%  609K 0s
+   300K .......... .......... .......... ......               100%  446K=0.8s
+
+2017-02-03 20:14:28 (415 KB/s) - ‘syw032’ saved [344179/344179]
+
+--2017-02-03 20:14:29--  http://doi.org/10.1093/sysbio/syv100
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syv100 [following]
+--2017-02-03 20:14:30--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syv100
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 20:14:31 ERROR 400: Bad Request.
+
+--2017-02-03 20:14:32--  http://doi.org/10.1093/sysbio/syv098
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syv098 [following]
+--2017-02-03 20:14:33--  https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syv098
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64725 (63K) [text/html]
+Saving to: ‘syv098’
+
+     0K .......... .......... .......... .......... .......... 79%  208K 0s
+    50K .......... ...                                        100% 12.2M=0.2s
+
+2017-02-03 20:14:37 (262 KB/s) - ‘syv098’ saved [64725/64725]
+
+FINISHED --2017-02-03 20:14:37--
+Total wall clock time: 14m 16s
+Downloaded: 82 files, 15M in 39s (393 KB/s)

@@ -1,0 +1,1724 @@
+--2017-02-03 07:15:29--  http://doi.org/10.1093/jamia/ocw177
+Resolving doi.org (doi.org)... 54.191.229.235, 38.100.138.162, 63.123.152.248, ...
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jamia.oxfordjournals.org/lookup/doi/10.1093/jamia/ocw177 [following]
+--2017-02-03 07:15:31--  http://jamia.oxfordjournals.org/lookup/doi/10.1093/jamia/ocw177
+Resolving jamia.oxfordjournals.org (jamia.oxfordjournals.org)... 209.135.222.209
+Connecting to jamia.oxfordjournals.org (jamia.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jamia.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jamia/article/doi/10.1093/jamia/ocw177/2961848/MetaMap-Lite-an-evaluation-of-a-new-Java [following]
+--2017-02-03 07:15:32--  https://academic.oup.com/jamia/article/doi/10.1093/jamia/ocw177/2961848/MetaMap-Lite-an-evaluation-of-a-new-Java
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 07:15:33 ERROR 400: Bad Request.
+
+--2017-02-03 07:15:34--  http://doi.org/10.1093/jamia/ocw174
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jamia.oxfordjournals.org/lookup/doi/10.1093/jamia/ocw174 [following]
+--2017-02-03 07:15:35--  http://jamia.oxfordjournals.org/lookup/doi/10.1093/jamia/ocw174
+Connecting to jamia.oxfordjournals.org (jamia.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jamia.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jamia/article/doi/10.1093/jamia/ocw174/2939032/The-UCLA-Health-Resident-Informaticist-Program-A [following]
+--2017-02-03 07:15:36--  https://academic.oup.com/jamia/article/doi/10.1093/jamia/ocw174/2939032/The-UCLA-Health-Resident-Informaticist-Program-A
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 175983 (172K) [text/html]
+Saving to: ‘ocw174’
+
+     0K .......... .......... .......... .......... .......... 29%  209K 1s
+    50K .......... .......... .......... .......... .......... 58%  596K 0s
+   100K .......... .......... .......... .......... .......... 87%  586K 0s
+   150K .......... .......... .                               100%  304K=0.5s
+
+2017-02-03 07:15:40 (358 KB/s) - ‘ocw174’ saved [175983/175983]
+
+--2017-02-03 07:15:41--  http://doi.org/10.1093/jamia/ocw159
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw159 [following]
+--2017-02-03 07:15:43--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw159
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 231985 (227K) [text/html]
+Saving to: ‘ocw159’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 44%  609K 0s
+   100K .......... .......... .......... .......... .......... 66%  601K 0s
+   150K .......... .......... .......... .......... .......... 88%  318K 0s
+   200K .......... .......... ......                          100% 3.80M=0.6s
+
+2017-02-03 07:15:46 (399 KB/s) - ‘ocw159’ saved [231985/231985]
+
+--2017-02-03 07:15:47--  http://doi.org/10.1093/jamia/ocw171
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw171 [following]
+--2017-02-03 07:15:48--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw171
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 160596 (157K) [text/html]
+Saving to: ‘ocw171’
+
+     0K .......... .......... .......... .......... .......... 31%  309K 0s
+    50K .......... .......... .......... .......... .......... 63%  311K 0s
+   100K .......... .......... .......... .......... .......... 95%  605K 0s
+   150K ......                                                100% 14.4M=0.4s
+
+2017-02-03 07:15:52 (387 KB/s) - ‘ocw171’ saved [160596/160596]
+
+--2017-02-03 07:15:53--  http://doi.org/10.1093/jamia/ocw168
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw168 [following]
+--2017-02-03 07:15:54--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw168
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 296152 (289K) [text/html]
+Saving to: ‘ocw168’
+
+     0K .......... .......... .......... .......... .......... 17%  207K 1s
+    50K .......... .......... .......... .......... .......... 34%  602K 1s
+   100K .......... .......... .......... .......... .......... 51%  607K 0s
+   150K .......... .......... .......... .......... .......... 69%  598K 0s
+   200K .......... .......... .......... .......... .......... 86%  312K 0s
+   250K .......... .......... .......... .........            100% 9.79M=0.7s
+
+2017-02-03 07:15:58 (442 KB/s) - ‘ocw168’ saved [296152/296152]
+
+--2017-02-03 07:15:59--  http://doi.org/10.1093/jamia/ocw155
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw155 [following]
+--2017-02-03 07:16:01--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw155
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 406660 (397K) [text/html]
+Saving to: ‘ocw155’
+
+     0K .......... .......... .......... .......... .......... 12%  209K 2s
+    50K .......... .......... .......... .......... .......... 25%  605K 1s
+   100K .......... .......... .......... .......... .......... 37%  612K 1s
+   150K .......... .......... .......... .......... .......... 50%  422K 1s
+   200K .......... .......... .......... .......... .......... 62%  404K 0s
+   250K .......... .......... .......... .......... .......... 75%  609K 0s
+   300K .......... .......... .......... .......... .......... 88%  606K 0s
+   350K .......... .......... .......... .......... .......   100%  298K=1.0s
+
+2017-02-03 07:16:05 (410 KB/s) - ‘ocw155’ saved [406660/406660]
+
+--2017-02-03 07:16:06--  http://doi.org/10.1093/jamia/ocw160
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw160 [following]
+--2017-02-03 07:16:07--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw160
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 292343 (285K) [text/html]
+Saving to: ‘ocw160’
+
+     0K .......... .......... .......... .......... .......... 17%  309K 1s
+    50K .......... .......... .......... .......... .......... 35%  315K 1s
+   100K .......... .......... .......... .......... .......... 52%  594K 0s
+   150K .......... .......... .......... .......... .......... 70%  605K 0s
+   200K .......... .......... .......... .......... .......... 87%  318K 0s
+   250K .......... .......... .......... .....                100%  448K=0.7s
+
+2017-02-03 07:16:11 (395 KB/s) - ‘ocw160’ saved [292343/292343]
+
+--2017-02-03 07:16:12--  http://doi.org/10.1093/jamia/ocx004
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 07:16:13--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Resolving fdslive.oup.com (fdslive.oup.com)... 193.67.160.201
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘ocx004’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 07:16:14 (1.32 MB/s) - ‘ocx004’ saved [52438/52438]
+
+--2017-02-03 07:16:15--  http://doi.org/10.1093/jamia/ocw181
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 07:16:16--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘ocw181’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 07:16:16 (1.20 MB/s) - ‘ocw181’ saved [52438/52438]
+
+--2017-02-03 07:16:17--  http://doi.org/10.1093/jamia/ocx003
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 07:16:19--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘ocx003’
+
+     0K .......... .......... .......... .......... .......... 97% 1.30M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 07:16:19 (1.33 MB/s) - ‘ocx003’ saved [52438/52438]
+
+--2017-02-03 07:16:20--  http://doi.org/10.1093/jamia/ocx011
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 07:16:21--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘ocx011’
+
+     0K .......... .......... .......... .......... .......... 97% 1.30M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 07:16:21 (1.33 MB/s) - ‘ocx011’ saved [52438/52438]
+
+--2017-02-03 07:16:22--  http://doi.org/10.1093/jamia/ocx010
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 07:16:24--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘ocx010’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 07:16:24 (1.20 MB/s) - ‘ocx010’ saved [52438/52438]
+
+--2017-02-03 07:16:25--  http://doi.org/10.1093/jamia/ocw179
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 07:16:26--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘ocw179’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 07:16:26 (1.32 MB/s) - ‘ocw179’ saved [52438/52438]
+
+--2017-02-03 07:16:27--  http://doi.org/10.1093/jamia/ocx005
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 07:16:28--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘ocx005’
+
+     0K .......... .......... .......... .......... .......... 97% 1.16M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 07:16:29 (1.19 MB/s) - ‘ocx005’ saved [52438/52438]
+
+--2017-02-03 07:16:30--  http://doi.org/10.1093/jamia/ocx002
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 07:16:31--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘ocx002’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 07:16:31 (1.19 MB/s) - ‘ocx002’ saved [52438/52438]
+
+--2017-02-03 07:16:32--  http://doi.org/10.1093/jamia/ocw184
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 07:16:33--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘ocw184’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 07:16:33 (1.20 MB/s) - ‘ocw184’ saved [52438/52438]
+
+--2017-02-03 07:16:34--  http://doi.org/10.1093/jamia/ocx007
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 07:16:36--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘ocx007’
+
+     0K .......... .......... .......... .......... .......... 97% 1.30M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 07:16:36 (1.33 MB/s) - ‘ocx007’ saved [52438/52438]
+
+--2017-02-03 07:16:37--  http://doi.org/10.1093/jamia/ocx009
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 07:16:38--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘ocx009’
+
+     0K .......... .......... .......... .......... .......... 97% 1.16M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 07:16:38 (1.19 MB/s) - ‘ocx009’ saved [52438/52438]
+
+--2017-02-03 07:16:39--  http://doi.org/10.1093/jamia/ocx006
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 07:16:41--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘ocx006’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 07:16:41 (1.20 MB/s) - ‘ocx006’ saved [52438/52438]
+
+--2017-02-03 07:16:42--  http://doi.org/10.1093/jamia/ocw182
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 07:16:43--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘ocw182’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 07:16:43 (1.20 MB/s) - ‘ocw182’ saved [52438/52438]
+
+--2017-02-03 07:16:44--  http://doi.org/10.1093/jamia/ocw162
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw162 [following]
+--2017-02-03 07:16:46--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw162
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 07:16:46 ERROR 400: Bad Request.
+
+--2017-02-03 07:16:47--  http://doi.org/10.1093/jamia/ocw165
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw165 [following]
+--2017-02-03 07:16:49--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw165
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 279525 (273K) [text/html]
+Saving to: ‘ocw165’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 36%  612K 1s
+   100K .......... .......... .......... .......... .......... 54%  596K 0s
+   150K .......... .......... .......... .......... .......... 73%  601K 0s
+   200K .......... .......... .......... .......... .......... 91%  317K 0s
+   250K .......... .......... ..                              100% 5.35M=0.7s
+
+2017-02-03 07:16:52 (420 KB/s) - ‘ocw165’ saved [279525/279525]
+
+--2017-02-03 07:16:53--  http://doi.org/10.1093/jamia/ocw164
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw164 [following]
+--2017-02-03 07:16:55--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw164
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 273643 (267K) [text/html]
+Saving to: ‘ocw164’
+
+     0K .......... .......... .......... .......... .......... 18%  207K 1s
+    50K .......... .......... .......... .......... .......... 37%  610K 1s
+   100K .......... .......... .......... .......... .......... 56%  606K 0s
+   150K .......... .......... .......... .......... .......... 74%  604K 0s
+   200K .......... .......... .......... .......... .......... 93%  313K 0s
+   250K .......... .......                                    100% 14.7M=0.7s
+
+2017-02-03 07:16:59 (411 KB/s) - ‘ocw164’ saved [273643/273643]
+
+--2017-02-03 07:17:00--  http://doi.org/10.1093/jamia/ocw170
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw170 [following]
+--2017-02-03 07:17:01--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw170
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 81732 (80K) [text/html]
+Saving to: ‘ocw170’
+
+     0K .......... .......... .......... .......... .......... 62%  208K 0s
+    50K .......... .......... .........                       100% 13.5M=0.2s
+
+2017-02-03 07:17:05 (329 KB/s) - ‘ocw170’ saved [81732/81732]
+
+--2017-02-03 07:17:06--  http://doi.org/10.1093/jamia/ocw163
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw163 [following]
+--2017-02-03 07:17:07--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw163
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77847 (76K) [text/html]
+Saving to: ‘ocw163’
+
+     0K .......... .......... .......... .......... .......... 65%  305K 0s
+    50K .......... .......... ......                          100%  326K=0.2s
+
+2017-02-03 07:17:10 (312 KB/s) - ‘ocw163’ saved [77847/77847]
+
+--2017-02-03 07:17:11--  http://doi.org/10.1093/jamia/ocw156
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw156 [following]
+--2017-02-03 07:17:12--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw156
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 333672 (326K) [text/html]
+Saving to: ‘ocw156’
+
+     0K .......... .......... .......... .......... .......... 15%  209K 1s
+    50K .......... .......... .......... .......... .......... 30%  609K 1s
+   100K .......... .......... .......... .......... .......... 46%  603K 0s
+   150K .......... .......... .......... .......... .......... 61%  587K 0s
+   200K .......... .......... .......... .......... .......... 76%  319K 0s
+   250K .......... .......... .......... .......... .......... 92%  610K 0s
+   300K .......... .......... .....                           100%  327K=0.8s
+
+2017-02-03 07:17:16 (404 KB/s) - ‘ocw156’ saved [333672/333672]
+
+--2017-02-03 07:17:17--  http://doi.org/10.1093/jamia/ocw169
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw169 [following]
+--2017-02-03 07:17:19--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw169
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 236322 (231K) [text/html]
+Saving to: ‘ocw169’
+
+     0K .......... .......... .......... .......... .......... 21%  209K 1s
+    50K .......... .......... .......... .......... .......... 43%  609K 0s
+   100K .......... .......... .......... .......... .......... 64%  608K 0s
+   150K .......... .......... .......... .......... .......... 86%  601K 0s
+   200K .......... .......... ..........                      100%  386K=0.6s
+
+2017-02-03 07:17:22 (407 KB/s) - ‘ocw169’ saved [236322/236322]
+
+--2017-02-03 07:17:23--  http://doi.org/10.1093/jamia/ocw128
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw128 [following]
+--2017-02-03 07:17:24--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw128
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 312524 (305K) [text/html]
+Saving to: ‘ocw128’
+
+     0K .......... .......... .......... .......... .......... 16%  209K 1s
+    50K .......... .......... .......... .......... .......... 32%  611K 1s
+   100K .......... .......... .......... .......... .......... 49%  602K 0s
+   150K .......... .......... .......... .......... .......... 65%  420K 0s
+   200K .......... .......... .......... .......... .......... 81%  408K 0s
+   250K .......... .......... .......... .......... .......... 98%  612K 0s
+   300K .....                                                 100% 21.8M=0.7s
+
+2017-02-03 07:17:28 (419 KB/s) - ‘ocw128’ saved [312524/312524]
+
+--2017-02-03 07:17:29--  http://doi.org/10.1093/jamia/ocw151
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw151 [following]
+--2017-02-03 07:17:31--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw151
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 353298 (345K) [text/html]
+Saving to: ‘ocw151’
+
+     0K .......... .......... .......... .......... .......... 14%  209K 1s
+    50K .......... .......... .......... .......... .......... 28%  612K 1s
+   100K .......... .......... .......... .......... .......... 43%  603K 1s
+   150K .......... .......... .......... .......... .......... 57%  606K 0s
+   200K .......... .......... .......... .......... .......... 72%  316K 0s
+   250K .......... .......... .......... .......... .......... 86%  599K 0s
+   300K .......... .......... .......... .......... .....     100%  554K=0.8s
+
+2017-02-03 07:17:34 (426 KB/s) - ‘ocw151’ saved [353298/353298]
+
+--2017-02-03 07:17:35--  http://doi.org/10.1093/jamia/ocw153
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw153 [following]
+--2017-02-03 07:17:37--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw153
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 07:17:37 ERROR 400: Bad Request.
+
+--2017-02-03 07:17:38--  http://doi.org/10.1093/jamia/ocw152
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw152 [following]
+--2017-02-03 07:17:39--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw152
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jamia/article-lookup/doi/10.1093/jamia/ocw152 [following]
+--2017-02-03 07:17:41--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jamia/article-lookup/doi/10.1093/jamia/ocw152
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 38905 (38K) [text/html]
+Saving to: ‘ocw152’
+
+     0K .......... .......... .......... .......              100%  236K=0.2s
+
+2017-02-03 07:17:42 (236 KB/s) - ‘ocw152’ saved [38905/38905]
+
+--2017-02-03 07:17:43--  http://doi.org/10.1093/jamia/ocw154
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw154 [following]
+--2017-02-03 07:17:44--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw154
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 428644 (419K) [text/html]
+Saving to: ‘ocw154’
+
+     0K .......... .......... .......... .......... .......... 11%  209K 2s
+    50K .......... .......... .......... .......... .......... 23%  564K 1s
+   100K .......... .......... .......... .......... .......... 35%  594K 1s
+   150K .......... .......... .......... .......... .......... 47%  600K 1s
+   200K .......... .......... .......... .......... .......... 59%  338K 0s
+   250K .......... .......... .......... .......... .......... 71%  532K 0s
+   300K .......... .......... .......... .......... .......... 83%  609K 0s
+   350K .......... .......... .......... .......... .......... 95%  332K 0s
+   400K .......... ........                                   100% 15.2M=1.0s
+
+2017-02-03 07:17:48 (431 KB/s) - ‘ocw154’ saved [428644/428644]
+
+--2017-02-03 07:17:49--  http://doi.org/10.1093/jamia/ocw150
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw150 [following]
+--2017-02-03 07:17:51--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw150
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 210670 (206K) [text/html]
+Saving to: ‘ocw150’
+
+     0K .......... .......... .......... .......... .......... 24%  209K 1s
+    50K .......... .......... .......... .......... .......... 48%  583K 0s
+   100K .......... .......... .......... .......... .......... 72%  609K 0s
+   150K .......... .......... .......... .......... .......... 97%  607K 0s
+   200K .....                                                 100% 15.8M=0.5s
+
+2017-02-03 07:17:54 (420 KB/s) - ‘ocw150’ saved [210670/210670]
+
+--2017-02-03 07:17:55--  http://doi.org/10.1093/jamia/ocw157
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw157 [following]
+--2017-02-03 07:17:56--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw157
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 216776 (212K) [text/html]
+Saving to: ‘ocw157’
+
+     0K .......... .......... .......... .......... .......... 23%  208K 1s
+    50K .......... .......... .......... .......... .......... 47%  610K 0s
+   100K .......... .......... .......... .......... .......... 70%  595K 0s
+   150K .......... .......... .......... .......... .......... 94%  610K 0s
+   200K .......... .                                          100%  154K=0.6s
+
+2017-02-03 07:18:00 (375 KB/s) - ‘ocw157’ saved [216776/216776]
+
+--2017-02-03 07:18:01--  http://doi.org/10.1093/jamia/ocw158
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw158 [following]
+--2017-02-03 07:18:02--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw158
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 281259 (275K) [text/html]
+Saving to: ‘ocw158’
+
+     0K .......... .......... .......... .......... .......... 18%  208K 1s
+    50K .......... .......... .......... .......... .......... 36%  605K 1s
+   100K .......... .......... .......... .......... .......... 54%  613K 0s
+   150K .......... .......... .......... .......... .......... 72%  314K 0s
+   200K .......... .......... .......... .......... .......... 91%  599K 0s
+   250K .......... .......... ....                            100% 11.3M=0.6s
+
+2017-02-03 07:18:07 (423 KB/s) - ‘ocw158’ saved [281259/281259]
+
+--2017-02-03 07:18:08--  http://doi.org/10.1093/jamia/ocw161
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw161 [following]
+--2017-02-03 07:18:09--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw161
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 381976 (373K) [text/html]
+Saving to: ‘ocw161’
+
+     0K .......... .......... .......... .......... .......... 13%  306K 1s
+    50K .......... .......... .......... .......... .......... 26%  312K 1s
+   100K .......... .......... .......... .......... .......... 40%  612K 1s
+   150K .......... .......... .......... .......... .......... 53%  608K 0s
+   200K .......... .......... .......... .......... .......... 67%  313K 0s
+   250K .......... .......... .......... .......... .......... 80%  606K 0s
+   300K .......... .......... .......... .......... .......... 93%  601K 0s
+   350K .......... .......... ...                             100%  288K=0.9s
+
+2017-02-03 07:18:12 (418 KB/s) - ‘ocw161’ saved [381976/381976]
+
+--2017-02-03 07:18:13--  http://doi.org/10.1093/jamia/ocw148
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw148 [following]
+--2017-02-03 07:18:15--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw148
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 07:18:15 ERROR 400: Bad Request.
+
+--2017-02-03 07:18:16--  http://doi.org/10.1093/jamia/ocw144
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw144 [following]
+--2017-02-03 07:18:18--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 216745 (212K) [text/html]
+Saving to: ‘ocw144’
+
+     0K .......... .......... .......... .......... .......... 23%  208K 1s
+    50K .......... .......... .......... .......... .......... 47%  594K 0s
+   100K .......... .......... .......... .......... .......... 70%  600K 0s
+   150K .......... .......... .......... .......... .......... 94%  610K 0s
+   200K .......... .                                          100%  293K=0.5s
+
+2017-02-03 07:18:21 (400 KB/s) - ‘ocw144’ saved [216745/216745]
+
+--2017-02-03 07:18:22--  http://doi.org/10.1093/jamia/ocw149
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw149 [following]
+--2017-02-03 07:18:24--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw149
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76813 (75K) [text/html]
+Saving to: ‘ocw149’
+
+     0K .......... .......... .......... .......... .......... 66%  209K 0s
+    50K .......... .......... .....                           100% 12.0M=0.2s
+
+2017-02-03 07:18:27 (311 KB/s) - ‘ocw149’ saved [76813/76813]
+
+--2017-02-03 07:18:28--  http://doi.org/10.1093/jamia/ocw146
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw146 [following]
+--2017-02-03 07:18:29--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw146
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 74573 (73K) [text/html]
+Saving to: ‘ocw146’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ..                              100% 12.3M=0.2s
+
+2017-02-03 07:18:32 (302 KB/s) - ‘ocw146’ saved [74573/74573]
+
+--2017-02-03 07:18:33--  http://doi.org/10.1093/jamia/ocw137
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw137 [following]
+--2017-02-03 07:18:35--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw137
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 246449 (241K) [text/html]
+Saving to: ‘ocw137’
+
+     0K .......... .......... .......... .......... .......... 20%  209K 1s
+    50K .......... .......... .......... .......... .......... 41%  611K 0s
+   100K .......... .......... .......... .......... .......... 62%  601K 0s
+   150K .......... .......... .......... .......... .......... 83%  607K 0s
+   200K .......... .......... .......... ..........           100%  501K=0.6s
+
+2017-02-03 07:18:38 (423 KB/s) - ‘ocw137’ saved [246449/246449]
+
+--2017-02-03 07:18:39--  http://doi.org/10.1093/jamia/ocw139
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw139 [following]
+--2017-02-03 07:18:41--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw139
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 237500 (232K) [text/html]
+Saving to: ‘ocw139’
+
+     0K .......... .......... .......... .......... .......... 21%  209K 1s
+    50K .......... .......... .......... .......... .......... 43%  609K 0s
+   100K .......... .......... .......... .......... .......... 64%  605K 0s
+   150K .......... .......... .......... .......... .......... 86%  315K 0s
+   200K .......... .......... .......... .                    100% 7.75M=0.6s
+
+2017-02-03 07:18:44 (409 KB/s) - ‘ocw139’ saved [237500/237500]
+
+--2017-02-03 07:18:45--  http://doi.org/10.1093/jamia/ocw145
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw145 [following]
+--2017-02-03 07:18:46--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw145
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 365922 (357K) [text/html]
+Saving to: ‘ocw145’
+
+     0K .......... .......... .......... .......... .......... 13%  209K 1s
+    50K .......... .......... .......... .......... .......... 27%  609K 1s
+   100K .......... .......... .......... .......... .......... 41%  602K 1s
+   150K .......... .......... .......... .......... .......... 55%  319K 0s
+   200K .......... .......... .......... .......... .......... 69%  576K 0s
+   250K .......... .......... .......... .......... .......... 83%  608K 0s
+   300K .......... .......... .......... .......... .......... 97%  318K 0s
+   350K .......                                               100% 6.50M=0.9s
+
+2017-02-03 07:18:51 (402 KB/s) - ‘ocw145’ saved [365922/365922]
+
+--2017-02-03 07:18:52--  http://doi.org/10.1093/jamia/ocw138
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw138 [following]
+--2017-02-03 07:18:53--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw138
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 241284 (236K) [text/html]
+Saving to: ‘ocw138’
+
+     0K .......... .......... .......... .......... .......... 21%  208K 1s
+    50K .......... .......... .......... .......... .......... 42%  606K 0s
+   100K .......... .......... .......... .......... .......... 63%  602K 0s
+   150K .......... .......... .......... .......... .......... 84%  599K 0s
+   200K .......... .......... .......... .....                100%  440K=0.6s
+
+2017-02-03 07:18:58 (413 KB/s) - ‘ocw138’ saved [241284/241284]
+
+--2017-02-03 07:18:59--  http://doi.org/10.1093/jamia/ocw140
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw140 [following]
+--2017-02-03 07:19:00--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw140
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 230218 (225K) [text/html]
+Saving to: ‘ocw140’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 44%  605K 0s
+   100K .......... .......... .......... .......... .......... 66%  583K 0s
+   150K .......... .......... .......... .......... .......... 88%  434K 0s
+   200K .......... .......... ....                            100%  535K=0.6s
+
+2017-02-03 07:19:04 (395 KB/s) - ‘ocw140’ saved [230218/230218]
+
+--2017-02-03 07:19:05--  http://doi.org/10.1093/jamia/ocw133
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw133 [following]
+--2017-02-03 07:19:06--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw133
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 214323 (209K) [text/html]
+Saving to: ‘ocw133’
+
+     0K .......... .......... .......... .......... .......... 23%  209K 1s
+    50K .......... .......... .......... .......... .......... 47%  605K 0s
+   100K .......... .......... .......... .......... .......... 71%  595K 0s
+   150K .......... .......... .......... .......... .......... 95%  604K 0s
+   200K .........                                             100%  248K=0.5s
+
+2017-02-03 07:19:10 (398 KB/s) - ‘ocw133’ saved [214323/214323]
+
+--2017-02-03 07:19:11--  http://doi.org/10.1093/jamia/ocw141
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw141 [following]
+--2017-02-03 07:19:13--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw141
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 07:19:13 ERROR 400: Bad Request.
+
+--2017-02-03 07:19:14--  http://doi.org/10.1093/jamia/ocw143
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw143 [following]
+--2017-02-03 07:19:16--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw143
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 276049 (270K) [text/html]
+Saving to: ‘ocw143’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 37%  609K 1s
+   100K .......... .......... .......... .......... .......... 55%  602K 0s
+   150K .......... .......... .......... .......... .......... 74%  612K 0s
+   200K .......... .......... .......... .......... .......... 92%  314K 0s
+   250K .......... .........                                  100% 13.2M=0.6s
+
+2017-02-03 07:19:20 (417 KB/s) - ‘ocw143’ saved [276049/276049]
+
+--2017-02-03 07:19:21--  http://doi.org/10.1093/jamia/ocw125
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw125 [following]
+--2017-02-03 07:19:22--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw125
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 211415 (206K) [text/html]
+Saving to: ‘ocw125’
+
+     0K .......... .......... .......... .......... .......... 24%  208K 1s
+    50K .......... .......... .......... .......... .......... 48%  606K 0s
+   100K .......... .......... .......... .......... .......... 72%  611K 0s
+   150K .......... .......... .......... .......... .......... 96%  315K 0s
+   200K ......                                                100% 3.88M=0.6s
+
+2017-02-03 07:19:26 (366 KB/s) - ‘ocw125’ saved [211415/211415]
+
+--2017-02-03 07:19:27--  http://doi.org/10.1093/jamia/ocw142
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw142 [following]
+--2017-02-03 07:19:28--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw142
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 195948 (191K) [text/html]
+Saving to: ‘ocw142’
+
+     0K .......... .......... .......... .......... .......... 26%  209K 1s
+    50K .......... .......... .......... .......... .......... 52%  609K 0s
+   100K .......... .......... .......... .......... .......... 78%  609K 0s
+   150K .......... .......... .......... .......... .         100%  512K=0.5s
+
+2017-02-03 07:19:32 (395 KB/s) - ‘ocw142’ saved [195948/195948]
+
+--2017-02-03 07:19:33--  http://doi.org/10.1093/jamia/ocw132
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw132 [following]
+--2017-02-03 07:19:34--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw132
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 07:19:35 ERROR 400: Bad Request.
+
+--2017-02-03 07:19:36--  http://doi.org/10.1093/jamia/ocw136
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw136 [following]
+--2017-02-03 07:19:37--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw136
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 310469 (303K) [text/html]
+Saving to: ‘ocw136’
+
+     0K .......... .......... .......... .......... .......... 16%  209K 1s
+    50K .......... .......... .......... .......... .......... 32%  604K 1s
+   100K .......... .......... .......... .......... .......... 49%  612K 0s
+   150K .......... .......... .......... .......... .......... 65%  605K 0s
+   200K .......... .......... .......... .......... .......... 82%  314K 0s
+   250K .......... .......... .......... .......... .......... 98%  608K 0s
+   300K ...                                                   100% 19.4M=0.7s
+
+2017-02-03 07:19:41 (416 KB/s) - ‘ocw136’ saved [310469/310469]
+
+--2017-02-03 07:19:42--  http://doi.org/10.1093/jamia/ocw134
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw134 [following]
+--2017-02-03 07:19:43--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw134
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 228120 (223K) [text/html]
+Saving to: ‘ocw134’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 44%  605K 0s
+   100K .......... .......... .......... .......... .......... 67%  606K 0s
+   150K .......... .......... .......... .......... .......... 89%  605K 0s
+   200K .......... .......... ..                              100%  290K=0.6s
+
+2017-02-03 07:19:47 (394 KB/s) - ‘ocw134’ saved [228120/228120]
+
+--2017-02-03 07:19:48--  http://doi.org/10.1093/jamia/ocw131
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw131 [following]
+--2017-02-03 07:19:50--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw131
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 277166 (271K) [text/html]
+Saving to: ‘ocw131’
+
+     0K .......... .......... .......... .......... .......... 18%  208K 1s
+    50K .......... .......... .......... .......... .......... 36%  608K 1s
+   100K .......... .......... .......... .......... .......... 55%  600K 0s
+   150K .......... .......... .......... .......... .......... 73%  317K 0s
+   200K .......... .......... .......... .......... .......... 92%  597K 0s
+   250K .......... ..........                                 100% 10.4M=0.6s
+
+2017-02-03 07:19:53 (417 KB/s) - ‘ocw131’ saved [277166/277166]
+
+--2017-02-03 07:19:54--  http://doi.org/10.1093/jamia/ocw135
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw135 [following]
+--2017-02-03 07:19:56--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw135
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 265021 (259K) [text/html]
+Saving to: ‘ocw135’
+
+     0K .......... .......... .......... .......... .......... 19%  208K 1s
+    50K .......... .......... .......... .......... .......... 38%  605K 1s
+   100K .......... .......... .......... .......... .......... 57%  600K 0s
+   150K .......... .......... .......... .......... .......... 77%  605K 0s
+   200K .......... .......... .......... .......... .......... 96%  314K 0s
+   250K ........                                              100% 9.36M=0.6s
+
+2017-02-03 07:19:59 (399 KB/s) - ‘ocw135’ saved [265021/265021]
+
+--2017-02-03 07:20:00--  http://doi.org/10.1093/jamia/ocw123
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw123 [following]
+--2017-02-03 07:20:02--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw123
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 263073 (257K) [text/html]
+Saving to: ‘ocw123’
+
+     0K .......... .......... .......... .......... .......... 19%  309K 1s
+    50K .......... .......... .......... .......... .......... 38%  314K 1s
+   100K .......... .......... .......... .......... .......... 58%  601K 0s
+   150K .......... .......... .......... .......... .......... 77%  310K 0s
+   200K .......... .......... .......... .......... .......... 97%  593K 0s
+   250K ......                                                100% 34.9M=0.6s
+
+2017-02-03 07:20:05 (395 KB/s) - ‘ocw123’ saved [263073/263073]
+
+--2017-02-03 07:20:06--  http://doi.org/10.1093/jamia/ocw115
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw115 [following]
+--2017-02-03 07:20:08--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw115
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 221875 (217K) [text/html]
+Saving to: ‘ocw115’
+
+     0K .......... .......... .......... .......... .......... 23%  306K 1s
+    50K .......... .......... .......... .......... .......... 46%  312K 0s
+   100K .......... .......... .......... .......... .......... 69%  606K 0s
+   150K .......... .......... .......... .......... .......... 92%  610K 0s
+   200K .......... ......                                     100%  211K=0.6s
+
+2017-02-03 07:20:11 (382 KB/s) - ‘ocw115’ saved [221875/221875]
+
+--2017-02-03 07:20:12--  http://doi.org/10.1093/jamia/ocw130
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw130 [following]
+--2017-02-03 07:20:14--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw130
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 207906 (203K) [text/html]
+Saving to: ‘ocw130’
+
+     0K .......... .......... .......... .......... .......... 24%  209K 1s
+    50K .......... .......... .......... .......... .......... 49%  609K 0s
+   100K .......... .......... .......... .......... .......... 73%  610K 0s
+   150K .......... .......... .......... .......... .......... 98%  316K 0s
+   200K ...                                                   100% 5785G=0.6s
+
+2017-02-03 07:20:18 (362 KB/s) - ‘ocw130’ saved [207906/207906]
+
+--2017-02-03 07:20:19--  http://doi.org/10.1093/jamia/ocw083
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw083 [following]
+--2017-02-03 07:20:20--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw083
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 187753 (183K) [text/html]
+Saving to: ‘ocw083’
+
+     0K .......... .......... .......... .......... .......... 27%  209K 1s
+    50K .......... .......... .......... .......... .......... 54%  602K 0s
+   100K .......... .......... .......... .......... .......... 81%  607K 0s
+   150K .......... .......... .......... ...                  100%  417K=0.5s
+
+2017-02-03 07:20:23 (378 KB/s) - ‘ocw083’ saved [187753/187753]
+
+--2017-02-03 07:20:24--  http://doi.org/10.1093/jamia/ocw126
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw126 [following]
+--2017-02-03 07:20:26--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw126
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 184250 (180K) [text/html]
+Saving to: ‘ocw126’
+
+     0K .......... .......... .......... .......... .......... 27%  209K 1s
+    50K .......... .......... .......... .......... .......... 55%  611K 0s
+   100K .......... .......... .......... .......... .......... 83%  606K 0s
+   150K .......... .......... .........                       100%  375K=0.5s
+
+2017-02-03 07:20:29 (372 KB/s) - ‘ocw126’ saved [184250/184250]
+
+--2017-02-03 07:20:30--  http://doi.org/10.1093/jamia/ocw119
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw119 [following]
+--2017-02-03 07:20:31--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw119
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 358551 (350K) [text/html]
+Saving to: ‘ocw119’
+
+     0K .......... .......... .......... .......... .......... 14%  209K 1s
+    50K .......... .......... .......... .......... .......... 28%  602K 1s
+   100K .......... .......... .......... .......... .......... 42%  578K 1s
+   150K .......... .......... .......... .......... .......... 57%  610K 0s
+   200K .......... .......... .......... .......... .......... 71%  423K 0s
+   250K .......... .......... .......... .......... .......... 85%  402K 0s
+   300K .......... .......... .......... .......... .......... 99%  613K 0s
+   350K                                                       100%  281G=0.8s
+
+2017-02-03 07:20:35 (430 KB/s) - ‘ocw119’ saved [358551/358551]
+
+--2017-02-03 07:20:36--  http://doi.org/10.1093/jamia/ocw117
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw117 [following]
+--2017-02-03 07:20:37--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw117
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 113699 (111K) [text/html]
+Saving to: ‘ocw117’
+
+     0K .......... .......... .......... .......... .......... 45%  208K 0s
+    50K .......... .......... .......... .......... .......... 90%  607K 0s
+   100K .......... .                                          100% 22.5M=0.3s
+
+2017-02-03 07:20:40 (344 KB/s) - ‘ocw117’ saved [113699/113699]
+
+--2017-02-03 07:20:41--  http://doi.org/10.1093/jamia/ocw124
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw124 [following]
+--2017-02-03 07:20:43--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw124
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 276266 (270K) [text/html]
+Saving to: ‘ocw124’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 37%  602K 1s
+   100K .......... .......... .......... .......... .......... 55%  605K 0s
+   150K .......... .......... .......... .......... .......... 74%  310K 0s
+   200K .......... .......... .......... .......... .......... 92%  591K 0s
+   250K .......... .........                                  100% 16.6M=0.7s
+
+2017-02-03 07:20:46 (414 KB/s) - ‘ocw124’ saved [276266/276266]
+
+--2017-02-03 07:20:47--  http://doi.org/10.1093/jamia/ocw114
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw114 [following]
+--2017-02-03 07:20:49--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw114
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 279048 (273K) [text/html]
+Saving to: ‘ocw114’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 36%  610K 1s
+   100K .......... .......... .......... .......... .......... 55%  602K 0s
+   150K .......... .......... .......... .......... .......... 73%  605K 0s
+   200K .......... .......... .......... .......... .......... 91%  309K 0s
+   250K .......... .......... ..                              100% 6.97M=0.7s
+
+2017-02-03 07:20:53 (418 KB/s) - ‘ocw114’ saved [279048/279048]
+
+--2017-02-03 07:20:54--  http://doi.org/10.1093/jamia/ocw127
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw127 [following]
+--2017-02-03 07:20:55--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw127
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 151336 (148K) [text/html]
+Saving to: ‘ocw127’
+
+     0K .......... .......... .......... .......... .......... 33%  209K 0s
+    50K .......... .......... .......... .......... .......... 67%  599K 0s
+   100K .......... .......... .......... .......... .......   100%  584K=0.4s
+
+2017-02-03 07:20:58 (365 KB/s) - ‘ocw127’ saved [151336/151336]
+
+--2017-02-03 07:20:59--  http://doi.org/10.1093/jamia/ocw122
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw122 [following]
+--2017-02-03 07:21:00--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw122
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 07:21:01 ERROR 400: Bad Request.
+
+--2017-02-03 07:21:02--  http://doi.org/10.1093/jamia/ocw129
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw129 [following]
+--2017-02-03 07:21:03--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw129
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77622 (76K) [text/html]
+Saving to: ‘ocw129’
+
+     0K .......... .......... .......... .......... .......... 65%  209K 0s
+    50K .......... .......... .....                           100% 13.7M=0.2s
+
+2017-02-03 07:21:07 (314 KB/s) - ‘ocw129’ saved [77622/77622]
+
+--2017-02-03 07:21:08--  http://doi.org/10.1093/jamia/ocw120
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw120 [following]
+--2017-02-03 07:21:09--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw120
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79752 (78K) [text/html]
+Saving to: ‘ocw120’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... .......                         100% 6.03M=0.2s
+
+2017-02-03 07:21:12 (319 KB/s) - ‘ocw120’ saved [79752/79752]
+
+--2017-02-03 07:21:13--  http://doi.org/10.1093/jamia/ocw107
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw107 [following]
+--2017-02-03 07:21:14--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw107
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 287672 (281K) [text/html]
+Saving to: ‘ocw107’
+
+     0K .......... .......... .......... .......... .......... 17%  310K 1s
+    50K .......... .......... .......... .......... .......... 35%  313K 1s
+   100K .......... .......... .......... .......... .......... 53%  585K 0s
+   150K .......... .......... .......... .......... .......... 71%  610K 0s
+   200K .......... .......... .......... .......... .......... 88%  319K 0s
+   250K .......... .......... ..........                      100% 5.43M=0.7s
+
+2017-02-03 07:21:18 (432 KB/s) - ‘ocw107’ saved [287672/287672]
+
+--2017-02-03 07:21:19--  http://doi.org/10.1093/jamia/ocw111
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw111 [following]
+--2017-02-03 07:21:20--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw111
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 228558 (223K) [text/html]
+Saving to: ‘ocw111’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 44%  605K 0s
+   100K .......... .......... .......... .......... .......... 67%  609K 0s
+   150K .......... .......... .......... .......... .......... 89%  318K 0s
+   200K .......... .......... ...                             100% 5.53M=0.6s
+
+2017-02-03 07:21:23 (395 KB/s) - ‘ocw111’ saved [228558/228558]
+
+--2017-02-03 07:21:24--  http://doi.org/10.1093/jamia/ocw109
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw109 [following]
+--2017-02-03 07:21:25--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw109
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 247166 (241K) [text/html]
+Saving to: ‘ocw109’
+
+     0K .......... .......... .......... .......... .......... 20%  209K 1s
+    50K .......... .......... .......... .......... .......... 41%  609K 0s
+   100K .......... .......... .......... .......... .......... 62%  602K 0s
+   150K .......... .......... .......... .......... .......... 82%  319K 0s
+   200K .......... .......... .......... .......... .         100%  952K=0.6s
+
+2017-02-03 07:21:31 (399 KB/s) - ‘ocw109’ saved [247166/247166]
+
+--2017-02-03 07:21:32--  http://doi.org/10.1093/jamia/ocw110
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw110 [following]
+--2017-02-03 07:21:33--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw110
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 212167 (207K) [text/html]
+Saving to: ‘ocw110’
+
+     0K .......... .......... .......... .......... .......... 24%  209K 1s
+    50K .......... .......... .......... .......... .......... 48%  609K 0s
+   100K .......... .......... .......... .......... .......... 72%  614K 0s
+   150K .......... .......... .......... .......... .......... 96%  605K 0s
+   200K .......                                               100% 94.2K=0.6s
+
+2017-02-03 07:21:37 (369 KB/s) - ‘ocw110’ saved [212167/212167]
+
+--2017-02-03 07:21:38--  http://doi.org/10.1093/jamia/ocw113
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw113 [following]
+--2017-02-03 07:21:39--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw113
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 216551 (211K) [text/html]
+Saving to: ‘ocw113’
+
+     0K .......... .......... .......... .......... .......... 23%  208K 1s
+    50K .......... .......... .......... .......... .......... 47%  600K 0s
+   100K .......... .......... .......... .......... .......... 70%  611K 0s
+   150K .......... .......... .......... .......... .......... 94%  602K 0s
+   200K .......... .                                          100%  152K=0.6s
+
+2017-02-03 07:21:42 (375 KB/s) - ‘ocw113’ saved [216551/216551]
+
+--2017-02-03 07:21:43--  http://doi.org/10.1093/jamia/ocw118
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw118 [following]
+--2017-02-03 07:21:45--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw118
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 254561 (249K) [text/html]
+Saving to: ‘ocw118’
+
+     0K .......... .......... .......... .......... .......... 20%  209K 1s
+    50K .......... .......... .......... .......... .......... 40%  613K 0s
+   100K .......... .......... .......... .......... .......... 60%  603K 0s
+   150K .......... .......... .......... .......... .......... 80%  318K 0s
+   200K .......... .......... .......... .......... ........  100%  585K=0.6s
+
+2017-02-03 07:21:48 (386 KB/s) - ‘ocw118’ saved [254561/254561]
+
+--2017-02-03 07:21:49--  http://doi.org/10.1093/jamia/ocw121
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw121 [following]
+--2017-02-03 07:21:50--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw121
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 334188 (326K) [text/html]
+Saving to: ‘ocw121’
+
+     0K .......... .......... .......... .......... .......... 15%  208K 1s
+    50K .......... .......... .......... .......... .......... 30%  603K 1s
+   100K .......... .......... .......... .......... .......... 45%  611K 0s
+   150K .......... .......... .......... .......... .......... 61%  316K 0s
+   200K .......... .......... .......... .......... .......... 76%  594K 0s
+   250K .......... .......... .......... .......... .......... 91%  615K 0s
+   300K .......... .......... ......                          100%  337K=0.8s
+
+2017-02-03 07:21:54 (405 KB/s) - ‘ocw121’ saved [334188/334188]
+
+--2017-02-03 07:21:55--  http://doi.org/10.1093/jamia/ocw112
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw112 [following]
+--2017-02-03 07:21:56--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw112
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 278729 (272K) [text/html]
+Saving to: ‘ocw112’
+
+     0K .......... .......... .......... .......... .......... 18%  208K 1s
+    50K .......... .......... .......... .......... .......... 36%  606K 1s
+   100K .......... .......... .......... .......... .......... 55%  615K 0s
+   150K .......... .......... .......... .......... .......... 73%  607K 0s
+   200K .......... .......... .......... .......... .......... 91%  312K 0s
+   250K .......... .......... ..                              100% 8.80M=0.6s
+
+2017-02-03 07:22:00 (420 KB/s) - ‘ocw112’ saved [278729/278729]
+
+--2017-02-03 07:22:01--  http://doi.org/10.1093/jamia/ocw116
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw116 [following]
+--2017-02-03 07:22:02--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw116
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 223795 (219K) [text/html]
+Saving to: ‘ocw116’
+
+     0K .......... .......... .......... .......... .......... 22%  208K 1s
+    50K .......... .......... .......... .......... .......... 45%  605K 0s
+   100K .......... .......... .......... .......... .......... 68%  602K 0s
+   150K .......... .......... .......... .......... .......... 91%  600K 0s
+   200K .......... ........                                   100%  239K=0.6s
+
+2017-02-03 07:22:05 (385 KB/s) - ‘ocw116’ saved [223795/223795]
+
+--2017-02-03 07:22:06--  http://doi.org/10.1093/jamia/ocw105
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw105 [following]
+--2017-02-03 07:22:08--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw105
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 292901 (286K) [text/html]
+Saving to: ‘ocw105’
+
+     0K .......... .......... .......... .......... .......... 17%  208K 1s
+    50K .......... .......... .......... .......... .......... 34%  601K 1s
+   100K .......... .......... .......... .......... .......... 52%  613K 0s
+   150K .......... .......... .......... .......... .......... 69%  604K 0s
+   200K .......... .......... .......... .......... .......... 87%  316K 0s
+   250K .......... .......... .......... ......               100% 7.18M=0.7s
+
+2017-02-03 07:22:11 (440 KB/s) - ‘ocw105’ saved [292901/292901]
+
+--2017-02-03 07:22:12--  http://doi.org/10.1093/jamia/ocw086
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw086 [following]
+--2017-02-03 07:22:13--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw086
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 216501 (211K) [text/html]
+Saving to: ‘ocw086’
+
+     0K .......... .......... .......... .......... .......... 23%  208K 1s
+    50K .......... .......... .......... .......... .......... 47%  606K 0s
+   100K .......... .......... .......... .......... .......... 70%  592K 0s
+   150K .......... .......... .......... .......... .......... 94%  322K 0s
+   200K .......... .                                          100% 3.77M=0.6s
+
+2017-02-03 07:22:17 (374 KB/s) - ‘ocw086’ saved [216501/216501]
+
+--2017-02-03 07:22:18--  http://doi.org/10.1093/jamia/ocw108
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw108 [following]
+--2017-02-03 07:22:19--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw108
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 07:22:20 ERROR 400: Bad Request.
+
+--2017-02-03 07:22:21--  http://doi.org/10.1093/jamia/ocw104
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw104 [following]
+--2017-02-03 07:22:22--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw104
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 310156 (303K) [text/html]
+Saving to: ‘ocw104’
+
+     0K .......... .......... .......... .......... .......... 16%  209K 1s
+    50K .......... .......... .......... .......... .......... 33%  606K 1s
+   100K .......... .......... .......... .......... .......... 49%  605K 0s
+   150K .......... .......... .......... .......... .......... 66%  433K 0s
+   200K .......... .......... .......... .......... .......... 82%  394K 0s
+   250K .......... .......... .......... .......... .......... 99%  610K 0s
+   300K ..                                                    100% 9.20M=0.7s
+
+2017-02-03 07:22:26 (415 KB/s) - ‘ocw104’ saved [310156/310156]
+
+--2017-02-03 07:22:27--  http://doi.org/10.1093/jamia/ocw087
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw087 [following]
+--2017-02-03 07:22:28--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw087
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 284529 (278K) [text/html]
+Saving to: ‘ocw087’
+
+     0K .......... .......... .......... .......... .......... 17%  208K 1s
+    50K .......... .......... .......... .......... .......... 35%  602K 1s
+   100K .......... .......... .......... .......... .......... 53%  602K 0s
+   150K .......... .......... .......... .......... .......... 71%  428K 0s
+   200K .......... .......... .......... .......... .......... 89%  403K 0s
+   250K .......... .......... .......                         100% 6.03M=0.7s
+
+2017-02-03 07:22:31 (426 KB/s) - ‘ocw087’ saved [284529/284529]
+
+--2017-02-03 07:22:32--  http://doi.org/10.1093/jamia/ocw100
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw100 [following]
+--2017-02-03 07:22:34--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw100
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 207851 (203K) [text/html]
+Saving to: ‘ocw100’
+
+     0K .......... .......... .......... .......... .......... 24%  207K 1s
+    50K .......... .......... .......... .......... .......... 49%  586K 0s
+   100K .......... .......... .......... .......... .......... 73%  612K 0s
+   150K .......... .......... .......... .......... .......... 98%  601K 0s
+   200K ..                                                    100% 13.5M=0.5s
+
+2017-02-03 07:22:37 (412 KB/s) - ‘ocw100’ saved [207851/207851]
+
+--2017-02-03 07:22:38--  http://doi.org/10.1093/jamia/ocw106
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw106 [following]
+--2017-02-03 07:22:40--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw106
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 262095 (256K) [text/html]
+Saving to: ‘ocw106’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 39%  608K 1s
+   100K .......... .......... .......... .......... .......... 58%  610K 0s
+   150K .......... .......... .......... .......... .......... 78%  412K 0s
+   200K .......... .......... .......... .......... .......... 97%  413K 0s
+   250K .....                                                 100% 11353G=0.6s
+
+2017-02-03 07:22:43 (397 KB/s) - ‘ocw106’ saved [262095/262095]
+
+--2017-02-03 07:22:44--  http://doi.org/10.1093/jamia/ocw103
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw103 [following]
+--2017-02-03 07:22:45--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw103
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 268366 (262K) [text/html]
+Saving to: ‘ocw103’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 38%  606K 1s
+   100K .......... .......... .......... .......... .......... 57%  605K 0s
+   150K .......... .......... .......... .......... .......... 76%  428K 0s
+   200K .......... .......... .......... .......... .......... 95%  401K 0s
+   250K .......... ..                                         100% 18.2M=0.6s
+
+2017-02-03 07:22:49 (405 KB/s) - ‘ocw103’ saved [268366/268366]
+
+--2017-02-03 07:22:50--  http://doi.org/10.1093/jamia/ocw071
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw071 [following]
+--2017-02-03 07:22:51--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw071
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 308043 (301K) [text/html]
+Saving to: ‘ocw071’
+
+     0K .......... .......... .......... .......... .......... 16%  207K 1s
+    50K .......... .......... .......... .......... .......... 33%  604K 1s
+   100K .......... .......... .......... .......... .......... 49%  606K 0s
+   150K .......... .......... .......... .......... .......... 66%  432K 0s
+   200K .......... .......... .......... .......... .......... 83%  396K 0s
+   250K .......... .......... .......... .......... .......... 99%  612K 0s
+   300K                                                       100% 5.92M=0.7s
+
+2017-02-03 07:22:56 (412 KB/s) - ‘ocw071’ saved [308043/308043]
+
+--2017-02-03 07:22:57--  http://doi.org/10.1093/jamia/ocw076
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw076 [following]
+--2017-02-03 07:22:58--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw076
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 163152 (159K) [text/html]
+Saving to: ‘ocw076’
+
+     0K .......... .......... .......... .......... .......... 31%  208K 1s
+    50K .......... .......... .......... .......... .......... 62%  613K 0s
+   100K .......... .......... .......... .......... .......... 94%  599K 0s
+   150K .........                                             100% 27.2M=0.4s
+
+2017-02-03 07:23:02 (392 KB/s) - ‘ocw076’ saved [163152/163152]
+
+--2017-02-03 07:23:03--  http://doi.org/10.1093/jamia/ocw102
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw102 [following]
+--2017-02-03 07:23:04--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw102
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 282828 (276K) [text/html]
+Saving to: ‘ocw102’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 36%  605K 1s
+   100K .......... .......... .......... .......... .......... 54%  612K 0s
+   150K .......... .......... .......... .......... .......... 72%  614K 0s
+   200K .......... .......... .......... .......... .......... 90%  315K 0s
+   250K .......... .......... ......                          100% 7.93M=0.6s
+
+2017-02-03 07:23:08 (427 KB/s) - ‘ocw102’ saved [282828/282828]
+
+--2017-02-03 07:23:09--  http://doi.org/10.1093/jamia/ocw096
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw096 [following]
+--2017-02-03 07:23:10--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw096
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 179574 (175K) [text/html]
+Saving to: ‘ocw096’
+
+     0K .......... .......... .......... .......... .......... 28%  209K 1s
+    50K .......... .......... .......... .......... .......... 57%  600K 0s
+   100K .......... .......... .......... .......... .......... 85%  612K 0s
+   150K .......... .......... .....                           100%  323K=0.5s
+
+2017-02-03 07:23:13 (363 KB/s) - ‘ocw096’ saved [179574/179574]
+
+--2017-02-03 07:23:14--  http://doi.org/10.1093/jamia/ocw095
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw095 [following]
+--2017-02-03 07:23:15--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw095
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 191100 (187K) [text/html]
+Saving to: ‘ocw095’
+
+     0K .......... .......... .......... .......... .......... 26%  209K 1s
+    50K .......... .......... .......... .......... .......... 53%  614K 0s
+   100K .......... .......... .......... .......... .......... 80%  603K 0s
+   150K .......... .......... .......... ......               100%  456K=0.5s
+
+2017-02-03 07:23:19 (386 KB/s) - ‘ocw095’ saved [191100/191100]
+
+--2017-02-03 07:23:20--  http://doi.org/10.1093/jamia/ocw097
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw097 [following]
+--2017-02-03 07:23:21--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw097
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 210723 (206K) [text/html]
+Saving to: ‘ocw097’
+
+     0K .......... .......... .......... .......... .......... 24%  209K 1s
+    50K .......... .......... .......... .......... .......... 48%  600K 0s
+   100K .......... .......... .......... .......... .......... 72%  614K 0s
+   150K .......... .......... .......... .......... .......... 97%  593K 0s
+   200K .....                                                 100% 77.7K=0.6s
+
+2017-02-03 07:23:25 (365 KB/s) - ‘ocw097’ saved [210723/210723]
+
+--2017-02-03 07:23:26--  http://doi.org/10.1093/jamia/ocw091
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw091 [following]
+--2017-02-03 07:23:27--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw091
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 229409 (224K) [text/html]
+Saving to: ‘ocw091’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 44%  609K 0s
+   100K .......... .......... .......... .......... .......... 66%  586K 0s
+   150K .......... .......... .......... .......... .......... 89%  607K 0s
+   200K .......... .......... ....                            100%  308K=0.6s
+
+2017-02-03 07:23:31 (395 KB/s) - ‘ocw091’ saved [229409/229409]
+
+--2017-02-03 07:23:32--  http://doi.org/10.1093/jamia/ocw093
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw093 [following]
+--2017-02-03 07:23:33--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw093
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 377779 (369K) [text/html]
+Saving to: ‘ocw093’
+
+     0K .......... .......... .......... .......... .......... 13%  209K 2s
+    50K .......... .......... .......... .......... .......... 27%  593K 1s
+   100K .......... .......... .......... .......... .......... 40%  595K 1s
+   150K .......... .......... .......... .......... .......... 54%  315K 0s
+   200K .......... .......... .......... .......... .......... 67%  591K 0s
+   250K .......... .......... .......... .......... .......... 81%  586K 0s
+   300K .......... .......... .......... .......... .......... 94%  615K 0s
+   350K .......... ........                                   100%  240K=0.9s
+
+2017-02-03 07:23:37 (411 KB/s) - ‘ocw093’ saved [377779/377779]
+
+--2017-02-03 07:23:38--  http://doi.org/10.1093/jamia/ocw098
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw098 [following]
+--2017-02-03 07:23:39--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw098
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 279640 (273K) [text/html]
+Saving to: ‘ocw098’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 36%  606K 1s
+   100K .......... .......... .......... .......... .......... 54%  611K 0s
+   150K .......... .......... .......... .......... .......... 73%  608K 0s
+   200K .......... .......... .......... .......... .......... 91%  317K 0s
+   250K .......... .......... ...                             100% 5.12M=0.6s
+
+2017-02-03 07:23:43 (421 KB/s) - ‘ocw098’ saved [279640/279640]
+
+--2017-02-03 07:23:44--  http://doi.org/10.1093/jamia/ocw088
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw088 [following]
+--2017-02-03 07:23:46--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw088
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 212383 (207K) [text/html]
+Saving to: ‘ocw088’
+
+     0K .......... .......... .......... .......... .......... 24%  309K 1s
+    50K .......... .......... .......... .......... .......... 48%  314K 0s
+   100K .......... .......... .......... .......... .......... 72%  597K 0s
+   150K .......... .......... .......... .......... .......... 96%  575K 0s
+   200K .......                                               100% 13.7M=0.5s
+
+2017-02-03 07:23:49 (422 KB/s) - ‘ocw088’ saved [212383/212383]
+
+--2017-02-03 07:23:50--  http://doi.org/10.1093/jamia/ocw077
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw077 [following]
+--2017-02-03 07:23:51--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw077
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 281481 (275K) [text/html]
+Saving to: ‘ocw077’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 36%  601K 1s
+   100K .......... .......... .......... .......... .......... 54%  602K 0s
+   150K .......... .......... .......... .......... .......... 72%  609K 0s
+   200K .......... .......... .......... .......... .......... 90%  310K 0s
+   250K .......... .......... ....                            100% 4.09M=0.7s
+
+2017-02-03 07:23:55 (420 KB/s) - ‘ocw077’ saved [281481/281481]
+
+--2017-02-03 07:23:56--  http://doi.org/10.1093/jamia/ocw092
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw092 [following]
+--2017-02-03 07:23:57--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw092
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 155964 (152K) [text/html]
+Saving to: ‘ocw092’
+
+     0K .......... .......... .......... .......... .......... 32%  209K 0s
+    50K .......... .......... .......... .......... .......... 65%  607K 0s
+   100K .......... .......... .......... .......... .......... 98%  603K 0s
+   150K ..                                                    100% 4403G=0.4s
+
+2017-02-03 07:24:00 (376 KB/s) - ‘ocw092’ saved [155964/155964]
+
+--2017-02-03 07:24:01--  http://doi.org/10.1093/jamia/ocw082
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw082 [following]
+--2017-02-03 07:24:02--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw082
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 186601 (182K) [text/html]
+Saving to: ‘ocw082’
+
+     0K .......... .......... .......... .......... .......... 27%  207K 1s
+    50K .......... .......... .......... .......... .......... 54%  613K 0s
+   100K .......... .......... .......... .......... .......... 82%  604K 0s
+   150K .......... .......... .......... ..                   100%  402K=0.5s
+
+2017-02-03 07:24:06 (375 KB/s) - ‘ocw082’ saved [186601/186601]
+
+--2017-02-03 07:24:07--  http://doi.org/10.1093/jamia/ocw057
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw057 [following]
+--2017-02-03 07:24:08--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw057
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 200755 (196K) [text/html]
+Saving to: ‘ocw057’
+
+     0K .......... .......... .......... .......... .......... 25%  246K 1s
+    50K .......... .......... .......... .......... .......... 51%  312K 0s
+   100K .......... .......... .......... .......... .......... 76%  600K 0s
+   150K .......... .......... .......... .......... ......    100%  548K=0.5s
+
+2017-02-03 07:24:13 (369 KB/s) - ‘ocw057’ saved [200755/200755]
+
+--2017-02-03 07:24:14--  http://doi.org/10.1093/jamia/ocw089
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw089 [following]
+--2017-02-03 07:24:15--  https://academic.oup.com/jamia/article-lookup/doi/10.1093/jamia/ocw089
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 123831 (121K) [text/html]
+Saving to: ‘ocw089’
+
+     0K .......... .......... .......... .......... .......... 41%  209K 0s
+    50K .......... .......... .......... .......... .......... 82%  607K 0s
+   100K .......... ..........                                 100% 19.7M=0.3s
+
+2017-02-03 07:24:18 (374 KB/s) - ‘ocw089’ saved [123831/123831]
+
+FINISHED --2017-02-03 07:24:18--
+Total wall clock time: 8m 49s
+Downloaded: 92 files, 18M in 46s (409 KB/s)

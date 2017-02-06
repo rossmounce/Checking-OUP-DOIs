@@ -1,0 +1,50 @@
+--2017-02-03 03:14:20--  http://doi.org/10.1155/imrs/2006/54517
+Resolving doi.org (doi.org)... 63.123.152.248, 38.100.138.162, 95.138.171.129, ...
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/imrs/article-lookup/doi/10.1155/IMRS/2006/54517 [following]
+--2017-02-03 03:14:22--  https://academic.oup.com/imrs/article-lookup/doi/10.1155/IMRS/2006/54517
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 211239 (206K) [text/html]
+Saving to: ‘54517’
+
+     0K .......... .......... .......... .......... .......... 24%  209K 1s
+    50K .......... .......... .......... .......... .......... 48%  614K 0s
+   100K .......... .......... .......... .......... .......... 72%  593K 0s
+   150K .......... .......... .......... .......... .......... 96%  607K 0s
+   200K ......                                                100% 14.5M=0.5s
+
+2017-02-03 03:14:34 (423 KB/s) - ‘54517’ saved [211239/211239]
+
+--2017-02-03 03:14:35--  http://doi.org/10.1155/imrs/2006/28925
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/imrs/article-lookup/doi/10.1155/IMRS/2006/28925 [following]
+--2017-02-03 03:14:36--  https://academic.oup.com/imrs/article-lookup/doi/10.1155/IMRS/2006/28925
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 03:14:37 ERROR 400: Bad Request.
+
+--2017-02-03 03:14:38--  http://doi.org/10.1093/imrsur/rym001
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/imrs/article-lookup/doi/10.1093/imrsur/rym001 [following]
+--2017-02-03 03:14:39--  https://academic.oup.com/imrs/article-lookup/doi/10.1093/imrsur/rym001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 03:14:40 ERROR 400: Bad Request.
+
+--2017-02-03 03:14:41--  http://doi.org/10.1155/imrs.2005.1
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/imrs/article-lookup/doi/10.1155/IMRS.2005.1 [following]
+--2017-02-03 03:14:42--  https://academic.oup.com/imrs/article-lookup/doi/10.1155/IMRS.2005.1
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 03:14:43 ERROR 400: Bad Request.
+
+FINISHED --2017-02-03 03:14:43--
+Total wall clock time: 23s
+Downloaded: 1 files, 206K in 0.5s (423 KB/s)

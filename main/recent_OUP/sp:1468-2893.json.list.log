@@ -1,0 +1,1681 @@
+--2017-02-03 18:52:43--  http://doi.org/10.1093/sp/jxw010
+Resolving doi.org (doi.org)... 38.100.138.163, 208.254.38.90, 63.123.152.248, ...
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 18:52:44--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Resolving fdslive.oup.com (fdslive.oup.com)... 193.67.160.201
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘jxw010’
+
+     0K .......... .......... .......... .......... .......... 97%  939K 0s
+    50K .                                                     100% 2306G=0.05s
+
+2017-02-03 18:52:44 (962 KB/s) - ‘jxw010’ saved [52438/52438]
+
+--2017-02-03 18:52:45--  http://doi.org/10.1093/sp/jxw006
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxw006 [following]
+--2017-02-03 18:52:47--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxw006
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 198886 (194K) [text/html]
+Saving to: ‘jxw006’
+
+     0K .......... .......... .......... .......... .......... 25%  209K 1s
+    50K .......... .......... .......... .......... .......... 51%  600K 0s
+   100K .......... .......... .......... .......... .......... 77%  605K 0s
+   150K .......... .......... .......... .......... ....      100%  544K=0.5s
+
+2017-02-03 18:53:18 (399 KB/s) - ‘jxw006’ saved [198886/198886]
+
+--2017-02-03 18:53:19--  http://doi.org/10.1093/sp/jxw004
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxw004 [following]
+--2017-02-03 18:53:20--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxw004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 220556 (215K) [text/html]
+Saving to: ‘jxw004’
+
+     0K .......... .......... .......... .......... .......... 23%  208K 1s
+    50K .......... .......... .......... .......... .......... 46%  610K 0s
+   100K .......... .......... .......... .......... .......... 69%  603K 0s
+   150K .......... .......... .......... .......... .......... 92%  574K 0s
+   200K .......... .....                                      100%  209K=0.6s
+
+2017-02-03 18:53:25 (381 KB/s) - ‘jxw004’ saved [220556/220556]
+
+--2017-02-03 18:53:26--  http://doi.org/10.1093/sp/jxw002
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxw002 [following]
+--2017-02-03 18:53:27--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxw002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 224652 (219K) [text/html]
+Saving to: ‘jxw002’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 45%  594K 0s
+   100K .......... .......... .......... .......... .......... 68%  602K 0s
+   150K .......... .......... .......... .......... .......... 91%  611K 0s
+   200K .......... .........                                  100%  248K=0.6s
+
+2017-02-03 18:53:32 (387 KB/s) - ‘jxw002’ saved [224652/224652]
+
+--2017-02-03 18:53:33--  http://doi.org/10.1093/sp/jxw003
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxw003 [following]
+--2017-02-03 18:53:35--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxw003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 217389 (212K) [text/html]
+Saving to: ‘jxw003’
+
+     0K .......... .......... .......... .......... .......... 23%  209K 1s
+    50K .......... .......... .......... .......... .......... 47%  600K 0s
+   100K .......... .......... .......... .......... .......... 70%  614K 0s
+   150K .......... .......... .......... .......... .......... 94%  606K 0s
+   200K .......... ..                                         100%  156K=0.6s
+
+2017-02-03 18:53:39 (376 KB/s) - ‘jxw003’ saved [217389/217389]
+
+--2017-02-03 18:53:40--  http://doi.org/10.1093/sp/jxw005
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxw005 [following]
+--2017-02-03 18:53:41--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxw005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 218773 (214K) [text/html]
+Saving to: ‘jxw005’
+
+     0K .......... .......... .......... .......... .......... 23%  209K 1s
+    50K .......... .......... .......... .......... .......... 46%  605K 0s
+   100K .......... .......... .......... .......... .......... 70%  611K 0s
+   150K .......... .......... .......... .......... .......... 93%  606K 0s
+   200K .......... ...                                        100%  174K=0.6s
+
+2017-02-03 18:53:46 (379 KB/s) - ‘jxw005’ saved [218773/218773]
+
+--2017-02-03 18:53:47--  http://doi.org/10.1093/sp/jxw001
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxw001 [following]
+--2017-02-03 18:53:49--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxw001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:53:49 ERROR 400: Bad Request.
+
+--2017-02-03 18:53:50--  http://doi.org/10.1093/sp/jxw007
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 18:53:51--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘jxw007’
+
+     0K .......... .......... .......... .......... .......... 97% 1.30M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 18:53:51 (1.33 MB/s) - ‘jxw007’ saved [52438/52438]
+
+--2017-02-03 18:53:52--  http://doi.org/10.1093/sp/jxw008
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 18:53:54--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘jxw008’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 18:53:54 (1.20 MB/s) - ‘jxw008’ saved [52438/52438]
+
+--2017-02-03 18:53:55--  http://doi.org/10.1093/sp/jxw009
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 18:53:56--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘jxw009’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 18:53:56 (1.32 MB/s) - ‘jxw009’ saved [52438/52438]
+
+--2017-02-03 18:53:57--  http://doi.org/10.1093/sp/jxv042
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv042 [following]
+--2017-02-03 18:53:58--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv042
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 299805 (293K) [text/html]
+Saving to: ‘jxv042’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 34%  609K 1s
+   100K .......... .......... .......... .......... .......... 51%  606K 0s
+   150K .......... .......... .......... .......... .......... 68%  317K 0s
+   200K .......... .......... .......... .......... .......... 85%  599K 0s
+   250K .......... .......... .......... .......... ..        100%  527K=0.7s
+
+2017-02-03 18:54:04 (403 KB/s) - ‘jxv042’ saved [299805/299805]
+
+--2017-02-03 18:54:05--  http://doi.org/10.1093/sp/jxv038
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv038 [following]
+--2017-02-03 18:54:06--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv038
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 251503 (246K) [text/html]
+Saving to: ‘jxv038’
+
+     0K .......... .......... .......... .......... .......... 20%  209K 1s
+    50K .......... .......... .......... .......... .......... 40%  600K 0s
+   100K .......... .......... .......... .......... .......... 61%  610K 0s
+   150K .......... .......... .......... .......... .......... 81%  417K 0s
+   200K .......... .......... .......... .......... .....     100%  548K=0.6s
+
+2017-02-03 18:54:11 (404 KB/s) - ‘jxv038’ saved [251503/251503]
+
+--2017-02-03 18:54:12--  http://doi.org/10.1093/sp/jxv037
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv037 [following]
+--2017-02-03 18:54:13--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv037
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 222014 (217K) [text/html]
+Saving to: ‘jxv037’
+
+     0K .......... .......... .......... .......... .......... 23%  209K 1s
+    50K .......... .......... .......... .......... .......... 46%  604K 0s
+   100K .......... .......... .......... .......... .......... 69%  610K 0s
+   150K .......... .......... .......... .......... .......... 92%  489K 0s
+   200K .......... ......                                     100%  295K=0.6s
+
+2017-02-03 18:54:17 (385 KB/s) - ‘jxv037’ saved [222014/222014]
+
+--2017-02-03 18:54:18--  http://doi.org/10.1093/sp/jxv039
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv039 [following]
+--2017-02-03 18:54:19--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv039
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 312865 (306K) [text/html]
+Saving to: ‘jxv039’
+
+     0K .......... .......... .......... .......... .......... 16%  208K 1s
+    50K .......... .......... .......... .......... .......... 32%  604K 1s
+   100K .......... .......... .......... .......... .......... 49%  605K 0s
+   150K .......... .......... .......... .......... .......... 65%  317K 0s
+   200K .......... .......... .......... .......... .......... 81%  577K 0s
+   250K .......... .......... .......... .......... .......... 98%  608K 0s
+   300K .....                                                 100% 10552G=0.7s
+
+2017-02-03 18:54:24 (417 KB/s) - ‘jxv039’ saved [312865/312865]
+
+--2017-02-03 18:54:25--  http://doi.org/10.1093/sp/jxv040
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv040 [following]
+--2017-02-03 18:54:26--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv040
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 176905 (173K) [text/html]
+Saving to: ‘jxv040’
+
+     0K .......... .......... .......... .......... .......... 28%  310K 0s
+    50K .......... .......... .......... .......... .......... 57%  310K 0s
+   100K .......... .......... .......... .......... .......... 86%  611K 0s
+   150K .......... .......... ..                              100%  294K=0.5s
+
+2017-02-03 18:54:31 (359 KB/s) - ‘jxv040’ saved [176905/176905]
+
+--2017-02-03 18:54:33--  http://doi.org/10.1093/sp/jxv036
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv036 [following]
+--2017-02-03 18:54:34--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv036
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:54:35 ERROR 400: Bad Request.
+
+--2017-02-03 18:54:36--  http://doi.org/10.1093/sp/jxv035
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv035 [following]
+--2017-02-03 18:54:37--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv035
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 294450 (288K) [text/html]
+Saving to: ‘jxv035’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 34%  604K 1s
+   100K .......... .......... .......... .......... .......... 52%  604K 0s
+   150K .......... .......... .......... .......... .......... 69%  319K 0s
+   200K .......... .......... .......... .......... .......... 86%  598K 0s
+   250K .......... .......... .......... .......              100%  474K=0.7s
+
+2017-02-03 18:54:47 (397 KB/s) - ‘jxv035’ saved [294450/294450]
+
+--2017-02-03 18:54:48--  http://doi.org/10.1093/sp/jxv041
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv041 [following]
+--2017-02-03 18:54:50--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv041
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 253526 (248K) [text/html]
+Saving to: ‘jxv041’
+
+     0K .......... .......... .......... .......... .......... 20%  246K 1s
+    50K .......... .......... .......... .......... .......... 40%  311K 1s
+   100K .......... .......... .......... .......... .......... 60%  604K 0s
+   150K .......... .......... .......... .......... .......... 80%  560K 0s
+   200K .......... .......... .......... .......... .......   100%  298K=0.7s
+
+2017-02-03 18:54:58 (356 KB/s) - ‘jxv041’ saved [253526/253526]
+
+--2017-02-03 18:54:59--  http://doi.org/10.1093/sp/jxv034
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv034 [following]
+--2017-02-03 18:55:00--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv034
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 265019 (259K) [text/html]
+Saving to: ‘jxv034’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 38%  611K 1s
+   100K .......... .......... .......... .......... .......... 57%  606K 0s
+   150K .......... .......... .......... .......... .......... 77%  607K 0s
+   200K .......... .......... .......... .......... .......... 96%  311K 0s
+   250K ........                                              100% 24.6M=0.6s
+
+2017-02-03 18:55:08 (400 KB/s) - ‘jxv034’ saved [265019/265019]
+
+--2017-02-03 18:55:09--  http://doi.org/10.1093/sp/jxv033
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv033 [following]
+--2017-02-03 18:55:11--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv033
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 292200 (285K) [text/html]
+Saving to: ‘jxv033’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 35%  608K 1s
+   100K .......... .......... .......... .......... .......... 52%  307K 0s
+   150K .......... .......... .......... .......... .......... 70%  582K 0s
+   200K .......... .......... .......... .......... .......... 87%  315K 0s
+   250K .......... .......... .......... .....                100% 8.14M=0.7s
+
+2017-02-03 18:55:20 (389 KB/s) - ‘jxv033’ saved [292200/292200]
+
+--2017-02-03 18:55:21--  http://doi.org/10.1093/sp/jxv032
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv032 [following]
+--2017-02-03 18:55:22--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv032
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 296711 (290K) [text/html]
+Saving to: ‘jxv032’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 34%  608K 1s
+   100K .......... .......... .......... .......... .......... 51%  592K 0s
+   150K .......... .......... .......... .......... .......... 69%  606K 0s
+   200K .......... .......... .......... .......... .......... 86%  316K 0s
+   250K .......... .......... .......... .........            100% 5.00M=0.7s
+
+2017-02-03 18:55:28 (443 KB/s) - ‘jxv032’ saved [296711/296711]
+
+--2017-02-03 18:55:29--  http://doi.org/10.1093/sp/jxv031
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv031 [following]
+--2017-02-03 18:55:30--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv031
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 249066 (243K) [text/html]
+Saving to: ‘jxv031’
+
+     0K .......... .......... .......... .......... .......... 20%  310K 1s
+    50K .......... .......... .......... .......... .......... 41%  306K 0s
+   100K .......... .......... .......... .......... .......... 61%  604K 0s
+   150K .......... .......... .......... .......... .......... 82%  608K 0s
+   200K .......... .......... .......... .......... ...       100%  523K=0.6s
+
+2017-02-03 18:55:35 (425 KB/s) - ‘jxv031’ saved [249066/249066]
+
+--2017-02-03 18:55:36--  http://doi.org/10.1093/sp/jxv020
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv020 [following]
+--2017-02-03 18:55:37--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv020
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 217034 (212K) [text/html]
+Saving to: ‘jxv020’
+
+     0K .......... .......... .......... .......... .......... 23%  208K 1s
+    50K .......... .......... .......... .......... .......... 47%  602K 0s
+   100K .......... .......... .......... .......... .......... 70%  617K 0s
+   150K .......... .......... .......... .......... .......... 94%  603K 0s
+   200K .......... .                                          100%  159K=0.6s
+
+2017-02-03 18:55:42 (377 KB/s) - ‘jxv020’ saved [217034/217034]
+
+--2017-02-03 18:55:43--  http://doi.org/10.1093/sp/jxv026
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv026 [following]
+--2017-02-03 18:55:44--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv026
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 85638 (84K) [text/html]
+Saving to: ‘jxv026’
+
+     0K .......... .......... .......... .......... .......... 59%  209K 0s
+    50K .......... .......... .......... ...                  100% 13.4M=0.2s
+
+2017-02-03 18:55:52 (345 KB/s) - ‘jxv026’ saved [85638/85638]
+
+--2017-02-03 18:55:53--  http://doi.org/10.1093/sp/jxv021
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv021 [following]
+--2017-02-03 18:55:54--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:55:56 ERROR 400: Bad Request.
+
+--2017-02-03 18:55:57--  http://doi.org/10.1093/sp/jxv023
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv023 [following]
+--2017-02-03 18:55:58--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 217691 (213K) [text/html]
+Saving to: ‘jxv023’
+
+     0K .......... .......... .......... .......... .......... 23%  209K 1s
+    50K .......... .......... .......... .......... .......... 47%  605K 0s
+   100K .......... .......... .......... .......... .......... 70%  588K 0s
+   150K .......... .......... .......... .......... .......... 94%  600K 0s
+   200K .......... ..                                         100%  172K=0.6s
+
+2017-02-03 18:56:05 (377 KB/s) - ‘jxv023’ saved [217691/217691]
+
+--2017-02-03 18:56:06--  http://doi.org/10.1093/sp/jxv025
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv025 [following]
+--2017-02-03 18:56:07--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv025
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 219297 (214K) [text/html]
+Saving to: ‘jxv025’
+
+     0K .......... .......... .......... .......... .......... 23%  209K 1s
+    50K .......... .......... .......... .......... .......... 46%  609K 0s
+   100K .......... .......... .......... .......... .......... 70%  610K 0s
+   150K .......... .......... .......... .......... .......... 93%  316K 0s
+   200K .......... ....                                       100% 5.07M=0.6s
+
+2017-02-03 18:56:14 (379 KB/s) - ‘jxv025’ saved [219297/219297]
+
+--2017-02-03 18:56:15--  http://doi.org/10.1093/sp/jxv030
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv030 [following]
+--2017-02-03 18:56:16--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv030
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 168208 (164K) [text/html]
+Saving to: ‘jxv030’
+
+     0K .......... .......... .......... .......... .......... 30%  209K 1s
+    50K .......... .......... .......... .......... .......... 60%  599K 0s
+   100K .......... .......... .......... .......... .......... 91%  597K 0s
+   150K .......... ....                                       100% 28.7M=0.4s
+
+2017-02-03 18:56:21 (404 KB/s) - ‘jxv030’ saved [168208/168208]
+
+--2017-02-03 18:56:22--  http://doi.org/10.1093/sp/jxv022
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv022 [following]
+--2017-02-03 18:56:23--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv022
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 209277 (204K) [text/html]
+Saving to: ‘jxv022’
+
+     0K .......... .......... .......... .......... .......... 24%  208K 1s
+    50K .......... .......... .......... .......... .......... 48%  586K 0s
+   100K .......... .......... .......... .......... .......... 73%  608K 0s
+   150K .......... .......... .......... .......... .......... 97%  601K 0s
+   200K ....                                                  100% 32.4M=0.5s
+
+2017-02-03 18:56:33 (416 KB/s) - ‘jxv022’ saved [209277/209277]
+
+--2017-02-03 18:56:34--  http://doi.org/10.1093/sp/jxv028
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv028 [following]
+--2017-02-03 18:56:35--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv028
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 152888 (149K) [text/html]
+Saving to: ‘jxv028’
+
+     0K .......... .......... .......... .......... .......... 33%  208K 0s
+    50K .......... .......... .......... .......... .......... 66%  606K 0s
+   100K .......... .......... .......... .......... ......... 100%  603K=0.4s
+
+2017-02-03 18:56:41 (369 KB/s) - ‘jxv028’ saved [152888/152888]
+
+--2017-02-03 18:56:42--  http://doi.org/10.1093/sp/jxv019
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv019 [following]
+--2017-02-03 18:56:43--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:56:44 ERROR 400: Bad Request.
+
+--2017-02-03 18:56:45--  http://doi.org/10.1093/sp/jxv024
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv024 [following]
+--2017-02-03 18:56:46--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv024
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 97193 (95K) [text/html]
+Saving to: ‘jxv024’
+
+     0K .......... .......... .......... .......... .......... 52%  309K 0s
+    50K .......... .......... .......... .......... ....      100%  285K=0.3s
+
+2017-02-03 18:57:07 (297 KB/s) - ‘jxv024’ saved [97193/97193]
+
+--2017-02-03 18:57:08--  http://doi.org/10.1093/sp/jxv029
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv029 [following]
+--2017-02-03 18:57:10--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv029
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 83131 (81K) [text/html]
+Saving to: ‘jxv029’
+
+     0K .......... .......... .......... .......... .......... 61%  209K 0s
+    50K .......... .......... .......... .                    100% 8.97M=0.2s
+
+2017-02-03 18:57:14 (334 KB/s) - ‘jxv029’ saved [83131/83131]
+
+--2017-02-03 18:57:15--  http://doi.org/10.1093/sp/jxv027
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv027 [following]
+--2017-02-03 18:57:16--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv027
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 236000 (230K) [text/html]
+Saving to: ‘jxv027’
+
+     0K .......... .......... .......... .......... .......... 21%  209K 1s
+    50K .......... .......... .......... .......... .......... 43%  603K 0s
+   100K .......... .......... .......... .......... .......... 65%  608K 0s
+   150K .......... .......... .......... .......... .......... 86%  426K 0s
+   200K .......... .......... ..........                      100%  687K=0.6s
+
+2017-02-03 18:57:21 (407 KB/s) - ‘jxv027’ saved [236000/236000]
+
+--2017-02-03 18:57:22--  http://doi.org/10.1093/sp/jxv016
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv016 [following]
+--2017-02-03 18:57:23--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv016
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 391051 (382K) [text/html]
+Saving to: ‘jxv016’
+
+     0K .......... .......... .......... .......... .......... 13%  208K 2s
+    50K .......... .......... .......... .......... .......... 26%  612K 1s
+   100K .......... .......... .......... .......... .......... 39%  593K 1s
+   150K .......... .......... .......... .......... .......... 52%  610K 0s
+   200K .......... .......... .......... .......... .......... 65%  420K 0s
+   250K .......... .......... .......... .......... .......... 78%  409K 0s
+   300K .......... .......... .......... .......... .......... 91%  599K 0s
+   350K .......... .......... .......... .                    100%  396K=0.9s
+
+2017-02-03 18:57:28 (427 KB/s) - ‘jxv016’ saved [391051/391051]
+
+--2017-02-03 18:57:29--  http://doi.org/10.1093/sp/jxv018
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv018 [following]
+--2017-02-03 18:57:31--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv018
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 233867 (228K) [text/html]
+Saving to: ‘jxv018’
+
+     0K .......... .......... .......... .......... .......... 21%  211K 1s
+    50K .......... .......... .......... .......... .......... 43%  608K 0s
+   100K .......... .......... .......... .......... .......... 65%  614K 0s
+   150K .......... .......... .......... .......... .......... 87%  424K 0s
+   200K .......... .......... ........                        100%  637K=0.6s
+
+2017-02-03 18:57:36 (406 KB/s) - ‘jxv018’ saved [233867/233867]
+
+--2017-02-03 18:57:37--  http://doi.org/10.1093/sp/jxv017
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv017 [following]
+--2017-02-03 18:57:38--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 222238 (217K) [text/html]
+Saving to: ‘jxv017’
+
+     0K .......... .......... .......... .......... .......... 23%  308K 1s
+    50K .......... .......... .......... .......... .......... 46%  312K 0s
+   100K .......... .......... .......... .......... .......... 69%  603K 0s
+   150K .......... .......... .......... .......... .......... 92%  600K 0s
+   200K .......... .......                                    100%  220K=0.6s
+
+2017-02-03 18:57:44 (383 KB/s) - ‘jxv017’ saved [222238/222238]
+
+--2017-02-03 18:57:45--  http://doi.org/10.1093/sp/jxv015
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv015 [following]
+--2017-02-03 18:57:46--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 221175 (216K) [text/html]
+Saving to: ‘jxv015’
+
+     0K .......... .......... .......... .......... .......... 23%  209K 1s
+    50K .......... .......... .......... .......... .......... 46%  606K 0s
+   100K .......... .......... .......... .......... .......... 69%  552K 0s
+   150K .......... .......... .......... .......... .......... 92%  614K 0s
+   200K .......... .....                                      100% 11.9M=0.5s
+
+2017-02-03 18:57:50 (436 KB/s) - ‘jxv015’ saved [221175/221175]
+
+--2017-02-03 18:57:51--  http://doi.org/10.1093/sp/jxv014
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv014 [following]
+--2017-02-03 18:57:52--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv014
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 203349 (199K) [text/html]
+Saving to: ‘jxv014’
+
+     0K .......... .......... .......... .......... .......... 25%  208K 1s
+    50K .......... .......... .......... .......... .......... 50%  609K 0s
+   100K .......... .......... .......... .......... .......... 75%  613K 0s
+   150K .......... .......... .......... .......... ........  100%  410K=0.5s
+
+2017-02-03 18:57:56 (380 KB/s) - ‘jxv014’ saved [203349/203349]
+
+--2017-02-03 18:57:57--  http://doi.org/10.1093/sp/jxv012
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv012 [following]
+--2017-02-03 18:57:58--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 237724 (232K) [text/html]
+Saving to: ‘jxv012’
+
+     0K .......... .......... .......... .......... .......... 21%  209K 1s
+    50K .......... .......... .......... .......... .......... 43%  606K 0s
+   100K .......... .......... .......... .......... .......... 64%  604K 0s
+   150K .......... .......... .......... .......... .......... 86%  316K 0s
+   200K .......... .......... .......... ..                   100% 8.22M=0.6s
+
+2017-02-03 18:58:03 (410 KB/s) - ‘jxv012’ saved [237724/237724]
+
+--2017-02-03 18:58:04--  http://doi.org/10.1093/sp/jxv009
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv009 [following]
+--2017-02-03 18:58:06--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 172043 (168K) [text/html]
+Saving to: ‘jxv009’
+
+     0K .......... .......... .......... .......... .......... 29%  309K 0s
+    50K .......... .......... .......... .......... .......... 59%  311K 0s
+   100K .......... .......... .......... .......... .......... 89%  607K 0s
+   150K .......... ........                                   100%  231K=0.5s
+
+2017-02-03 18:58:10 (348 KB/s) - ‘jxv009’ saved [172043/172043]
+
+--2017-02-03 18:58:11--  http://doi.org/10.1093/sp/jxv010
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv010 [following]
+--2017-02-03 18:58:12--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 222905 (218K) [text/html]
+Saving to: ‘jxv010’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 45%  603K 0s
+   100K .......... .......... .......... .......... .......... 68%  601K 0s
+   150K .......... .......... .......... .......... .......... 91%  607K 0s
+   200K .......... .......                                    100%  230K=0.6s
+
+2017-02-03 18:58:17 (386 KB/s) - ‘jxv010’ saved [222905/222905]
+
+--2017-02-03 18:58:18--  http://doi.org/10.1093/sp/jxv011
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv011 [following]
+--2017-02-03 18:58:19--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 180750 (177K) [text/html]
+Saving to: ‘jxv011’
+
+     0K .......... .......... .......... .......... .......... 28%  209K 1s
+    50K .......... .......... .......... .......... .......... 56%  608K 0s
+   100K .......... .......... .......... .......... .......... 84%  610K 0s
+   150K .......... .......... ......                          100%  333K=0.5s
+
+2017-02-03 18:58:23 (365 KB/s) - ‘jxv011’ saved [180750/180750]
+
+--2017-02-03 18:58:24--  http://doi.org/10.1093/sp/jxv013
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv013 [following]
+--2017-02-03 18:58:25--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 310178 (303K) [text/html]
+Saving to: ‘jxv013’
+
+     0K .......... .......... .......... .......... .......... 16%  209K 1s
+    50K .......... .......... .......... .......... .......... 33%  599K 1s
+   100K .......... .......... .......... .......... .......... 49%  600K 0s
+   150K .......... .......... .......... .......... .......... 66%  611K 0s
+   200K .......... .......... .......... .......... .......... 82%  310K 0s
+   250K .......... .......... .......... .......... .......... 99%  604K 0s
+   300K ..                                                    100% 7.93M=0.7s
+
+2017-02-03 18:58:30 (414 KB/s) - ‘jxv013’ saved [310178/310178]
+
+--2017-02-03 18:58:31--  http://doi.org/10.1093/sp/jxv005
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv005 [following]
+--2017-02-03 18:58:32--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:58:32 ERROR 400: Bad Request.
+
+--2017-02-03 18:58:33--  http://doi.org/10.1093/sp/jxv008
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv008 [following]
+--2017-02-03 18:58:34--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:58:35 ERROR 400: Bad Request.
+
+--2017-02-03 18:58:36--  http://doi.org/10.1093/sp/jxv006
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv006 [following]
+--2017-02-03 18:58:37--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:58:38 ERROR 400: Bad Request.
+
+--2017-02-03 18:58:39--  http://doi.org/10.1093/sp/jxv007
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv007 [following]
+--2017-02-03 18:58:40--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 247346 (242K) [text/html]
+Saving to: ‘jxv007’
+
+     0K .......... .......... .......... .......... .......... 20%  209K 1s
+    50K .......... .......... .......... .......... .......... 41%  605K 0s
+   100K .......... .......... .......... .......... .......... 62%  601K 0s
+   150K .......... .......... .......... .......... .......... 82%  608K 0s
+   200K .......... .......... .......... .......... .         100%  513K=0.6s
+
+2017-02-03 18:58:44 (425 KB/s) - ‘jxv007’ saved [247346/247346]
+
+--2017-02-03 18:58:45--  http://doi.org/10.1093/sp/jxv004
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv004 [following]
+--2017-02-03 18:58:47--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 323855 (316K) [text/html]
+Saving to: ‘jxv004’
+
+     0K .......... .......... .......... .......... .......... 15%  209K 1s
+    50K .......... .......... .......... .......... .......... 31%  584K 1s
+   100K .......... .......... .......... .......... .......... 47%  586K 0s
+   150K .......... .......... .......... .......... .......... 63%  608K 0s
+   200K .......... .......... .......... .......... .......... 79%  312K 0s
+   250K .......... .......... .......... .......... .......... 94%  594K 0s
+   300K .......... ......                                     100% 9.95M=0.7s
+
+2017-02-03 18:58:54 (429 KB/s) - ‘jxv004’ saved [323855/323855]
+
+--2017-02-03 18:58:55--  http://doi.org/10.1093/sp/jxv003
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv003 [following]
+--2017-02-03 18:58:56--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 239999 (234K) [text/html]
+Saving to: ‘jxv003’
+
+     0K .......... .......... .......... .......... .......... 21%  209K 1s
+    50K .......... .......... .......... .......... .......... 42%  591K 0s
+   100K .......... .......... .......... .......... .......... 64%  613K 0s
+   150K .......... .......... .......... .......... .......... 85%  596K 0s
+   200K .......... .......... .......... ....                 100%  429K=0.6s
+
+2017-02-03 18:59:01 (412 KB/s) - ‘jxv003’ saved [239999/239999]
+
+--2017-02-03 18:59:02--  http://doi.org/10.1093/sp/jxv002
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv002 [following]
+--2017-02-03 18:59:03--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:59:17 ERROR 400: Bad Request.
+
+--2017-02-03 18:59:18--  http://doi.org/10.1093/sp/jxv001
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv001 [following]
+--2017-02-03 18:59:19--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxv001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 234283 (229K) [text/html]
+Saving to: ‘jxv001’
+
+     0K .......... .......... .......... .......... .......... 21%  207K 1s
+    50K .......... .......... .......... .......... .......... 43%  589K 0s
+   100K .......... .......... .......... .......... .......... 65%  599K 0s
+   150K .......... .......... .......... .......... .......... 87%  573K 0s
+   200K .......... .......... ........                        100%  336K=0.6s
+
+2017-02-03 18:59:31 (393 KB/s) - ‘jxv001’ saved [234283/234283]
+
+--2017-02-03 18:59:32--  http://doi.org/10.1093/sp/jxu027
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu027 [following]
+--2017-02-03 18:59:34--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu027
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 512611 (501K) [text/html]
+Saving to: ‘jxu027’
+
+     0K .......... .......... .......... .......... ..........  9%  209K 2s
+    50K .......... .......... .......... .......... .......... 19%  607K 1s
+   100K .......... .......... .......... .......... .......... 29%  613K 1s
+   150K .......... .......... .......... .......... .......... 39%  591K 1s
+   200K .......... .......... .......... .......... .......... 49%  321K 1s
+   250K .......... .......... .......... .......... .......... 59%  579K 0s
+   300K .......... .......... .......... .......... .......... 69%  608K 0s
+   350K .......... .......... .......... .......... .......... 79%  319K 0s
+   400K .......... .......... .......... .......... .......... 89%  611K 0s
+   450K .......... .......... .......... .......... .......... 99%  558K 0s
+   500K                                                       100% 2.28M=1.1s
+
+2017-02-03 18:59:41 (439 KB/s) - ‘jxu027’ saved [512611/512611]
+
+--2017-02-03 18:59:42--  http://doi.org/10.1093/sp/jxu029
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu029 [following]
+--2017-02-03 18:59:43--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu029
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:59:45 ERROR 400: Bad Request.
+
+--2017-02-03 18:59:46--  http://doi.org/10.1093/sp/jxu030
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu030 [following]
+--2017-02-03 18:59:47--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu030
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 338928 (331K) [text/html]
+Saving to: ‘jxu030’
+
+     0K .......... .......... .......... .......... .......... 15%  209K 1s
+    50K .......... .......... .......... .......... .......... 30%  603K 1s
+   100K .......... .......... .......... .......... .......... 45%  590K 0s
+   150K .......... .......... .......... .......... .......... 60%  321K 0s
+   200K .......... .......... .......... .......... .......... 75%  546K 0s
+   250K .......... .......... .......... .......... .......... 90%  579K 0s
+   300K .......... .......... ..........                      100%  453K=0.8s
+
+2017-02-03 18:59:54 (409 KB/s) - ‘jxu030’ saved [338928/338928]
+
+--2017-02-03 18:59:55--  http://doi.org/10.1093/sp/jxu028
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu028 [following]
+--2017-02-03 18:59:56--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu028
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:59:58 ERROR 400: Bad Request.
+
+--2017-02-03 18:59:59--  http://doi.org/10.1093/sp/jxu024
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu024 [following]
+--2017-02-03 19:00:00--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu024
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 249746 (244K) [text/html]
+Saving to: ‘jxu024’
+
+     0K .......... .......... .......... .......... .......... 20%  210K 1s
+    50K .......... .......... .......... .......... .......... 41%  597K 0s
+   100K .......... .......... .......... .......... .......... 61%  602K 0s
+   150K .......... .......... .......... .......... .......... 82%  591K 0s
+   200K .......... .......... .......... .......... ...       100%  538K=0.6s
+
+2017-02-03 19:00:08 (427 KB/s) - ‘jxu024’ saved [249746/249746]
+
+--2017-02-03 19:00:09--  http://doi.org/10.1093/sp/jxu026
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu026 [following]
+--2017-02-03 19:00:10--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu026
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 232704 (227K) [text/html]
+Saving to: ‘jxu026’
+
+     0K .......... .......... .......... .......... .......... 22%  208K 1s
+    50K .......... .......... .......... .......... .......... 44%  609K 0s
+   100K .......... .......... .......... .......... .......... 66%  591K 0s
+   150K .......... .......... .......... .......... .......... 88%  594K 0s
+   200K .......... .......... .......                         100%  333K=0.6s
+
+2017-02-03 19:00:18 (397 KB/s) - ‘jxu026’ saved [232704/232704]
+
+--2017-02-03 19:00:19--  http://doi.org/10.1093/sp/jxu025
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu025 [following]
+--2017-02-03 19:00:21--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu025
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 19:00:21 ERROR 400: Bad Request.
+
+--2017-02-03 19:00:22--  http://doi.org/10.1093/sp/jxu022
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu022 [following]
+--2017-02-03 19:00:23--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu022
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 351352 (343K) [text/html]
+Saving to: ‘jxu022’
+
+     0K .......... .......... .......... .......... .......... 14%  208K 1s
+    50K .......... .......... .......... .......... .......... 29%  607K 1s
+   100K .......... .......... .......... .......... .......... 43%  609K 1s
+   150K .......... .......... .......... .......... .......... 58%  606K 0s
+   200K .......... .......... .......... .......... .......... 72%  313K 0s
+   250K .......... .......... .......... .......... .......... 87%  604K 0s
+   300K .......... .......... .......... .......... ...       100%  527K=0.8s
+
+2017-02-03 19:00:31 (423 KB/s) - ‘jxu022’ saved [351352/351352]
+
+--2017-02-03 19:00:32--  http://doi.org/10.1093/sp/jxu018
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu018 [following]
+--2017-02-03 19:00:33--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu018
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 251973 (246K) [text/html]
+Saving to: ‘jxu018’
+
+     0K .......... .......... .......... .......... .......... 20%  209K 1s
+    50K .......... .......... .......... .......... .......... 40%  602K 0s
+   100K .......... .......... .......... .......... .......... 60%  612K 0s
+   150K .......... .......... .......... .......... .......... 81%  425K 0s
+   200K .......... .......... .......... .......... ......    100%  556K=0.6s
+
+2017-02-03 19:00:45 (407 KB/s) - ‘jxu018’ saved [251973/251973]
+
+--2017-02-03 19:00:46--  http://doi.org/10.1093/sp/jxu023
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu023 [following]
+--2017-02-03 19:00:47--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 157837 (154K) [text/html]
+Saving to: ‘jxu023’
+
+     0K .......... .......... .......... .......... .......... 32%  251K 0s
+    50K .......... .......... .......... .......... .......... 64%  412K 0s
+   100K .......... .......... .......... .......... .......... 97%  591K 0s
+   150K ....                                                  100% 23.6M=0.4s
+
+2017-02-03 19:00:54 (380 KB/s) - ‘jxu023’ saved [157837/157837]
+
+--2017-02-03 19:00:55--  http://doi.org/10.1093/sp/jxu019
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu019 [following]
+--2017-02-03 19:00:56--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 276470 (270K) [text/html]
+Saving to: ‘jxu019’
+
+     0K .......... .......... .......... .......... .......... 18%  208K 1s
+    50K .......... .......... .......... .......... .......... 37%  595K 1s
+   100K .......... .......... .......... .......... .......... 55%  604K 0s
+   150K .......... .......... .......... .......... .......... 74%  573K 0s
+   200K .......... .......... .......... .......... .......... 92%  307K 0s
+   250K .......... .........                                  100% 17.3M=0.7s
+
+2017-02-03 19:01:03 (410 KB/s) - ‘jxu019’ saved [276470/276470]
+
+--2017-02-03 19:01:04--  http://doi.org/10.1093/sp/jxu021
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu021 [following]
+--2017-02-03 19:01:05--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 218133 (213K) [text/html]
+Saving to: ‘jxu021’
+
+     0K .......... .......... .......... .......... .......... 23%  208K 1s
+    50K .......... .......... .......... .......... .......... 46%  606K 0s
+   100K .......... .......... .......... .......... .......... 70%  611K 0s
+   150K .......... .......... .......... .......... .......... 93%  606K 0s
+   200K .......... ...                                        100%  167K=0.6s
+
+2017-02-03 19:01:11 (377 KB/s) - ‘jxu021’ saved [218133/218133]
+
+--2017-02-03 19:01:12--  http://doi.org/10.1093/sp/jxu020
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu020 [following]
+--2017-02-03 19:01:13--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu020
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 306874 (300K) [text/html]
+Saving to: ‘jxu020’
+
+     0K .......... .......... .......... .......... .......... 16%  206K 1s
+    50K .......... .......... .......... .......... .......... 33%  607K 1s
+   100K .......... .......... .......... .......... .......... 50%  606K 0s
+   150K .......... .......... .......... .......... .......... 66%  419K 0s
+   200K .......... .......... .......... .......... .......... 83%  400K 0s
+   250K .......... .......... .......... .......... ......... 100%  602K=0.7s
+
+2017-02-03 19:01:19 (408 KB/s) - ‘jxu020’ saved [306874/306874]
+
+--2017-02-03 19:01:20--  http://doi.org/10.1093/sp/jxu016
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu016 [following]
+--2017-02-03 19:01:21--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu016
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 254424 (248K) [text/html]
+Saving to: ‘jxu016’
+
+     0K .......... .......... .......... .......... .......... 20%  308K 1s
+    50K .......... .......... .......... .......... .......... 40%  311K 0s
+   100K .......... .......... .......... .......... .......... 60%  607K 0s
+   150K .......... .......... .......... .......... .......... 80%  602K 0s
+   200K .......... .......... .......... .......... ........  100%  310K=0.6s
+
+2017-02-03 19:01:31 (385 KB/s) - ‘jxu016’ saved [254424/254424]
+
+--2017-02-03 19:01:32--  http://doi.org/10.1093/sp/jxu010
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu010 [following]
+--2017-02-03 19:01:33--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 387262 (378K) [text/html]
+Saving to: ‘jxu010’
+
+     0K .......... .......... .......... .......... .......... 13%  208K 2s
+    50K .......... .......... .......... .......... .......... 26%  606K 1s
+   100K .......... .......... .......... .......... .......... 39%  594K 1s
+   150K .......... .......... .......... .......... .......... 52%  424K 0s
+   200K .......... .......... .......... .......... .......... 66%  397K 0s
+   250K .......... .......... .......... .......... .......... 79%  124K 0s
+   300K .......... .......... .......... .......... .......... 92%  604K 0s
+   350K .......... .......... ........                        100%  354K=1.2s
+
+2017-02-03 19:01:40 (311 KB/s) - ‘jxu010’ saved [387262/387262]
+
+--2017-02-03 19:01:41--  http://doi.org/10.1093/sp/jxu012
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu012 [following]
+--2017-02-03 19:01:42--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 244988 (239K) [text/html]
+Saving to: ‘jxu012’
+
+     0K .......... .......... .......... .......... .......... 20%  209K 1s
+    50K .......... .......... .......... .......... .......... 41%  302K 1s
+   100K .......... .......... .......... .......... .......... 62%  605K 0s
+   150K .......... .......... .......... .......... .......... 83%  609K 0s
+   200K .......... .......... .......... .........            100%  485K=0.7s
+
+2017-02-03 19:01:48 (368 KB/s) - ‘jxu012’ saved [244988/244988]
+
+--2017-02-03 19:01:49--  http://doi.org/10.1093/sp/jxu017
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu017 [following]
+--2017-02-03 19:01:50--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 251985 (246K) [text/html]
+Saving to: ‘jxu017’
+
+     0K .......... .......... .......... .......... .......... 20%  209K 1s
+    50K .......... .......... .......... .......... .......... 40%  594K 0s
+   100K .......... .......... .......... .......... .......... 60%  614K 0s
+   150K .......... .......... .......... .......... .......... 81%  598K 0s
+   200K .......... .......... .......... .......... ......    100%  298K=0.6s
+
+2017-02-03 19:01:56 (383 KB/s) - ‘jxu017’ saved [251985/251985]
+
+--2017-02-03 19:01:57--  http://doi.org/10.1093/sp/jxu013
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu013 [following]
+--2017-02-03 19:01:58--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 254728 (249K) [text/html]
+Saving to: ‘jxu013’
+
+     0K .......... .......... .......... .......... .......... 20%  209K 1s
+    50K .......... .......... .......... .......... .......... 40%  589K 0s
+   100K .......... .......... .......... .......... .......... 60%  601K 0s
+   150K .......... .......... .......... .......... .......... 80%  614K 0s
+   200K .......... .......... .......... .......... ........  100%  312K=0.6s
+
+2017-02-03 19:02:03 (385 KB/s) - ‘jxu013’ saved [254728/254728]
+
+--2017-02-03 19:02:04--  http://doi.org/10.1093/sp/jxu014
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu014 [following]
+--2017-02-03 19:02:05--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu014
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 19:02:06 ERROR 400: Bad Request.
+
+--2017-02-03 19:02:07--  http://doi.org/10.1093/sp/jxu015
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu015 [following]
+--2017-02-03 19:02:08--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 249917 (244K) [text/html]
+Saving to: ‘jxu015’
+
+     0K .......... .......... .......... .......... .......... 20%  209K 1s
+    50K .......... .......... .......... .......... .......... 40%  601K 0s
+   100K .......... .......... .......... .......... .......... 61%  605K 0s
+   150K .......... .......... .......... .......... .......... 81%  611K 0s
+   200K .......... .......... .......... .......... ....      100%  541K=0.6s
+
+2017-02-03 19:02:13 (429 KB/s) - ‘jxu015’ saved [249917/249917]
+
+--2017-02-03 19:02:14--  http://doi.org/10.1093/sp/jxu011
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu011 [following]
+--2017-02-03 19:02:16--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 274249 (268K) [text/html]
+Saving to: ‘jxu011’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 37%  600K 1s
+   100K .......... .......... .......... .......... .......... 56%  607K 0s
+   150K .......... .......... .......... .......... .......... 74%  596K 0s
+   200K .......... .......... .......... .......... .......... 93%  313K 0s
+   250K .......... .......                                    100% 7.48M=0.7s
+
+2017-02-03 19:02:21 (411 KB/s) - ‘jxu011’ saved [274249/274249]
+
+--2017-02-03 19:02:22--  http://doi.org/10.1093/sp/jxu009
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu009 [following]
+--2017-02-03 19:02:23--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 254783 (249K) [text/html]
+Saving to: ‘jxu009’
+
+     0K .......... .......... .......... .......... .......... 20%  207K 1s
+    50K .......... .......... .......... .......... .......... 40%  519K 1s
+   100K .......... .......... .......... .......... .......... 60%  644K 0s
+   150K .......... .......... .......... .......... .......... 80%  603K 0s
+   200K .......... .......... .......... .......... ........  100%  308K=0.7s
+
+2017-02-03 19:02:28 (379 KB/s) - ‘jxu009’ saved [254783/254783]
+
+--2017-02-03 19:02:29--  http://doi.org/10.1093/sp/jxu005
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu005 [following]
+--2017-02-03 19:02:30--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 214300 (209K) [text/html]
+Saving to: ‘jxu005’
+
+     0K .......... .......... .......... .......... .......... 23%  309K 1s
+    50K .......... .......... .......... .......... .......... 47%  314K 0s
+   100K .......... .......... .......... .......... .......... 71%  612K 0s
+   150K .......... .......... .......... .......... .......... 95%  559K 0s
+   200K .........                                             100% 97.1M=0.5s
+
+2017-02-03 19:02:34 (425 KB/s) - ‘jxu005’ saved [214300/214300]
+
+--2017-02-03 19:02:35--  http://doi.org/10.1093/sp/jxu004
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu004 [following]
+--2017-02-03 19:02:37--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 264598 (258K) [text/html]
+Saving to: ‘jxu004’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 38%  609K 1s
+   100K .......... .......... .......... .......... .......... 58%  585K 0s
+   150K .......... .......... .......... .......... .......... 77%  611K 0s
+   200K .......... .......... .......... .......... .......... 96%  304K 0s
+   250K ........                                              100% 19.3M=0.7s
+
+2017-02-03 19:02:41 (395 KB/s) - ‘jxu004’ saved [264598/264598]
+
+--2017-02-03 19:02:42--  http://doi.org/10.1093/sp/jxu001
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu001 [following]
+--2017-02-03 19:02:44--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 296749 (290K) [text/html]
+Saving to: ‘jxu001’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 34%  594K 1s
+   100K .......... .......... .......... .......... .......... 51%  610K 0s
+   150K .......... .......... .......... .......... .......... 69%  606K 0s
+   200K .......... .......... .......... .......... .......... 86%  591K 0s
+   250K .......... .......... .......... .........            100%  492K=0.7s
+
+2017-02-03 19:02:48 (444 KB/s) - ‘jxu001’ saved [296749/296749]
+
+--2017-02-03 19:02:49--  http://doi.org/10.1093/sp/jxu002
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu002 [following]
+--2017-02-03 19:02:50--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 19:02:51 ERROR 400: Bad Request.
+
+--2017-02-03 19:02:52--  http://doi.org/10.1093/sp/jxu007
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu007 [following]
+--2017-02-03 19:02:54--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 217097 (212K) [text/html]
+Saving to: ‘jxu007’
+
+     0K .......... .......... .......... .......... .......... 23%  209K 1s
+    50K .......... .......... .......... .......... .......... 47%  609K 0s
+   100K .......... .......... .......... .......... .......... 70%  599K 0s
+   150K .......... .......... .......... .......... .......... 94%  599K 0s
+   200K .......... ..                                         100%  162K=0.6s
+
+2017-02-03 19:02:59 (377 KB/s) - ‘jxu007’ saved [217097/217097]
+
+--2017-02-03 19:03:00--  http://doi.org/10.1093/sp/jxu006
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu006 [following]
+--2017-02-03 19:03:01--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 276846 (270K) [text/html]
+Saving to: ‘jxu006’
+
+     0K .......... .......... .......... .......... .......... 18%  208K 1s
+    50K .......... .......... .......... .......... .......... 36%  591K 1s
+   100K .......... .......... .......... .......... .......... 55%  312K 0s
+   150K .......... .......... .......... .......... .......... 73%  585K 0s
+   200K .......... .......... .......... .......... .......... 92%  606K 0s
+   250K .......... ..........                                 100% 7.31M=0.7s
+
+2017-02-03 19:03:06 (412 KB/s) - ‘jxu006’ saved [276846/276846]
+
+--2017-02-03 19:03:07--  http://doi.org/10.1093/sp/jxu003
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu003 [following]
+--2017-02-03 19:03:09--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 243564 (238K) [text/html]
+Saving to: ‘jxu003’
+
+     0K .......... .......... .......... .......... .......... 21%  309K 1s
+    50K .......... .......... .......... .......... .......... 42%  313K 0s
+   100K .......... .......... .......... .......... .......... 63%  608K 0s
+   150K .......... .......... .......... .......... .......... 84%  572K 0s
+   200K .......... .......... .......... .......              100%  471K=0.6s
+
+2017-02-03 19:03:14 (416 KB/s) - ‘jxu003’ saved [243564/243564]
+
+--2017-02-03 19:03:15--  http://doi.org/10.1093/sp/jxu008
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu008 [following]
+--2017-02-03 19:03:16--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxu008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 284661 (278K) [text/html]
+Saving to: ‘jxu008’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 35%  602K 1s
+   100K .......... .......... .......... .......... .......... 53%  600K 0s
+   150K .......... .......... .......... .......... .......... 71%  597K 0s
+   200K .......... .......... .......... .......... .......... 89%  316K 0s
+   250K .......... .......... .......                         100% 6.07M=0.7s
+
+2017-02-03 19:03:21 (426 KB/s) - ‘jxu008’ saved [284661/284661]
+
+--2017-02-03 19:03:22--  http://doi.org/10.1093/sp/jxt019
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxt019 [following]
+--2017-02-03 19:03:23--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxt019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 311794 (304K) [text/html]
+Saving to: ‘jxt019’
+
+     0K .......... .......... .......... .......... .......... 16%  309K 1s
+    50K .......... .......... .......... .......... .......... 32%  312K 1s
+   100K .......... .......... .......... .......... .......... 49%  541K 0s
+   150K .......... .......... .......... .......... .......... 65%  611K 0s
+   200K .......... .......... .......... .......... .......... 82%  312K 0s
+   250K .......... .......... .......... .......... .......... 98%  611K 0s
+   300K ....                                                  100% 8557G=0.7s
+
+2017-02-03 19:03:30 (412 KB/s) - ‘jxt019’ saved [311794/311794]
+
+--2017-02-03 19:03:31--  http://doi.org/10.1093/sp/jxt020
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxt020 [following]
+--2017-02-03 19:03:32--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxt020
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 215095 (210K) [text/html]
+Saving to: ‘jxt020’
+
+     0K .......... .......... .......... .......... .......... 23%  208K 1s
+    50K .......... .......... .......... .......... .......... 47%  605K 0s
+   100K .......... .......... .......... .......... .......... 71%  590K 0s
+   150K .......... .......... .......... .......... .......... 95%  592K 0s
+   200K ..........                                            100%  138K=0.6s
+
+2017-02-03 19:03:37 (372 KB/s) - ‘jxt020’ saved [215095/215095]
+
+--2017-02-03 19:03:38--  http://doi.org/10.1093/sp/jxt018
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxt018 [following]
+--2017-02-03 19:03:40--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxt018
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 239151 (234K) [text/html]
+Saving to: ‘jxt018’
+
+     0K .......... .......... .......... .......... .......... 21%  210K 1s
+    50K .......... .......... .......... .......... .......... 42%  611K 0s
+   100K .......... .......... .......... .......... .......... 64%  553K 0s
+   150K .......... .......... .......... .......... .......... 85%  606K 0s
+   200K .......... .......... .......... ...                  100%  416K=0.6s
+
+2017-02-03 19:03:45 (407 KB/s) - ‘jxt018’ saved [239151/239151]
+
+--2017-02-03 19:03:46--  http://doi.org/10.1093/sp/jxt017
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxt017 [following]
+--2017-02-03 19:03:47--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxt017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 243298 (238K) [text/html]
+Saving to: ‘jxt017’
+
+     0K .......... .......... .......... .......... .......... 21%  207K 1s
+    50K .......... .......... .......... .......... .......... 42%  603K 0s
+   100K .......... .......... .......... .......... .......... 63%  603K 0s
+   150K .......... .......... .......... .......... .......... 84%  419K 0s
+   200K .......... .......... .......... .......              100%  829K=0.6s
+
+2017-02-03 19:03:53 (415 KB/s) - ‘jxt017’ saved [243298/243298]
+
+--2017-02-03 19:03:54--  http://doi.org/10.1093/sp/jxt015
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxt015 [following]
+--2017-02-03 19:03:55--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxt015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 269390 (263K) [text/html]
+Saving to: ‘jxt015’
+
+     0K .......... .......... .......... .......... .......... 19%  208K 1s
+    50K .......... .......... .......... .......... .......... 38%  594K 1s
+   100K .......... .......... .......... .......... .......... 57%  606K 0s
+   150K .......... .......... .......... .......... .......... 76%  317K 0s
+   200K .......... .......... .......... .......... .......... 95%  563K 0s
+   250K .......... ...                                        100% 13.2M=0.7s
+
+2017-02-03 19:04:01 (402 KB/s) - ‘jxt015’ saved [269390/269390]
+
+--2017-02-03 19:04:02--  http://doi.org/10.1093/sp/jxt016
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxt016 [following]
+--2017-02-03 19:04:03--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxt016
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 317325 (310K) [text/html]
+Saving to: ‘jxt016’
+
+     0K .......... .......... .......... .......... .......... 16%  261K 1s
+    50K .......... .......... .......... .......... .......... 32%  312K 1s
+   100K .......... .......... .......... .......... .......... 48%  603K 0s
+   150K .......... .......... .......... .......... .......... 64%  607K 0s
+   200K .......... .......... .......... .......... .......... 80%  313K 0s
+   250K .......... .......... .......... .......... .......... 96%  600K 0s
+   300K .........                                             100% 34.1M=0.8s
+
+2017-02-03 19:04:09 (407 KB/s) - ‘jxt016’ saved [317325/317325]
+
+--2017-02-03 19:04:10--  http://doi.org/10.1093/sp/jxt014
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxt014 [following]
+--2017-02-03 19:04:11--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxt014
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 210659 (206K) [text/html]
+Saving to: ‘jxt014’
+
+     0K .......... .......... .......... .......... .......... 24%  208K 1s
+    50K .......... .......... .......... .......... .......... 48%  575K 0s
+   100K .......... .......... .......... .......... .......... 72%  609K 0s
+   150K .......... .......... .......... .......... .......... 97%  311K 0s
+   200K .....                                                 100% 17.0M=0.6s
+
+2017-02-03 19:04:17 (361 KB/s) - ‘jxt014’ saved [210659/210659]
+
+--2017-02-03 19:04:18--  http://doi.org/10.1093/sp/jxt013
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxt013 [following]
+--2017-02-03 19:04:19--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxt013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 313361 (306K) [text/html]
+Saving to: ‘jxt013’
+
+     0K .......... .......... .......... .......... .......... 16%  208K 1s
+    50K .......... .......... .......... .......... .......... 32%  597K 1s
+   100K .......... .......... .......... .......... .......... 49%  595K 0s
+   150K .......... .......... .......... .......... .......... 65%  314K 0s
+   200K .......... .......... .......... .......... .......... 81%  578K 0s
+   250K .......... .......... .......... .......... .......... 98%  567K 0s
+   300K ......                                                100% 11476G=0.7s
+
+2017-02-03 19:04:24 (412 KB/s) - ‘jxt013’ saved [313361/313361]
+
+--2017-02-03 19:04:25--  http://doi.org/10.1093/sp/jxt012
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxt012 [following]
+--2017-02-03 19:04:26--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxt012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 218306 (213K) [text/html]
+Saving to: ‘jxt012’
+
+     0K .......... .......... .......... .......... .......... 23%  209K 1s
+    50K .......... .......... .......... .......... .......... 46%  605K 0s
+   100K .......... .......... .......... .......... .......... 70%  615K 0s
+   150K .......... .......... .......... .......... .......... 93%  563K 0s
+   200K .......... ...                                        100%  186K=0.6s
+
+2017-02-03 19:04:36 (379 KB/s) - ‘jxt012’ saved [218306/218306]
+
+--2017-02-03 19:04:37--  http://doi.org/10.1093/sp/jxt007
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxt007 [following]
+--2017-02-03 19:04:38--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxt007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 175265 (171K) [text/html]
+Saving to: ‘jxt007’
+
+     0K .......... .......... .......... .......... .......... 29%  209K 1s
+    50K .......... .......... .......... .......... .......... 58%  606K 0s
+   100K .......... .......... .......... .......... .......... 87%  596K 0s
+   150K .......... .......... .                               100%  133K=0.6s
+
+2017-02-03 19:04:45 (303 KB/s) - ‘jxt007’ saved [175265/175265]
+
+--2017-02-03 19:04:46--  http://doi.org/10.1093/sp/jxt009
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxt009 [following]
+--2017-02-03 19:04:47--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxt009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 300600 (294K) [text/html]
+Saving to: ‘jxt009’
+
+     0K .......... .......... .......... .......... .......... 17%  205K 1s
+    50K .......... .......... .......... .......... .......... 34%  605K 1s
+   100K .......... .......... .......... .......... .......... 51%  611K 0s
+   150K .......... .......... .......... .......... .......... 68%  599K 0s
+   200K .......... .......... .......... .......... .......... 85%  313K 0s
+   250K .......... .......... .......... .......... ...       100%  535K=0.7s
+
+2017-02-03 19:04:54 (401 KB/s) - ‘jxt009’ saved [300600/300600]
+
+--2017-02-03 19:04:55--  http://doi.org/10.1093/sp/jxt011
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxt011 [following]
+--2017-02-03 19:04:56--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxt011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 104050 (102K) [text/html]
+Saving to: ‘jxt011’
+
+     0K .......... .......... .......... .......... .......... 49%  209K 0s
+    50K .......... .......... .......... .......... .......... 98%  595K 0s
+   100K .                                                     100% 7.09M=0.3s
+
+2017-02-03 19:05:00 (314 KB/s) - ‘jxt011’ saved [104050/104050]
+
+--2017-02-03 19:05:01--  http://doi.org/10.1093/sp/jxt010
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxt010 [following]
+--2017-02-03 19:05:02--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxt010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 233632 (228K) [text/html]
+Saving to: ‘jxt010’
+
+     0K .......... .......... .......... .......... .......... 21%  209K 1s
+    50K .......... .......... .......... .......... .......... 43%  604K 0s
+   100K .......... .......... .......... .......... .......... 65%  587K 0s
+   150K .......... .......... .......... .......... .......... 87%  316K 0s
+   200K .......... .......... ........                        100% 6.68M=0.6s
+
+2017-02-03 19:05:07 (401 KB/s) - ‘jxt010’ saved [233632/233632]
+
+--2017-02-03 19:05:08--  http://doi.org/10.1093/sp/jxt006
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxt006 [following]
+--2017-02-03 19:05:09--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxt006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 19:05:10 ERROR 400: Bad Request.
+
+--2017-02-03 19:05:11--  http://doi.org/10.1093/sp/jxt005
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxt005 [following]
+--2017-02-03 19:05:12--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxt005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 277968 (271K) [text/html]
+Saving to: ‘jxt005’
+
+     0K .......... .......... .......... .......... .......... 18%  207K 1s
+    50K .......... .......... .......... .......... .......... 36%  553K 1s
+   100K .......... .......... .......... .......... .......... 55%  612K 0s
+   150K .......... .......... .......... .......... .......... 73%  417K 0s
+   200K .......... .......... .......... .......... .......... 92%  405K 0s
+   250K .......... .......... .                               100% 12.6M=0.7s
+
+2017-02-03 19:05:17 (412 KB/s) - ‘jxt005’ saved [277968/277968]
+
+--2017-02-03 19:05:18--  http://doi.org/10.1093/sp/jxt008
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxt008 [following]
+--2017-02-03 19:05:19--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxt008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 19:05:20 ERROR 400: Bad Request.
+
+--2017-02-03 19:05:21--  http://doi.org/10.1093/sp/jxt003
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxt003 [following]
+--2017-02-03 19:05:22--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxt003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 230556 (225K) [text/html]
+Saving to: ‘jxt003’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 44%  591K 0s
+   100K .......... .......... .......... .......... .......... 66%  586K 0s
+   150K .......... .......... .......... .......... .......... 88%  608K 0s
+   200K .......... .......... .....                           100%  325K=0.6s
+
+2017-02-03 19:05:30 (396 KB/s) - ‘jxt003’ saved [230556/230556]
+
+--2017-02-03 19:05:31--  http://doi.org/10.1093/sp/jxs024
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxs024 [following]
+--2017-02-03 19:05:32--  https://academic.oup.com/sp/article-lookup/doi/10.1093/sp/jxs024
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 244989 (239K) [text/html]
+Saving to: ‘jxs024’
+
+     0K .......... .......... .......... .......... .......... 20%  208K 1s
+    50K .......... .......... .......... .......... .......... 41%  612K 0s
+   100K .......... .......... .......... .......... .......... 62%  596K 0s
+   150K .......... .......... .......... .......... .......... 83%  598K 0s
+   200K .......... .......... .......... .........            100%  483K=0.6s
+
+2017-02-03 19:05:39 (419 KB/s) - ‘jxs024’ saved [244989/244989]
+
+FINISHED --2017-02-03 19:05:39--
+Total wall clock time: 12m 55s
+Downloaded: 85 files, 19M in 49s (398 KB/s)

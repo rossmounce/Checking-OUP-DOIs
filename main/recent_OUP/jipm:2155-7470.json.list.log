@@ -1,0 +1,1706 @@
+--2017-02-03 15:35:48--  http://doi.org/10.1093/jipm/pmx001
+Resolving doi.org (doi.org)... 95.138.171.129, 38.100.138.162, 54.191.229.235, ...
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 15:35:49--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Resolving fdslive.oup.com (fdslive.oup.com)... 193.67.160.201
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘pmx001’
+
+     0K .......... .......... .......... .......... .......... 97% 1.16M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 15:35:49 (1.19 MB/s) - ‘pmx001’ saved [52438/52438]
+
+--2017-02-03 15:35:50--  http://doi.org/10.1093/jipm/pmw015
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jipm.oxfordjournals.org/lookup/doi/10.1093/jipm/pmw015 [following]
+--2017-02-03 15:35:52--  http://jipm.oxfordjournals.org/lookup/doi/10.1093/jipm/pmw015
+Resolving jipm.oxfordjournals.org (jipm.oxfordjournals.org)... 209.135.222.209
+Connecting to jipm.oxfordjournals.org (jipm.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jipm.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jipm/article/doi/10.1093/jipm/pmw015/2656184/A-Troubleshooting-Guide-for-Mechanistic-Plant-Pest [following]
+--2017-02-03 15:35:53--  https://academic.oup.com/jipm/article/doi/10.1093/jipm/pmw015/2656184/A-Troubleshooting-Guide-for-Mechanistic-Plant-Pest
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 15:35:54 ERROR 400: Bad Request.
+
+--2017-02-03 15:35:55--  http://doi.org/10.1093/jipm/pmw016
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jipm.oxfordjournals.org/lookup/doi/10.1093/jipm/pmw016 [following]
+--2017-02-03 15:35:56--  http://jipm.oxfordjournals.org/lookup/doi/10.1093/jipm/pmw016
+Connecting to jipm.oxfordjournals.org (jipm.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jipm.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jipm/article/doi/10.1093/jipm/pmw016/2654796/Reviewers-for-Journal-of-Integrated-Pest [following]
+--2017-02-03 15:35:57--  https://academic.oup.com/jipm/article/doi/10.1093/jipm/pmw016/2654796/Reviewers-for-Journal-of-Integrated-Pest
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66036 (64K) [text/html]
+Saving to: ‘pmw016’
+
+     0K .......... .......... .......... .......... .......... 77%  209K 0s
+    50K .......... ....                                       100% 18.3M=0.2s
+
+2017-02-03 15:36:11 (268 KB/s) - ‘pmw016’ saved [66036/66036]
+
+--2017-02-03 15:36:12--  http://doi.org/10.1093/jipm/pmw013
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmw013 [following]
+--2017-02-03 15:36:13--  https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmw013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 232305 (227K) [text/html]
+Saving to: ‘pmw013’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 44%  601K 0s
+   100K .......... .......... .......... .......... .......... 66%  594K 0s
+   150K .......... .......... .......... .......... .......... 88%  603K 0s
+   200K .......... .......... ......                          100%  337K=0.6s
+
+2017-02-03 15:36:28 (398 KB/s) - ‘pmw013’ saved [232305/232305]
+
+--2017-02-03 15:36:29--  http://doi.org/10.1093/jipm/pmw003
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmw003 [following]
+--2017-02-03 15:36:30--  https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmw003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 333399 (326K) [text/html]
+Saving to: ‘pmw003’
+
+     0K .......... .......... .......... .......... .......... 15%  208K 1s
+    50K .......... .......... .......... .......... .......... 30%  602K 1s
+   100K .......... .......... .......... .......... .......... 46%  610K 0s
+   150K .......... .......... .......... .......... .......... 61%  422K 0s
+   200K .......... .......... .......... .......... .......... 76%  395K 0s
+   250K .......... .......... .......... .......... .......... 92%  610K 0s
+   300K .......... .......... .....                           100%  322K=0.8s
+
+2017-02-03 15:36:51 (401 KB/s) - ‘pmw003’ saved [333399/333399]
+
+--2017-02-03 15:36:52--  http://doi.org/10.1093/jipm/pmw002
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmw002 [following]
+--2017-02-03 15:36:53--  https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmw002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 463523 (453K) [text/html]
+Saving to: ‘pmw002’
+
+     0K .......... .......... .......... .......... .......... 11%  209K 2s
+    50K .......... .......... .......... .......... .......... 22%  604K 1s
+   100K .......... .......... .......... .......... .......... 33%  611K 1s
+   150K .......... .......... .......... .......... .......... 44%  418K 1s
+   200K .......... .......... .......... .......... .......... 55%  401K 1s
+   250K .......... .......... .......... .......... .......... 66%  602K 0s
+   300K .......... .......... .......... .......... .......... 77%  429K 0s
+   350K .......... .......... .......... .......... .......... 88%  396K 0s
+   400K .......... .......... .......... .......... .......... 99%  608K 0s
+   450K ..                                                    100% 5072G=1.1s
+
+2017-02-03 15:37:10 (428 KB/s) - ‘pmw002’ saved [463523/463523]
+
+--2017-02-03 15:37:11--  http://doi.org/10.1093/jipm/pmw001
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmw001 [following]
+--2017-02-03 15:37:12--  https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmw001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 15:37:12 ERROR 400: Bad Request.
+
+--2017-02-03 15:37:13--  http://doi.org/10.1093/jipm/pmw006
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmw006 [following]
+--2017-02-03 15:37:14--  https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmw006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 414675 (405K) [text/html]
+Saving to: ‘pmw006’
+
+     0K .......... .......... .......... .......... .......... 12%  209K 2s
+    50K .......... .......... .......... .......... .......... 24%  594K 1s
+   100K .......... .......... .......... .......... .......... 37%  612K 1s
+   150K .......... .......... .......... .......... .......... 49%  603K 1s
+   200K .......... .......... .......... .......... .......... 61%  314K 0s
+   250K .......... .......... .......... .......... .......... 74%  603K 0s
+   300K .......... .......... .......... .......... .......... 86%  594K 0s
+   350K .......... .......... .......... .......... .......... 98%  604K 0s
+   400K ....                                                  100% 64.1K=1.0s
+
+2017-02-03 15:37:24 (415 KB/s) - ‘pmw006’ saved [414675/414675]
+
+--2017-02-03 15:37:25--  http://doi.org/10.1093/jipm/pmv023
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmv023 [following]
+--2017-02-03 15:37:26--  https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmv023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 406580 (397K) [text/html]
+Saving to: ‘pmv023’
+
+     0K .......... .......... .......... .......... .......... 12%  209K 2s
+    50K .......... .......... .......... .......... .......... 25%  612K 1s
+   100K .......... .......... .......... .......... .......... 37%  599K 1s
+   150K .......... .......... .......... .......... .......... 50%  602K 0s
+   200K .......... .......... .......... .......... .......... 62%  316K 0s
+   250K .......... .......... .......... .......... .......... 75%  603K 0s
+   300K .......... .......... .......... .......... .......... 88%  591K 0s
+   350K .......... .......... .......... .......... .......   100%  562K=0.9s
+
+2017-02-03 15:37:35 (443 KB/s) - ‘pmv023’ saved [406580/406580]
+
+--2017-02-03 15:37:36--  http://doi.org/10.1093/jipm/pmw008
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmw008 [following]
+--2017-02-03 15:37:37--  https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmw008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 262565 (256K) [text/html]
+Saving to: ‘pmw008’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 38%  572K 1s
+   100K .......... .......... .......... .......... .......... 58%  606K 0s
+   150K .......... .......... .......... .......... .......... 77%  439K 0s
+   200K .......... .......... .......... .......... .......... 97%  409K 0s
+   250K ......                                                100% 20.3M=0.6s
+
+2017-02-03 15:37:47 (397 KB/s) - ‘pmw008’ saved [262565/262565]
+
+--2017-02-03 15:37:48--  http://doi.org/10.1093/jipm/pmw010
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmw010 [following]
+--2017-02-03 15:37:49--  https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmw010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 228977 (224K) [text/html]
+Saving to: ‘pmw010’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 44%  614K 0s
+   100K .......... .......... .......... .......... .......... 67%  594K 0s
+   150K .......... .......... .......... .......... .......... 89%  590K 0s
+   200K .......... .......... ...                             100%  300K=0.6s
+
+2017-02-03 15:37:56 (393 KB/s) - ‘pmw010’ saved [228977/228977]
+
+--2017-02-03 15:37:57--  http://doi.org/10.1093/jipm/pmw007
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmw007 [following]
+--2017-02-03 15:37:58--  https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmw007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 202878 (198K) [text/html]
+Saving to: ‘pmw007’
+
+     0K .......... .......... .......... .......... .......... 25%  208K 1s
+    50K .......... .......... .......... .......... .......... 50%  598K 0s
+   100K .......... .......... .......... .......... .......... 75%  608K 0s
+   150K .......... .......... .......... .......... ........  100%  570K=0.5s
+
+2017-02-03 15:38:09 (404 KB/s) - ‘pmw007’ saved [202878/202878]
+
+--2017-02-03 15:38:10--  http://doi.org/10.1093/jipm/pmw004
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmw004 [following]
+--2017-02-03 15:38:11--  https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmw004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 374409 (366K) [text/html]
+Saving to: ‘pmw004’
+
+     0K .......... .......... .......... .......... .......... 13%  209K 2s
+    50K .......... .......... .......... .......... .......... 27%  604K 1s
+   100K .......... .......... .......... .......... .......... 41%  611K 1s
+   150K .......... .......... .......... .......... .......... 54%  589K 0s
+   200K .......... .......... .......... .......... .......... 68%  319K 0s
+   250K .......... .......... .......... .......... .......... 82%  602K 0s
+   300K .......... .......... .......... .......... .......... 95%  594K 0s
+   350K .......... .....                                      100%  210K=0.9s
+
+2017-02-03 15:38:23 (412 KB/s) - ‘pmw004’ saved [374409/374409]
+
+--2017-02-03 15:38:24--  http://doi.org/10.1093/jipm/pmw011
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmw011 [following]
+--2017-02-03 15:38:25--  https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmw011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 296515 (290K) [text/html]
+Saving to: ‘pmw011’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 34%  607K 1s
+   100K .......... .......... .......... .......... .......... 51%  608K 0s
+   150K .......... .......... .......... .......... .......... 69%  315K 0s
+   200K .......... .......... .......... .......... .......... 86%  334K 0s
+   250K .......... .......... .......... .........            100%  492K=0.8s
+
+2017-02-03 15:38:38 (365 KB/s) - ‘pmw011’ saved [296515/296515]
+
+--2017-02-03 15:38:39--  http://doi.org/10.1093/jipm/pmw012
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmw012 [following]
+--2017-02-03 15:38:40--  https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmw012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 15:38:41 ERROR 400: Bad Request.
+
+--2017-02-03 15:38:42--  http://doi.org/10.1093/jipm/pmv024
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmv024 [following]
+--2017-02-03 15:38:43--  https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmv024
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 355478 (347K) [text/html]
+Saving to: ‘pmv024’
+
+     0K .......... .......... .......... .......... .......... 14%  209K 1s
+    50K .......... .......... .......... .......... .......... 28%  615K 1s
+   100K .......... .......... .......... .......... .......... 43%  597K 1s
+   150K .......... .......... .......... .......... .......... 57%  316K 0s
+   200K .......... .......... .......... .......... .......... 72%  604K 0s
+   250K .......... .......... .......... .......... .......... 86%  592K 0s
+   300K .......... .......... .......... .......... .......   100%  563K=0.8s
+
+2017-02-03 15:38:56 (427 KB/s) - ‘pmv024’ saved [355478/355478]
+
+--2017-02-03 15:38:57--  http://doi.org/10.1093/jipm/pmw017
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 15:38:58--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘pmw017’
+
+     0K .......... .......... .......... .......... .......... 97% 1.26M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 15:38:59 (1.29 MB/s) - ‘pmw017’ saved [52438/52438]
+
+--2017-02-03 15:39:00--  http://doi.org/10.1093/jipm/pmw019
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 15:39:01--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘pmw019’
+
+     0K .......... .......... .......... .......... .......... 97% 1008K 0s
+    50K .                                                     100% 2306G=0.05s
+
+2017-02-03 15:39:01 (1.01 MB/s) - ‘pmw019’ saved [52438/52438]
+
+--2017-02-03 15:39:02--  http://doi.org/10.1093/jipm/pmw020
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 15:39:03--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘pmw020’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 15:39:03 (1.33 MB/s) - ‘pmw020’ saved [52438/52438]
+
+--2017-02-03 15:39:04--  http://doi.org/10.1093/jipm/pmw018
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 15:39:05--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘pmw018’
+
+     0K .......... .......... .......... .......... .......... 97% 1.16M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 15:39:05 (1.19 MB/s) - ‘pmw018’ saved [52438/52438]
+
+--2017-02-03 15:39:06--  http://doi.org/10.1093/jipm/pmw009
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmw009 [following]
+--2017-02-03 15:39:07--  https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmw009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 15:39:08 ERROR 400: Bad Request.
+
+--2017-02-03 15:39:09--  http://doi.org/10.1093/jipm/pmv022
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article/doi/10.1093/jipm/pmv022/2936990/How-Does-Pepper-Weevil-Coleoptera-Curculionidae [following]
+--2017-02-03 15:39:10--  https://academic.oup.com/jipm/article/doi/10.1093/jipm/pmv022/2936990/How-Does-Pepper-Weevil-Coleoptera-Curculionidae
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 15:39:11 ERROR 400: Bad Request.
+
+--2017-02-03 15:39:12--  http://doi.org/10.1093/jipm/pmv018
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmv018 [following]
+--2017-02-03 15:39:13--  https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmv018
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 550271 (537K) [text/html]
+Saving to: ‘pmv018’
+
+     0K .......... .......... .......... .......... ..........  9%  209K 2s
+    50K .......... .......... .......... .......... .......... 18%  605K 1s
+   100K .......... .......... .......... .......... .......... 27%  610K 1s
+   150K .......... .......... .......... .......... .......... 37%  420K 1s
+   200K .......... .......... .......... .......... .......... 46%  404K 1s
+   250K .......... .......... .......... .......... .......... 55%  594K 1s
+   300K .......... .......... .......... .......... .......... 65%  609K 0s
+   350K .......... .......... .......... .......... .......... 74%  316K 0s
+   400K .......... .......... .......... .......... .......... 83%  584K 0s
+   450K .......... .......... .......... .......... .......... 93%  593K 0s
+   500K .......... .......... .......... .......              100%  459K=1.2s
+
+2017-02-03 15:39:26 (439 KB/s) - ‘pmv018’ saved [550271/550271]
+
+--2017-02-03 15:39:27--  http://doi.org/10.1093/jipm/pmv017
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmv017 [following]
+--2017-02-03 15:39:28--  https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmv017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 15:39:29 ERROR 400: Bad Request.
+
+--2017-02-03 15:39:30--  http://doi.org/10.1093/jipm/pmv010
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmv010 [following]
+--2017-02-03 15:39:31--  https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmv010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 15:39:32 ERROR 400: Bad Request.
+
+--2017-02-03 15:39:33--  http://doi.org/10.1093/jipm/pmv009
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmv009 [following]
+--2017-02-03 15:39:35--  https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmv009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 15:39:36 ERROR 400: Bad Request.
+
+--2017-02-03 15:39:37--  http://doi.org/10.1093/jipm/pmv005
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmv005 [following]
+--2017-02-03 15:39:38--  https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmv005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66536 (65K) [text/html]
+Saving to: ‘pmv005’
+
+     0K .......... .......... .......... .......... .......... 76%  208K 0s
+    50K .......... ....                                       100% 15.3M=0.2s
+
+2017-02-03 15:39:50 (269 KB/s) - ‘pmv005’ saved [66536/66536]
+
+--2017-02-03 15:39:51--  http://doi.org/10.1093/jipm/pmv008
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmv008 [following]
+--2017-02-03 15:39:52--  https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmv008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 440738 (430K) [text/html]
+Saving to: ‘pmv008’
+
+     0K .......... .......... .......... .......... .......... 11%  209K 2s
+    50K .......... .......... .......... .......... .......... 23%  604K 1s
+   100K .......... .......... .......... .......... .......... 34%  585K 1s
+   150K .......... .......... .......... .......... .......... 46%  600K 1s
+   200K .......... .......... .......... .......... .......... 58%  312K 0s
+   250K .......... .......... .......... .......... .......... 69%  596K 0s
+   300K .......... .......... .......... .......... .......... 81%  613K 0s
+   350K .......... .......... .......... .......... .......... 92%  603K 0s
+   400K .......... .......... ..........                      100%  378K=1.0s
+
+2017-02-03 15:40:05 (439 KB/s) - ‘pmv008’ saved [440738/440738]
+
+--2017-02-03 15:40:06--  http://doi.org/10.1093/jipm/pmv007
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmv007 [following]
+--2017-02-03 15:40:07--  https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmv007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 279531 (273K) [text/html]
+Saving to: ‘pmv007’
+
+     0K .......... .......... .......... .......... .......... 18%  208K 1s
+    50K .......... .......... .......... .......... .......... 36%  601K 1s
+   100K .......... .......... .......... .......... .......... 54%  602K 0s
+   150K .......... .......... .......... .......... .......... 73%  422K 0s
+   200K .......... .......... .......... .......... .......... 91%  386K 0s
+   250K .......... .......... ..                              100% 13.8M=0.7s
+
+2017-02-03 15:40:22 (416 KB/s) - ‘pmv007’ saved [279531/279531]
+
+--2017-02-03 15:40:23--  http://doi.org/10.1093/jipm/pmv006
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmv006 [following]
+--2017-02-03 15:40:25--  https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmv006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 418679 (409K) [text/html]
+Saving to: ‘pmv006’
+
+     0K .......... .......... .......... .......... .......... 12%  209K 2s
+    50K .......... .......... .......... .......... .......... 24%  595K 1s
+   100K .......... .......... .......... .......... .......... 36%  608K 1s
+   150K .......... .......... .......... .......... .......... 48%  576K 1s
+   200K .......... .......... .......... .......... .......... 61%  599K 0s
+   250K .......... .......... .......... .......... .......... 73%  316K 0s
+   300K .......... .......... .......... .......... .......... 85%  607K 0s
+   350K .......... .......... .......... .......... .......... 97%  579K 0s
+   400K ........                                              100% 35.2M=0.9s
+
+2017-02-03 15:40:37 (453 KB/s) - ‘pmv006’ saved [418679/418679]
+
+--2017-02-03 15:40:38--  http://doi.org/10.1093/jipm/pmv004
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmv004 [following]
+--2017-02-03 15:40:39--  https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmv004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 369992 (361K) [text/html]
+Saving to: ‘pmv004’
+
+     0K .......... .......... .......... .......... .......... 13%  209K 1s
+    50K .......... .......... .......... .......... .......... 27%  597K 1s
+   100K .......... .......... .......... .......... .......... 41%  610K 1s
+   150K .......... .......... .......... .......... .......... 55%  593K 0s
+   200K .......... .......... .......... .......... .......... 69%  312K 0s
+   250K .......... .......... .......... .......... .......... 83%  600K 0s
+   300K .......... .......... .......... .......... .......... 96%  611K 0s
+   350K .......... .                                          100% 8.11M=0.8s
+
+2017-02-03 15:40:49 (443 KB/s) - ‘pmv004’ saved [369992/369992]
+
+--2017-02-03 15:40:50--  http://doi.org/10.1093/jipm/pmv003
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmv003 [following]
+--2017-02-03 15:40:51--  https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmv003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 15:40:52 ERROR 400: Bad Request.
+
+--2017-02-03 15:40:53--  http://doi.org/10.1093/jipm/pmv001
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmv001 [following]
+--2017-02-03 15:40:54--  https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmv001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 172384 (168K) [text/html]
+Saving to: ‘pmv001’
+
+     0K .......... .......... .......... .......... .......... 29%  209K 1s
+    50K .......... .......... .......... .......... .......... 59%  610K 0s
+   100K .......... .......... .......... .......... .......... 89%  583K 0s
+   150K .......... ........                                   100%  499K=0.4s
+
+2017-02-03 15:41:04 (379 KB/s) - ‘pmv001’ saved [172384/172384]
+
+--2017-02-03 15:41:05--  http://doi.org/10.1093/jipm/pmu001
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmu001 [following]
+--2017-02-03 15:41:06--  https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmu001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72756 (71K) [text/html]
+Saving to: ‘pmu001’
+
+     0K .......... .......... .......... .......... .......... 70%  209K 0s
+    50K .......... .......... .                               100% 8.53M=0.2s
+
+2017-02-03 15:41:13 (294 KB/s) - ‘pmu001’ saved [72756/72756]
+
+--2017-02-03 15:41:14--  http://doi.org/10.1093/jipm/pmv002
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmv002 [following]
+--2017-02-03 15:41:15--  https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmv002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 207526 (203K) [text/html]
+Saving to: ‘pmv002’
+
+     0K .......... .......... .......... .......... .......... 24%  209K 1s
+    50K .......... .......... .......... .......... .......... 49%  610K 0s
+   100K .......... .......... .......... .......... .......... 74%  593K 0s
+   150K .......... .......... .......... .......... .......... 98%  607K 0s
+   200K ..                                                    100% 5078G=0.5s
+
+2017-02-03 15:41:24 (415 KB/s) - ‘pmv002’ saved [207526/207526]
+
+--2017-02-03 15:41:25--  http://doi.org/10.1093/jipm/pmv021
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmv021 [following]
+--2017-02-03 15:41:26--  https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmv021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 232664 (227K) [text/html]
+Saving to: ‘pmv021’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 44%  574K 0s
+   100K .......... .......... .......... .......... .......... 66%  604K 0s
+   150K .......... .......... .......... .......... .......... 88%  613K 0s
+   200K .......... .......... .......                         100%  343K=0.6s
+
+2017-02-03 15:41:36 (399 KB/s) - ‘pmv021’ saved [232664/232664]
+
+--2017-02-03 15:41:37--  http://doi.org/10.1093/jipm/pmv016
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmv016 [following]
+--2017-02-03 15:41:38--  https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmv016
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1006523 (983K) [text/html]
+Saving to: ‘pmv016’
+
+     0K .......... .......... .......... .......... ..........  5%  206K 5s
+    50K .......... .......... .......... .......... .......... 10%  597K 3s
+   100K .......... .......... .......... .......... .......... 15%  598K 2s
+   150K .......... .......... .......... .......... .......... 20%  604K 2s
+   200K .......... .......... .......... .......... .......... 25%  311K 2s
+   250K .......... .......... .......... .......... .......... 30%  589K 2s
+   300K .......... .......... .......... .......... .......... 35%  597K 1s
+   350K .......... .......... .......... .......... .......... 40%  600K 1s
+   400K .......... .......... .......... .......... .......... 45%  311K 1s
+   450K .......... .......... .......... .......... .......... 50%  596K 1s
+   500K .......... .......... .......... .......... .......... 55%  600K 1s
+   550K .......... .......... .......... .......... .......... 61%  584K 1s
+   600K .......... .......... .......... .......... .......... 66%  318K 1s
+   650K .......... .......... .......... .......... .......... 71%  584K 1s
+   700K .......... .......... .......... .......... .......... 76%  601K 1s
+   750K .......... .......... .......... .......... .......... 81%  565K 0s
+   800K .......... .......... .......... .......... .......... 86%  307K 0s
+   850K .......... .......... .......... .......... .......... 91%  604K 0s
+   900K .......... .......... .......... .......... .......... 96%  591K 0s
+   950K .......... .......... .......... ..                   100%  416K=2.1s
+
+2017-02-03 15:41:49 (459 KB/s) - ‘pmv016’ saved [1006523/1006523]
+
+--2017-02-03 15:41:50--  http://doi.org/10.1093/jipm/pmv013
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmv013 [following]
+--2017-02-03 15:41:52--  https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmv013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 211755 (207K) [text/html]
+Saving to: ‘pmv013’
+
+     0K .......... .......... .......... .......... .......... 24%  209K 1s
+    50K .......... .......... .......... .......... .......... 48%  598K 0s
+   100K .......... .......... .......... .......... .......... 72%  608K 0s
+   150K .......... .......... .......... .......... .......... 96%  594K 0s
+   200K ......                                                100% 25.7M=0.5s
+
+2017-02-03 15:41:59 (422 KB/s) - ‘pmv013’ saved [211755/211755]
+
+--2017-02-03 15:42:00--  http://doi.org/10.1093/jipm/pmv015
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmv015 [following]
+--2017-02-03 15:42:01--  https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmv015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 446437 (436K) [text/html]
+Saving to: ‘pmv015’
+
+     0K .......... .......... .......... .......... .......... 11%  209K 2s
+    50K .......... .......... .......... .......... .......... 22%  608K 1s
+   100K .......... .......... .......... .......... .......... 34%  595K 1s
+   150K .......... .......... .......... .......... .......... 45%  604K 1s
+   200K .......... .......... .......... .......... .......... 57%  296K 0s
+   250K .......... .......... .......... .......... .......... 68%  238K 0s
+   300K .......... .......... .......... .......... .......... 80%  394K 0s
+   350K .......... .......... .......... .......... .......... 91%  395K 0s
+   400K .......... .......... .......... .....                100%  834K=1.2s
+
+2017-02-03 15:42:11 (374 KB/s) - ‘pmv015’ saved [446437/446437]
+
+--2017-02-03 15:42:12--  http://doi.org/10.1093/jipm/pmv011
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmv011 [following]
+--2017-02-03 15:42:13--  https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmv011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 194504 (190K) [text/html]
+Saving to: ‘pmv011’
+
+     0K .......... .......... .......... .......... .......... 26%  209K 1s
+    50K .......... .......... .......... .......... .......... 52%  610K 0s
+   100K .......... .......... .......... .......... .......... 78%  601K 0s
+   150K .......... .......... .......... .........            100%  496K=0.5s
+
+2017-02-03 15:42:21 (392 KB/s) - ‘pmv011’ saved [194504/194504]
+
+--2017-02-03 15:42:22--  http://doi.org/10.1093/jipm/pmv012
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmv012 [following]
+--2017-02-03 15:42:23--  https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmv012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 241921 (236K) [text/html]
+Saving to: ‘pmv012’
+
+     0K .......... .......... .......... .......... .......... 21%  208K 1s
+    50K .......... .......... .......... .......... .......... 42%  596K 0s
+   100K .......... .......... .......... .......... .......... 63%  608K 0s
+   150K .......... .......... .......... .......... .......... 84%  598K 0s
+   200K .......... .......... .......... ......               100%  449K=0.6s
+
+2017-02-03 15:43:04 (414 KB/s) - ‘pmv012’ saved [241921/241921]
+
+--2017-02-03 15:43:05--  http://doi.org/10.1093/jipm/pmv019
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmv019 [following]
+--2017-02-03 15:43:06--  https://academic.oup.com/jipm/article-lookup/doi/10.1093/jipm/pmv019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65713 (64K) [text/html]
+Saving to: ‘pmv019’
+
+     0K .......... .......... .......... .......... .......... 77%  308K 0s
+    50K .......... ....                                       100%  180K=0.2s
+
+2017-02-03 15:43:20 (266 KB/s) - ‘pmv019’ saved [65713/65713]
+
+--2017-02-03 15:43:21--  http://doi.org/10.1603/ipm14006
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM14006 [following]
+--2017-02-03 15:43:22--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM14006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 15:43:24 ERROR 400: Bad Request.
+
+--2017-02-03 15:43:25--  http://doi.org/10.1603/ipm14008
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM14008 [following]
+--2017-02-03 15:43:26--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM14008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 210139 (205K) [text/html]
+Saving to: ‘ipm14008’
+
+     0K .......... .......... .......... .......... .......... 24%  208K 1s
+    50K .......... .......... .......... .......... .......... 48%  595K 0s
+   100K .......... .......... .......... .......... .......... 73%  597K 0s
+   150K .......... .......... .......... .......... .......... 97%  599K 0s
+   200K .....                                                 100% 31.6M=0.5s
+
+2017-02-03 15:43:40 (418 KB/s) - ‘ipm14008’ saved [210139/210139]
+
+--2017-02-03 15:43:41--  http://doi.org/10.1603/ipm14009
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM14009 [following]
+--2017-02-03 15:43:42--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM14009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 15:43:44 ERROR 400: Bad Request.
+
+--2017-02-03 15:43:45--  http://doi.org/10.1603/ipm14014
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM14014 [following]
+--2017-02-03 15:43:46--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM14014
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 232707 (227K) [text/html]
+Saving to: ‘ipm14014’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 44%  605K 0s
+   100K .......... .......... .......... .......... .......... 66%  573K 0s
+   150K .......... .......... .......... .......... .......... 88%  593K 0s
+   200K .......... .......... .......                         100%  351K=0.6s
+
+2017-02-03 15:44:01 (398 KB/s) - ‘ipm14014’ saved [232707/232707]
+
+--2017-02-03 15:44:02--  http://doi.org/10.1603/ipm14011
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM14011 [following]
+--2017-02-03 15:44:03--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM14011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 587751 (574K) [text/html]
+Saving to: ‘ipm14011’
+
+     0K .......... .......... .......... .......... ..........  8%  210K 3s
+    50K .......... .......... .......... .......... .......... 17%  611K 2s
+   100K .......... .......... .......... .......... .......... 26%  604K 1s
+   150K .......... .......... .......... .......... .......... 34%  316K 1s
+   200K .......... .......... .......... .......... .......... 43%  592K 1s
+   250K .......... .......... .......... .......... .......... 52%  604K 1s
+   300K .......... .......... .......... .......... .......... 60%  604K 1s
+   350K .......... .......... .......... .......... .......... 69%  304K 0s
+   400K .......... .......... .......... .......... .......... 78%  605K 0s
+   450K .......... .......... .......... .......... .......... 87%  602K 0s
+   500K .......... .......... .......... .......... .......... 95%  609K 0s
+   550K .......... .......... ...                             100%  301K=1.3s
+
+2017-02-03 15:44:18 (440 KB/s) - ‘ipm14011’ saved [587751/587751]
+
+--2017-02-03 15:44:19--  http://doi.org/10.1603/ipm14004
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM14004 [following]
+--2017-02-03 15:44:20--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM14004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 236774 (231K) [text/html]
+Saving to: ‘ipm14004’
+
+     0K .......... .......... .......... .......... .......... 21%  208K 1s
+    50K .......... .......... .......... .......... .......... 43%  595K 0s
+   100K .......... .......... .......... .......... .......... 64%  597K 0s
+   150K .......... .......... .......... .......... .......... 86%  600K 0s
+   200K .......... .......... .......... .                    100%  382K=0.6s
+
+2017-02-03 15:44:37 (404 KB/s) - ‘ipm14004’ saved [236774/236774]
+
+--2017-02-03 15:44:38--  http://doi.org/10.1603/ipm14003
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM14003 [following]
+--2017-02-03 15:44:39--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM14003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 198998 (194K) [text/html]
+Saving to: ‘ipm14003’
+
+     0K .......... .......... .......... .......... .......... 25%  205K 1s
+    50K .......... .......... .......... .......... .......... 51%  609K 0s
+   100K .......... .......... .......... .......... .......... 77%  593K 0s
+   150K .......... .......... .......... .......... ....      100%  517K=0.5s
+
+2017-02-03 15:44:56 (392 KB/s) - ‘ipm14003’ saved [198998/198998]
+
+--2017-02-03 15:44:57--  http://doi.org/10.1603/ipm13018
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM13018 [following]
+--2017-02-03 15:44:58--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM13018
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 423539 (414K) [text/html]
+Saving to: ‘ipm13018’
+
+     0K .......... .......... .......... .......... .......... 12%  209K 2s
+    50K .......... .......... .......... .......... .......... 24%  606K 1s
+   100K .......... .......... .......... .......... .......... 36%  575K 1s
+   150K .......... .......... .......... .......... .......... 48%  613K 1s
+   200K .......... .......... .......... .......... .......... 60%  322K 0s
+   250K .......... .......... .......... .......... .......... 72%  581K 0s
+   300K .......... .......... .......... .......... .......... 84%  595K 0s
+   350K .......... .......... .......... .......... .......... 96%  323K 0s
+   400K .......... ...                                        100% 2.34M=1.0s
+
+2017-02-03 15:45:18 (424 KB/s) - ‘ipm13018’ saved [423539/423539]
+
+--2017-02-03 15:45:19--  http://doi.org/10.1603/ipm14002
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM14002 [following]
+--2017-02-03 15:45:20--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM14002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 485598 (474K) [text/html]
+Saving to: ‘ipm14002’
+
+     0K .......... .......... .......... .......... .......... 10%  209K 2s
+    50K .......... .......... .......... .......... .......... 21%  610K 1s
+   100K .......... .......... .......... .......... .......... 31%  612K 1s
+   150K .......... .......... .......... .......... .......... 42%  589K 1s
+   200K .......... .......... .......... .......... .......... 52%  310K 1s
+   250K .......... .......... .......... .......... .......... 63%  449K 0s
+   300K .......... .......... .......... .......... .......... 73%  603K 0s
+   350K .......... .......... .......... .......... .......... 84%  600K 0s
+   400K .......... .......... .......... .......... .......... 94%  270K 0s
+   450K .......... .......... ....                            100% 15.2M=1.1s
+
+2017-02-03 15:45:36 (426 KB/s) - ‘ipm14002’ saved [485598/485598]
+
+--2017-02-03 15:45:37--  http://doi.org/10.1603/ipm14012
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM14012 [following]
+--2017-02-03 15:45:38--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM14012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 469511 (459K) [text/html]
+Saving to: ‘ipm14012’
+
+     0K .......... .......... .......... .......... .......... 10%  207K 2s
+    50K .......... .......... .......... .......... .......... 21%  610K 1s
+   100K .......... .......... .......... .......... .......... 32%  602K 1s
+   150K .......... .......... .......... .......... .......... 43%  606K 1s
+   200K .......... .......... .......... .......... .......... 54%  315K 1s
+   250K .......... .......... .......... .......... .......... 65%  582K 0s
+   300K .......... .......... .......... .......... .......... 76%  610K 0s
+   350K .......... .......... .......... .......... .......... 87%  605K 0s
+   400K .......... .......... .......... .......... .......... 98%  315K 0s
+   450K ........                                              100% 6.33M=1.1s
+
+2017-02-03 15:45:53 (433 KB/s) - ‘ipm14012’ saved [469511/469511]
+
+--2017-02-03 15:45:54--  http://doi.org/10.1603/ipm13002
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM13002 [following]
+--2017-02-03 15:45:55--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM13002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 224518 (219K) [text/html]
+Saving to: ‘ipm13002’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 45%  605K 0s
+   100K .......... .......... .......... .......... .......... 68%  615K 0s
+   150K .......... .......... .......... .......... .......... 91%  314K 0s
+   200K .......... .........                                  100% 9.52M=0.6s
+
+2017-02-03 15:46:10 (389 KB/s) - ‘ipm13002’ saved [224518/224518]
+
+--2017-02-03 15:46:11--  http://doi.org/10.1603/ipm13013
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM13013 [following]
+--2017-02-03 15:46:12--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM13013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 176965 (173K) [text/html]
+Saving to: ‘ipm13013’
+
+     0K .......... .......... .......... .......... .......... 28%  209K 1s
+    50K .......... .......... .......... .......... .......... 57%  592K 0s
+   100K .......... .......... .......... .......... .......... 86%  613K 0s
+   150K .......... .......... ..                              100%  289K=0.5s
+
+2017-02-03 15:46:23 (357 KB/s) - ‘ipm13013’ saved [176965/176965]
+
+--2017-02-03 15:46:24--  http://doi.org/10.1603/ipm13014
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM13014 [following]
+--2017-02-03 15:46:25--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM13014
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 308750 (302K) [text/html]
+Saving to: ‘ipm13014’
+
+     0K .......... .......... .......... .......... .......... 16%  209K 1s
+    50K .......... .......... .......... .......... .......... 33%  602K 1s
+   100K .......... .......... .......... .......... .......... 49%  613K 0s
+   150K .......... .......... .......... .......... .......... 66%  314K 0s
+   200K .......... .......... .......... .......... .......... 82%  592K 0s
+   250K .......... .......... .......... .......... .......... 99%  608K 0s
+   300K .                                                     100% 2887G=0.7s
+
+2017-02-03 15:46:37 (413 KB/s) - ‘ipm13014’ saved [308750/308750]
+
+--2017-02-03 15:46:38--  http://doi.org/10.1603/ipm13004
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM13004 [following]
+--2017-02-03 15:46:39--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM13004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 158065 (154K) [text/html]
+Saving to: ‘ipm13004’
+
+     0K .......... .......... .......... .......... .......... 32%  304K 0s
+    50K .......... .......... .......... .......... .......... 64%  319K 0s
+   100K .......... .......... .......... .......... .......... 97%  615K 0s
+   150K ....                                                  100% 21.7M=0.4s
+
+2017-02-03 15:46:49 (383 KB/s) - ‘ipm13004’ saved [158065/158065]
+
+--2017-02-03 15:46:50--  http://doi.org/10.1603/ipm13007
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM13007 [following]
+--2017-02-03 15:46:51--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM13007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 199270 (195K) [text/html]
+Saving to: ‘ipm13007’
+
+     0K .......... .......... .......... .......... .......... 25%  208K 1s
+    50K .......... .......... .......... .......... .......... 51%  611K 0s
+   100K .......... .......... .......... .......... .......... 77%  609K 0s
+   150K .......... .......... .......... .......... ....      100%  536K=0.5s
+
+2017-02-03 15:46:59 (400 KB/s) - ‘ipm13007’ saved [199270/199270]
+
+--2017-02-03 15:47:00--  http://doi.org/10.1603/ipm12022
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM12022 [following]
+--2017-02-03 15:47:02--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM12022
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 218660 (214K) [text/html]
+Saving to: ‘ipm12022’
+
+     0K .......... .......... .......... .......... .......... 23%  209K 1s
+    50K .......... .......... .......... .......... .......... 46%  580K 0s
+   100K .......... .......... .......... .......... .......... 70%  598K 0s
+   150K .......... .......... .......... .......... .......... 93%  612K 0s
+   200K .......... ...                                        100%  179K=0.6s
+
+2017-02-03 15:47:11 (377 KB/s) - ‘ipm12022’ saved [218660/218660]
+
+--2017-02-03 15:47:12--  http://doi.org/10.1603/ipm13012
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM13012 [following]
+--2017-02-03 15:47:13--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM13012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 15:47:13 ERROR 400: Bad Request.
+
+--2017-02-03 15:47:14--  http://doi.org/10.1603/ipm12023
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM12023 [following]
+--2017-02-03 15:47:16--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM12023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 205032 (200K) [text/html]
+Saving to: ‘ipm12023’
+
+     0K .......... .......... .......... .......... .......... 24%  208K 1s
+    50K .......... .......... .......... .......... .......... 49%  606K 0s
+   100K .......... .......... .......... .......... .......... 74%  608K 0s
+   150K .......... .......... .......... .......... .......... 99%  603K 0s
+   200K                                                       100%  432G=0.5s
+
+2017-02-03 15:47:26 (410 KB/s) - ‘ipm12023’ saved [205032/205032]
+
+--2017-02-03 15:47:27--  http://doi.org/10.1603/ipm11024
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM11024 [following]
+--2017-02-03 15:47:28--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM11024
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 289843 (283K) [text/html]
+Saving to: ‘ipm11024’
+
+     0K .......... .......... .......... .......... .......... 17%  309K 1s
+    50K .......... .......... .......... .......... .......... 35%  310K 1s
+   100K .......... .......... .......... .......... .......... 52%  602K 0s
+   150K .......... .......... .......... .......... .......... 70%  571K 0s
+   200K .......... .......... .......... .......... .......... 88%  322K 0s
+   250K .......... .......... .......... ...                  100% 4.75M=0.7s
+
+2017-02-03 15:47:39 (431 KB/s) - ‘ipm11024’ saved [289843/289843]
+
+--2017-02-03 15:47:40--  http://doi.org/10.1603/ipm12019
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM12019 [following]
+--2017-02-03 15:47:41--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM12019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 281759 (275K) [text/html]
+Saving to: ‘ipm12019’
+
+     0K .......... .......... .......... .......... .......... 18%  208K 1s
+    50K .......... .......... .......... .......... .......... 36%  605K 1s
+   100K .......... .......... .......... .......... .......... 54%  615K 0s
+   150K .......... .......... .......... .......... .......... 72%  602K 0s
+   200K .......... .......... .......... .......... .......... 90%  320K 0s
+   250K .......... .......... .....                           100% 3.61M=0.7s
+
+2017-02-03 15:47:53 (423 KB/s) - ‘ipm12019’ saved [281759/281759]
+
+--2017-02-03 15:47:54--  http://doi.org/10.1603/ipm13008
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM13008 [following]
+--2017-02-03 15:47:55--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM13008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 341380 (333K) [text/html]
+Saving to: ‘ipm13008’
+
+     0K .......... .......... .......... .......... .......... 14%  209K 1s
+    50K .......... .......... .......... .......... .......... 29%  601K 1s
+   100K .......... .......... .......... .......... .......... 44%  612K 0s
+   150K .......... .......... .......... .......... .......... 59%  317K 0s
+   200K .......... .......... .......... .......... .......... 74%  592K 0s
+   250K .......... .......... .......... .......... .......... 89%  604K 0s
+   300K .......... .......... .......... ...                  100%  417K=0.8s
+
+2017-02-03 15:48:10 (412 KB/s) - ‘ipm13008’ saved [341380/341380]
+
+--2017-02-03 15:48:11--  http://doi.org/10.1603/ipm13006
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM13006 [following]
+--2017-02-03 15:48:12--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM13006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 15:48:13 ERROR 400: Bad Request.
+
+--2017-02-03 15:48:14--  http://doi.org/10.1603/ipm12007
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM12007 [following]
+--2017-02-03 15:48:16--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM12007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 473816 (463K) [text/html]
+Saving to: ‘ipm12007’
+
+     0K .......... .......... .......... .......... .......... 10%  209K 2s
+    50K .......... .......... .......... .......... .......... 21%  606K 1s
+   100K .......... .......... .......... .......... .......... 32%  604K 1s
+   150K .......... .......... .......... .......... .......... 43%  308K 1s
+   200K .......... .......... .......... .......... .......... 54%  595K 1s
+   250K .......... .......... .......... .......... .......... 64%  605K 0s
+   300K .......... .......... .......... .......... .......... 75%  603K 0s
+   350K .......... .......... .......... .......... .......... 86%  608K 0s
+   400K .......... .......... .......... .......... .......... 97%  314K 0s
+   450K .......... ..                                         100% 11.1M=1.1s
+
+2017-02-03 15:48:34 (437 KB/s) - ‘ipm12007’ saved [473816/473816]
+
+--2017-02-03 15:48:35--  http://doi.org/10.1603/ipm12013
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM12013 [following]
+--2017-02-03 15:48:36--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM12013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 211041 (206K) [text/html]
+Saving to: ‘ipm12013’
+
+     0K .......... .......... .......... .......... .......... 24%  209K 1s
+    50K .......... .......... .......... .......... .......... 48%  590K 0s
+   100K .......... .......... .......... .......... .......... 72%  608K 0s
+   150K .......... .......... .......... .......... .......... 97%  317K 0s
+   200K ......                                                100% 22.2M=0.6s
+
+2017-02-03 15:48:48 (365 KB/s) - ‘ipm12013’ saved [211041/211041]
+
+--2017-02-03 15:48:49--  http://doi.org/10.1603/ipm12012
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM12012 [following]
+--2017-02-03 15:48:50--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM12012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 165046 (161K) [text/html]
+Saving to: ‘ipm12012’
+
+     0K .......... .......... .......... .......... .......... 31%  208K 1s
+    50K .......... .......... .......... .......... .......... 62%  608K 0s
+   100K .......... .......... .......... .......... .......... 93%  608K 0s
+   150K .......... .                                          100% 12.0M=0.4s
+
+2017-02-03 15:49:05 (398 KB/s) - ‘ipm12012’ saved [165046/165046]
+
+--2017-02-03 15:49:06--  http://doi.org/10.1603/ipm12011
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM12011 [following]
+--2017-02-03 15:49:07--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM12011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 15:49:09 ERROR 400: Bad Request.
+
+--2017-02-03 15:49:10--  http://doi.org/10.1603/ipm12020
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM12020 [following]
+--2017-02-03 15:49:11--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM12020
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 194234 (190K) [text/html]
+Saving to: ‘ipm12020’
+
+     0K .......... .......... .......... .......... .......... 26%  208K 1s
+    50K .......... .......... .......... .......... .......... 52%  582K 0s
+   100K .......... .......... .......... .......... .......... 79%  603K 0s
+   150K .......... .......... .......... .........            100%  489K=0.5s
+
+2017-02-03 15:49:31 (387 KB/s) - ‘ipm12020’ saved [194234/194234]
+
+--2017-02-03 15:49:32--  http://doi.org/10.1603/ipm11031
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM11031 [following]
+--2017-02-03 15:49:33--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM11031
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 297259 (290K) [text/html]
+Saving to: ‘ipm11031’
+
+     0K .......... .......... .......... .......... .......... 17%  208K 1s
+    50K .......... .......... .......... .......... .......... 34%  605K 1s
+   100K .......... .......... .......... .......... .......... 51%  600K 0s
+   150K .......... .......... .......... .......... .......... 68%  422K 0s
+   200K .......... .......... .......... .......... .......... 86%  398K 0s
+   250K .......... .......... .......... ..........           100%  475K=0.7s
+
+2017-02-03 15:49:53 (395 KB/s) - ‘ipm11031’ saved [297259/297259]
+
+--2017-02-03 15:49:54--  http://doi.org/10.1097/ipm12014
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jipm.oxfordjournals.org/cgi/doi/10.1097/IPM12014 [following]
+--2017-02-03 15:49:55--  http://jipm.oxfordjournals.org/cgi/doi/10.1097/IPM12014
+Connecting to jipm.oxfordjournals.org (jipm.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jipm.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jipm/article/3/3/A1/924351/To-the-Editor [following]
+--2017-02-03 15:49:57--  https://academic.oup.com/jipm/article/3/3/A1/924351/To-the-Editor
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 15:49:57 ERROR 400: Bad Request.
+
+--2017-02-03 15:49:58--  http://doi.org/10.1097/ipm12015
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jipm.oxfordjournals.org/cgi/doi/10.1097/IPM12015 [following]
+--2017-02-03 15:49:59--  http://jipm.oxfordjournals.org/cgi/doi/10.1097/IPM12015
+Connecting to jipm.oxfordjournals.org (jipm.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jipm.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jipm/article/3/3/A1/924369/Reply [following]
+--2017-02-03 15:50:01--  https://academic.oup.com/jipm/article/3/3/A1/924369/Reply
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 84836 (83K) [text/html]
+Saving to: ‘ipm12015’
+
+     0K .......... .......... .......... .......... .......... 60%  209K 0s
+    50K .......... .......... .......... ..                   100% 7.25M=0.2s
+
+2017-02-03 15:50:10 (339 KB/s) - ‘ipm12015’ saved [84836/84836]
+
+--2017-02-03 15:50:11--  http://doi.org/10.1603/ipm12001
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM12001 [following]
+--2017-02-03 15:50:12--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM12001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 199911 (195K) [text/html]
+Saving to: ‘ipm12001’
+
+     0K .......... .......... .......... .......... .......... 25%  208K 1s
+    50K .......... .......... .......... .......... .......... 51%  615K 0s
+   100K .......... .......... .......... .......... .......... 76%  591K 0s
+   150K .......... .......... .......... .......... .....     100%  555K=0.5s
+
+2017-02-03 15:50:21 (401 KB/s) - ‘ipm12001’ saved [199911/199911]
+
+--2017-02-03 15:50:22--  http://doi.org/10.1603/ipm12006
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM12006 [following]
+--2017-02-03 15:50:23--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM12006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 306315 (299K) [text/html]
+Saving to: ‘ipm12006’
+
+     0K .......... .......... .......... .......... .......... 16%  209K 1s
+    50K .......... .......... .......... .......... .......... 33%  610K 1s
+   100K .......... .......... .......... .......... .......... 50%  580K 0s
+   150K .......... .......... .......... .......... .......... 66%  607K 0s
+   200K .......... .......... .......... .......... .......... 83%  313K 0s
+   250K .......... .......... .......... .......... ......... 100%  598K=0.7s
+
+2017-02-03 15:50:31 (409 KB/s) - ‘ipm12006’ saved [306315/306315]
+
+--2017-02-03 15:50:32--  http://doi.org/10.1603/ipm10022
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM10022 [following]
+--2017-02-03 15:50:33--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM10022
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 191722 (187K) [text/html]
+Saving to: ‘ipm10022’
+
+     0K .......... .......... .......... .......... .......... 26%  311K 0s
+    50K .......... .......... .......... .......... .......... 53%  307K 0s
+   100K .......... .......... .......... .......... .......... 80%  587K 0s
+   150K .......... .......... .......... .......              100%  480K=0.5s
+
+2017-02-03 15:50:41 (385 KB/s) - ‘ipm10022’ saved [191722/191722]
+
+--2017-02-03 15:50:42--  http://doi.org/10.1603/ipm12009
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM12009 [following]
+--2017-02-03 15:50:43--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM12009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 138497 (135K) [text/html]
+Saving to: ‘ipm12009’
+
+     0K .......... .......... .......... .......... .......... 36%  209K 0s
+    50K .......... .......... .......... .......... .......... 73%  608K 0s
+   100K .......... .......... .......... .....                100%  440K=0.4s
+
+2017-02-03 15:50:49 (337 KB/s) - ‘ipm12009’ saved [138497/138497]
+
+--2017-02-03 15:50:50--  http://doi.org/10.1603/ipm11030
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM11030 [following]
+--2017-02-03 15:50:52--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM11030
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 233221 (228K) [text/html]
+Saving to: ‘ipm11030’
+
+     0K .......... .......... .......... .......... .......... 21%  209K 1s
+    50K .......... .......... .......... .......... .......... 43%  602K 0s
+   100K .......... .......... .......... .......... .......... 65%  574K 0s
+   150K .......... .......... .......... .......... .......... 87%  607K 0s
+   200K .......... .......... .......                         100%  340K=0.6s
+
+2017-02-03 15:50:58 (397 KB/s) - ‘ipm11030’ saved [233221/233221]
+
+--2017-02-03 15:50:59--  http://doi.org/10.1603/ipm11033
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM11033 [following]
+--2017-02-03 15:51:00--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM11033
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 274538 (268K) [text/html]
+Saving to: ‘ipm11033’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 37%  610K 1s
+   100K .......... .......... .......... .......... .......... 55%  612K 0s
+   150K .......... .......... .......... .......... .......... 74%  317K 0s
+   200K .......... .......... .......... .......... .......... 93%  595K 0s
+   250K .......... ........                                   100% 6.88M=0.6s
+
+2017-02-03 15:51:07 (414 KB/s) - ‘ipm11033’ saved [274538/274538]
+
+--2017-02-03 15:51:08--  http://doi.org/10.1603/ipm11034
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM11034 [following]
+--2017-02-03 15:51:09--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM11034
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 15:51:10 ERROR 400: Bad Request.
+
+--2017-02-03 15:51:11--  http://doi.org/10.1603/ipm09001
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM09001 [following]
+--2017-02-03 15:51:12--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM09001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 151167 (148K) [text/html]
+Saving to: ‘ipm09001’
+
+     0K .......... .......... .......... .......... .......... 33%  209K 0s
+    50K .......... .......... .......... .......... .......... 67%  606K 0s
+   100K .......... .......... .......... .......... .......   100%  583K=0.4s
+
+2017-02-03 15:51:20 (366 KB/s) - ‘ipm09001’ saved [151167/151167]
+
+--2017-02-03 15:51:21--  http://doi.org/10.1603/ipm11015
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM11015 [following]
+--2017-02-03 15:51:22--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM11015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 15:51:23 ERROR 400: Bad Request.
+
+--2017-02-03 15:51:24--  http://doi.org/10.1603/ipm11025
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM11025 [following]
+--2017-02-03 15:51:25--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM11025
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 278512 (272K) [text/html]
+Saving to: ‘ipm11025’
+
+     0K .......... .......... .......... .......... .......... 18%  208K 1s
+    50K .......... .......... .......... .......... .......... 36%  600K 1s
+   100K .......... .......... .......... .......... .......... 55%  612K 0s
+   150K .......... .......... .......... .......... .......... 73%  601K 0s
+   200K .......... .......... .......... .......... .......... 91%  319K 0s
+   250K .......... .......... .                               100% 4.20M=0.6s
+
+2017-02-03 15:51:32 (418 KB/s) - ‘ipm11025’ saved [278512/278512]
+
+--2017-02-03 15:51:33--  http://doi.org/10.1603/ipm11007sv1
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.ingentaconnect.com/content/esa/jipm/2012/00000003/00000001/art00002/supp-data [following]
+--2017-02-03 15:51:34--  http://www.ingentaconnect.com/content/esa/jipm/2012/00000003/00000001/art00002/supp-data
+Resolving www.ingentaconnect.com (www.ingentaconnect.com)... 93.91.26.210
+Connecting to www.ingentaconnect.com (www.ingentaconnect.com)|93.91.26.210|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 24959 (24K) [text/html]
+Saving to: ‘ipm11007sv1’
+
+     0K .......... .......... ....                            100% 1.65M=0.01s
+
+2017-02-03 15:51:34 (1.65 MB/s) - ‘ipm11007sv1’ saved [24959/24959]
+
+--2017-02-03 15:51:35--  http://doi.org/10.1603/ipm11007sv2
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.ingentaconnect.com/content/esa/jipm/2012/00000003/00000001/art00002/supp-data [following]
+--2017-02-03 15:51:36--  http://www.ingentaconnect.com/content/esa/jipm/2012/00000003/00000001/art00002/supp-data
+Connecting to www.ingentaconnect.com (www.ingentaconnect.com)|93.91.26.210|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 23390 (23K) [text/html]
+Saving to: ‘ipm11007sv2’
+
+     0K .......... .......... ..                              100% 2.01M=0.01s
+
+2017-02-03 15:51:36 (2.01 MB/s) - ‘ipm11007sv2’ saved [23390/23390]
+
+--2017-02-03 15:51:37--  http://doi.org/10.1603/ipm11019
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM11019 [following]
+--2017-02-03 15:51:38--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM11019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 300668 (294K) [text/html]
+Saving to: ‘ipm11019’
+
+     0K .......... .......... .......... .......... .......... 17%  206K 1s
+    50K .......... .......... .......... .......... .......... 34%  607K 1s
+   100K .......... .......... .......... .......... .......... 51%  598K 0s
+   150K .......... .......... .......... .......... .......... 68%  413K 0s
+   200K .......... .......... .......... .......... .......... 85%  411K 0s
+   250K .......... .......... .......... .......... ...       100%  534K=0.7s
+
+2017-02-03 15:51:47 (400 KB/s) - ‘ipm11019’ saved [300668/300668]
+
+--2017-02-03 15:51:48--  http://doi.org/10.1603/ipm11023
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM11023 [following]
+--2017-02-03 15:51:49--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM11023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 297381 (290K) [text/html]
+Saving to: ‘ipm11023’
+
+     0K .......... .......... .......... .......... .......... 17%  307K 1s
+    50K .......... .......... .......... .......... .......... 34%  310K 1s
+   100K .......... .......... .......... .......... .......... 51%  603K 0s
+   150K .......... .......... .......... .......... .......... 68%  315K 0s
+   200K .......... .......... .......... .......... .......... 86%  591K 0s
+   250K .......... .......... .......... ..........           100%  504K=0.7s
+
+2017-02-03 15:51:56 (397 KB/s) - ‘ipm11023’ saved [297381/297381]
+
+--2017-02-03 15:51:57--  http://doi.org/10.1603/ipm10027
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM10027 [following]
+--2017-02-03 15:51:58--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM10027
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 301926 (295K) [text/html]
+Saving to: ‘ipm10027’
+
+     0K .......... .......... .......... .......... .......... 16%  207K 1s
+    50K .......... .......... .......... .......... .......... 33%  581K 1s
+   100K .......... .......... .......... .......... .......... 50%  605K 0s
+   150K .......... .......... .......... .......... .......... 67%  587K 0s
+   200K .......... .......... .......... .......... .......... 84%  328K 0s
+   250K .......... .......... .......... .......... ....      100%  539K=0.7s
+
+2017-02-03 15:52:06 (404 KB/s) - ‘ipm10027’ saved [301926/301926]
+
+--2017-02-03 15:52:07--  http://doi.org/10.1603/ipm11008
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM11008 [following]
+--2017-02-03 15:52:08--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM11008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 182658 (178K) [text/html]
+Saving to: ‘ipm11008’
+
+     0K .......... .......... .......... .......... .......... 28%  208K 1s
+    50K .......... .......... .......... .......... .......... 56%  601K 0s
+   100K .......... .......... .......... .......... .......... 84%  612K 0s
+   150K .......... .......... ........                        100%  344K=0.5s
+
+2017-02-03 15:52:16 (366 KB/s) - ‘ipm11008’ saved [182658/182658]
+
+--2017-02-03 15:52:17--  http://doi.org/10.1603/ipm11007
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM11007 [following]
+--2017-02-03 15:52:18--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM11007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 15:52:18 ERROR 400: Bad Request.
+
+--2017-02-03 15:52:19--  http://doi.org/10.1603/ipm11021
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM11021 [following]
+--2017-02-03 15:52:20--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM11021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 252095 (246K) [text/html]
+Saving to: ‘ipm11021’
+
+     0K .......... .......... .......... .......... .......... 20%  210K 1s
+    50K .......... .......... .......... .......... .......... 40%  603K 0s
+   100K .......... .......... .......... .......... .......... 60%  609K 0s
+   150K .......... .......... .......... .......... .......... 81%  553K 0s
+   200K .......... .......... .......... .......... ......    100%  566K=0.6s
+
+2017-02-03 15:52:28 (428 KB/s) - ‘ipm11021’ saved [252095/252095]
+
+--2017-02-03 15:52:29--  http://doi.org/10.1603/ipm11006
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM11006 [following]
+--2017-02-03 15:52:30--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM11006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 173123 (169K) [text/html]
+Saving to: ‘ipm11006’
+
+     0K .......... .......... .......... .......... .......... 29%  209K 1s
+    50K .......... .......... .......... .......... .......... 59%  591K 0s
+   100K .......... .......... .......... .......... .......... 88%  563K 0s
+   150K .......... .........                                  100%  556K=0.4s
+
+2017-02-03 15:52:39 (378 KB/s) - ‘ipm11006’ saved [173123/173123]
+
+--2017-02-03 15:52:40--  http://doi.org/10.1603/ipm10011
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM10011 [following]
+--2017-02-03 15:52:41--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM10011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 183876 (180K) [text/html]
+Saving to: ‘ipm10011’
+
+     0K .......... .......... .......... .......... .......... 27%  207K 1s
+    50K .......... .......... .......... .......... .......... 55%  602K 0s
+   100K .......... .......... .......... .......... .......... 83%  604K 0s
+   150K .......... .......... .........                       100%  370K=0.5s
+
+2017-02-03 15:52:49 (369 KB/s) - ‘ipm10011’ saved [183876/183876]
+
+--2017-02-03 15:52:50--  http://doi.org/10.1603/ipm11002
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM11002 [following]
+--2017-02-03 15:52:52--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM11002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 196557 (192K) [text/html]
+Saving to: ‘ipm11002’
+
+     0K .......... .......... .......... .......... .......... 26%  210K 1s
+    50K .......... .......... .......... .......... .......... 52%  602K 0s
+   100K .......... .......... .......... .......... .......... 78%  606K 0s
+   150K .......... .......... .......... .......... .         100%  496K=0.5s
+
+2017-02-03 15:52:59 (393 KB/s) - ‘ipm11002’ saved [196557/196557]
+
+--2017-02-03 15:53:00--  http://doi.org/10.1603/ipm11016
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM11016 [following]
+--2017-02-03 15:53:01--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM11016
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 269843 (264K) [text/html]
+Saving to: ‘ipm11016’
+
+     0K .......... .......... .......... .......... .......... 18%  245K 1s
+    50K .......... .......... .......... .......... .......... 37%  425K 1s
+   100K .......... .......... .......... .......... .......... 56%  581K 0s
+   150K .......... .......... .......... .......... .......... 75%  597K 0s
+   200K .......... .......... .......... .......... .......... 94%  317K 0s
+   250K .......... ...                                        100% 4.43M=0.7s
+
+2017-02-03 15:53:06 (404 KB/s) - ‘ipm11016’ saved [269843/269843]
+
+--2017-02-03 15:53:07--  http://doi.org/10.1603/ipm11010
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM11010 [following]
+--2017-02-03 15:53:08--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM11010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 201123 (196K) [text/html]
+Saving to: ‘ipm11010’
+
+     0K .......... .......... .......... .......... .......... 25%  208K 1s
+    50K .......... .......... .......... .......... .......... 50%  584K 0s
+   100K .......... .......... .......... .......... .......... 76%  608K 0s
+   150K .......... .......... .......... .......... ......    100%  525K=0.5s
+
+2017-02-03 15:53:13 (396 KB/s) - ‘ipm11010’ saved [201123/201123]
+
+--2017-02-03 15:53:14--  http://doi.org/10.1603/ipm10024
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM10024 [following]
+--2017-02-03 15:53:15--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM10024
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 443061 (433K) [text/html]
+Saving to: ‘ipm10024’
+
+     0K .......... .......... .......... .......... .......... 11%  209K 2s
+    50K .......... .......... .......... .......... .......... 23%  585K 1s
+   100K .......... .......... .......... .......... .......... 34%  613K 1s
+   150K .......... .......... .......... .......... .......... 46%  606K 1s
+   200K .......... .......... .......... .......... .......... 57%  309K 0s
+   250K .......... .......... .......... .......... .......... 69%  606K 0s
+   300K .......... .......... .......... .......... .......... 80%  590K 0s
+   350K .......... .......... .......... .......... .......... 92%  314K 0s
+   400K .......... .......... .......... ..                   100% 10.2M=1.0s
+
+2017-02-03 15:53:22 (441 KB/s) - ‘ipm10024’ saved [443061/443061]
+
+--2017-02-03 15:53:23--  http://doi.org/10.1603/ipm10016
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM10016 [following]
+--2017-02-03 15:53:24--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM10016
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 288349 (282K) [text/html]
+Saving to: ‘ipm10016’
+
+     0K .......... .......... .......... .......... .......... 17%  208K 1s
+    50K .......... .......... .......... .......... .......... 35%  598K 1s
+   100K .......... .......... .......... .......... .......... 53%  607K 0s
+   150K .......... .......... .......... .......... .......... 71%  592K 0s
+   200K .......... .......... .......... .......... .......... 88%  304K 0s
+   250K .......... .......... .......... .                    100% 6.48M=0.7s
+
+2017-02-03 15:53:29 (427 KB/s) - ‘ipm10016’ saved [288349/288349]
+
+--2017-02-03 15:53:30--  http://doi.org/10.1603/ipm11005
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM11005 [following]
+--2017-02-03 15:53:31--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM11005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 152843 (149K) [text/html]
+Saving to: ‘ipm11005’
+
+     0K .......... .......... .......... .......... .......... 33%  209K 0s
+    50K .......... .......... .......... .......... .......... 66%  598K 0s
+   100K .......... .......... .......... .......... ......... 100%  602K=0.4s
+
+2017-02-03 15:53:36 (368 KB/s) - ‘ipm11005’ saved [152843/152843]
+
+--2017-02-03 15:53:37--  http://doi.org/10.1603/ipm11003
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM11003 [following]
+--2017-02-03 15:53:38--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM11003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 127229 (124K) [text/html]
+Saving to: ‘ipm11003’
+
+     0K .......... .......... .......... .......... .......... 40%  309K 0s
+    50K .......... .......... .......... .......... .......... 80%  313K 0s
+   100K .......... .......... ....                            100% 9.69M=0.3s
+
+2017-02-03 15:53:42 (383 KB/s) - ‘ipm11003’ saved [127229/127229]
+
+--2017-02-03 15:53:43--  http://doi.org/10.1603/ipm11001
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM11001 [following]
+--2017-02-03 15:53:44--  https://academic.oup.com/jipm/article-lookup/doi/10.1603/IPM11001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 175225 (171K) [text/html]
+Saving to: ‘ipm11001’
+
+     0K .......... .......... .......... .......... .......... 29%  208K 1s
+    50K .......... .......... .......... .......... .......... 58%  590K 0s
+   100K .......... .......... .......... .......... .......... 87%  610K 0s
+   150K .......... .......... .                               100%  563K=0.4s
+
+2017-02-03 15:53:50 (384 KB/s) - ‘ipm11001’ saved [175225/175225]
+
+FINISHED --2017-02-03 15:53:50--
+Total wall clock time: 18m 2s
+Downloaded: 82 files, 20M in 50s (412 KB/s)

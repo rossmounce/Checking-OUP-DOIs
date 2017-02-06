@@ -1,0 +1,1756 @@
+--2017-02-03 19:04:17--  http://doi.org/10.1093/erae/jbw024
+Resolving doi.org (doi.org)... 63.123.152.248, 54.191.229.235, 95.138.171.129, ...
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw024 [following]
+--2017-02-03 19:04:19--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw024
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 19:04:20 ERROR 400: Bad Request.
+
+--2017-02-03 19:04:21--  http://doi.org/10.1093/erae/jbw027
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw027 [following]
+--2017-02-03 19:04:22--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw027
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 19:04:23 ERROR 400: Bad Request.
+
+--2017-02-03 19:04:24--  http://doi.org/10.1093/erae/jbw025
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw025 [following]
+--2017-02-03 19:04:26--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw025
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 286205 (279K) [text/html]
+Saving to: ‘jbw025’
+
+     0K .......... .......... .......... .......... .......... 17%  208K 1s
+    50K .......... .......... .......... .......... .......... 35%  598K 1s
+   100K .......... .......... .......... .......... .......... 53%  603K 0s
+   150K .......... .......... .......... .......... .......... 71%  613K 0s
+   200K .......... .......... .......... .......... .......... 89%  311K 0s
+   250K .......... .......... .........                       100%  371K=0.7s
+
+2017-02-03 19:04:33 (384 KB/s) - ‘jbw025’ saved [286205/286205]
+
+--2017-02-03 19:04:34--  http://doi.org/10.1093/erae/jbx001
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 19:04:36--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Resolving fdslive.oup.com (fdslive.oup.com)... 193.67.160.201
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘jbx001’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 19:04:36 (1.20 MB/s) - ‘jbx001’ saved [52438/52438]
+
+--2017-02-03 19:04:37--  http://doi.org/10.1093/erae/jbw021
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw021 [following]
+--2017-02-03 19:04:38--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 19:04:40 ERROR 400: Bad Request.
+
+--2017-02-03 19:04:41--  http://doi.org/10.1093/erae/jbw022
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw022 [following]
+--2017-02-03 19:04:49--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw022
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 289140 (282K) [text/html]
+Saving to: ‘jbw022’
+
+     0K .......... .......... .......... .......... .......... 17%  207K 1s
+    50K .......... .......... .......... .......... .......... 35%  610K 1s
+   100K .......... .......... .......... .......... .......... 53%  605K 0s
+   150K .......... .......... .......... .......... .......... 70%  313K 0s
+   200K .......... .......... .......... .......... .......... 88%  605K 0s
+   250K .......... .......... .......... ..                   100%  398K=0.7s
+
+2017-02-03 19:04:56 (387 KB/s) - ‘jbw022’ saved [289140/289140]
+
+--2017-02-03 19:04:57--  http://doi.org/10.1093/erae/jbw023
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw023 [following]
+--2017-02-03 19:05:02--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 300346 (293K) [text/html]
+Saving to: ‘jbw023’
+
+     0K .......... .......... .......... .......... .......... 17%  207K 1s
+    50K .......... .......... .......... .......... .......... 34%  598K 1s
+   100K .......... .......... .......... .......... .......... 51%  208K 1s
+   150K .......... .......... .......... .......... .......... 68%  611K 0s
+   200K .......... .......... .......... .......... .......... 85%  315K 0s
+   250K .......... .......... .......... .......... ...       100%  536K=0.9s
+
+2017-02-03 19:05:10 (331 KB/s) - ‘jbw023’ saved [300346/300346]
+
+--2017-02-03 19:05:11--  http://doi.org/10.1093/erae/jbw018
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw018 [following]
+--2017-02-03 19:05:12--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw018
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 342085 (334K) [text/html]
+Saving to: ‘jbw018’
+
+     0K .......... .......... .......... .......... .......... 14%  209K 1s
+    50K .......... .......... .......... .......... .......... 29%  597K 1s
+   100K .......... .......... .......... .......... .......... 44%  614K 0s
+   150K .......... .......... .......... .......... .......... 59%  598K 0s
+   200K .......... .......... .......... .......... .......... 74%  313K 0s
+   250K .......... .......... .......... .......... .......... 89%  605K 0s
+   300K .......... .......... .......... ....                 100%  425K=0.8s
+
+2017-02-03 19:05:19 (412 KB/s) - ‘jbw018’ saved [342085/342085]
+
+--2017-02-03 19:05:20--  http://doi.org/10.1093/erae/jbw019
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw019 [following]
+--2017-02-03 19:05:22--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 128666 (126K) [text/html]
+Saving to: ‘jbw019’
+
+     0K .......... .......... .......... .......... .......... 39%  208K 0s
+    50K .......... .......... .......... .......... .......... 79%  605K 0s
+   100K .......... .......... .....                           100% 4.67M=0.3s
+
+2017-02-03 19:05:28 (383 KB/s) - ‘jbw019’ saved [128666/128666]
+
+--2017-02-03 19:05:29--  http://doi.org/10.1093/erae/jbw017
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw017 [following]
+--2017-02-03 19:05:31--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 416240 (406K) [text/html]
+Saving to: ‘jbw017’
+
+     0K .......... .......... .......... .......... .......... 12%  207K 2s
+    50K .......... .......... .......... .......... .......... 24%  606K 1s
+   100K .......... .......... .......... .......... .......... 36%  607K 1s
+   150K .......... .......... .......... .......... .......... 49%  589K 1s
+   200K .......... .......... .......... .......... .......... 61%  315K 0s
+   250K .......... .......... .......... .......... .......... 73%  606K 0s
+   300K .......... .......... .......... .......... .......... 86%  578K 0s
+   350K .......... .......... .......... .......... .......... 98%  320K 0s
+   400K ......                                                100% 20.8M=1.0s
+
+2017-02-03 19:05:40 (417 KB/s) - ‘jbw017’ saved [416240/416240]
+
+--2017-02-03 19:05:41--  http://doi.org/10.1093/erae/jbw016
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw016 [following]
+--2017-02-03 19:05:42--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw016
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 327132 (319K) [text/html]
+Saving to: ‘jbw016’
+
+     0K .......... .......... .......... .......... .......... 15%  208K 1s
+    50K .......... .......... .......... .......... .......... 31%  592K 1s
+   100K .......... .......... .......... .......... .......... 46%  610K 0s
+   150K .......... .......... .......... .......... .......... 62%  316K 0s
+   200K .......... .......... .......... .......... .......... 78%  588K 0s
+   250K .......... .......... .......... .......... .......... 93%  603K 0s
+   300K .......... .........                                  100% 4.65M=0.7s
+
+2017-02-03 19:05:49 (434 KB/s) - ‘jbw016’ saved [327132/327132]
+
+--2017-02-03 19:05:50--  http://doi.org/10.1093/erae/jbw014
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw014 [following]
+--2017-02-03 19:05:52--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw014
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 19:05:52 ERROR 400: Bad Request.
+
+--2017-02-03 19:05:53--  http://doi.org/10.1093/erae/jbw015
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw015 [following]
+--2017-02-03 19:05:56--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 322953 (315K) [text/html]
+Saving to: ‘jbw015’
+
+     0K .......... .......... .......... .......... .......... 15%  209K 1s
+    50K .......... .......... .......... .......... .......... 31%  602K 1s
+   100K .......... .......... .......... .......... .......... 47%  613K 0s
+   150K .......... .......... .......... .......... .......... 63%  316K 0s
+   200K .......... .......... .......... .......... .......... 79%  591K 0s
+   250K .......... .......... .......... .......... .......... 95%  607K 0s
+   300K .......... .....                                      100% 18.4M=0.7s
+
+2017-02-03 19:06:01 (432 KB/s) - ‘jbw015’ saved [322953/322953]
+
+--2017-02-03 19:06:02--  http://doi.org/10.1093/erae/jbw011
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw011 [following]
+--2017-02-03 19:06:04--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 340730 (333K) [text/html]
+Saving to: ‘jbw011’
+
+     0K .......... .......... .......... .......... .......... 15%  209K 1s
+    50K .......... .......... .......... .......... .......... 30%  603K 1s
+   100K .......... .......... .......... .......... .......... 45%  601K 0s
+   150K .......... .......... .......... .......... .......... 60%  321K 0s
+   200K .......... .......... .......... .......... .......... 75%  588K 0s
+   250K .......... .......... .......... .......... .......... 90%  607K 0s
+   300K .......... .......... .......... ..                   100%  408K=0.8s
+
+2017-02-03 19:06:13 (412 KB/s) - ‘jbw011’ saved [340730/340730]
+
+--2017-02-03 19:06:14--  http://doi.org/10.1093/erae/jbw013
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw013 [following]
+--2017-02-03 19:06:16--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 488206 (477K) [text/html]
+Saving to: ‘jbw013’
+
+     0K .......... .......... .......... .......... .......... 10%  209K 2s
+    50K .......... .......... .......... .......... .......... 20%  611K 1s
+   100K .......... .......... .......... .......... .......... 31%  580K 1s
+   150K .......... .......... .......... .......... .......... 41%  612K 1s
+   200K .......... .......... .......... .......... .......... 52%  304K 1s
+   250K .......... .......... .......... .......... .......... 62%  610K 0s
+   300K .......... .......... .......... .......... .......... 73%  611K 0s
+   350K .......... .......... .......... .......... .......... 83%  313K 0s
+   400K .......... .......... .......... .......... .......... 94%  611K 0s
+   450K .......... .......... ......                          100%  350K=1.1s
+
+2017-02-03 19:06:23 (420 KB/s) - ‘jbw013’ saved [488206/488206]
+
+--2017-02-03 19:06:24--  http://doi.org/10.1093/erae/jbw012
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw012 [following]
+--2017-02-03 19:06:26--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 406975 (397K) [text/html]
+Saving to: ‘jbw012’
+
+     0K .......... .......... .......... .......... .......... 12%  209K 2s
+    50K .......... .......... .......... .......... .......... 25%  612K 1s
+   100K .......... .......... .......... .......... .......... 37%  594K 1s
+   150K .......... .......... .......... .......... .......... 50%  315K 1s
+   200K .......... .......... .......... .......... .......... 62%  598K 0s
+   250K .......... .......... .......... .......... .......... 75%  602K 0s
+   300K .......... .......... .......... .......... .......... 88%  604K 0s
+   350K .......... .......... .......... .......... .......   100%  297K=1.0s
+
+2017-02-03 19:06:35 (408 KB/s) - ‘jbw012’ saved [406975/406975]
+
+--2017-02-03 19:06:36--  http://doi.org/10.1093/erae/jbw005
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw005 [following]
+--2017-02-03 19:06:38--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 332575 (325K) [text/html]
+Saving to: ‘jbw005’
+
+     0K .......... .......... .......... .......... .......... 15%  209K 1s
+    50K .......... .......... .......... .......... .......... 30%  603K 1s
+   100K .......... .......... .......... .......... .......... 46%  612K 0s
+   150K .......... .......... .......... .......... .......... 61%  600K 0s
+   200K .......... .......... .......... .......... .......... 76%  311K 0s
+   250K .......... .......... .......... .......... .......... 92%  598K 0s
+   300K .......... .......... ....                            100% 11.7M=0.7s
+
+2017-02-03 19:06:45 (442 KB/s) - ‘jbw005’ saved [332575/332575]
+
+--2017-02-03 19:06:46--  http://doi.org/10.1093/erae/jbw008
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw008 [following]
+--2017-02-03 19:06:50--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 19:06:50 ERROR 400: Bad Request.
+
+--2017-02-03 19:06:51--  http://doi.org/10.1093/erae/jbw009
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw009 [following]
+--2017-02-03 19:06:53--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 114194 (112K) [text/html]
+Saving to: ‘jbw009’
+
+     0K .......... .......... .......... .......... .......... 44%  207K 0s
+    50K .......... .......... .......... .......... .......... 89%  602K 0s
+   100K .......... .                                          100% 26.0M=0.3s
+
+2017-02-03 19:06:58 (343 KB/s) - ‘jbw009’ saved [114194/114194]
+
+--2017-02-03 19:06:59--  http://doi.org/10.1093/erae/jbw010
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw010 [following]
+--2017-02-03 19:07:00--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 19:07:01 ERROR 400: Bad Request.
+
+--2017-02-03 19:07:02--  http://doi.org/10.1093/erae/jbw006
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw006 [following]
+--2017-02-03 19:07:03--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 388499 (379K) [text/html]
+Saving to: ‘jbw006’
+
+     0K .......... .......... .......... .......... .......... 13%  207K 2s
+    50K .......... .......... .......... .......... .......... 26%  588K 1s
+   100K .......... .......... .......... .......... .......... 39%  608K 1s
+   150K .......... .......... .......... .......... .......... 52%  599K 0s
+   200K .......... .......... .......... .......... .......... 65%  310K 0s
+   250K .......... .......... .......... .......... .......... 79%  592K 0s
+   300K .......... .......... .......... .......... .......... 92%  613K 0s
+   350K .......... .......... .........                       100%  352K=0.9s
+
+2017-02-03 19:07:12 (420 KB/s) - ‘jbw006’ saved [388499/388499]
+
+--2017-02-03 19:07:13--  http://doi.org/10.1093/erae/jbw007
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw007 [following]
+--2017-02-03 19:07:15--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 392743 (384K) [text/html]
+Saving to: ‘jbw007’
+
+     0K .......... .......... .......... .......... .......... 13%  209K 2s
+    50K .......... .......... .......... .......... .......... 26%  598K 1s
+   100K .......... .......... .......... .......... .......... 39%  612K 1s
+   150K .......... .......... .......... .......... .......... 52%  591K 0s
+   200K .......... .......... .......... .......... .......... 65%  312K 0s
+   250K .......... .......... .......... .......... .......... 78%  611K 0s
+   300K .......... .......... .......... .......... .......... 91%  590K 0s
+   350K .......... .......... .......... ...                  100% 27.8K=2.0s
+
+2017-02-03 19:07:22 (190 KB/s) - ‘jbw007’ saved [392743/392743]
+
+--2017-02-03 19:07:23--  http://doi.org/10.1093/erae/jbw004
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw004 [following]
+--2017-02-03 19:07:25--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 293340 (286K) [text/html]
+Saving to: ‘jbw004’
+
+     0K .......... .......... .......... .......... .......... 17%  208K 1s
+    50K .......... .......... .......... .......... .......... 34%  596K 1s
+   100K .......... .......... .......... .......... .......... 52%  601K 0s
+   150K .......... .......... .......... .......... .......... 69%  611K 0s
+   200K .......... .......... .......... .......... .......... 87%  313K 0s
+   250K .......... .......... .......... ......               100%  471K=0.7s
+
+2017-02-03 19:07:31 (394 KB/s) - ‘jbw004’ saved [293340/293340]
+
+--2017-02-03 19:07:32--  http://doi.org/10.1093/erae/jbv040
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv040 [following]
+--2017-02-03 19:07:34--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv040
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 555111 (542K) [text/html]
+Saving to: ‘jbv040’
+
+     0K .......... .......... .......... .......... ..........  9%  205K 2s
+    50K .......... .......... .......... .......... .......... 18%  599K 1s
+   100K .......... .......... .......... .......... .......... 27%  606K 1s
+   150K .......... .......... .......... .......... .......... 36%  318K 1s
+   200K .......... .......... .......... .......... .......... 46%  589K 1s
+   250K .......... .......... .......... .......... .......... 55%  601K 1s
+   300K .......... .......... .......... .......... .......... 64%  603K 0s
+   350K .......... .......... .......... .......... .......... 73%  313K 0s
+   400K .......... .......... .......... .......... .......... 83%  595K 0s
+   450K .......... .......... .......... .......... .......... 92%  611K 0s
+   500K .......... .......... .......... .......... ..        100%  518K=1.2s
+
+2017-02-03 19:07:42 (443 KB/s) - ‘jbv040’ saved [555111/555111]
+
+--2017-02-03 19:07:43--  http://doi.org/10.1093/erae/jbw003
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw003 [following]
+--2017-02-03 19:07:47--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 129937 (127K) [text/html]
+Saving to: ‘jbw003’
+
+     0K .......... .......... .......... .......... .......... 39%  208K 0s
+    50K .......... .......... .......... .......... .......... 78%  608K 0s
+   100K .......... .......... ......                          100%  348K=0.4s
+
+2017-02-03 19:07:54 (318 KB/s) - ‘jbw003’ saved [129937/129937]
+
+--2017-02-03 19:07:55--  http://doi.org/10.1093/erae/jbw001
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw001 [following]
+--2017-02-03 19:07:56--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 284106 (277K) [text/html]
+Saving to: ‘jbw001’
+
+     0K .......... .......... .......... .......... .......... 18%  207K 1s
+    50K .......... .......... .......... .......... .......... 36%  597K 1s
+   100K .......... .......... .......... .......... .......... 54%  606K 0s
+   150K .......... .......... .......... .......... .......... 72%  317K 0s
+   200K .......... .......... .......... .......... .......... 90%  581K 0s
+   250K .......... .......... .......                         100% 11.3M=0.7s
+
+2017-02-03 19:08:01 (425 KB/s) - ‘jbw001’ saved [284106/284106]
+
+--2017-02-03 19:08:02--  http://doi.org/10.1093/erae/jbw002
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw002 [following]
+--2017-02-03 19:08:06--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbw002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 19:08:08 ERROR 400: Bad Request.
+
+--2017-02-03 19:08:09--  http://doi.org/10.1093/erae/jbv041
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv041 [following]
+--2017-02-03 19:08:13--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv041
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 324373 (317K) [text/html]
+Saving to: ‘jbv041’
+
+     0K .......... .......... .......... .......... .......... 15%  209K 1s
+    50K .......... .......... .......... .......... .......... 31%  593K 1s
+   100K .......... .......... .......... .......... .......... 47%  613K 0s
+   150K .......... .......... .......... .......... .......... 63%  586K 0s
+   200K .......... .......... .......... .......... .......... 78%  317K 0s
+   250K .......... .......... .......... .......... .......... 94%  602K 0s
+   300K .......... ......                                     100%  213K=0.8s
+
+2017-02-03 19:08:18 (391 KB/s) - ‘jbv041’ saved [324373/324373]
+
+--2017-02-03 19:08:19--  http://doi.org/10.1093/erae/jbv037
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv037 [following]
+--2017-02-03 19:08:20--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv037
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 19:08:21 ERROR 400: Bad Request.
+
+--2017-02-03 19:08:22--  http://doi.org/10.1093/erae/jbv039
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv039 [following]
+--2017-02-03 19:08:24--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv039
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 359996 (352K) [text/html]
+Saving to: ‘jbv039’
+
+     0K .......... .......... .......... .......... .......... 14%  207K 1s
+    50K .......... .......... .......... .......... .......... 28%  601K 1s
+   100K .......... .......... .......... .......... .......... 42%  606K 1s
+   150K .......... .......... .......... .......... .......... 56%  407K 0s
+   200K .......... .......... .......... .......... .......... 71%  412K 0s
+   250K .......... .......... .......... .......... .......... 85%  581K 0s
+   300K .......... .......... .......... .......... .......... 99%  324K 0s
+   350K .                                                     100% 5.27M=0.9s
+
+2017-02-03 19:08:34 (394 KB/s) - ‘jbv039’ saved [359996/359996]
+
+--2017-02-03 19:08:35--  http://doi.org/10.1093/erae/jbv038
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv038 [following]
+--2017-02-03 19:08:37--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv038
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 382815 (374K) [text/html]
+Saving to: ‘jbv038’
+
+     0K .......... .......... .......... .......... .......... 13%  209K 2s
+    50K .......... .......... .......... .......... .......... 26%  604K 1s
+   100K .......... .......... .......... .......... .......... 40%  592K 1s
+   150K .......... .......... .......... .......... .......... 53%  416K 0s
+   200K .......... .......... .......... .......... .......... 66%  404K 0s
+   250K .......... .......... .......... .......... .......... 80%  604K 0s
+   300K .......... .......... .......... .......... .......... 93%  600K 0s
+   350K .......... .......... ...                             100%  303K=0.9s
+
+2017-02-03 19:08:43 (417 KB/s) - ‘jbv038’ saved [382815/382815]
+
+--2017-02-03 19:08:44--  http://doi.org/10.1093/erae/jbv036
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv036 [following]
+--2017-02-03 19:08:46--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv036
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 279939 (273K) [text/html]
+Saving to: ‘jbv036’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 36%  603K 1s
+   100K .......... .......... .......... .......... .......... 54%  590K 0s
+   150K .......... .......... .......... .......... .......... 73%  609K 0s
+   200K .......... .......... .......... .......... .......... 91%  311K 0s
+   250K .......... .......... ...                             100% 11.9M=0.7s
+
+2017-02-03 19:08:54 (420 KB/s) - ‘jbv036’ saved [279939/279939]
+
+--2017-02-03 19:08:55--  http://doi.org/10.1093/erae/jbw028
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 19:08:56--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘jbw028’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 19:08:56 (1.32 MB/s) - ‘jbw028’ saved [52438/52438]
+
+--2017-02-03 19:08:57--  http://doi.org/10.1093/erae/jbv033
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv033 [following]
+--2017-02-03 19:09:00--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv033
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 471056 (460K) [text/html]
+Saving to: ‘jbv033’
+
+     0K .......... .......... .......... .......... .......... 10%  208K 2s
+    50K .......... .......... .......... .......... .......... 21%  599K 1s
+   100K .......... .......... .......... .......... .......... 32%  603K 1s
+   150K .......... .......... .......... .......... .......... 43%  605K 1s
+   200K .......... .......... .......... .......... .......... 54%  320K 1s
+   250K .......... .......... .......... .......... .......... 65%  578K 0s
+   300K .......... .......... .......... .......... .......... 76%  599K 0s
+   350K .......... .......... .......... .......... .......... 86%  321K 0s
+   400K .......... .......... .......... .......... .......... 97%  610K 0s
+   450K ..........                                            100% 2.08M=1.1s
+
+2017-02-03 19:09:04 (435 KB/s) - ‘jbv033’ saved [471056/471056]
+
+--2017-02-03 19:09:05--  http://doi.org/10.1093/erae/jbv035
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv035 [following]
+--2017-02-03 19:09:07--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv035
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 109585 (107K) [text/html]
+Saving to: ‘jbv035’
+
+     0K .......... .......... .......... .......... .......... 46%  209K 0s
+    50K .......... .......... .......... .......... .......... 93%  606K 0s
+   100K .......                                               100% 30.8M=0.3s
+
+2017-02-03 19:09:10 (332 KB/s) - ‘jbv035’ saved [109585/109585]
+
+--2017-02-03 19:09:11--  http://doi.org/10.1093/erae/jbv034
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv034 [following]
+--2017-02-03 19:09:13--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv034
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 110117 (108K) [text/html]
+Saving to: ‘jbv034’
+
+     0K .......... .......... .......... .......... .......... 46%  309K 0s
+    50K .......... .......... .......... .......... .......... 92%  313K 0s
+   100K .......                                               100% 17.6M=0.3s
+
+2017-02-03 19:09:16 (334 KB/s) - ‘jbv034’ saved [110117/110117]
+
+--2017-02-03 19:09:17--  http://doi.org/10.1093/erae/jbv032
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv032 [following]
+--2017-02-03 19:09:20--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv032
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 283433 (277K) [text/html]
+Saving to: ‘jbv032’
+
+     0K .......... .......... .......... .......... .......... 18%  208K 1s
+    50K .......... .......... .......... .......... .......... 36%  580K 1s
+   100K .......... .......... .......... .......... .......... 54%  614K 0s
+   150K .......... .......... .......... .......... .......... 72%  600K 0s
+   200K .......... .......... .......... .......... .......... 90%  314K 0s
+   250K .......... .......... ......                          100% 6.55M=0.7s
+
+2017-02-03 19:09:23 (423 KB/s) - ‘jbv032’ saved [283433/283433]
+
+--2017-02-03 19:09:24--  http://doi.org/10.1093/erae/jbv028
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv028 [following]
+--2017-02-03 19:09:29--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv028
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 19:09:30 ERROR 400: Bad Request.
+
+--2017-02-03 19:09:31--  http://doi.org/10.1093/erae/jbv030
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv030 [following]
+--2017-02-03 19:09:32--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv030
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 300739 (294K) [text/html]
+Saving to: ‘jbv030’
+
+     0K .......... .......... .......... .......... .......... 17%  208K 1s
+    50K .......... .......... .......... .......... .......... 34%  607K 1s
+   100K .......... .......... .......... .......... .......... 51%  615K 0s
+   150K .......... .......... .......... .......... .......... 68%  602K 0s
+   200K .......... .......... .......... .......... .......... 85%  313K 0s
+   250K .......... .......... .......... .......... ...       100%  522K=0.7s
+
+2017-02-03 19:09:36 (402 KB/s) - ‘jbv030’ saved [300739/300739]
+
+--2017-02-03 19:09:37--  http://doi.org/10.1093/erae/jbv031
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv031 [following]
+--2017-02-03 19:09:39--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv031
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 318283 (311K) [text/html]
+Saving to: ‘jbv031’
+
+     0K .......... .......... .......... .......... .......... 16%  209K 1s
+    50K .......... .......... .......... .......... .......... 32%  606K 1s
+   100K .......... .......... .......... .......... .......... 48%  610K 0s
+   150K .......... .......... .......... .......... .......... 64%  319K 0s
+   200K .......... .......... .......... .......... .......... 80%  578K 0s
+   250K .......... .......... .......... .......... .......... 96%  598K 0s
+   300K ..........                                            100% 18.7M=0.7s
+
+2017-02-03 19:09:45 (425 KB/s) - ‘jbv031’ saved [318283/318283]
+
+--2017-02-03 19:09:46--  http://doi.org/10.1093/erae/jbv029
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv029 [following]
+--2017-02-03 19:09:47--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv029
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 131182 (128K) [text/html]
+Saving to: ‘jbv029’
+
+     0K .......... .......... .......... .......... .......... 39%  207K 0s
+    50K .......... .......... .......... .......... .......... 78%  615K 0s
+   100K .......... .......... ........                        100%  355K=0.4s
+
+2017-02-03 19:09:51 (319 KB/s) - ‘jbv029’ saved [131182/131182]
+
+--2017-02-03 19:09:52--  http://doi.org/10.1093/erae/jbv026
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv026 [following]
+--2017-02-03 19:09:58--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv026
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 298426 (291K) [text/html]
+Saving to: ‘jbv026’
+
+     0K .......... .......... .......... .......... .......... 17%  208K 1s
+    50K .......... .......... .......... .......... .......... 34%  605K 1s
+   100K .......... .......... .......... .......... .......... 51%  607K 0s
+   150K .......... .......... .......... .......... .......... 68%  605K 0s
+   200K .......... .......... .......... .......... .......... 85%  309K 0s
+   250K .......... .......... .......... .......... .         100%  514K=0.7s
+
+2017-02-03 19:10:02 (399 KB/s) - ‘jbv026’ saved [298426/298426]
+
+--2017-02-03 19:10:03--  http://doi.org/10.1093/erae/jbv027
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv027 [following]
+--2017-02-03 19:10:05--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv027
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 140073 (137K) [text/html]
+Saving to: ‘jbv027’
+
+     0K .......... .......... .......... .......... .......... 36%  209K 0s
+    50K .......... .......... .......... .......... .......... 73%  606K 0s
+   100K .......... .......... .......... ......               100%  470K=0.4s
+
+2017-02-03 19:10:09 (342 KB/s) - ‘jbv027’ saved [140073/140073]
+
+--2017-02-03 19:10:10--  http://doi.org/10.1093/erae/jbv023
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv023 [following]
+--2017-02-03 19:10:13--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 365074 (357K) [text/html]
+Saving to: ‘jbv023’
+
+     0K .......... .......... .......... .......... .......... 14%  209K 1s
+    50K .......... .......... .......... .......... .......... 28%  594K 1s
+   100K .......... .......... .......... .......... .......... 42%  614K 1s
+   150K .......... .......... .......... .......... .......... 56%  425K 0s
+   200K .......... .......... .......... .......... .......... 70%  398K 0s
+   250K .......... .......... .......... .......... .......... 84%  611K 0s
+   300K .......... .......... .......... .......... .......... 98%  413K 0s
+   350K ......                                                100% 13.8M=0.9s
+
+2017-02-03 19:10:17 (419 KB/s) - ‘jbv023’ saved [365074/365074]
+
+--2017-02-03 19:10:18--  http://doi.org/10.1093/erae/jbv025
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv025 [following]
+--2017-02-03 19:10:19--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv025
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 265294 (259K) [text/html]
+Saving to: ‘jbv025’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 38%  610K 1s
+   100K .......... .......... .......... .......... .......... 57%  604K 0s
+   150K .......... .......... .......... .......... .......... 77%  320K 0s
+   200K .......... .......... .......... .......... .......... 96%  578K 0s
+   250K .........                                             100% 21.9M=0.6s
+
+2017-02-03 19:10:24 (400 KB/s) - ‘jbv025’ saved [265294/265294]
+
+--2017-02-03 19:10:25--  http://doi.org/10.1093/erae/jbv024
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv024 [following]
+--2017-02-03 19:10:27--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv024
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 421020 (411K) [text/html]
+Saving to: ‘jbv024’
+
+     0K .......... .......... .......... .......... .......... 12%  208K 2s
+    50K .......... .......... .......... .......... .......... 24%  601K 1s
+   100K .......... .......... .......... .......... .......... 36%  609K 1s
+   150K .......... .......... .......... .......... .......... 48%  589K 1s
+   200K .......... .......... .......... .......... .......... 60%  312K 0s
+   250K .......... .......... .......... .......... .......... 72%  604K 0s
+   300K .......... .......... .......... .......... .......... 85%  610K 0s
+   350K .......... .......... .......... .......... .......... 97%  600K 0s
+   400K .......... .                                          100% 19.3M=0.9s
+
+2017-02-03 19:10:33 (457 KB/s) - ‘jbv024’ saved [421020/421020]
+
+--2017-02-03 19:10:34--  http://doi.org/10.1093/erae/jbv022
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv022 [following]
+--2017-02-03 19:10:40--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv022
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 416090 (406K) [text/html]
+Saving to: ‘jbv022’
+
+     0K .......... .......... .......... .......... .......... 12%  208K 2s
+    50K .......... .......... .......... .......... .......... 24%  605K 1s
+   100K .......... .......... .......... .......... .......... 36%  611K 1s
+   150K .......... .......... .......... .......... .......... 49%  413K 1s
+   200K .......... .......... .......... .......... .......... 61%  410K 0s
+   250K .......... .......... .......... .......... .......... 73%  606K 0s
+   300K .......... .......... .......... .......... .......... 86%  607K 0s
+   350K .......... .......... .......... .......... .......... 98%  311K 0s
+   400K ......                                                100% 18.1M=1.0s
+
+2017-02-03 19:10:47 (417 KB/s) - ‘jbv022’ saved [416090/416090]
+
+--2017-02-03 19:10:48--  http://doi.org/10.1093/erae/jbv020
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv020 [following]
+--2017-02-03 19:10:50--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv020
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 382523 (374K) [text/html]
+Saving to: ‘jbv020’
+
+     0K .......... .......... .......... .......... .......... 13%  209K 2s
+    50K .......... .......... .......... .......... .......... 26%  600K 1s
+   100K .......... .......... .......... .......... .......... 40%  610K 1s
+   150K .......... .......... .......... .......... .......... 53%  589K 0s
+   200K .......... .......... .......... .......... .......... 66%  318K 0s
+   250K .......... .......... .......... .......... .......... 80%  590K 0s
+   300K .......... .......... .......... .......... .......... 93%  610K 0s
+   350K .......... .......... ...                             100%  294K=0.9s
+
+2017-02-03 19:10:56 (418 KB/s) - ‘jbv020’ saved [382523/382523]
+
+--2017-02-03 19:10:57--  http://doi.org/10.1093/erae/jbv021
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv021 [following]
+--2017-02-03 19:10:58--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 310886 (304K) [text/html]
+Saving to: ‘jbv021’
+
+     0K .......... .......... .......... .......... .......... 16%  208K 1s
+    50K .......... .......... .......... .......... .......... 32%  605K 1s
+   100K .......... .......... .......... .......... .......... 49%  607K 0s
+   150K .......... .......... .......... .......... .......... 65%  312K 0s
+   200K .......... .......... .......... .......... .......... 82%  605K 0s
+   250K .......... .......... .......... .......... .......... 98%  607K 0s
+   300K ...                                                   100% 6866G=0.7s
+
+2017-02-03 19:11:04 (415 KB/s) - ‘jbv021’ saved [310886/310886]
+
+--2017-02-03 19:11:05--  http://doi.org/10.1093/erae/jbv019
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv019 [following]
+--2017-02-03 19:11:07--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 310308 (303K) [text/html]
+Saving to: ‘jbv019’
+
+     0K .......... .......... .......... .......... .......... 16%  209K 1s
+    50K .......... .......... .......... .......... .......... 32%  606K 1s
+   100K .......... .......... .......... .......... .......... 49%  604K 0s
+   150K .......... .......... .......... .......... .......... 65%  317K 0s
+   200K .......... .......... .......... .......... .......... 82%  598K 0s
+   250K .......... .......... .......... .......... .......... 98%  594K 0s
+   300K ...                                                   100% 11.6M=0.7s
+
+2017-02-03 19:11:11 (415 KB/s) - ‘jbv019’ saved [310308/310308]
+
+--2017-02-03 19:11:12--  http://doi.org/10.1093/erae/jbv017
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv017 [following]
+--2017-02-03 19:11:14--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 418302 (408K) [text/html]
+Saving to: ‘jbv017’
+
+     0K .......... .......... .......... .......... .......... 12%  209K 2s
+    50K .......... .......... .......... .......... .......... 24%  593K 1s
+   100K .......... .......... .......... .......... .......... 36%  606K 1s
+   150K .......... .......... .......... .......... .......... 48%  313K 1s
+   200K .......... .......... .......... .......... .......... 61%  598K 0s
+   250K .......... .......... .......... .......... .......... 73%  597K 0s
+   300K .......... .......... .......... .......... .......... 85%  606K 0s
+   350K .......... .......... .......... .......... .......... 97%  318K 0s
+   400K ........                                              100% 20.9M=1.0s
+
+2017-02-03 19:11:22 (420 KB/s) - ‘jbv017’ saved [418302/418302]
+
+--2017-02-03 19:11:23--  http://doi.org/10.1093/erae/jbv018
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv018 [following]
+--2017-02-03 19:11:25--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv018
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 357264 (349K) [text/html]
+Saving to: ‘jbv018’
+
+     0K .......... .......... .......... .......... .......... 14%  309K 1s
+    50K .......... .......... .......... .......... .......... 28%  313K 1s
+   100K .......... .......... .......... .......... .......... 42%  605K 1s
+   150K .......... .......... .......... .......... .......... 57%  603K 0s
+   200K .......... .......... .......... .......... .......... 71%  315K 0s
+   250K .......... .......... .......... .......... .......... 85%  601K 0s
+   300K .......... .......... .......... .......... ........  100%  605K=0.8s
+
+2017-02-03 19:11:30 (431 KB/s) - ‘jbv018’ saved [357264/357264]
+
+--2017-02-03 19:11:31--  http://doi.org/10.1093/erae/jbv014
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv014 [following]
+--2017-02-03 19:11:34--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv014
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 267491 (261K) [text/html]
+Saving to: ‘jbv014’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 38%  605K 1s
+   100K .......... .......... .......... .......... .......... 57%  611K 0s
+   150K .......... .......... .......... .......... .......... 76%  317K 0s
+   200K .......... .......... .......... .......... .......... 95%  596K 0s
+   250K .......... .                                          100% 28.7M=0.6s
+
+2017-02-03 19:11:38 (405 KB/s) - ‘jbv014’ saved [267491/267491]
+
+--2017-02-03 19:11:39--  http://doi.org/10.1093/erae/jbv016
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv016 [following]
+--2017-02-03 19:11:42--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv016
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 366762 (358K) [text/html]
+Saving to: ‘jbv016’
+
+     0K .......... .......... .......... .......... .......... 13%  209K 1s
+    50K .......... .......... .......... .......... .......... 27%  598K 1s
+   100K .......... .......... .......... .......... .......... 41%  611K 1s
+   150K .......... .......... .......... .......... .......... 55%  313K 0s
+   200K .......... .......... .......... .......... .......... 69%  608K 0s
+   250K .......... .......... .......... .......... .......... 83%  608K 0s
+   300K .......... .......... .......... .......... .......... 97%  317K 0s
+   350K ........                                              100% 5.82M=0.9s
+
+2017-02-03 19:11:47 (403 KB/s) - ‘jbv016’ saved [366762/366762]
+
+--2017-02-03 19:11:48--  http://doi.org/10.1093/erae/jbv015
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv015 [following]
+--2017-02-03 19:11:50--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 19:11:52 ERROR 400: Bad Request.
+
+--2017-02-03 19:11:53--  http://doi.org/10.1093/erae/jbv013
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv013 [following]
+--2017-02-03 19:11:55--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 313612 (306K) [text/html]
+Saving to: ‘jbv013’
+
+     0K .......... .......... .......... .......... .......... 16%  209K 1s
+    50K .......... .......... .......... .......... .......... 32%  602K 1s
+   100K .......... .......... .......... .......... .......... 48%  614K 0s
+   150K .......... .......... .......... .......... .......... 65%  603K 0s
+   200K .......... .......... .......... .......... .......... 81%  310K 0s
+   250K .......... .......... .......... .......... .......... 97%  610K 0s
+   300K ......                                                100% 11.7M=0.7s
+
+2017-02-03 19:12:03 (419 KB/s) - ‘jbv013’ saved [313612/313612]
+
+--2017-02-03 19:12:04--  http://doi.org/10.1093/erae/jbv012
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv012 [following]
+--2017-02-03 19:12:07--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 340356 (332K) [text/html]
+Saving to: ‘jbv012’
+
+     0K .......... .......... .......... .......... .......... 15%  309K 1s
+    50K .......... .......... .......... .......... .......... 30%  314K 1s
+   100K .......... .......... .......... .......... .......... 45%  597K 0s
+   150K .......... .......... .......... .......... .......... 60%  611K 0s
+   200K .......... .......... .......... .......... .......... 75%  310K 0s
+   250K .......... .......... .......... .......... .......... 90%  601K 0s
+   300K .......... .......... .......... ..                   100%  426K=0.8s
+
+2017-02-03 19:12:11 (412 KB/s) - ‘jbv012’ saved [340356/340356]
+
+--2017-02-03 19:12:12--  http://doi.org/10.1093/erae/jbv010
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv010 [following]
+--2017-02-03 19:12:14--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 261485 (255K) [text/html]
+Saving to: ‘jbv010’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 39%  602K 1s
+   100K .......... .......... .......... .......... .......... 58%  611K 0s
+   150K .......... .......... .......... .......... .......... 78%  603K 0s
+   200K .......... .......... .......... .......... .......... 97%  311K 0s
+   250K .....                                                 100% 25.3M=0.6s
+
+2017-02-03 19:12:20 (394 KB/s) - ‘jbv010’ saved [261485/261485]
+
+--2017-02-03 19:12:21--  http://doi.org/10.1093/erae/jbv011
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv011 [following]
+--2017-02-03 19:12:23--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 126861 (124K) [text/html]
+Saving to: ‘jbv011’
+
+     0K .......... .......... .......... .......... .......... 40%  209K 0s
+    50K .......... .......... .......... .......... .......... 80%  611K 0s
+   100K .......... .......... ...                             100% 9.89M=0.3s
+
+2017-02-03 19:12:26 (383 KB/s) - ‘jbv011’ saved [126861/126861]
+
+--2017-02-03 19:12:27--  http://doi.org/10.1093/erae/jbv009
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv009 [following]
+--2017-02-03 19:12:29--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 112801 (110K) [text/html]
+Saving to: ‘jbv009’
+
+     0K .......... .......... .......... .......... .......... 45%  207K 0s
+    50K .......... .......... .......... .......... .......... 90%  606K 0s
+   100K ..........                                            100% 44.0M=0.3s
+
+2017-02-03 19:12:33 (340 KB/s) - ‘jbv009’ saved [112801/112801]
+
+--2017-02-03 19:12:34--  http://doi.org/10.1093/erae/jbv008
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv008 [following]
+--2017-02-03 19:12:35--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 344008 (336K) [text/html]
+Saving to: ‘jbv008’
+
+     0K .......... .......... .......... .......... .......... 14%  209K 1s
+    50K .......... .......... .......... .......... .......... 29%  609K 1s
+   100K .......... .......... .......... .......... .......... 44%  614K 0s
+   150K .......... .......... .......... .......... .......... 59%  595K 0s
+   200K .......... .......... .......... .......... .......... 74%  312K 0s
+   250K .......... .......... .......... .......... .......... 89%  610K 0s
+   300K .......... .......... .......... .....                100%  448K=0.8s
+
+2017-02-03 19:12:40 (415 KB/s) - ‘jbv008’ saved [344008/344008]
+
+--2017-02-03 19:12:41--  http://doi.org/10.1093/erae/jbv002
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv002 [following]
+--2017-02-03 19:12:42--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 19:12:43 ERROR 400: Bad Request.
+
+--2017-02-03 19:12:44--  http://doi.org/10.1093/erae/jbv007
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv007 [following]
+--2017-02-03 19:12:45--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 19:12:46 ERROR 400: Bad Request.
+
+--2017-02-03 19:12:47--  http://doi.org/10.1093/erae/jbv006
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv006 [following]
+--2017-02-03 19:12:49--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 279481 (273K) [text/html]
+Saving to: ‘jbv006’
+
+     0K .......... .......... .......... .......... .......... 18%  206K 1s
+    50K .......... .......... .......... .......... .......... 36%  599K 1s
+   100K .......... .......... .......... .......... .......... 54%  611K 0s
+   150K .......... .......... .......... .......... .......... 73%  313K 0s
+   200K .......... .......... .......... .......... .......... 91%  567K 0s
+   250K .......... .......... ..                              100% 8.97M=0.7s
+
+2017-02-03 19:12:53 (415 KB/s) - ‘jbv006’ saved [279481/279481]
+
+--2017-02-03 19:12:54--  http://doi.org/10.1093/erae/jbv004
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv004 [following]
+--2017-02-03 19:12:56--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 19:12:56 ERROR 400: Bad Request.
+
+--2017-02-03 19:12:57--  http://doi.org/10.1093/erae/jbv003
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv003 [following]
+--2017-02-03 19:13:01--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 278983 (272K) [text/html]
+Saving to: ‘jbv003’
+
+     0K .......... .......... .......... .......... .......... 18%  207K 1s
+    50K .......... .......... .......... .......... .......... 36%  589K 1s
+   100K .......... .......... .......... .......... .......... 55%  597K 0s
+   150K .......... .......... .......... .......... .......... 73%  319K 0s
+   200K .......... .......... .......... .......... .......... 91%  578K 0s
+   250K .......... .......... ..                              100% 4.09M=0.7s
+
+2017-02-03 19:13:05 (414 KB/s) - ‘jbv003’ saved [278983/278983]
+
+--2017-02-03 19:13:06--  http://doi.org/10.1093/erae/jbv001
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv001 [following]
+--2017-02-03 19:13:08--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 335012 (327K) [text/html]
+Saving to: ‘jbv001’
+
+     0K .......... .......... .......... .......... .......... 15%  209K 1s
+    50K .......... .......... .......... .......... .......... 30%  603K 1s
+   100K .......... .......... .......... .......... .......... 45%  607K 0s
+   150K .......... .......... .......... .......... .......... 61%  611K 0s
+   200K .......... .......... .......... .......... .......... 76%  314K 0s
+   250K .......... .......... .......... .......... .......... 91%  603K 0s
+   300K .......... .......... .......                         100%  353K=0.8s
+
+2017-02-03 19:13:12 (406 KB/s) - ‘jbv001’ saved [335012/335012]
+
+--2017-02-03 19:13:13--  http://doi.org/10.1093/erae/jbu040
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu040 [following]
+--2017-02-03 19:13:16--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu040
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 301531 (294K) [text/html]
+Saving to: ‘jbu040’
+
+     0K .......... .......... .......... .......... .......... 16%  209K 1s
+    50K .......... .......... .......... .......... .......... 33%  611K 1s
+   100K .......... .......... .......... .......... .......... 50%  607K 0s
+   150K .......... .......... .......... .......... .......... 67%  412K 0s
+   200K .......... .......... .......... .......... .......... 84%  412K 0s
+   250K .......... .......... .......... .......... ....      100%  550K=0.7s
+
+2017-02-03 19:13:20 (405 KB/s) - ‘jbu040’ saved [301531/301531]
+
+--2017-02-03 19:13:21--  http://doi.org/10.1093/erae/jbv005
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv005 [following]
+--2017-02-03 19:13:25--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbv005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 19:13:26 ERROR 400: Bad Request.
+
+--2017-02-03 19:13:27--  http://doi.org/10.1093/erae/jbu039
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu039 [following]
+--2017-02-03 19:13:29--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu039
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 112136 (110K) [text/html]
+Saving to: ‘jbu039’
+
+     0K .......... .......... .......... .......... .......... 45%  209K 0s
+    50K .......... .......... .......... .......... .......... 91%  604K 0s
+   100K .........                                             100% 54.9M=0.3s
+
+2017-02-03 19:13:32 (340 KB/s) - ‘jbu039’ saved [112136/112136]
+
+--2017-02-03 19:13:33--  http://doi.org/10.1093/erae/jbu038
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu038 [following]
+--2017-02-03 19:13:35--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu038
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 304188 (297K) [text/html]
+Saving to: ‘jbu038’
+
+     0K .......... .......... .......... .......... .......... 16%  209K 1s
+    50K .......... .......... .......... .......... .......... 33%  612K 1s
+   100K .......... .......... .......... .......... .......... 50%  604K 0s
+   150K .......... .......... .......... .......... .......... 67%  318K 0s
+   200K .......... .......... .......... .......... .......... 84%  593K 0s
+   250K .......... .......... .......... .......... .......   100%  580K=0.7s
+
+2017-02-03 19:13:39 (409 KB/s) - ‘jbu038’ saved [304188/304188]
+
+--2017-02-03 19:13:40--  http://doi.org/10.1093/erae/jbu037
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu037 [following]
+--2017-02-03 19:13:42--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu037
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 274915 (268K) [text/html]
+Saving to: ‘jbu037’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 37%  610K 1s
+   100K .......... .......... .......... .......... .......... 55%  610K 0s
+   150K .......... .......... .......... .......... .......... 74%  422K 0s
+   200K .......... .......... .......... .......... .......... 93%  403K 0s
+   250K .......... ........                                   100% 13.4M=0.6s
+
+2017-02-03 19:13:46 (415 KB/s) - ‘jbu037’ saved [274915/274915]
+
+--2017-02-03 19:13:47--  http://doi.org/10.1093/erae/jbu033
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu033 [following]
+--2017-02-03 19:13:50--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu033
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 431650 (422K) [text/html]
+Saving to: ‘jbu033’
+
+     0K .......... .......... .......... .......... .......... 11%  209K 2s
+    50K .......... .......... .......... .......... .......... 23%  599K 1s
+   100K .......... .......... .......... .......... .......... 35%  611K 1s
+   150K .......... .......... .......... .......... .......... 47%  581K 1s
+   200K .......... .......... .......... .......... .......... 59%  314K 0s
+   250K .......... .......... .......... .......... .......... 71%  601K 0s
+   300K .......... .......... .......... .......... .......... 83%  605K 0s
+   350K .......... .......... .......... .......... .......... 94%  315K 0s
+   400K .......... .......... .                               100% 6.37M=1.0s
+
+2017-02-03 19:13:55 (431 KB/s) - ‘jbu033’ saved [431650/431650]
+
+--2017-02-03 19:13:56--  http://doi.org/10.1093/erae/jbu036
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu036 [following]
+--2017-02-03 19:13:57--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu036
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 345755 (338K) [text/html]
+Saving to: ‘jbu036’
+
+     0K .......... .......... .......... .......... .......... 14%  308K 1s
+    50K .......... .......... .......... .......... .......... 29%  304K 1s
+   100K .......... .......... .......... .......... .......... 44%  612K 1s
+   150K .......... .......... .......... .......... .......... 59%  606K 0s
+   200K .......... .......... .......... .......... .......... 74%  314K 0s
+   250K .......... .......... .......... .......... .......... 88%  601K 0s
+   300K .......... .......... .......... .......              100%  473K=0.8s
+
+2017-02-03 19:14:01 (415 KB/s) - ‘jbu036’ saved [345755/345755]
+
+--2017-02-03 19:14:02--  http://doi.org/10.1093/erae/jbu035
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu035 [following]
+--2017-02-03 19:14:06--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu035
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 111797 (109K) [text/html]
+Saving to: ‘jbu035’
+
+     0K .......... .......... .......... .......... .......... 45%  309K 0s
+    50K .......... .......... .......... .......... .......... 91%  310K 0s
+   100K .........                                             100% 40.7M=0.3s
+
+2017-02-03 19:14:09 (338 KB/s) - ‘jbu035’ saved [111797/111797]
+
+--2017-02-03 19:14:10--  http://doi.org/10.1093/erae/jbu034
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu034 [following]
+--2017-02-03 19:14:13--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu034
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 422553 (413K) [text/html]
+Saving to: ‘jbu034’
+
+     0K .......... .......... .......... .......... .......... 12%  209K 2s
+    50K .......... .......... .......... .......... .......... 24%  605K 1s
+   100K .......... .......... .......... .......... .......... 36%  609K 1s
+   150K .......... .......... .......... .......... .......... 48%  606K 1s
+   200K .......... .......... .......... .......... .......... 60%  312K 0s
+   250K .......... .......... .......... .......... .......... 72%  601K 0s
+   300K .......... .......... .......... .......... .......... 84%  612K 0s
+   350K .......... .......... .......... .......... .......... 96%  316K 0s
+   400K .......... ..                                         100% 22.6M=1.0s
+
+2017-02-03 19:14:18 (425 KB/s) - ‘jbu034’ saved [422553/422553]
+
+--2017-02-03 19:14:19--  http://doi.org/10.1093/erae/jbu032
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu032 [following]
+--2017-02-03 19:14:22--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu032
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 302728 (296K) [text/html]
+Saving to: ‘jbu032’
+
+     0K .......... .......... .......... .......... .......... 16%  309K 1s
+    50K .......... .......... .......... .......... .......... 33%  316K 1s
+   100K .......... .......... .......... .......... .......... 50%  605K 0s
+   150K .......... .......... .......... .......... .......... 67%  584K 0s
+   200K .......... .......... .......... .......... .......... 84%  320K 0s
+   250K .......... .......... .......... .......... .....     100%  563K=0.7s
+
+2017-02-03 19:14:26 (407 KB/s) - ‘jbu032’ saved [302728/302728]
+
+--2017-02-03 19:14:27--  http://doi.org/10.1093/erae/jbu031
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu031 [following]
+--2017-02-03 19:14:30--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu031
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 401198 (392K) [text/html]
+Saving to: ‘jbu031’
+
+     0K .......... .......... .......... .......... .......... 12%  209K 2s
+    50K .......... .......... .......... .......... .......... 25%  606K 1s
+   100K .......... .......... .......... .......... .......... 38%  613K 1s
+   150K .......... .......... .......... .......... .......... 51%  601K 0s
+   200K .......... .......... .......... .......... .......... 63%  313K 0s
+   250K .......... .......... .......... .......... .......... 76%  613K 0s
+   300K .......... .......... .......... .......... .......... 89%  590K 0s
+   350K .......... .......... .......... .......... .         100%  516K=0.9s
+
+2017-02-03 19:14:34 (439 KB/s) - ‘jbu031’ saved [401198/401198]
+
+--2017-02-03 19:14:35--  http://doi.org/10.1093/erae/jbu030
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu030 [following]
+--2017-02-03 19:14:38--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu030
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 112064 (109K) [text/html]
+Saving to: ‘jbu030’
+
+     0K .......... .......... .......... .......... .......... 45%  209K 0s
+    50K .......... .......... .......... .......... .......... 91%  609K 0s
+   100K .........                                             100% 31.3M=0.3s
+
+2017-02-03 19:14:41 (340 KB/s) - ‘jbu030’ saved [112064/112064]
+
+--2017-02-03 19:14:42--  http://doi.org/10.1093/erae/jbu028
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu028 [following]
+--2017-02-03 19:14:44--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu028
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 19:14:44 ERROR 400: Bad Request.
+
+--2017-02-03 19:14:45--  http://doi.org/10.1093/erae/jbu022
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu022 [following]
+--2017-02-03 19:14:49--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu022
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 285326 (279K) [text/html]
+Saving to: ‘jbu022’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 35%  609K 1s
+   100K .......... .......... .......... .......... .......... 53%  607K 0s
+   150K .......... .......... .......... .......... .......... 71%  420K 0s
+   200K .......... .......... .......... .......... .......... 89%  412K 0s
+   250K .......... .......... ........                        100% 3.95M=0.7s
+
+2017-02-03 19:14:53 (428 KB/s) - ‘jbu022’ saved [285326/285326]
+
+--2017-02-03 19:14:54--  http://doi.org/10.1093/erae/jbu029
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu029 [following]
+--2017-02-03 19:14:56--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu029
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 109969 (107K) [text/html]
+Saving to: ‘jbu029’
+
+     0K .......... .......... .......... .......... .......... 46%  209K 0s
+    50K .......... .......... .......... .......... .......... 93%  606K 0s
+   100K .......                                               100% 26.0M=0.3s
+
+2017-02-03 19:15:00 (333 KB/s) - ‘jbu029’ saved [109969/109969]
+
+--2017-02-03 19:15:01--  http://doi.org/10.1093/erae/jbu014
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu014 [following]
+--2017-02-03 19:15:06--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu014
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 316975 (310K) [text/html]
+Saving to: ‘jbu014’
+
+     0K .......... .......... .......... .......... .......... 16%  306K 1s
+    50K .......... .......... .......... .......... .......... 32%  310K 1s
+   100K .......... .......... .......... .......... .......... 48%  572K 0s
+   150K .......... .......... .......... .......... .......... 64%  607K 0s
+   200K .......... .......... .......... .......... .......... 80%  319K 0s
+   250K .......... .......... .......... .......... .......... 96%  592K 0s
+   300K .........                                             100% 14.0M=0.7s
+
+2017-02-03 19:15:12 (420 KB/s) - ‘jbu014’ saved [316975/316975]
+
+--2017-02-03 19:15:13--  http://doi.org/10.1093/erae/jbu021
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu021 [following]
+--2017-02-03 19:15:14--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 375574 (367K) [text/html]
+Saving to: ‘jbu021’
+
+     0K .......... .......... .......... .......... .......... 13%  251K 1s
+    50K .......... .......... .......... .......... .......... 27%  411K 1s
+   100K .......... .......... .......... .......... .......... 40%  604K 1s
+   150K .......... .......... .......... .......... .......... 54%  420K 0s
+   200K .......... .......... .......... .......... .......... 68%  414K 0s
+   250K .......... .......... .......... .......... .......... 81%  602K 0s
+   300K .......... .......... .......... .......... .......... 95%  420K 0s
+   350K .......... ......                                     100%  412K=0.9s
+
+2017-02-03 19:15:19 (414 KB/s) - ‘jbu021’ saved [375574/375574]
+
+--2017-02-03 19:15:20--  http://doi.org/10.1093/erae/jbu013
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu013 [following]
+--2017-02-03 19:15:21--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 111066 (108K) [text/html]
+Saving to: ‘jbu013’
+
+     0K .......... .......... .......... .......... .......... 46%  208K 0s
+    50K .......... .......... .......... .......... .......... 92%  591K 0s
+   100K ........                                              100% 56.2M=0.3s
+
+2017-02-03 19:15:24 (334 KB/s) - ‘jbu013’ saved [111066/111066]
+
+--2017-02-03 19:15:25--  http://doi.org/10.1093/erae/jbu024
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu024 [following]
+--2017-02-03 19:15:27--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu024
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 19:15:28 ERROR 400: Bad Request.
+
+--2017-02-03 19:15:29--  http://doi.org/10.1093/erae/jbu023
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu023 [following]
+--2017-02-03 19:15:30--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 320138 (313K) [text/html]
+Saving to: ‘jbu023’
+
+     0K .......... .......... .......... .......... .......... 15%  209K 1s
+    50K .......... .......... .......... .......... .......... 31%  604K 1s
+   100K .......... .......... .......... .......... .......... 47%  610K 0s
+   150K .......... .......... .......... .......... .......... 63%  411K 0s
+   200K .......... .......... .......... .......... .......... 79%  417K 0s
+   250K .......... .......... .......... .......... .......... 95%  406K 0s
+   300K .......... ..                                         100% 27.6M=0.8s
+
+2017-02-03 19:15:36 (406 KB/s) - ‘jbu023’ saved [320138/320138]
+
+--2017-02-03 19:15:37--  http://doi.org/10.1093/erae/jbu025
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu025 [following]
+--2017-02-03 19:15:38--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu025
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 255661 (250K) [text/html]
+Saving to: ‘jbu025’
+
+     0K .......... .......... .......... .......... .......... 20%  309K 1s
+    50K .......... .......... .......... .......... .......... 40%  314K 0s
+   100K .......... .......... .......... .......... .......... 60%  604K 0s
+   150K .......... .......... .......... .......... .......... 80%  316K 0s
+   200K .......... .......... .......... .......... ......... 100%  602K=0.6s
+
+2017-02-03 19:15:43 (387 KB/s) - ‘jbu025’ saved [255661/255661]
+
+--2017-02-03 19:15:44--  http://doi.org/10.1093/erae/jbu026
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu026 [following]
+--2017-02-03 19:15:46--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu026
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 411893 (402K) [text/html]
+Saving to: ‘jbu026’
+
+     0K .......... .......... .......... .......... .......... 12%  209K 2s
+    50K .......... .......... .......... .......... .......... 24%  588K 1s
+   100K .......... .......... .......... .......... .......... 37%  610K 1s
+   150K .......... .......... .......... .......... .......... 49%  605K 0s
+   200K .......... .......... .......... .......... .......... 62%  313K 0s
+   250K .......... .......... .......... .......... .......... 74%  611K 0s
+   300K .......... .......... .......... .......... .......... 87%  603K 0s
+   350K .......... .......... .......... .......... .......... 99%  606K 0s
+   400K ..                                                    100% 4271G=0.9s
+
+2017-02-03 19:15:51 (449 KB/s) - ‘jbu026’ saved [411893/411893]
+
+--2017-02-03 19:15:52--  http://doi.org/10.1093/erae/jbu020
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu020 [following]
+--2017-02-03 19:15:54--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu020
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 276681 (270K) [text/html]
+Saving to: ‘jbu020’
+
+     0K .......... .......... .......... .......... .......... 18%  208K 1s
+    50K .......... .......... .......... .......... .......... 37%  578K 1s
+   100K .......... .......... .......... .......... .......... 55%  606K 0s
+   150K .......... .......... .......... .......... .......... 74%  611K 0s
+   200K .......... .......... .......... .......... .......... 92%  312K 0s
+   250K .......... ..........                                 100% 13.1M=0.7s
+
+2017-02-03 19:15:57 (413 KB/s) - ‘jbu020’ saved [276681/276681]
+
+--2017-02-03 19:15:58--  http://doi.org/10.1093/erae/jbu027
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu027 [following]
+--2017-02-03 19:16:00--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu027
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 19:16:02 ERROR 400: Bad Request.
+
+--2017-02-03 19:16:03--  http://doi.org/10.1093/erae/jbu019
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu019 [following]
+--2017-02-03 19:16:09--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 261110 (255K) [text/html]
+Saving to: ‘jbu019’
+
+     0K .......... .......... .......... .......... .......... 19%  310K 1s
+    50K .......... .......... .......... .......... .......... 39%  316K 0s
+   100K .......... .......... .......... .......... .......... 58%  598K 0s
+   150K .......... .......... .......... .......... .......... 78%  319K 0s
+   200K .......... .......... .......... .......... .......... 98%  598K 0s
+   250K ....                                                  100% 9518G=0.6s
+
+2017-02-03 19:16:14 (396 KB/s) - ‘jbu019’ saved [261110/261110]
+
+--2017-02-03 19:16:15--  http://doi.org/10.1093/erae/jbu018
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu018 [following]
+--2017-02-03 19:16:16--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu018
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 258311 (252K) [text/html]
+Saving to: ‘jbu018’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 39%  605K 0s
+   100K .......... .......... .......... .......... .......... 59%  552K 0s
+   150K .......... .......... .......... .......... .......... 79%  598K 0s
+   200K .......... .......... .......... .......... .......... 99%  436K 0s
+   250K ..                                                    100% 4305G=0.6s
+
+2017-02-03 19:16:58 (413 KB/s) - ‘jbu018’ saved [258311/258311]
+
+--2017-02-03 19:16:59--  http://doi.org/10.1093/erae/jbu008
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu008 [following]
+--2017-02-03 19:17:02--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 19:17:04 ERROR 400: Bad Request.
+
+--2017-02-03 19:17:05--  http://doi.org/10.1093/erae/jbu017
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu017 [following]
+--2017-02-03 19:17:06--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 271513 (265K) [text/html]
+Saving to: ‘jbu017’
+
+     0K .......... .......... .......... .......... .......... 18%  208K 1s
+    50K .......... .......... .......... .......... .......... 37%  608K 1s
+   100K .......... .......... .......... .......... .......... 56%  605K 0s
+   150K .......... .......... .......... .......... .......... 75%  315K 0s
+   200K .......... .......... .......... .......... .......... 94%  595K 0s
+   250K .......... .....                                      100% 14.0M=0.6s
+
+2017-02-03 19:17:10 (408 KB/s) - ‘jbu017’ saved [271513/271513]
+
+--2017-02-03 19:17:11--  http://doi.org/10.1093/erae/jbu016
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu016 [following]
+--2017-02-03 19:17:13--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu016
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 370332 (362K) [text/html]
+Saving to: ‘jbu016’
+
+     0K .......... .......... .......... .......... .......... 13%  209K 1s
+    50K .......... .......... .......... .......... .......... 27%  600K 1s
+   100K .......... .......... .......... .......... .......... 41%  610K 1s
+   150K .......... .......... .......... .......... .......... 55%  598K 0s
+   200K .......... .......... .......... .......... .......... 69%  315K 0s
+   250K .......... .......... .......... .......... .......... 82%  604K 0s
+   300K .......... .......... .......... .......... .......... 96%  602K 0s
+   350K .......... .                                          100%  155K=0.9s
+
+2017-02-03 19:17:17 (407 KB/s) - ‘jbu016’ saved [370332/370332]
+
+--2017-02-03 19:17:18--  http://doi.org/10.1093/erae/jbu015
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu015 [following]
+--2017-02-03 19:17:25--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 288693 (282K) [text/html]
+Saving to: ‘jbu015’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 35%  600K 1s
+   100K .......... .......... .......... .......... .......... 53%  603K 0s
+   150K .......... .......... .......... .......... .......... 70%  316K 0s
+   200K .......... .......... .......... .......... .......... 88%  591K 0s
+   250K .......... .......... .......... .                    100%  392K=0.7s
+
+2017-02-03 19:17:29 (386 KB/s) - ‘jbu015’ saved [288693/288693]
+
+--2017-02-03 19:17:30--  http://doi.org/10.1093/erae/jbu012
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu012 [following]
+--2017-02-03 19:17:32--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 399439 (390K) [text/html]
+Saving to: ‘jbu012’
+
+     0K .......... .......... .......... .......... .......... 12%  209K 2s
+    50K .......... .......... .......... .......... .......... 25%  615K 1s
+   100K .......... .......... .......... .......... .......... 38%  598K 1s
+   150K .......... .......... .......... .......... .......... 51%  317K 1s
+   200K .......... .......... .......... .......... .......... 64%  594K 0s
+   250K .......... .......... .......... .......... .......... 76%  609K 0s
+   300K .......... .......... .......... .......... .......... 89%  313K 0s
+   350K .......... .......... .......... ..........           100%  480K=1.0s
+
+2017-02-03 19:17:36 (401 KB/s) - ‘jbu012’ saved [399439/399439]
+
+--2017-02-03 19:17:37--  http://doi.org/10.1093/erae/jbu009
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu009 [following]
+--2017-02-03 19:17:39--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 445786 (435K) [text/html]
+Saving to: ‘jbu009’
+
+     0K .......... .......... .......... .......... .......... 11%  208K 2s
+    50K .......... .......... .......... .......... .......... 22%  598K 1s
+   100K .......... .......... .......... .......... .......... 34%  613K 1s
+   150K .......... .......... .......... .......... .......... 45%  589K 1s
+   200K .......... .......... .......... .......... .......... 57%  314K 0s
+   250K .......... .......... .......... .......... .......... 68%  611K 0s
+   300K .......... .......... .......... .......... .......... 80%  578K 0s
+   350K .......... .......... .......... .......... .......... 91%  602K 0s
+   400K .......... .......... .......... .....                100%  435K=1.0s
+
+2017-02-03 19:17:44 (443 KB/s) - ‘jbu009’ saved [445786/445786]
+
+--2017-02-03 19:17:45--  http://doi.org/10.1093/erae/jbu010
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu010 [following]
+--2017-02-03 19:17:47--  https://academic.oup.com/erae/article-lookup/doi/10.1093/erae/jbu010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 450118 (440K) [text/html]
+Saving to: ‘jbu010’
+
+     0K .......... .......... .......... .......... .......... 11%  209K 2s
+    50K .......... .......... .......... .......... .......... 22%  605K 1s
+   100K .......... .......... .......... .......... .......... 34%  613K 1s
+   150K .......... .......... .......... .......... .......... 45%  608K 1s
+   200K .......... .......... .......... .......... .......... 56%  311K 0s
+   250K .......... .......... .......... .......... .......... 68%  605K 0s
+   300K .......... .......... .......... .......... .......... 79%  613K 0s
+   350K .......... .......... .......... .......... .......... 90%  313K 0s
+   400K .......... .......... .......... .........            100%  488K=1.1s
+
+2017-02-03 19:17:52 (418 KB/s) - ‘jbu010’ saved [450118/450118]
+
+FINISHED --2017-02-03 19:17:52--
+Total wall clock time: 13m 34s
+Downloaded: 82 files, 23M in 59s (402 KB/s)

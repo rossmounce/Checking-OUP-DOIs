@@ -1,0 +1,1867 @@
+--2017-02-02 20:32:15--  http://doi.org/10.1093/amrx/abw012
+Resolving doi.org (doi.org)... 208.254.38.90, 63.123.152.248, 95.138.171.129, ...
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://amrx.oxfordjournals.org/lookup/doi/10.1093/amrx/abw012 [following]
+--2017-02-02 20:32:16--  http://amrx.oxfordjournals.org/lookup/doi/10.1093/amrx/abw012
+Resolving amrx.oxfordjournals.org (amrx.oxfordjournals.org)... 209.135.222.209
+Connecting to amrx.oxfordjournals.org (amrx.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from amrx.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/amrx/article/doi/10.1093/amrx/abw012/2919097/Regularity-and-Locality-of-Point-Defects-in [following]
+--2017-02-02 20:32:17--  https://academic.oup.com/amrx/article/doi/10.1093/amrx/abw012/2919097/Regularity-and-Locality-of-Point-Defects-in
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 771781 (754K) [text/html]
+Saving to: ‘abw012’
+
+     0K .......... .......... .......... .......... ..........  6%  209K 3s
+    50K .......... .......... .......... .......... .......... 13%  607K 2s
+   100K .......... .......... .......... .......... .......... 19%  611K 2s
+   150K .......... .......... .......... .......... .......... 26%  312K 2s
+   200K .......... .......... .......... .......... .......... 33%  606K 1s
+   250K .......... .......... .......... .......... .......... 39%  576K 1s
+   300K .......... .......... .......... .......... .......... 46%  616K 1s
+   350K .......... .......... .......... .......... .......... 53%  317K 1s
+   400K .......... .......... .......... .......... .......... 59%  594K 1s
+   450K .......... .......... .......... .......... .......... 66%  597K 1s
+   500K .......... .......... .......... .......... .......... 72%  317K 0s
+   550K .......... .......... .......... .......... .......... 79%  595K 0s
+   600K .......... .......... .......... .......... .......... 86%  605K 0s
+   650K .......... .......... .......... .......... .......... 92%  315K 0s
+   700K .......... .......... .......... .......... .......... 99%  610K 0s
+   750K ...                                                   100% 7043G=1.7s
+
+2017-02-02 20:32:27 (442 KB/s) - ‘abw012’ saved [771781/771781]
+
+--2017-02-02 20:32:28--  http://doi.org/10.1093/amrx/abx001
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-02 20:32:29--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Resolving fdslive.oup.com (fdslive.oup.com)... 193.67.160.201
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘abx001’
+
+     0K .......... .......... .......... .......... .......... 97%  878K 0s
+    50K .                                                     100% 2306G=0.06s
+
+2017-02-02 20:32:29 (899 KB/s) - ‘abx001’ saved [52438/52438]
+
+--2017-02-02 20:32:30--  http://doi.org/10.1093/amrx/abw011
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abw011 [following]
+--2017-02-02 20:32:31--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abw011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 439299 (429K) [text/html]
+Saving to: ‘abw011’
+
+     0K .......... .......... .......... .......... .......... 11%  309K 1s
+    50K .......... .......... .......... .......... .......... 23%  314K 1s
+   100K .......... .......... .......... .......... .......... 34%  602K 1s
+   150K .......... .......... .......... .......... .......... 46%  604K 1s
+   200K .......... .......... .......... .......... .......... 58%  311K 0s
+   250K .......... .......... .......... .......... .......... 69%  612K 0s
+   300K .......... .......... .......... .......... .......... 81%  590K 0s
+   350K .......... .......... .......... .......... .......... 93%  317K 0s
+   400K .......... .......... .........                       100% 10.7M=1.0s
+
+2017-02-02 20:32:37 (440 KB/s) - ‘abw011’ saved [439299/439299]
+
+--2017-02-02 20:32:38--  http://doi.org/10.1093/amrx/abw010
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abw010 [following]
+--2017-02-02 20:32:39--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abw010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1269286 (1.2M) [text/html]
+Saving to: ‘abw010’
+
+     0K .......... .......... .......... .......... ..........  4%  309K 4s
+    50K .......... .......... .......... .......... ..........  8%  312K 4s
+   100K .......... .......... .......... .......... .......... 12%  612K 3s
+   150K .......... .......... .......... .......... .......... 16%  314K 3s
+   200K .......... .......... .......... .......... .......... 20%  603K 3s
+   250K .......... .......... .......... .......... .......... 24%  614K 2s
+   300K .......... .......... .......... .......... .......... 28%  580K 2s
+   350K .......... .......... .......... .......... .......... 32%  314K 2s
+   400K .......... .......... .......... .......... .......... 36%  605K 2s
+   450K .......... .......... .......... .......... .......... 40%  614K 2s
+   500K .......... .......... .......... .......... .......... 44%  603K 2s
+   550K .......... .......... .......... .......... .......... 48%  315K 1s
+   600K .......... .......... .......... .......... .......... 52%  603K 1s
+   650K .......... .......... .......... .......... .......... 56%  595K 1s
+   700K .......... .......... .......... .......... .......... 60%  316K 1s
+   750K .......... .......... .......... .......... .......... 64%  596K 1s
+   800K .......... .......... .......... .......... .......... 68%  613K 1s
+   850K .......... .......... .......... .......... .......... 72%  316K 1s
+   900K .......... .......... .......... .......... .......... 76%  613K 1s
+   950K .......... .......... .......... .......... .......... 80%  589K 1s
+  1000K .......... .......... .......... .......... .......... 84%  604K 0s
+  1050K .......... .......... .......... .......... .......... 88%  609K 0s
+  1100K .......... .......... .......... .......... .......... 92%  312K 0s
+  1150K .......... .......... .......... .......... .......... 96%  604K 0s
+  1200K .......... .......... .......... .........            100%  489K=2.7s
+
+2017-02-02 20:32:50 (462 KB/s) - ‘abw010’ saved [1269286/1269286]
+
+--2017-02-02 20:32:51--  http://doi.org/10.1093/amrx/abw009
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abw009 [following]
+--2017-02-02 20:32:53--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abw009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1150718 (1.1M) [text/html]
+Saving to: ‘abw009’
+
+     0K .......... .......... .......... .......... ..........  4%  209K 5s
+    50K .......... .......... .......... .......... ..........  8%  606K 3s
+   100K .......... .......... .......... .......... .......... 13%  611K 3s
+   150K .......... .......... .......... .......... .......... 17%  593K 2s
+   200K .......... .......... .......... .......... .......... 22%  312K 2s
+   250K .......... .......... .......... .......... .......... 26%  601K 2s
+   300K .......... .......... .......... .......... .......... 31%  602K 2s
+   350K .......... .......... .......... .......... .......... 35%  314K 2s
+   400K .......... .......... .......... .......... .......... 40%  603K 2s
+   450K .......... .......... .......... .......... .......... 44%  601K 1s
+   500K .......... .......... .......... .......... .......... 48%  604K 1s
+   550K .......... .......... .......... .......... .......... 53%  318K 1s
+   600K .......... .......... .......... .......... .......... 57%  615K 1s
+   650K .......... .......... .......... .......... .......... 62%  587K 1s
+   700K .......... .......... .......... .......... .......... 66%  599K 1s
+   750K .......... .......... .......... .......... .......... 71%  612K 1s
+   800K .......... .......... .......... .......... .......... 75%  321K 1s
+   850K .......... .......... .......... .......... .......... 80%  587K 0s
+   900K .......... .......... .......... .......... .......... 84%  316K 0s
+   950K .......... .......... .......... .......... .......... 88%  606K 0s
+  1000K .......... .......... .......... .......... .......... 93%  600K 0s
+  1050K .......... .......... .......... .......... .......... 97%  158K 0s
+  1100K .......... .......... ...                             100% 11.3M=2.6s
+
+2017-02-02 20:32:59 (433 KB/s) - ‘abw009’ saved [1150718/1150718]
+
+--2017-02-02 20:33:00--  http://doi.org/10.1093/amrx/abw008
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abw008 [following]
+--2017-02-02 20:33:01--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abw008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 422789 (413K) [text/html]
+Saving to: ‘abw008’
+
+     0K .......... .......... .......... .......... .......... 12%  208K 2s
+    50K .......... .......... .......... .......... .......... 24%  609K 1s
+   100K .......... .......... .......... .......... .......... 36%  603K 1s
+   150K .......... .......... .......... .......... .......... 48%  315K 1s
+   200K .......... .......... .......... .......... .......... 60%  592K 0s
+   250K .......... .......... .......... .......... .......... 72%  605K 0s
+   300K .......... .......... .......... .......... .......... 84%  609K 0s
+   350K .......... .......... .......... .......... .......... 96%  313K 0s
+   400K .......... ..                                         100% 3.37M=1.0s
+
+2017-02-02 20:33:07 (423 KB/s) - ‘abw008’ saved [422789/422789]
+
+--2017-02-02 20:33:08--  http://doi.org/10.1093/amrx/abw007
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abw007 [following]
+--2017-02-02 20:33:09--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abw007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 502162 (490K) [text/html]
+Saving to: ‘abw007’
+
+     0K .......... .......... .......... .......... .......... 10%  209K 2s
+    50K .......... .......... .......... .......... .......... 20%  605K 1s
+   100K .......... .......... .......... .......... .......... 30%  613K 1s
+   150K .......... .......... .......... .......... .......... 40%  601K 1s
+   200K .......... .......... .......... .......... .......... 50%  317K 1s
+   250K .......... .......... .......... .......... .......... 61%  569K 0s
+   300K .......... .......... .......... .......... .......... 71%  605K 0s
+   350K .......... .......... .......... .......... .......... 81%  608K 0s
+   400K .......... .......... .......... .......... .......... 91%  312K 0s
+   450K .......... .......... .......... ..........           100%  553K=1.1s
+
+2017-02-02 20:33:17 (434 KB/s) - ‘abw007’ saved [502162/502162]
+
+--2017-02-02 20:33:18--  http://doi.org/10.1093/amrx/abw006
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abw006 [following]
+--2017-02-02 20:33:19--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abw006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1269828 (1.2M) [text/html]
+Saving to: ‘abw006’
+
+     0K .......... .......... .......... .......... ..........  4%  208K 6s
+    50K .......... .......... .......... .......... ..........  8%  606K 4s
+   100K .......... .......... .......... .......... .......... 12%  589K 3s
+   150K .......... .......... .......... .......... .......... 16%  605K 3s
+   200K .......... .......... .......... .......... .......... 20%  314K 3s
+   250K .......... .......... .......... .......... .......... 24%  611K 2s
+   300K .......... .......... .......... .......... .......... 28%  581K 2s
+   350K .......... .......... .......... .......... .......... 32%  319K 2s
+   400K .......... .......... .......... .......... .......... 36%  579K 2s
+   450K .......... .......... .......... .......... .......... 40%  598K 2s
+   500K .......... .......... .......... .......... .......... 44%  318K 2s
+   550K .......... .......... .......... .......... .......... 48%  603K 1s
+   600K .......... .......... .......... .......... .......... 52%  611K 1s
+   650K .......... .......... .......... .......... .......... 56%  313K 1s
+   700K .......... .......... .......... .......... .......... 60%  585K 1s
+   750K .......... .......... .......... .......... .......... 64%  614K 1s
+   800K .......... .......... .......... .......... .......... 68%  319K 1s
+   850K .......... .......... .......... .......... .......... 72%  584K 1s
+   900K .......... .......... .......... .......... .......... 76%  317K 1s
+   950K .......... .......... .......... .......... .......... 80%  614K 1s
+  1000K .......... .......... .......... .......... .......... 84%  583K 0s
+  1050K .......... .......... .......... .......... .......... 88%  601K 0s
+  1100K .......... .......... .......... .......... .......... 92%  611K 0s
+  1150K .......... .......... .......... .......... .......... 96%  310K 0s
+  1200K .......... .......... .......... ..........           100%  498K=2.8s
+
+2017-02-02 20:33:37 (448 KB/s) - ‘abw006’ saved [1269828/1269828]
+
+--2017-02-02 20:33:38--  http://doi.org/10.1093/amrx/abw003
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abw003 [following]
+--2017-02-02 20:33:39--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abw003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 905820 (885K) [text/html]
+Saving to: ‘abw003’
+
+     0K .......... .......... .......... .......... ..........  5%  209K 4s
+    50K .......... .......... .......... .......... .......... 11%  606K 3s
+   100K .......... .......... .......... .......... .......... 16%  580K 2s
+   150K .......... .......... .......... .......... .......... 22%  320K 2s
+   200K .......... .......... .......... .......... .......... 28%  584K 2s
+   250K .......... .......... .......... .......... .......... 33%  603K 1s
+   300K .......... .......... .......... .......... .......... 39%  609K 1s
+   350K .......... .......... .......... .......... .......... 45%  315K 1s
+   400K .......... .......... .......... .......... .......... 50%  594K 1s
+   450K .......... .......... .......... .......... .......... 56%  309K 1s
+   500K .......... .......... .......... .......... .......... 62%  311K 1s
+   550K .......... .......... .......... .......... .......... 67%  611K 1s
+   600K .......... .......... .......... .......... .......... 73%  422K 1s
+   650K .......... .......... .......... .......... .......... 79%  404K 0s
+   700K .......... .......... .......... .......... .......... 84%  598K 0s
+   750K .......... .......... .......... .......... .......... 90%  611K 0s
+   800K .......... .......... .......... .......... .......... 96%  313K 0s
+   850K .......... .......... .......... ....                 100%  423K=2.1s
+
+2017-02-02 20:33:48 (419 KB/s) - ‘abw003’ saved [905820/905820]
+
+--2017-02-02 20:33:49--  http://doi.org/10.1093/amrx/abw005
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abw005 [following]
+--2017-02-02 20:33:51--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abw005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 172948 (169K) [text/html]
+Saving to: ‘abw005’
+
+     0K .......... .......... .......... .......... .......... 29%  306K 0s
+    50K .......... .......... .......... .......... .......... 59%  311K 0s
+   100K .......... .......... .......... .......... .......... 88%  602K 0s
+   150K .......... ........                                   100%  244K=0.5s
+
+2017-02-02 20:34:01 (349 KB/s) - ‘abw005’ saved [172948/172948]
+
+--2017-02-02 20:34:02--  http://doi.org/10.1093/amrx/abw004
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abw004 [following]
+--2017-02-02 20:34:03--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abw004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 772526 (754K) [text/html]
+Saving to: ‘abw004’
+
+     0K .......... .......... .......... .......... ..........  6%  209K 3s
+    50K .......... .......... .......... .......... .......... 13%  577K 2s
+   100K .......... .......... .......... .......... .......... 19%  612K 2s
+   150K .......... .......... .......... .......... .......... 26%  323K 2s
+   200K .......... .......... .......... .......... .......... 33%  604K 1s
+   250K .......... .......... .......... .......... .......... 39%  566K 1s
+   300K .......... .......... .......... .......... .......... 46%  610K 1s
+   350K .......... .......... .......... .......... .......... 53%  322K 1s
+   400K .......... .......... .......... .......... .......... 59%  580K 1s
+   450K .......... .......... .......... .......... .......... 66%  611K 1s
+   500K .......... .......... .......... .......... .......... 72%  595K 0s
+   550K .......... .......... .......... .......... .......... 79%  314K 0s
+   600K .......... .......... .......... .......... .......... 86%  606K 0s
+   650K .......... .......... .......... .......... .......... 92%  606K 0s
+   700K .......... .......... .......... .......... .......... 99%  315K 0s
+   750K ....                                                  100% 8430G=1.7s
+
+2017-02-02 20:34:10 (442 KB/s) - ‘abw004’ saved [772526/772526]
+
+--2017-02-02 20:34:11--  http://doi.org/10.1093/amrx/abw002
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abw002 [following]
+--2017-02-02 20:34:12--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abw002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 441501 (431K) [text/html]
+Saving to: ‘abw002’
+
+     0K .......... .......... .......... .......... .......... 11%  207K 2s
+    50K .......... .......... .......... .......... .......... 23%  606K 1s
+   100K .......... .......... .......... .......... .......... 34%  613K 1s
+   150K .......... .......... .......... .......... .......... 46%  600K 1s
+   200K .......... .......... .......... .......... .......... 57%  313K 0s
+   250K .......... .......... .......... .......... .......... 69%  605K 0s
+   300K .......... .......... .......... .......... .......... 81%  578K 0s
+   350K .......... .......... .......... .......... .......... 92%  324K 0s
+   400K .......... .......... .......... .                    100% 3.86M=1.0s
+
+2017-02-02 20:34:17 (440 KB/s) - ‘abw002’ saved [441501/441501]
+
+--2017-02-02 20:34:18--  http://doi.org/10.1093/amrx/abw001
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://amrx.oxfordjournals.org/lookup/doi/10.1093/amrx/abw001 [following]
+--2017-02-02 20:34:19--  http://amrx.oxfordjournals.org/lookup/doi/10.1093/amrx/abw001
+Connecting to amrx.oxfordjournals.org (amrx.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from amrx.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from amrx.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/amrx/redirect-unavailable?url=amrx.oxfordjournals.org/lookup/doi/10.1093/amrx/abw001 [following]
+--2017-02-02 20:34:21--  https://academic.oup.com/amrx/redirect-unavailable?url=amrx.oxfordjournals.org/lookup/doi/10.1093/amrx/abw001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-02 20:34:22 ERROR 404: Not Found.
+
+--2017-02-02 20:34:23--  http://doi.org/10.1093/amrx/abv013
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abv013 [following]
+--2017-02-02 20:34:24--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abv013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 328668 (321K) [text/html]
+Saving to: ‘abv013’
+
+     0K .......... .......... .......... .......... .......... 15%  208K 1s
+    50K .......... .......... .......... .......... .......... 31%  605K 1s
+   100K .......... .......... .......... .......... .......... 46%  607K 0s
+   150K .......... .......... .......... .......... .......... 62%  613K 0s
+   200K .......... .......... .......... .......... .......... 77%  314K 0s
+   250K .......... .......... .......... .......... .......... 93%  610K 0s
+   300K .......... ..........                                 100% 11.2M=0.7s
+
+2017-02-02 20:34:28 (440 KB/s) - ‘abv013’ saved [328668/328668]
+
+--2017-02-02 20:34:29--  http://doi.org/10.1093/amrx/abv011
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abv011 [following]
+--2017-02-02 20:34:31--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abv011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 20:34:31 ERROR 400: Bad Request.
+
+--2017-02-02 20:34:32--  http://doi.org/10.1093/amrx/abv012
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abv012 [following]
+--2017-02-02 20:34:33--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abv012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 269082 (263K) [text/html]
+Saving to: ‘abv012’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 38%  603K 1s
+   100K .......... .......... .......... .......... .......... 57%  611K 0s
+   150K .......... .......... .......... .......... .......... 76%  599K 0s
+   200K .......... .......... .......... .......... .......... 95%  314K 0s
+   250K .......... ..                                         100% 22.7M=0.6s
+
+2017-02-02 20:34:38 (406 KB/s) - ‘abv012’ saved [269082/269082]
+
+--2017-02-02 20:34:39--  http://doi.org/10.1093/amrx/abv010
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abv010 [following]
+--2017-02-02 20:34:40--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abv010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 315353 (308K) [text/html]
+Saving to: ‘abv010’
+
+     0K .......... .......... .......... .......... .......... 16%  208K 1s
+    50K .......... .......... .......... .......... .......... 32%  610K 1s
+   100K .......... .......... .......... .......... .......... 48%  610K 0s
+   150K .......... .......... .......... .......... .......... 64%  562K 0s
+   200K .......... .......... .......... .......... .......... 81%  325K 0s
+   250K .......... .......... .......... .......... .......... 97%  598K 0s
+   300K .......                                               100% 22.7M=0.7s
+
+2017-02-02 20:34:45 (421 KB/s) - ‘abv010’ saved [315353/315353]
+
+--2017-02-02 20:34:46--  http://doi.org/10.1093/amrx/abv009
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abv009 [following]
+--2017-02-02 20:34:47--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abv009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 510333 (498K) [text/html]
+Saving to: ‘abv009’
+
+     0K .......... .......... .......... .......... .......... 10%  209K 2s
+    50K .......... .......... .......... .......... .......... 20%  610K 1s
+   100K .......... .......... .......... .......... .......... 30%  586K 1s
+   150K .......... .......... .......... .......... .......... 40%  605K 1s
+   200K .......... .......... .......... .......... .......... 50%  313K 1s
+   250K .......... .......... .......... .......... .......... 60%  601K 0s
+   300K .......... .......... .......... .......... .......... 70%  610K 0s
+   350K .......... .......... .......... .......... .......... 80%  599K 0s
+   400K .......... .......... .......... .......... .......... 90%  309K 0s
+   450K .......... .......... .......... .......... ........  100%  589K=1.1s
+
+2017-02-02 20:34:52 (436 KB/s) - ‘abv009’ saved [510333/510333]
+
+--2017-02-02 20:34:53--  http://doi.org/10.1093/amrx/abv008
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abv008 [following]
+--2017-02-02 20:34:54--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abv008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 224726 (219K) [text/html]
+Saving to: ‘abv008’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 45%  607K 0s
+   100K .......... .......... .......... .......... .......... 68%  595K 0s
+   150K .......... .......... .......... .......... .......... 91%  576K 0s
+   200K .......... .........                                  100%  261K=0.6s
+
+2017-02-02 20:34:58 (387 KB/s) - ‘abv008’ saved [224726/224726]
+
+--2017-02-02 20:34:59--  http://doi.org/10.1093/amrx/abv007
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abv007 [following]
+--2017-02-02 20:35:00--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abv007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 653943 (639K) [text/html]
+Saving to: ‘abv007’
+
+     0K .......... .......... .......... .......... ..........  7%  209K 3s
+    50K .......... .......... .......... .......... .......... 15%  607K 2s
+   100K .......... .......... .......... .......... .......... 23%  602K 1s
+   150K .......... .......... .......... .......... .......... 31%  609K 1s
+   200K .......... .......... .......... .......... .......... 39%  312K 1s
+   250K .......... .......... .......... .......... .......... 46%  606K 1s
+   300K .......... .......... .......... .......... .......... 54%  597K 1s
+   350K .......... .......... .......... .......... .......... 62%  605K 1s
+   400K .......... .......... .......... .......... .......... 70%  605K 0s
+   450K .......... .......... .......... .......... .......... 78%  315K 0s
+   500K .......... .......... .......... .......... .......... 86%  587K 0s
+   550K .......... .......... .......... .......... .......... 93%  608K 0s
+   600K .......... .......... .......... ........             100%  479K=1.4s
+
+2017-02-02 20:35:06 (461 KB/s) - ‘abv007’ saved [653943/653943]
+
+--2017-02-02 20:35:07--  http://doi.org/10.1093/amrx/abv001
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abv001 [following]
+--2017-02-02 20:35:08--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abv001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 276071 (270K) [text/html]
+Saving to: ‘abv001’
+
+     0K .......... .......... .......... .......... .......... 18%  208K 1s
+    50K .......... .......... .......... .......... .......... 37%  606K 1s
+   100K .......... .......... .......... .......... .......... 55%  608K 0s
+   150K .......... .......... .......... .......... .......... 74%  416K 0s
+   200K .......... .......... .......... .......... .......... 92%  404K 0s
+   250K .......... .........                                  100% 17.7M=0.7s
+
+2017-02-02 20:35:12 (415 KB/s) - ‘abv001’ saved [276071/276071]
+
+--2017-02-02 20:35:13--  http://doi.org/10.1093/amrx/abv005
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abv005 [following]
+--2017-02-02 20:35:14--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abv005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 178511 (174K) [text/html]
+Saving to: ‘abv005’
+
+     0K .......... .......... .......... .......... .......... 28%  197K 1s
+    50K .......... .......... .......... .......... .......... 57%  606K 0s
+   100K .......... .......... .......... .......... .......... 86%  597K 0s
+   150K .......... .......... ....                            100%  303K=0.5s
+
+2017-02-02 20:35:18 (348 KB/s) - ‘abv005’ saved [178511/178511]
+
+--2017-02-02 20:35:19--  http://doi.org/10.1093/amrx/abv006
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abv006 [following]
+--2017-02-02 20:35:20--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abv006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 203993 (199K) [text/html]
+Saving to: ‘abv006’
+
+     0K .......... .......... .......... .......... .......... 25%  309K 0s
+    50K .......... .......... .......... .......... .......... 50%  312K 0s
+   100K .......... .......... .......... .......... .......... 75%  609K 0s
+   150K .......... .......... .......... .......... ......... 100%  591K=0.5s
+
+2017-02-02 20:35:25 (409 KB/s) - ‘abv006’ saved [203993/203993]
+
+--2017-02-02 20:35:26--  http://doi.org/10.1093/amrx/abv003
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abv003 [following]
+--2017-02-02 20:35:27--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abv003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 230575 (225K) [text/html]
+Saving to: ‘abv003’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 44%  602K 0s
+   100K .......... .......... .......... .......... .......... 66%  608K 0s
+   150K .......... .......... .......... .......... .......... 88%  316K 0s
+   200K .......... .......... .....                           100% 7.03M=0.6s
+
+2017-02-02 20:35:31 (397 KB/s) - ‘abv003’ saved [230575/230575]
+
+--2017-02-02 20:35:32--  http://doi.org/10.1093/amrx/abv002
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abv002 [following]
+--2017-02-02 20:35:33--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abv002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 351715 (343K) [text/html]
+Saving to: ‘abv002’
+
+     0K .......... .......... .......... .......... .......... 14%  308K 1s
+    50K .......... .......... .......... .......... .......... 29%  314K 1s
+   100K .......... .......... .......... .......... .......... 43%  601K 1s
+   150K .......... .......... .......... .......... .......... 58%  602K 0s
+   200K .......... .......... .......... .......... .......... 72%  311K 0s
+   250K .......... .......... .......... .......... .......... 87%  606K 0s
+   300K .......... .......... .......... .......... ...       100%  530K=0.8s
+
+2017-02-02 20:35:37 (422 KB/s) - ‘abv002’ saved [351715/351715]
+
+--2017-02-02 20:35:38--  http://doi.org/10.1093/amrx/abv004
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abv004 [following]
+--2017-02-02 20:35:40--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abv004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 260598 (254K) [text/html]
+Saving to: ‘abv004’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 39%  613K 0s
+   100K .......... .......... .......... .......... .......... 58%  606K 0s
+   150K .......... .......... .......... .......... .......... 78%  317K 0s
+   200K .......... .......... .......... .......... .......... 98%  599K 0s
+   250K ....                                                  100% 8564G=0.6s
+
+2017-02-02 20:35:44 (395 KB/s) - ‘abv004’ saved [260598/260598]
+
+--2017-02-02 20:35:45--  http://doi.org/10.1093/amrx/abu009
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abu009 [following]
+--2017-02-02 20:35:46--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abu009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 283023 (276K) [text/html]
+Saving to: ‘abu009’
+
+     0K .......... .......... .......... .......... .......... 18%  309K 1s
+    50K .......... .......... .......... .......... .......... 36%  314K 1s
+   100K .......... .......... .......... .......... .......... 54%  606K 0s
+   150K .......... .......... .......... .......... .......... 72%  313K 0s
+   200K .......... .......... .......... .......... .......... 90%  593K 0s
+   250K .......... .......... ......                          100% 13.4M=0.6s
+
+2017-02-02 20:35:50 (425 KB/s) - ‘abu009’ saved [283023/283023]
+
+--2017-02-02 20:35:51--  http://doi.org/10.1093/amrx/abu008
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abu008 [following]
+--2017-02-02 20:35:52--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abu008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 266719 (260K) [text/html]
+Saving to: ‘abu008’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 38%  601K 1s
+   100K .......... .......... .......... .......... .......... 57%  589K 0s
+   150K .......... .......... .......... .......... .......... 76%  613K 0s
+   200K .......... .......... .......... .......... .......... 95%  313K 0s
+   250K ..........                                            100% 15.1M=0.6s
+
+2017-02-02 20:35:56 (401 KB/s) - ‘abu008’ saved [266719/266719]
+
+--2017-02-02 20:35:57--  http://doi.org/10.1093/amrx/abu007
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abu007 [following]
+--2017-02-02 20:35:58--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abu007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 286697 (280K) [text/html]
+Saving to: ‘abu007’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 35%  607K 1s
+   100K .......... .......... .......... .......... .......... 53%  609K 0s
+   150K .......... .......... .......... .......... .......... 71%  605K 0s
+   200K .......... .......... .......... .......... .......... 89%  312K 0s
+   250K .......... .......... .........                       100% 12.1M=0.6s
+
+2017-02-02 20:36:02 (431 KB/s) - ‘abu007’ saved [286697/286697]
+
+--2017-02-02 20:36:03--  http://doi.org/10.1093/amrx/abu006
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abu006 [following]
+--2017-02-02 20:36:05--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abu006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 204152 (199K) [text/html]
+Saving to: ‘abu006’
+
+     0K .......... .......... .......... .......... .......... 25%  209K 1s
+    50K .......... .......... .......... .......... .......... 50%  602K 0s
+   100K .......... .......... .......... .......... .......... 75%  611K 0s
+   150K .......... .......... .......... .......... ......... 100%  312K=0.6s
+
+2017-02-02 20:36:09 (354 KB/s) - ‘abu006’ saved [204152/204152]
+
+--2017-02-02 20:36:10--  http://doi.org/10.1093/amrx/abu005
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abu005 [following]
+--2017-02-02 20:36:11--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abu005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 234980 (229K) [text/html]
+Saving to: ‘abu005’
+
+     0K .......... .......... .......... .......... .......... 21%  309K 1s
+    50K .......... .......... .......... .......... .......... 43%  313K 0s
+   100K .......... .......... .......... .......... .......... 65%  610K 0s
+   150K .......... .......... .......... .......... .......... 87%  605K 0s
+   200K .......... .......... .........                       100%  365K=0.6s
+
+2017-02-02 20:36:16 (405 KB/s) - ‘abu005’ saved [234980/234980]
+
+--2017-02-02 20:36:17--  http://doi.org/10.1093/amrx/abu004
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abu004 [following]
+--2017-02-02 20:36:18--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abu004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 193159 (189K) [text/html]
+Saving to: ‘abu004’
+
+     0K .......... .......... .......... .......... .......... 26%  209K 1s
+    50K .......... .......... .......... .......... .......... 53%  609K 0s
+   100K .......... .......... .......... .......... .......... 79%  609K 0s
+   150K .......... .......... .......... ........             100%  481K=0.5s
+
+2017-02-02 20:36:23 (390 KB/s) - ‘abu004’ saved [193159/193159]
+
+--2017-02-02 20:36:24--  http://doi.org/10.1093/amrx/abu003
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abu003 [following]
+--2017-02-02 20:36:25--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abu003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 312611 (305K) [text/html]
+Saving to: ‘abu003’
+
+     0K .......... .......... .......... .......... .......... 16%  208K 1s
+    50K .......... .......... .......... .......... .......... 32%  601K 1s
+   100K .......... .......... .......... .......... .......... 49%  570K 0s
+   150K .......... .......... .......... .......... .......... 65%  604K 0s
+   200K .......... .......... .......... .......... .......... 81%  312K 0s
+   250K .......... .......... .......... .......... .......... 98%  590K 0s
+   300K .....                                                 100% 10079G=0.7s
+
+2017-02-02 20:36:31 (413 KB/s) - ‘abu003’ saved [312611/312611]
+
+--2017-02-02 20:36:32--  http://doi.org/10.1093/amrx/abu002
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abu002 [following]
+--2017-02-02 20:36:33--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abu002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 392102 (383K) [text/html]
+Saving to: ‘abu002’
+
+     0K .......... .......... .......... .......... .......... 13%  208K 2s
+    50K .......... .......... .......... .......... .......... 26%  612K 1s
+   100K .......... .......... .......... .......... .......... 39%  597K 1s
+   150K .......... .......... .......... .......... .......... 52% 18.3K 3s
+   200K .......... .......... .......... .......... .......... 65% 88.7K 2s
+   250K .......... .......... .......... .......... .......... 78%  155K 1s
+   300K .......... .......... .......... .......... .......... 91%  181K 0s
+   350K .......... .......... .......... ..                   100%  206K=4.5s
+
+2017-02-02 20:36:44 (85.8 KB/s) - ‘abu002’ saved [392102/392102]
+
+--2017-02-02 20:36:45--  http://doi.org/10.1093/amrx/abu001
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abu001 [following]
+--2017-02-02 20:36:46--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abu001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 287122 (280K) [text/html]
+Saving to: ‘abu001’
+
+     0K .......... .......... .......... .......... .......... 17%  207K 1s
+    50K .......... .......... .......... .......... .......... 35%  613K 1s
+   100K .......... .......... .......... .......... .......... 53%  601K 0s
+   150K .......... .......... .......... .......... .......... 71%  315K 0s
+   200K .......... .......... .......... .......... .......... 89%  591K 0s
+   250K .......... .......... ..........                      100%  386K=0.7s
+
+2017-02-02 20:36:52 (385 KB/s) - ‘abu001’ saved [287122/287122]
+
+--2017-02-02 20:36:53--  http://doi.org/10.1093/amrx/abt009
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abt009 [following]
+--2017-02-02 20:36:55--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abt009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 254480 (249K) [text/html]
+Saving to: ‘abt009’
+
+     0K .......... .......... .......... .......... .......... 20%  308K 1s
+    50K .......... .......... .......... .......... .......... 40%  308K 0s
+   100K .......... .......... .......... .......... .......... 60%  609K 0s
+   150K .......... .......... .......... .......... .......... 80%  313K 0s
+   200K .......... .......... .......... .......... ........  100%  582K=0.7s
+
+2017-02-02 20:37:00 (382 KB/s) - ‘abt009’ saved [254480/254480]
+
+--2017-02-02 20:37:01--  http://doi.org/10.1093/amrx/abt008
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abt008 [following]
+--2017-02-02 20:37:02--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abt008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 20:37:03 ERROR 400: Bad Request.
+
+--2017-02-02 20:37:04--  http://doi.org/10.1093/amrx/abt007
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abt007 [following]
+--2017-02-02 20:37:05--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abt007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 20:37:07 ERROR 400: Bad Request.
+
+--2017-02-02 20:37:08--  http://doi.org/10.1093/amrx/abt005
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abt005 [following]
+--2017-02-02 20:37:09--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abt005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 371208 (363K) [text/html]
+Saving to: ‘abt005’
+
+     0K .......... .......... .......... .......... .......... 13%  209K 1s
+    50K .......... .......... .......... .......... .......... 27%  604K 1s
+   100K .......... .......... .......... .......... .......... 41%  605K 1s
+   150K .......... .......... .......... .......... .......... 55%  320K 0s
+   200K .......... .......... .......... .......... .......... 68%  578K 0s
+   250K .......... .......... .......... .......... .......... 82%  601K 0s
+   300K .......... .......... .......... .......... .......... 96%  322K 0s
+   350K .......... ..                                         100% 3.26M=0.9s
+
+2017-02-02 20:37:35 (408 KB/s) - ‘abt005’ saved [371208/371208]
+
+--2017-02-02 20:37:36--  http://doi.org/10.1093/amrx/abt006
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abt006 [following]
+--2017-02-02 20:37:37--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abt006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 154312 (151K) [text/html]
+Saving to: ‘abt006’
+
+     0K .......... .......... .......... .......... .......... 33%  208K 0s
+    50K .......... .......... .......... .......... .......... 66%  597K 0s
+   100K .......... .......... .......... .......... .......... 99%  316K 0s
+   150K                                                       100% 1326G=0.5s
+
+2017-02-02 20:37:44 (312 KB/s) - ‘abt006’ saved [154312/154312]
+
+--2017-02-02 20:37:45--  http://doi.org/10.1093/amrx/abt004
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abt004 [following]
+--2017-02-02 20:37:47--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abt004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 193677 (189K) [text/html]
+Saving to: ‘abt004’
+
+     0K .......... .......... .......... .......... .......... 26%  209K 1s
+    50K .......... .......... .......... .......... .......... 52%  612K 0s
+   100K .......... .......... .......... .......... .......... 79%  595K 0s
+   150K .......... .......... .......... .........            100%  486K=0.5s
+
+2017-02-02 20:38:05 (389 KB/s) - ‘abt004’ saved [193677/193677]
+
+--2017-02-02 20:38:06--  http://doi.org/10.1093/amrx/abt003
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abt003 [following]
+--2017-02-02 20:38:07--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abt003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 317089 (310K) [text/html]
+Saving to: ‘abt003’
+
+     0K .......... .......... .......... .......... .......... 16%  205K 1s
+    50K .......... .......... .......... .......... .......... 32%  601K 1s
+   100K .......... .......... .......... .......... .......... 48%  610K 0s
+   150K .......... .......... .......... .......... .......... 64%  607K 0s
+   200K .......... .......... .......... .......... .......... 80%  312K 0s
+   250K .......... .......... .......... .......... .......... 96%  608K 0s
+   300K .........                                             100% 14.9M=0.7s
+
+2017-02-02 20:38:20 (422 KB/s) - ‘abt003’ saved [317089/317089]
+
+--2017-02-02 20:38:21--  http://doi.org/10.1093/amrx/abt002
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abt002 [following]
+--2017-02-02 20:38:22--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abt002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 730109 (713K) [text/html]
+Saving to: ‘abt002’
+
+     0K .......... .......... .......... .......... ..........  7%  208K 3s
+    50K .......... .......... .......... .......... .......... 14%  604K 2s
+   100K .......... .......... .......... .......... .......... 21%  597K 2s
+   150K .......... .......... .......... .......... .......... 28%  320K 1s
+   200K .......... .......... .......... .......... .......... 35%  597K 1s
+   250K .......... .......... .......... .......... .......... 42%  609K 1s
+   300K .......... .......... .......... .......... .......... 49%  310K 1s
+   350K .......... .......... .......... .......... .......... 56%  599K 1s
+   400K .......... .......... .......... .......... .......... 63%  611K 1s
+   450K .......... .......... .......... .......... .......... 70%  601K 0s
+   500K .......... .......... .......... .......... .......... 77%  310K 0s
+   550K .......... .......... .......... .......... .......... 84%  592K 0s
+   600K .......... .......... .......... .......... .......... 91%  615K 0s
+   650K .......... .......... .......... .......... .......... 98%  606K 0s
+   700K .......... ..                                         100%  162K=1.6s
+
+2017-02-02 20:38:53 (438 KB/s) - ‘abt002’ saved [730109/730109]
+
+--2017-02-02 20:38:54--  http://doi.org/10.1093/amrx/abt001
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abt001 [following]
+--2017-02-02 20:38:56--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abt001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 680199 (664K) [text/html]
+Saving to: ‘abt001’
+
+     0K .......... .......... .......... .......... ..........  7%  208K 3s
+    50K .......... .......... .......... .......... .......... 15%  586K 2s
+   100K .......... .......... .......... .......... .......... 22%  609K 1s
+   150K .......... .......... .......... .......... .......... 30%  580K 1s
+   200K .......... .......... .......... .......... .......... 37%  312K 1s
+   250K .......... .......... .......... .......... .......... 45%  605K 1s
+   300K .......... .......... .......... .......... .......... 52%  610K 1s
+   350K .......... .......... .......... .......... .......... 60%  313K 1s
+   400K .......... .......... .......... .......... .......... 67%  605K 1s
+   450K .......... .......... .......... .......... .......... 75%  605K 0s
+   500K .......... .......... .......... .......... .......... 82%  589K 0s
+   550K .......... .......... .......... .......... .......... 90%  317K 0s
+   600K .......... .......... .......... .......... .......... 97%  585K 0s
+   650K .......... ....                                       100% 4.76M=1.5s
+
+2017-02-02 20:39:23 (450 KB/s) - ‘abt001’ saved [680199/680199]
+
+--2017-02-02 20:39:24--  http://doi.org/10.1093/amrx/abs018
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abs018 [following]
+--2017-02-02 20:39:26--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abs018
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 286793 (280K) [text/html]
+Saving to: ‘abs018’
+
+     0K .......... .......... .......... .......... .......... 17%  310K 1s
+    50K .......... .......... .......... .......... .......... 35%  313K 1s
+   100K .......... .......... .......... .......... .......... 53%  597K 0s
+   150K .......... .......... .......... .......... .......... 71%  607K 0s
+   200K .......... .......... .......... .......... .......... 89%  313K 0s
+   250K .......... .......... ..........                      100% 11.5M=0.6s
+
+2017-02-02 20:39:38 (431 KB/s) - ‘abs018’ saved [286793/286793]
+
+--2017-02-02 20:39:39--  http://doi.org/10.1093/amrx/abs019
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abs019 [following]
+--2017-02-02 20:39:41--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abs019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 353286 (345K) [text/html]
+Saving to: ‘abs019’
+
+     0K .......... .......... .......... .......... .......... 14%  207K 1s
+    50K .......... .......... .......... .......... .......... 28%  608K 1s
+   100K .......... .......... .......... .......... .......... 43%  601K 1s
+   150K .......... .......... .......... .......... .......... 57%  593K 0s
+   200K .......... .......... .......... .......... .......... 72%  314K 0s
+   250K .......... .......... .......... .......... .......... 86%  586K 0s
+   300K .......... .......... .......... .......... .....     100%  531K=0.8s
+
+2017-02-02 20:39:54 (420 KB/s) - ‘abs019’ saved [353286/353286]
+
+--2017-02-02 20:39:55--  http://doi.org/10.1093/amrx/abs017
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abs017 [following]
+--2017-02-02 20:39:56--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abs017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1130267 (1.1M) [text/html]
+Saving to: ‘abs017’
+
+     0K .......... .......... .......... .......... ..........  4%  209K 5s
+    50K .......... .......... .......... .......... ..........  9%  605K 3s
+   100K .......... .......... .......... .......... .......... 13%  603K 3s
+   150K .......... .......... .......... .......... .......... 18%  315K 3s
+   200K .......... .......... .......... .......... .......... 22%  594K 2s
+   250K .......... .......... .......... .......... .......... 27%  603K 2s
+   300K .......... .......... .......... .......... .......... 31%  600K 2s
+   350K .......... .......... .......... .......... .......... 36%  315K 2s
+   400K .......... .......... .......... .......... .......... 40%  595K 2s
+   450K .......... .......... .......... .......... .......... 45%  613K 1s
+   500K .......... .......... .......... .......... .......... 49%  602K 1s
+   550K .......... .......... .......... .......... .......... 54%  313K 1s
+   600K .......... .......... .......... .......... .......... 58%  603K 1s
+   650K .......... .......... .......... .......... .......... 63%  599K 1s
+   700K .......... .......... .......... .......... .......... 67%  311K 1s
+   750K .......... .......... .......... .......... .......... 72%  602K 1s
+   800K .......... .......... .......... .......... .......... 77%  590K 1s
+   850K .......... .......... .......... .......... .......... 81% 28.5K 1s
+   900K .......... .......... .......... .......... .......... 86% 88.5K 1s
+   950K .......... .......... .......... .......... .......... 90%  124K 0s
+  1000K .......... .......... .......... .......... .......... 95%  154K 0s
+  1050K .......... .......... .......... .......... .......... 99%  180K 0s
+  1100K ...                                                   100% 7203G=5.2s
+
+2017-02-02 20:40:44 (212 KB/s) - ‘abs017’ saved [1130267/1130267]
+
+--2017-02-02 20:40:45--  http://doi.org/10.1093/amrx/abs015
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abs015 [following]
+--2017-02-02 20:40:46--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abs015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 20:40:47 ERROR 400: Bad Request.
+
+--2017-02-02 20:40:48--  http://doi.org/10.1093/amrx/abs016
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abs016 [following]
+--2017-02-02 20:40:49--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abs016
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 343708 (336K) [text/html]
+Saving to: ‘abs016’
+
+     0K .......... .......... .......... .......... .......... 14%  309K 1s
+    50K .......... .......... .......... .......... .......... 29%  314K 1s
+   100K .......... .......... .......... .......... .......... 44%  604K 1s
+   150K .......... .......... .......... .......... .......... 59%  607K 0s
+   200K .......... .......... .......... .......... .......... 74%  310K 0s
+   250K .......... .......... .......... .......... .......... 89%  578K 0s
+   300K .......... .......... .......... .....                100%  478K=0.8s
+
+2017-02-02 20:40:53 (415 KB/s) - ‘abs016’ saved [343708/343708]
+
+--2017-02-02 20:40:54--  http://doi.org/10.1093/amrx/abs014
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abs014 [following]
+--2017-02-02 20:40:55--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abs014
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 276213 (270K) [text/html]
+Saving to: ‘abs014’
+
+     0K .......... .......... .......... .......... .......... 18%  208K 1s
+    50K .......... .......... .......... .......... .......... 37%  605K 1s
+   100K .......... .......... .......... .......... .......... 55%  598K 0s
+   150K .......... .......... .......... .......... .......... 74%  318K 0s
+   200K .......... .......... .......... .......... .......... 92%  577K 0s
+   250K .......... .........                                  100% 16.6M=0.7s
+
+2017-02-02 20:40:59 (414 KB/s) - ‘abs014’ saved [276213/276213]
+
+--2017-02-02 20:41:00--  http://doi.org/10.1093/amrx/abs013
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abs013 [following]
+--2017-02-02 20:41:01--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abs013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 20:41:01 ERROR 400: Bad Request.
+
+--2017-02-02 20:41:02--  http://doi.org/10.1093/amrx/abs011
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abs011 [following]
+--2017-02-02 20:41:04--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abs011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 218842 (214K) [text/html]
+Saving to: ‘abs011’
+
+     0K .......... .......... .......... .......... .......... 23%  209K 1s
+    50K .......... .......... .......... .......... .......... 46%  613K 0s
+   100K .......... .......... .......... .......... .......... 70%  599K 0s
+   150K .......... .......... .......... .......... .......... 93%  319K 0s
+   200K .......... ...                                        100% 6.11M=0.6s
+
+2017-02-02 20:41:07 (380 KB/s) - ‘abs011’ saved [218842/218842]
+
+--2017-02-02 20:41:08--  http://doi.org/10.1093/amrx/abs010
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abs010 [following]
+--2017-02-02 20:41:09--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abs010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 225332 (220K) [text/html]
+Saving to: ‘abs010’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 45%  602K 0s
+   100K .......... .......... .......... .......... .......... 68%  606K 0s
+   150K .......... .......... .......... .......... .......... 90%  313K 0s
+   200K .......... ..........                                 100% 5.93M=0.6s
+
+2017-02-02 20:41:14 (387 KB/s) - ‘abs010’ saved [225332/225332]
+
+--2017-02-02 20:41:15--  http://doi.org/10.1093/amrx/abs009
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abs009 [following]
+--2017-02-02 20:41:16--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abs009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 285633 (279K) [text/html]
+Saving to: ‘abs009’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 35%  610K 1s
+   100K .......... .......... .......... .......... .......... 53%  606K 0s
+   150K .......... .......... .......... .......... .......... 71%  417K 0s
+   200K .......... .......... .......... .......... .......... 89%  415K 0s
+   250K .......... .......... ........                        100%  700K=0.7s
+
+2017-02-02 20:41:45 (407 KB/s) - ‘abs009’ saved [285633/285633]
+
+--2017-02-02 20:41:46--  http://doi.org/10.1093/amrx/abs008
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abs008 [following]
+--2017-02-02 20:41:47--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abs008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 20:41:48 ERROR 400: Bad Request.
+
+--2017-02-02 20:41:49--  http://doi.org/10.1093/amrx/abs007
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abs007 [following]
+--2017-02-02 20:41:50--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abs007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 380813 (372K) [text/html]
+Saving to: ‘abs007’
+
+     0K .......... .......... .......... .......... .......... 13%  207K 2s
+    50K .......... .......... .......... .......... .......... 26%  609K 1s
+   100K .......... .......... .......... .......... .......... 40%  605K 1s
+   150K .......... .......... .......... .......... .......... 53%  315K 0s
+   200K .......... .......... .......... .......... .......... 67%  596K 0s
+   250K .......... .......... .......... .......... .......... 80%  605K 0s
+   300K .......... .......... .......... .......... .......... 94%  608K 0s
+   350K .......... .......... .                               100%  277K=0.9s
+
+2017-02-02 20:41:54 (417 KB/s) - ‘abs007’ saved [380813/380813]
+
+--2017-02-02 20:41:55--  http://doi.org/10.1093/amrx/abr018
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abr018 [following]
+--2017-02-02 20:41:57--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abr018
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 265634 (259K) [text/html]
+Saving to: ‘abr018’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 38%  610K 1s
+   100K .......... .......... .......... .......... .......... 57%  609K 0s
+   150K .......... .......... .......... .......... .......... 77%  607K 0s
+   200K .......... .......... .......... .......... .......... 96%  313K 0s
+   250K .........                                             100% 25.6M=0.6s
+
+2017-02-02 20:42:01 (402 KB/s) - ‘abr018’ saved [265634/265634]
+
+--2017-02-02 20:42:02--  http://doi.org/10.1093/amrx/abr015
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abr015 [following]
+--2017-02-02 20:42:03--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abr015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 227495 (222K) [text/html]
+Saving to: ‘abr015’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 45%  589K 0s
+   100K .......... .......... .......... .......... .......... 67%  580K 0s
+   150K .......... .......... .......... .......... .......... 90%  586K 0s
+   200K .......... .......... ..                              100%  299K=0.6s
+
+2017-02-02 20:42:09 (390 KB/s) - ‘abr015’ saved [227495/227495]
+
+--2017-02-02 20:42:10--  http://doi.org/10.1093/amrx/abr004
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abr004 [following]
+--2017-02-02 20:42:11--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abr004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63204 (62K) [text/html]
+Saving to: ‘abr004’
+
+     0K .......... .......... .......... .......... .......... 81%  209K 0s
+    50K .......... .                                          100% 24.0M=0.2s
+
+2017-02-02 20:42:14 (257 KB/s) - ‘abr004’ saved [63204/63204]
+
+--2017-02-02 20:42:15--  http://doi.org/10.1093/amrx/abr003
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abr003 [following]
+--2017-02-02 20:42:17--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abr003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63298 (62K) [text/html]
+Saving to: ‘abr003’
+
+     0K .......... .......... .......... .......... .......... 80%  209K 0s
+    50K .......... .                                          100% 24.2M=0.2s
+
+2017-02-02 20:42:21 (257 KB/s) - ‘abr003’ saved [63298/63298]
+
+--2017-02-02 20:42:22--  http://doi.org/10.1093/amrx/abr005
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abr005 [following]
+--2017-02-02 20:42:23--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abr005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63246 (62K) [text/html]
+Saving to: ‘abr005’
+
+     0K .......... .......... .......... .......... .......... 80%  209K 0s
+    50K .......... .                                          100% 22.3M=0.2s
+
+2017-02-02 20:42:27 (258 KB/s) - ‘abr005’ saved [63246/63246]
+
+--2017-02-02 20:42:28--  http://doi.org/10.1093/amrx/abq020
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abq020 [following]
+--2017-02-02 20:42:29--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abq020
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 391119 (382K) [text/html]
+Saving to: ‘abq020’
+
+     0K .......... .......... .......... .......... .......... 13%  209K 2s
+    50K .......... .......... .......... .......... .......... 26%  610K 1s
+   100K .......... .......... .......... .......... .......... 39%  607K 1s
+   150K .......... .......... .......... .......... .......... 52%  319K 1s
+   200K .......... .......... .......... .......... .......... 65%  590K 0s
+   250K .......... .......... .......... .......... .......... 78%  605K 0s
+   300K .......... .......... .......... .......... .......... 91%  421K 0s
+   350K .......... .......... .......... .                    100%  736K=0.9s
+
+2017-02-02 20:42:47 (429 KB/s) - ‘abq020’ saved [391119/391119]
+
+--2017-02-02 20:42:48--  http://doi.org/10.1093/amrx/abq016
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abq016 [following]
+--2017-02-02 20:42:49--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abq016
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 20:42:49 ERROR 400: Bad Request.
+
+--2017-02-02 20:42:50--  http://doi.org/10.1093/amrx/abq015
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abq015 [following]
+--2017-02-02 20:42:52--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abq015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 323874 (316K) [text/html]
+Saving to: ‘abq015’
+
+     0K .......... .......... .......... .......... .......... 15%  156K 2s
+    50K .......... .......... .......... .......... .......... 31%  606K 1s
+   100K .......... .......... .......... .......... .......... 47%  314K 1s
+   150K .......... .......... .......... .......... .......... 63%  610K 0s
+   200K .......... .......... .......... .......... .......... 79%  595K 0s
+   250K .......... .......... .......... .......... .......... 94%  311K 0s
+   300K .......... ......                                     100% 28.7M=0.9s
+
+2017-02-02 20:43:04 (356 KB/s) - ‘abq015’ saved [323874/323874]
+
+--2017-02-02 20:43:05--  http://doi.org/10.1093/amrx/abq014
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abq014 [following]
+--2017-02-02 20:43:06--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abq014
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 541209 (529K) [text/html]
+Saving to: ‘abq014’
+
+     0K .......... .......... .......... .......... ..........  9%  209K 2s
+    50K .......... .......... .......... .......... .......... 18%  606K 1s
+   100K .......... .......... .......... .......... .......... 28%  602K 1s
+   150K .......... .......... .......... .......... .......... 37%  317K 1s
+   200K .......... .......... .......... .......... .......... 47%  589K 1s
+   250K .......... .......... .......... .......... .......... 56%  600K 1s
+   300K .......... .......... .......... .......... .......... 66%  613K 0s
+   350K .......... .......... .......... .......... .......... 75%  312K 0s
+   400K .......... .......... .......... .......... .......... 85%  606K 0s
+   450K .......... .......... .......... .......... .......... 94%  614K 0s
+   500K .......... .......... ........                        100%  356K=1.2s
+
+2017-02-02 20:43:16 (434 KB/s) - ‘abq014’ saved [541209/541209]
+
+--2017-02-02 20:43:17--  http://doi.org/10.1093/amrx/abq018
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abq018 [following]
+--2017-02-02 20:43:19--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abq018
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63229 (62K) [text/html]
+Saving to: ‘abq018’
+
+     0K .......... .......... .......... .......... .......... 80%  207K 0s
+    50K .......... .                                          100% 22.8M=0.2s
+
+2017-02-02 20:43:22 (255 KB/s) - ‘abq018’ saved [63229/63229]
+
+--2017-02-02 20:43:23--  http://doi.org/10.1093/amrx/abq019
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abq019 [following]
+--2017-02-02 20:43:24--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abq019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63272 (62K) [text/html]
+Saving to: ‘abq019’
+
+     0K .......... .......... .......... .......... .......... 80%  209K 0s
+    50K .......... .                                          100% 23.3M=0.2s
+
+2017-02-02 20:43:31 (258 KB/s) - ‘abq019’ saved [63272/63272]
+
+--2017-02-02 20:43:32--  http://doi.org/10.1093/amrx/abq012
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abq012 [following]
+--2017-02-02 20:43:33--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abq012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 190696 (186K) [text/html]
+Saving to: ‘abq012’
+
+     0K .......... .......... .......... .......... .......... 26%  209K 1s
+    50K .......... .......... .......... .......... .......... 53%  588K 0s
+   100K .......... .......... .......... .......... .......... 80%  604K 0s
+   150K .......... .......... .......... ......               100%  456K=0.5s
+
+2017-02-02 20:43:36 (382 KB/s) - ‘abq012’ saved [190696/190696]
+
+--2017-02-02 20:43:37--  http://doi.org/10.1093/amrx/abq017
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abq017 [following]
+--2017-02-02 20:43:39--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abq017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 78275 (76K) [text/html]
+Saving to: ‘abq017’
+
+     0K .......... .......... .......... .......... .......... 65%  209K 0s
+    50K .......... .......... ......                          100% 10.7M=0.2s
+
+2017-02-02 20:43:43 (316 KB/s) - ‘abq017’ saved [78275/78275]
+
+--2017-02-02 20:43:44--  http://doi.org/10.1093/amrx/abq013
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abq013 [following]
+--2017-02-02 20:43:45--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abq013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 174952 (171K) [text/html]
+Saving to: ‘abq013’
+
+     0K .......... .......... .......... .......... .......... 29%  209K 1s
+    50K .......... .......... .......... .......... .......... 58%  605K 0s
+   100K .......... .......... .......... .......... .......... 87%  599K 0s
+   150K .......... ..........                                 100%  271K=0.5s
+
+2017-02-02 20:43:51 (354 KB/s) - ‘abq013’ saved [174952/174952]
+
+--2017-02-02 20:43:52--  http://doi.org/10.1093/amrx/abn001
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abn001 [following]
+--2017-02-02 20:43:53--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abn001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 101913 (100K) [text/html]
+Saving to: ‘abn001’
+
+     0K .......... .......... .......... .......... .......... 50%  209K 0s
+    50K .......... .......... .......... .......... ......... 100%  603K=0.3s
+
+2017-02-02 20:44:00 (309 KB/s) - ‘abn001’ saved [101913/101913]
+
+--2017-02-02 20:44:01--  http://doi.org/10.1093/amrx/abm008
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abm008 [following]
+--2017-02-02 20:44:02--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abm008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 20:44:02 ERROR 400: Bad Request.
+
+--2017-02-02 20:44:03--  http://doi.org/10.1093/amrx/abn002
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abn002 [following]
+--2017-02-02 20:44:04--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abn002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 119375 (117K) [text/html]
+Saving to: ‘abn002’
+
+     0K .......... .......... .......... .......... .......... 42%  209K 0s
+    50K .......... .......... .......... .......... .......... 85%  600K 0s
+   100K .......... ......                                     100% 18.7M=0.3s
+
+2017-02-02 20:44:09 (360 KB/s) - ‘abn002’ saved [119375/119375]
+
+--2017-02-02 20:44:10--  http://doi.org/10.1093/amrx/abn003
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abn003 [following]
+--2017-02-02 20:44:11--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abn003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 20:44:11 ERROR 400: Bad Request.
+
+--2017-02-02 20:44:12--  http://doi.org/10.1093/amrx/abm004
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abm004 [following]
+--2017-02-02 20:44:13--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abm004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 111901 (109K) [text/html]
+Saving to: ‘abm004’
+
+     0K .......... .......... .......... .......... .......... 45%  209K 0s
+    50K .......... .......... .......... .......... .......... 91%  599K 0s
+   100K .........                                             100% 27.0M=0.3s
+
+2017-02-02 20:44:17 (338 KB/s) - ‘abm004’ saved [111901/111901]
+
+--2017-02-02 20:44:18--  http://doi.org/10.1093/amrx/abm005
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abm005 [following]
+--2017-02-02 20:44:20--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abm005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 93127 (91K) [text/html]
+Saving to: ‘abm005’
+
+     0K .......... .......... .......... .......... .......... 54%  209K 0s
+    50K .......... .......... .......... ..........           100%  512K=0.3s
+
+2017-02-02 20:44:23 (285 KB/s) - ‘abm005’ saved [93127/93127]
+
+--2017-02-02 20:44:24--  http://doi.org/10.1093/amrx/abm003
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abm003 [following]
+--2017-02-02 20:44:25--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abm003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 83237 (81K) [text/html]
+Saving to: ‘abm003’
+
+     0K .......... .......... .......... .......... .......... 61%  208K 0s
+    50K .......... .......... .......... .                    100% 11.7M=0.2s
+
+2017-02-02 20:44:29 (334 KB/s) - ‘abm003’ saved [83237/83237]
+
+--2017-02-02 20:44:30--  http://doi.org/10.1093/amrx/abm011
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abm011 [following]
+--2017-02-02 20:44:31--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abm011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 112841 (110K) [text/html]
+Saving to: ‘abm011’
+
+     0K .......... .......... .......... .......... .......... 45%  208K 0s
+    50K .......... .......... .......... .......... .......... 90%  606K 0s
+   100K ..........                                            100% 27.0M=0.3s
+
+2017-02-02 20:44:39 (341 KB/s) - ‘abm011’ saved [112841/112841]
+
+--2017-02-02 20:44:40--  http://doi.org/10.1093/amrx/abn004
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abn004 [following]
+--2017-02-02 20:44:41--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abn004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 111465 (109K) [text/html]
+Saving to: ‘abn004’
+
+     0K .......... .......... .......... .......... .......... 45%  208K 0s
+    50K .......... .......... .......... .......... .......... 91%  587K 0s
+   100K ........                                              100% 34.6M=0.3s
+
+2017-02-02 20:44:47 (334 KB/s) - ‘abn004’ saved [111465/111465]
+
+--2017-02-02 20:44:48--  http://doi.org/10.1093/amrx/abm010
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abm010 [following]
+--2017-02-02 20:44:49--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abm010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 119069 (116K) [text/html]
+Saving to: ‘abm010’
+
+     0K .......... .......... .......... .......... .......... 43%  207K 0s
+    50K .......... .......... .......... .......... .......... 86%  600K 0s
+   100K .......... ......                                     100% 7.02M=0.3s
+
+2017-02-02 20:44:53 (355 KB/s) - ‘abm010’ saved [119069/119069]
+
+--2017-02-02 20:44:54--  http://doi.org/10.1093/amrx/abm009
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abm009 [following]
+--2017-02-02 20:44:55--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abm009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 84446 (82K) [text/html]
+Saving to: ‘abm009’
+
+     0K .......... .......... .......... .......... .......... 60%  208K 0s
+    50K .......... .......... .......... ..                   100% 12.0M=0.2s
+
+2017-02-02 20:44:59 (340 KB/s) - ‘abm009’ saved [84446/84446]
+
+--2017-02-02 20:45:00--  http://doi.org/10.1093/amrx/abm006
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abm006 [following]
+--2017-02-02 20:45:01--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abm006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 165965 (162K) [text/html]
+Saving to: ‘abm006’
+
+     0K .......... .......... .......... .......... .......... 30%  209K 1s
+    50K .......... .......... .......... .......... .......... 61%  601K 0s
+   100K .......... .......... .......... .......... .......... 92%  610K 0s
+   150K .......... ..                                         100%  323K=0.4s
+
+2017-02-02 20:45:05 (367 KB/s) - ‘abm006’ saved [165965/165965]
+
+--2017-02-02 20:45:06--  http://doi.org/10.1093/amrx/abm012
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abm012 [following]
+--2017-02-02 20:45:07--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abm012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 20:45:08 ERROR 400: Bad Request.
+
+--2017-02-02 20:45:09--  http://doi.org/10.1093/amrx/abq011
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abq011 [following]
+--2017-02-02 20:45:10--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abq011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62912 (61K) [text/html]
+Saving to: ‘abq011’
+
+     0K .......... .......... .......... .......... .......... 81%  207K 0s
+    50K .......... .                                          100% 24.9M=0.2s
+
+2017-02-02 20:45:16 (254 KB/s) - ‘abq011’ saved [62912/62912]
+
+--2017-02-02 20:45:17--  http://doi.org/10.1093/amrx/abq010
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abq010 [following]
+--2017-02-02 20:45:18--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abq010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63139 (62K) [text/html]
+Saving to: ‘abq010’
+
+     0K .......... .......... .......... .......... .......... 81%  206K 0s
+    50K .......... .                                          100% 22.1M=0.2s
+
+2017-02-02 20:45:22 (254 KB/s) - ‘abq010’ saved [63139/63139]
+
+--2017-02-02 20:45:23--  http://doi.org/10.1093/amrx/abq009
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abq009 [following]
+--2017-02-02 20:45:24--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abq009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 78048 (76K) [text/html]
+Saving to: ‘abq009’
+
+     0K .......... .......... .......... .......... .......... 65%  306K 0s
+    50K .......... .......... ......                          100%  328K=0.2s
+
+2017-02-02 20:45:30 (313 KB/s) - ‘abq009’ saved [78048/78048]
+
+--2017-02-02 20:45:31--  http://doi.org/10.1093/amrx/abq008
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abq008 [following]
+--2017-02-02 20:45:32--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abq008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 631246 (616K) [text/html]
+Saving to: ‘abq008’
+
+     0K .......... .......... .......... .......... ..........  8%  209K 3s
+    50K .......... .......... .......... .......... .......... 16%  592K 2s
+   100K .......... .......... .......... .......... .......... 24%  611K 1s
+   150K .......... .......... .......... .......... .......... 32%  419K 1s
+   200K .......... .......... .......... .......... .......... 40%  407K 1s
+   250K .......... .......... .......... .......... .......... 48%  608K 1s
+   300K .......... .......... .......... .......... .......... 56%  421K 1s
+   350K .......... .......... .......... .......... .......... 64%  399K 1s
+   400K .......... .......... .......... .......... .......... 72%  607K 0s
+   450K .......... .......... .......... .......... .......... 81%  600K 0s
+   500K .......... .......... .......... .......... .......... 89%  311K 0s
+   550K .......... .......... .......... .......... .......... 97%  583K 0s
+   600K .......... ......                                     100% 20.0M=1.4s
+
+2017-02-02 20:45:57 (445 KB/s) - ‘abq008’ saved [631246/631246]
+
+--2017-02-02 20:45:58--  http://doi.org/10.1093/amrx/abq002
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abq002 [following]
+--2017-02-02 20:45:59--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abq002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 366225 (358K) [text/html]
+Saving to: ‘abq002’
+
+     0K .......... .......... .......... .......... .......... 13%  208K 1s
+    50K .......... .......... .......... .......... .......... 27%  601K 1s
+   100K .......... .......... .......... .......... .......... 41%  612K 1s
+   150K .......... .......... .......... .......... .......... 55%  427K 0s
+   200K .......... .......... .......... .......... .......... 69%  594K 0s
+   250K .......... .......... .......... .......... .......... 83%  401K 0s
+   300K .......... .......... .......... .......... .......... 97%  611K 0s
+   350K .......                                               100%  204K=0.9s
+
+2017-02-02 20:46:09 (421 KB/s) - ‘abq002’ saved [366225/366225]
+
+--2017-02-02 20:46:10--  http://doi.org/10.1093/amrx/abq003
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abq003 [following]
+--2017-02-02 20:46:11--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abq003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 500466 (489K) [text/html]
+Saving to: ‘abq003’
+
+     0K .......... .......... .......... .......... .......... 10%  209K 2s
+    50K .......... .......... .......... .......... .......... 20%  603K 1s
+   100K .......... .......... .......... .......... .......... 30%  605K 1s
+   150K .......... .......... .......... .......... .......... 40%  317K 1s
+   200K .......... .......... .......... .......... .......... 51%  592K 1s
+   250K .......... .......... .......... .......... .......... 61%  603K 0s
+   300K .......... .......... .......... .......... .......... 71%  610K 0s
+   350K .......... .......... .......... .......... .......... 81%  314K 0s
+   400K .......... .......... .......... .......... .......... 92%  593K 0s
+   450K .......... .......... .......... ........             100%  477K=1.1s
+
+2017-02-02 20:46:25 (430 KB/s) - ‘abq003’ saved [500466/500466]
+
+--2017-02-02 20:46:26--  http://doi.org/10.1093/amrx/abq006
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abq006 [following]
+--2017-02-02 20:46:27--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abq006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63040 (62K) [text/html]
+Saving to: ‘abq006’
+
+     0K .......... .......... .......... .......... .......... 81%  209K 0s
+    50K .......... .                                          100% 11.4M=0.2s
+
+2017-02-02 20:46:31 (256 KB/s) - ‘abq006’ saved [63040/63040]
+
+--2017-02-02 20:46:32--  http://doi.org/10.1093/amrx/abq004
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abq004 [following]
+--2017-02-02 20:46:33--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abq004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65438 (64K) [text/html]
+Saving to: ‘abq004’
+
+     0K .......... .......... .......... .......... .......... 78%  209K 0s
+    50K .......... ...                                        100% 11.0M=0.2s
+
+2017-02-02 20:46:38 (266 KB/s) - ‘abq004’ saved [65438/65438]
+
+--2017-02-02 20:46:39--  http://doi.org/10.1093/amrx/abq007
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abq007 [following]
+--2017-02-02 20:46:40--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abq007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62906 (61K) [text/html]
+Saving to: ‘abq007’
+
+     0K .......... .......... .......... .......... .......... 81%  209K 0s
+    50K .......... .                                          100% 24.6M=0.2s
+
+2017-02-02 20:46:46 (256 KB/s) - ‘abq007’ saved [62906/62906]
+
+--2017-02-02 20:46:47--  http://doi.org/10.1093/amrx/abq005
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abq005 [following]
+--2017-02-02 20:46:48--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abq005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77953 (76K) [text/html]
+Saving to: ‘abq005’
+
+     0K .......... .......... .......... .......... .......... 65%  208K 0s
+    50K .......... .......... ......                          100% 8.29M=0.2s
+
+2017-02-02 20:46:52 (313 KB/s) - ‘abq005’ saved [77953/77953]
+
+--2017-02-02 20:46:53--  http://doi.org/10.1093/amrx/abq001
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abq001 [following]
+--2017-02-02 20:46:54--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abq001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 359431 (351K) [text/html]
+Saving to: ‘abq001’
+
+     0K .......... .......... .......... .......... .......... 14%  208K 1s
+    50K .......... .......... .......... .......... .......... 28%  612K 1s
+   100K .......... .......... .......... .......... .......... 42%  604K 1s
+   150K .......... .......... .......... .......... .......... 56%  607K 0s
+   200K .......... .......... .......... .......... .......... 71%  312K 0s
+   250K .......... .......... .......... .......... .......... 85%  609K 0s
+   300K .......... .......... .......... .......... .......... 99%  607K 0s
+   350K .                                                     100% 1920G=0.8s
+
+2017-02-02 20:47:10 (432 KB/s) - ‘abq001’ saved [359431/359431]
+
+--2017-02-02 20:47:11--  http://doi.org/10.1093/amrx/abp008
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abp008 [following]
+--2017-02-02 20:47:12--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abp008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 281639 (275K) [text/html]
+Saving to: ‘abp008’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 36%  561K 1s
+   100K .......... .......... .......... .......... .......... 54%  599K 0s
+   150K .......... .......... .......... .......... .......... 72%  429K 0s
+   200K .......... .......... .......... .......... .......... 90%  423K 0s
+   250K .......... .......... .....                           100% 1.31M=0.7s
+
+2017-02-02 20:47:27 (413 KB/s) - ‘abp008’ saved [281639/281639]
+
+--2017-02-02 20:47:28--  http://doi.org/10.1093/amrx/abp007
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abp007 [following]
+--2017-02-02 20:47:30--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abp007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 416196 (406K) [text/html]
+Saving to: ‘abp007’
+
+     0K .......... .......... .......... .......... .......... 12%  207K 2s
+    50K .......... .......... .......... .......... .......... 24%  605K 1s
+   100K .......... .......... .......... .......... .......... 36%  613K 1s
+   150K .......... .......... .......... .......... .......... 49%  609K 1s
+   200K .......... .......... .......... .......... .......... 61%  311K 0s
+   250K .......... .......... .......... .......... .......... 73%  608K 0s
+   300K .......... .......... .......... .......... .......... 86%  612K 0s
+   350K .......... .......... .......... .......... .......... 98%  310K 0s
+   400K ......                                                100% 27.2M=1.0s
+
+2017-02-02 20:47:44 (417 KB/s) - ‘abp007’ saved [416196/416196]
+
+--2017-02-02 20:47:45--  http://doi.org/10.1093/amrx/abp004
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abp004 [following]
+--2017-02-02 20:47:46--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abp004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62995 (62K) [text/html]
+Saving to: ‘abp004’
+
+     0K .......... .......... .......... .......... .......... 81%  209K 0s
+    50K .......... .                                          100% 24.4M=0.2s
+
+2017-02-02 20:47:51 (257 KB/s) - ‘abp004’ saved [62995/62995]
+
+--2017-02-02 20:47:52--  http://doi.org/10.1093/amrx/abp005
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abp005 [following]
+--2017-02-02 20:47:53--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abp005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62954 (61K) [text/html]
+Saving to: ‘abp005’
+
+     0K .......... .......... .......... .......... .......... 81%  208K 0s
+    50K .......... .                                          100% 23.8M=0.2s
+
+2017-02-02 20:47:57 (255 KB/s) - ‘abp005’ saved [62954/62954]
+
+--2017-02-02 20:47:58--  http://doi.org/10.1093/amrx/abp003
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abp003 [following]
+--2017-02-02 20:47:59--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abp003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 171898 (168K) [text/html]
+Saving to: ‘abp003’
+
+     0K .......... .......... .......... .......... .......... 29%  209K 1s
+    50K .......... .......... .......... .......... .......... 59%  609K 0s
+   100K .......... .......... .......... .......... .......... 89%  614K 0s
+   150K .......... .......                                    100%  228K=0.5s
+
+2017-02-02 20:48:07 (349 KB/s) - ‘abp003’ saved [171898/171898]
+
+--2017-02-02 20:48:08--  http://doi.org/10.1093/amrx/abp002
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abp002 [following]
+--2017-02-02 20:48:09--  https://academic.oup.com/amrx/article-lookup/doi/10.1093/amrx/abp002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 215534 (210K) [text/html]
+Saving to: ‘abp002’
+
+     0K .......... .......... .......... .......... .......... 23%  209K 1s
+    50K .......... .......... .......... .......... .......... 47%  605K 0s
+   100K .......... .......... .......... .......... .......... 71%  603K 0s
+   150K .......... .......... .......... .......... .......... 95%  321K 0s
+   200K ..........                                            100% 2.65M=0.6s
+
+2017-02-02 20:48:17 (373 KB/s) - ‘abp002’ saved [215534/215534]
+
+FINISHED --2017-02-02 20:48:17--
+Total wall clock time: 16m 2s
+Downloaded: 89 files, 27M in 1m 13s (374 KB/s)

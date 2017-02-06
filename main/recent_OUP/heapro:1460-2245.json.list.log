@@ -1,0 +1,1696 @@
+--2017-02-02 19:44:46--  http://doi.org/10.1093/heapro/daw107
+Resolving doi.org (doi.org)... 63.123.152.248, 38.100.138.162, 208.254.38.90, ...
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://heapro.oxfordjournals.org/lookup/doi/10.1093/heapro/daw107 [following]
+--2017-02-02 19:44:47--  http://heapro.oxfordjournals.org/lookup/doi/10.1093/heapro/daw107
+Resolving heapro.oxfordjournals.org (heapro.oxfordjournals.org)... 209.135.222.209
+Connecting to heapro.oxfordjournals.org (heapro.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from heapro.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/heapro/article/doi/10.1093/heapro/daw107/2964470/Community-based-cardiovascular-health-promotion-in [following]
+--2017-02-02 19:44:48--  https://academic.oup.com/heapro/article/doi/10.1093/heapro/daw107/2964470/Community-based-cardiovascular-health-promotion-in
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 316792 (309K) [text/html]
+Saving to: ‘daw107’
+
+     0K .......... .......... .......... .......... .......... 16%  209K 1s
+    50K .......... .......... .......... .......... .......... 32%  612K 1s
+   100K .......... .......... .......... .......... .......... 48%  594K 0s
+   150K .......... .......... .......... .......... .......... 64%  613K 0s
+   200K .......... .......... .......... .......... .......... 80%  315K 0s
+   250K .......... .......... .......... .......... .......... 96%  598K 0s
+   300K .........                                             100% 5.01M=0.7s
+
+2017-02-02 19:44:53 (423 KB/s) - ‘daw107’ saved [316792/316792]
+
+--2017-02-02 19:44:54--  http://doi.org/10.1093/heapro/daw108
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw108 [following]
+--2017-02-02 19:44:56--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw108
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 230133 (225K) [text/html]
+Saving to: ‘daw108’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 44%  603K 0s
+   100K .......... .......... .......... .......... .......... 66%  597K 0s
+   150K .......... .......... .......... .......... .......... 88%  608K 0s
+   200K .......... .......... ....                            100%  311K=0.6s
+
+2017-02-02 19:45:05 (396 KB/s) - ‘daw108’ saved [230133/230133]
+
+--2017-02-02 19:45:06--  http://doi.org/10.1093/heapro/daw102
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw102 [following]
+--2017-02-02 19:45:07--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw102
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 212630 (208K) [text/html]
+Saving to: ‘daw102’
+
+     0K .......... .......... .......... .......... .......... 24%  209K 1s
+    50K .......... .......... .......... .......... .......... 48%  604K 0s
+   100K .......... .......... .......... .......... .......... 72%  601K 0s
+   150K .......... .......... .......... .......... .......... 96%  430K 0s
+   200K .......                                               100%  183K=0.6s
+
+2017-02-02 19:45:11 (369 KB/s) - ‘daw102’ saved [212630/212630]
+
+--2017-02-02 19:45:12--  http://doi.org/10.1093/heapro/daw105
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw105 [following]
+--2017-02-02 19:45:13--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw105
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:45:14 ERROR 400: Bad Request.
+
+--2017-02-02 19:45:15--  http://doi.org/10.1093/heapro/daw104
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw104 [following]
+--2017-02-02 19:45:16--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw104
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 211424 (206K) [text/html]
+Saving to: ‘daw104’
+
+     0K .......... .......... .......... .......... .......... 24%  208K 1s
+    50K .......... .......... .......... .......... .......... 48%  604K 0s
+   100K .......... .......... .......... .......... .......... 72%  610K 0s
+   150K .......... .......... .......... .......... .......... 96%  596K 0s
+   200K ......                                                100% 84.6K=0.6s
+
+2017-02-02 19:45:22 (365 KB/s) - ‘daw104’ saved [211424/211424]
+
+--2017-02-02 19:45:23--  http://doi.org/10.1093/heapro/daw109
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw109 [following]
+--2017-02-02 19:45:24--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw109
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 218748 (214K) [text/html]
+Saving to: ‘daw109’
+
+     0K .......... .......... .......... .......... .......... 23%  208K 1s
+    50K .......... .......... .......... .......... .......... 46%  606K 0s
+   100K .......... .......... .......... .......... .......... 70%  603K 0s
+   150K .......... .......... .......... .......... .......... 93%  600K 0s
+   200K .......... ...                                        100%  177K=0.6s
+
+2017-02-02 19:45:27 (378 KB/s) - ‘daw109’ saved [218748/218748]
+
+--2017-02-02 19:45:28--  http://doi.org/10.1093/heapro/daw098
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw098 [following]
+--2017-02-02 19:45:29--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw098
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 383108 (374K) [text/html]
+Saving to: ‘daw098’
+
+     0K .......... .......... .......... .......... .......... 13%  206K 2s
+    50K .......... .......... .......... .......... .......... 26%  608K 1s
+   100K .......... .......... .......... .......... .......... 40%  604K 1s
+   150K .......... .......... .......... .......... .......... 53%  317K 0s
+   200K .......... .......... .......... .......... .......... 66%  541K 0s
+   250K .......... .......... .......... .......... .......... 80%  606K 0s
+   300K .......... .......... .......... .......... .......... 93%  604K 0s
+   350K .......... .......... ....                            100%  298K=0.9s
+
+2017-02-02 19:45:34 (414 KB/s) - ‘daw098’ saved [383108/383108]
+
+--2017-02-02 19:45:35--  http://doi.org/10.1093/heapro/daw106
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw106 [following]
+--2017-02-02 19:45:36--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw106
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 208161 (203K) [text/html]
+Saving to: ‘daw106’
+
+     0K .......... .......... .......... .......... .......... 24%  207K 1s
+    50K .......... .......... .......... .......... .......... 49%  608K 0s
+   100K .......... .......... .......... .......... .......... 73%  603K 0s
+   150K .......... .......... .......... .......... .......... 98%  598K 0s
+   200K ...                                                   100% 6260G=0.5s
+
+2017-02-02 19:45:40 (414 KB/s) - ‘daw106’ saved [208161/208161]
+
+--2017-02-02 19:45:41--  http://doi.org/10.1093/heapro/dax001
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-02 19:45:42--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Resolving fdslive.oup.com (fdslive.oup.com)... 193.67.160.201
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘dax001’
+
+     0K .......... .......... .......... .......... .......... 97% 1.15M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-02 19:45:47 (1.18 MB/s) - ‘dax001’ saved [52438/52438]
+
+--2017-02-02 19:45:48--  http://doi.org/10.1093/heapro/dax005
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-02 19:45:50--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘dax005’
+
+     0K .......... .......... .......... .......... .......... 97% 1.16M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-02 19:45:50 (1.18 MB/s) - ‘dax005’ saved [52438/52438]
+
+--2017-02-02 19:45:51--  http://doi.org/10.1093/heapro/dax004
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-02 19:45:52--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘dax004’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-02 19:45:52 (1.32 MB/s) - ‘dax004’ saved [52438/52438]
+
+--2017-02-02 19:45:53--  http://doi.org/10.1093/heapro/dax002
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-02 19:45:55--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘dax002’
+
+     0K .......... .......... .......... .......... .......... 97%  966K 0s
+    50K .                                                     100% 2306G=0.05s
+
+2017-02-02 19:45:55 (989 KB/s) - ‘dax002’ saved [52438/52438]
+
+--2017-02-02 19:45:56--  http://doi.org/10.1093/heapro/daw088
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw088 [following]
+--2017-02-02 19:45:57--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw088
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:45:58 ERROR 400: Bad Request.
+
+--2017-02-02 19:45:59--  http://doi.org/10.1093/heapro/daw100
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw100 [following]
+--2017-02-02 19:46:00--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw100
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 238417 (233K) [text/html]
+Saving to: ‘daw100’
+
+     0K .......... .......... .......... .......... .......... 21%  209K 1s
+    50K .......... .......... .......... .......... .......... 42%  587K 0s
+   100K .......... .......... .......... .......... .......... 64%  572K 0s
+   150K .......... .......... .......... .......... .......... 85%  595K 0s
+   200K .......... .......... .......... ..                   100%  408K=0.6s
+
+2017-02-02 19:46:05 (404 KB/s) - ‘daw100’ saved [238417/238417]
+
+--2017-02-02 19:46:06--  http://doi.org/10.1093/heapro/daw096
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw096 [following]
+--2017-02-02 19:46:08--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw096
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:46:08 ERROR 400: Bad Request.
+
+--2017-02-02 19:46:09--  http://doi.org/10.1093/heapro/daw093
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw093 [following]
+--2017-02-02 19:46:11--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw093
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 250091 (244K) [text/html]
+Saving to: ‘daw093’
+
+     0K .......... .......... .......... .......... .......... 20%  209K 1s
+    50K .......... .......... .......... .......... .......... 40%  613K 0s
+   100K .......... .......... .......... .......... .......... 61%  603K 0s
+   150K .......... .......... .......... .......... .......... 81%  608K 0s
+   200K .......... .......... .......... .......... ....      100%  544K=0.6s
+
+2017-02-02 19:46:14 (430 KB/s) - ‘daw093’ saved [250091/250091]
+
+--2017-02-02 19:46:15--  http://doi.org/10.1093/heapro/daw092
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw092 [following]
+--2017-02-02 19:46:17--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw092
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:46:17 ERROR 400: Bad Request.
+
+--2017-02-02 19:46:18--  http://doi.org/10.1093/heapro/daw097
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw097 [following]
+--2017-02-02 19:46:20--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw097
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 239624 (234K) [text/html]
+Saving to: ‘daw097’
+
+     0K .......... .......... .......... .......... .......... 21%  209K 1s
+    50K .......... .......... .......... .......... .......... 42%  605K 0s
+   100K .......... .......... .......... .......... .......... 64%  613K 0s
+   150K .......... .......... .......... .......... .......... 85%  318K 0s
+   200K .......... .......... .......... ....                 100%  786K=0.6s
+
+2017-02-02 19:46:23 (387 KB/s) - ‘daw097’ saved [239624/239624]
+
+--2017-02-02 19:46:24--  http://doi.org/10.1093/heapro/daw090
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw090 [following]
+--2017-02-02 19:46:26--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw090
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 287110 (280K) [text/html]
+Saving to: ‘daw090’
+
+     0K .......... .......... .......... .......... .......... 17%  208K 1s
+    50K .......... .......... .......... .......... .......... 35%  611K 1s
+   100K .......... .......... .......... .......... .......... 53%  599K 0s
+   150K .......... .......... .......... .......... .......... 71%  413K 0s
+   200K .......... .......... .......... .......... .......... 89%  406K 0s
+   250K .......... .......... ..........                      100%  406K=0.7s
+
+2017-02-02 19:46:29 (387 KB/s) - ‘daw090’ saved [287110/287110]
+
+--2017-02-02 19:46:30--  http://doi.org/10.1093/heapro/daw085
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw085 [following]
+--2017-02-02 19:46:32--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw085
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 260544 (254K) [text/html]
+Saving to: ‘daw085’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 39%  610K 0s
+   100K .......... .......... .......... .......... .......... 58%  614K 0s
+   150K .......... .......... .......... .......... .......... 78%  419K 0s
+   200K .......... .......... .......... .......... .......... 98%  405K 0s
+   250K ....                                                  100% 8464G=0.6s
+
+2017-02-02 19:46:36 (394 KB/s) - ‘daw085’ saved [260544/260544]
+
+--2017-02-02 19:46:37--  http://doi.org/10.1093/heapro/daw087
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw087 [following]
+--2017-02-02 19:46:38--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw087
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 213669 (209K) [text/html]
+Saving to: ‘daw087’
+
+     0K .......... .......... .......... .......... .......... 23%  207K 1s
+    50K .......... .......... .......... .......... .......... 47%  607K 0s
+   100K .......... .......... .......... .......... .......... 71%  607K 0s
+   150K .......... .......... .......... .......... .......... 95%  414K 0s
+   200K ........                                              100% 4.53M=0.5s
+
+2017-02-02 19:46:41 (395 KB/s) - ‘daw087’ saved [213669/213669]
+
+--2017-02-02 19:46:42--  http://doi.org/10.1093/heapro/daw086
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw086 [following]
+--2017-02-02 19:46:44--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw086
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 271661 (265K) [text/html]
+Saving to: ‘daw086’
+
+     0K .......... .......... .......... .......... .......... 18%  207K 1s
+    50K .......... .......... .......... .......... .......... 37%  603K 1s
+   100K .......... .......... .......... .......... .......... 56%  587K 0s
+   150K .......... .......... .......... .......... .......... 75%  612K 0s
+   200K .......... .......... .......... .......... .......... 94%  320K 0s
+   250K .......... .....                                      100% 4.45M=0.7s
+
+2017-02-02 19:46:48 (408 KB/s) - ‘daw086’ saved [271661/271661]
+
+--2017-02-02 19:46:49--  http://doi.org/10.1093/heapro/daw089
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw089 [following]
+--2017-02-02 19:46:51--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw089
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 251517 (246K) [text/html]
+Saving to: ‘daw089’
+
+     0K .......... .......... .......... .......... .......... 20%  209K 1s
+    50K .......... .......... .......... .......... .......... 40%  602K 0s
+   100K .......... .......... .......... .......... .......... 61%  611K 0s
+   150K .......... .......... .......... .......... .......... 81%  581K 0s
+   200K .......... .......... .......... .......... .....     100%  295K=0.6s
+
+2017-02-02 19:47:01 (380 KB/s) - ‘daw089’ saved [251517/251517]
+
+--2017-02-02 19:47:02--  http://doi.org/10.1093/heapro/daw094
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw094 [following]
+--2017-02-02 19:47:03--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw094
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 258345 (252K) [text/html]
+Saving to: ‘daw094’
+
+     0K .......... .......... .......... .......... .......... 19%  308K 1s
+    50K .......... .......... .......... .......... .......... 39%  309K 0s
+   100K .......... .......... .......... .......... .......... 59%  607K 0s
+   150K .......... .......... .......... .......... .......... 79%  603K 0s
+   200K .......... .......... .......... .......... .......... 99%  310K 0s
+   250K ..                                                    100% 4368G=0.7s
+
+2017-02-02 19:47:10 (387 KB/s) - ‘daw094’ saved [258345/258345]
+
+--2017-02-02 19:47:11--  http://doi.org/10.1093/heapro/daw078
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw078 [following]
+--2017-02-02 19:47:12--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw078
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 239693 (234K) [text/html]
+Saving to: ‘daw078’
+
+     0K .......... .......... .......... .......... .......... 21%  209K 1s
+    50K .......... .......... .......... .......... .......... 42%  614K 0s
+   100K .......... .......... .......... .......... .......... 64%  602K 0s
+   150K .......... .......... .......... .......... .......... 85%  602K 0s
+   200K .......... .......... .......... ....                 100%  421K=0.6s
+
+2017-02-02 19:47:16 (412 KB/s) - ‘daw078’ saved [239693/239693]
+
+--2017-02-02 19:47:17--  http://doi.org/10.1093/heapro/daw099
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw099 [following]
+--2017-02-02 19:47:18--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw099
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 167491 (164K) [text/html]
+Saving to: ‘daw099’
+
+     0K .......... .......... .......... .......... .......... 30%  309K 0s
+    50K .......... .......... .......... .......... .......... 61%  309K 0s
+   100K .......... .......... .......... .......... .......... 91%  605K 0s
+   150K .......... ...                                        100% 12.9M=0.4s
+
+2017-02-02 19:47:22 (401 KB/s) - ‘daw099’ saved [167491/167491]
+
+--2017-02-02 19:47:23--  http://doi.org/10.1093/heapro/daw084
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw084 [following]
+--2017-02-02 19:47:25--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw084
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 250709 (245K) [text/html]
+Saving to: ‘daw084’
+
+     0K .......... .......... .......... .......... .......... 20%  208K 1s
+    50K .......... .......... .......... .......... .......... 40%  606K 0s
+   100K .......... .......... .......... .......... .......... 61%  610K 0s
+   150K .......... .......... .......... .......... .......... 81%  310K 0s
+   200K .......... .......... .......... .......... ....      100%  553K=0.6s
+
+2017-02-02 19:47:29 (378 KB/s) - ‘daw084’ saved [250709/250709]
+
+--2017-02-02 19:47:30--  http://doi.org/10.1093/heapro/daw083
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw083 [following]
+--2017-02-02 19:47:32--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw083
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:47:32 ERROR 400: Bad Request.
+
+--2017-02-02 19:47:33--  http://doi.org/10.1093/heapro/daw081
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw081 [following]
+--2017-02-02 19:47:35--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw081
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 186846 (182K) [text/html]
+Saving to: ‘daw081’
+
+     0K .......... .......... .......... .......... .......... 27%  209K 1s
+    50K .......... .......... .......... .......... .......... 54%  604K 0s
+   100K .......... .......... .......... .......... .......... 82%  605K 0s
+   150K .......... .......... .......... ..                   100%  413K=0.5s
+
+2017-02-02 19:47:38 (377 KB/s) - ‘daw081’ saved [186846/186846]
+
+--2017-02-02 19:47:39--  http://doi.org/10.1093/heapro/daw080
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw080 [following]
+--2017-02-02 19:47:41--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw080
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 250461 (245K) [text/html]
+Saving to: ‘daw080’
+
+     0K .......... .......... .......... .......... .......... 20%  207K 1s
+    50K .......... .......... .......... .......... .......... 40%  605K 0s
+   100K .......... .......... .......... .......... .......... 61%  585K 0s
+   150K .......... .......... .......... .......... .......... 81%  582K 0s
+   200K .......... .......... .......... .......... ....      100% 65.0K=1.2s
+
+2017-02-02 19:47:45 (207 KB/s) - ‘daw080’ saved [250461/250461]
+
+--2017-02-02 19:47:46--  http://doi.org/10.1093/heapro/daw082
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw082 [following]
+--2017-02-02 19:47:47--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw082
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 303134 (296K) [text/html]
+Saving to: ‘daw082’
+
+     0K .......... .......... .......... .......... .......... 16%  303K 1s
+    50K .......... .......... .......... .......... .......... 33%  317K 1s
+   100K .......... .......... .......... .......... .......... 50%  610K 0s
+   150K .......... .......... .......... .......... .......... 67%  314K 0s
+   200K .......... .......... .......... .......... .......... 84%  602K 0s
+   250K .......... .......... .......... .......... ......    100%  563K=0.7s
+
+2017-02-02 19:47:52 (406 KB/s) - ‘daw082’ saved [303134/303134]
+
+--2017-02-02 19:47:53--  http://doi.org/10.1093/heapro/daw076
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw076 [following]
+--2017-02-02 19:47:54--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw076
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:47:55 ERROR 400: Bad Request.
+
+--2017-02-02 19:47:56--  http://doi.org/10.1093/heapro/daw074
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw074 [following]
+--2017-02-02 19:47:57--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw074
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 204056 (199K) [text/html]
+Saving to: ‘daw074’
+
+     0K .......... .......... .......... .......... .......... 25%  209K 1s
+    50K .......... .......... .......... .......... .......... 50%  605K 0s
+   100K .......... .......... .......... .......... .......... 75%  606K 0s
+   150K .......... .......... .......... .......... ......... 100%  603K=0.5s
+
+2017-02-02 19:48:01 (410 KB/s) - ‘daw074’ saved [204056/204056]
+
+--2017-02-02 19:48:02--  http://doi.org/10.1093/heapro/daw075
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw075 [following]
+--2017-02-02 19:48:03--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw075
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 232984 (228K) [text/html]
+Saving to: ‘daw075’
+
+     0K .......... .......... .......... .......... .......... 21%  209K 1s
+    50K .......... .......... .......... .......... .......... 43%  605K 0s
+   100K .......... .......... .......... .......... .......... 65%  603K 0s
+   150K .......... .......... .......... .......... .......... 87%  611K 0s
+   200K .......... .......... .......                         100%  347K=0.6s
+
+2017-02-02 19:48:07 (402 KB/s) - ‘daw075’ saved [232984/232984]
+
+--2017-02-02 19:48:08--  http://doi.org/10.1093/heapro/daw077
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw077 [following]
+--2017-02-02 19:48:09--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw077
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 225310 (220K) [text/html]
+Saving to: ‘daw077’
+
+     0K .......... .......... .......... .......... .......... 22%  207K 1s
+    50K .......... .......... .......... .......... .......... 45%  605K 0s
+   100K .......... .......... .......... .......... .......... 68%  603K 0s
+   150K .......... .......... .......... .......... .......... 90%  609K 0s
+   200K .......... ..........                                 100%  252K=0.6s
+
+2017-02-02 19:48:13 (387 KB/s) - ‘daw077’ saved [225310/225310]
+
+--2017-02-02 19:48:14--  http://doi.org/10.1093/heapro/daw079
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw079 [following]
+--2017-02-02 19:48:15--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw079
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 239830 (234K) [text/html]
+Saving to: ‘daw079’
+
+     0K .......... .......... .......... .......... .......... 21%  208K 1s
+    50K .......... .......... .......... .......... .......... 42%  608K 0s
+   100K .......... .......... .......... .......... .......... 64%  590K 0s
+   150K .......... .......... .......... .......... .......... 85%  605K 0s
+   200K .......... .......... .......... ....                 100%  429K=0.6s
+
+2017-02-02 19:48:19 (411 KB/s) - ‘daw079’ saved [239830/239830]
+
+--2017-02-02 19:48:20--  http://doi.org/10.1093/heapro/daw069
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw069 [following]
+--2017-02-02 19:48:21--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw069
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 160261 (157K) [text/html]
+Saving to: ‘daw069’
+
+     0K .......... .......... .......... .......... .......... 31%  209K 1s
+    50K .......... .......... .......... .......... .......... 63%  609K 0s
+   100K .......... .......... .......... .......... .......... 95%  607K 0s
+   150K ......                                                100% 17.7M=0.4s
+
+2017-02-02 19:48:26 (387 KB/s) - ‘daw069’ saved [160261/160261]
+
+--2017-02-02 19:48:27--  http://doi.org/10.1093/heapro/daw064
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw064 [following]
+--2017-02-02 19:48:29--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw064
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 200736 (196K) [text/html]
+Saving to: ‘daw064’
+
+     0K .......... .......... .......... .......... .......... 25%  209K 1s
+    50K .......... .......... .......... .......... .......... 51%  602K 0s
+   100K .......... .......... .......... .......... .......... 76%  610K 0s
+   150K .......... .......... .......... .......... ......    100%  532K=0.5s
+
+2017-02-02 19:48:33 (399 KB/s) - ‘daw064’ saved [200736/200736]
+
+--2017-02-02 19:48:34--  http://doi.org/10.1093/heapro/daw070
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw070 [following]
+--2017-02-02 19:48:35--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw070
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 116599 (114K) [text/html]
+Saving to: ‘daw070’
+
+     0K .......... .......... .......... .......... .......... 43%  307K 0s
+    50K .......... .......... .......... .......... .......... 87%  313K 0s
+   100K .......... ...                                        100% 8.49M=0.3s
+
+2017-02-02 19:48:39 (351 KB/s) - ‘daw070’ saved [116599/116599]
+
+--2017-02-02 19:48:40--  http://doi.org/10.1093/heapro/daw071
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw071 [following]
+--2017-02-02 19:48:42--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw071
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 208126 (203K) [text/html]
+Saving to: ‘daw071’
+
+     0K .......... .......... .......... .......... .......... 24%  209K 1s
+    50K .......... .......... .......... .......... .......... 49%  613K 0s
+   100K .......... .......... .......... .......... .......... 73%  590K 0s
+   150K .......... .......... .......... .......... .......... 98%  603K 0s
+   200K ...                                                   100% 43.8K=0.6s
+
+2017-02-02 19:48:47 (361 KB/s) - ‘daw071’ saved [208126/208126]
+
+--2017-02-02 19:48:48--  http://doi.org/10.1093/heapro/daw073
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw073 [following]
+--2017-02-02 19:48:49--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw073
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 354972 (347K) [text/html]
+Saving to: ‘daw073’
+
+     0K .......... .......... .......... .......... .......... 14%  209K 1s
+    50K .......... .......... .......... .......... .......... 28%  595K 1s
+   100K .......... .......... .......... .......... .......... 43%  605K 1s
+   150K .......... .......... .......... .......... .......... 57%  319K 0s
+   200K .......... .......... .......... .......... .......... 72%  595K 0s
+   250K .......... .......... .......... .......... .......... 86%  602K 0s
+   300K .......... .......... .......... .......... ......    100%  572K=0.8s
+
+2017-02-02 19:48:53 (427 KB/s) - ‘daw073’ saved [354972/354972]
+
+--2017-02-02 19:48:54--  http://doi.org/10.1093/heapro/daw072
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw072 [following]
+--2017-02-02 19:48:55--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw072
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 230532 (225K) [text/html]
+Saving to: ‘daw072’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 44%  598K 0s
+   100K .......... .......... .......... .......... .......... 66%  610K 0s
+   150K .......... .......... .......... .......... .......... 88%  598K 0s
+   200K .......... .......... .....                           100%  315K=0.6s
+
+2017-02-02 19:48:59 (396 KB/s) - ‘daw072’ saved [230532/230532]
+
+--2017-02-02 19:49:00--  http://doi.org/10.1093/heapro/daw063
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw063 [following]
+--2017-02-02 19:49:02--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw063
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 240540 (235K) [text/html]
+Saving to: ‘daw063’
+
+     0K .......... .......... .......... .......... .......... 21%  208K 1s
+    50K .......... .......... .......... .......... .......... 42%  609K 0s
+   100K .......... .......... .......... .......... .......... 63%  610K 0s
+   150K .......... .......... .......... .......... .......... 85%  591K 0s
+   200K .......... .......... .......... ....                 100%  403K=0.6s
+
+2017-02-02 19:49:07 (408 KB/s) - ‘daw063’ saved [240540/240540]
+
+--2017-02-02 19:49:08--  http://doi.org/10.1093/heapro/daw066
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw066 [following]
+--2017-02-02 19:49:09--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw066
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:49:11 ERROR 400: Bad Request.
+
+--2017-02-02 19:49:12--  http://doi.org/10.1093/heapro/daw057
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw057 [following]
+--2017-02-02 19:49:13--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw057
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 239548 (234K) [text/html]
+Saving to: ‘daw057’
+
+     0K .......... .......... .......... .......... .......... 21%  208K 1s
+    50K .......... .......... .......... .......... .......... 42%  608K 0s
+   100K .......... .......... .......... .......... .......... 64%  606K 0s
+   150K .......... .......... .......... .......... .......... 85%  605K 0s
+   200K .......... .......... .......... ...                  100%  420K=0.6s
+
+2017-02-02 19:49:18 (411 KB/s) - ‘daw057’ saved [239548/239548]
+
+--2017-02-02 19:49:19--  http://doi.org/10.1093/heapro/daw067
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw067 [following]
+--2017-02-02 19:49:21--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw067
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 249776 (244K) [text/html]
+Saving to: ‘daw067’
+
+     0K .......... .......... .......... .......... .......... 20%  208K 1s
+    50K .......... .......... .......... .......... .......... 40%  604K 0s
+   100K .......... .......... .......... .......... .......... 61%  598K 0s
+   150K .......... .......... .......... .......... .......... 81%  318K 0s
+   200K .......... .......... .......... .......... ...       100%  541K=0.6s
+
+2017-02-02 19:49:25 (378 KB/s) - ‘daw067’ saved [249776/249776]
+
+--2017-02-02 19:49:26--  http://doi.org/10.1093/heapro/daw068
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw068 [following]
+--2017-02-02 19:49:28--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw068
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:49:28 ERROR 400: Bad Request.
+
+--2017-02-02 19:49:29--  http://doi.org/10.1093/heapro/daw065
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw065 [following]
+--2017-02-02 19:49:31--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw065
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 231324 (226K) [text/html]
+Saving to: ‘daw065’
+
+     0K .......... .......... .......... .......... .......... 22%  207K 1s
+    50K .......... .......... .......... .......... .......... 44%  599K 0s
+   100K .......... .......... .......... .......... .......... 66%  612K 0s
+   150K .......... .......... .......... .......... .......... 88%  398K 0s
+   200K .......... .......... .....                           100%  661K=0.6s
+
+2017-02-02 19:49:35 (395 KB/s) - ‘daw065’ saved [231324/231324]
+
+--2017-02-02 19:49:36--  http://doi.org/10.1093/heapro/daw061
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw061 [following]
+--2017-02-02 19:49:37--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw061
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 342074 (334K) [text/html]
+Saving to: ‘daw061’
+
+     0K .......... .......... .......... .......... .......... 14%  209K 1s
+    50K .......... .......... .......... .......... .......... 29%  612K 1s
+   100K .......... .......... .......... .......... .......... 44%  604K 0s
+   150K .......... .......... .......... .......... .......... 59%  599K 0s
+   200K .......... .......... .......... .......... .......... 74%  314K 0s
+   250K .......... .......... .......... .......... .......... 89%  597K 0s
+   300K .......... .......... .......... ....                 100%  426K=0.8s
+
+2017-02-02 19:49:42 (412 KB/s) - ‘daw061’ saved [342074/342074]
+
+--2017-02-02 19:49:43--  http://doi.org/10.1093/heapro/daw060
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw060 [following]
+--2017-02-02 19:49:44--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw060
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 197383 (193K) [text/html]
+Saving to: ‘daw060’
+
+     0K .......... .......... .......... .......... .......... 25%  209K 1s
+    50K .......... .......... .......... .......... .......... 51%  551K 0s
+   100K .......... .......... .......... .......... .......... 77%  603K 0s
+   150K .......... .......... .......... .......... ..        100%  526K=0.5s
+
+2017-02-02 19:49:48 (390 KB/s) - ‘daw060’ saved [197383/197383]
+
+--2017-02-02 19:49:49--  http://doi.org/10.1093/heapro/daw062
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw062 [following]
+--2017-02-02 19:49:51--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw062
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 265494 (259K) [text/html]
+Saving to: ‘daw062’
+
+     0K .......... .......... .......... .......... .......... 19%  206K 1s
+    50K .......... .......... .......... .......... .......... 38%  607K 1s
+   100K .......... .......... .......... .......... .......... 57%  601K 0s
+   150K .......... .......... .......... .......... .......... 77%  312K 0s
+   200K .......... .......... .......... .......... .......... 96%  596K 0s
+   250K .........                                             100% 14.7M=0.7s
+
+2017-02-02 19:49:55 (397 KB/s) - ‘daw062’ saved [265494/265494]
+
+--2017-02-02 19:49:56--  http://doi.org/10.1093/heapro/daw058
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw058 [following]
+--2017-02-02 19:49:57--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw058
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 207607 (203K) [text/html]
+Saving to: ‘daw058’
+
+     0K .......... .......... .......... .......... .......... 24%  206K 1s
+    50K .......... .......... .......... .......... .......... 49%  604K 0s
+   100K .......... .......... .......... .......... .......... 73%  604K 0s
+   150K .......... .......... .......... .......... .......... 98%  607K 0s
+   200K ..                                                    100% 5228G=0.5s
+
+2017-02-02 19:50:01 (413 KB/s) - ‘daw058’ saved [207607/207607]
+
+--2017-02-02 19:50:02--  http://doi.org/10.1093/heapro/daw050
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw050 [following]
+--2017-02-02 19:50:03--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw050
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 241309 (236K) [text/html]
+Saving to: ‘daw050’
+
+     0K .......... .......... .......... .......... .......... 21%  207K 1s
+    50K .......... .......... .......... .......... .......... 42%  608K 0s
+   100K .......... .......... .......... .......... .......... 63%  585K 0s
+   150K .......... .......... .......... .......... .......... 84%  600K 0s
+   200K .......... .......... .......... .....                100%  436K=0.6s
+
+2017-02-02 19:50:08 (411 KB/s) - ‘daw050’ saved [241309/241309]
+
+--2017-02-02 19:50:09--  http://doi.org/10.1093/heapro/daw056
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw056 [following]
+--2017-02-02 19:50:11--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw056
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 184604 (180K) [text/html]
+Saving to: ‘daw056’
+
+     0K .......... .......... .......... .......... .......... 27%  208K 1s
+    50K .......... .......... .......... .......... .......... 55%  609K 0s
+   100K .......... .......... .......... .......... .......... 83%  604K 0s
+   150K .......... .......... ..........                      100%  375K=0.5s
+
+2017-02-02 19:50:14 (371 KB/s) - ‘daw056’ saved [184604/184604]
+
+--2017-02-02 19:50:15--  http://doi.org/10.1093/heapro/daw055
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw055 [following]
+--2017-02-02 19:50:16--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw055
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 311183 (304K) [text/html]
+Saving to: ‘daw055’
+
+     0K .......... .......... .......... .......... .......... 16%  207K 1s
+    50K .......... .......... .......... .......... .......... 32%  606K 1s
+   100K .......... .......... .......... .......... .......... 49%  612K 0s
+   150K .......... .......... .......... .......... .......... 65%  602K 0s
+   200K .......... .......... .......... .......... .......... 82%  313K 0s
+   250K .......... .......... .......... .......... .......... 98%  606K 0s
+   300K ...                                                   100% 10.2M=0.7s
+
+2017-02-02 19:50:21 (416 KB/s) - ‘daw055’ saved [311183/311183]
+
+--2017-02-02 19:50:22--  http://doi.org/10.1093/heapro/daw054
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw054 [following]
+--2017-02-02 19:50:24--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw054
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 251640 (246K) [text/html]
+Saving to: ‘daw054’
+
+     0K .......... .......... .......... .......... .......... 20%  208K 1s
+    50K .......... .......... .......... .......... .......... 40%  608K 0s
+   100K .......... .......... .......... .......... .......... 61%  609K 0s
+   150K .......... .......... .......... .......... .......... 81%  395K 0s
+   200K .......... .......... .......... .......... .....     100%  411K=0.6s
+
+2017-02-02 19:50:28 (382 KB/s) - ‘daw054’ saved [251640/251640]
+
+--2017-02-02 19:50:29--  http://doi.org/10.1093/heapro/daw048
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw048 [following]
+--2017-02-02 19:50:30--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw048
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 225877 (221K) [text/html]
+Saving to: ‘daw048’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 45%  598K 0s
+   100K .......... .......... .......... .......... .......... 68%  606K 0s
+   150K .......... .......... .......... .......... .......... 90%  317K 0s
+   200K .......... ..........                                 100% 7.23M=0.6s
+
+2017-02-02 19:50:35 (390 KB/s) - ‘daw048’ saved [225877/225877]
+
+--2017-02-02 19:50:36--  http://doi.org/10.1093/heapro/daw049
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw049 [following]
+--2017-02-02 19:50:37--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw049
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 308928 (302K) [text/html]
+Saving to: ‘daw049’
+
+     0K .......... .......... .......... .......... .......... 16%  305K 1s
+    50K .......... .......... .......... .......... .......... 33%  313K 1s
+   100K .......... .......... .......... .......... .......... 49%  606K 0s
+   150K .......... .......... .......... .......... .......... 66%  603K 0s
+   200K .......... .......... .......... .......... .......... 82%  315K 0s
+   250K .......... .......... .......... .......... .......... 99%  611K 0s
+   300K .                                                     100% 3219G=0.7s
+
+2017-02-02 19:50:42 (414 KB/s) - ‘daw049’ saved [308928/308928]
+
+--2017-02-02 19:50:43--  http://doi.org/10.1093/heapro/daw059
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw059 [following]
+--2017-02-02 19:50:44--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw059
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 243772 (238K) [text/html]
+Saving to: ‘daw059’
+
+     0K .......... .......... .......... .......... .......... 21%  209K 1s
+    50K .......... .......... .......... .......... .......... 42%  601K 0s
+   100K .......... .......... .......... .......... .......... 63%  612K 0s
+   150K .......... .......... .......... .......... .......... 84%  606K 0s
+   200K .......... .......... .......... ........             100%  469K=0.6s
+
+2017-02-02 19:50:50 (419 KB/s) - ‘daw059’ saved [243772/243772]
+
+--2017-02-02 19:50:51--  http://doi.org/10.1093/heapro/daw051
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw051 [following]
+--2017-02-02 19:50:53--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw051
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 245652 (240K) [text/html]
+Saving to: ‘daw051’
+
+     0K .......... .......... .......... .......... .......... 20%  208K 1s
+    50K .......... .......... .......... .......... .......... 41%  606K 0s
+   100K .......... .......... .......... .......... .......... 62%  602K 0s
+   150K .......... .......... .......... .......... .......... 83%  302K 0s
+   200K .......... .......... .......... .........            100%  495K=0.7s
+
+2017-02-02 19:50:57 (368 KB/s) - ‘daw051’ saved [245652/245652]
+
+--2017-02-02 19:50:58--  http://doi.org/10.1093/heapro/daw047
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw047 [following]
+--2017-02-02 19:50:59--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw047
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:51:00 ERROR 400: Bad Request.
+
+--2017-02-02 19:51:01--  http://doi.org/10.1093/heapro/daw052
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw052 [following]
+--2017-02-02 19:51:02--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw052
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 224369 (219K) [text/html]
+Saving to: ‘daw052’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 45%  584K 0s
+   100K .......... .......... .......... .......... .......... 68%  611K 0s
+   150K .......... .......... .......... .......... .......... 91%  425K 0s
+   200K .......... .........                                  100%  473K=0.6s
+
+2017-02-02 19:51:06 (388 KB/s) - ‘daw052’ saved [224369/224369]
+
+--2017-02-02 19:51:07--  http://doi.org/10.1093/heapro/daw053
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw053 [following]
+--2017-02-02 19:51:08--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw053
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 317835 (310K) [text/html]
+Saving to: ‘daw053’
+
+     0K .......... .......... .......... .......... .......... 16%  208K 1s
+    50K .......... .......... .......... .......... .......... 32%  603K 1s
+   100K .......... .......... .......... .......... .......... 48%  601K 0s
+   150K .......... .......... .......... .......... .......... 64%  580K 0s
+   200K .......... .......... .......... .......... .......... 80%  321K 0s
+   250K .......... .......... .......... .......... .......... 96%  602K 0s
+   300K ..........                                            100% 36.4M=0.7s
+
+2017-02-02 19:51:12 (424 KB/s) - ‘daw053’ saved [317835/317835]
+
+--2017-02-02 19:51:13--  http://doi.org/10.1093/heapro/daw044
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw044 [following]
+--2017-02-02 19:51:15--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw044
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 197371 (193K) [text/html]
+Saving to: ‘daw044’
+
+     0K .......... .......... .......... .......... .......... 25%  209K 1s
+    50K .......... .......... .......... .......... .......... 51%  602K 0s
+   100K .......... .......... .......... .......... .......... 77%  613K 0s
+   150K .......... .......... .......... .......... ..        100%  527K=0.5s
+
+2017-02-02 19:51:18 (398 KB/s) - ‘daw044’ saved [197371/197371]
+
+--2017-02-02 19:51:19--  http://doi.org/10.1093/heapro/daw046
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw046 [following]
+--2017-02-02 19:51:20--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw046
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 80242 (78K) [text/html]
+Saving to: ‘daw046’
+
+     0K .......... .......... .......... .......... .......... 63%  209K 0s
+    50K .......... .......... ........                        100% 13.2M=0.2s
+
+2017-02-02 19:51:24 (325 KB/s) - ‘daw046’ saved [80242/80242]
+
+--2017-02-02 19:51:25--  http://doi.org/10.1093/heapro/daw043
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw043 [following]
+--2017-02-02 19:51:27--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw043
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:51:28 ERROR 400: Bad Request.
+
+--2017-02-02 19:51:29--  http://doi.org/10.1093/heapro/daw045
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw045 [following]
+--2017-02-02 19:51:31--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw045
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 250935 (245K) [text/html]
+Saving to: ‘daw045’
+
+     0K .......... .......... .......... .......... .......... 20%  209K 1s
+    50K .......... .......... .......... .......... .......... 40%  612K 0s
+   100K .......... .......... .......... .......... .......... 61%  601K 0s
+   150K .......... .......... .......... .......... .......... 81%  609K 0s
+   200K .......... .......... .......... .......... .....     100%  279K=0.6s
+
+2017-02-02 19:51:34 (378 KB/s) - ‘daw045’ saved [250935/250935]
+
+--2017-02-02 19:51:35--  http://doi.org/10.1093/heapro/daw030
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw030 [following]
+--2017-02-02 19:51:36--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw030
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 276434 (270K) [text/html]
+Saving to: ‘daw030’
+
+     0K .......... .......... .......... .......... .......... 18%  208K 1s
+    50K .......... .......... .......... .......... .......... 37%  609K 1s
+   100K .......... .......... .......... .......... .......... 55%  598K 0s
+   150K .......... .......... .......... .......... .......... 74%  316K 0s
+   200K .......... .......... .......... .......... .......... 92%  603K 0s
+   250K .......... .........                                  100% 8.24M=0.7s
+
+2017-02-02 19:51:40 (415 KB/s) - ‘daw030’ saved [276434/276434]
+
+--2017-02-02 19:51:41--  http://doi.org/10.1093/heapro/daw040
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw040 [following]
+--2017-02-02 19:51:43--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw040
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 220221 (215K) [text/html]
+Saving to: ‘daw040’
+
+     0K .......... .......... .......... .......... .......... 23%  209K 1s
+    50K .......... .......... .......... .......... .......... 46%  602K 0s
+   100K .......... .......... .......... .......... .......... 69%  606K 0s
+   150K .......... .......... .......... .......... .......... 92%  607K 0s
+   200K .......... .....                                      100%  189K=0.6s
+
+2017-02-02 19:51:57 (379 KB/s) - ‘daw040’ saved [220221/220221]
+
+--2017-02-02 19:51:58--  http://doi.org/10.1093/heapro/daw036
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw036 [following]
+--2017-02-02 19:51:59--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw036
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 228323 (223K) [text/html]
+Saving to: ‘daw036’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 44%  607K 0s
+   100K .......... .......... .......... .......... .......... 67%  607K 0s
+   150K .......... .......... .......... .......... .......... 89%  599K 0s
+   200K .......... .......... ..                              100%  288K=0.6s
+
+2017-02-02 19:52:03 (393 KB/s) - ‘daw036’ saved [228323/228323]
+
+--2017-02-02 19:52:04--  http://doi.org/10.1093/heapro/daw042
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw042 [following]
+--2017-02-02 19:52:05--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw042
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 102712 (100K) [text/html]
+Saving to: ‘daw042’
+
+     0K .......... .......... .......... .......... .......... 49%  209K 0s
+    50K .......... .......... .......... .......... .......... 99%  611K 0s
+   100K                                                       100%  581G=0.3s
+
+2017-02-02 19:52:09 (312 KB/s) - ‘daw042’ saved [102712/102712]
+
+--2017-02-02 19:52:10--  http://doi.org/10.1093/heapro/daw037
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw037 [following]
+--2017-02-02 19:52:11--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw037
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:52:12 ERROR 400: Bad Request.
+
+--2017-02-02 19:52:13--  http://doi.org/10.1093/heapro/daw032
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw032 [following]
+--2017-02-02 19:52:15--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw032
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 184361 (180K) [text/html]
+Saving to: ‘daw032’
+
+     0K .......... .......... .......... .......... .......... 27%  209K 1s
+    50K .......... .......... .......... .......... .......... 55%  608K 0s
+   100K .......... .......... .......... .......... .......... 83%  603K 0s
+   150K .......... .......... ..........                      100%  380K=0.5s
+
+2017-02-02 19:52:19 (372 KB/s) - ‘daw032’ saved [184361/184361]
+
+--2017-02-02 19:52:20--  http://doi.org/10.1093/heapro/daw039
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://heapro.oxfordjournals.org/cgi/doi/10.1093/heapro/daw039 [following]
+--2017-02-02 19:52:21--  http://heapro.oxfordjournals.org/cgi/doi/10.1093/heapro/daw039
+Connecting to heapro.oxfordjournals.org (heapro.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from heapro.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from heapro.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/heapro/redirect-unavailable?url=heapro.oxfordjournals.org/cgi/doi/10.1093/heapro/daw039 [following]
+--2017-02-02 19:52:22--  https://academic.oup.com/heapro/redirect-unavailable?url=heapro.oxfordjournals.org/cgi/doi/10.1093/heapro/daw039
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-02 19:52:24 ERROR 404: Not Found.
+
+--2017-02-02 19:52:25--  http://doi.org/10.1093/heapro/daw034
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw034 [following]
+--2017-02-02 19:52:26--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw034
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 222500 (217K) [text/html]
+Saving to: ‘daw034’
+
+     0K .......... .......... .......... .......... .......... 23%  209K 1s
+    50K .......... .......... .......... .......... .......... 46%  613K 0s
+   100K .......... .......... .......... .......... .......... 69%  606K 0s
+   150K .......... .......... .......... .......... .......... 92%  313K 0s
+   200K .......... .......                                    100% 9.65M=0.6s
+
+2017-02-02 19:52:30 (384 KB/s) - ‘daw034’ saved [222500/222500]
+
+--2017-02-02 19:52:31--  http://doi.org/10.1093/heapro/daw033
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw033 [following]
+--2017-02-02 19:52:32--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw033
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 226797 (221K) [text/html]
+Saving to: ‘daw033’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 45%  614K 0s
+   100K .......... .......... .......... .......... .......... 67%  587K 0s
+   150K .......... .......... .......... .......... .......... 90%  603K 0s
+   200K .......... .......... .                               100%  269K=0.6s
+
+2017-02-02 19:52:38 (390 KB/s) - ‘daw033’ saved [226797/226797]
+
+--2017-02-02 19:52:39--  http://doi.org/10.1093/heapro/daw038
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw038 [following]
+--2017-02-02 19:52:40--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw038
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 335080 (327K) [text/html]
+Saving to: ‘daw038’
+
+     0K .......... .......... .......... .......... .......... 15%  208K 1s
+    50K .......... .......... .......... .......... .......... 30%  607K 1s
+   100K .......... .......... .......... .......... .......... 45%  606K 0s
+   150K .......... .......... .......... .......... .......... 61%  600K 0s
+   200K .......... .......... .......... .......... .......... 76%  312K 0s
+   250K .......... .......... .......... .......... .......... 91%  609K 0s
+   300K .......... .......... .......                         100%  342K=0.8s
+
+2017-02-02 19:52:44 (404 KB/s) - ‘daw038’ saved [335080/335080]
+
+--2017-02-02 19:52:45--  http://doi.org/10.1093/heapro/daw031
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw031 [following]
+--2017-02-02 19:52:47--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw031
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 180790 (177K) [text/html]
+Saving to: ‘daw031’
+
+     0K .......... .......... .......... .......... .......... 28%  204K 1s
+    50K .......... .......... .......... .......... .......... 56%  606K 0s
+   100K .......... .......... .......... .......... .......... 84%  605K 0s
+   150K .......... .......... ......                          100%  334K=0.5s
+
+2017-02-02 19:52:50 (361 KB/s) - ‘daw031’ saved [180790/180790]
+
+--2017-02-02 19:52:51--  http://doi.org/10.1093/heapro/daw023
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw023 [following]
+--2017-02-02 19:52:53--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 231227 (226K) [text/html]
+Saving to: ‘daw023’
+
+     0K .......... .......... .......... .......... .......... 22%  208K 1s
+    50K .......... .......... .......... .......... .......... 44%  605K 0s
+   100K .......... .......... .......... .......... .......... 66%  607K 0s
+   150K .......... .......... .......... .......... .......... 88%  591K 0s
+   200K .......... .......... .....                           100%  327K=0.6s
+
+2017-02-02 19:52:57 (397 KB/s) - ‘daw023’ saved [231227/231227]
+
+--2017-02-02 19:52:58--  http://doi.org/10.1093/heapro/daw025
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw025 [following]
+--2017-02-02 19:52:59--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw025
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 274038 (268K) [text/html]
+Saving to: ‘daw025’
+
+     0K .......... .......... .......... .......... .......... 18%  208K 1s
+    50K .......... .......... .......... .......... .......... 37%  586K 1s
+   100K .......... .......... .......... .......... .......... 56%  607K 0s
+   150K .......... .......... .......... .......... .......... 74%  325K 0s
+   200K .......... .......... .......... .......... .......... 93%  569K 0s
+   250K .......... .......                                    100% 9.39M=0.7s
+
+2017-02-02 19:53:03 (411 KB/s) - ‘daw025’ saved [274038/274038]
+
+--2017-02-02 19:53:04--  http://doi.org/10.1093/heapro/daw027
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw027 [following]
+--2017-02-02 19:53:06--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw027
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 221848 (217K) [text/html]
+Saving to: ‘daw027’
+
+     0K .......... .......... .......... .......... .......... 23%  308K 1s
+    50K .......... .......... .......... .......... .......... 46%  311K 0s
+   100K .......... .......... .......... .......... .......... 69%  611K 0s
+   150K .......... .......... .......... .......... .......... 92%  316K 0s
+   200K .......... ......                                     100% 4.07M=0.6s
+
+2017-02-02 19:53:09 (382 KB/s) - ‘daw027’ saved [221848/221848]
+
+--2017-02-02 19:53:10--  http://doi.org/10.1093/heapro/daw029
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw029 [following]
+--2017-02-02 19:53:12--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw029
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 202582 (198K) [text/html]
+Saving to: ‘daw029’
+
+     0K .......... .......... .......... .......... .......... 25%  209K 1s
+    50K .......... .......... .......... .......... .......... 50%  606K 0s
+   100K .......... .......... .......... .......... .......... 75%  613K 0s
+   150K .......... .......... .......... .......... .......   100%  571K=0.5s
+
+2017-02-02 19:53:16 (406 KB/s) - ‘daw029’ saved [202582/202582]
+
+--2017-02-02 19:53:17--  http://doi.org/10.1093/heapro/daw022
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw022 [following]
+--2017-02-02 19:53:18--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw022
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 290076 (283K) [text/html]
+Saving to: ‘daw022’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 35%  599K 1s
+   100K .......... .......... .......... .......... .......... 52%  120K 1s
+   150K .......... .......... .......... .......... .......... 70%  612K 0s
+   200K .......... .......... .......... .......... .......... 88%  605K 0s
+   250K .......... .......... .......... ...                  100%  311K=1.0s
+
+2017-02-02 19:53:26 (281 KB/s) - ‘daw022’ saved [290076/290076]
+
+--2017-02-02 19:53:27--  http://doi.org/10.1093/heapro/daw028
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw028 [following]
+--2017-02-02 19:53:28--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw028
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 239524 (234K) [text/html]
+Saving to: ‘daw028’
+
+     0K .......... .......... .......... .......... .......... 21%  303K 1s
+    50K .......... .......... .......... .......... .......... 42%  311K 0s
+   100K .......... .......... .......... .......... .......... 64%  612K 0s
+   150K .......... .......... .......... .......... .......... 85%  312K 0s
+   200K .......... .......... .......... ...                  100% 11.5M=0.6s
+
+2017-02-02 19:53:32 (410 KB/s) - ‘daw028’ saved [239524/239524]
+
+--2017-02-02 19:53:33--  http://doi.org/10.1093/heapro/daw005
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw005 [following]
+--2017-02-02 19:53:34--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 245315 (240K) [text/html]
+Saving to: ‘daw005’
+
+     0K .......... .......... .......... .......... .......... 20%  209K 1s
+    50K .......... .......... .......... .......... .......... 41%  604K 0s
+   100K .......... .......... .......... .......... .......... 62%  602K 0s
+   150K .......... .......... .......... .......... .......... 83%  608K 0s
+   200K .......... .......... .......... .........            100%  479K=0.6s
+
+2017-02-02 19:53:38 (420 KB/s) - ‘daw005’ saved [245315/245315]
+
+--2017-02-02 19:53:39--  http://doi.org/10.1093/heapro/daw026
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw026 [following]
+--2017-02-02 19:53:41--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw026
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 151949 (148K) [text/html]
+Saving to: ‘daw026’
+
+     0K .......... .......... .......... .......... .......... 33%  208K 0s
+    50K .......... .......... .......... .......... .......... 67%  610K 0s
+   100K .......... .......... .......... .......... ........  100%  430K=0.4s
+
+2017-02-02 19:53:44 (341 KB/s) - ‘daw026’ saved [151949/151949]
+
+--2017-02-02 19:53:45--  http://doi.org/10.1093/heapro/daw012
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw012 [following]
+--2017-02-02 19:53:46--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 208131 (203K) [text/html]
+Saving to: ‘daw012’
+
+     0K .......... .......... .......... .......... .......... 24%  309K 0s
+    50K .......... .......... .......... .......... .......... 49%  313K 0s
+   100K .......... .......... .......... .......... .......... 73%  585K 0s
+   150K .......... .......... .......... .......... .......... 98%  609K 0s
+   200K ...                                                   100% 18.5M=0.5s
+
+2017-02-02 19:53:49 (416 KB/s) - ‘daw012’ saved [208131/208131]
+
+--2017-02-02 19:53:50--  http://doi.org/10.1093/heapro/daw018
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw018 [following]
+--2017-02-02 19:53:52--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw018
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 250164 (244K) [text/html]
+Saving to: ‘daw018’
+
+     0K .......... .......... .......... .......... .......... 20%  208K 1s
+    50K .......... .......... .......... .......... .......... 40%  601K 0s
+   100K .......... .......... .......... .......... .......... 61%  608K 0s
+   150K .......... .......... .......... .......... .......... 81%  586K 0s
+   200K .......... .......... .......... .......... ....      100%  550K=0.6s
+
+2017-02-02 19:53:56 (427 KB/s) - ‘daw018’ saved [250164/250164]
+
+--2017-02-02 19:53:57--  http://doi.org/10.1093/heapro/daw017
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw017 [following]
+--2017-02-02 19:53:58--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 235025 (230K) [text/html]
+Saving to: ‘daw017’
+
+     0K .......... .......... .......... .......... .......... 21%  209K 1s
+    50K .......... .......... .......... .......... .......... 43%  614K 0s
+   100K .......... .......... .......... .......... .......... 65%  604K 0s
+   150K .......... .......... .......... .......... .......... 87%  312K 0s
+   200K .......... .......... .........                       100% 6.90M=0.6s
+
+2017-02-02 19:54:02 (404 KB/s) - ‘daw017’ saved [235025/235025]
+
+--2017-02-02 19:54:03--  http://doi.org/10.1093/heapro/daw020
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw020 [following]
+--2017-02-02 19:54:04--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw020
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 261747 (256K) [text/html]
+Saving to: ‘daw020’
+
+     0K .......... .......... .......... .......... .......... 19%  307K 1s
+    50K .......... .......... .......... .......... .......... 39%  309K 1s
+   100K .......... .......... .......... .......... .......... 58%  597K 0s
+   150K .......... .......... .......... .......... .......... 78%  604K 0s
+   200K .......... .......... .......... .......... .......... 97%  311K 0s
+   250K .....                                                 100% 24.4M=0.7s
+
+2017-02-02 19:54:07 (392 KB/s) - ‘daw020’ saved [261747/261747]
+
+--2017-02-02 19:54:08--  http://doi.org/10.1093/heapro/daw007
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw007 [following]
+--2017-02-02 19:54:10--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 225984 (221K) [text/html]
+Saving to: ‘daw007’
+
+     0K .......... .......... .......... .......... .......... 22%  207K 1s
+    50K .......... .......... .......... .......... .......... 45%  602K 0s
+   100K .......... .......... .......... .......... .......... 67%  607K 0s
+   150K .......... .......... .......... .......... .......... 90%  600K 0s
+   200K .......... ..........                                 100%  127K=0.7s
+
+2017-02-02 19:54:14 (338 KB/s) - ‘daw007’ saved [225984/225984]
+
+--2017-02-02 19:54:15--  http://doi.org/10.1093/heapro/daw019
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw019 [following]
+--2017-02-02 19:54:16--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 256902 (251K) [text/html]
+Saving to: ‘daw019’
+
+     0K .......... .......... .......... .......... .......... 19%  204K 1s
+    50K .......... .......... .......... .......... .......... 39%  603K 0s
+   100K .......... .......... .......... .......... .......... 59%  613K 0s
+   150K .......... .......... .......... .......... .......... 79%  603K 0s
+   200K .......... .......... .......... .......... .......... 99%  314K 0s
+   250K                                                       100% 1680G=0.7s
+
+2017-02-02 19:54:21 (385 KB/s) - ‘daw019’ saved [256902/256902]
+
+--2017-02-02 19:54:22--  http://doi.org/10.1093/heapro/daw015
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw015 [following]
+--2017-02-02 19:54:23--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 183401 (179K) [text/html]
+Saving to: ‘daw015’
+
+     0K .......... .......... .......... .......... .......... 27%  204K 1s
+    50K .......... .......... .......... .......... .......... 55%  606K 0s
+   100K .......... .......... .......... .......... .......... 83%  610K 0s
+   150K .......... .......... .........                       100%  364K=0.5s
+
+2017-02-02 19:54:27 (366 KB/s) - ‘daw015’ saved [183401/183401]
+
+--2017-02-02 19:54:28--  http://doi.org/10.1093/heapro/daw016
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw016 [following]
+--2017-02-02 19:54:29--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw016
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 301078 (294K) [text/html]
+Saving to: ‘daw016’
+
+     0K .......... .......... .......... .......... .......... 17%  310K 1s
+    50K .......... .......... .......... .......... .......... 34%  311K 1s
+   100K .......... .......... .......... .......... .......... 51%  592K 0s
+   150K .......... .......... .......... .......... .......... 68%  592K 0s
+   200K .......... .......... .......... .......... .......... 85%  317K 0s
+   250K .......... .......... .......... .......... ....      100%  541K=0.7s
+
+2017-02-02 19:54:33 (403 KB/s) - ‘daw016’ saved [301078/301078]
+
+--2017-02-02 19:54:34--  http://doi.org/10.1093/heapro/daw021
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw021 [following]
+--2017-02-02 19:54:36--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 274788 (268K) [text/html]
+Saving to: ‘daw021’
+
+     0K .......... .......... .......... .......... .......... 18%  207K 1s
+    50K .......... .......... .......... .......... .......... 37%  580K 1s
+   100K .......... .......... .......... .......... .......... 55%  599K 0s
+   150K .......... .......... .......... .......... .......... 74%  326K 0s
+   200K .......... .......... .......... .......... .......... 93%  537K 0s
+   250K .......... ........                                   100% 4.41M=0.7s
+
+2017-02-02 19:54:39 (405 KB/s) - ‘daw021’ saved [274788/274788]
+
+--2017-02-02 19:54:40--  http://doi.org/10.1093/heapro/daw013
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw013 [following]
+--2017-02-02 19:54:42--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 217702 (213K) [text/html]
+Saving to: ‘daw013’
+
+     0K .......... .......... .......... .......... .......... 23%  209K 1s
+    50K .......... .......... .......... .......... .......... 47%  584K 0s
+   100K .......... .......... .......... .......... .......... 70%  602K 0s
+   150K .......... .......... .......... .......... .......... 94%  610K 0s
+   200K .......... ..                                         100%  162K=0.6s
+
+2017-02-02 19:54:46 (374 KB/s) - ‘daw013’ saved [217702/217702]
+
+--2017-02-02 19:54:47--  http://doi.org/10.1093/heapro/daw010
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw010 [following]
+--2017-02-02 19:54:48--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 204785 (200K) [text/html]
+Saving to: ‘daw010’
+
+     0K .......... .......... .......... .......... .......... 25%  207K 1s
+    50K .......... .......... .......... .......... .......... 50%  596K 0s
+   100K .......... .......... .......... .......... .......... 75%  606K 0s
+   150K .......... .......... .......... .......... ......... 100%  580K=0.5s
+
+2017-02-02 19:54:51 (405 KB/s) - ‘daw010’ saved [204785/204785]
+
+--2017-02-02 19:54:52--  http://doi.org/10.1093/heapro/daw009
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw009 [following]
+--2017-02-02 19:54:54--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:54:54 ERROR 400: Bad Request.
+
+--2017-02-02 19:54:55--  http://doi.org/10.1093/heapro/daw004
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw004 [following]
+--2017-02-02 19:54:57--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 235884 (230K) [text/html]
+Saving to: ‘daw004’
+
+     0K .......... .......... .......... .......... .......... 21%  209K 1s
+    50K .......... .......... .......... .......... .......... 43%  599K 0s
+   100K .......... .......... .......... .......... .......... 65%  590K 0s
+   150K .......... .......... .......... .......... .......... 86%  319K 0s
+   200K .......... .......... ..........                      100% 4.66M=0.6s
+
+2017-02-02 19:55:00 (404 KB/s) - ‘daw004’ saved [235884/235884]
+
+--2017-02-02 19:55:01--  http://doi.org/10.1093/heapro/daw006
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw006 [following]
+--2017-02-02 19:55:03--  https://academic.oup.com/heapro/article-lookup/doi/10.1093/heapro/daw006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 193967 (189K) [text/html]
+Saving to: ‘daw006’
+
+     0K .......... .......... .......... .......... .......... 26%  209K 1s
+    50K .......... .......... .......... .......... .......... 52%  607K 0s
+   100K .......... .......... .......... .......... .......... 79%  609K 0s
+   150K .......... .......... .......... .........            100%  487K=0.5s
+
+2017-02-02 19:55:08 (391 KB/s) - ‘daw006’ saved [193967/193967]
+
+FINISHED --2017-02-02 19:55:08--
+Total wall clock time: 10m 23s
+Downloaded: 87 files, 19M in 49s (391 KB/s)

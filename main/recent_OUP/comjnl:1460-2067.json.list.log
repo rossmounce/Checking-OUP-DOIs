@@ -1,0 +1,1783 @@
+--2017-02-03 08:29:56--  http://doi.org/10.1093/comjnl/bxx002
+Resolving doi.org (doi.org)... 95.138.171.129, 63.123.152.248, 38.100.138.163, ...
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://comjnl.oxfordjournals.org/lookup/doi/10.1093/comjnl/bxx002 [following]
+--2017-02-03 08:29:57--  http://comjnl.oxfordjournals.org/lookup/doi/10.1093/comjnl/bxx002
+Resolving comjnl.oxfordjournals.org (comjnl.oxfordjournals.org)... 209.135.222.209
+Connecting to comjnl.oxfordjournals.org (comjnl.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from comjnl.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/comjnl/article/doi/10.1093/comjnl/bxx002/2962043/Secure-and-Robust-DV-Hop-Localization-Based-on-the [following]
+--2017-02-03 08:29:59--  https://academic.oup.com/comjnl/article/doi/10.1093/comjnl/bxx002/2962043/Secure-and-Robust-DV-Hop-Localization-Based-on-the
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxx002/2962043/Secure-and-Robust-DV-Hop-Localization-Based-on-the?redirectedFrom=fulltext [following]
+--2017-02-03 08:30:01--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxx002/2962043/Secure-and-Robust-DV-Hop-Localization-Based-on-the?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 08:30:01 ERROR 400: Bad Request.
+
+--2017-02-03 08:30:02--  http://doi.org/10.1093/comjnl/bxx003
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://comjnl.oxfordjournals.org/lookup/doi/10.1093/comjnl/bxx003 [following]
+--2017-02-03 08:30:03--  http://comjnl.oxfordjournals.org/lookup/doi/10.1093/comjnl/bxx003
+Connecting to comjnl.oxfordjournals.org (comjnl.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from comjnl.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/comjnl/article/doi/10.1093/comjnl/bxx003/2962044/A-Practical-Hybrid-Group-Key-Establishment-for [following]
+--2017-02-03 08:30:05--  https://academic.oup.com/comjnl/article/doi/10.1093/comjnl/bxx003/2962044/A-Practical-Hybrid-Group-Key-Establishment-for
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxx003/2962044/A-Practical-Hybrid-Group-Key-Establishment-for?redirectedFrom=fulltext [following]
+--2017-02-03 08:30:07--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxx003/2962044/A-Practical-Hybrid-Group-Key-Establishment-for?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 94150 (92K) [text/html]
+Saving to: ‘bxx003’
+
+     0K .......... .......... .......... .......... .......... 54%  209K 0s
+    50K .......... .......... .......... .......... .         100%  522K=0.3s
+
+2017-02-03 08:30:10 (288 KB/s) - ‘bxx003’ saved [94150/94150]
+
+--2017-02-03 08:30:11--  http://doi.org/10.1093/comjnl/bxw092
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://comjnl.oxfordjournals.org/lookup/doi/10.1093/comjnl/bxw092 [following]
+--2017-02-03 08:30:12--  http://comjnl.oxfordjournals.org/lookup/doi/10.1093/comjnl/bxw092
+Connecting to comjnl.oxfordjournals.org (comjnl.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from comjnl.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/comjnl/article/doi/10.1093/comjnl/bxw092/2953329/DROP-A-New-RAID-Architecture-for-Enhancing-Shared [following]
+--2017-02-03 08:30:13--  https://academic.oup.com/comjnl/article/doi/10.1093/comjnl/bxw092/2953329/DROP-A-New-RAID-Architecture-for-Enhancing-Shared
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw092/2953329/DROP-A-New-RAID-Architecture-for-Enhancing-Shared?redirectedFrom=fulltext [following]
+--2017-02-03 08:30:15--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw092/2953329/DROP-A-New-RAID-Architecture-for-Enhancing-Shared?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 95839 (94K) [text/html]
+Saving to: ‘bxw092’
+
+     0K .......... .......... .......... .......... .......... 53%  209K 0s
+    50K .......... .......... .......... .......... ...       100%  542K=0.3s
+
+2017-02-03 08:30:19 (293 KB/s) - ‘bxw092’ saved [95839/95839]
+
+--2017-02-03 08:30:20--  http://doi.org/10.1093/comjnl/bxx001
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxx001 [following]
+--2017-02-03 08:30:21--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxx001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxx001/2937754/On-Improving-Performance-and-Energy-Efficiency-for?redirectedFrom=fulltext [following]
+--2017-02-03 08:30:23--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxx001/2937754/On-Improving-Performance-and-Energy-Efficiency-for?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 90012 (88K) [text/html]
+Saving to: ‘bxx001’
+
+     0K .......... .......... .......... .......... .......... 56%  208K 0s
+    50K .......... .......... .......... .......              100%  473K=0.3s
+
+2017-02-03 08:30:25 (274 KB/s) - ‘bxx001’ saved [90012/90012]
+
+--2017-02-03 08:30:26--  http://doi.org/10.1093/comjnl/bxw100
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw100 [following]
+--2017-02-03 08:30:27--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw100
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw100/2937753/Events-Algebra-of-Triggers?redirectedFrom=fulltext [following]
+--2017-02-03 08:30:29--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw100/2937753/Events-Algebra-of-Triggers?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 86986 (85K) [text/html]
+Saving to: ‘bxw100’
+
+     0K .......... .......... .......... .......... .......... 58%  307K 0s
+    50K .......... .......... .......... ....                 100%  429K=0.2s
+
+2017-02-03 08:30:32 (348 KB/s) - ‘bxw100’ saved [86986/86986]
+
+--2017-02-03 08:30:33--  http://doi.org/10.1093/comjnl/bxw110
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw110 [following]
+--2017-02-03 08:30:34--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw110
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw110/2882687/Continuous-Leakage-Resilient-Public-Key-Encryption?redirectedFrom=fulltext [following]
+--2017-02-03 08:30:36--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw110/2882687/Continuous-Leakage-Resilient-Public-Key-Encryption?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 08:30:37 ERROR 400: Bad Request.
+
+--2017-02-03 08:30:38--  http://doi.org/10.1093/comjnl/bxw112
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw112 [following]
+--2017-02-03 08:30:39--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw112
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw112/2882689/Online-Pricing-for-Efficient-Renewable-Energy?redirectedFrom=fulltext [following]
+--2017-02-03 08:30:41--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw112/2882689/Online-Pricing-for-Efficient-Renewable-Energy?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 102668 (100K) [text/html]
+Saving to: ‘bxw112’
+
+     0K .......... .......... .......... .......... .......... 49%  206K 0s
+    50K .......... .......... .......... .......... .......... 99%  605K 0s
+   100K                                                       100%  499G=0.3s
+
+2017-02-03 08:30:44 (308 KB/s) - ‘bxw112’ saved [102668/102668]
+
+--2017-02-03 08:30:45--  http://doi.org/10.1093/comjnl/bxw107
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw107 [following]
+--2017-02-03 08:30:46--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw107
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw107/2882686/Generalization-Bounds-and-Uniform-Bounds-for-Multi?redirectedFrom=fulltext [following]
+--2017-02-03 08:30:48--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw107/2882686/Generalization-Bounds-and-Uniform-Bounds-for-Multi?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 92286 (90K) [text/html]
+Saving to: ‘bxw107’
+
+     0K .......... .......... .......... .......... .......... 55%  208K 0s
+    50K .......... .......... .......... ..........           100%  497K=0.3s
+
+2017-02-03 08:30:51 (281 KB/s) - ‘bxw107’ saved [92286/92286]
+
+--2017-02-03 08:30:52--  http://doi.org/10.1093/comjnl/bxw111
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw111 [following]
+--2017-02-03 08:30:54--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw111
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw111/2861346/Real-Time-Identification-Using-Gait-Pattern?redirectedFrom=fulltext [following]
+--2017-02-03 08:30:56--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw111/2861346/Real-Time-Identification-Using-Gait-Pattern?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 94897 (93K) [text/html]
+Saving to: ‘bxw111’
+
+     0K .......... .......... .......... .......... .......... 53%  207K 0s
+    50K .......... .......... .......... .......... ..        100%  530K=0.3s
+
+2017-02-03 08:30:59 (288 KB/s) - ‘bxw111’ saved [94897/94897]
+
+--2017-02-03 08:31:00--  http://doi.org/10.1093/comjnl/bxw109
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw109 [following]
+--2017-02-03 08:31:01--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw109
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw109/2770527/A-Multi-Objective-Load-Balancing-System-for-Cloud?redirectedFrom=fulltext [following]
+--2017-02-03 08:31:03--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw109/2770527/A-Multi-Objective-Load-Balancing-System-for-Cloud?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 114775 (112K) [text/html]
+Saving to: ‘bxw109’
+
+     0K .......... .......... .......... .......... .......... 44%  209K 0s
+    50K .......... .......... .......... .......... .......... 89%  602K 0s
+   100K .......... ..                                         100% 3.69M=0.3s
+
+2017-02-03 08:31:06 (344 KB/s) - ‘bxw109’ saved [114775/114775]
+
+--2017-02-03 08:31:07--  http://doi.org/10.1093/comjnl/bxw106
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw106 [following]
+--2017-02-03 08:31:08--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw106
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw106/2770525/Remote-Monitoring-by-Edges-and-Faces-of-Maximal?redirectedFrom=fulltext [following]
+--2017-02-03 08:31:10--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw106/2770525/Remote-Monitoring-by-Edges-and-Faces-of-Maximal?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 85945 (84K) [text/html]
+Saving to: ‘bxw106’
+
+     0K .......... .......... .......... .......... .......... 59%  203K 0s
+    50K .......... .......... .......... ...                  100% 7.37M=0.3s
+
+2017-02-03 08:31:13 (335 KB/s) - ‘bxw106’ saved [85945/85945]
+
+--2017-02-03 08:31:14--  http://doi.org/10.1093/comjnl/bxw108
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw108 [following]
+--2017-02-03 08:31:16--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw108
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw108/2770526/SSA-Transformations-to-Facilitate-Type-Inference?redirectedFrom=fulltext [following]
+--2017-02-03 08:31:17--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw108/2770526/SSA-Transformations-to-Facilitate-Type-Inference?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 111443 (109K) [text/html]
+Saving to: ‘bxw108’
+
+     0K .......... .......... .......... .......... .......... 45%  208K 0s
+    50K .......... .......... .......... .......... .......... 91%  602K 0s
+   100K ........                                              100% 26.9M=0.3s
+
+2017-02-03 08:31:21 (336 KB/s) - ‘bxw108’ saved [111443/111443]
+
+--2017-02-03 08:31:22--  http://doi.org/10.1093/comjnl/bxx005
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 08:31:23--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Resolving fdslive.oup.com (fdslive.oup.com)... 193.67.160.201
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘bxx005’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 08:31:23 (1.20 MB/s) - ‘bxx005’ saved [52438/52438]
+
+--2017-02-03 08:31:24--  http://doi.org/10.1093/comjnl/bxx004
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 08:31:25--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘bxx004’
+
+     0K .......... .......... .......... .......... .......... 97% 1.16M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 08:31:25 (1.19 MB/s) - ‘bxx004’ saved [52438/52438]
+
+--2017-02-03 08:31:26--  http://doi.org/10.1093/comjnl/bxx007
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 08:31:27--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘bxx007’
+
+     0K .......... .......... .......... .......... .......... 97% 1.01M 0s
+    50K .                                                     100% 2306G=0.05s
+
+2017-02-03 08:31:27 (1.03 MB/s) - ‘bxx007’ saved [52438/52438]
+
+--2017-02-03 08:31:28--  http://doi.org/10.1093/comjnl/bxx008
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 08:31:29--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘bxx008’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 08:31:29 (1.32 MB/s) - ‘bxx008’ saved [52438/52438]
+
+--2017-02-03 08:31:30--  http://doi.org/10.1093/comjnl/bxx011
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 08:31:31--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘bxx011’
+
+     0K .......... .......... .......... .......... .......... 97% 1.16M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 08:31:31 (1.19 MB/s) - ‘bxx011’ saved [52438/52438]
+
+--2017-02-03 08:31:32--  http://doi.org/10.1093/comjnl/bxx006
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 08:31:34--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘bxx006’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 08:31:34 (1.20 MB/s) - ‘bxx006’ saved [52438/52438]
+
+--2017-02-03 08:31:35--  http://doi.org/10.1093/comjnl/bxw087
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw087 [following]
+--2017-02-03 08:31:36--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw087
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw087/2754557/A-Graph-based-Performance-Analysis-of-the-802-11p?redirectedFrom=fulltext [following]
+--2017-02-03 08:31:38--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw087/2754557/A-Graph-based-Performance-Analysis-of-the-802-11p?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 93409 (91K) [text/html]
+Saving to: ‘bxw087’
+
+     0K .......... .......... .......... .......... .......... 54%  208K 0s
+    50K .......... .......... .......... .......... .         100%  510K=0.3s
+
+2017-02-03 08:31:43 (284 KB/s) - ‘bxw087’ saved [93409/93409]
+
+--2017-02-03 08:31:44--  http://doi.org/10.1093/comjnl/bxw103
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw103 [following]
+--2017-02-03 08:31:45--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw103
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw103/2754558/Compressed-Bit-vectors-Based-on-Variable-to-Fixed?redirectedFrom=fulltext [following]
+--2017-02-03 08:31:48--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw103/2754558/Compressed-Bit-vectors-Based-on-Variable-to-Fixed?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 08:31:48 ERROR 400: Bad Request.
+
+--2017-02-03 08:31:49--  http://doi.org/10.1093/comjnl/bxw104
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw104 [following]
+--2017-02-03 08:31:50--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw104
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw104/2754559/A-Group-Bandwidth-Reservation-Scheme-to-Enhance?redirectedFrom=fulltext [following]
+--2017-02-03 08:31:53--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw104/2754559/A-Group-Bandwidth-Reservation-Scheme-to-Enhance?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 95900 (94K) [text/html]
+Saving to: ‘bxw104’
+
+     0K .......... .......... .......... .......... .......... 53%  209K 0s
+    50K .......... .......... .......... .......... ...       100%  537K=0.3s
+
+2017-02-03 08:31:56 (292 KB/s) - ‘bxw104’ saved [95900/95900]
+
+--2017-02-03 08:31:57--  http://doi.org/10.1093/comjnl/bxw090
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw090 [following]
+--2017-02-03 08:31:58--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw090
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw090/2632263/Verification-for-Non-polynomial-Hybrid-Systems?redirectedFrom=fulltext [following]
+--2017-02-03 08:32:00--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw090/2632263/Verification-for-Non-polynomial-Hybrid-Systems?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 105294 (103K) [text/html]
+Saving to: ‘bxw090’
+
+     0K .......... .......... .......... .......... .......... 48%  209K 0s
+    50K .......... .......... .......... .......... .......... 97%  607K 0s
+   100K ..                                                    100% 16.1M=0.3s
+
+2017-02-03 08:32:04 (320 KB/s) - ‘bxw090’ saved [105294/105294]
+
+--2017-02-03 08:32:05--  http://doi.org/10.1093/comjnl/bxw095
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw095 [following]
+--2017-02-03 08:32:06--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw095
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw095/2725496/Simpler-Generic-Constructions-for-Strongly-Secure?redirectedFrom=fulltext [following]
+--2017-02-03 08:32:08--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw095/2725496/Simpler-Generic-Constructions-for-Strongly-Secure?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 107338 (105K) [text/html]
+Saving to: ‘bxw095’
+
+     0K .......... .......... .......... .......... .......... 47%  208K 0s
+    50K .......... .......... .......... .......... .......... 95%  606K 0s
+   100K ....                                                  100% 19.6M=0.3s
+
+2017-02-03 08:32:12 (325 KB/s) - ‘bxw095’ saved [107338/107338]
+
+--2017-02-03 08:32:13--  http://doi.org/10.1093/comjnl/bxw099
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw099 [following]
+--2017-02-03 08:32:14--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw099
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw099/2725498/Communication-and-Resource-Deadlock-Analysis-Using?redirectedFrom=fulltext [following]
+--2017-02-03 08:32:16--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw099/2725498/Communication-and-Resource-Deadlock-Analysis-Using?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 08:32:17 ERROR 400: Bad Request.
+
+--2017-02-03 08:32:18--  http://doi.org/10.1093/comjnl/bxw097
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw097 [following]
+--2017-02-03 08:32:19--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw097
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw097/2725497/Workload-Aware-Placement-of-Multi-Tier?redirectedFrom=fulltext [following]
+--2017-02-03 08:32:21--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw097/2725497/Workload-Aware-Placement-of-Multi-Tier?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 114867 (112K) [text/html]
+Saving to: ‘bxw097’
+
+     0K .......... .......... .......... .......... .......... 44%  209K 0s
+    50K .......... .......... .......... .......... .......... 89%  604K 0s
+   100K .......... ..                                         100% 25.4M=0.3s
+
+2017-02-03 08:32:24 (347 KB/s) - ‘bxw097’ saved [114867/114867]
+
+--2017-02-03 08:32:25--  http://doi.org/10.1093/comjnl/bxw094
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw094 [following]
+--2017-02-03 08:32:26--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw094
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 08:32:27 ERROR 400: Bad Request.
+
+--2017-02-03 08:32:28--  http://doi.org/10.1093/comjnl/bxw102
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw102 [following]
+--2017-02-03 08:32:29--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw102
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw102/2715225/Autonomous-Discovery-and-Management-in-Virtual?redirectedFrom=fulltext [following]
+--2017-02-03 08:32:31--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw102/2715225/Autonomous-Discovery-and-Management-in-Virtual?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 87409 (85K) [text/html]
+Saving to: ‘bxw102’
+
+     0K .......... .......... .......... .......... .......... 58%  209K 0s
+    50K .......... .......... .......... .....                100% 11.8M=0.2s
+
+2017-02-03 08:32:34 (352 KB/s) - ‘bxw102’ saved [87409/87409]
+
+--2017-02-03 08:32:35--  http://doi.org/10.1093/comjnl/bxw085
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw085 [following]
+--2017-02-03 08:32:36--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw085
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw085/2632621/Heap-Construction-50-Years-Later?redirectedFrom=fulltext [following]
+--2017-02-03 08:32:38--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw085/2632621/Heap-Construction-50-Years-Later?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 08:32:39 ERROR 400: Bad Request.
+
+--2017-02-03 08:32:40--  http://doi.org/10.1093/comjnl/bxw080
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw080 [following]
+--2017-02-03 08:32:41--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw080
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 08:32:41 ERROR 400: Bad Request.
+
+--2017-02-03 08:32:42--  http://doi.org/10.1093/comjnl/bxw091
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw091 [following]
+--2017-02-03 08:32:44--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw091
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw091/2632622/On-Algorithms-for-Enumerating-Subtrees-of?redirectedFrom=fulltext [following]
+--2017-02-03 08:32:45--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw091/2632622/On-Algorithms-for-Enumerating-Subtrees-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 105375 (103K) [text/html]
+Saving to: ‘bxw091’
+
+     0K .......... .......... .......... .......... .......... 48%  309K 0s
+    50K .......... .......... .......... .......... .......... 97%  313K 0s
+   100K ..                                                    100% 3.12M=0.3s
+
+2017-02-03 08:32:49 (319 KB/s) - ‘bxw091’ saved [105375/105375]
+
+--2017-02-03 08:32:50--  http://doi.org/10.1093/comjnl/bxw096
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw096 [following]
+--2017-02-03 08:32:51--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw096
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw096/2632623/Using-Linked-Data-for-Integrating-Educational?redirectedFrom=fulltext [following]
+--2017-02-03 08:32:53--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw096/2632623/Using-Linked-Data-for-Integrating-Educational?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 105308 (103K) [text/html]
+Saving to: ‘bxw096’
+
+     0K .......... .......... .......... .......... .......... 48%  209K 0s
+    50K .......... .......... .......... .......... .......... 97%  610K 0s
+   100K ..                                                    100% 26.7M=0.3s
+
+2017-02-03 08:32:56 (320 KB/s) - ‘bxw096’ saved [105308/105308]
+
+--2017-02-03 08:32:57--  http://doi.org/10.1093/comjnl/bxw088
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw088 [following]
+--2017-02-03 08:32:58--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw088
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw088/2527543/Forming-Grouped-Teams-with-Efficient-Collaboration?redirectedFrom=fulltext [following]
+--2017-02-03 08:33:01--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw088/2527543/Forming-Grouped-Teams-with-Efficient-Collaboration?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 97218 (95K) [text/html]
+Saving to: ‘bxw088’
+
+     0K .......... .......... .......... .......... .......... 52%  207K 0s
+    50K .......... .......... .......... .......... ....      100%  553K=0.3s
+
+2017-02-03 08:33:07 (294 KB/s) - ‘bxw088’ saved [97218/97218]
+
+--2017-02-03 08:33:08--  http://doi.org/10.1093/comjnl/bxw082
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw082 [following]
+--2017-02-03 08:33:09--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw082
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw082/2433260/Anonymous-Announcement-System-AAS-for-Electric?redirectedFrom=fulltext [following]
+--2017-02-03 08:33:11--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw082/2433260/Anonymous-Announcement-System-AAS-for-Electric?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 105721 (103K) [text/html]
+Saving to: ‘bxw082’
+
+     0K .......... .......... .......... .......... .......... 48%  205K 0s
+    50K .......... .......... .......... .......... .......... 96%  603K 0s
+   100K ...                                                   100% 10.9M=0.3s
+
+2017-02-03 08:33:14 (316 KB/s) - ‘bxw082’ saved [105721/105721]
+
+--2017-02-03 08:33:15--  http://doi.org/10.1093/comjnl/bxw084
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw084 [following]
+--2017-02-03 08:33:16--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw084
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw084/2354609/Modelling-and-Verifying-Communication-Failure-of?redirectedFrom=fulltext [following]
+--2017-02-03 08:33:19--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw084/2354609/Modelling-and-Verifying-Communication-Failure-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 101736 (99K) [text/html]
+Saving to: ‘bxw084’
+
+     0K .......... .......... .......... .......... .......... 50%  209K 0s
+    50K .......... .......... .......... .......... ......... 100%  594K=0.3s
+
+2017-02-03 08:33:22 (308 KB/s) - ‘bxw084’ saved [101736/101736]
+
+--2017-02-03 08:33:23--  http://doi.org/10.1093/comjnl/bxw083
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw083 [following]
+--2017-02-03 08:33:24--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw083
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw083/2354608/Probabilistic-Public-Key-Encryption-for-Controlled?redirectedFrom=fulltext [following]
+--2017-02-03 08:33:26--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw083/2354608/Probabilistic-Public-Key-Encryption-for-Controlled?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 83632 (82K) [text/html]
+Saving to: ‘bxw083’
+
+     0K .......... .......... .......... .......... .......... 61%  302K 0s
+    50K .......... .......... .......... .                    100%  393K=0.2s
+
+2017-02-03 08:33:29 (331 KB/s) - ‘bxw083’ saved [83632/83632]
+
+--2017-02-03 08:33:30--  http://doi.org/10.1093/comjnl/bxw086
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw086 [following]
+--2017-02-03 08:33:31--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw086
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw086/2354610/Zero-correlation-Linear-Cryptanalysis-of-SAFER?redirectedFrom=fulltext [following]
+--2017-02-03 08:33:33--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw086/2354610/Zero-correlation-Linear-Cryptanalysis-of-SAFER?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 85108 (83K) [text/html]
+Saving to: ‘bxw086’
+
+     0K .......... .......... .......... .......... .......... 60%  209K 0s
+    50K .......... .......... .......... ...                  100% 8.52M=0.2s
+
+2017-02-03 08:33:36 (342 KB/s) - ‘bxw086’ saved [85108/85108]
+
+--2017-02-03 08:33:37--  http://doi.org/10.1093/comjnl/bxw066
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw066 [following]
+--2017-02-03 08:33:38--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw066
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw066/2354604/Security-Proofs-for-Protocols-Involving-Humans?redirectedFrom=fulltext [following]
+--2017-02-03 08:33:40--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw066/2354604/Security-Proofs-for-Protocols-Involving-Humans?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 88286 (86K) [text/html]
+Saving to: ‘bxw066’
+
+     0K .......... .......... .......... .......... .......... 57%  208K 0s
+    50K .......... .......... .......... ......               100%  886K=0.3s
+
+2017-02-03 08:33:43 (306 KB/s) - ‘bxw066’ saved [88286/88286]
+
+--2017-02-03 08:33:44--  http://doi.org/10.1093/comjnl/bxw079
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw079 [following]
+--2017-02-03 08:33:45--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw079
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw079/2354605/On-the-Partition-Dimension-of-Circulant-Graphs?redirectedFrom=fulltext [following]
+--2017-02-03 08:33:47--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw079/2354605/On-the-Partition-Dimension-of-Circulant-Graphs?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 102908 (100K) [text/html]
+Saving to: ‘bxw079’
+
+     0K .......... .......... .......... .......... .......... 49%  209K 0s
+    50K .......... .......... .......... .......... .......... 99%  606K 0s
+   100K                                                       100%  946G=0.3s
+
+2017-02-03 08:33:50 (312 KB/s) - ‘bxw079’ saved [102908/102908]
+
+--2017-02-03 08:33:51--  http://doi.org/10.1093/comjnl/bxw081
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw081 [following]
+--2017-02-03 08:33:52--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw081
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw081/2354606/Biometric-Layering-with-Fingerprints-Template?redirectedFrom=fulltext [following]
+--2017-02-03 08:33:54--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw081/2354606/Biometric-Layering-with-Fingerprints-Template?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 103264 (101K) [text/html]
+Saving to: ‘bxw081’
+
+     0K .......... .......... .......... .......... .......... 49%  209K 0s
+    50K .......... .......... .......... .......... .......... 99%  605K 0s
+   100K                                                       100% 1609G=0.3s
+
+2017-02-03 08:33:57 (313 KB/s) - ‘bxw081’ saved [103264/103264]
+
+--2017-02-03 08:33:58--  http://doi.org/10.1093/comjnl/bxw071
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw071 [following]
+--2017-02-03 08:33:59--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw071
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw071/2608070/Hamiltonian-Cycle-and-Path-Embeddings-in-k-Ary-n?redirectedFrom=fulltext [following]
+--2017-02-03 08:34:01--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw071/2608070/Hamiltonian-Cycle-and-Path-Embeddings-in-k-Ary-n?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 08:34:01 ERROR 400: Bad Request.
+
+--2017-02-03 08:34:02--  http://doi.org/10.1093/comjnl/bxw063
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw063 [following]
+--2017-02-03 08:34:03--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw063
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw063/2608063/Virtual-Network-Mapping-in-Cloud-Computing-A-Graph?redirectedFrom=fulltext [following]
+--2017-02-03 08:34:05--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw063/2608063/Virtual-Network-Mapping-in-Cloud-Computing-A-Graph?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 98829 (97K) [text/html]
+Saving to: ‘bxw063’
+
+     0K .......... .......... .......... .......... .......... 51%  209K 0s
+    50K .......... .......... .......... .......... ......    100%  570K=0.3s
+
+2017-02-03 08:34:09 (300 KB/s) - ‘bxw063’ saved [98829/98829]
+
+--2017-02-03 08:34:10--  http://doi.org/10.1093/comjnl/bxw077
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw077 [following]
+--2017-02-03 08:34:11--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw077
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 08:34:11 ERROR 400: Bad Request.
+
+--2017-02-03 08:34:12--  http://doi.org/10.1093/comjnl/bxw078
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw078 [following]
+--2017-02-03 08:34:13--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw078
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw078/2608077/Reliability-of-Complete-Cubic-Networks-under-the?redirectedFrom=fulltext [following]
+--2017-02-03 08:34:15--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw078/2608077/Reliability-of-Complete-Cubic-Networks-under-the?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 102578 (100K) [text/html]
+Saving to: ‘bxw078’
+
+     0K .......... .......... .......... .......... .......... 49%  209K 0s
+    50K .......... .......... .......... .......... .......... 99%  610K 0s
+   100K                                                       100%  332G=0.3s
+
+2017-02-03 08:34:18 (312 KB/s) - ‘bxw078’ saved [102578/102578]
+
+--2017-02-03 08:34:19--  http://doi.org/10.1093/comjnl/bxw074
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw074 [following]
+--2017-02-03 08:34:20--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw074
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 08:34:21 ERROR 400: Bad Request.
+
+--2017-02-03 08:34:22--  http://doi.org/10.1093/comjnl/bxw067
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw067 [following]
+--2017-02-03 08:34:23--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw067
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/59/10/1563/2420657/Modelling-and-Performance-Analysis-of-IEEE-802-11?redirectedFrom=fulltext [following]
+--2017-02-03 08:34:25--  https://academic.oup.com/comjnl/article-abstract/59/10/1563/2420657/Modelling-and-Performance-Analysis-of-IEEE-802-11?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 98484 (96K) [text/html]
+Saving to: ‘bxw067’
+
+     0K .......... .......... .......... .......... .......... 51%  209K 0s
+    50K .......... .......... .......... .......... ......    100%  569K=0.3s
+
+2017-02-03 08:34:29 (300 KB/s) - ‘bxw067’ saved [98484/98484]
+
+--2017-02-03 08:34:30--  http://doi.org/10.1093/comjnl/bxw076
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw076 [following]
+--2017-02-03 08:34:31--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw076
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/60/1/143/2608075/An-Empirical-Study-on-Mutation-Testing-of-WS-BPEL?redirectedFrom=fulltext [following]
+--2017-02-03 08:34:33--  https://academic.oup.com/comjnl/article-abstract/60/1/143/2608075/An-Empirical-Study-on-Mutation-Testing-of-WS-BPEL?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 100588 (98K) [text/html]
+Saving to: ‘bxw076’
+
+     0K .......... .......... .......... .......... .......... 50%  209K 0s
+    50K .......... .......... .......... .......... ........  100%  586K=0.3s
+
+2017-02-03 08:34:36 (305 KB/s) - ‘bxw076’ saved [100588/100588]
+
+--2017-02-03 08:34:37--  http://doi.org/10.1093/comjnl/bxw056
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw056 [following]
+--2017-02-03 08:34:38--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw056
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw056/2608058/Editorial-Survey-and-Experimental-Analysis-of?redirectedFrom=fulltext [following]
+--2017-02-03 08:34:40--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw056/2608058/Editorial-Survey-and-Experimental-Analysis-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 109074 (107K) [text/html]
+Saving to: ‘bxw056’
+
+     0K .......... .......... .......... .......... .......... 46%  205K 0s
+    50K .......... .......... .......... .......... .......... 93%  580K 0s
+   100K ......                                                100% 12431G=0.3s
+
+2017-02-03 08:34:43 (322 KB/s) - ‘bxw056’ saved [109074/109074]
+
+--2017-02-03 08:34:44--  http://doi.org/10.1093/comjnl/bxw072
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw072 [following]
+--2017-02-03 08:34:45--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw072
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw072/2608071/WIVET-Benchmarking-Coverage-Qualities-of-Web?redirectedFrom=fulltext [following]
+--2017-02-03 08:34:47--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw072/2608071/WIVET-Benchmarking-Coverage-Qualities-of-Web?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 92747 (91K) [text/html]
+Saving to: ‘bxw072’
+
+     0K .......... .......... .......... .......... .......... 55%  209K 0s
+    50K .......... .......... .......... ..........           100%  506K=0.3s
+
+2017-02-03 08:34:50 (283 KB/s) - ‘bxw072’ saved [92747/92747]
+
+--2017-02-03 08:34:51--  http://doi.org/10.1093/comjnl/bxw061
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw061 [following]
+--2017-02-03 08:34:52--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw061
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw061/2608062/On-the-In-Security-of-Recent-Group-Key?redirectedFrom=fulltext [following]
+--2017-02-03 08:34:54--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw061/2608062/On-the-In-Security-of-Recent-Group-Key?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 107148 (105K) [text/html]
+Saving to: ‘bxw061’
+
+     0K .......... .......... .......... .......... .......... 47%  209K 0s
+    50K .......... .......... .......... .......... .......... 95%  611K 0s
+   100K ....                                                  100% 22.0M=0.3s
+
+2017-02-03 08:34:57 (326 KB/s) - ‘bxw061’ saved [107148/107148]
+
+--2017-02-03 08:34:58--  http://doi.org/10.1093/comjnl/bxw070
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw070 [following]
+--2017-02-03 08:34:59--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw070
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw070/2608069/Novel-Leakage-Resilient-Attribute-Based-Encryption?redirectedFrom=fulltext [following]
+--2017-02-03 08:35:02--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw070/2608069/Novel-Leakage-Resilient-Attribute-Based-Encryption?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 101427 (99K) [text/html]
+Saving to: ‘bxw070’
+
+     0K .......... .......... .......... .......... .......... 50%  208K 0s
+    50K .......... .......... .......... .......... ......... 100%  596K=0.3s
+
+2017-02-03 08:35:05 (307 KB/s) - ‘bxw070’ saved [101427/101427]
+
+--2017-02-03 08:35:06--  http://doi.org/10.1093/comjnl/bxw073
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw073 [following]
+--2017-02-03 08:35:07--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw073
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw073/2608072/Data-Science?redirectedFrom=fulltext [following]
+--2017-02-03 08:35:09--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw073/2608072/Data-Science?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 79209 (77K) [text/html]
+Saving to: ‘bxw073’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... .......                         100% 10.7M=0.2s
+
+2017-02-03 08:35:11 (320 KB/s) - ‘bxw073’ saved [79209/79209]
+
+--2017-02-03 08:35:12--  http://doi.org/10.1093/comjnl/bxw075
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw075 [following]
+--2017-02-03 08:35:14--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw075
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/60/1/135/2608074/Area-Thickness-Trade-Offs-for-Straight-Line?redirectedFrom=fulltext [following]
+--2017-02-03 08:35:16--  https://academic.oup.com/comjnl/article-abstract/60/1/135/2608074/Area-Thickness-Trade-Offs-for-Straight-Line?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 98605 (96K) [text/html]
+Saving to: ‘bxw075’
+
+     0K .......... .......... .......... .......... .......... 51%  309K 0s
+    50K .......... .......... .......... .......... ......    100%  292K=0.3s
+
+2017-02-03 08:35:19 (301 KB/s) - ‘bxw075’ saved [98605/98605]
+
+--2017-02-03 08:35:20--  http://doi.org/10.1093/comjnl/bxw062
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw062 [following]
+--2017-02-03 08:35:22--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw062
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/59/10/1551/2420656/A-Fuzzy-Based-Energy-aware-Clustering-Architecture?redirectedFrom=fulltext [following]
+--2017-02-03 08:35:24--  https://academic.oup.com/comjnl/article-abstract/59/10/1551/2420656/A-Fuzzy-Based-Energy-aware-Clustering-Architecture?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 97199 (95K) [text/html]
+Saving to: ‘bxw062’
+
+     0K .......... .......... .......... .......... .......... 52%  209K 0s
+    50K .......... .......... .......... .......... ....      100%  556K=0.3s
+
+2017-02-03 08:35:27 (297 KB/s) - ‘bxw062’ saved [97199/97199]
+
+--2017-02-03 08:35:28--  http://doi.org/10.1093/comjnl/bxw069
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw069 [following]
+--2017-02-03 08:35:29--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw069
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/60/1/110/2608068/Distinguishing-Sequences-for-Distributed-Testing?redirectedFrom=fulltext [following]
+--2017-02-03 08:35:31--  https://academic.oup.com/comjnl/article-abstract/60/1/110/2608068/Distinguishing-Sequences-for-Distributed-Testing?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 108705 (106K) [text/html]
+Saving to: ‘bxw069’
+
+     0K .......... .......... .......... .......... .......... 47%  209K 0s
+    50K .......... .......... .......... .......... .......... 94%  610K 0s
+   100K ......                                                100% 14.5M=0.3s
+
+2017-02-03 08:35:35 (330 KB/s) - ‘bxw069’ saved [108705/108705]
+
+--2017-02-03 08:35:36--  http://doi.org/10.1093/comjnl/bxw049
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw049 [following]
+--2017-02-03 08:35:37--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw049
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/59/10/1527/2420654/Cluster-Based-MAC-Protocol-for-Collision-Avoidance?redirectedFrom=fulltext [following]
+--2017-02-03 08:35:39--  https://academic.oup.com/comjnl/article-abstract/59/10/1527/2420654/Cluster-Based-MAC-Protocol-for-Collision-Avoidance?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 104447 (102K) [text/html]
+Saving to: ‘bxw049’
+
+     0K .......... .......... .......... .......... .......... 49%  208K 0s
+    50K .......... .......... .......... .......... .......... 98%  603K 0s
+   100K .                                                     100% 3813G=0.3s
+
+2017-02-03 08:35:42 (316 KB/s) - ‘bxw049’ saved [104447/104447]
+
+--2017-02-03 08:35:43--  http://doi.org/10.1093/comjnl/bxw068
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw068 [following]
+--2017-02-03 08:35:44--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw068
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/60/1/86/2608067/On-the-Use-of-C-Partial-Classes-for-the?redirectedFrom=fulltext [following]
+--2017-02-03 08:35:46--  https://academic.oup.com/comjnl/article-abstract/60/1/86/2608067/On-the-Use-of-C-Partial-Classes-for-the?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 113108 (110K) [text/html]
+Saving to: ‘bxw068’
+
+     0K .......... .......... .......... .......... .......... 45%  209K 0s
+    50K .......... .......... .......... .......... .......... 90%  602K 0s
+   100K ..........                                            100% 32.8M=0.3s
+
+2017-02-03 08:35:50 (342 KB/s) - ‘bxw068’ saved [113108/113108]
+
+--2017-02-03 08:35:51--  http://doi.org/10.1093/comjnl/bxw060
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw060 [following]
+--2017-02-03 08:35:52--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw060
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw060/2608061/Bounds-for-Message-Authentication-with-Distortion?redirectedFrom=fulltext [following]
+--2017-02-03 08:35:54--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw060/2608061/Bounds-for-Message-Authentication-with-Distortion?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 85808 (84K) [text/html]
+Saving to: ‘bxw060’
+
+     0K .......... .......... .......... .......... .......... 59%  208K 0s
+    50K .......... .......... .......... ...                  100% 8.78M=0.2s
+
+2017-02-03 08:35:56 (344 KB/s) - ‘bxw060’ saved [85808/85808]
+
+--2017-02-03 08:35:57--  http://doi.org/10.1093/comjnl/bxw059
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw059 [following]
+--2017-02-03 08:35:58--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw059
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw059/2608060/A-Novel-Social-Event-Organization-Approach-for?redirectedFrom=fulltext [following]
+--2017-02-03 08:36:00--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw059/2608060/A-Novel-Social-Event-Organization-Approach-for?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 111786 (109K) [text/html]
+Saving to: ‘bxw059’
+
+     0K .......... .......... .......... .......... .......... 45%  207K 0s
+    50K .......... .......... .......... .......... .......... 91%  607K 0s
+   100K .........                                             100% 14.6M=0.3s
+
+2017-02-03 08:36:03 (337 KB/s) - ‘bxw059’ saved [111786/111786]
+
+--2017-02-03 08:36:04--  http://doi.org/10.1093/comjnl/bxw036
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw036 [following]
+--2017-02-03 08:36:06--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw036
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw036/2608045/A-Hybrid-Approach-for-Question-Retrieval-in?redirectedFrom=fulltext [following]
+--2017-02-03 08:36:08--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw036/2608045/A-Hybrid-Approach-for-Question-Retrieval-in?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 102127 (100K) [text/html]
+Saving to: ‘bxw036’
+
+     0K .......... .......... .......... .......... .......... 50%  208K 0s
+    50K .......... .......... .......... .......... ......... 100%  608K=0.3s
+
+2017-02-03 08:36:11 (309 KB/s) - ‘bxw036’ saved [102127/102127]
+
+--2017-02-03 08:36:12--  http://doi.org/10.1093/comjnl/bxw048
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw048 [following]
+--2017-02-03 08:36:13--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw048
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 652039 (637K) [text/html]
+Saving to: ‘bxw048’
+
+     0K .......... .......... .......... .......... ..........  7%  209K 3s
+    50K .......... .......... .......... .......... .......... 15%  609K 2s
+   100K .......... .......... .......... .......... .......... 23%  603K 1s
+   150K .......... .......... .......... .......... .......... 31%  598K 1s
+   200K .......... .......... .......... .......... .......... 39%  316K 1s
+   250K .......... .......... .......... .......... .......... 47%  594K 1s
+   300K .......... .......... .......... .......... .......... 54%  608K 1s
+   350K .......... .......... .......... .......... .......... 62%  316K 1s
+   400K .......... .......... .......... .......... .......... 70%  604K 0s
+   450K .......... .......... .......... .......... .......... 78%  613K 0s
+   500K .......... .......... .......... .......... .......... 86%  312K 0s
+   550K .......... .......... .......... .......... .......... 94%  596K 0s
+   600K .......... .......... .......... ......               100%  454K=1.5s
+
+2017-02-03 08:36:18 (436 KB/s) - ‘bxw048’ saved [652039/652039]
+
+--2017-02-03 08:36:19--  http://doi.org/10.1093/comjnl/bxw053
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw053 [following]
+--2017-02-03 08:36:20--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw053
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw053/2608055/Elliptic-Curve-Multiset-Hash?redirectedFrom=fulltext [following]
+--2017-02-03 08:36:23--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw053/2608055/Elliptic-Curve-Multiset-Hash?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 95058 (93K) [text/html]
+Saving to: ‘bxw053’
+
+     0K .......... .......... .......... .......... .......... 53%  209K 0s
+    50K .......... .......... .......... .......... ..        100%  532K=0.3s
+
+2017-02-03 08:36:26 (290 KB/s) - ‘bxw053’ saved [95058/95058]
+
+--2017-02-03 08:36:27--  http://doi.org/10.1093/comjnl/bxw054
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw054 [following]
+--2017-02-03 08:36:28--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw054
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/60/1/13/2608056/Independent-Spanning-Trees-in-RTCC-Pyramids?redirectedFrom=fulltext [following]
+--2017-02-03 08:36:31--  https://academic.oup.com/comjnl/article-abstract/60/1/13/2608056/Independent-Spanning-Trees-in-RTCC-Pyramids?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 88447 (86K) [text/html]
+Saving to: ‘bxw054’
+
+     0K .......... .......... .......... .......... .......... 57%  209K 0s
+    50K .......... .......... .......... ......               100%  886K=0.3s
+
+2017-02-03 08:36:35 (308 KB/s) - ‘bxw054’ saved [88447/88447]
+
+--2017-02-03 08:36:36--  http://doi.org/10.1093/comjnl/bxw065
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw065 [following]
+--2017-02-03 08:36:37--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw065
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/60/1/60/2608065/PMCTrack-Delivering-Performance-Monitoring-Counter?redirectedFrom=fulltext [following]
+--2017-02-03 08:36:39--  https://academic.oup.com/comjnl/article-abstract/60/1/60/2608065/PMCTrack-Delivering-Performance-Monitoring-Counter?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 108156 (106K) [text/html]
+Saving to: ‘bxw065’
+
+     0K .......... .......... .......... .......... .......... 47%  209K 0s
+    50K .......... .......... .......... .......... .......... 94%  589K 0s
+   100K .....                                                 100% 10721G=0.3s
+
+2017-02-03 08:36:42 (326 KB/s) - ‘bxw065’ saved [108156/108156]
+
+--2017-02-03 08:36:43--  http://doi.org/10.1093/comjnl/bxw057
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw057 [following]
+--2017-02-03 08:36:44--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw057
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/59/10/1536/2420655/A-Distributed-File-System-with-Variable-Sized?redirectedFrom=fulltext [following]
+--2017-02-03 08:36:47--  https://academic.oup.com/comjnl/article-abstract/59/10/1536/2420655/A-Distributed-File-System-with-Variable-Sized?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 91687 (90K) [text/html]
+Saving to: ‘bxw057’
+
+     0K .......... .......... .......... .......... .......... 55%  202K 0s
+    50K .......... .......... .......... .........            100%  493K=0.3s
+
+2017-02-03 08:36:50 (273 KB/s) - ‘bxw057’ saved [91687/91687]
+
+--2017-02-03 08:36:51--  http://doi.org/10.1093/comjnl/bxw064
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw064 [following]
+--2017-02-03 08:36:52--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw064
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/60/1/45/2608064/Dynamic-Upward-Planarity-Testing-of-Single-Source?redirectedFrom=fulltext [following]
+--2017-02-03 08:36:54--  https://academic.oup.com/comjnl/article-abstract/60/1/45/2608064/Dynamic-Upward-Planarity-Testing-of-Single-Source?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 90695 (89K) [text/html]
+Saving to: ‘bxw064’
+
+     0K .......... .......... .......... .......... .......... 56%  209K 0s
+    50K .......... .......... .......... ........             100%  483K=0.3s
+
+2017-02-03 08:36:57 (278 KB/s) - ‘bxw064’ saved [90695/90695]
+
+--2017-02-03 08:36:58--  http://doi.org/10.1093/comjnl/bxw050
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw050 [following]
+--2017-02-03 08:36:59--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw050
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/60/1/1/2608052/Node-Pancyclic-Properties-of-Biswapped-Networks?redirectedFrom=fulltext [following]
+--2017-02-03 08:37:01--  https://academic.oup.com/comjnl/article-abstract/60/1/1/2608052/Node-Pancyclic-Properties-of-Biswapped-Networks?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 08:37:01 ERROR 400: Bad Request.
+
+--2017-02-03 08:37:02--  http://doi.org/10.1093/comjnl/bxw058
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw058 [following]
+--2017-02-03 08:37:03--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw058
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 08:37:04 ERROR 400: Bad Request.
+
+--2017-02-03 08:37:05--  http://doi.org/10.1093/comjnl/bxw052
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw052 [following]
+--2017-02-03 08:37:06--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw052
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw052/2608054/A-Hess-Like-Signature-Scheme-Based-on-Implicit-and?redirectedFrom=fulltext [following]
+--2017-02-03 08:37:08--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw052/2608054/A-Hess-Like-Signature-Scheme-Based-on-Implicit-and?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 92318 (90K) [text/html]
+Saving to: ‘bxw052’
+
+     0K .......... .......... .......... .......... .......... 55%  209K 0s
+    50K .......... .......... .......... ..........           100%  498K=0.3s
+
+2017-02-03 08:37:11 (282 KB/s) - ‘bxw052’ saved [92318/92318]
+
+--2017-02-03 08:37:12--  http://doi.org/10.1093/comjnl/bxw043
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw043 [following]
+--2017-02-03 08:37:13--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw043
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/59/12/1857/2608049/An-Orthogonal-Genetic-Algorithm-for-QoS-Aware?redirectedFrom=fulltext [following]
+--2017-02-03 08:37:16--  https://academic.oup.com/comjnl/article-abstract/59/12/1857/2608049/An-Orthogonal-Genetic-Algorithm-for-QoS-Aware?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 102252 (100K) [text/html]
+Saving to: ‘bxw043’
+
+     0K .......... .......... .......... .......... .......... 50%  207K 0s
+    50K .......... .......... .......... .......... ......... 100%  589K=0.3s
+
+2017-02-03 08:37:19 (306 KB/s) - ‘bxw043’ saved [102252/102252]
+
+--2017-02-03 08:37:20--  http://doi.org/10.1093/comjnl/bxw051
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw051 [following]
+--2017-02-03 08:37:21--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw051
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw051/2608053/Incorporating-Change-Management-Within-Dynamic?redirectedFrom=fulltext [following]
+--2017-02-03 08:37:23--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw051/2608053/Incorporating-Change-Management-Within-Dynamic?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 87067 (85K) [text/html]
+Saving to: ‘bxw051’
+
+     0K .......... .......... .......... .......... .......... 58%  208K 0s
+    50K .......... .......... .......... .....                100% 11.7M=0.2s
+
+2017-02-03 08:37:27 (349 KB/s) - ‘bxw051’ saved [87067/87067]
+
+--2017-02-03 08:37:28--  http://doi.org/10.1093/comjnl/bxw055
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw055 [following]
+--2017-02-03 08:37:29--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw055
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 08:37:30 ERROR 400: Bad Request.
+
+--2017-02-03 08:37:31--  http://doi.org/10.1093/comjnl/bxw040
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw040 [following]
+--2017-02-03 08:37:32--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw040
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/59/10/1511/2420653/RSD-Fault-Block-Model-for-Highly-Efficient-Fault?redirectedFrom=fulltext [following]
+--2017-02-03 08:37:34--  https://academic.oup.com/comjnl/article-abstract/59/10/1511/2420653/RSD-Fault-Block-Model-for-Highly-Efficient-Fault?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 88310 (86K) [text/html]
+Saving to: ‘bxw040’
+
+     0K .......... .......... .......... .......... .......... 57%  209K 0s
+    50K .......... .......... .......... ......               100%  454K=0.3s
+
+2017-02-03 08:37:37 (270 KB/s) - ‘bxw040’ saved [88310/88310]
+
+--2017-02-03 08:37:38--  http://doi.org/10.1093/comjnl/bxw025
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw025 [following]
+--2017-02-03 08:37:39--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw025
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/59/11/1637/2433251/RKA-Secure-Public-Key-Encryptions-Against?redirectedFrom=fulltext [following]
+--2017-02-03 08:37:42--  https://academic.oup.com/comjnl/article-abstract/59/11/1637/2433251/RKA-Secure-Public-Key-Encryptions-Against?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 93783 (92K) [text/html]
+Saving to: ‘bxw025’
+
+     0K .......... .......... .......... .......... .......... 54%  309K 0s
+    50K .......... .......... .......... .......... .         100%  263K=0.3s
+
+2017-02-03 08:37:45 (286 KB/s) - ‘bxw025’ saved [93783/93783]
+
+--2017-02-03 08:37:46--  http://doi.org/10.1093/comjnl/bxw030
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw030 [following]
+--2017-02-03 08:37:47--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw030
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/59/11/1669/2433253/Almost-Tight-Identity-Based-Encryption-Against?redirectedFrom=fulltext [following]
+--2017-02-03 08:37:49--  https://academic.oup.com/comjnl/article-abstract/59/11/1669/2433253/Almost-Tight-Identity-Based-Encryption-Against?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 111943 (109K) [text/html]
+Saving to: ‘bxw030’
+
+     0K .......... .......... .......... .......... .......... 45%  207K 0s
+    50K .......... .......... .......... .......... .......... 91%  588K 0s
+   100K .........                                             100% 24.3M=0.3s
+
+2017-02-03 08:37:53 (335 KB/s) - ‘bxw030’ saved [111943/111943]
+
+--2017-02-03 08:37:54--  http://doi.org/10.1093/comjnl/bxw047
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw047 [following]
+--2017-02-03 08:37:55--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw047
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/59/11/1735/2433257/Rethinking-Software-Component-Security-Software?redirectedFrom=fulltext [following]
+--2017-02-03 08:37:57--  https://academic.oup.com/comjnl/article-abstract/59/11/1735/2433257/Rethinking-Software-Component-Security-Software?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 88481 (86K) [text/html]
+Saving to: ‘bxw047’
+
+     0K .......... .......... .......... .......... .......... 57%  209K 0s
+    50K .......... .......... .......... ......               100% 4.27M=0.2s
+
+2017-02-03 08:38:00 (348 KB/s) - ‘bxw047’ saved [88481/88481]
+
+--2017-02-03 08:38:01--  http://doi.org/10.1093/comjnl/bxw046
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw046 [following]
+--2017-02-03 08:38:02--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw046
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/59/12/1900/2608050/Average-Distance-in-Interconnection-Networks-via?redirectedFrom=fulltext [following]
+--2017-02-03 08:38:04--  https://academic.oup.com/comjnl/article-abstract/59/12/1900/2608050/Average-Distance-in-Interconnection-Networks-via?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 110806 (108K) [text/html]
+Saving to: ‘bxw046’
+
+     0K .......... .......... .......... .......... .......... 46%  209K 0s
+    50K .......... .......... .......... .......... .......... 92%  608K 0s
+   100K ........                                              100% 6.62M=0.3s
+
+2017-02-03 08:38:07 (336 KB/s) - ‘bxw046’ saved [110806/110806]
+
+--2017-02-03 08:38:08--  http://doi.org/10.1093/comjnl/bxw041
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw041 [following]
+--2017-02-03 08:38:09--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw041
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw041/2608047/A-Replication-Scheme-for-Multiple-Fragmentations?redirectedFrom=fulltext [following]
+--2017-02-03 08:38:12--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw041/2608047/A-Replication-Scheme-for-Multiple-Fragmentations?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 108245 (106K) [text/html]
+Saving to: ‘bxw041’
+
+     0K .......... .......... .......... .......... .......... 47%  208K 0s
+    50K .......... .......... .......... .......... .......... 94%  603K 0s
+   100K .....                                                 100% 20.9M=0.3s
+
+2017-02-03 08:38:17 (327 KB/s) - ‘bxw041’ saved [108245/108245]
+
+--2017-02-03 08:38:18--  http://doi.org/10.1093/comjnl/bxw044
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw044 [following]
+--2017-02-03 08:38:20--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw044
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/59/12/1872/2609378/Incremental-Determinization-of-Expanding-Automata?redirectedFrom=fulltext [following]
+--2017-02-03 08:38:21--  https://academic.oup.com/comjnl/article-abstract/59/12/1872/2609378/Incremental-Determinization-of-Expanding-Automata?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 101478 (99K) [text/html]
+Saving to: ‘bxw044’
+
+     0K .......... .......... .......... .......... .......... 50%  209K 0s
+    50K .......... .......... .......... .......... ......... 100%  592K=0.3s
+
+2017-02-03 08:38:25 (307 KB/s) - ‘bxw044’ saved [101478/101478]
+
+--2017-02-03 08:38:26--  http://doi.org/10.1093/comjnl/bxw035
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw035 [following]
+--2017-02-03 08:38:27--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw035
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 08:38:27 ERROR 400: Bad Request.
+
+--2017-02-03 08:38:28--  http://doi.org/10.1093/comjnl/bxw042
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw042 [following]
+--2017-02-03 08:38:29--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw042
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw042/2608048/A-Study-of-a-Multi-Agent-Organizational-Framework?redirectedFrom=fulltext [following]
+--2017-02-03 08:38:31--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw042/2608048/A-Study-of-a-Multi-Agent-Organizational-Framework?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 08:38:32 ERROR 400: Bad Request.
+
+--2017-02-03 08:38:33--  http://doi.org/10.1093/comjnl/bxw045
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw045 [following]
+--2017-02-03 08:38:34--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw045
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/59/11/1714/2433256/Practical-Attribute-based-Signature-Traceability?redirectedFrom=fulltext [following]
+--2017-02-03 08:38:36--  https://academic.oup.com/comjnl/article-abstract/59/11/1714/2433256/Practical-Attribute-based-Signature-Traceability?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 102169 (100K) [text/html]
+Saving to: ‘bxw045’
+
+     0K .......... .......... .......... .......... .......... 50%  206K 0s
+    50K .......... .......... .......... .......... ......... 100%  608K=0.3s
+
+2017-02-03 08:38:41 (308 KB/s) - ‘bxw045’ saved [102169/102169]
+
+--2017-02-03 08:38:42--  http://doi.org/10.1093/comjnl/bxw024
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw024 [following]
+--2017-02-03 08:38:43--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw024
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 08:38:43 ERROR 400: Bad Request.
+
+--2017-02-03 08:38:44--  http://doi.org/10.1093/comjnl/bxw037
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw037 [following]
+--2017-02-03 08:38:46--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw037
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/59/12/1839/2608046/The-2-Extra-Connectivity-and-2-Extra?redirectedFrom=fulltext [following]
+--2017-02-03 08:38:48--  https://academic.oup.com/comjnl/article-abstract/59/12/1839/2608046/The-2-Extra-Connectivity-and-2-Extra?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 106435 (104K) [text/html]
+Saving to: ‘bxw037’
+
+     0K .......... .......... .......... .......... .......... 48%  208K 0s
+    50K .......... .......... .......... .......... .......... 96%  607K 0s
+   100K ...                                                   100% 18.7M=0.3s
+
+2017-02-03 08:38:51 (322 KB/s) - ‘bxw037’ saved [106435/106435]
+
+--2017-02-03 08:38:52--  http://doi.org/10.1093/comjnl/bxw034
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw034 [following]
+--2017-02-03 08:38:53--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw034
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/doi/10.1093/comjnl/bxw034/2608043/Logics-Lattices-and-Probability-The-Missing-Links?redirectedFrom=fulltext [following]
+--2017-02-03 08:38:55--  https://academic.oup.com/comjnl/article-abstract/doi/10.1093/comjnl/bxw034/2608043/Logics-Lattices-and-Probability-The-Missing-Links?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 105707 (103K) [text/html]
+Saving to: ‘bxw034’
+
+     0K .......... .......... .......... .......... .......... 48%  309K 0s
+    50K .......... .......... .......... .......... .......... 96%  305K 0s
+   100K ...                                                   100% 6160G=0.3s
+
+2017-02-03 08:38:59 (317 KB/s) - ‘bxw034’ saved [105707/105707]
+
+--2017-02-03 08:39:00--  http://doi.org/10.1093/comjnl/bxw039
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw039 [following]
+--2017-02-03 08:39:01--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw039
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/59/11/1695/2433255/DTKI-A-New-Formalized-PKI-with-Verifiable-Trusted?redirectedFrom=fulltext [following]
+--2017-02-03 08:39:03--  https://academic.oup.com/comjnl/article-abstract/59/11/1695/2433255/DTKI-A-New-Formalized-PKI-with-Verifiable-Trusted?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 08:39:04 ERROR 400: Bad Request.
+
+--2017-02-03 08:39:05--  http://doi.org/10.1093/comjnl/bxw017
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw017 [following]
+--2017-02-03 08:39:06--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/59/8/1236/2568629/Trace-Abstraction-Refinement-for-Solving-Horn?redirectedFrom=fulltext [following]
+--2017-02-03 08:39:08--  https://academic.oup.com/comjnl/article-abstract/59/8/1236/2568629/Trace-Abstraction-Refinement-for-Solving-Horn?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 88482 (86K) [text/html]
+Saving to: ‘bxw017’
+
+     0K .......... .......... .......... .......... .......... 57%  209K 0s
+    50K .......... .......... .......... ......               100% 10.5M=0.2s
+
+2017-02-03 08:39:11 (356 KB/s) - ‘bxw017’ saved [88482/88482]
+
+--2017-02-03 08:39:12--  http://doi.org/10.1093/comjnl/bxw021
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw021 [following]
+--2017-02-03 08:39:13--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/59/8/1264/2568633/Characterizing-1-Metric-Antidimensional-Trees-and?redirectedFrom=fulltext [following]
+--2017-02-03 08:39:15--  https://academic.oup.com/comjnl/article-abstract/59/8/1264/2568633/Characterizing-1-Metric-Antidimensional-Trees-and?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 107191 (105K) [text/html]
+Saving to: ‘bxw021’
+
+     0K .......... .......... .......... .......... .......... 47%  206K 0s
+    50K .......... .......... .......... .......... .......... 95%  605K 0s
+   100K ....                                                  100% 4.21M=0.3s
+
+2017-02-03 08:39:18 (321 KB/s) - ‘bxw021’ saved [107191/107191]
+
+--2017-02-03 08:39:19--  http://doi.org/10.1093/comjnl/bxw022
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw022 [following]
+--2017-02-03 08:39:20--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw022
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/59/11/1623/2433250/How-Powerful-Are-Run-Time-Monitors-with-Static?redirectedFrom=fulltext [following]
+--2017-02-03 08:39:22--  https://academic.oup.com/comjnl/article-abstract/59/11/1623/2433250/How-Powerful-Are-Run-Time-Monitors-with-Static?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 92500 (90K) [text/html]
+Saving to: ‘bxw022’
+
+     0K .......... .......... .......... .......... .......... 55%  209K 0s
+    50K .......... .......... .......... ..........           100%  497K=0.3s
+
+2017-02-03 08:39:24 (282 KB/s) - ‘bxw022’ saved [92500/92500]
+
+--2017-02-03 08:39:25--  http://doi.org/10.1093/comjnl/bxw038
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw038 [following]
+--2017-02-03 08:39:27--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw038
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/59/10/1492/2420652/Statistical-Estimation-and-Dynamic-Adaptation?redirectedFrom=fulltext [following]
+--2017-02-03 08:39:29--  https://academic.oup.com/comjnl/article-abstract/59/10/1492/2420652/Statistical-Estimation-and-Dynamic-Adaptation?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 88771 (87K) [text/html]
+Saving to: ‘bxw038’
+
+     0K .......... .......... .......... .......... .......... 57%  207K 0s
+    50K .......... .......... .......... ......               100% 4.55M=0.2s
+
+2017-02-03 08:39:32 (348 KB/s) - ‘bxw038’ saved [88771/88771]
+
+--2017-02-03 08:39:33--  http://doi.org/10.1093/comjnl/bxw019
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw019 [following]
+--2017-02-03 08:39:34--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/59/11/1593/2433248/A-Secure-Role-Based-Cloud-Storage-System-For?redirectedFrom=fulltext [following]
+--2017-02-03 08:39:37--  https://academic.oup.com/comjnl/article-abstract/59/11/1593/2433248/A-Secure-Role-Based-Cloud-Storage-System-For?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 96553 (94K) [text/html]
+Saving to: ‘bxw019’
+
+     0K .......... .......... .......... .......... .......... 53%  207K 0s
+    50K .......... .......... .......... .......... ....      100%  543K=0.3s
+
+2017-02-03 08:39:40 (292 KB/s) - ‘bxw019’ saved [96553/96553]
+
+--2017-02-03 08:39:41--  http://doi.org/10.1093/comjnl/bxw029
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw029 [following]
+--2017-02-03 08:39:42--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw029
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/59/11/1659/2433252/Identity-Based-Encryption-with-Verifiable?redirectedFrom=fulltext [following]
+--2017-02-03 08:39:45--  https://academic.oup.com/comjnl/article-abstract/59/11/1659/2433252/Identity-Based-Encryption-with-Verifiable?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 101049 (99K) [text/html]
+Saving to: ‘bxw029’
+
+     0K .......... .......... .......... .......... .......... 50%  301K 0s
+    50K .......... .......... .......... .......... ........  100%  305K=0.3s
+
+2017-02-03 08:39:48 (303 KB/s) - ‘bxw029’ saved [101049/101049]
+
+--2017-02-03 08:39:49--  http://doi.org/10.1093/comjnl/bxw033
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw033 [following]
+--2017-02-03 08:39:50--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw033
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/59/11/1689/2433254/CCA2-Attack-and-Modification-of-Huang-et-al-s?redirectedFrom=fulltext [following]
+--2017-02-03 08:39:52--  https://academic.oup.com/comjnl/article-abstract/59/11/1689/2433254/CCA2-Attack-and-Modification-of-Huang-et-al-s?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 90925 (89K) [text/html]
+Saving to: ‘bxw033’
+
+     0K .......... .......... .......... .......... .......... 56%  303K 0s
+    50K .......... .......... .......... ........             100%  334K=0.3s
+
+2017-02-03 08:39:55 (316 KB/s) - ‘bxw033’ saved [90925/90925]
+
+--2017-02-03 08:39:56--  http://doi.org/10.1093/comjnl/bxw027
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw027 [following]
+--2017-02-03 08:39:57--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw027
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/59/12/1784/2608039/Mining-Feature-Models-from-Functional-Requirements?redirectedFrom=fulltext [following]
+--2017-02-03 08:39:59--  https://academic.oup.com/comjnl/article-abstract/59/12/1784/2608039/Mining-Feature-Models-from-Functional-Requirements?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 103001 (101K) [text/html]
+Saving to: ‘bxw027’
+
+     0K .......... .......... .......... .......... .......... 49%  205K 0s
+    50K .......... .......... .......... .......... .......... 99%  613K 0s
+   100K                                                       100% 1119G=0.3s
+
+2017-02-03 08:40:02 (309 KB/s) - ‘bxw027’ saved [103001/103001]
+
+--2017-02-03 08:40:03--  http://doi.org/10.1093/comjnl/bxw028
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw028 [following]
+--2017-02-03 08:40:04--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw028
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/59/12/1805/2608040/Test-Translation-for-Embedded-Finite-State-Machine?redirectedFrom=fulltext [following]
+--2017-02-03 08:40:06--  https://academic.oup.com/comjnl/article-abstract/59/12/1805/2608040/Test-Translation-for-Embedded-Finite-State-Machine?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 106443 (104K) [text/html]
+Saving to: ‘bxw028’
+
+     0K .......... .......... .......... .......... .......... 48%  205K 0s
+    50K .......... .......... .......... .......... .......... 96%  606K 0s
+   100K ...                                                   100% 18.2M=0.3s
+
+2017-02-03 08:40:10 (318 KB/s) - ‘bxw028’ saved [106443/106443]
+
+--2017-02-03 08:40:11--  http://doi.org/10.1093/comjnl/bxw023
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw023 [following]
+--2017-02-03 08:40:12--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/59/12/1749/2608036/A-Transformation-For-Optimizing-String-Matching?redirectedFrom=fulltext [following]
+--2017-02-03 08:40:14--  https://academic.oup.com/comjnl/article-abstract/59/12/1749/2608036/A-Transformation-For-Optimizing-String-Matching?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 94496 (92K) [text/html]
+Saving to: ‘bxw023’
+
+     0K .......... .......... .......... .......... .......... 54%  209K 0s
+    50K .......... .......... .......... .......... ..        100% 1.01M=0.3s
+
+2017-02-03 08:40:17 (329 KB/s) - ‘bxw023’ saved [94496/94496]
+
+--2017-02-03 08:40:18--  http://doi.org/10.1093/comjnl/bxw018
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw018 [following]
+--2017-02-03 08:40:19--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw018
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/59/8/1252/2595021/Complete-Balancing-via-Rotation?redirectedFrom=fulltext [following]
+--2017-02-03 08:40:21--  https://academic.oup.com/comjnl/article-abstract/59/8/1252/2595021/Complete-Balancing-via-Rotation?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 08:40:21 ERROR 400: Bad Request.
+
+--2017-02-03 08:40:22--  http://doi.org/10.1093/comjnl/bxw032
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw032 [following]
+--2017-02-03 08:40:23--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw032
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/59/12/1817/2608042/Performance-Analysis-of-a-Queue-by-Combining?redirectedFrom=fulltext [following]
+--2017-02-03 08:40:25--  https://academic.oup.com/comjnl/article-abstract/59/12/1817/2608042/Performance-Analysis-of-a-Queue-by-Combining?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 92442 (90K) [text/html]
+Saving to: ‘bxw032’
+
+     0K .......... .......... .......... .......... .......... 55%  309K 0s
+    50K .......... .......... .......... ..........           100%  255K=0.3s
+
+2017-02-03 08:40:28 (282 KB/s) - ‘bxw032’ saved [92442/92442]
+
+--2017-02-03 08:40:29--  http://doi.org/10.1093/comjnl/bxw020
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw020 [following]
+--2017-02-03 08:40:30--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw020
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/59/11/1612/2433249/A-Multidimension-Taxonomy-of-Insider-Threats-in?redirectedFrom=fulltext [following]
+--2017-02-03 08:40:32--  https://academic.oup.com/comjnl/article-abstract/59/11/1612/2433249/A-Multidimension-Taxonomy-of-Insider-Threats-in?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 93790 (92K) [text/html]
+Saving to: ‘bxw020’
+
+     0K .......... .......... .......... .......... .......... 54%  209K 0s
+    50K .......... .......... .......... .......... .         100% 1001K=0.3s
+
+2017-02-03 08:40:36 (326 KB/s) - ‘bxw020’ saved [93790/93790]
+
+--2017-02-03 08:40:37--  http://doi.org/10.1093/comjnl/bxw031
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw031 [following]
+--2017-02-03 08:40:38--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw031
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 08:40:38 ERROR 400: Bad Request.
+
+--2017-02-03 08:40:39--  http://doi.org/10.1093/comjnl/bxw026
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw026 [following]
+--2017-02-03 08:40:40--  https://academic.oup.com/comjnl/article-lookup/doi/10.1093/comjnl/bxw026
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /comjnl/article-abstract/59/12/1760/2608038/Provider-Based-Optimized-Personalized-Viable-SLA?redirectedFrom=fulltext [following]
+--2017-02-03 08:40:42--  https://academic.oup.com/comjnl/article-abstract/59/12/1760/2608038/Provider-Based-Optimized-Personalized-Viable-SLA?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 118561 (116K) [text/html]
+Saving to: ‘bxw026’
+
+     0K .......... .......... .......... .......... .......... 43%  209K 0s
+    50K .......... .......... .......... .......... .......... 86%  608K 0s
+   100K .......... .....                                      100% 9.67M=0.3s
+
+2017-02-03 08:40:45 (359 KB/s) - ‘bxw026’ saved [118561/118561]
+
+FINISHED --2017-02-03 08:40:45--
+Total wall clock time: 10m 49s
+Downloaded: 81 files, 7.9M in 25s (330 KB/s)

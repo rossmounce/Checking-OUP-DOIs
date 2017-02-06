@@ -1,0 +1,161 @@
+--2017-02-02 17:29:58--  http://doi.org/10.1093/jue/juw010
+Resolving doi.org (doi.org)... 38.100.138.163, 38.100.138.162, 208.254.38.90, ...
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jue.oxfordjournals.org/lookup/doi/10.1093/jue/juw010 [following]
+--2017-02-02 17:29:59--  http://jue.oxfordjournals.org/lookup/doi/10.1093/jue/juw010
+Resolving jue.oxfordjournals.org (jue.oxfordjournals.org)... 209.135.222.209
+Connecting to jue.oxfordjournals.org (jue.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jue.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jue/article/doi/10.1093/jue/juw010/2953327/Changes-in-spider-community-composition-are [following]
+--2017-02-02 17:30:00--  https://academic.oup.com/jue/article/doi/10.1093/jue/juw010/2953327/Changes-in-spider-community-composition-are
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 243295 (238K) [text/html]
+Saving to: ‘juw010’
+
+     0K .......... .......... .......... .......... .......... 21%  208K 1s
+    50K .......... .......... .......... .......... .......... 42%  596K 0s
+   100K .......... .......... .......... .......... .......... 63%  604K 0s
+   150K .......... .......... .......... .......... .......... 84%  603K 0s
+   200K .......... .......... .......... .......              100%  457K=0.6s
+
+2017-02-02 17:30:06 (415 KB/s) - ‘juw010’ saved [243295/243295]
+
+--2017-02-02 17:30:07--  http://doi.org/10.1093/jue/juw006
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jue.oxfordjournals.org/lookup/doi/10.1093/jue/juw006 [following]
+--2017-02-02 17:30:08--  http://jue.oxfordjournals.org/lookup/doi/10.1093/jue/juw006
+Connecting to jue.oxfordjournals.org (jue.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jue.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jue/article/doi/10.1093/jue/juw006/2875730/What-s-scale-got-to-do-with-it-Models-for-urban [following]
+--2017-02-02 17:30:09--  https://academic.oup.com/jue/article/doi/10.1093/jue/juw006/2875730/What-s-scale-got-to-do-with-it-Models-for-urban
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 17:30:10 ERROR 400: Bad Request.
+
+--2017-02-02 17:30:11--  http://doi.org/10.1093/jue/juw002
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jue/article-lookup/doi/10.1093/jue/juw002 [following]
+--2017-02-02 17:30:12--  https://academic.oup.com/jue/article-lookup/doi/10.1093/jue/juw002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 340636 (333K) [text/html]
+Saving to: ‘juw002’
+
+     0K .......... .......... .......... .......... .......... 15%  209K 1s
+    50K .......... .......... .......... .......... .......... 30%  582K 1s
+   100K .......... .......... .......... .......... .......... 45%  601K 0s
+   150K .......... .......... .......... .......... .......... 60%  595K 0s
+   200K .......... .......... .......... .......... .......... 75%  319K 0s
+   250K .......... .......... .......... .......... .......... 90%  610K 0s
+   300K .......... .......... .......... ..                   100%  403K=0.8s
+
+2017-02-02 17:30:19 (410 KB/s) - ‘juw002’ saved [340636/340636]
+
+--2017-02-02 17:30:20--  http://doi.org/10.1093/jue/juw001
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jue/article-lookup/doi/10.1093/jue/juw001 [following]
+--2017-02-02 17:30:21--  https://academic.oup.com/jue/article-lookup/doi/10.1093/jue/juw001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 215765 (211K) [text/html]
+Saving to: ‘juw001’
+
+     0K .......... .......... .......... .......... .......... 23%  209K 1s
+    50K .......... .......... .......... .......... .......... 47%  587K 0s
+   100K .......... .......... .......... .......... .......... 71%  583K 0s
+   150K .......... .......... .......... .......... .......... 94%  608K 0s
+   200K ..........                                            100%  149K=0.6s
+
+2017-02-02 17:30:25 (374 KB/s) - ‘juw001’ saved [215765/215765]
+
+--2017-02-02 17:30:26--  http://doi.org/10.1093/jue/juv004
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jue/article-lookup/doi/10.1093/jue/juv004 [following]
+--2017-02-02 17:30:27--  https://academic.oup.com/jue/article-lookup/doi/10.1093/jue/juv004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 110661 (108K) [text/html]
+Saving to: ‘juv004’
+
+     0K .......... .......... .......... .......... .......... 46%  207K 0s
+    50K .......... .......... .......... .......... .......... 92%  601K 0s
+   100K ........                                              100% 33.0M=0.3s
+
+2017-02-02 17:30:31 (333 KB/s) - ‘juv004’ saved [110661/110661]
+
+--2017-02-02 17:30:32--  http://doi.org/10.1093/jue/juw003
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jue/article-lookup/doi/10.1093/jue/juw003 [following]
+--2017-02-02 17:30:34--  https://academic.oup.com/jue/article-lookup/doi/10.1093/jue/juw003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 322219 (315K) [text/html]
+Saving to: ‘juw003’
+
+     0K .......... .......... .......... .......... .......... 15%  208K 1s
+    50K .......... .......... .......... .......... .......... 31%  599K 1s
+   100K .......... .......... .......... .......... .......... 47%  608K 0s
+   150K .......... .......... .......... .......... .......... 63%  578K 0s
+   200K .......... .......... .......... .......... .......... 79%  315K 0s
+   250K .......... .......... .......... .......... .......... 95%  595K 0s
+   300K .......... ....                                       100% 22.5M=0.7s
+
+2017-02-02 17:30:38 (428 KB/s) - ‘juw003’ saved [322219/322219]
+
+--2017-02-02 17:30:39--  http://doi.org/10.1093/jue/juw005
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jue/article-lookup/doi/10.1093/jue/juw005 [following]
+--2017-02-02 17:30:40--  https://academic.oup.com/jue/article-lookup/doi/10.1093/jue/juw005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 141280 (138K) [text/html]
+Saving to: ‘juw005’
+
+     0K .......... .......... .......... .......... .......... 36%  209K 0s
+    50K .......... .......... .......... .......... .......... 72%  610K 0s
+   100K .......... .......... .......... .......              100%  474K=0.4s
+
+2017-02-02 17:30:43 (344 KB/s) - ‘juw005’ saved [141280/141280]
+
+--2017-02-02 17:30:44--  http://doi.org/10.1093/jue/juw004
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jue/article-lookup/doi/10.1093/jue/juw004 [following]
+--2017-02-02 17:30:46--  https://academic.oup.com/jue/article-lookup/doi/10.1093/jue/juw004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 17:30:46 ERROR 400: Bad Request.
+
+--2017-02-02 17:30:47--  http://doi.org/10.1093/jue/juv003
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jue/article-lookup/doi/10.1093/jue/juv003 [following]
+--2017-02-02 17:30:48--  https://academic.oup.com/jue/article-lookup/doi/10.1093/jue/juv003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 291463 (285K) [text/html]
+Saving to: ‘juv003’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 35%  608K 1s
+   100K .......... .......... .......... .......... .......... 52%  591K 0s
+   150K .......... .......... .......... .......... .......... 70%  319K 0s
+   200K .......... .......... .......... .......... .......... 87%  599K 0s
+   250K .......... .......... .......... ....                 100%  432K=0.7s
+
+2017-02-02 17:30:52 (392 KB/s) - ‘juv003’ saved [291463/291463]
+
+FINISHED --2017-02-02 17:30:52--
+Total wall clock time: 55s
+Downloaded: 7 files, 1.6M in 4.1s (393 KB/s)

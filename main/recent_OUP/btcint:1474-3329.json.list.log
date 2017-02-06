@@ -1,0 +1,1414 @@
+--2017-02-03 04:42:02--  http://doi.org/10.50505/btcitest
+Resolving doi.org (doi.org)... 208.254.38.90, 95.138.171.129, 38.100.138.163, ...
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.50505%2FBTCItest [following]
+--2017-02-03 04:42:03--  http://mr.crossref.org/iPage?doi=10.50505%2FBTCItest
+Resolving mr.crossref.org (mr.crossref.org)... 208.254.38.80
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3978 (3.9K) [text/html]
+Saving to: ‘btcitest’
+
+     0K ...                                                   100%  239M=0s
+
+2017-02-03 04:42:04 (239 MB/s) - ‘btcitest’ saved [3978/3978]
+
+--2017-02-03 04:42:05--  http://doi.org/10.50505/mrtest2
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/iPage?doi=10.50505%2Fmrtest2 [following]
+--2017-02-03 04:42:06--  http://www.crossref.org/iPage?doi=10.50505%2Fmrtest2
+Resolving www.crossref.org (www.crossref.org)... 88.198.200.74
+Connecting to www.crossref.org (www.crossref.org)|88.198.200.74|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.crossref.org/iPage?doi=10.50505%2Fmrtest2 [following]
+--2017-02-03 04:42:12--  https://www.crossref.org/iPage?doi=10.50505%2Fmrtest2
+Connecting to www.crossref.org (www.crossref.org)|88.198.200.74|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://mr.crossref.org/iPage?doi=10.50505%2Fmrtest2 [following]
+--2017-02-03 04:42:13--  https://mr.crossref.org/iPage?doi=10.50505%2Fmrtest2
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3981 (3.9K) [text/html]
+Saving to: ‘mrtest2’
+
+     0K ...                                                   100% 6.35M=0.001s
+
+2017-02-03 04:42:13 (6.35 MB/s) - ‘mrtest2’ saved [3981/3981]
+
+--2017-02-03 04:42:14--  http://doi.org/10.1093/brief-treatment/mhn023
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn023 [following]
+--2017-02-03 04:42:16--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn023
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4305 (4.2K) [text/html]
+Saving to: ‘mhn023’
+
+     0K ....                                                  100%  179M=0s
+
+2017-02-03 04:42:16 (179 MB/s) - ‘mhn023’ saved [4305/4305]
+
+--2017-02-03 04:42:17--  http://doi.org/10.1093/brief-treatment/mhn022
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn022 [following]
+--2017-02-03 04:42:18--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn022
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4283 (4.2K) [text/html]
+Saving to: ‘mhn022’
+
+     0K ....                                                  100%  175M=0s
+
+2017-02-03 04:42:19 (175 MB/s) - ‘mhn022’ saved [4283/4283]
+
+--2017-02-03 04:42:20--  http://doi.org/10.1093/brief-treatment/mhn016
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn016 [following]
+--2017-02-03 04:42:21--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn016
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4234 (4.1K) [text/html]
+Saving to: ‘mhn016’
+
+     0K ....                                                  100%  262M=0s
+
+2017-02-03 04:42:21 (262 MB/s) - ‘mhn016’ saved [4234/4234]
+
+--2017-02-03 04:42:22--  http://doi.org/10.1093/brief-treatment/mhn018
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn018 [following]
+--2017-02-03 04:42:23--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn018
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4192 (4.1K) [text/html]
+Saving to: ‘mhn018’
+
+     0K ....                                                  100%  259M=0s
+
+2017-02-03 04:42:24 (259 MB/s) - ‘mhn018’ saved [4192/4192]
+
+--2017-02-03 04:42:25--  http://doi.org/10.1093/brief-treatment/mhn017
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn017 [following]
+--2017-02-03 04:42:26--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn017
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4255 (4.2K) [text/html]
+Saving to: ‘mhn017’
+
+     0K ....                                                  100%  228M=0s
+
+2017-02-03 04:42:26 (228 MB/s) - ‘mhn017’ saved [4255/4255]
+
+--2017-02-03 04:42:27--  http://doi.org/10.1093/brief-treatment/mhn020
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn020 [following]
+--2017-02-03 04:42:28--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn020
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4240 (4.1K) [text/html]
+Saving to: ‘mhn020’
+
+     0K ....                                                  100%  266M=0s
+
+2017-02-03 04:42:28 (266 MB/s) - ‘mhn020’ saved [4240/4240]
+
+--2017-02-03 04:42:29--  http://doi.org/10.1093/brief-treatment/mhn019
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn019 [following]
+--2017-02-03 04:42:31--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn019
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4274 (4.2K) [text/html]
+Saving to: ‘mhn019’
+
+     0K ....                                                  100%  253M=0s
+
+2017-02-03 04:42:31 (253 MB/s) - ‘mhn019’ saved [4274/4274]
+
+--2017-02-03 04:42:32--  http://doi.org/10.1093/brief-treatment/mhn021
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn021 [following]
+--2017-02-03 04:42:33--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn021
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4280 (4.2K) [text/html]
+Saving to: ‘mhn021’
+
+     0K ....                                                  100%  257M=0s
+
+2017-02-03 04:42:36 (257 MB/s) - ‘mhn021’ saved [4280/4280]
+
+--2017-02-03 04:42:37--  http://doi.org/10.1093/brief-treatment/mhn024
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn024 [following]
+--2017-02-03 04:42:39--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn024
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4261 (4.2K) [text/html]
+Saving to: ‘mhn024’
+
+     0K ....                                                  100%  188M=0s
+
+2017-02-03 04:42:39 (188 MB/s) - ‘mhn024’ saved [4261/4261]
+
+--2017-02-03 04:42:40--  http://doi.org/10.1093/brief-treatment/mhn025
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn025 [following]
+--2017-02-03 04:42:41--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn025
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4276 (4.2K) [text/html]
+Saving to: ‘mhn025’
+
+     0K ....                                                  100%  268M=0s
+
+2017-02-03 04:42:41 (268 MB/s) - ‘mhn025’ saved [4276/4276]
+
+--2017-02-03 04:42:42--  http://doi.org/10.1093/brief-treatment/mhp001
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhp001 [following]
+--2017-02-03 04:42:44--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhp001
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4220 (4.1K) [text/html]
+Saving to: ‘mhp001’
+
+     0K ....                                                  100%  264M=0s
+
+2017-02-03 04:42:44 (264 MB/s) - ‘mhp001’ saved [4220/4220]
+
+--2017-02-03 04:42:45--  http://doi.org/10.1093/brief-treatment/mhn014
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn014 [following]
+--2017-02-03 04:42:46--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn014
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4222 (4.1K) [text/html]
+Saving to: ‘mhn014’
+
+     0K ....                                                  100%  246M=0s
+
+2017-02-03 04:42:47 (246 MB/s) - ‘mhn014’ saved [4222/4222]
+
+--2017-02-03 04:42:48--  http://doi.org/10.1093/brief-treatment/mhn015
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn015 [following]
+--2017-02-03 04:42:49--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn015
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4251 (4.2K) [text/html]
+Saving to: ‘mhn015’
+
+     0K ....                                                  100%  264M=0s
+
+2017-02-03 04:42:49 (264 MB/s) - ‘mhn015’ saved [4251/4251]
+
+--2017-02-03 04:42:50--  http://doi.org/10.1093/brief-treatment/mhn013
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn013 [following]
+--2017-02-03 04:42:51--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn013
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4204 (4.1K) [text/html]
+Saving to: ‘mhn013’
+
+     0K ....                                                  100%  253M=0s
+
+2017-02-03 04:42:53 (253 MB/s) - ‘mhn013’ saved [4204/4204]
+
+--2017-02-03 04:42:54--  http://doi.org/10.1093/brief-treatment/mhn012
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn012 [following]
+--2017-02-03 04:42:55--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn012
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4205 (4.1K) [text/html]
+Saving to: ‘mhn012’
+
+     0K ....                                                  100%  266M=0s
+
+2017-02-03 04:42:55 (266 MB/s) - ‘mhn012’ saved [4205/4205]
+
+--2017-02-03 04:42:56--  http://doi.org/10.1093/brief-treatment/mhn010
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn010 [following]
+--2017-02-03 04:42:58--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn010
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4269 (4.2K) [text/html]
+Saving to: ‘mhn010’
+
+     0K ....                                                  100%  252M=0s
+
+2017-02-03 04:42:58 (252 MB/s) - ‘mhn010’ saved [4269/4269]
+
+--2017-02-03 04:42:59--  http://doi.org/10.1093/brief-treatment/mhn005
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn005 [following]
+--2017-02-03 04:43:01--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn005
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4223 (4.1K) [text/html]
+Saving to: ‘mhn005’
+
+     0K ....                                                  100%  252M=0s
+
+2017-02-03 04:43:01 (252 MB/s) - ‘mhn005’ saved [4223/4223]
+
+--2017-02-03 04:43:02--  http://doi.org/10.1093/brief-treatment/mhn003
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn003 [following]
+--2017-02-03 04:43:03--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn003
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4204 (4.1K) [text/html]
+Saving to: ‘mhn003’
+
+     0K ....                                                  100%  255M=0s
+
+2017-02-03 04:43:04 (255 MB/s) - ‘mhn003’ saved [4204/4204]
+
+--2017-02-03 04:43:05--  http://doi.org/10.1093/brief-treatment/mhn006
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn006 [following]
+--2017-02-03 04:43:06--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn006
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4239 (4.1K) [text/html]
+Saving to: ‘mhn006’
+
+     0K ....                                                  100%  260M=0s
+
+2017-02-03 04:43:06 (260 MB/s) - ‘mhn006’ saved [4239/4239]
+
+--2017-02-03 04:43:07--  http://doi.org/10.1093/brief-treatment/mhn007
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn007 [following]
+--2017-02-03 04:43:08--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn007
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4283 (4.2K) [text/html]
+Saving to: ‘mhn007’
+
+     0K ....                                                  100%  252M=0s
+
+2017-02-03 04:43:08 (252 MB/s) - ‘mhn007’ saved [4283/4283]
+
+--2017-02-03 04:43:09--  http://doi.org/10.1093/brief-treatment/mhn011
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn011 [following]
+--2017-02-03 04:43:11--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn011
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4212 (4.1K) [text/html]
+Saving to: ‘mhn011’
+
+     0K ....                                                  100%  256M=0s
+
+2017-02-03 04:43:11 (256 MB/s) - ‘mhn011’ saved [4212/4212]
+
+--2017-02-03 04:43:12--  http://doi.org/10.1093/brief-treatment/mhn002
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn002 [following]
+--2017-02-03 04:43:13--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn002
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4173 (4.1K) [text/html]
+Saving to: ‘mhn002’
+
+     0K ....                                                  100%  249M=0s
+
+2017-02-03 04:43:13 (249 MB/s) - ‘mhn002’ saved [4173/4173]
+
+--2017-02-03 04:43:14--  http://doi.org/10.1093/brief-treatment/mhn004
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn004 [following]
+--2017-02-03 04:43:16--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn004
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4200 (4.1K) [text/html]
+Saving to: ‘mhn004’
+
+     0K ....                                                  100%  257M=0s
+
+2017-02-03 04:43:16 (257 MB/s) - ‘mhn004’ saved [4200/4200]
+
+--2017-02-03 04:43:17--  http://doi.org/10.1093/brief-treatment/mhn001
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn001 [following]
+--2017-02-03 04:43:18--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhn001
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4234 (4.1K) [text/html]
+Saving to: ‘mhn001’
+
+     0K ....                                                  100%  263M=0s
+
+2017-02-03 04:43:18 (263 MB/s) - ‘mhn001’ saved [4234/4234]
+
+--2017-02-03 04:43:19--  http://doi.org/10.1093/brief-treatment/mhm029
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm029 [following]
+--2017-02-03 04:43:21--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm029
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4246 (4.1K) [text/html]
+Saving to: ‘mhm029’
+
+     0K ....                                                  100%  265M=0s
+
+2017-02-03 04:43:21 (265 MB/s) - ‘mhm029’ saved [4246/4246]
+
+--2017-02-03 04:43:22--  http://doi.org/10.1093/brief-treatment/mhm030
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm030 [following]
+--2017-02-03 04:43:23--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm030
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4232 (4.1K) [text/html]
+Saving to: ‘mhm030’
+
+     0K ....                                                  100%  528M=0s
+
+2017-02-03 04:43:23 (528 MB/s) - ‘mhm030’ saved [4232/4232]
+
+--2017-02-03 04:43:24--  http://doi.org/10.1093/brief-treatment/mhm027
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm027 [following]
+--2017-02-03 04:43:26--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm027
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4201 (4.1K) [text/html]
+Saving to: ‘mhm027’
+
+     0K ....                                                  100%  249M=0s
+
+2017-02-03 04:43:26 (249 MB/s) - ‘mhm027’ saved [4201/4201]
+
+--2017-02-03 04:43:27--  http://doi.org/10.1093/brief-treatment/mhm022
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm022 [following]
+--2017-02-03 04:43:28--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm022
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4222 (4.1K) [text/html]
+Saving to: ‘mhm022’
+
+     0K ....                                                  100%  218M=0s
+
+2017-02-03 04:43:28 (218 MB/s) - ‘mhm022’ saved [4222/4222]
+
+--2017-02-03 04:43:29--  http://doi.org/10.1093/brief-treatment/mhm023
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm023 [following]
+--2017-02-03 04:43:30--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm023
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4195 (4.1K) [text/html]
+Saving to: ‘mhm023’
+
+     0K ....                                                  100%  251M=0s
+
+2017-02-03 04:43:31 (251 MB/s) - ‘mhm023’ saved [4195/4195]
+
+--2017-02-03 04:43:32--  http://doi.org/10.1093/brief-treatment/mhm024
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm024 [following]
+--2017-02-03 04:43:33--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm024
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4224 (4.1K) [text/html]
+Saving to: ‘mhm024’
+
+     0K ....                                                  100%  264M=0s
+
+2017-02-03 04:43:33 (264 MB/s) - ‘mhm024’ saved [4224/4224]
+
+--2017-02-03 04:43:34--  http://doi.org/10.1093/brief-treatment/mhm026
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm026 [following]
+--2017-02-03 04:43:35--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm026
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4300 (4.2K) [text/html]
+Saving to: ‘mhm026’
+
+     0K ....                                                  100%  265M=0s
+
+2017-02-03 04:43:36 (265 MB/s) - ‘mhm026’ saved [4300/4300]
+
+--2017-02-03 04:43:37--  http://doi.org/10.1093/brief-treatment/mhm028
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm028 [following]
+--2017-02-03 04:43:38--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm028
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4200 (4.1K) [text/html]
+Saving to: ‘mhm028’
+
+     0K ....                                                  100%  259M=0s
+
+2017-02-03 04:43:38 (259 MB/s) - ‘mhm028’ saved [4200/4200]
+
+--2017-02-03 04:43:39--  http://doi.org/10.1093/brief-treatment/mhm025
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm025 [following]
+--2017-02-03 04:43:40--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm025
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4208 (4.1K) [text/html]
+Saving to: ‘mhm025’
+
+     0K ....                                                  100%  255M=0s
+
+2017-02-03 04:43:41 (255 MB/s) - ‘mhm025’ saved [4208/4208]
+
+--2017-02-03 04:43:42--  http://doi.org/10.1093/brief-treatment/mhm017
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm017 [following]
+--2017-02-03 04:43:43--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm017
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4278 (4.2K) [text/html]
+Saving to: ‘mhm017’
+
+     0K ....                                                  100%  249M=0s
+
+2017-02-03 04:43:43 (249 MB/s) - ‘mhm017’ saved [4278/4278]
+
+--2017-02-03 04:43:44--  http://doi.org/10.1093/brief-treatment/mhm019
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm019 [following]
+--2017-02-03 04:43:45--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm019
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4276 (4.2K) [text/html]
+Saving to: ‘mhm019’
+
+     0K ....                                                  100%  246M=0s
+
+2017-02-03 04:43:46 (246 MB/s) - ‘mhm019’ saved [4276/4276]
+
+--2017-02-03 04:43:47--  http://doi.org/10.1093/brief-treatment/mhm013
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm013 [following]
+--2017-02-03 04:43:48--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm013
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4213 (4.1K) [text/html]
+Saving to: ‘mhm013’
+
+     0K ....                                                  100%  250M=0s
+
+2017-02-03 04:43:48 (250 MB/s) - ‘mhm013’ saved [4213/4213]
+
+--2017-02-03 04:43:49--  http://doi.org/10.1093/brief-treatment/mhm021
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm021 [following]
+--2017-02-03 04:43:50--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm021
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4220 (4.1K) [text/html]
+Saving to: ‘mhm021’
+
+     0K ....                                                  100%  247M=0s
+
+2017-02-03 04:43:51 (247 MB/s) - ‘mhm021’ saved [4220/4220]
+
+--2017-02-03 04:43:52--  http://doi.org/10.1093/brief-treatment/mhm016
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm016 [following]
+--2017-02-03 04:43:53--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm016
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4243 (4.1K) [text/html]
+Saving to: ‘mhm016’
+
+     0K ....                                                  100%  266M=0s
+
+2017-02-03 04:43:53 (266 MB/s) - ‘mhm016’ saved [4243/4243]
+
+--2017-02-03 04:43:54--  http://doi.org/10.1093/brief-treatment/mhm015
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm015 [following]
+--2017-02-03 04:43:55--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm015
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4267 (4.2K) [text/html]
+Saving to: ‘mhm015’
+
+     0K ....                                                  100%  185M=0s
+
+2017-02-03 04:43:56 (185 MB/s) - ‘mhm015’ saved [4267/4267]
+
+--2017-02-03 04:43:57--  http://doi.org/10.1093/brief-treatment/mhm014
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm014 [following]
+--2017-02-03 04:43:58--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm014
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4245 (4.1K) [text/html]
+Saving to: ‘mhm014’
+
+     0K ....                                                  100%  254M=0s
+
+2017-02-03 04:43:58 (254 MB/s) - ‘mhm014’ saved [4245/4245]
+
+--2017-02-03 04:43:59--  http://doi.org/10.1093/brief-treatment/mhm018
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm018 [following]
+--2017-02-03 04:44:00--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm018
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4268 (4.2K) [text/html]
+Saving to: ‘mhm018’
+
+     0K ....                                                  100%  268M=0s
+
+2017-02-03 04:44:01 (268 MB/s) - ‘mhm018’ saved [4268/4268]
+
+--2017-02-03 04:44:02--  http://doi.org/10.1093/brief-treatment/mhm011
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm011 [following]
+--2017-02-03 04:44:03--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm011
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4223 (4.1K) [text/html]
+Saving to: ‘mhm011’
+
+     0K ....                                                  100%  259M=0s
+
+2017-02-03 04:44:03 (259 MB/s) - ‘mhm011’ saved [4223/4223]
+
+--2017-02-03 04:44:04--  http://doi.org/10.1093/brief-treatment/mhm010
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm010 [following]
+--2017-02-03 04:44:05--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm010
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4228 (4.1K) [text/html]
+Saving to: ‘mhm010’
+
+     0K ....                                                  100%  229M=0s
+
+2017-02-03 04:44:06 (229 MB/s) - ‘mhm010’ saved [4228/4228]
+
+--2017-02-03 04:44:07--  http://doi.org/10.1093/brief-treatment/mhm012
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm012 [following]
+--2017-02-03 04:44:08--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm012
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4238 (4.1K) [text/html]
+Saving to: ‘mhm012’
+
+     0K ....                                                  100%  220M=0s
+
+2017-02-03 04:44:08 (220 MB/s) - ‘mhm012’ saved [4238/4238]
+
+--2017-02-03 04:44:09--  http://doi.org/10.1093/brief-treatment/mhm009
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm009 [following]
+--2017-02-03 04:44:10--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm009
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4254 (4.2K) [text/html]
+Saving to: ‘mhm009’
+
+     0K ....                                                  100%  249M=0s
+
+2017-02-03 04:44:11 (249 MB/s) - ‘mhm009’ saved [4254/4254]
+
+--2017-02-03 04:44:12--  http://doi.org/10.1093/brief-treatment/mhm007
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm007 [following]
+--2017-02-03 04:44:13--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm007
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4229 (4.1K) [text/html]
+Saving to: ‘mhm007’
+
+     0K ....                                                  100%  421M=0s
+
+2017-02-03 04:44:13 (421 MB/s) - ‘mhm007’ saved [4229/4229]
+
+--2017-02-03 04:44:14--  http://doi.org/10.1093/brief-treatment/mhm008
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm008 [following]
+--2017-02-03 04:44:16--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm008
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4256 (4.2K) [text/html]
+Saving to: ‘mhm008’
+
+     0K ....                                                  100%  258M=0s
+
+2017-02-03 04:44:16 (258 MB/s) - ‘mhm008’ saved [4256/4256]
+
+--2017-02-03 04:44:17--  http://doi.org/10.1093/brief-treatment/mhm006
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm006 [following]
+--2017-02-03 04:44:18--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm006
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4222 (4.1K) [text/html]
+Saving to: ‘mhm006’
+
+     0K ....                                                  100%  251M=0s
+
+2017-02-03 04:44:18 (251 MB/s) - ‘mhm006’ saved [4222/4222]
+
+--2017-02-03 04:44:19--  http://doi.org/10.1093/brief-treatment/mhm004
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm004 [following]
+--2017-02-03 04:44:20--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm004
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4320 (4.2K) [text/html]
+Saving to: ‘mhm004’
+
+     0K ....                                                  100%  269M=0s
+
+2017-02-03 04:44:21 (269 MB/s) - ‘mhm004’ saved [4320/4320]
+
+--2017-02-03 04:44:22--  http://doi.org/10.1093/brief-treatment/mhm005
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm005 [following]
+--2017-02-03 04:44:23--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm005
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4182 (4.1K) [text/html]
+Saving to: ‘mhm005’
+
+     0K ....                                                  100%  213M=0s
+
+2017-02-03 04:44:23 (213 MB/s) - ‘mhm005’ saved [4182/4182]
+
+--2017-02-03 04:44:24--  http://doi.org/10.1093/brief-treatment/mhm002
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm002 [following]
+--2017-02-03 04:44:25--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm002
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4304 (4.2K) [text/html]
+Saving to: ‘mhm002’
+
+     0K ....                                                  100%  226M=0s
+
+2017-02-03 04:44:26 (226 MB/s) - ‘mhm002’ saved [4304/4304]
+
+--2017-02-03 04:44:27--  http://doi.org/10.1093/brief-treatment/mhm003
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm003 [following]
+--2017-02-03 04:44:28--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm003
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4282 (4.2K) [text/html]
+Saving to: ‘mhm003’
+
+     0K ....                                                  100%  225M=0s
+
+2017-02-03 04:44:28 (225 MB/s) - ‘mhm003’ saved [4282/4282]
+
+--2017-02-03 04:44:29--  http://doi.org/10.1093/brief-treatment/mhm001
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm001 [following]
+--2017-02-03 04:44:30--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhm001
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4278 (4.2K) [text/html]
+Saving to: ‘mhm001’
+
+     0K ....                                                  100%  257M=0s
+
+2017-02-03 04:44:31 (257 MB/s) - ‘mhm001’ saved [4278/4278]
+
+--2017-02-03 04:44:32--  http://doi.org/10.1093/brief-treatment/mhl021
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhl021 [following]
+--2017-02-03 04:44:33--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhl021
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4309 (4.2K) [text/html]
+Saving to: ‘mhl021’
+
+     0K ....                                                  100%  264M=0s
+
+2017-02-03 04:44:33 (264 MB/s) - ‘mhl021’ saved [4309/4309]
+
+--2017-02-03 04:44:34--  http://doi.org/10.1093/brief-treatment/mhl020
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhl020 [following]
+--2017-02-03 04:44:35--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhl020
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4323 (4.2K) [text/html]
+Saving to: ‘mhl020’
+
+     0K ....                                                  100%  249M=0s
+
+2017-02-03 04:44:36 (249 MB/s) - ‘mhl020’ saved [4323/4323]
+
+--2017-02-03 04:44:37--  http://doi.org/10.1093/brief-treatment/mhl018
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhl018 [following]
+--2017-02-03 04:44:38--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhl018
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4237 (4.1K) [text/html]
+Saving to: ‘mhl018’
+
+     0K ....                                                  100%  220M=0s
+
+2017-02-03 04:44:38 (220 MB/s) - ‘mhl018’ saved [4237/4237]
+
+--2017-02-03 04:44:39--  http://doi.org/10.1093/brief-treatment/mhl015
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhl015 [following]
+--2017-02-03 04:44:40--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhl015
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4305 (4.2K) [text/html]
+Saving to: ‘mhl015’
+
+     0K ....                                                  100%  239M=0s
+
+2017-02-03 04:44:41 (239 MB/s) - ‘mhl015’ saved [4305/4305]
+
+--2017-02-03 04:44:42--  http://doi.org/10.1093/brief-treatment/mhl019
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhl019 [following]
+--2017-02-03 04:44:43--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhl019
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4238 (4.1K) [text/html]
+Saving to: ‘mhl019’
+
+     0K ....                                                  100%  263M=0s
+
+2017-02-03 04:44:43 (263 MB/s) - ‘mhl019’ saved [4238/4238]
+
+--2017-02-03 04:44:44--  http://doi.org/10.1093/brief-treatment/mhl017
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhl017 [following]
+--2017-02-03 04:44:45--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhl017
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4276 (4.2K) [text/html]
+Saving to: ‘mhl017’
+
+     0K ....                                                  100%  198M=0s
+
+2017-02-03 04:44:46 (198 MB/s) - ‘mhl017’ saved [4276/4276]
+
+--2017-02-03 04:44:47--  http://doi.org/10.1093/brief-treatment/mhl016
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhl016 [following]
+--2017-02-03 04:44:48--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhl016
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4209 (4.1K) [text/html]
+Saving to: ‘mhl016’
+
+     0K ....                                                  100%  205M=0s
+
+2017-02-03 04:44:50 (205 MB/s) - ‘mhl016’ saved [4209/4209]
+
+--2017-02-03 04:44:51--  http://doi.org/10.1093/brief-treatment/mhl010
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhl010 [following]
+--2017-02-03 04:44:52--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhl010
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4266 (4.2K) [text/html]
+Saving to: ‘mhl010’
+
+     0K ....                                                  100%  261M=0s
+
+2017-02-03 04:44:52 (261 MB/s) - ‘mhl010’ saved [4266/4266]
+
+--2017-02-03 04:44:53--  http://doi.org/10.1093/brief-treatment/mhl013
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhl013 [following]
+--2017-02-03 04:44:54--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhl013
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4281 (4.2K) [text/html]
+Saving to: ‘mhl013’
+
+     0K ....                                                  100%  257M=0s
+
+2017-02-03 04:44:55 (257 MB/s) - ‘mhl013’ saved [4281/4281]
+
+--2017-02-03 04:44:56--  http://doi.org/10.1093/brief-treatment/mhl009
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhl009 [following]
+--2017-02-03 04:44:57--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhl009
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4272 (4.2K) [text/html]
+Saving to: ‘mhl009’
+
+     0K ....                                                  100%  219M=0s
+
+2017-02-03 04:44:57 (219 MB/s) - ‘mhl009’ saved [4272/4272]
+
+--2017-02-03 04:44:58--  http://doi.org/10.1093/brief-treatment/mhl014
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhl014 [following]
+--2017-02-03 04:45:00--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhl014
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4282 (4.2K) [text/html]
+Saving to: ‘mhl014’
+
+     0K ....                                                  100%  251M=0s
+
+2017-02-03 04:45:00 (251 MB/s) - ‘mhl014’ saved [4282/4282]
+
+--2017-02-03 04:45:01--  http://doi.org/10.1093/brief-treatment/mhl011
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhl011 [following]
+--2017-02-03 04:45:02--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhl011
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4274 (4.2K) [text/html]
+Saving to: ‘mhl011’
+
+     0K ....                                                  100%  268M=0s
+
+2017-02-03 04:45:02 (268 MB/s) - ‘mhl011’ saved [4274/4274]
+
+--2017-02-03 04:45:03--  http://doi.org/10.1093/brief-treatment/mhl012
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhl012 [following]
+--2017-02-03 04:45:04--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhl012
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4373 (4.3K) [text/html]
+Saving to: ‘mhl012’
+
+     0K ....                                                  100%  273M=0s
+
+2017-02-03 04:45:05 (273 MB/s) - ‘mhl012’ saved [4373/4373]
+
+--2017-02-03 04:45:06--  http://doi.org/10.1093/brief-treatment/mhl008
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhl008 [following]
+--2017-02-03 04:45:07--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhl008
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4290 (4.2K) [text/html]
+Saving to: ‘mhl008’
+
+     0K ....                                                  100%  260M=0s
+
+2017-02-03 04:45:07 (260 MB/s) - ‘mhl008’ saved [4290/4290]
+
+--2017-02-03 04:45:08--  http://doi.org/10.1093/brief-treatment/mhl001
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhl001 [following]
+--2017-02-03 04:45:09--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhl001
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4232 (4.1K) [text/html]
+Saving to: ‘mhl001’
+
+     0K ....                                                  100%  254M=0s
+
+2017-02-03 04:45:10 (254 MB/s) - ‘mhl001’ saved [4232/4232]
+
+--2017-02-03 04:45:11--  http://doi.org/10.1093/brief-treatment/mhl005
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhl005 [following]
+--2017-02-03 04:45:12--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhl005
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4268 (4.2K) [text/html]
+Saving to: ‘mhl005’
+
+     0K ....                                                  100%  245M=0s
+
+2017-02-03 04:45:13 (245 MB/s) - ‘mhl005’ saved [4268/4268]
+
+--2017-02-03 04:45:14--  http://doi.org/10.1093/brief-treatment/mhl007
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhl007 [following]
+--2017-02-03 04:45:15--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhl007
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4236 (4.1K) [text/html]
+Saving to: ‘mhl007’
+
+     0K ....                                                  100%  253M=0s
+
+2017-02-03 04:45:15 (253 MB/s) - ‘mhl007’ saved [4236/4236]
+
+--2017-02-03 04:45:16--  http://doi.org/10.1093/brief-treatment/mhl004
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhl004 [following]
+--2017-02-03 04:45:17--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhl004
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4298 (4.2K) [text/html]
+Saving to: ‘mhl004’
+
+     0K ....                                                  100%  194M=0s
+
+2017-02-03 04:45:18 (194 MB/s) - ‘mhl004’ saved [4298/4298]
+
+--2017-02-03 04:45:19--  http://doi.org/10.1093/brief-treatment/mhl002
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhl002 [following]
+--2017-02-03 04:45:20--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhl002
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4269 (4.2K) [text/html]
+Saving to: ‘mhl002’
+
+     0K ....                                                  100%  214M=0s
+
+2017-02-03 04:45:20 (214 MB/s) - ‘mhl002’ saved [4269/4269]
+
+--2017-02-03 04:45:21--  http://doi.org/10.1093/brief-treatment/mhl006
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhl006 [following]
+--2017-02-03 04:45:22--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhl006
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4269 (4.2K) [text/html]
+Saving to: ‘mhl006’
+
+     0K ....                                                  100%  242M=0s
+
+2017-02-03 04:45:22 (242 MB/s) - ‘mhl006’ saved [4269/4269]
+
+--2017-02-03 04:45:23--  http://doi.org/10.1093/brief-treatment/mhl003
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhl003 [following]
+--2017-02-03 04:45:24--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhl003
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4245 (4.1K) [text/html]
+Saving to: ‘mhl003’
+
+     0K ....                                                  100%  264M=0s
+
+2017-02-03 04:45:25 (264 MB/s) - ‘mhl003’ saved [4245/4245]
+
+--2017-02-03 04:45:26--  http://doi.org/10.1093/brief-treatment/mhj008
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhj008 [following]
+--2017-02-03 04:45:27--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhj008
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4200 (4.1K) [text/html]
+Saving to: ‘mhj008’
+
+     0K ....                                                  100%  222M=0s
+
+2017-02-03 04:45:28 (222 MB/s) - ‘mhj008’ saved [4200/4200]
+
+--2017-02-03 04:45:29--  http://doi.org/10.1093/brief-treatment/mhj010
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhj010 [following]
+--2017-02-03 04:45:30--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhj010
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4255 (4.2K) [text/html]
+Saving to: ‘mhj010’
+
+     0K ....                                                  100%  256M=0s
+
+2017-02-03 04:45:31 (256 MB/s) - ‘mhj010’ saved [4255/4255]
+
+--2017-02-03 04:45:32--  http://doi.org/10.1093/brief-treatment/mhj017
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhj017 [following]
+--2017-02-03 04:45:33--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhj017
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4237 (4.1K) [text/html]
+Saving to: ‘mhj017’
+
+     0K ....                                                  100%  238M=0s
+
+2017-02-03 04:45:34 (238 MB/s) - ‘mhj017’ saved [4237/4237]
+
+--2017-02-03 04:45:35--  http://doi.org/10.1093/brief-treatment/mhj016
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhj016 [following]
+--2017-02-03 04:45:37--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhj016
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4333 (4.2K) [text/html]
+Saving to: ‘mhj016’
+
+     0K ....                                                  100%  252M=0s
+
+2017-02-03 04:45:37 (252 MB/s) - ‘mhj016’ saved [4333/4333]
+
+--2017-02-03 04:45:38--  http://doi.org/10.1093/brief-treatment/mhj009
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhj009 [following]
+--2017-02-03 04:45:39--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhj009
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4216 (4.1K) [text/html]
+Saving to: ‘mhj009’
+
+     0K ....                                                  100%  260M=0s
+
+2017-02-03 04:45:39 (260 MB/s) - ‘mhj009’ saved [4216/4216]
+
+--2017-02-03 04:45:40--  http://doi.org/10.1093/brief-treatment/mhj007
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhj007 [following]
+--2017-02-03 04:45:42--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhj007
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4284 (4.2K) [text/html]
+Saving to: ‘mhj007’
+
+     0K ....                                                  100%  226M=0s
+
+2017-02-03 04:45:42 (226 MB/s) - ‘mhj007’ saved [4284/4284]
+
+--2017-02-03 04:45:43--  http://doi.org/10.1093/brief-treatment/mhj012
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhj012 [following]
+--2017-02-03 04:45:44--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhj012
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4214 (4.1K) [text/html]
+Saving to: ‘mhj012’
+
+     0K ....                                                  100%  250M=0s
+
+2017-02-03 04:45:44 (250 MB/s) - ‘mhj012’ saved [4214/4214]
+
+--2017-02-03 04:45:45--  http://doi.org/10.1093/brief-treatment/mhj013
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhj013 [following]
+--2017-02-03 04:45:47--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhj013
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4220 (4.1K) [text/html]
+Saving to: ‘mhj013’
+
+     0K ....                                                  100%  252M=0s
+
+2017-02-03 04:45:47 (252 MB/s) - ‘mhj013’ saved [4220/4220]
+
+--2017-02-03 04:45:48--  http://doi.org/10.1093/brief-treatment/mhj014
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhj014 [following]
+--2017-02-03 04:45:49--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhj014
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4227 (4.1K) [text/html]
+Saving to: ‘mhj014’
+
+     0K ....                                                  100%  257M=0s
+
+2017-02-03 04:45:49 (257 MB/s) - ‘mhj014’ saved [4227/4227]
+
+--2017-02-03 04:45:50--  http://doi.org/10.1093/brief-treatment/mhj015
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhj015 [following]
+--2017-02-03 04:45:51--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhj015
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4194 (4.1K) [text/html]
+Saving to: ‘mhj015’
+
+     0K ....                                                  100%  232M=0s
+
+2017-02-03 04:45:52 (232 MB/s) - ‘mhj015’ saved [4194/4194]
+
+--2017-02-03 04:45:53--  http://doi.org/10.1093/brief-treatment/mhj011
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhj011 [following]
+--2017-02-03 04:45:54--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhj011
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4257 (4.2K) [text/html]
+Saving to: ‘mhj011’
+
+     0K ....                                                  100%  255M=0s
+
+2017-02-03 04:45:54 (255 MB/s) - ‘mhj011’ saved [4257/4257]
+
+--2017-02-03 04:45:55--  http://doi.org/10.1093/brief-treatment/mhj004
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhj004 [following]
+--2017-02-03 04:45:56--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhj004
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4243 (4.1K) [text/html]
+Saving to: ‘mhj004’
+
+     0K ....                                                  100%  262M=0s
+
+2017-02-03 04:45:57 (262 MB/s) - ‘mhj004’ saved [4243/4243]
+
+--2017-02-03 04:45:58--  http://doi.org/10.1093/brief-treatment/mhj006
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhj006 [following]
+--2017-02-03 04:45:59--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhj006
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4204 (4.1K) [text/html]
+Saving to: ‘mhj006’
+
+     0K ....                                                  100%  224M=0s
+
+2017-02-03 04:45:59 (224 MB/s) - ‘mhj006’ saved [4204/4204]
+
+--2017-02-03 04:46:00--  http://doi.org/10.1093/brief-treatment/mhj001
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhj001 [following]
+--2017-02-03 04:46:01--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhj001
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4214 (4.1K) [text/html]
+Saving to: ‘mhj001’
+
+     0K ....                                                  100%  254M=0s
+
+2017-02-03 04:46:01 (254 MB/s) - ‘mhj001’ saved [4214/4214]
+
+--2017-02-03 04:46:02--  http://doi.org/10.1093/brief-treatment/mhi029
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhi029 [following]
+--2017-02-03 04:46:04--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhi029
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4261 (4.2K) [text/html]
+Saving to: ‘mhi029’
+
+     0K ....                                                  100%  258M=0s
+
+2017-02-03 04:46:04 (258 MB/s) - ‘mhi029’ saved [4261/4261]
+
+--2017-02-03 04:46:05--  http://doi.org/10.1093/brief-treatment/mhj002
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhj002 [following]
+--2017-02-03 04:46:06--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhj002
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4249 (4.1K) [text/html]
+Saving to: ‘mhj002’
+
+     0K ....                                                  100%  257M=0s
+
+2017-02-03 04:46:06 (257 MB/s) - ‘mhj002’ saved [4249/4249]
+
+--2017-02-03 04:46:07--  http://doi.org/10.1093/brief-treatment/mhj005
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhj005 [following]
+--2017-02-03 04:46:08--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhj005
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4251 (4.2K) [text/html]
+Saving to: ‘mhj005’
+
+     0K ....                                                  100%  243M=0s
+
+2017-02-03 04:46:09 (243 MB/s) - ‘mhj005’ saved [4251/4251]
+
+--2017-02-03 04:46:10--  http://doi.org/10.1093/brief-treatment/mhj003
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhj003 [following]
+--2017-02-03 04:46:11--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhj003
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4268 (4.2K) [text/html]
+Saving to: ‘mhj003’
+
+     0K ....                                                  100%  262M=0s
+
+2017-02-03 04:46:11 (262 MB/s) - ‘mhj003’ saved [4268/4268]
+
+--2017-02-03 04:46:12--  http://doi.org/10.1093/brief-treatment/mhi030
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhi030 [following]
+--2017-02-03 04:46:14--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhi030
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4268 (4.2K) [text/html]
+Saving to: ‘mhi030’
+
+     0K ....                                                  100%  248M=0s
+
+2017-02-03 04:46:14 (248 MB/s) - ‘mhi030’ saved [4268/4268]
+
+--2017-02-03 04:46:15--  http://doi.org/10.1093/brief-treatment/mhi028
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhi028 [following]
+--2017-02-03 04:46:16--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhi028
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4215 (4.1K) [text/html]
+Saving to: ‘mhi028’
+
+     0K ....                                                  100%  246M=0s
+
+2017-02-03 04:46:16 (246 MB/s) - ‘mhi028’ saved [4215/4215]
+
+--2017-02-03 04:46:17--  http://doi.org/10.1093/brief-treatment/mhi023
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhi023 [following]
+--2017-02-03 04:46:19--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhi023
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4288 (4.2K) [text/html]
+Saving to: ‘mhi023’
+
+     0K ....                                                  100%  261M=0s
+
+2017-02-03 04:46:19 (261 MB/s) - ‘mhi023’ saved [4288/4288]
+
+--2017-02-03 04:46:20--  http://doi.org/10.1093/brief-treatment/mhi027
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhi027 [following]
+--2017-02-03 04:46:21--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhi027
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4231 (4.1K) [text/html]
+Saving to: ‘mhi027’
+
+     0K ....                                                  100%  254M=0s
+
+2017-02-03 04:46:21 (254 MB/s) - ‘mhi027’ saved [4231/4231]
+
+--2017-02-03 04:46:22--  http://doi.org/10.1093/brief-treatment/mhi026
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhi026 [following]
+--2017-02-03 04:46:23--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhi026
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4264 (4.2K) [text/html]
+Saving to: ‘mhi026’
+
+     0K ....                                                  100%  227M=0s
+
+2017-02-03 04:46:24 (227 MB/s) - ‘mhi026’ saved [4264/4264]
+
+--2017-02-03 04:46:25--  http://doi.org/10.1093/brief-treatment/mhi024
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhi024 [following]
+--2017-02-03 04:46:26--  http://mr.crossref.org/iPage?doi=10.1093%2Fbrief-treatment%2Fmhi024
+Connecting to mr.crossref.org (mr.crossref.org)|208.254.38.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4218 (4.1K) [text/html]
+Saving to: ‘mhi024’
+
+     0K ....                                                  100%  268M=0s
+
+2017-02-03 04:46:26 (268 MB/s) - ‘mhi024’ saved [4218/4218]
+
+FINISHED --2017-02-03 04:46:26--
+Total wall clock time: 4m 24s
+Downloaded: 100 files, 414K in 0.002s (182 MB/s)

@@ -1,0 +1,359 @@
+--2017-02-02 19:19:51--  http://doi.org/10.1093/global/guw011
+Resolving doi.org (doi.org)... 95.138.171.129, 54.191.229.235, 38.100.138.163, ...
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://globalsummitry.oxfordjournals.org/lookup/doi/10.1093/global/guw011 [following]
+--2017-02-02 19:19:52--  http://globalsummitry.oxfordjournals.org/lookup/doi/10.1093/global/guw011
+Resolving globalsummitry.oxfordjournals.org (globalsummitry.oxfordjournals.org)... 209.135.222.209
+Connecting to globalsummitry.oxfordjournals.org (globalsummitry.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from globalsummitry.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/globalsummitry/article/doi/10.1093/global/guw011/2917919/Peering-down-from-the-Summit-The-Path-to-Nuclear [following]
+--2017-02-02 19:19:53--  https://academic.oup.com/globalsummitry/article/doi/10.1093/global/guw011/2917919/Peering-down-from-the-Summit-The-Path-to-Nuclear
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /globalsummitry/article-abstract/doi/10.1093/global/guw011/2917919/Peering-down-from-the-Summit-The-Path-to-Nuclear?redirectedFrom=fulltext [following]
+--2017-02-02 19:19:55--  https://academic.oup.com/globalsummitry/article-abstract/doi/10.1093/global/guw011/2917919/Peering-down-from-the-Summit-The-Path-to-Nuclear?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 95012 (93K) [text/html]
+Saving to: ‘guw011’
+
+     0K .......... .......... .......... .......... .......... 53%  120K 0s
+    50K .......... .......... .......... .......... ..        100% 16.6K=3.0s
+
+2017-02-02 19:20:01 (30.9 KB/s) - ‘guw011’ saved [95012/95012]
+
+--2017-02-02 19:20:02--  http://doi.org/10.1093/global/guw004
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/globalsummitry/article-lookup/doi/10.1093/global/guw004 [following]
+--2017-02-02 19:20:04--  https://academic.oup.com/globalsummitry/article-lookup/doi/10.1093/global/guw004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65076 (64K) [text/html]
+Saving to: ‘guw004’
+
+     0K .......... .......... .......... .......... .......... 78%  209K 0s
+    50K .......... ...                                        100% 15.8M=0.2s
+
+2017-02-02 19:20:09 (264 KB/s) - ‘guw004’ saved [65076/65076]
+
+--2017-02-02 19:20:10--  http://doi.org/10.1093/global/guw005
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/globalsummitry/article-lookup/doi/10.1093/global/guw005 [following]
+--2017-02-02 19:20:11--  https://academic.oup.com/globalsummitry/article-lookup/doi/10.1093/global/guw005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /globalsummitry/article-abstract/2/1/13/2355286/Globalized-Green-Lanternism?redirectedFrom=fulltext [following]
+--2017-02-02 19:20:14--  https://academic.oup.com/globalsummitry/article-abstract/2/1/13/2355286/Globalized-Green-Lanternism?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 82387 (80K) [text/html]
+Saving to: ‘guw005’
+
+     0K .......... .......... .......... .......... .......... 62%  208K 0s
+    50K .......... .......... ..........                      100% 7.49M=0.2s
+
+2017-02-02 19:20:18 (329 KB/s) - ‘guw005’ saved [82387/82387]
+
+--2017-02-02 19:20:19--  http://doi.org/10.1093/global/guw008
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/globalsummitry/article-lookup/doi/10.1093/global/guw008 [following]
+--2017-02-02 19:20:20--  https://academic.oup.com/globalsummitry/article-lookup/doi/10.1093/global/guw008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /globalsummitry/article-abstract/2/1/38/2355361/The-BRICS-Seeking-Privileges-by-Constructing-and?redirectedFrom=fulltext [following]
+--2017-02-02 19:20:22--  https://academic.oup.com/globalsummitry/article-abstract/2/1/38/2355361/The-BRICS-Seeking-Privileges-by-Constructing-and?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 108044 (106K) [text/html]
+Saving to: ‘guw008’
+
+     0K .......... .......... .......... .......... .......... 47%  209K 0s
+    50K .......... .......... .......... .......... .......... 94%  601K 0s
+   100K .....                                                 100% 10513G=0.3s
+
+2017-02-02 19:20:27 (327 KB/s) - ‘guw008’ saved [108044/108044]
+
+--2017-02-02 19:20:28--  http://doi.org/10.1093/global/guw007
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/globalsummitry/article-lookup/doi/10.1093/global/guw007 [following]
+--2017-02-02 19:20:29--  https://academic.oup.com/globalsummitry/article-lookup/doi/10.1093/global/guw007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /globalsummitry/article-abstract/2/1/54/2355313/Multilateralism-in-East-Asia-Less-than-the-Sum-of?redirectedFrom=fulltext [following]
+--2017-02-02 19:20:32--  https://academic.oup.com/globalsummitry/article-abstract/2/1/54/2355313/Multilateralism-in-East-Asia-Less-than-the-Sum-of?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 134200 (131K) [text/html]
+Saving to: ‘guw007’
+
+     0K .......... .......... .......... .......... .......... 38%  208K 0s
+    50K .......... .......... .......... .......... .......... 76%  593K 0s
+   100K .......... .......... .......... .                    100%  786K=0.4s
+
+2017-02-02 19:20:37 (360 KB/s) - ‘guw007’ saved [134200/134200]
+
+--2017-02-02 19:20:38--  http://doi.org/10.1093/global/guw006
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/globalsummitry/article-lookup/doi/10.1093/global/guw006 [following]
+--2017-02-02 19:20:39--  https://academic.oup.com/globalsummitry/article-lookup/doi/10.1093/global/guw006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 166192 (162K) [text/html]
+Saving to: ‘guw006’
+
+     0K .......... .......... .......... .......... .......... 30%  209K 1s
+    50K .......... .......... .......... .......... .......... 61%  603K 0s
+   100K .......... .......... .......... .......... .......... 92%  613K 0s
+   150K .......... ..                                         100% 3.44M=0.4s
+
+2017-02-02 19:20:45 (398 KB/s) - ‘guw006’ saved [166192/166192]
+
+--2017-02-02 19:20:46--  http://doi.org/10.1093/global/guw010
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/globalsummitry/article-lookup/doi/10.1093/global/guw010 [following]
+--2017-02-02 19:20:47--  https://academic.oup.com/globalsummitry/article-lookup/doi/10.1093/global/guw010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /globalsummitry/article-abstract/2/1/24/2355365/Explaining-China-s-Escalation-over-the-Senkaku?redirectedFrom=fulltext [following]
+--2017-02-02 19:20:49--  https://academic.oup.com/globalsummitry/article-abstract/2/1/24/2355365/Explaining-China-s-Escalation-over-the-Senkaku?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:20:49 ERROR 400: Bad Request.
+
+--2017-02-02 19:20:50--  http://doi.org/10.1093/global/guw009
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/globalsummitry/article-lookup/doi/10.1093/global/guw009 [following]
+--2017-02-02 19:20:51--  https://academic.oup.com/globalsummitry/article-lookup/doi/10.1093/global/guw009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /globalsummitry/article-abstract/2/1/22/2355364/Paul-Martin-on-the-G20-and-China-s-Hosting-of-the?redirectedFrom=fulltext [following]
+--2017-02-02 19:20:54--  https://academic.oup.com/globalsummitry/article-abstract/2/1/22/2355364/Paul-Martin-on-the-G20-and-China-s-Hosting-of-the?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:20:54 ERROR 400: Bad Request.
+
+--2017-02-02 19:20:55--  http://doi.org/10.1093/global/guw003
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/globalsummitry/article-lookup/doi/10.1093/global/guw003 [following]
+--2017-02-02 19:20:56--  https://academic.oup.com/globalsummitry/article-lookup/doi/10.1093/global/guw003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /globalsummitry/article-abstract/1/2/205/2363183/Peacebuilding-and-Conflict-Prevention-in-Burundi-s?redirectedFrom=fulltext [following]
+--2017-02-02 19:20:59--  https://academic.oup.com/globalsummitry/article-abstract/1/2/205/2363183/Peacebuilding-and-Conflict-Prevention-in-Burundi-s?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 102088 (100K) [text/html]
+Saving to: ‘guw003’
+
+     0K .......... .......... .......... .......... .......... 50%  209K 0s
+    50K .......... .......... .......... .......... ......... 100%  579K=0.3s
+
+2017-02-02 19:21:03 (307 KB/s) - ‘guw003’ saved [102088/102088]
+
+--2017-02-02 19:21:04--  http://doi.org/10.1093/global/guv007
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/globalsummitry/article-lookup/doi/10.1093/global/guv007 [following]
+--2017-02-02 19:21:05--  https://academic.oup.com/globalsummitry/article-lookup/doi/10.1093/global/guv007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /globalsummitry/article-abstract/1/2/135/2362945/Lessons-from-the-Frontlines-What-I-Learned-from-My?redirectedFrom=fulltext [following]
+--2017-02-02 19:21:07--  https://academic.oup.com/globalsummitry/article-abstract/1/2/135/2362945/Lessons-from-the-Frontlines-What-I-Learned-from-My?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79641 (78K) [text/html]
+Saving to: ‘guv007’
+
+     0K .......... .......... .......... .......... .......... 64%  156K 0s
+    50K .......... .......... .......                         100% 16.9M=0.3s
+
+2017-02-02 19:21:11 (241 KB/s) - ‘guv007’ saved [79641/79641]
+
+--2017-02-02 19:21:12--  http://doi.org/10.1093/global/guw002
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/globalsummitry/article-lookup/doi/10.1093/global/guw002 [following]
+--2017-02-02 19:21:13--  https://academic.oup.com/globalsummitry/article-lookup/doi/10.1093/global/guw002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 199826 (195K) [text/html]
+Saving to: ‘guw002’
+
+     0K .......... .......... .......... .......... .......... 25%  188K 1s
+    50K .......... .......... .......... .......... .......... 51%  609K 0s
+   100K .......... .......... .......... .......... .......... 76%  587K 0s
+   150K .......... .......... .......... .......... .....     100%  552K=0.5s
+
+2017-02-02 19:21:17 (379 KB/s) - ‘guw002’ saved [199826/199826]
+
+--2017-02-02 19:21:18--  http://doi.org/10.1093/global/guv009
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/globalsummitry/article-lookup/doi/10.1093/global/guv009 [following]
+--2017-02-02 19:21:20--  https://academic.oup.com/globalsummitry/article-lookup/doi/10.1093/global/guv009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /globalsummitry/article-abstract/1/2/171/2363028/Building-G20-Outreach-The-Role-of-Transnational?redirectedFrom=fulltext [following]
+--2017-02-02 19:21:21--  https://academic.oup.com/globalsummitry/article-abstract/1/2/171/2363028/Building-G20-Outreach-The-Role-of-Transnational?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 97581 (95K) [text/html]
+Saving to: ‘guv009’
+
+     0K .......... .......... .......... .......... .......... 52%  208K 0s
+    50K .......... .......... .......... .......... .....     100%  562K=0.3s
+
+2017-02-02 19:21:25 (297 KB/s) - ‘guv009’ saved [97581/97581]
+
+--2017-02-02 19:21:26--  http://doi.org/10.1093/global/guw001
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/globalsummitry/article-lookup/doi/10.1093/global/guw001 [following]
+--2017-02-02 19:21:27--  https://academic.oup.com/globalsummitry/article-lookup/doi/10.1093/global/guw001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /globalsummitry/article-abstract/1/2/187/2363112/Reconstructing-South-African-Identity-through?redirectedFrom=fulltext [following]
+--2017-02-02 19:21:29--  https://academic.oup.com/globalsummitry/article-abstract/1/2/187/2363112/Reconstructing-South-African-Identity-through?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 119253 (116K) [text/html]
+Saving to: ‘guw001’
+
+     0K .......... .......... .......... .......... .......... 42%  209K 0s
+    50K .......... .......... .......... .......... .......... 85%  612K 0s
+   100K .......... ......                                     100% 7.65M=0.3s
+
+2017-02-02 19:21:34 (361 KB/s) - ‘guw001’ saved [119253/119253]
+
+--2017-02-02 19:21:35--  http://doi.org/10.1093/global/guv008
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/globalsummitry/article-lookup/doi/10.1093/global/guv008 [following]
+--2017-02-02 19:21:37--  https://academic.oup.com/globalsummitry/article-lookup/doi/10.1093/global/guv008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 242086 (236K) [text/html]
+Saving to: ‘guv008’
+
+     0K .......... .......... .......... .......... .......... 21%  306K 1s
+    50K .......... .......... .......... .......... .......... 42%  311K 0s
+   100K .......... .......... .......... .......... .......... 63%  590K 0s
+   150K .......... .......... .......... .......... .......... 84%  594K 0s
+   200K .......... .......... .......... ......               100%  448K=0.6s
+
+2017-02-02 19:21:44 (412 KB/s) - ‘guv008’ saved [242086/242086]
+
+--2017-02-02 19:21:45--  http://doi.org/10.1093/global/guv003
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/globalsummitry/article-lookup/doi/10.1093/global/guv003 [following]
+--2017-02-02 19:21:46--  https://academic.oup.com/globalsummitry/article-lookup/doi/10.1093/global/guv003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:21:47 ERROR 400: Bad Request.
+
+--2017-02-02 19:21:48--  http://doi.org/10.1093/global/guv004
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/globalsummitry/article-lookup/doi/10.1093/global/guv004 [following]
+--2017-02-02 19:21:49--  https://academic.oup.com/globalsummitry/article-lookup/doi/10.1093/global/guv004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /globalsummitry/article-abstract/1/1/41/609291/A-Critique-of-Australia-s-G20-Presidency-and-the?redirectedFrom=fulltext [following]
+--2017-02-02 19:21:51--  https://academic.oup.com/globalsummitry/article-abstract/1/1/41/609291/A-Critique-of-Australia-s-G20-Presidency-and-the?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 144394 (141K) [text/html]
+Saving to: ‘guv004’
+
+     0K .......... .......... .......... .......... .......... 35%  309K 0s
+    50K .......... .......... .......... .......... .......... 70%  312K 0s
+   100K .......... .......... .......... .......... .         100%  507K=0.4s
+
+2017-02-02 19:21:56 (350 KB/s) - ‘guv004’ saved [144394/144394]
+
+--2017-02-02 19:21:57--  http://doi.org/10.1093/global/guv006
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/globalsummitry/article-lookup/doi/10.1093/global/guv006 [following]
+--2017-02-02 19:21:58--  https://academic.oup.com/globalsummitry/article-lookup/doi/10.1093/global/guv006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 351582 (343K) [text/html]
+Saving to: ‘guv006’
+
+     0K .......... .......... .......... .......... .......... 14%  306K 1s
+    50K .......... .......... .......... .......... .......... 29%  313K 1s
+   100K .......... .......... .......... .......... .......... 43%  596K 1s
+   150K .......... .......... .......... .......... .......... 58%  315K 0s
+   200K .......... .......... .......... .......... .......... 72%  604K 0s
+   250K .......... .......... .......... .......... .......... 87%  585K 0s
+   300K .......... .......... .......... .......... ...       100%  535K=0.8s
+
+2017-02-02 19:22:02 (421 KB/s) - ‘guv006’ saved [351582/351582]
+
+--2017-02-02 19:22:03--  http://doi.org/10.1093/global/guv002
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/globalsummitry/article-lookup/doi/10.1093/global/guv002 [following]
+--2017-02-02 19:22:04--  https://academic.oup.com/globalsummitry/article-lookup/doi/10.1093/global/guv002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /globalsummitry/article-abstract/1/1/27/608566/G20-Growth-Targets-Help-or-Hubris?redirectedFrom=fulltext [following]
+--2017-02-02 19:22:06--  https://academic.oup.com/globalsummitry/article-abstract/1/1/27/608566/G20-Growth-Targets-Help-or-Hubris?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 88431 (86K) [text/html]
+Saving to: ‘guv002’
+
+     0K .......... .......... .......... .......... .......... 57%  209K 0s
+    50K .......... .......... .......... ......               100%  454K=0.3s
+
+2017-02-02 19:22:10 (271 KB/s) - ‘guv002’ saved [88431/88431]
+
+--2017-02-02 19:22:11--  http://doi.org/10.1093/global/guv005
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/globalsummitry/article-lookup/doi/10.1093/global/guv005 [following]
+--2017-02-02 19:22:12--  https://academic.oup.com/globalsummitry/article-lookup/doi/10.1093/global/guv005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /globalsummitry/article-abstract/1/1/95/609699/MIKTA-and-the-Global-Projection-of-Middle-Powers?redirectedFrom=fulltext [following]
+--2017-02-02 19:22:14--  https://academic.oup.com/globalsummitry/article-abstract/1/1/95/609699/MIKTA-and-the-Global-Projection-of-Middle-Powers?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:22:15 ERROR 400: Bad Request.
+
+--2017-02-02 19:22:16--  http://doi.org/10.1093/global/guv001
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/globalsummitry/article-lookup/doi/10.1093/global/guv001 [following]
+--2017-02-02 19:22:17--  https://academic.oup.com/globalsummitry/article-lookup/doi/10.1093/global/guv001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /globalsummitry/article-abstract/1/1/64/608283/International-Migration-and-Global-Governance?redirectedFrom=fulltext [following]
+--2017-02-02 19:22:19--  https://academic.oup.com/globalsummitry/article-abstract/1/1/64/608283/International-Migration-and-Global-Governance?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 94157 (92K) [text/html]
+Saving to: ‘guv001’
+
+     0K .......... .......... .......... .......... .......... 54%  208K 0s
+    50K .......... .......... .......... .......... .         100%  518K=0.3s
+
+2017-02-02 19:22:29 (287 KB/s) - ‘guv001’ saved [94157/94157]
+
+FINISHED --2017-02-02 19:22:29--
+Total wall clock time: 2m 38s
+Downloaded: 16 files, 2.1M in 8.8s (240 KB/s)

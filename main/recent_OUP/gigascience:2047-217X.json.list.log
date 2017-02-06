@@ -1,0 +1,1654 @@
+--2017-02-02 19:00:47--  http://doi.org/10.1186/s13742-016-0123-8
+Resolving doi.org (doi.org)... 208.254.38.90, 95.138.171.129, 38.100.138.162, ...
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://gigascience.biomedcentral.com/articles/10.1186/s13742-016-0123-8 [following]
+--2017-02-02 19:00:48--  http://gigascience.biomedcentral.com/articles/10.1186/s13742-016-0123-8
+Resolving gigascience.biomedcentral.com (gigascience.biomedcentral.com)... 151.101.16.95
+Connecting to gigascience.biomedcentral.com (gigascience.biomedcentral.com)|151.101.16.95|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-02 19:00:48 ERROR 404: Not Found.
+
+--2017-02-02 19:00:49--  http://doi.org/10.1186/s13742-016-0154-1
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0154-1 [following]
+--2017-02-02 19:00:50--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0154-1
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0154-1 [following]
+--2017-02-02 19:00:52--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0154-1
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-016-0154-1’
+
+     0K .......... .......... ...                             100%  293K=0.08s
+
+2017-02-02 19:00:53 (293 KB/s) - ‘s13742-016-0154-1’ saved [23989/23989]
+
+--2017-02-02 19:00:54--  http://doi.org/10.1186/s13742-016-0153-2
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0153-2 [following]
+--2017-02-02 19:00:55--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0153-2
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0153-2 [following]
+--2017-02-02 19:00:57--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0153-2
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-016-0153-2’
+
+     0K .......... .......... ...                             100%  147K=0.2s
+
+2017-02-02 19:00:58 (147 KB/s) - ‘s13742-016-0153-2’ saved [23989/23989]
+
+--2017-02-02 19:00:59--  http://doi.org/10.1186/s13742-016-0147-0
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://gigascience.biomedcentral.com/articles/10.1186/s13742-016-0147-0 [following]
+--2017-02-02 19:01:00--  http://gigascience.biomedcentral.com/articles/10.1186/s13742-016-0147-0
+Connecting to gigascience.biomedcentral.com (gigascience.biomedcentral.com)|151.101.16.95|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 445168 (435K) [text/html]
+Saving to: ‘s13742-016-0147-0’
+
+     0K .......... .......... .......... .......... .......... 11% 3.45M 0s
+    50K .......... .......... .......... .......... .......... 23% 6.06M 0s
+   100K .......... .......... .......... .......... .......... 34% 11.1M 0s
+   150K .......... .......... .......... .......... .......... 46% 11.0M 0s
+   200K .......... .......... .......... .......... .......... 57% 11.4M 0s
+   250K .......... .......... .......... .......... .......... 69% 11.1M 0s
+   300K .......... .......... .......... .......... .......... 80% 11.2M 0s
+   350K .......... .......... .......... .......... .......... 92% 10.9M 0s
+   400K .......... .......... .......... ....                 100% 11.6M=0.05s
+
+2017-02-02 19:01:01 (8.25 MB/s) - ‘s13742-016-0147-0’ saved [445168/445168]
+
+--2017-02-02 19:01:02--  http://doi.org/10.1186/s13742-016-0151-4
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0151-4 [following]
+--2017-02-02 19:01:03--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0151-4
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0151-4 [following]
+--2017-02-02 19:01:05--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0151-4
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-016-0151-4’
+
+     0K .......... .......... ...                             100%  292K=0.08s
+
+2017-02-02 19:01:06 (292 KB/s) - ‘s13742-016-0151-4’ saved [23989/23989]
+
+--2017-02-02 19:01:07--  http://doi.org/10.1186/s13742-016-0150-5
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0150-5 [following]
+--2017-02-02 19:01:08--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0150-5
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0150-5 [following]
+--2017-02-02 19:01:10--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0150-5
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-016-0150-5’
+
+     0K .......... .......... ...                             100%  289K=0.08s
+
+2017-02-02 19:01:10 (289 KB/s) - ‘s13742-016-0150-5’ saved [23989/23989]
+
+--2017-02-02 19:01:11--  http://doi.org/10.1186/s13742-016-0152-3
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0152-3 [following]
+--2017-02-02 19:01:12--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0152-3
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0152-3 [following]
+--2017-02-02 19:01:14--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0152-3
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-016-0152-3’
+
+     0K .......... .......... ...                             100%  291K=0.08s
+
+2017-02-02 19:01:15 (291 KB/s) - ‘s13742-016-0152-3’ saved [23989/23989]
+
+--2017-02-02 19:01:16--  http://doi.org/10.1186/s13742-016-0149-y
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0149-y [following]
+--2017-02-02 19:01:17--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0149-y
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0149-y [following]
+--2017-02-02 19:01:19--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0149-y
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-016-0149-y’
+
+     0K .......... .......... ...                             100%  292K=0.08s
+
+2017-02-02 19:01:20 (292 KB/s) - ‘s13742-016-0149-y’ saved [23989/23989]
+
+--2017-02-02 19:01:21--  http://doi.org/10.1186/s13742-016-0148-z
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0148-z [following]
+--2017-02-02 19:01:22--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0148-z
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0148-z [following]
+--2017-02-02 19:01:23--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0148-z
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-016-0148-z’
+
+     0K .......... .......... ...                             100%  147K=0.2s
+
+2017-02-02 19:01:24 (147 KB/s) - ‘s13742-016-0148-z’ saved [23989/23989]
+
+--2017-02-02 19:01:25--  http://doi.org/10.1186/s13742-016-0146-1
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0146-1 [following]
+--2017-02-02 19:01:27--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0146-1
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0146-1 [following]
+--2017-02-02 19:01:28--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0146-1
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-016-0146-1’
+
+     0K .......... .......... ...                             100%  292K=0.08s
+
+2017-02-02 19:01:31 (292 KB/s) - ‘s13742-016-0146-1’ saved [23989/23989]
+
+--2017-02-02 19:01:32--  http://doi.org/10.1186/s13742-016-0145-2
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0145-2 [following]
+--2017-02-02 19:01:33--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0145-2
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:01:33 ERROR 400: Bad Request.
+
+--2017-02-02 19:01:34--  http://doi.org/10.1186/s13742-016-0144-3
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0144-3 [following]
+--2017-02-02 19:01:36--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0144-3
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:01:37 ERROR 400: Bad Request.
+
+--2017-02-02 19:01:38--  http://doi.org/10.1186/s13742-016-0141-6
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0141-6 [following]
+--2017-02-02 19:01:39--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0141-6
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0141-6 [following]
+--2017-02-02 19:01:42--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0141-6
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-016-0141-6’
+
+     0K .......... .......... ...                             100%  291K=0.08s
+
+2017-02-02 19:01:42 (291 KB/s) - ‘s13742-016-0141-6’ saved [23989/23989]
+
+--2017-02-02 19:01:43--  http://doi.org/10.1186/s13742-016-0142-5
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0142-5 [following]
+--2017-02-02 19:01:44--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0142-5
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0142-5 [following]
+--2017-02-02 19:01:46--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0142-5
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-016-0142-5’
+
+     0K .......... .......... ...                             100%  292K=0.08s
+
+2017-02-02 19:01:47 (292 KB/s) - ‘s13742-016-0142-5’ saved [23989/23989]
+
+--2017-02-02 19:01:48--  http://doi.org/10.1186/s13742-016-0143-4
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0143-4 [following]
+--2017-02-02 19:01:49--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0143-4
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0143-4 [following]
+--2017-02-02 19:01:51--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0143-4
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-016-0143-4’
+
+     0K .......... .......... ...                             100%  292K=0.08s
+
+2017-02-02 19:01:52 (292 KB/s) - ‘s13742-016-0143-4’ saved [23989/23989]
+
+--2017-02-02 19:01:53--  http://doi.org/10.1186/s13742-016-0139-0
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0139-0 [following]
+--2017-02-02 19:01:54--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0139-0
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0139-0 [following]
+--2017-02-02 19:01:57--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0139-0
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-016-0139-0’
+
+     0K .......... .......... ...                             100%  291K=0.08s
+
+2017-02-02 19:01:57 (291 KB/s) - ‘s13742-016-0139-0’ saved [23989/23989]
+
+--2017-02-02 19:01:58--  http://doi.org/10.1186/s13742-016-0138-1
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0138-1 [following]
+--2017-02-02 19:02:00--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0138-1
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0138-1 [following]
+--2017-02-02 19:02:01--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0138-1
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-016-0138-1’
+
+     0K .......... .......... ...                             100%  291K=0.08s
+
+2017-02-02 19:02:02 (291 KB/s) - ‘s13742-016-0138-1’ saved [23989/23989]
+
+--2017-02-02 19:02:03--  http://doi.org/10.1186/s13742-016-0140-7
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0140-7 [following]
+--2017-02-02 19:02:05--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0140-7
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0140-7 [following]
+--2017-02-02 19:02:06--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0140-7
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 38941 (38K) [text/html]
+Saving to: ‘s13742-016-0140-7’
+
+     0K .......... .......... .......... ........             100%  235K=0.2s
+
+2017-02-02 19:02:07 (235 KB/s) - ‘s13742-016-0140-7’ saved [38941/38941]
+
+--2017-02-02 19:02:08--  http://doi.org/10.1186/s13742-016-0137-2
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0137-2 [following]
+--2017-02-02 19:02:10--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0137-2
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0137-2 [following]
+--2017-02-02 19:02:11--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0137-2
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-016-0137-2’
+
+     0K .......... .......... ...                             100%  291K=0.08s
+
+2017-02-02 19:02:12 (291 KB/s) - ‘s13742-016-0137-2’ saved [23989/23989]
+
+--2017-02-02 19:02:13--  http://doi.org/10.1186/s13742-016-0136-3
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0136-3 [following]
+--2017-02-02 19:02:14--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0136-3
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0136-3 [following]
+--2017-02-02 19:02:16--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0136-3
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 38941 (38K) [text/html]
+Saving to: ‘s13742-016-0136-3’
+
+     0K .......... .......... .......... ........             100%  235K=0.2s
+
+2017-02-02 19:02:17 (235 KB/s) - ‘s13742-016-0136-3’ saved [38941/38941]
+
+--2017-02-02 19:02:18--  http://doi.org/10.1186/s13742-016-0135-4
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0135-4 [following]
+--2017-02-02 19:02:19--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0135-4
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0135-4 [following]
+--2017-02-02 19:02:21--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0135-4
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-016-0135-4’
+
+     0K .......... .......... ...                             100%  292K=0.08s
+
+2017-02-02 19:02:21 (292 KB/s) - ‘s13742-016-0135-4’ saved [23989/23989]
+
+--2017-02-02 19:02:22--  http://doi.org/10.1186/s13742-016-0134-5
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0134-5 [following]
+--2017-02-02 19:02:23--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0134-5
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0134-5 [following]
+--2017-02-02 19:02:25--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0134-5
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-016-0134-5’
+
+     0K .......... .......... ...                             100%  291K=0.08s
+
+2017-02-02 19:02:26 (291 KB/s) - ‘s13742-016-0134-5’ saved [23989/23989]
+
+--2017-02-02 19:02:27--  http://doi.org/10.1186/s13742-016-0130-9
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0130-9 [following]
+--2017-02-02 19:02:28--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0130-9
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0130-9 [following]
+--2017-02-02 19:02:30--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0130-9
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-016-0130-9’
+
+     0K .......... .......... ...                             100%  291K=0.08s
+
+2017-02-02 19:02:31 (291 KB/s) - ‘s13742-016-0130-9’ saved [23989/23989]
+
+--2017-02-02 19:02:32--  http://doi.org/10.1186/s13742-016-0133-6
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0133-6 [following]
+--2017-02-02 19:02:33--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0133-6
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0133-6 [following]
+--2017-02-02 19:02:34--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0133-6
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-016-0133-6’
+
+     0K .......... .......... ...                             100%  291K=0.08s
+
+2017-02-02 19:02:35 (291 KB/s) - ‘s13742-016-0133-6’ saved [23989/23989]
+
+--2017-02-02 19:02:36--  http://doi.org/10.1186/s13742-016-0132-7
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0132-7 [following]
+--2017-02-02 19:02:37--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0132-7
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0132-7 [following]
+--2017-02-02 19:02:39--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0132-7
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 38941 (38K) [text/html]
+Saving to: ‘s13742-016-0132-7’
+
+     0K .......... .......... .......... ........             100%  237K=0.2s
+
+2017-02-02 19:02:40 (237 KB/s) - ‘s13742-016-0132-7’ saved [38941/38941]
+
+--2017-02-02 19:02:41--  http://doi.org/10.1186/s13742-016-0131-8
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0131-8 [following]
+--2017-02-02 19:02:42--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0131-8
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:02:43 ERROR 400: Bad Request.
+
+--2017-02-02 19:02:44--  http://doi.org/10.1186/s13742-016-0129-2
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0129-2 [following]
+--2017-02-02 19:02:45--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0129-2
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0129-2 [following]
+--2017-02-02 19:02:47--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0129-2
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-016-0129-2’
+
+     0K .......... .......... ...                             100%  290K=0.08s
+
+2017-02-02 19:02:49 (290 KB/s) - ‘s13742-016-0129-2’ saved [23989/23989]
+
+--2017-02-02 19:02:50--  http://doi.org/10.1186/s13742-016-0128-3
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0128-3 [following]
+--2017-02-02 19:02:51--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0128-3
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0128-3 [following]
+--2017-02-02 19:02:54--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0128-3
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-016-0128-3’
+
+     0K .......... .......... ...                             100%  292K=0.08s
+
+2017-02-02 19:02:54 (292 KB/s) - ‘s13742-016-0128-3’ saved [23989/23989]
+
+--2017-02-02 19:02:55--  http://doi.org/10.1186/s13742-016-0126-5
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0126-5 [following]
+--2017-02-02 19:02:56--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0126-5
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0126-5 [following]
+--2017-02-02 19:02:58--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0126-5
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-016-0126-5’
+
+     0K .......... .......... ...                             100%  147K=0.2s
+
+2017-02-02 19:03:02 (147 KB/s) - ‘s13742-016-0126-5’ saved [23989/23989]
+
+--2017-02-02 19:03:03--  http://doi.org/10.1186/s13742-016-0127-4
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0127-4 [following]
+--2017-02-02 19:03:04--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0127-4
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0127-4 [following]
+--2017-02-02 19:03:06--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0127-4
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-016-0127-4’
+
+     0K .......... .......... ...                             100%  293K=0.08s
+
+2017-02-02 19:03:06 (293 KB/s) - ‘s13742-016-0127-4’ saved [23989/23989]
+
+--2017-02-02 19:03:07--  http://doi.org/10.1186/s13742-016-0125-6
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0125-6 [following]
+--2017-02-02 19:03:09--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0125-6
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0125-6 [following]
+--2017-02-02 19:03:12--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0125-6
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-016-0125-6’
+
+     0K .......... .......... ...                             100%  291K=0.08s
+
+2017-02-02 19:03:14 (291 KB/s) - ‘s13742-016-0125-6’ saved [23989/23989]
+
+--2017-02-02 19:03:15--  http://doi.org/10.1186/s13742-016-0124-7
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0124-7 [following]
+--2017-02-02 19:03:16--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0124-7
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0124-7 [following]
+--2017-02-02 19:03:18--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0124-7
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-016-0124-7’
+
+     0K .......... .......... ...                             100%  290K=0.08s
+
+2017-02-02 19:03:18 (290 KB/s) - ‘s13742-016-0124-7’ saved [23989/23989]
+
+--2017-02-02 19:03:19--  http://doi.org/10.1186/s13742-016-0122-9
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0122-9 [following]
+--2017-02-02 19:03:20--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0122-9
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0122-9 [following]
+--2017-02-02 19:03:22--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0122-9
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:03:22 ERROR 400: Bad Request.
+
+--2017-02-02 19:03:23--  http://doi.org/10.1186/s13742-016-0121-x
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0121-x [following]
+--2017-02-02 19:03:25--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0121-x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0121-x [following]
+--2017-02-02 19:03:26--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0121-x
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-016-0121-x’
+
+     0K .......... .......... ...                             100%  290K=0.08s
+
+2017-02-02 19:03:27 (290 KB/s) - ‘s13742-016-0121-x’ saved [23989/23989]
+
+--2017-02-02 19:03:28--  http://doi.org/10.1186/s13742-016-0120-y
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0120-y [following]
+--2017-02-02 19:03:29--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0120-y
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:03:30 ERROR 400: Bad Request.
+
+--2017-02-02 19:03:31--  http://doi.org/10.1186/s13742-016-0118-5
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0118-5 [following]
+--2017-02-02 19:03:32--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0118-5
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:03:33 ERROR 400: Bad Request.
+
+--2017-02-02 19:03:34--  http://doi.org/10.1186/s13742-016-0119-4
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0119-4 [following]
+--2017-02-02 19:03:35--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0119-4
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0119-4 [following]
+--2017-02-02 19:03:36--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0119-4
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 38941 (38K) [text/html]
+Saving to: ‘s13742-016-0119-4’
+
+     0K .......... .......... .......... ........             100%  238K=0.2s
+
+2017-02-02 19:03:37 (238 KB/s) - ‘s13742-016-0119-4’ saved [38941/38941]
+
+--2017-02-02 19:03:38--  http://doi.org/10.1186/s13742-016-0116-7
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0116-7 [following]
+--2017-02-02 19:03:39--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0116-7
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0116-7 [following]
+--2017-02-02 19:03:41--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0116-7
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-016-0116-7’
+
+     0K .......... .......... ...                             100%  291K=0.08s
+
+2017-02-02 19:03:42 (291 KB/s) - ‘s13742-016-0116-7’ saved [23989/23989]
+
+--2017-02-02 19:03:43--  http://doi.org/10.1186/s13742-016-0117-6
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0117-6 [following]
+--2017-02-02 19:03:44--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0117-6
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0117-6 [following]
+--2017-02-02 19:03:47--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0117-6
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:03:47 ERROR 400: Bad Request.
+
+--2017-02-02 19:03:48--  http://doi.org/10.1186/s13742-016-0115-8
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0115-8 [following]
+--2017-02-02 19:03:49--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0115-8
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0115-8 [following]
+--2017-02-02 19:03:51--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0115-8
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-016-0115-8’
+
+     0K .......... .......... ...                             100%  147K=0.2s
+
+2017-02-02 19:03:52 (147 KB/s) - ‘s13742-016-0115-8’ saved [23989/23989]
+
+--2017-02-02 19:03:53--  http://doi.org/10.1186/s13742-015-0105-2
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0105-2 [following]
+--2017-02-02 19:03:54--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0105-2
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0105-2 [following]
+--2017-02-02 19:03:56--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0105-2
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-015-0105-2’
+
+     0K .......... .......... ...                             100%  292K=0.08s
+
+2017-02-02 19:03:56 (292 KB/s) - ‘s13742-015-0105-2’ saved [23989/23989]
+
+--2017-02-02 19:03:57--  http://doi.org/10.1186/s13742-016-0113-x
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0113-x [following]
+--2017-02-02 19:03:59--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0113-x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0113-x [following]
+--2017-02-02 19:04:00--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0113-x
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 38941 (38K) [text/html]
+Saving to: ‘s13742-016-0113-x’
+
+     0K .......... .......... .......... ........             100%  237K=0.2s
+
+2017-02-02 19:04:01 (237 KB/s) - ‘s13742-016-0113-x’ saved [38941/38941]
+
+--2017-02-02 19:04:02--  http://doi.org/10.1186/s13742-016-0114-9
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0114-9 [following]
+--2017-02-02 19:04:03--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0114-9
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0114-9 [following]
+--2017-02-02 19:04:05--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0114-9
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-016-0114-9’
+
+     0K .......... .......... ...                             100%  292K=0.08s
+
+2017-02-02 19:04:06 (292 KB/s) - ‘s13742-016-0114-9’ saved [23989/23989]
+
+--2017-02-02 19:04:07--  http://doi.org/10.1186/s13742-016-0112-y
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0112-y [following]
+--2017-02-02 19:04:08--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0112-y
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0112-y [following]
+--2017-02-02 19:04:10--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0112-y
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:04:10 ERROR 400: Bad Request.
+
+--2017-02-02 19:04:11--  http://doi.org/10.1186/s13742-016-0108-7
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0108-7 [following]
+--2017-02-02 19:04:13--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0108-7
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0108-7 [following]
+--2017-02-02 19:04:14--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0108-7
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-016-0108-7’
+
+     0K .......... .......... ...                             100%  291K=0.08s
+
+2017-02-02 19:04:15 (291 KB/s) - ‘s13742-016-0108-7’ saved [23989/23989]
+
+--2017-02-02 19:04:16--  http://doi.org/10.1186/s13742-016-0109-6
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0109-6 [following]
+--2017-02-02 19:04:17--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0109-6
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0109-6 [following]
+--2017-02-02 19:04:18--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0109-6
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-016-0109-6’
+
+     0K .......... .......... ...                             100%  291K=0.08s
+
+2017-02-02 19:04:19 (291 KB/s) - ‘s13742-016-0109-6’ saved [23989/23989]
+
+--2017-02-02 19:04:20--  http://doi.org/10.1186/s13742-016-0111-z
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0111-z [following]
+--2017-02-02 19:04:21--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0111-z
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0111-z [following]
+--2017-02-02 19:04:23--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0111-z
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-016-0111-z’
+
+     0K .......... .......... ...                             100%  147K=0.2s
+
+2017-02-02 19:04:24 (147 KB/s) - ‘s13742-016-0111-z’ saved [23989/23989]
+
+--2017-02-02 19:04:25--  http://doi.org/10.1186/s13742-016-0110-0
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0110-0 [following]
+--2017-02-02 19:04:26--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-016-0110-0
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0110-0 [following]
+--2017-02-02 19:04:28--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-016-0110-0
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-016-0110-0’
+
+     0K .......... .......... ...                             100%  291K=0.08s
+
+2017-02-02 19:04:28 (291 KB/s) - ‘s13742-016-0110-0’ saved [23989/23989]
+
+--2017-02-02 19:04:29--  http://doi.org/10.1186/s13742-015-0107-0
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0107-0 [following]
+--2017-02-02 19:04:31--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0107-0
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0107-0 [following]
+--2017-02-02 19:04:32--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0107-0
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-015-0107-0’
+
+     0K .......... .......... ...                             100%  292K=0.08s
+
+2017-02-02 19:04:33 (292 KB/s) - ‘s13742-015-0107-0’ saved [23989/23989]
+
+--2017-02-02 19:04:34--  http://doi.org/10.1186/s13742-015-0104-3
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0104-3 [following]
+--2017-02-02 19:04:35--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0104-3
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0104-3 [following]
+--2017-02-02 19:04:37--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0104-3
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-015-0104-3’
+
+     0K .......... .......... ...                             100%  288K=0.08s
+
+2017-02-02 19:04:38 (288 KB/s) - ‘s13742-015-0104-3’ saved [23989/23989]
+
+--2017-02-02 19:04:39--  http://doi.org/10.1186/s13742-015-0103-4
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0103-4 [following]
+--2017-02-02 19:04:40--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0103-4
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0103-4 [following]
+--2017-02-02 19:04:42--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0103-4
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 38941 (38K) [text/html]
+Saving to: ‘s13742-015-0103-4’
+
+     0K .......... .......... .......... ........             100%  237K=0.2s
+
+2017-02-02 19:04:42 (237 KB/s) - ‘s13742-015-0103-4’ saved [38941/38941]
+
+--2017-02-02 19:04:43--  http://doi.org/10.1186/s13742-015-0100-7
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0100-7 [following]
+--2017-02-02 19:04:45--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0100-7
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0100-7 [following]
+--2017-02-02 19:04:46--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0100-7
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-015-0100-7’
+
+     0K .......... .......... ...                             100%  292K=0.08s
+
+2017-02-02 19:04:47 (292 KB/s) - ‘s13742-015-0100-7’ saved [23989/23989]
+
+--2017-02-02 19:04:48--  http://doi.org/10.1186/s13742-015-0092-3
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0092-3 [following]
+--2017-02-02 19:04:49--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0092-3
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0092-3 [following]
+--2017-02-02 19:04:51--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0092-3
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-015-0092-3’
+
+     0K .......... .......... ...                             100%  290K=0.08s
+
+2017-02-02 19:04:54 (290 KB/s) - ‘s13742-015-0092-3’ saved [23989/23989]
+
+--2017-02-02 19:04:55--  http://doi.org/10.1186/s13742-015-0097-y
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0097-y [following]
+--2017-02-02 19:04:56--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0097-y
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0097-y [following]
+--2017-02-02 19:04:58--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0097-y
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-015-0097-y’
+
+     0K .......... .......... ...                             100%  143K=0.2s
+
+2017-02-02 19:04:59 (143 KB/s) - ‘s13742-015-0097-y’ saved [23989/23989]
+
+--2017-02-02 19:05:00--  http://doi.org/10.1186/s13742-015-0106-1
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0106-1 [following]
+--2017-02-02 19:05:01--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0106-1
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0106-1 [following]
+--2017-02-02 19:05:03--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0106-1
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-015-0106-1’
+
+     0K .......... .......... ...                             100%  292K=0.08s
+
+2017-02-02 19:05:03 (292 KB/s) - ‘s13742-015-0106-1’ saved [23989/23989]
+
+--2017-02-02 19:05:04--  http://doi.org/10.1186/s13742-015-0102-5
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0102-5 [following]
+--2017-02-02 19:05:05--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0102-5
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0102-5 [following]
+--2017-02-02 19:05:08--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0102-5
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-015-0102-5’
+
+     0K .......... .......... ...                             100%  290K=0.08s
+
+2017-02-02 19:05:11 (290 KB/s) - ‘s13742-015-0102-5’ saved [23989/23989]
+
+--2017-02-02 19:05:12--  http://doi.org/10.1186/s13742-015-0101-6
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0101-6 [following]
+--2017-02-02 19:05:13--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0101-6
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0101-6 [following]
+--2017-02-02 19:05:20--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0101-6
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-015-0101-6’
+
+     0K .......... .......... ...                             100%  292K=0.08s
+
+2017-02-02 19:05:21 (292 KB/s) - ‘s13742-015-0101-6’ saved [23989/23989]
+
+--2017-02-02 19:05:22--  http://doi.org/10.1186/s13742-015-0094-1
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0094-1 [following]
+--2017-02-02 19:05:23--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0094-1
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0094-1 [following]
+--2017-02-02 19:05:25--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0094-1
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-015-0094-1’
+
+     0K .......... .......... ...                             100%  291K=0.08s
+
+2017-02-02 19:05:26 (291 KB/s) - ‘s13742-015-0094-1’ saved [23989/23989]
+
+--2017-02-02 19:05:27--  http://doi.org/10.1186/s13742-015-0098-x
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0098-x [following]
+--2017-02-02 19:05:28--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0098-x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0098-x [following]
+--2017-02-02 19:05:31--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0098-x
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-015-0098-x’
+
+     0K .......... .......... ...                             100%  292K=0.08s
+
+2017-02-02 19:05:32 (292 KB/s) - ‘s13742-015-0098-x’ saved [23989/23989]
+
+--2017-02-02 19:05:33--  http://doi.org/10.1186/s13742-015-0096-z
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0096-z [following]
+--2017-02-02 19:05:34--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0096-z
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:05:35 ERROR 400: Bad Request.
+
+--2017-02-02 19:05:36--  http://doi.org/10.1186/s13742-015-0099-9
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0099-9 [following]
+--2017-02-02 19:05:37--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0099-9
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0099-9 [following]
+--2017-02-02 19:05:39--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0099-9
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-015-0099-9’
+
+     0K .......... .......... ...                             100%  293K=0.08s
+
+2017-02-02 19:05:40 (293 KB/s) - ‘s13742-015-0099-9’ saved [23989/23989]
+
+--2017-02-02 19:05:41--  http://doi.org/10.1186/s13742-015-0093-2
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0093-2 [following]
+--2017-02-02 19:05:42--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0093-2
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0093-2 [following]
+--2017-02-02 19:05:43--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0093-2
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-015-0093-2’
+
+     0K .......... .......... ...                             100%  147K=0.2s
+
+2017-02-02 19:05:44 (147 KB/s) - ‘s13742-015-0093-2’ saved [23989/23989]
+
+--2017-02-02 19:05:45--  http://doi.org/10.1186/s13742-015-0095-0
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0095-0 [following]
+--2017-02-02 19:05:47--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0095-0
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0095-0 [following]
+--2017-02-02 19:05:49--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0095-0
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-015-0095-0’
+
+     0K .......... .......... ...                             100%  286K=0.08s
+
+2017-02-02 19:05:50 (286 KB/s) - ‘s13742-015-0095-0’ saved [23989/23989]
+
+--2017-02-02 19:05:51--  http://doi.org/10.1186/s13742-015-0091-4
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0091-4 [following]
+--2017-02-02 19:05:52--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0091-4
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0091-4 [following]
+--2017-02-02 19:05:54--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0091-4
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-015-0091-4’
+
+     0K .......... .......... ...                             100%  290K=0.08s
+
+2017-02-02 19:05:55 (290 KB/s) - ‘s13742-015-0091-4’ saved [23989/23989]
+
+--2017-02-02 19:05:56--  http://doi.org/10.1186/s13742-015-0088-z
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0088-z [following]
+--2017-02-02 19:05:57--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0088-z
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0088-z [following]
+--2017-02-02 19:05:59--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0088-z
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-015-0088-z’
+
+     0K .......... .......... ...                             100%  292K=0.08s
+
+2017-02-02 19:05:59 (292 KB/s) - ‘s13742-015-0088-z’ saved [23989/23989]
+
+--2017-02-02 19:06:00--  http://doi.org/10.1186/s13742-015-0090-5
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0090-5 [following]
+--2017-02-02 19:06:02--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0090-5
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0090-5 [following]
+--2017-02-02 19:06:04--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0090-5
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 38941 (38K) [text/html]
+Saving to: ‘s13742-015-0090-5’
+
+     0K .......... .......... .......... ........             100%  234K=0.2s
+
+2017-02-02 19:06:05 (234 KB/s) - ‘s13742-015-0090-5’ saved [38941/38941]
+
+--2017-02-02 19:06:06--  http://doi.org/10.1186/s13742-015-0089-y
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0089-y [following]
+--2017-02-02 19:06:07--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0089-y
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0089-y [following]
+--2017-02-02 19:06:09--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0089-y
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-015-0089-y’
+
+     0K .......... .......... ...                             100%  147K=0.2s
+
+2017-02-02 19:06:10 (147 KB/s) - ‘s13742-015-0089-y’ saved [23989/23989]
+
+--2017-02-02 19:06:11--  http://doi.org/10.1186/s13742-015-0087-0
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0087-0 [following]
+--2017-02-02 19:06:12--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0087-0
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0087-0 [following]
+--2017-02-02 19:06:13--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0087-0
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:06:14 ERROR 400: Bad Request.
+
+--2017-02-02 19:06:15--  http://doi.org/10.1186/s13742-015-0086-1
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0086-1 [following]
+--2017-02-02 19:06:16--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0086-1
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0086-1 [following]
+--2017-02-02 19:06:18--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0086-1
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-015-0086-1’
+
+     0K .......... .......... ...                             100%  290K=0.08s
+
+2017-02-02 19:06:19 (290 KB/s) - ‘s13742-015-0086-1’ saved [23989/23989]
+
+--2017-02-02 19:06:20--  http://doi.org/10.1186/s13742-015-0085-2
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0085-2 [following]
+--2017-02-02 19:06:21--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0085-2
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:06:22 ERROR 400: Bad Request.
+
+--2017-02-02 19:06:23--  http://doi.org/10.1186/s13742-015-0083-4
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0083-4 [following]
+--2017-02-02 19:06:24--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0083-4
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0083-4 [following]
+--2017-02-02 19:06:26--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0083-4
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-015-0083-4’
+
+     0K .......... .......... ...                             100%  291K=0.08s
+
+2017-02-02 19:06:26 (291 KB/s) - ‘s13742-015-0083-4’ saved [23989/23989]
+
+--2017-02-02 19:06:27--  http://doi.org/10.1186/s13742-015-0082-5
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0082-5 [following]
+--2017-02-02 19:06:28--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0082-5
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0082-5 [following]
+--2017-02-02 19:06:30--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0082-5
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:06:32 ERROR 400: Bad Request.
+
+--2017-02-02 19:06:33--  http://doi.org/10.1186/s13742-015-0081-6
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0081-6 [following]
+--2017-02-02 19:06:34--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0081-6
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0081-6 [following]
+--2017-02-02 19:06:35--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0081-6
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 38941 (38K) [text/html]
+Saving to: ‘s13742-015-0081-6’
+
+     0K .......... .......... .......... ........             100%  238K=0.2s
+
+2017-02-02 19:06:36 (238 KB/s) - ‘s13742-015-0081-6’ saved [38941/38941]
+
+--2017-02-02 19:06:37--  http://doi.org/10.1186/s13742-015-0084-3
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0084-3 [following]
+--2017-02-02 19:06:39--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0084-3
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0084-3 [following]
+--2017-02-02 19:06:40--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0084-3
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-015-0084-3’
+
+     0K .......... .......... ...                             100%  293K=0.08s
+
+2017-02-02 19:06:41 (293 KB/s) - ‘s13742-015-0084-3’ saved [23989/23989]
+
+--2017-02-02 19:06:42--  http://doi.org/10.1186/s13742-015-0078-1
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0078-1 [following]
+--2017-02-02 19:06:43--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0078-1
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0078-1 [following]
+--2017-02-02 19:06:45--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0078-1
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-015-0078-1’
+
+     0K .......... .......... ...                             100%  290K=0.08s
+
+2017-02-02 19:06:46 (290 KB/s) - ‘s13742-015-0078-1’ saved [23989/23989]
+
+--2017-02-02 19:06:47--  http://doi.org/10.1186/s13742-015-0077-2
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0077-2 [following]
+--2017-02-02 19:06:48--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0077-2
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0077-2 [following]
+--2017-02-02 19:06:49--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0077-2
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-015-0077-2’
+
+     0K .......... .......... ...                             100%  292K=0.08s
+
+2017-02-02 19:06:50 (292 KB/s) - ‘s13742-015-0077-2’ saved [23989/23989]
+
+--2017-02-02 19:06:51--  http://doi.org/10.1186/s13742-015-0080-7
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0080-7 [following]
+--2017-02-02 19:06:52--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0080-7
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0080-7 [following]
+--2017-02-02 19:06:54--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0080-7
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 38941 (38K) [text/html]
+Saving to: ‘s13742-015-0080-7’
+
+     0K .......... .......... .......... ........             100%  238K=0.2s
+
+2017-02-02 19:06:55 (238 KB/s) - ‘s13742-015-0080-7’ saved [38941/38941]
+
+--2017-02-02 19:06:56--  http://doi.org/10.1186/s13742-015-0068-3
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0068-3 [following]
+--2017-02-02 19:06:57--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0068-3
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:06:59 ERROR 400: Bad Request.
+
+--2017-02-02 19:07:00--  http://doi.org/10.1186/s13742-015-0076-3
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0076-3 [following]
+--2017-02-02 19:07:01--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0076-3
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0076-3 [following]
+--2017-02-02 19:07:03--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0076-3
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-015-0076-3’
+
+     0K .......... .......... ...                             100%  292K=0.08s
+
+2017-02-02 19:07:03 (292 KB/s) - ‘s13742-015-0076-3’ saved [23989/23989]
+
+--2017-02-02 19:07:04--  http://doi.org/10.1186/s13742-015-0075-4
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0075-4 [following]
+--2017-02-02 19:07:06--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0075-4
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0075-4 [following]
+--2017-02-02 19:07:07--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0075-4
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-015-0075-4’
+
+     0K .......... .......... ...                             100%  292K=0.08s
+
+2017-02-02 19:07:08 (292 KB/s) - ‘s13742-015-0075-4’ saved [23989/23989]
+
+--2017-02-02 19:07:09--  http://doi.org/10.1186/s13742-015-0074-5
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0074-5 [following]
+--2017-02-02 19:07:10--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0074-5
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:07:12 ERROR 400: Bad Request.
+
+--2017-02-02 19:07:13--  http://doi.org/10.1186/s13742-015-0073-6
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0073-6 [following]
+--2017-02-02 19:07:14--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0073-6
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0073-6 [following]
+--2017-02-02 19:07:16--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0073-6
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-015-0073-6’
+
+     0K .......... .......... ...                             100%  147K=0.2s
+
+2017-02-02 19:07:17 (147 KB/s) - ‘s13742-015-0073-6’ saved [23989/23989]
+
+--2017-02-02 19:07:18--  http://doi.org/10.1186/s13742-015-0071-8
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0071-8 [following]
+--2017-02-02 19:07:19--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0071-8
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0071-8 [following]
+--2017-02-02 19:07:21--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0071-8
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-015-0071-8’
+
+     0K .......... .......... ...                             100%  289K=0.08s
+
+2017-02-02 19:07:22 (289 KB/s) - ‘s13742-015-0071-8’ saved [23989/23989]
+
+--2017-02-02 19:07:23--  http://doi.org/10.1186/s13742-015-0072-7
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0072-7 [following]
+--2017-02-02 19:07:24--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0072-7
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0072-7 [following]
+--2017-02-02 19:07:25--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0072-7
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-015-0072-7’
+
+     0K .......... .......... ...                             100%  292K=0.08s
+
+2017-02-02 19:07:26 (292 KB/s) - ‘s13742-015-0072-7’ saved [23989/23989]
+
+--2017-02-02 19:07:27--  http://doi.org/10.1186/s13742-015-0069-2
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0069-2 [following]
+--2017-02-02 19:07:28--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0069-2
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0069-2 [following]
+--2017-02-02 19:07:30--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0069-2
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-015-0069-2’
+
+     0K .......... .......... ...                             100%  147K=0.2s
+
+2017-02-02 19:07:31 (147 KB/s) - ‘s13742-015-0069-2’ saved [23989/23989]
+
+--2017-02-02 19:07:32--  http://doi.org/10.1186/s13742-015-0067-4
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0067-4 [following]
+--2017-02-02 19:07:33--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0067-4
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0067-4 [following]
+--2017-02-02 19:07:35--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0067-4
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-015-0067-4’
+
+     0K .......... .......... ...                             100%  291K=0.08s
+
+2017-02-02 19:07:37 (291 KB/s) - ‘s13742-015-0067-4’ saved [23989/23989]
+
+--2017-02-02 19:07:38--  http://doi.org/10.1186/s13742-015-0070-9
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0070-9 [following]
+--2017-02-02 19:07:39--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0070-9
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0070-9 [following]
+--2017-02-02 19:07:41--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0070-9
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-015-0070-9’
+
+     0K .......... .......... ...                             100%  292K=0.08s
+
+2017-02-02 19:07:41 (292 KB/s) - ‘s13742-015-0070-9’ saved [23989/23989]
+
+--2017-02-02 19:07:42--  http://doi.org/10.1186/s13742-015-0066-5
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0066-5 [following]
+--2017-02-02 19:07:43--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0066-5
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0066-5 [following]
+--2017-02-02 19:07:45--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0066-5
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-015-0066-5’
+
+     0K .......... .......... ...                             100%  289K=0.08s
+
+2017-02-02 19:07:46 (289 KB/s) - ‘s13742-015-0066-5’ saved [23989/23989]
+
+--2017-02-02 19:07:47--  http://doi.org/10.1186/s13742-015-0058-5
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0058-5 [following]
+--2017-02-02 19:07:48--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0058-5
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0058-5 [following]
+--2017-02-02 19:07:50--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0058-5
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:07:51 ERROR 400: Bad Request.
+
+--2017-02-02 19:07:52--  http://doi.org/10.1186/s13742-015-0065-6
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0065-6 [following]
+--2017-02-02 19:07:54--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0065-6
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0065-6 [following]
+--2017-02-02 19:07:55--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0065-6
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-015-0065-6’
+
+     0K .......... .......... ...                             100%  145K=0.2s
+
+2017-02-02 19:07:56 (145 KB/s) - ‘s13742-015-0065-6’ saved [23989/23989]
+
+--2017-02-02 19:07:57--  http://doi.org/10.1186/s13742-015-0062-9
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0062-9 [following]
+--2017-02-02 19:07:59--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0062-9
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0062-9 [following]
+--2017-02-02 19:08:00--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0062-9
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-015-0062-9’
+
+     0K .......... .......... ...                             100%  290K=0.08s
+
+2017-02-02 19:08:02 (290 KB/s) - ‘s13742-015-0062-9’ saved [23989/23989]
+
+--2017-02-02 19:08:03--  http://doi.org/10.1186/s13742-015-0063-8
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0063-8 [following]
+--2017-02-02 19:08:04--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0063-8
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0063-8 [following]
+--2017-02-02 19:08:06--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0063-8
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-015-0063-8’
+
+     0K .......... .......... ...                             100%  147K=0.2s
+
+2017-02-02 19:08:07 (147 KB/s) - ‘s13742-015-0063-8’ saved [23989/23989]
+
+--2017-02-02 19:08:08--  http://doi.org/10.1186/s13742-015-0064-7
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0064-7 [following]
+--2017-02-02 19:08:09--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0064-7
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:08:11 ERROR 400: Bad Request.
+
+--2017-02-02 19:08:12--  http://doi.org/10.1186/s13742-015-0057-6
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0057-6 [following]
+--2017-02-02 19:08:13--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0057-6
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:08:15 ERROR 400: Bad Request.
+
+--2017-02-02 19:08:16--  http://doi.org/10.1186/s13742-015-0059-4
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0059-4 [following]
+--2017-02-02 19:08:17--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0059-4
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0059-4 [following]
+--2017-02-02 19:08:18--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0059-4
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-015-0059-4’
+
+     0K .......... .......... ...                             100%  292K=0.08s
+
+2017-02-02 19:08:19 (292 KB/s) - ‘s13742-015-0059-4’ saved [23989/23989]
+
+--2017-02-02 19:08:20--  http://doi.org/10.1186/s13742-015-0060-y
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0060-y [following]
+--2017-02-02 19:08:21--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0060-y
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:08:22 ERROR 400: Bad Request.
+
+--2017-02-02 19:08:23--  http://doi.org/10.1186/s13742-015-0061-x
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0061-x [following]
+--2017-02-02 19:08:24--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0061-x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0061-x [following]
+--2017-02-02 19:08:26--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0061-x
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-015-0061-x’
+
+     0K .......... .......... ...                             100%  290K=0.08s
+
+2017-02-02 19:08:27 (290 KB/s) - ‘s13742-015-0061-x’ saved [23989/23989]
+
+--2017-02-02 19:08:28--  http://doi.org/10.1186/s13742-015-0056-7
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0056-7 [following]
+--2017-02-02 19:08:29--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0056-7
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0056-7 [following]
+--2017-02-02 19:08:30--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0056-7
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-015-0056-7’
+
+     0K .......... .......... ...                             100%  289K=0.08s
+
+2017-02-02 19:08:32 (289 KB/s) - ‘s13742-015-0056-7’ saved [23989/23989]
+
+--2017-02-02 19:08:33--  http://doi.org/10.1186/s13742-015-0054-9
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0054-9 [following]
+--2017-02-02 19:08:34--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0054-9
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0054-9 [following]
+--2017-02-02 19:08:36--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/gigascience/article-lookup/doi/10.1186/s13742-015-0054-9
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23989 (23K) [text/html]
+Saving to: ‘s13742-015-0054-9’
+
+     0K .......... .......... ...                             100%  292K=0.08s
+
+2017-02-02 19:08:37 (292 KB/s) - ‘s13742-015-0054-9’ saved [23989/23989]
+
+--2017-02-02 19:08:38--  http://doi.org/10.1186/s13742-015-0055-8
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0055-8 [following]
+--2017-02-02 19:08:39--  https://academic.oup.com/gigascience/article-lookup/doi/10.1186/s13742-015-0055-8
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:08:40 ERROR 400: Bad Request.
+
+FINISHED --2017-02-02 19:08:40--
+Total wall clock time: 7m 53s
+Downloaded: 80 files, 2.4M in 8.1s (299 KB/s)

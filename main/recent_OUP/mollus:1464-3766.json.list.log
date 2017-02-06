@@ -1,0 +1,1830 @@
+--2017-02-02 22:19:06--  http://doi.org/10.1093/mollus/eyw051
+Resolving doi.org (doi.org)... 63.123.152.248, 95.138.171.129, 54.191.229.235, ...
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw051 [following]
+--2017-02-02 22:19:08--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw051
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 253434 (247K) [text/html]
+Saving to: ‘eyw051’
+
+     0K .......... .......... .......... .......... .......... 20%  209K 1s
+    50K .......... .......... .......... .......... .......... 40%  611K 0s
+   100K .......... .......... .......... .......... .......... 60%  604K 0s
+   150K .......... .......... .......... .......... .......... 80%  609K 0s
+   200K .......... .......... .......... .......... .......   100%  301K=0.6s
+
+2017-02-02 22:19:18 (384 KB/s) - ‘eyw051’ saved [253434/253434]
+
+--2017-02-02 22:19:19--  http://doi.org/10.1093/mollus/eyw050
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw050 [following]
+--2017-02-02 22:19:20--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw050
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 200435 (196K) [text/html]
+Saving to: ‘eyw050’
+
+     0K .......... .......... .......... .......... .......... 25%  309K 0s
+    50K .......... .......... .......... .......... .......... 51%  312K 0s
+   100K .......... .......... .......... .......... .......... 76%  606K 0s
+   150K .......... .......... .......... .......... .....     100%  559K=0.5s
+
+2017-02-02 22:19:25 (402 KB/s) - ‘eyw050’ saved [200435/200435]
+
+--2017-02-02 22:19:26--  http://doi.org/10.1093/mollus/eyx001
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-02 22:19:27--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Resolving fdslive.oup.com (fdslive.oup.com)... 193.67.160.201
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘eyx001’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-02 22:19:27 (1.20 MB/s) - ‘eyx001’ saved [52438/52438]
+
+--2017-02-02 22:19:28--  http://doi.org/10.1093/mollus/eyw038
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw038 [following]
+--2017-02-02 22:19:30--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw038
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 139597 (136K) [text/html]
+Saving to: ‘eyw038’
+
+     0K .......... .......... .......... .......... .......... 36%  208K 0s
+    50K .......... .......... .......... .......... .......... 73%  602K 0s
+   100K .......... .......... .......... ......               100%  456K=0.4s
+
+2017-02-02 22:19:34 (339 KB/s) - ‘eyw038’ saved [139597/139597]
+
+--2017-02-02 22:19:35--  http://doi.org/10.1093/mollus/eyw049
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mollus.oxfordjournals.org/lookup/doi/10.1093/mollus/eyw049 [following]
+--2017-02-02 22:19:36--  http://mollus.oxfordjournals.org/lookup/doi/10.1093/mollus/eyw049
+Resolving mollus.oxfordjournals.org (mollus.oxfordjournals.org)... 209.135.222.209
+Connecting to mollus.oxfordjournals.org (mollus.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mollus.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mollus/article/83/1/111/2758307/Denser-mitogenomic-sampling-improves-resolution-of [following]
+--2017-02-02 22:19:38--  https://academic.oup.com/mollus/article/83/1/111/2758307/Denser-mitogenomic-sampling-improves-resolution-of
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 302161 (295K) [text/html]
+Saving to: ‘eyw049’
+
+     0K .......... .......... .......... .......... .......... 16%  209K 1s
+    50K .......... .......... .......... .......... .......... 33%  598K 1s
+   100K .......... .......... .......... .......... .......... 50%  608K 0s
+   150K .......... .......... .......... .......... .......... 67%  316K 0s
+   200K .......... .......... .......... .......... .......... 84%  612K 0s
+   250K .......... .......... .......... .......... .....     100%  548K=0.7s
+
+2017-02-02 22:19:50 (406 KB/s) - ‘eyw049’ saved [302161/302161]
+
+--2017-02-02 22:19:51--  http://doi.org/10.1093/mollus/eyw046
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mollus.oxfordjournals.org/lookup/doi/10.1093/mollus/eyw046 [following]
+--2017-02-02 22:19:52--  http://mollus.oxfordjournals.org/lookup/doi/10.1093/mollus/eyw046
+Connecting to mollus.oxfordjournals.org (mollus.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mollus.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mollus/article/83/1/106/2691237/The-composition-and-richness-of-the-land-snail [following]
+--2017-02-02 22:19:53--  https://academic.oup.com/mollus/article/83/1/106/2691237/The-composition-and-richness-of-the-land-snail
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 200532 (196K) [text/html]
+Saving to: ‘eyw046’
+
+     0K .......... .......... .......... .......... .......... 25%  209K 1s
+    50K .......... .......... .......... .......... .......... 51%  584K 0s
+   100K .......... .......... .......... .......... .......... 76%  615K 0s
+   150K .......... .......... .......... .......... .....     100%  529K=0.5s
+
+2017-02-02 22:20:00 (397 KB/s) - ‘eyw046’ saved [200532/200532]
+
+--2017-02-02 22:20:01--  http://doi.org/10.1093/mollus/eyw047
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mollus.oxfordjournals.org/lookup/doi/10.1093/mollus/eyw047 [following]
+--2017-02-02 22:20:02--  http://mollus.oxfordjournals.org/lookup/doi/10.1093/mollus/eyw047
+Connecting to mollus.oxfordjournals.org (mollus.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mollus.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mollus/article/83/1/69/2691238/Periwinkles-and-parasites-the-occurrence-and [following]
+--2017-02-02 22:20:03--  https://academic.oup.com/mollus/article/83/1/69/2691238/Periwinkles-and-parasites-the-occurrence-and
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 302409 (295K) [text/html]
+Saving to: ‘eyw047’
+
+     0K .......... .......... .......... .......... .......... 16%  209K 1s
+    50K .......... .......... .......... .......... .......... 33%  602K 1s
+   100K .......... .......... .......... .......... .......... 50%  613K 0s
+   150K .......... .......... .......... .......... .......... 67%  599K 0s
+   200K .......... .......... .......... .......... .......... 84%  314K 0s
+   250K .......... .......... .......... .......... .....     100%  554K=0.7s
+
+2017-02-02 22:20:08 (405 KB/s) - ‘eyw047’ saved [302409/302409]
+
+--2017-02-02 22:20:09--  http://doi.org/10.1093/mollus/eyw044
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mollus.oxfordjournals.org/lookup/doi/10.1093/mollus/eyw044 [following]
+--2017-02-02 22:20:11--  http://mollus.oxfordjournals.org/lookup/doi/10.1093/mollus/eyw044
+Connecting to mollus.oxfordjournals.org (mollus.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mollus.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mollus/article/83/1/123/2632266/Testing-the-contribution-of-individual-genes-in [following]
+--2017-02-02 22:20:12--  https://academic.oup.com/mollus/article/83/1/123/2632266/Testing-the-contribution-of-individual-genes-in
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 272276 (266K) [text/html]
+Saving to: ‘eyw044’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 37%  609K 1s
+   100K .......... .......... .......... .......... .......... 56%  613K 0s
+   150K .......... .......... .......... .......... .......... 75%  587K 0s
+   200K .......... .......... .......... .......... .......... 94%  311K 0s
+   250K .......... .....                                      100% 19.0M=0.6s
+
+2017-02-02 22:20:17 (409 KB/s) - ‘eyw044’ saved [272276/272276]
+
+--2017-02-02 22:20:18--  http://doi.org/10.1093/mollus/eyw045
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mollus.oxfordjournals.org/lookup/doi/10.1093/mollus/eyw045 [following]
+--2017-02-02 22:20:19--  http://mollus.oxfordjournals.org/lookup/doi/10.1093/mollus/eyw045
+Connecting to mollus.oxfordjournals.org (mollus.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mollus.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mollus/article/83/1/79/2632267/Chemical-cues-correlate-with-agonistic-behaviour [following]
+--2017-02-02 22:20:20--  https://academic.oup.com/mollus/article/83/1/79/2632267/Chemical-cues-correlate-with-agonistic-behaviour
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 304950 (298K) [text/html]
+Saving to: ‘eyw045’
+
+     0K .......... .......... .......... .......... .......... 16%  208K 1s
+    50K .......... .......... .......... .......... .......... 33%  610K 1s
+   100K .......... .......... .......... .......... .......... 50%  598K 0s
+   150K .......... .......... .......... .......... .......... 67%  313K 0s
+   200K .......... .......... .......... .......... .......... 83%  604K 0s
+   250K .......... .......... .......... .......... .......   100%  580K=0.7s
+
+2017-02-02 22:20:25 (407 KB/s) - ‘eyw045’ saved [304950/304950]
+
+--2017-02-02 22:20:26--  http://doi.org/10.1093/mollus/eyw042
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mollus.oxfordjournals.org/lookup/doi/10.1093/mollus/eyw042 [following]
+--2017-02-02 22:20:28--  http://mollus.oxfordjournals.org/lookup/doi/10.1093/mollus/eyw042
+Connecting to mollus.oxfordjournals.org (mollus.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mollus.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mollus/article/83/1/88/2632265/Life-cycles-and-adult-sizes-of-five-co-occurring [following]
+--2017-02-02 22:20:29--  https://academic.oup.com/mollus/article/83/1/88/2632265/Life-cycles-and-adult-sizes-of-five-co-occurring
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 455934 (445K) [text/html]
+Saving to: ‘eyw042’
+
+     0K .......... .......... .......... .......... .......... 11%  209K 2s
+    50K .......... .......... .......... .......... .......... 22%  594K 1s
+   100K .......... .......... .......... .......... .......... 33%  607K 1s
+   150K .......... .......... .......... .......... .......... 44%  604K 1s
+   200K .......... .......... .......... .......... .......... 56%  313K 1s
+   250K .......... .......... .......... .......... .......... 67%  607K 0s
+   300K .......... .......... .......... .......... .......... 78%  592K 0s
+   350K .......... .......... .......... .......... .......... 89%  311K 0s
+   400K .......... .......... .......... .......... .....     100%  552K=1.1s
+
+2017-02-02 22:20:34 (421 KB/s) - ‘eyw042’ saved [455934/455934]
+
+--2017-02-02 22:20:35--  http://doi.org/10.1093/mollus/eyw040
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mollus.oxfordjournals.org/lookup/doi/10.1093/mollus/eyw040 [following]
+--2017-02-02 22:20:37--  http://mollus.oxfordjournals.org/lookup/doi/10.1093/mollus/eyw040
+Connecting to mollus.oxfordjournals.org (mollus.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mollus.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mollus/article/83/1/1/2605920/Genetic-erosion-in-the-snail-Littoraria-subvittata [following]
+--2017-02-02 22:20:38--  https://academic.oup.com/mollus/article/83/1/1/2605920/Genetic-erosion-in-the-snail-Littoraria-subvittata
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 358073 (350K) [text/html]
+Saving to: ‘eyw040’
+
+     0K .......... .......... .......... .......... .......... 14%  209K 1s
+    50K .......... .......... .......... .......... .......... 28%  607K 1s
+   100K .......... .......... .......... .......... .......... 42%  609K 1s
+   150K .......... .......... .......... .......... .......... 57%  311K 0s
+   200K .......... .......... .......... .......... .......... 71%  605K 0s
+   250K .......... .......... .......... .......... .......... 85%  604K 0s
+   300K .......... .......... .......... .......... ......... 100%  603K=0.8s
+
+2017-02-02 22:20:44 (431 KB/s) - ‘eyw040’ saved [358073/358073]
+
+--2017-02-02 22:20:45--  http://doi.org/10.1093/mollus/eyw037
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mollus.oxfordjournals.org/lookup/doi/10.1093/mollus/eyw037 [following]
+--2017-02-02 22:20:46--  http://mollus.oxfordjournals.org/lookup/doi/10.1093/mollus/eyw037
+Connecting to mollus.oxfordjournals.org (mollus.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mollus.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mollus/article/83/1/36/2605917/From-pedal-to-filter-feeding-ctenidial [following]
+--2017-02-02 22:20:48--  https://academic.oup.com/mollus/article/83/1/36/2605917/From-pedal-to-filter-feeding-ctenidial
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 235778 (230K) [text/html]
+Saving to: ‘eyw037’
+
+     0K .......... .......... .......... .......... .......... 21%  209K 1s
+    50K .......... .......... .......... .......... .......... 43%  607K 0s
+   100K .......... .......... .......... .......... .......... 65%  601K 0s
+   150K .......... .......... .......... .......... .......... 86%  316K 0s
+   200K .......... .......... ..........                      100% 7.39M=0.6s
+
+2017-02-02 22:20:52 (406 KB/s) - ‘eyw037’ saved [235778/235778]
+
+--2017-02-02 22:20:53--  http://doi.org/10.1093/mollus/eyw043
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mollus.oxfordjournals.org/lookup/doi/10.1093/mollus/eyw043 [following]
+--2017-02-02 22:20:55--  http://mollus.oxfordjournals.org/lookup/doi/10.1093/mollus/eyw043
+Connecting to mollus.oxfordjournals.org (mollus.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mollus.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mollus/article/83/1/56/2605922/Multiple-mating-in-natural-populations-of-a [following]
+--2017-02-02 22:20:56--  https://academic.oup.com/mollus/article/83/1/56/2605922/Multiple-mating-in-natural-populations-of-a
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 362497 (354K) [text/html]
+Saving to: ‘eyw043’
+
+     0K .......... .......... .......... .......... .......... 14%  208K 1s
+    50K .......... .......... .......... .......... .......... 28%  590K 1s
+   100K .......... .......... .......... .......... .......... 42%  594K 1s
+   150K .......... .......... .......... .......... .......... 56%  612K 0s
+   200K .......... .......... .......... .......... .......... 70%  306K 0s
+   250K .......... .......... .......... .......... .......... 84%  605K 0s
+   300K .......... .......... .......... .......... .......... 98%  590K 0s
+   350K ....                                                  100% 13.8M=0.8s
+
+2017-02-02 22:21:03 (431 KB/s) - ‘eyw043’ saved [362497/362497]
+
+--2017-02-02 22:21:04--  http://doi.org/10.1093/mollus/eyw039
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mollus.oxfordjournals.org/lookup/doi/10.1093/mollus/eyw039 [following]
+--2017-02-02 22:21:06--  http://mollus.oxfordjournals.org/lookup/doi/10.1093/mollus/eyw039
+Connecting to mollus.oxfordjournals.org (mollus.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mollus.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mollus/article/83/1/27/2605919/EU-protected-slug-Geomalacus-maculosus-and [following]
+--2017-02-02 22:21:07--  https://academic.oup.com/mollus/article/83/1/27/2605919/EU-protected-slug-Geomalacus-maculosus-and
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 227771 (222K) [text/html]
+Saving to: ‘eyw039’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 44%  604K 0s
+   100K .......... .......... .......... .......... .......... 67%  613K 0s
+   150K .......... .......... .......... .......... .......... 89%  314K 0s
+   200K .......... .......... ..                              100% 8.56M=0.6s
+
+2017-02-02 22:21:10 (393 KB/s) - ‘eyw039’ saved [227771/227771]
+
+--2017-02-02 22:21:11--  http://doi.org/10.1093/mollus/eyw041
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mollus.oxfordjournals.org/lookup/doi/10.1093/mollus/eyw041 [following]
+--2017-02-02 22:21:13--  http://mollus.oxfordjournals.org/lookup/doi/10.1093/mollus/eyw041
+Connecting to mollus.oxfordjournals.org (mollus.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mollus.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mollus/article/83/1/63/2605921/Isolation-characterization-and-population-genetic [following]
+--2017-02-02 22:21:14--  https://academic.oup.com/mollus/article/83/1/63/2605921/Isolation-characterization-and-population-genetic
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 222950 (218K) [text/html]
+Saving to: ‘eyw041’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 45%  602K 0s
+   100K .......... .......... .......... .......... .......... 68%  607K 0s
+   150K .......... .......... .......... .......... .......... 91%  605K 0s
+   200K .......... .......                                    100%  229K=0.6s
+
+2017-02-02 22:21:18 (386 KB/s) - ‘eyw041’ saved [222950/222950]
+
+--2017-02-02 22:21:19--  http://doi.org/10.1093/mollus/eyw036
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mollus.oxfordjournals.org/lookup/doi/10.1093/mollus/eyw036 [following]
+--2017-02-02 22:21:20--  http://mollus.oxfordjournals.org/lookup/doi/10.1093/mollus/eyw036
+Connecting to mollus.oxfordjournals.org (mollus.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mollus.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mollus/article/83/1/43/2452288/Too-familiar-to-be-questioned-Revisiting-the [following]
+--2017-02-02 22:21:21--  https://academic.oup.com/mollus/article/83/1/43/2452288/Too-familiar-to-be-questioned-Revisiting-the
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 254671 (249K) [text/html]
+Saving to: ‘eyw036’
+
+     0K .......... .......... .......... .......... .......... 20%  261K 1s
+    50K .......... .......... .......... .......... .......... 40%  313K 1s
+   100K .......... .......... .......... .......... .......... 60%  611K 0s
+   150K .......... .......... .......... .......... .......... 80%  598K 0s
+   200K .......... .......... .......... .......... ........  100%  597K=0.6s
+
+2017-02-02 22:21:26 (415 KB/s) - ‘eyw036’ saved [254671/254671]
+
+--2017-02-02 22:21:27--  http://doi.org/10.1093/mollus/eyw035
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mollus.oxfordjournals.org/lookup/doi/10.1093/mollus/eyw035 [following]
+--2017-02-02 22:21:28--  http://mollus.oxfordjournals.org/lookup/doi/10.1093/mollus/eyw035
+Connecting to mollus.oxfordjournals.org (mollus.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mollus.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mollus/article/83/1/129/2340814/Morphological-and-molecular-evidence-of [following]
+--2017-02-02 22:21:29--  https://academic.oup.com/mollus/article/83/1/129/2340814/Morphological-and-molecular-evidence-of
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 155954 (152K) [text/html]
+Saving to: ‘eyw035’
+
+     0K .......... .......... .......... .......... .......... 32%  209K 0s
+    50K .......... .......... .......... .......... .......... 65%  605K 0s
+   100K .......... .......... .......... .......... .......... 98%  613K 0s
+   150K ..                                                    100% 12.3M=0.4s
+
+2017-02-02 22:21:33 (377 KB/s) - ‘eyw035’ saved [155954/155954]
+
+--2017-02-02 22:21:34--  http://doi.org/10.1093/mollus/eyw034
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mollus.oxfordjournals.org/lookup/doi/10.1093/mollus/eyw034 [following]
+--2017-02-02 22:21:35--  http://mollus.oxfordjournals.org/lookup/doi/10.1093/mollus/eyw034
+Connecting to mollus.oxfordjournals.org (mollus.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mollus.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mollus/article/83/1/119/2528039/No-evidence-of-sex-linked-heteroplasmy-or-doubly [following]
+--2017-02-02 22:21:37--  https://academic.oup.com/mollus/article/83/1/119/2528039/No-evidence-of-sex-linked-heteroplasmy-or-doubly
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 210440 (206K) [text/html]
+Saving to: ‘eyw034’
+
+     0K .......... .......... .......... .......... .......... 24%  308K 1s
+    50K .......... .......... .......... .......... .......... 48%  313K 0s
+   100K .......... .......... .......... .......... .......... 72%  606K 0s
+   150K .......... .......... .......... .......... .......... 97%  315K 0s
+   200K .....                                                 100% 10.2M=0.6s
+
+2017-02-02 22:21:46 (364 KB/s) - ‘eyw034’ saved [210440/210440]
+
+--2017-02-02 22:21:47--  http://doi.org/10.1093/mollus/eyw028
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw028 [following]
+--2017-02-02 22:21:48--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw028
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 306622 (299K) [text/html]
+Saving to: ‘eyw028’
+
+     0K .......... .......... .......... .......... .......... 16%  207K 1s
+    50K .......... .......... .......... .......... .......... 33%  609K 1s
+   100K .......... .......... .......... .......... .......... 50%  122K 1s
+   150K .......... .......... .......... .......... .......... 66%  614K 0s
+   200K .......... .......... .......... .......... .......... 83%  582K 0s
+   250K .......... .......... .......... .......... ......... 100%  602K=1.0s
+
+2017-02-02 22:21:53 (304 KB/s) - ‘eyw028’ saved [306622/306622]
+
+--2017-02-02 22:21:54--  http://doi.org/10.1093/mollus/eyw022
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw022 [following]
+--2017-02-02 22:21:56--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw022
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 385129 (376K) [text/html]
+Saving to: ‘eyw022’
+
+     0K .......... .......... .......... .......... .......... 13%  209K 2s
+    50K .......... .......... .......... .......... .......... 26%  603K 1s
+   100K .......... .......... .......... .......... .......... 39%  606K 1s
+   150K .......... .......... .......... .......... .......... 53%  316K 0s
+   200K .......... .......... .......... .......... .......... 66%  597K 0s
+   250K .......... .......... .......... .......... .......... 79%  598K 0s
+   300K .......... .......... .......... .......... .......... 93%  608K 0s
+   350K .......... .......... ......                          100%  336K=0.9s
+
+2017-02-02 22:22:07 (422 KB/s) - ‘eyw022’ saved [385129/385129]
+
+--2017-02-02 22:22:08--  http://doi.org/10.1093/mollus/eyw029
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw029 [following]
+--2017-02-02 22:22:09--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw029
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 370038 (361K) [text/html]
+Saving to: ‘eyw029’
+
+     0K .......... .......... .......... .......... .......... 13%  209K 1s
+    50K .......... .......... .......... .......... .......... 27%  606K 1s
+   100K .......... .......... .......... .......... .......... 41%  597K 1s
+   150K .......... .......... .......... .......... .......... 55%  600K 0s
+   200K .......... .......... .......... .......... .......... 69%  321K 0s
+   250K .......... .......... .......... .......... .......... 83%  586K 0s
+   300K .......... .......... .......... .......... .......... 96%  609K 0s
+   350K .......... .                                          100%  282K=0.9s
+
+2017-02-02 22:22:16 (424 KB/s) - ‘eyw029’ saved [370038/370038]
+
+--2017-02-02 22:22:17--  http://doi.org/10.1093/mollus/eyw024
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw024 [following]
+--2017-02-02 22:22:18--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw024
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 22:22:19 ERROR 400: Bad Request.
+
+--2017-02-02 22:22:20--  http://doi.org/10.1093/mollus/eyw033
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw033 [following]
+--2017-02-02 22:22:21--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw033
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 118311 (116K) [text/html]
+Saving to: ‘eyw033’
+
+     0K .......... .......... .......... .......... .......... 43%  209K 0s
+    50K .......... .......... .......... .......... .......... 86%  614K 0s
+   100K .......... .....                                      100% 6.61M=0.3s
+
+2017-02-02 22:22:26 (358 KB/s) - ‘eyw033’ saved [118311/118311]
+
+--2017-02-02 22:22:27--  http://doi.org/10.1093/mollus/eyw027
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw027 [following]
+--2017-02-02 22:22:28--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw027
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 22:22:29 ERROR 400: Bad Request.
+
+--2017-02-02 22:22:30--  http://doi.org/10.1093/mollus/eyw032
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mollus.oxfordjournals.org/lookup/doi/10.1093/mollus/eyw032 [following]
+--2017-02-02 22:22:31--  http://mollus.oxfordjournals.org/lookup/doi/10.1093/mollus/eyw032
+Connecting to mollus.oxfordjournals.org (mollus.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mollus.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mollus/article/83/1/19/2528038/A-new-species-of-Clione-distinguished-from [following]
+--2017-02-02 22:22:32--  https://academic.oup.com/mollus/article/83/1/19/2528038/A-new-species-of-Clione-distinguished-from
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 245479 (240K) [text/html]
+Saving to: ‘eyw032’
+
+     0K .......... .......... .......... .......... .......... 20%  209K 1s
+    50K .......... .......... .......... .......... .......... 41%  615K 0s
+   100K .......... .......... .......... .......... .......... 62%  603K 0s
+   150K .......... .......... .......... .......... .......... 83%  607K 0s
+   200K .......... .......... .......... .........            100%  490K=0.6s
+
+2017-02-02 22:22:38 (423 KB/s) - ‘eyw032’ saved [245479/245479]
+
+--2017-02-02 22:22:39--  http://doi.org/10.1093/mollus/eyw025
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mollus.oxfordjournals.org/lookup/doi/10.1093/mollus/eyw025 [following]
+--2017-02-02 22:22:41--  http://mollus.oxfordjournals.org/lookup/doi/10.1093/mollus/eyw025
+Connecting to mollus.oxfordjournals.org (mollus.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mollus.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mollus/article/83/1/11/2527632/Spatial-and-temporal-adjustments-in-gill-and-palp [following]
+--2017-02-02 22:22:42--  https://academic.oup.com/mollus/article/83/1/11/2527632/Spatial-and-temporal-adjustments-in-gill-and-palp
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 289736 (283K) [text/html]
+Saving to: ‘eyw025’
+
+     0K .......... .......... .......... .......... .......... 17%  208K 1s
+    50K .......... .......... .......... .......... .......... 35%  606K 1s
+   100K .......... .......... .......... .......... .......... 53%  613K 0s
+   150K .......... .......... .......... .......... .......... 70%  599K 0s
+   200K .......... .......... .......... .......... .......... 88%  313K 0s
+   250K .......... .......... .......... ..                   100% 5.88M=0.7s
+
+2017-02-02 22:22:48 (433 KB/s) - ‘eyw025’ saved [289736/289736]
+
+--2017-02-02 22:22:49--  http://doi.org/10.1093/mollus/eyw026
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw026 [following]
+--2017-02-02 22:22:51--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw026
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 335339 (327K) [text/html]
+Saving to: ‘eyw026’
+
+     0K .......... .......... .......... .......... .......... 15%  209K 1s
+    50K .......... .......... .......... .......... .......... 30%  604K 1s
+   100K .......... .......... .......... .......... .......... 45%  609K 0s
+   150K .......... .......... .......... .......... .......... 61%  315K 0s
+   200K .......... .......... .......... .......... .......... 76%  599K 0s
+   250K .......... .......... .......... .......... .......... 91%  606K 0s
+   300K .......... .......... .......                         100%  346K=0.8s
+
+2017-02-02 22:22:58 (405 KB/s) - ‘eyw026’ saved [335339/335339]
+
+--2017-02-02 22:22:59--  http://doi.org/10.1093/mollus/eyw019
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw019 [following]
+--2017-02-02 22:23:00--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 364223 (356K) [text/html]
+Saving to: ‘eyw019’
+
+     0K .......... .......... .......... .......... .......... 14%  208K 1s
+    50K .......... .......... .......... .......... .......... 28%  604K 1s
+   100K .......... .......... .......... .......... .......... 42%  612K 1s
+   150K .......... .......... .......... .......... .......... 56%  602K 0s
+   200K .......... .......... .......... .......... .......... 70%  423K 0s
+   250K .......... .......... .......... .......... .......... 84%  404K 0s
+   300K .......... .......... .......... .......... .......... 98%  423K 0s
+   350K .....                                                 100% 25.3M=0.8s
+
+2017-02-02 22:23:09 (419 KB/s) - ‘eyw019’ saved [364223/364223]
+
+--2017-02-02 22:23:10--  http://doi.org/10.1093/mollus/eyw017
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw017 [following]
+--2017-02-02 22:23:11--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 300456 (293K) [text/html]
+Saving to: ‘eyw017’
+
+     0K .......... .......... .......... .......... .......... 17%  307K 1s
+    50K .......... .......... .......... .......... .......... 34%  315K 1s
+   100K .......... .......... .......... .......... .......... 51%  589K 0s
+   150K .......... .......... .......... .......... .......... 68%  590K 0s
+   200K .......... .......... .......... .......... .......... 85%  589K 0s
+   250K .......... .......... .......... .......... ...       100%  531K=0.7s
+
+2017-02-02 22:23:16 (446 KB/s) - ‘eyw017’ saved [300456/300456]
+
+--2017-02-02 22:23:17--  http://doi.org/10.1093/mollus/eyw020
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw020 [following]
+--2017-02-02 22:23:18--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw020
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 22:23:19 ERROR 400: Bad Request.
+
+--2017-02-02 22:23:20--  http://doi.org/10.1093/mollus/eyw015
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw015 [following]
+--2017-02-02 22:23:21--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 211203 (206K) [text/html]
+Saving to: ‘eyw015’
+
+     0K .......... .......... .......... .......... .......... 24%  208K 1s
+    50K .......... .......... .......... .......... .......... 48%  602K 0s
+   100K .......... .......... .......... .......... .......... 72%  589K 0s
+   150K .......... .......... .......... .......... .......... 96%  315K 0s
+   200K ......                                                100% 12.2M=0.6s
+
+2017-02-02 22:23:27 (363 KB/s) - ‘eyw015’ saved [211203/211203]
+
+--2017-02-02 22:23:28--  http://doi.org/10.1093/mollus/eyw018
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw018 [following]
+--2017-02-02 22:23:29--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw018
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 295829 (289K) [text/html]
+Saving to: ‘eyw018’
+
+     0K .......... .......... .......... .......... .......... 17%  208K 1s
+    50K .......... .......... .......... .......... .......... 34%  602K 1s
+   100K .......... .......... .......... .......... .......... 51%  603K 0s
+   150K .......... .......... .......... .......... .......... 69%  610K 0s
+   200K .......... .......... .......... .......... .......... 86%  311K 0s
+   250K .......... .......... .......... ........             100%  498K=0.7s
+
+2017-02-02 22:23:36 (398 KB/s) - ‘eyw018’ saved [295829/295829]
+
+--2017-02-02 22:23:37--  http://doi.org/10.1093/mollus/eyw016
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw016 [following]
+--2017-02-02 22:23:39--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw016
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 270074 (264K) [text/html]
+Saving to: ‘eyw016’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 37%  602K 1s
+   100K .......... .......... .......... .......... .......... 56%  610K 0s
+   150K .......... .......... .......... .......... .......... 75%  427K 0s
+   200K .......... .......... .......... .......... .......... 94%  399K 0s
+   250K .......... ...                                        100% 2.47M=0.7s
+
+2017-02-02 22:23:43 (404 KB/s) - ‘eyw016’ saved [270074/270074]
+
+--2017-02-02 22:23:44--  http://doi.org/10.1093/mollus/eyw014
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw014 [following]
+--2017-02-02 22:23:46--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw014
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 22:23:46 ERROR 400: Bad Request.
+
+--2017-02-02 22:23:47--  http://doi.org/10.1093/mollus/eyw013
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw013 [following]
+--2017-02-02 22:23:49--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 287394 (281K) [text/html]
+Saving to: ‘eyw013’
+
+     0K .......... .......... .......... .......... .......... 17%  208K 1s
+    50K .......... .......... .......... .......... .......... 35%  604K 1s
+   100K .......... .......... .......... .......... .......... 53%  611K 0s
+   150K .......... .......... .......... .......... .......... 71%  598K 0s
+   200K .......... .......... .......... .......... .......... 89%  310K 0s
+   250K .......... .......... ..........                      100% 13.2M=0.7s
+
+2017-02-02 22:23:58 (430 KB/s) - ‘eyw013’ saved [287394/287394]
+
+--2017-02-02 22:23:59--  http://doi.org/10.1093/mollus/eyw012
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw012 [following]
+--2017-02-02 22:24:00--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 246691 (241K) [text/html]
+Saving to: ‘eyw012’
+
+     0K .......... .......... .......... .......... .......... 20%  205K 1s
+    50K .......... .......... .......... .......... .......... 41%  605K 0s
+   100K .......... .......... .......... .......... .......... 62%  603K 0s
+   150K .......... .......... .......... .......... .......... 83%  602K 0s
+   200K .......... .......... .......... ..........           100%  484K=0.6s
+
+2017-02-02 22:24:04 (417 KB/s) - ‘eyw012’ saved [246691/246691]
+
+--2017-02-02 22:24:05--  http://doi.org/10.1093/mollus/eyw009
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw009 [following]
+--2017-02-02 22:24:07--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 223004 (218K) [text/html]
+Saving to: ‘eyw009’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 45%  609K 0s
+   100K .......... .......... .......... .......... .......... 68%  602K 0s
+   150K .......... .......... .......... .......... .......... 91%  595K 0s
+   200K .......... .......                                    100%  228K=0.6s
+
+2017-02-02 22:24:10 (384 KB/s) - ‘eyw009’ saved [223004/223004]
+
+--2017-02-02 22:24:11--  http://doi.org/10.1093/mollus/eyw011
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw011 [following]
+--2017-02-02 22:24:12--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 252877 (247K) [text/html]
+Saving to: ‘eyw011’
+
+     0K .......... .......... .......... .......... .......... 20%  209K 1s
+    50K .......... .......... .......... .......... .......... 40%  599K 0s
+   100K .......... .......... .......... .......... .......... 60%  612K 0s
+   150K .......... .......... .......... .......... .......... 80%  314K 0s
+   200K .......... .......... .......... .......... ......    100%  564K=0.6s
+
+2017-02-02 22:24:17 (382 KB/s) - ‘eyw011’ saved [252877/252877]
+
+--2017-02-02 22:24:18--  http://doi.org/10.1093/mollus/eyw008
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw008 [following]
+--2017-02-02 22:24:19--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 210008 (205K) [text/html]
+Saving to: ‘eyw008’
+
+     0K .......... .......... .......... .......... .......... 24%  209K 1s
+    50K .......... .......... .......... .......... .......... 48%  603K 0s
+   100K .......... .......... .......... .......... .......... 73%  597K 0s
+   150K .......... .......... .......... .......... .......... 97%  615K 0s
+   200K .....                                                 100% 67.5K=0.6s
+
+2017-02-02 22:24:23 (364 KB/s) - ‘eyw008’ saved [210008/210008]
+
+--2017-02-02 22:24:24--  http://doi.org/10.1093/mollus/eyw010
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw010 [following]
+--2017-02-02 22:24:25--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 320929 (313K) [text/html]
+Saving to: ‘eyw010’
+
+     0K .......... .......... .......... .......... .......... 15%  209K 1s
+    50K .......... .......... .......... .......... .......... 31%  595K 1s
+   100K .......... .......... .......... .......... .......... 47%  611K 0s
+   150K .......... .......... .......... .......... .......... 63%  589K 0s
+   200K .......... .......... .......... .......... .......... 79%  320K 0s
+   250K .......... .......... .......... .......... .......... 95%  581K 0s
+   300K .......... ...                                        100% 24.3M=0.7s
+
+2017-02-02 22:24:30 (428 KB/s) - ‘eyw010’ saved [320929/320929]
+
+--2017-02-02 22:24:31--  http://doi.org/10.1093/mollus/eyw007
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw007 [following]
+--2017-02-02 22:24:32--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 242063 (236K) [text/html]
+Saving to: ‘eyw007’
+
+     0K .......... .......... .......... .......... .......... 21%  209K 1s
+    50K .......... .......... .......... .......... .......... 42%  595K 0s
+   100K .......... .......... .......... .......... .......... 63%  608K 0s
+   150K .......... .......... .......... .......... .......... 84%  605K 0s
+   200K .......... .......... .......... ......               100%  440K=0.6s
+
+2017-02-02 22:24:36 (414 KB/s) - ‘eyw007’ saved [242063/242063]
+
+--2017-02-02 22:24:37--  http://doi.org/10.1093/mollus/eyw004
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw004 [following]
+--2017-02-02 22:24:39--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 337108 (329K) [text/html]
+Saving to: ‘eyw004’
+
+     0K .......... .......... .......... .......... .......... 15%  309K 1s
+    50K .......... .......... .......... .......... .......... 30%  313K 1s
+   100K .......... .......... .......... .......... .......... 45%  597K 0s
+   150K .......... .......... .......... .......... .......... 60%  318K 0s
+   200K .......... .......... .......... .......... .......... 75%  595K 0s
+   250K .......... .......... .......... .......... .......... 91%  590K 0s
+   300K .......... .......... .........                       100%  376K=0.8s
+
+2017-02-02 22:24:43 (407 KB/s) - ‘eyw004’ saved [337108/337108]
+
+--2017-02-02 22:24:44--  http://doi.org/10.1093/mollus/eyw005
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw005 [following]
+--2017-02-02 22:24:46--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 203541 (199K) [text/html]
+Saving to: ‘eyw005’
+
+     0K .......... .......... .......... .......... .......... 25%  208K 1s
+    50K .......... .......... .......... .......... .......... 50%  600K 0s
+   100K .......... .......... .......... .......... .......... 75%  597K 0s
+   150K .......... .......... .......... .......... ........  100%  583K=0.5s
+
+2017-02-02 22:24:49 (405 KB/s) - ‘eyw005’ saved [203541/203541]
+
+--2017-02-02 22:24:50--  http://doi.org/10.1093/mollus/eyw006
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw006 [following]
+--2017-02-02 22:24:51--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 202502 (198K) [text/html]
+Saving to: ‘eyw006’
+
+     0K .......... .......... .......... .......... .......... 25%  209K 1s
+    50K .......... .......... .......... .......... .......... 50%  582K 0s
+   100K .......... .......... .......... .......... .......... 75%  611K 0s
+   150K .......... .......... .......... .......... .......   100%  584K=0.5s
+
+2017-02-02 22:24:56 (405 KB/s) - ‘eyw006’ saved [202502/202502]
+
+--2017-02-02 22:24:57--  http://doi.org/10.1093/mollus/eyw001
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw001 [following]
+--2017-02-02 22:24:58--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 450469 (440K) [text/html]
+Saving to: ‘eyw001’
+
+     0K .......... .......... .......... .......... .......... 11%  208K 2s
+    50K .......... .......... .......... .......... .......... 22%  592K 1s
+   100K .......... .......... .......... .......... .......... 34%  586K 1s
+   150K .......... .......... .......... .......... .......... 45%  599K 1s
+   200K .......... .......... .......... .......... .......... 56%  316K 0s
+   250K .......... .......... .......... .......... .......... 68%  572K 0s
+   300K .......... .......... .......... .......... .......... 79%  599K 0s
+   350K .......... .......... .......... .......... .......... 90%  317K 0s
+   400K .......... .......... .......... .........            100%  491K=1.1s
+
+2017-02-02 22:25:02 (414 KB/s) - ‘eyw001’ saved [450469/450469]
+
+--2017-02-02 22:25:03--  http://doi.org/10.1093/mollus/eyw002
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw002 [following]
+--2017-02-02 22:25:05--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 321515 (314K) [text/html]
+Saving to: ‘eyw002’
+
+     0K .......... .......... .......... .......... .......... 15%  208K 1s
+    50K .......... .......... .......... .......... .......... 31%  595K 1s
+   100K .......... .......... .......... .......... .......... 47%  611K 0s
+   150K .......... .......... .......... .......... .......... 63%  600K 0s
+   200K .......... .......... .......... .......... .......... 79%  311K 0s
+   250K .......... .......... .......... .......... .......... 95%  612K 0s
+   300K .......... ...                                        100% 2.74M=0.7s
+
+2017-02-02 22:25:09 (426 KB/s) - ‘eyw002’ saved [321515/321515]
+
+--2017-02-02 22:25:10--  http://doi.org/10.1093/mollus/eyw003
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw003 [following]
+--2017-02-02 22:25:11--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyw003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 235641 (230K) [text/html]
+Saving to: ‘eyw003’
+
+     0K .......... .......... .......... .......... .......... 21%  208K 1s
+    50K .......... .......... .......... .......... .......... 43%  606K 0s
+   100K .......... .......... .......... .......... .......... 65%  602K 0s
+   150K .......... .......... .......... .......... .......... 86%  314K 0s
+   200K .......... .......... ..........                      100% 3.30M=0.6s
+
+2017-02-02 22:25:15 (401 KB/s) - ‘eyw003’ saved [235641/235641]
+
+--2017-02-02 22:25:16--  http://doi.org/10.1093/mollus/eyv068
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv068 [following]
+--2017-02-02 22:25:17--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv068
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 22:25:18 ERROR 400: Bad Request.
+
+--2017-02-02 22:25:19--  http://doi.org/10.1093/mollus/eyv071
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv071 [following]
+--2017-02-02 22:25:20--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv071
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 374143 (365K) [text/html]
+Saving to: ‘eyv071’
+
+     0K .......... .......... .......... .......... .......... 13%  310K 1s
+    50K .......... .......... .......... .......... .......... 27%  314K 1s
+   100K .......... .......... .......... .......... .......... 41%  606K 1s
+   150K .......... .......... .......... .......... .......... 54%  315K 0s
+   200K .......... .......... .......... .......... .......... 68%  582K 0s
+   250K .......... .......... .......... .......... .......... 82%  609K 0s
+   300K .......... .......... .......... .......... .......... 95%  607K 0s
+   350K .......... .....                                      100%  196K=0.9s
+
+2017-02-02 22:25:24 (410 KB/s) - ‘eyv071’ saved [374143/374143]
+
+--2017-02-02 22:25:25--  http://doi.org/10.1093/mollus/eyv065
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv065 [following]
+--2017-02-02 22:25:26--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv065
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 104371 (102K) [text/html]
+Saving to: ‘eyv065’
+
+     0K .......... .......... .......... .......... .......... 49%  209K 0s
+    50K .......... .......... .......... .......... .......... 98%  611K 0s
+   100K .                                                     100% 3671G=0.3s
+
+2017-02-02 22:25:29 (317 KB/s) - ‘eyv065’ saved [104371/104371]
+
+--2017-02-02 22:25:30--  http://doi.org/10.1093/mollus/eyv067
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv067 [following]
+--2017-02-02 22:25:32--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv067
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 157031 (153K) [text/html]
+Saving to: ‘eyv067’
+
+     0K .......... .......... .......... .......... .......... 32%  207K 0s
+    50K .......... .......... .......... .......... .......... 65%  602K 0s
+   100K .......... .......... .......... .......... .......... 97%  605K 0s
+   150K ...                                                   100% 10.3M=0.4s
+
+2017-02-02 22:25:36 (377 KB/s) - ‘eyv067’ saved [157031/157031]
+
+--2017-02-02 22:25:37--  http://doi.org/10.1093/mollus/eyv063
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv063 [following]
+--2017-02-02 22:25:38--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv063
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 430031 (420K) [text/html]
+Saving to: ‘eyv063’
+
+     0K .......... .......... .......... .......... .......... 11%  207K 2s
+    50K .......... .......... .......... .......... .......... 23%  595K 1s
+   100K .......... .......... .......... .......... .......... 35%  594K 1s
+   150K .......... .......... .......... .......... .......... 47%  608K 1s
+   200K .......... .......... .......... .......... .......... 59%  318K 0s
+   250K .......... .......... .......... .......... .......... 71%  580K 0s
+   300K .......... .......... .......... .......... .......... 83% 32.3K 0s
+   350K .......... .......... .......... .......... .......... 95%  104K 0s
+   400K .......... .........                                  100%  125K=2.9s
+
+2017-02-02 22:25:46 (144 KB/s) - ‘eyv063’ saved [430031/430031]
+
+--2017-02-02 22:25:47--  http://doi.org/10.1093/mollus/eyv069
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv069 [following]
+--2017-02-02 22:25:48--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv069
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 300833 (294K) [text/html]
+Saving to: ‘eyv069’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 34%  598K 1s
+   100K .......... .......... .......... .......... .......... 51%  610K 0s
+   150K .......... .......... .......... .......... .......... 68%  609K 0s
+   200K .......... .......... .......... .......... .......... 85%  312K 0s
+   250K .......... .......... .......... .......... ...       100%  544K=0.7s
+
+2017-02-02 22:25:53 (404 KB/s) - ‘eyv069’ saved [300833/300833]
+
+--2017-02-02 22:25:54--  http://doi.org/10.1093/mollus/eyv066
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv066 [following]
+--2017-02-02 22:25:56--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv066
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 384760 (376K) [text/html]
+Saving to: ‘eyv066’
+
+     0K .......... .......... .......... .......... .......... 13%  209K 2s
+    50K .......... .......... .......... .......... .......... 26%  613K 1s
+   100K .......... .......... .......... .......... .......... 39%  600K 1s
+   150K .......... .......... .......... .......... .......... 53%  316K 0s
+   200K .......... .......... .......... .......... .......... 66%  601K 0s
+   250K .......... .......... .......... .......... .......... 79%  602K 0s
+   300K .......... .......... .......... .......... .......... 93%  604K 0s
+   350K .......... .......... .....                           100%  313K=0.9s
+
+2017-02-02 22:26:18 (420 KB/s) - ‘eyv066’ saved [384760/384760]
+
+--2017-02-02 22:26:19--  http://doi.org/10.1093/mollus/eyv070
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv070 [following]
+--2017-02-02 22:26:20--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv070
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 291077 (284K) [text/html]
+Saving to: ‘eyv070’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 35%  611K 1s
+   100K .......... .......... .......... .......... .......... 52%  579K 0s
+   150K .......... .......... .......... .......... .......... 70%  609K 0s
+   200K .......... .......... .......... .......... .......... 87%  314K 0s
+   250K .......... .......... .......... ....                 100% 8.49M=0.7s
+
+2017-02-02 22:26:24 (435 KB/s) - ‘eyv070’ saved [291077/291077]
+
+--2017-02-02 22:26:25--  http://doi.org/10.1093/mollus/eyv064
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv064 [following]
+--2017-02-02 22:26:27--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv064
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 22:26:27 ERROR 400: Bad Request.
+
+--2017-02-02 22:26:28--  http://doi.org/10.1093/mollus/eyv057
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv057 [following]
+--2017-02-02 22:26:30--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv057
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 22:26:30 ERROR 400: Bad Request.
+
+--2017-02-02 22:26:31--  http://doi.org/10.1093/mollus/eyv058
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv058 [following]
+--2017-02-02 22:26:33--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv058
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 179881 (176K) [text/html]
+Saving to: ‘eyv058’
+
+     0K .......... .......... .......... .......... .......... 28%  209K 1s
+    50K .......... .......... .......... .......... .......... 56%  612K 0s
+   100K .......... .......... .......... .......... .......... 85%  609K 0s
+   150K .......... .......... .....                           100%  315K=0.5s
+
+2017-02-02 22:26:37 (362 KB/s) - ‘eyv058’ saved [179881/179881]
+
+--2017-02-02 22:26:38--  http://doi.org/10.1093/mollus/eyw048
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-02 22:26:39--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘eyw048’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-02 22:26:39 (1.20 MB/s) - ‘eyw048’ saved [52438/52438]
+
+--2017-02-02 22:26:40--  http://doi.org/10.1093/mollus/eyw052
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-02 22:26:42--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘eyw052’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-02 22:26:42 (1.32 MB/s) - ‘eyw052’ saved [52438/52438]
+
+--2017-02-02 22:26:43--  http://doi.org/10.1093/mollus/eyv062
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv062 [following]
+--2017-02-02 22:26:44--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv062
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 288877 (282K) [text/html]
+Saving to: ‘eyv062’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 35%  613K 1s
+   100K .......... .......... .......... .......... .......... 53%  596K 0s
+   150K .......... .......... .......... .......... .......... 70%  320K 0s
+   200K .......... .......... .......... .......... .......... 88%  593K 0s
+   250K .......... .......... .......... ..                   100%  402K=0.7s
+
+2017-02-02 22:26:49 (389 KB/s) - ‘eyv062’ saved [288877/288877]
+
+--2017-02-02 22:26:50--  http://doi.org/10.1093/mollus/eyv061
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv061 [following]
+--2017-02-02 22:26:51--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv061
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 154860 (151K) [text/html]
+Saving to: ‘eyv061’
+
+     0K .......... .......... .......... .......... .......... 33%  208K 0s
+    50K .......... .......... .......... .......... .......... 66%  585K 0s
+   100K .......... .......... .......... .......... .......... 99%  596K 0s
+   150K .                                                     100% 2347G=0.4s
+
+2017-02-02 22:27:01 (369 KB/s) - ‘eyv061’ saved [154860/154860]
+
+--2017-02-02 22:27:02--  http://doi.org/10.1093/mollus/eyv056
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv056 [following]
+--2017-02-02 22:27:03--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv056
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 312352 (305K) [text/html]
+Saving to: ‘eyv056’
+
+     0K .......... .......... .......... .......... .......... 16%  310K 1s
+    50K .......... .......... .......... .......... .......... 32%  313K 1s
+   100K .......... .......... .......... .......... .......... 49%  594K 0s
+   150K .......... .......... .......... .......... .......... 65%  407K 0s
+   200K .......... .......... .......... .......... .......... 81%  428K 0s
+   250K .......... .......... .......... .......... .......... 98%  594K 0s
+   300K .....                                                 100% 14.0M=0.7s
+
+2017-02-02 22:27:08 (418 KB/s) - ‘eyv056’ saved [312352/312352]
+
+--2017-02-02 22:27:09--  http://doi.org/10.1093/mollus/eyv059
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv059 [following]
+--2017-02-02 22:27:11--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv059
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 271253 (265K) [text/html]
+Saving to: ‘eyv059’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 37%  599K 1s
+   100K .......... .......... .......... .......... .......... 56%  611K 0s
+   150K .......... .......... .......... .......... .......... 75%  607K 0s
+   200K .......... .......... .......... .......... .......... 94%  312K 0s
+   250K .......... ....                                       100% 16.9M=0.6s
+
+2017-02-02 22:27:16 (409 KB/s) - ‘eyv059’ saved [271253/271253]
+
+--2017-02-02 22:27:17--  http://doi.org/10.1093/mollus/eyv060
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv060 [following]
+--2017-02-02 22:27:18--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv060
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 143302 (140K) [text/html]
+Saving to: ‘eyv060’
+
+     0K .......... .......... .......... .......... .......... 35%  209K 0s
+    50K .......... .......... .......... .......... .......... 71%  604K 0s
+   100K .......... .......... .......... .........            100%  496K=0.4s
+
+2017-02-02 22:27:26 (347 KB/s) - ‘eyv060’ saved [143302/143302]
+
+--2017-02-02 22:27:27--  http://doi.org/10.1093/mollus/eyv055
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv055 [following]
+--2017-02-02 22:27:28--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv055
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 429819 (420K) [text/html]
+Saving to: ‘eyv055’
+
+     0K .......... .......... .......... .......... .......... 11%  209K 2s
+    50K .......... .......... .......... .......... .......... 23%  603K 1s
+   100K .......... .......... .......... .......... .......... 35%  614K 1s
+   150K .......... .......... .......... .......... .......... 47%  319K 1s
+   200K .......... .......... .......... .......... .......... 59%  570K 0s
+   250K .......... .......... .......... .......... .......... 71%  603K 0s
+   300K .......... .......... .......... .......... .......... 83%  319K 0s
+   350K .......... .......... .......... .......... .......... 95%  607K 0s
+   400K .......... .........                                  100% 4.44M=1.0s
+
+2017-02-02 22:27:34 (431 KB/s) - ‘eyv055’ saved [429819/429819]
+
+--2017-02-02 22:27:35--  http://doi.org/10.1093/mollus/eyv051
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv051 [following]
+--2017-02-02 22:27:37--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv051
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 250386 (245K) [text/html]
+Saving to: ‘eyv051’
+
+     0K .......... .......... .......... .......... .......... 20%  209K 1s
+    50K .......... .......... .......... .......... .......... 40%  601K 0s
+   100K .......... .......... .......... .......... .......... 61%  607K 0s
+   150K .......... .......... .......... .......... .......... 81%  606K 0s
+   200K .......... .......... .......... .......... ....      100%  541K=0.6s
+
+2017-02-02 22:27:41 (429 KB/s) - ‘eyv051’ saved [250386/250386]
+
+--2017-02-02 22:27:42--  http://doi.org/10.1093/mollus/eyv053
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv053 [following]
+--2017-02-02 22:27:44--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv053
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 22:27:45 ERROR 400: Bad Request.
+
+--2017-02-02 22:27:46--  http://doi.org/10.1093/mollus/eyv054
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv054 [following]
+--2017-02-02 22:27:48--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv054
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 179864 (176K) [text/html]
+Saving to: ‘eyv054’
+
+     0K .......... .......... .......... .......... .......... 28%  209K 1s
+    50K .......... .......... .......... .......... .......... 56%  594K 0s
+   100K .......... .......... .......... .......... .......... 85%  612K 0s
+   150K .......... .......... .....                           100%  336K=0.5s
+
+2017-02-02 22:27:52 (365 KB/s) - ‘eyv054’ saved [179864/179864]
+
+--2017-02-02 22:27:53--  http://doi.org/10.1093/mollus/eyv052
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv052 [following]
+--2017-02-02 22:27:54--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv052
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 259459 (253K) [text/html]
+Saving to: ‘eyv052’
+
+     0K .......... .......... .......... .......... .......... 19%  208K 1s
+    50K .......... .......... .......... .......... .......... 39%  590K 0s
+   100K .......... .......... .......... .......... .......... 59%  610K 0s
+   150K .......... .......... .......... .......... .......... 78%  600K 0s
+   200K .......... .......... .......... .......... .......... 98%  312K 0s
+   250K ...                                                   100% 6443G=0.7s
+
+2017-02-02 22:27:58 (389 KB/s) - ‘eyv052’ saved [259459/259459]
+
+--2017-02-02 22:27:59--  http://doi.org/10.1093/mollus/eyv049
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv049 [following]
+--2017-02-02 22:28:01--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv049
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 22:28:01 ERROR 400: Bad Request.
+
+--2017-02-02 22:28:02--  http://doi.org/10.1093/mollus/eyv048
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv048 [following]
+--2017-02-02 22:28:04--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv048
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 331307 (324K) [text/html]
+Saving to: ‘eyv048’
+
+     0K .......... .......... .......... .......... .......... 15%  209K 1s
+    50K .......... .......... .......... .......... .......... 30%  608K 1s
+   100K .......... .......... .......... .......... .......... 46%  596K 0s
+   150K .......... .......... .......... .......... .......... 61%  607K 0s
+   200K .......... .......... .......... .......... .......... 77%  317K 0s
+   250K .......... .......... .......... .......... .......... 92%  583K 0s
+   300K .......... .......... ...                             100%  312K=0.8s
+
+2017-02-02 22:28:08 (401 KB/s) - ‘eyv048’ saved [331307/331307]
+
+--2017-02-02 22:28:09--  http://doi.org/10.1093/mollus/eyv047
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv047 [following]
+--2017-02-02 22:28:10--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv047
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 296577 (290K) [text/html]
+Saving to: ‘eyv047’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 34%  610K 1s
+   100K .......... .......... .......... .......... .......... 51%  606K 0s
+   150K .......... .......... .......... .......... .......... 69%  611K 0s
+   200K .......... .......... .......... .......... .......... 86%  309K 0s
+   250K .......... .......... .......... .........            100%  492K=0.7s
+
+2017-02-02 22:28:16 (398 KB/s) - ‘eyv047’ saved [296577/296577]
+
+--2017-02-02 22:28:17--  http://doi.org/10.1093/mollus/eyv050
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv050 [following]
+--2017-02-02 22:28:18--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv050
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 224146 (219K) [text/html]
+Saving to: ‘eyv050’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 45%  610K 0s
+   100K .......... .......... .......... .......... .......... 68%  599K 0s
+   150K .......... .......... .......... .......... .......... 91%  608K 0s
+   200K .......... ........                                   100%  239K=0.6s
+
+2017-02-02 22:28:21 (387 KB/s) - ‘eyv050’ saved [224146/224146]
+
+--2017-02-02 22:28:22--  http://doi.org/10.1093/mollus/eyv043
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv043 [following]
+--2017-02-02 22:28:24--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv043
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 275883 (269K) [text/html]
+Saving to: ‘eyv043’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 37%  609K 1s
+   100K .......... .......... .......... .......... .......... 55%  612K 0s
+   150K .......... .......... .......... .......... .......... 74%  316K 0s
+   200K .......... .......... .......... .......... .......... 92%  591K 0s
+   250K .......... .........                                  100%  521K=0.7s
+
+2017-02-02 22:28:28 (395 KB/s) - ‘eyv043’ saved [275883/275883]
+
+--2017-02-02 22:28:29--  http://doi.org/10.1093/mollus/eyv042
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv042 [following]
+--2017-02-02 22:28:30--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv042
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 208237 (203K) [text/html]
+Saving to: ‘eyv042’
+
+     0K .......... .......... .......... .......... .......... 24%  308K 0s
+    50K .......... .......... .......... .......... .......... 49%  312K 0s
+   100K .......... .......... .......... .......... .......... 73%  606K 0s
+   150K .......... .......... .......... .......... .......... 98%  602K 0s
+   200K ...                                                   100% 6402G=0.5s
+
+2017-02-02 22:28:34 (417 KB/s) - ‘eyv042’ saved [208237/208237]
+
+--2017-02-02 22:28:35--  http://doi.org/10.1093/mollus/eyv041
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv041 [following]
+--2017-02-02 22:28:36--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv041
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 188581 (184K) [text/html]
+Saving to: ‘eyv041’
+
+     0K .......... .......... .......... .......... .......... 27%  206K 1s
+    50K .......... .......... .......... .......... .......... 54%  605K 0s
+   100K .......... .......... .......... .......... .......... 81%  612K 0s
+   150K .......... .......... .......... ....                 100%  422K=0.5s
+
+2017-02-02 22:28:41 (377 KB/s) - ‘eyv041’ saved [188581/188581]
+
+--2017-02-02 22:28:42--  http://doi.org/10.1093/mollus/eyv037
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv037 [following]
+--2017-02-02 22:28:43--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv037
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 216471 (211K) [text/html]
+Saving to: ‘eyv037’
+
+     0K .......... .......... .......... .......... .......... 23%  209K 1s
+    50K .......... .......... .......... .......... .......... 47%  572K 0s
+   100K .......... .......... .......... .......... .......... 70%  597K 0s
+   150K .......... .......... .......... .......... .......... 94%  607K 0s
+   200K .......... .                                          100%  145K=0.6s
+
+2017-02-02 22:28:47 (370 KB/s) - ‘eyv037’ saved [216471/216471]
+
+--2017-02-02 22:28:48--  http://doi.org/10.1093/mollus/eyv038
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv038 [following]
+--2017-02-02 22:28:49--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv038
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 225233 (220K) [text/html]
+Saving to: ‘eyv038’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 45%  606K 0s
+   100K .......... .......... .......... .......... .......... 68%  604K 0s
+   150K .......... .......... .......... .......... .......... 90%  316K 0s
+   200K .......... .........                                  100% 5.32M=0.6s
+
+2017-02-02 22:28:54 (388 KB/s) - ‘eyv038’ saved [225233/225233]
+
+--2017-02-02 22:28:55--  http://doi.org/10.1093/mollus/eyv046
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv046 [following]
+--2017-02-02 22:28:56--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv046
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 349978 (342K) [text/html]
+Saving to: ‘eyv046’
+
+     0K .......... .......... .......... .......... .......... 14%  309K 1s
+    50K .......... .......... .......... .......... .......... 29%  312K 1s
+   100K .......... .......... .......... .......... .......... 43%  588K 1s
+   150K .......... .......... .......... .......... .......... 58%  605K 0s
+   200K .......... .......... .......... .......... .......... 73%  315K 0s
+   250K .......... .......... .......... .......... .......... 87%  612K 0s
+   300K .......... .......... .......... .......... .         100%  489K=0.8s
+
+2017-02-02 22:29:04 (419 KB/s) - ‘eyv046’ saved [349978/349978]
+
+--2017-02-02 22:29:05--  http://doi.org/10.1093/mollus/eyv045
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv045 [following]
+--2017-02-02 22:29:06--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv045
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 294657 (288K) [text/html]
+Saving to: ‘eyv045’
+
+     0K .......... .......... .......... .......... .......... 17%  309K 1s
+    50K .......... .......... .......... .......... .......... 34%  313K 1s
+   100K .......... .......... .......... .......... .......... 52%  577K 0s
+   150K .......... .......... .......... .......... .......... 69%  605K 0s
+   200K .......... .......... .......... .......... .......... 86%  319K 0s
+   250K .......... .......... .......... .......              100%  471K=0.7s
+
+2017-02-02 22:29:11 (396 KB/s) - ‘eyv045’ saved [294657/294657]
+
+--2017-02-02 22:29:12--  http://doi.org/10.1093/mollus/eyv044
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv044 [following]
+--2017-02-02 22:29:13--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv044
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 270525 (264K) [text/html]
+Saving to: ‘eyv044’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 37%  595K 1s
+   100K .......... .......... .......... .......... .......... 56%  608K 0s
+   150K .......... .......... .......... .......... .......... 75%  599K 0s
+   200K .......... .......... .......... .......... .......... 94%  311K 0s
+   250K .......... ....                                       100% 3.94M=0.7s
+
+2017-02-02 22:29:17 (404 KB/s) - ‘eyv044’ saved [270525/270525]
+
+--2017-02-02 22:29:18--  http://doi.org/10.1093/mollus/eyv040
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv040 [following]
+--2017-02-02 22:29:20--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv040
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 291292 (284K) [text/html]
+Saving to: ‘eyv040’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 35%  613K 1s
+   100K .......... .......... .......... .......... .......... 52%  600K 0s
+   150K .......... .......... .......... .......... .......... 70%  594K 0s
+   200K .......... .......... .......... .......... .......... 87%  313K 0s
+   250K .......... .......... .......... ....                 100% 9.66M=0.7s
+
+2017-02-02 22:29:24 (436 KB/s) - ‘eyv040’ saved [291292/291292]
+
+--2017-02-02 22:29:25--  http://doi.org/10.1093/mollus/eyv031
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv031 [following]
+--2017-02-02 22:29:27--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv031
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 300022 (293K) [text/html]
+Saving to: ‘eyv031’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 34%  598K 1s
+   100K .......... .......... .......... .......... .......... 51%  610K 0s
+   150K .......... .......... .......... .......... .......... 68%  314K 0s
+   200K .......... .......... .......... .......... .......... 85%  606K 0s
+   250K .......... .......... .......... .......... ..        100%  514K=0.7s
+
+2017-02-02 22:29:31 (401 KB/s) - ‘eyv031’ saved [300022/300022]
+
+--2017-02-02 22:29:32--  http://doi.org/10.1093/mollus/eyv036
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv036 [following]
+--2017-02-02 22:29:33--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv036
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 339925 (332K) [text/html]
+Saving to: ‘eyv036’
+
+     0K .......... .......... .......... .......... .......... 15%  208K 1s
+    50K .......... .......... .......... .......... .......... 30%  603K 1s
+   100K .......... .......... .......... .......... .......... 45%  616K 0s
+   150K .......... .......... .......... .......... .......... 60%  593K 0s
+   200K .......... .......... .......... .......... .......... 75%  315K 0s
+   250K .......... .......... .......... .......... .......... 90%  604K 0s
+   300K .......... .......... .......... .                    100%  399K=0.8s
+
+2017-02-02 22:29:38 (410 KB/s) - ‘eyv036’ saved [339925/339925]
+
+--2017-02-02 22:29:39--  http://doi.org/10.1093/mollus/eyv026
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv026 [following]
+--2017-02-02 22:29:40--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv026
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 259286 (253K) [text/html]
+Saving to: ‘eyv026’
+
+     0K .......... .......... .......... .......... .......... 19%  207K 1s
+    50K .......... .......... .......... .......... .......... 39%  609K 0s
+   100K .......... .......... .......... .......... .......... 59%  610K 0s
+   150K .......... .......... .......... .......... .......... 78%  607K 0s
+   200K .......... .......... .......... .......... .......... 98%  423K 0s
+   250K ...                                                   100% 6121G=0.6s
+
+2017-02-02 22:29:45 (418 KB/s) - ‘eyv026’ saved [259286/259286]
+
+--2017-02-02 22:29:46--  http://doi.org/10.1093/mollus/eyv029
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv029 [following]
+--2017-02-02 22:29:48--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv029
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 194341 (190K) [text/html]
+Saving to: ‘eyv029’
+
+     0K .......... .......... .......... .......... .......... 26%  305K 0s
+    50K .......... .......... .......... .......... .......... 52%  313K 0s
+   100K .......... .......... .......... .......... .......... 79%  606K 0s
+   150K .......... .......... .......... .........            100%  491K=0.5s
+
+2017-02-02 22:29:53 (390 KB/s) - ‘eyv029’ saved [194341/194341]
+
+--2017-02-02 22:29:54--  http://doi.org/10.1093/mollus/eyv028
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv028 [following]
+--2017-02-02 22:29:56--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv028
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 196775 (192K) [text/html]
+Saving to: ‘eyv028’
+
+     0K .......... .......... .......... .......... .......... 26%  203K 1s
+    50K .......... .......... .......... .......... .......... 52%  609K 0s
+   100K .......... .......... .......... .......... .......... 78%  603K 0s
+   150K .......... .......... .......... .......... ..        100%  524K=0.5s
+
+2017-02-02 22:30:05 (391 KB/s) - ‘eyv028’ saved [196775/196775]
+
+--2017-02-02 22:30:06--  http://doi.org/10.1093/mollus/eyv035
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv035 [following]
+--2017-02-02 22:30:08--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv035
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 22:30:08 ERROR 400: Bad Request.
+
+--2017-02-02 22:30:09--  http://doi.org/10.1093/mollus/eyv034
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv034 [following]
+--2017-02-02 22:30:11--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv034
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 166507 (163K) [text/html]
+Saving to: ‘eyv034’
+
+     0K .......... .......... .......... .......... .......... 30%  251K 0s
+    50K .......... .......... .......... .......... .......... 61%  408K 0s
+   100K .......... .......... .......... .......... .......... 92%  607K 0s
+   150K .......... ..                                         100%  334K=0.4s
+
+2017-02-02 22:30:17 (368 KB/s) - ‘eyv034’ saved [166507/166507]
+
+--2017-02-02 22:30:18--  http://doi.org/10.1093/mollus/eyv027
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv027 [following]
+--2017-02-02 22:30:19--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv027
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 22:30:20 ERROR 400: Bad Request.
+
+--2017-02-02 22:30:21--  http://doi.org/10.1093/mollus/eyv033
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv033 [following]
+--2017-02-02 22:30:23--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv033
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 355435 (347K) [text/html]
+Saving to: ‘eyv033’
+
+     0K .......... .......... .......... .......... .......... 14%  209K 1s
+    50K .......... .......... .......... .......... .......... 28%  612K 1s
+   100K .......... .......... .......... .......... .......... 43%  596K 1s
+   150K .......... .......... .......... .......... .......... 57%  605K 0s
+   200K .......... .......... .......... .......... .......... 72%  313K 0s
+   250K .......... .......... .......... .......... .......... 86%  601K 0s
+   300K .......... .......... .......... .......... .......   100%  566K=0.8s
+
+2017-02-02 22:30:42 (426 KB/s) - ‘eyv033’ saved [355435/355435]
+
+--2017-02-02 22:30:43--  http://doi.org/10.1093/mollus/eyv032
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv032 [following]
+--2017-02-02 22:30:45--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv032
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 128682 (126K) [text/html]
+Saving to: ‘eyv032’
+
+     0K .......... .......... .......... .......... .......... 39%  209K 0s
+    50K .......... .......... .......... .......... .......... 79%  592K 0s
+   100K .......... .......... .....                           100% 13.2M=0.3s
+
+2017-02-02 22:30:49 (385 KB/s) - ‘eyv032’ saved [128682/128682]
+
+--2017-02-02 22:30:50--  http://doi.org/10.1093/mollus/eyv030
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv030 [following]
+--2017-02-02 22:30:52--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv030
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 278352 (272K) [text/html]
+Saving to: ‘eyv030’
+
+     0K .......... .......... .......... .......... .......... 18%  208K 1s
+    50K .......... .......... .......... .......... .......... 36%  605K 1s
+   100K .......... .......... .......... .......... .......... 55%  613K 0s
+   150K .......... .......... .......... .......... .......... 73%  602K 0s
+   200K .......... .......... .......... .......... .......... 91%  312K 0s
+   250K .......... .......... .                               100% 8.73M=0.6s
+
+2017-02-02 22:31:07 (418 KB/s) - ‘eyv030’ saved [278352/278352]
+
+--2017-02-02 22:31:08--  http://doi.org/10.1093/mollus/eyv022
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv022 [following]
+--2017-02-02 22:31:10--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv022
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 284560 (278K) [text/html]
+Saving to: ‘eyv022’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 35%  604K 1s
+   100K .......... .......... .......... .......... .......... 53%  609K 0s
+   150K .......... .......... .......... .......... .......... 71%  319K 0s
+   200K .......... .......... .......... .......... .......... 89%  583K 0s
+   250K .......... .......... .......                         100% 11.5M=0.6s
+
+2017-02-02 22:31:16 (428 KB/s) - ‘eyv022’ saved [284560/284560]
+
+--2017-02-02 22:31:17--  http://doi.org/10.1093/mollus/eyv025
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv025 [following]
+--2017-02-02 22:31:19--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv025
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 347559 (339K) [text/html]
+Saving to: ‘eyv025’
+
+     0K .......... .......... .......... .......... .......... 14%  208K 1s
+    50K .......... .......... .......... .......... .......... 29%  604K 1s
+   100K .......... .......... .......... .......... .......... 44%  604K 1s
+   150K .......... .......... .......... .......... .......... 58%  313K 0s
+   200K .......... .......... .......... .......... .......... 73%  609K 0s
+   250K .......... .......... .......... .......... .......... 88%  588K 0s
+   300K .......... .......... .......... .........            100%  485K=0.8s
+
+2017-02-02 22:31:23 (417 KB/s) - ‘eyv025’ saved [347559/347559]
+
+--2017-02-02 22:31:24--  http://doi.org/10.1093/mollus/eyv023
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv023 [following]
+--2017-02-02 22:31:26--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 174096 (170K) [text/html]
+Saving to: ‘eyv023’
+
+     0K .......... .......... .......... .......... .......... 29%  209K 1s
+    50K .......... .......... .......... .......... .......... 58%  609K 0s
+   100K .......... .......... .......... .......... .......... 88%  608K 0s
+   150K .......... ..........                                 100%  254K=0.5s
+
+2017-02-02 22:31:31 (352 KB/s) - ‘eyv023’ saved [174096/174096]
+
+--2017-02-02 22:31:32--  http://doi.org/10.1093/mollus/eyv024
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv024 [following]
+--2017-02-02 22:31:33--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv024
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 22:31:34 ERROR 400: Bad Request.
+
+--2017-02-02 22:31:35--  http://doi.org/10.1093/mollus/eyv021
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv021 [following]
+--2017-02-02 22:31:36--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 328547 (321K) [text/html]
+Saving to: ‘eyv021’
+
+     0K .......... .......... .......... .......... .......... 15%  209K 1s
+    50K .......... .......... .......... .......... .......... 31%  598K 1s
+   100K .......... .......... .......... .......... .......... 46%  584K 0s
+   150K .......... .......... .......... .......... .......... 62%  325K 0s
+   200K .......... .......... .......... .......... .......... 77%  585K 0s
+   250K .......... .......... .......... .......... .......... 93%  596K 0s
+   300K .......... ..........                                 100%  274K=0.8s
+
+2017-02-02 22:31:41 (397 KB/s) - ‘eyv021’ saved [328547/328547]
+
+--2017-02-02 22:31:42--  http://doi.org/10.1093/mollus/eyv020
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv020 [following]
+--2017-02-02 22:31:44--  https://academic.oup.com/mollus/article-lookup/doi/10.1093/mollus/eyv020
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 349959 (342K) [text/html]
+Saving to: ‘eyv020’
+
+     0K .......... .......... .......... .......... .......... 14%  208K 1s
+    50K .......... .......... .......... .......... .......... 29%  580K 1s
+   100K .......... .......... .......... .......... .......... 43%  604K 1s
+   150K .......... .......... .......... .......... .......... 58%  607K 0s
+   200K .......... .......... .......... .......... .......... 73%  314K 0s
+   250K .......... .......... .......... .......... .......... 87%  565K 0s
+   300K .......... .......... .......... .......... .         100%  506K=0.8s
+
+2017-02-02 22:31:49 (416 KB/s) - ‘eyv020’ saved [349959/349959]
+
+FINISHED --2017-02-02 22:31:49--
+Total wall clock time: 12m 43s
+Downloaded: 88 files, 22M in 58s (391 KB/s)

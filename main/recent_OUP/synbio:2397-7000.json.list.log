@@ -1,0 +1,24 @@
+--2017-02-03 20:00:05--  http://doi.org/10.1093/synbio/ysw001
+Resolving doi.org (doi.org)... 38.100.138.163, 54.191.229.235, 95.138.171.129, ...
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/synbio/article-lookup/doi/10.1093/synbio/ysw001 [following]
+--2017-02-03 20:00:07--  https://academic.oup.com/synbio/article-lookup/doi/10.1093/synbio/ysw001
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 261671 (256K) [text/html]
+Saving to: ‘ysw001’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 39%  609K 0s
+   100K .......... .......... .......... .......... .......... 58%  606K 0s
+   150K .......... .......... .......... .......... .......... 78%  315K 0s
+   200K .......... .......... .......... .......... .......... 97%  599K 0s
+   250K .....                                                 100% 23.2M=0.6s
+
+2017-02-03 20:00:21 (396 KB/s) - ‘ysw001’ saved [261671/261671]
+
+FINISHED --2017-02-03 20:00:21--
+Total wall clock time: 16s
+Downloaded: 1 files, 256K in 0.6s (396 KB/s)

@@ -1,0 +1,1495 @@
+--2017-02-03 18:09:16--  http://doi.org/10.1093/english/efw044
+Resolving doi.org (doi.org)... 54.191.229.235, 38.100.138.162, 208.254.38.90, ...
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article/65/251/310/2742528/Edward-Thomas-Poetry-and-the-Languages-of-Nature [following]
+--2017-02-03 18:09:17--  https://academic.oup.com/english/article/65/251/310/2742528/Edward-Thomas-Poetry-and-the-Languages-of-Nature
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 137063 (134K) [text/html]
+Saving to: ‘efw044’
+
+     0K .......... .......... .......... .......... .......... 37%  309K 0s
+    50K .......... .......... .......... .......... .......... 74%  313K 0s
+   100K .......... .......... .......... ...                  100%  421K=0.4s
+
+2017-02-03 18:09:28 (333 KB/s) - ‘efw044’ saved [137063/137063]
+
+--2017-02-03 18:09:29--  http://doi.org/10.1093/english/efw056
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article/65/251/291/2742534/Editorial [following]
+--2017-02-03 18:09:31--  https://academic.oup.com/english/article/65/251/291/2742534/Editorial
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75722 (74K) [text/html]
+Saving to: ‘efw056’
+
+     0K .......... .......... .......... .......... .......... 67%  207K 0s
+    50K .......... .......... ...                             100% 11.8M=0.2s
+
+2017-02-03 18:09:38 (304 KB/s) - ‘efw056’ saved [75722/75722]
+
+--2017-02-03 18:09:39--  http://doi.org/10.1093/english/efw059
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article/65/251/401/2742535/Notes-on-Contributors [following]
+--2017-02-03 18:09:40--  https://academic.oup.com/english/article/65/251/401/2742535/Notes-on-Contributors
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 69822 (68K) [text/html]
+Saving to: ‘efw059’
+
+     0K .......... .......... .......... .......... .......... 73%  209K 0s
+    50K .......... ........                                   100% 16.1M=0.2s
+
+2017-02-03 18:09:48 (283 KB/s) - ‘efw059’ saved [69822/69822]
+
+--2017-02-03 18:09:49--  http://doi.org/10.1093/english/efw030
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://english.oxfordjournals.org/lookup/doi/10.1093/english/efw030 [following]
+--2017-02-03 18:09:50--  http://english.oxfordjournals.org/lookup/doi/10.1093/english/efw030
+Resolving english.oxfordjournals.org (english.oxfordjournals.org)... 209.135.222.209
+Connecting to english.oxfordjournals.org (english.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from english.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/english/article/65/250/284/2418157/Politics-and-Literature-at-the-Turn-of-the [following]
+--2017-02-03 18:09:51--  https://academic.oup.com/english/article/65/250/284/2418157/Politics-and-Literature-at-the-Turn-of-the
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:09:52 ERROR 400: Bad Request.
+
+--2017-02-03 18:09:53--  http://doi.org/10.1093/english/efw048
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://english.oxfordjournals.org/lookup/doi/10.1093/english/efw048 [following]
+--2017-02-03 18:09:54--  http://english.oxfordjournals.org/lookup/doi/10.1093/english/efw048
+Connecting to english.oxfordjournals.org (english.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from english.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/english/article/65/250/289/2418163/Notes-on-Contributors [following]
+--2017-02-03 18:09:56--  https://academic.oup.com/english/article/65/250/289/2418163/Notes-on-Contributors
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:09:56 ERROR 400: Bad Request.
+
+--2017-02-03 18:09:57--  http://doi.org/10.1093/english/efw032
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw032 [following]
+--2017-02-03 18:09:59--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw032
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:09:59 ERROR 400: Bad Request.
+
+--2017-02-03 18:10:00--  http://doi.org/10.1093/english/efw038
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw038 [following]
+--2017-02-03 18:10:02--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw038
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 69452 (68K) [text/html]
+Saving to: ‘efw038’
+
+     0K .......... .......... .......... .......... .......... 73%  209K 0s
+    50K .......... .......                                    100% 16.1M=0.2s
+
+2017-02-03 18:10:07 (282 KB/s) - ‘efw038’ saved [69452/69452]
+
+--2017-02-03 18:10:08--  http://doi.org/10.1093/english/efw039
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw039 [following]
+--2017-02-03 18:10:10--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw039
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 84026 (82K) [text/html]
+Saving to: ‘efw039’
+
+     0K .......... .......... .......... .......... .......... 60%  208K 0s
+    50K .......... .......... .......... ..                   100% 11.4M=0.2s
+
+2017-02-03 18:10:22 (338 KB/s) - ‘efw039’ saved [84026/84026]
+
+--2017-02-03 18:10:23--  http://doi.org/10.1093/english/efw040
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw040 [following]
+--2017-02-03 18:10:25--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw040
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 85200 (83K) [text/html]
+Saving to: ‘efw040’
+
+     0K .......... .......... .......... .......... .......... 60%  207K 0s
+    50K .......... .......... .......... ...                  100% 13.6M=0.2s
+
+2017-02-03 18:10:36 (342 KB/s) - ‘efw040’ saved [85200/85200]
+
+--2017-02-03 18:10:37--  http://doi.org/10.1093/english/efw036
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw036 [following]
+--2017-02-03 18:10:38--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw036
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 120042 (117K) [text/html]
+Saving to: ‘efw036’
+
+     0K .......... .......... .......... .......... .......... 42%  209K 0s
+    50K .......... .......... .......... .......... .......... 85%  609K 0s
+   100K .......... .......                                    100% 12.0M=0.3s
+
+2017-02-03 18:10:47 (363 KB/s) - ‘efw036’ saved [120042/120042]
+
+--2017-02-03 18:10:48--  http://doi.org/10.1093/english/efw037
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw037 [following]
+--2017-02-03 18:10:49--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw037
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 84730 (83K) [text/html]
+Saving to: ‘efw037’
+
+     0K .......... .......... .......... .......... .......... 60%  309K 0s
+    50K .......... .......... .......... ..                   100%  406K=0.2s
+
+2017-02-03 18:10:57 (342 KB/s) - ‘efw037’ saved [84730/84730]
+
+--2017-02-03 18:10:58--  http://doi.org/10.1093/english/efw031
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://english.oxfordjournals.org/lookup/doi/10.1093/english/efw031 [following]
+--2017-02-03 18:10:59--  http://english.oxfordjournals.org/lookup/doi/10.1093/english/efw031
+Connecting to english.oxfordjournals.org (english.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from english.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/english/article/65/250/267/2418158/Prayer-and-Authorship-in-Thomas-Nashe-s-Christs [following]
+--2017-02-03 18:11:01--  https://academic.oup.com/english/article/65/250/267/2418158/Prayer-and-Authorship-in-Thomas-Nashe-s-Christs
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 129132 (126K) [text/html]
+Saving to: ‘efw031’
+
+     0K .......... .......... .......... .......... .......... 39%  208K 0s
+    50K .......... .......... .......... .......... .......... 79%  603K 0s
+   100K .......... .......... ......                          100% 13.1M=0.3s
+
+2017-02-03 18:11:11 (388 KB/s) - ‘efw031’ saved [129132/129132]
+
+--2017-02-03 18:11:12--  http://doi.org/10.1093/english/efw034
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://english.oxfordjournals.org/lookup/doi/10.1093/english/efw034 [following]
+--2017-02-03 18:11:13--  http://english.oxfordjournals.org/lookup/doi/10.1093/english/efw034
+Connecting to english.oxfordjournals.org (english.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from english.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/english/article/65/250/234/2418160/The-Death-Of-Doctor-Zhivago [following]
+--2017-02-03 18:11:14--  https://academic.oup.com/english/article/65/250/234/2418160/The-Death-Of-Doctor-Zhivago
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 74574 (73K) [text/html]
+Saving to: ‘efw034’
+
+     0K .......... .......... .......... .......... .......... 68%  306K 0s
+    50K .......... .......... ..                              100%  288K=0.2s
+
+2017-02-03 18:11:21 (300 KB/s) - ‘efw034’ saved [74574/74574]
+
+--2017-02-03 18:11:22--  http://doi.org/10.1093/english/efw035
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://english.oxfordjournals.org/lookup/doi/10.1093/english/efw035 [following]
+--2017-02-03 18:11:23--  http://english.oxfordjournals.org/lookup/doi/10.1093/english/efw035
+Connecting to english.oxfordjournals.org (english.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from english.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/english/article/65/250/280/2418161/In-Which-The-Pieces-Are-Put-Together [following]
+--2017-02-03 18:11:24--  https://academic.oup.com/english/article/65/250/280/2418161/In-Which-The-Pieces-Are-Put-Together
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:11:25 ERROR 400: Bad Request.
+
+--2017-02-03 18:11:26--  http://doi.org/10.1093/english/efw041
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://english.oxfordjournals.org/lookup/doi/10.1093/english/efw041 [following]
+--2017-02-03 18:11:27--  http://english.oxfordjournals.org/lookup/doi/10.1093/english/efw041
+Connecting to english.oxfordjournals.org (english.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from english.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/english/article/65/250/237/2418162/Courage [following]
+--2017-02-03 18:11:29--  https://academic.oup.com/english/article/65/250/237/2418162/Courage
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 69468 (68K) [text/html]
+Saving to: ‘efw041’
+
+     0K .......... .......... .......... .......... .......... 73%  208K 0s
+    50K .......... .......                                    100% 14.7M=0.2s
+
+2017-02-03 18:11:38 (281 KB/s) - ‘efw041’ saved [69468/69468]
+
+--2017-02-03 18:11:39--  http://doi.org/10.1093/english/efw033
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://english.oxfordjournals.org/lookup/doi/10.1093/english/efw033 [following]
+--2017-02-03 18:11:40--  http://english.oxfordjournals.org/lookup/doi/10.1093/english/efw033
+Connecting to english.oxfordjournals.org (english.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from english.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/english/article/65/250/282/2418159/Newark [following]
+--2017-02-03 18:11:42--  https://academic.oup.com/english/article/65/250/282/2418159/Newark
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 70526 (69K) [text/html]
+Saving to: ‘efw033’
+
+     0K .......... .......... .......... .......... .......... 72%  209K 0s
+    50K .......... ........                                   100% 14.6M=0.2s
+
+2017-02-03 18:11:50 (286 KB/s) - ‘efw033’ saved [70526/70526]
+
+--2017-02-03 18:11:51--  http://doi.org/10.1093/english/efw029
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://english.oxfordjournals.org/lookup/doi/10.1093/english/efw029 [following]
+--2017-02-03 18:11:52--  http://english.oxfordjournals.org/lookup/doi/10.1093/english/efw029
+Connecting to english.oxfordjournals.org (english.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from english.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/english/article/65/250/211/2418156/Noble-in-his-grandiose-confusions-Yeats-and [following]
+--2017-02-03 18:11:54--  https://academic.oup.com/english/article/65/250/211/2418156/Noble-in-his-grandiose-confusions-Yeats-and
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:11:55 ERROR 400: Bad Request.
+
+--2017-02-03 18:11:56--  http://doi.org/10.1093/english/efw027
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://english.oxfordjournals.org/lookup/doi/10.1093/english/efw027 [following]
+--2017-02-03 18:11:57--  http://english.oxfordjournals.org/lookup/doi/10.1093/english/efw027
+Connecting to english.oxfordjournals.org (english.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from english.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/english/article/65/250/191/2418155/Troilus-And-Cressida-in-the-Light-of-Day [following]
+--2017-02-03 18:11:59--  https://academic.oup.com/english/article/65/250/191/2418155/Troilus-And-Cressida-in-the-Light-of-Day
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 132077 (129K) [text/html]
+Saving to: ‘efw027’
+
+     0K .......... .......... .......... .......... .......... 38%  207K 0s
+    50K .......... .......... .......... .......... .......... 77%  601K 0s
+   100K .......... .......... ........                        100%  368K=0.4s
+
+2017-02-03 18:12:07 (320 KB/s) - ‘efw027’ saved [132077/132077]
+
+--2017-02-03 18:12:08--  http://doi.org/10.1093/english/efw026
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://english.oxfordjournals.org/lookup/doi/10.1093/english/efw026 [following]
+--2017-02-03 18:12:09--  http://english.oxfordjournals.org/lookup/doi/10.1093/english/efw026
+Connecting to english.oxfordjournals.org (english.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from english.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/english/article/65/250/238/2418154/The-Bentley-Diaries-A-New-Insight-into-E-C-Bentley [following]
+--2017-02-03 18:12:11--  https://academic.oup.com/english/article/65/250/238/2418154/The-Bentley-Diaries-A-New-Insight-into-E-C-Bentley
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 185240 (181K) [text/html]
+Saving to: ‘efw026’
+
+     0K .......... .......... .......... .......... .......... 27%  209K 1s
+    50K .......... .......... .......... .......... .......... 55%  606K 0s
+   100K .......... .......... .......... .......... .......... 82%  610K 0s
+   150K .......... .......... ..........                      100%  389K=0.5s
+
+2017-02-03 18:12:18 (375 KB/s) - ‘efw026’ saved [185240/185240]
+
+--2017-02-03 18:12:19--  http://doi.org/10.1093/english/efw017
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://english.oxfordjournals.org/lookup/doi/10.1093/english/efw017 [following]
+--2017-02-03 18:12:20--  http://english.oxfordjournals.org/lookup/doi/10.1093/english/efw017
+Connecting to english.oxfordjournals.org (english.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from english.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/english/article/65/250/286/2418153/British-Romanticism-and-the-Critique-of-Political [following]
+--2017-02-03 18:12:21--  https://academic.oup.com/english/article/65/250/286/2418153/British-Romanticism-and-the-Critique-of-Political
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76022 (74K) [text/html]
+Saving to: ‘efw017’
+
+     0K .......... .......... .......... .......... .......... 67%  208K 0s
+    50K .......... .......... ....                            100% 13.4M=0.2s
+
+2017-02-03 18:12:27 (306 KB/s) - ‘efw017’ saved [76022/76022]
+
+--2017-02-03 18:12:28--  http://doi.org/10.1093/english/efw021
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw021 [following]
+--2017-02-03 18:12:29--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75401 (74K) [text/html]
+Saving to: ‘efw021’
+
+     0K .......... .......... .......... .......... .......... 67%  308K 0s
+    50K .......... .......... ...                             100%  293K=0.2s
+
+2017-02-03 18:12:35 (303 KB/s) - ‘efw021’ saved [75401/75401]
+
+--2017-02-03 18:12:36--  http://doi.org/10.1093/english/efw014
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw014 [following]
+--2017-02-03 18:12:37--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw014
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 125893 (123K) [text/html]
+Saving to: ‘efw014’
+
+     0K .......... .......... .......... .......... .......... 40%  208K 0s
+    50K .......... .......... .......... .......... .......... 81%  601K 0s
+   100K .......... .......... ..                              100%  581K=0.4s
+
+2017-02-03 18:12:41 (339 KB/s) - ‘efw014’ saved [125893/125893]
+
+--2017-02-03 18:12:42--  http://doi.org/10.1093/english/efw013
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw013 [following]
+--2017-02-03 18:12:44--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:12:44 ERROR 400: Bad Request.
+
+--2017-02-03 18:12:45--  http://doi.org/10.1093/english/efw012
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw012 [following]
+--2017-02-03 18:12:47--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 74565 (73K) [text/html]
+Saving to: ‘efw012’
+
+     0K .......... .......... .......... .......... .......... 68%  208K 0s
+    50K .......... .......... ..                              100% 13.1M=0.2s
+
+2017-02-03 18:12:52 (301 KB/s) - ‘efw012’ saved [74565/74565]
+
+--2017-02-03 18:12:53--  http://doi.org/10.1093/english/efw045
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw045 [following]
+--2017-02-03 18:12:55--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw045
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 69080 (67K) [text/html]
+Saving to: ‘efw045’
+
+     0K .......... .......... .......... .......... .......... 74%  209K 0s
+    50K .......... .......                                    100% 17.3M=0.2s
+
+2017-02-03 18:13:03 (280 KB/s) - ‘efw045’ saved [69080/69080]
+
+--2017-02-03 18:13:04--  http://doi.org/10.1093/english/efw025
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw025 [following]
+--2017-02-03 18:13:05--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw025
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 69071 (67K) [text/html]
+Saving to: ‘efw025’
+
+     0K .......... .......... .......... .......... .......... 74%  209K 0s
+    50K .......... .......                                    100% 13.1M=0.2s
+
+2017-02-03 18:13:10 (280 KB/s) - ‘efw025’ saved [69071/69071]
+
+--2017-02-03 18:13:11--  http://doi.org/10.1093/english/efw028
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw028 [following]
+--2017-02-03 18:13:12--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw028
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75664 (74K) [text/html]
+Saving to: ‘efw028’
+
+     0K .......... .......... .......... .......... .......... 67%  208K 0s
+    50K .......... .......... ...                             100% 11.6M=0.2s
+
+2017-02-03 18:13:16 (305 KB/s) - ‘efw028’ saved [75664/75664]
+
+--2017-02-03 18:13:17--  http://doi.org/10.1093/english/efw016
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw016 [following]
+--2017-02-03 18:13:19--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw016
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:13:19 ERROR 400: Bad Request.
+
+--2017-02-03 18:13:20--  http://doi.org/10.1093/english/efw007
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw007 [following]
+--2017-02-03 18:13:22--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 145241 (142K) [text/html]
+Saving to: ‘efw007’
+
+     0K .......... .......... .......... .......... .......... 35%  208K 0s
+    50K .......... .......... .......... .......... .......... 70%  602K 0s
+   100K .......... .......... .......... .......... .         100%  515K=0.4s
+
+2017-02-03 18:13:25 (351 KB/s) - ‘efw007’ saved [145241/145241]
+
+--2017-02-03 18:13:26--  http://doi.org/10.1093/english/efw023
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw023 [following]
+--2017-02-03 18:13:28--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 67377 (66K) [text/html]
+Saving to: ‘efw023’
+
+     0K .......... .......... .......... .......... .......... 75%  309K 0s
+    50K .......... .....                                      100%  202K=0.2s
+
+2017-02-03 18:13:33 (274 KB/s) - ‘efw023’ saved [67377/67377]
+
+--2017-02-03 18:13:34--  http://doi.org/10.1093/english/efw022
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw022 [following]
+--2017-02-03 18:13:35--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw022
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 67316 (66K) [text/html]
+Saving to: ‘efw022’
+
+     0K .......... .......... .......... .......... .......... 76%  208K 0s
+    50K .......... .....                                      100% 17.6M=0.2s
+
+2017-02-03 18:13:42 (272 KB/s) - ‘efw022’ saved [67316/67316]
+
+--2017-02-03 18:13:43--  http://doi.org/10.1093/english/efw018
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw018 [following]
+--2017-02-03 18:13:45--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw018
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 88894 (87K) [text/html]
+Saving to: ‘efw018’
+
+     0K .......... .......... .......... .......... .......... 57%  208K 0s
+    50K .......... .......... .......... ......               100% 10.4M=0.2s
+
+2017-02-03 18:13:51 (356 KB/s) - ‘efw018’ saved [88894/88894]
+
+--2017-02-03 18:13:52--  http://doi.org/10.1093/english/efw024
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw024 [following]
+--2017-02-03 18:13:53--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw024
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 84427 (82K) [text/html]
+Saving to: ‘efw024’
+
+     0K .......... .......... .......... .......... .......... 60%  208K 0s
+    50K .......... .......... .......... ..                   100% 8.44M=0.2s
+
+2017-02-03 18:14:00 (338 KB/s) - ‘efw024’ saved [84427/84427]
+
+--2017-02-03 18:14:01--  http://doi.org/10.1093/english/efw020
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw020 [following]
+--2017-02-03 18:14:02--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw020
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 134859 (132K) [text/html]
+Saving to: ‘efw020’
+
+     0K .......... .......... .......... .......... .......... 37%  208K 0s
+    50K .......... .......... .......... .......... .......... 75%  608K 0s
+   100K .......... .......... .......... .                    100%  396K=0.4s
+
+2017-02-03 18:14:20 (327 KB/s) - ‘efw020’ saved [134859/134859]
+
+--2017-02-03 18:14:21--  http://doi.org/10.1093/english/efw010
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw010 [following]
+--2017-02-03 18:14:22--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68396 (67K) [text/html]
+Saving to: ‘efw010’
+
+     0K .......... .......... .......... .......... .......... 74%  209K 0s
+    50K .......... ......                                     100% 17.8M=0.2s
+
+2017-02-03 18:14:30 (278 KB/s) - ‘efw010’ saved [68396/68396]
+
+--2017-02-03 18:14:31--  http://doi.org/10.1093/english/efw006
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw006 [following]
+--2017-02-03 18:14:32--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 142098 (139K) [text/html]
+Saving to: ‘efw006’
+
+     0K .......... .......... .......... .......... .......... 36%  208K 0s
+    50K .......... .......... .......... .......... .......... 72%  605K 0s
+   100K .......... .......... .......... ........             100%  461K=0.4s
+
+2017-02-03 18:14:40 (341 KB/s) - ‘efw006’ saved [142098/142098]
+
+--2017-02-03 18:14:41--  http://doi.org/10.1093/english/efw009
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw009 [following]
+--2017-02-03 18:14:43--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 70660 (69K) [text/html]
+Saving to: ‘efw009’
+
+     0K .......... .......... .......... .......... .......... 72%  209K 0s
+    50K .......... .........                                  100% 16.1M=0.2s
+
+2017-02-03 18:14:50 (287 KB/s) - ‘efw009’ saved [70660/70660]
+
+--2017-02-03 18:14:51--  http://doi.org/10.1093/english/efw001
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw001 [following]
+--2017-02-03 18:14:52--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79604 (78K) [text/html]
+Saving to: ‘efw001’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... .......                         100% 10.3M=0.2s
+
+2017-02-03 18:15:00 (321 KB/s) - ‘efw001’ saved [79604/79604]
+
+--2017-02-03 18:15:01--  http://doi.org/10.1093/english/efw008
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw008 [following]
+--2017-02-03 18:15:02--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73872 (72K) [text/html]
+Saving to: ‘efw008’
+
+     0K .......... .......... .......... .......... .......... 69%  310K 0s
+    50K .......... .......... ..                              100%  280K=0.2s
+
+2017-02-03 18:15:09 (300 KB/s) - ‘efw008’ saved [73872/73872]
+
+--2017-02-03 18:15:10--  http://doi.org/10.1093/english/efw002
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw002 [following]
+--2017-02-03 18:15:11--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72785 (71K) [text/html]
+Saving to: ‘efw002’
+
+     0K .......... .......... .......... .......... .......... 70%  209K 0s
+    50K .......... .......... .                               100% 15.1M=0.2s
+
+2017-02-03 18:15:18 (295 KB/s) - ‘efw002’ saved [72785/72785]
+
+--2017-02-03 18:15:19--  http://doi.org/10.1093/english/efw015
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw015 [following]
+--2017-02-03 18:15:20--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71216 (70K) [text/html]
+Saving to: ‘efw015’
+
+     0K .......... .......... .......... .......... .......... 71%  209K 0s
+    50K .......... .........                                  100% 11.5M=0.2s
+
+2017-02-03 18:15:26 (289 KB/s) - ‘efw015’ saved [71216/71216]
+
+--2017-02-03 18:15:27--  http://doi.org/10.1093/english/efw005
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw005 [following]
+--2017-02-03 18:15:28--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:15:30 ERROR 400: Bad Request.
+
+--2017-02-03 18:15:31--  http://doi.org/10.1093/english/efw019
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw019 [following]
+--2017-02-03 18:15:32--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 69618 (68K) [text/html]
+Saving to: ‘efw019’
+
+     0K .......... .......... .......... .......... .......... 73%  207K 0s
+    50K .......... .......                                    100% 15.4M=0.2s
+
+2017-02-03 18:15:42 (280 KB/s) - ‘efw019’ saved [69618/69618]
+
+--2017-02-03 18:15:43--  http://doi.org/10.1093/english/efw003
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw003 [following]
+--2017-02-03 18:15:44--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 142589 (139K) [text/html]
+Saving to: ‘efw003’
+
+     0K .......... .......... .......... .......... .......... 35%  208K 0s
+    50K .......... .......... .......... .......... .......... 71%  610K 0s
+   100K .......... .......... .......... .........            100%  485K=0.4s
+
+2017-02-03 18:15:55 (345 KB/s) - ‘efw003’ saved [142589/142589]
+
+--2017-02-03 18:15:56--  http://doi.org/10.1093/english/efw011
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw011 [following]
+--2017-02-03 18:15:58--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 226405 (221K) [text/html]
+Saving to: ‘efw011’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 45%  607K 0s
+   100K .......... .......... .......... .......... .......... 67%  608K 0s
+   150K .......... .......... .......... .......... .......... 90%  318K 0s
+   200K .......... .......... .                               100% 7.52M=0.6s
+
+2017-02-03 18:16:09 (392 KB/s) - ‘efw011’ saved [226405/226405]
+
+--2017-02-03 18:16:10--  http://doi.org/10.1093/english/efw004
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw004 [following]
+--2017-02-03 18:16:11--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efw004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 70568 (69K) [text/html]
+Saving to: ‘efw004’
+
+     0K .......... .......... .......... .......... .......... 72%  207K 0s
+    50K .......... ........                                   100% 18.1M=0.2s
+
+2017-02-03 18:16:18 (285 KB/s) - ‘efw004’ saved [70568/70568]
+
+--2017-02-03 18:16:19--  http://doi.org/10.1093/english/efw057
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 18:16:21--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Resolving fdslive.oup.com (fdslive.oup.com)... 193.67.160.201
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘efw057’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 18:16:21 (1.19 MB/s) - ‘efw057’ saved [52438/52438]
+
+--2017-02-03 18:16:22--  http://doi.org/10.1093/english/efw051
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 18:16:23--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘efw051’
+
+     0K .......... .......... .......... .......... .......... 97% 1.26M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 18:16:23 (1.29 MB/s) - ‘efw051’ saved [52438/52438]
+
+--2017-02-03 18:16:24--  http://doi.org/10.1093/english/efw047
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 18:16:26--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘efw047’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 18:16:26 (1.32 MB/s) - ‘efw047’ saved [52438/52438]
+
+--2017-02-03 18:16:27--  http://doi.org/10.1093/english/efw043
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 18:16:28--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘efw043’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 18:16:28 (1.20 MB/s) - ‘efw043’ saved [52438/52438]
+
+--2017-02-03 18:16:29--  http://doi.org/10.1093/english/efw053
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 18:16:31--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘efw053’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 18:16:31 (1.32 MB/s) - ‘efw053’ saved [52438/52438]
+
+--2017-02-03 18:16:32--  http://doi.org/10.1093/english/efw049
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 18:16:33--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘efw049’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 18:16:33 (1.20 MB/s) - ‘efw049’ saved [52438/52438]
+
+--2017-02-03 18:16:34--  http://doi.org/10.1093/english/efw050
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 18:16:36--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘efw050’
+
+     0K .......... .......... .......... .......... .......... 97% 1.28M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 18:16:36 (1.32 MB/s) - ‘efw050’ saved [52438/52438]
+
+--2017-02-03 18:16:37--  http://doi.org/10.1093/english/efw054
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 18:16:38--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘efw054’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 18:16:38 (1.20 MB/s) - ‘efw054’ saved [52438/52438]
+
+--2017-02-03 18:16:39--  http://doi.org/10.1093/english/efw052
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 18:16:41--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘efw052’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 18:16:41 (1.32 MB/s) - ‘efw052’ saved [52438/52438]
+
+--2017-02-03 18:16:42--  http://doi.org/10.1093/english/efw055
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 18:16:43--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘efw055’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 18:16:43 (1.20 MB/s) - ‘efw055’ saved [52438/52438]
+
+--2017-02-03 18:16:44--  http://doi.org/10.1093/english/efw046
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 18:16:45--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘efw046’
+
+     0K .......... .......... .......... .......... .......... 97% 1.01M 0s
+    50K .                                                     100% 2306G=0.05s
+
+2017-02-03 18:16:46 (1.03 MB/s) - ‘efw046’ saved [52438/52438]
+
+--2017-02-03 18:16:47--  http://doi.org/10.1093/english/efv031
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv031 [following]
+--2017-02-03 18:16:48--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv031
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75108 (73K) [text/html]
+Saving to: ‘efv031’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ...                             100% 12.6M=0.2s
+
+2017-02-03 18:16:56 (304 KB/s) - ‘efv031’ saved [75108/75108]
+
+--2017-02-03 18:16:57--  http://doi.org/10.1093/english/efv025
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv025 [following]
+--2017-02-03 18:16:58--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv025
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 122286 (119K) [text/html]
+Saving to: ‘efv025’
+
+     0K .......... .......... .......... .......... .......... 41%  209K 0s
+    50K .......... .......... .......... .......... .......... 83%  609K 0s
+   100K .......... .........                                  100% 4.73M=0.3s
+
+2017-02-03 18:17:05 (367 KB/s) - ‘efv025’ saved [122286/122286]
+
+--2017-02-03 18:17:06--  http://doi.org/10.1093/english/efv029
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv029 [following]
+--2017-02-03 18:17:07--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv029
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 158354 (155K) [text/html]
+Saving to: ‘efv029’
+
+     0K .......... .......... .......... .......... .......... 32%  209K 0s
+    50K .......... .......... .......... .......... .......... 64%  609K 0s
+   100K .......... .......... .......... .......... .......... 96%  606K 0s
+   150K ....                                                  100% 18.4M=0.4s
+
+2017-02-03 18:17:12 (383 KB/s) - ‘efv029’ saved [158354/158354]
+
+--2017-02-03 18:17:13--  http://doi.org/10.1093/english/efv030
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv030 [following]
+--2017-02-03 18:17:14--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv030
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 150500 (147K) [text/html]
+Saving to: ‘efv030’
+
+     0K .......... .......... .......... .......... .......... 34%  209K 0s
+    50K .......... .......... .......... .......... .......... 68%  601K 0s
+   100K .......... .......... .......... .......... ......    100%  579K=0.4s
+
+2017-02-03 18:17:19 (364 KB/s) - ‘efv030’ saved [150500/150500]
+
+--2017-02-03 18:17:20--  http://doi.org/10.1093/english/efv028
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv028 [following]
+--2017-02-03 18:17:21--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv028
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 149915 (146K) [text/html]
+Saving to: ‘efv028’
+
+     0K .......... .......... .......... .......... .......... 34%  209K 0s
+    50K .......... .......... .......... .......... .......... 68%  598K 0s
+   100K .......... .......... .......... .......... ......    100%  569K=0.4s
+
+2017-02-03 18:17:25 (362 KB/s) - ‘efv028’ saved [149915/149915]
+
+--2017-02-03 18:17:26--  http://doi.org/10.1093/english/efv024
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv024 [following]
+--2017-02-03 18:17:27--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv024
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 115216 (113K) [text/html]
+Saving to: ‘efv024’
+
+     0K .......... .......... .......... .......... .......... 44%  209K 0s
+    50K .......... .......... .......... .......... .......... 88%  608K 0s
+   100K .......... ..                                         100% 28.0M=0.3s
+
+2017-02-03 18:17:32 (350 KB/s) - ‘efv024’ saved [115216/115216]
+
+--2017-02-03 18:17:33--  http://doi.org/10.1093/english/efv032
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv032 [following]
+--2017-02-03 18:17:35--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv032
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68588 (67K) [text/html]
+Saving to: ‘efv032’
+
+     0K .......... .......... .......... .......... .......... 74%  209K 0s
+    50K .......... ......                                     100% 17.7M=0.2s
+
+2017-02-03 18:17:38 (279 KB/s) - ‘efv032’ saved [68588/68588]
+
+--2017-02-03 18:17:39--  http://doi.org/10.1093/english/efv033
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv033 [following]
+--2017-02-03 18:17:41--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv033
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68904 (67K) [text/html]
+Saving to: ‘efv033’
+
+     0K .......... .......... .......... .......... .......... 74%  208K 0s
+    50K .......... .......                                    100% 15.5M=0.2s
+
+2017-02-03 18:17:45 (279 KB/s) - ‘efv033’ saved [68904/68904]
+
+--2017-02-03 18:17:46--  http://doi.org/10.1093/english/efv026
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv026 [following]
+--2017-02-03 18:17:47--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv026
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76488 (75K) [text/html]
+Saving to: ‘efv026’
+
+     0K .......... .......... .......... .......... .......... 66%  209K 0s
+    50K .......... .......... ....                            100% 8.38M=0.2s
+
+2017-02-03 18:17:51 (308 KB/s) - ‘efv026’ saved [76488/76488]
+
+--2017-02-03 18:17:52--  http://doi.org/10.1093/english/efv027
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv027 [following]
+--2017-02-03 18:17:54--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv027
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:17:54 ERROR 400: Bad Request.
+
+--2017-02-03 18:17:55--  http://doi.org/10.1093/english/efv022
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv022 [following]
+--2017-02-03 18:17:57--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv022
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71537 (70K) [text/html]
+Saving to: ‘efv022’
+
+     0K .......... .......... .......... .......... .......... 71%  208K 0s
+    50K .......... .........                                  100% 11.3M=0.2s
+
+2017-02-03 18:18:01 (289 KB/s) - ‘efv022’ saved [71537/71537]
+
+--2017-02-03 18:18:02--  http://doi.org/10.1093/english/efv021
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv021 [following]
+--2017-02-03 18:18:04--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 86141 (84K) [text/html]
+Saving to: ‘efv021’
+
+     0K .......... .......... .......... .......... .......... 59%  209K 0s
+    50K .......... .......... .......... ....                 100% 11.0M=0.2s
+
+2017-02-03 18:18:09 (347 KB/s) - ‘efv021’ saved [86141/86141]
+
+--2017-02-03 18:18:10--  http://doi.org/10.1093/english/efv023
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv023 [following]
+--2017-02-03 18:18:11--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68480 (67K) [text/html]
+Saving to: ‘efv023’
+
+     0K .......... .......... .......... .......... .......... 74%  209K 0s
+    50K .......... ......                                     100% 17.7M=0.2s
+
+2017-02-03 18:18:15 (278 KB/s) - ‘efv023’ saved [68480/68480]
+
+--2017-02-03 18:18:16--  http://doi.org/10.1093/english/efv020
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv020 [following]
+--2017-02-03 18:18:18--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv020
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72523 (71K) [text/html]
+Saving to: ‘efv020’
+
+     0K .......... .......... .......... .......... .......... 70%  208K 0s
+    50K .......... ..........                                 100% 15.7M=0.2s
+
+2017-02-03 18:18:24 (293 KB/s) - ‘efv020’ saved [72523/72523]
+
+--2017-02-03 18:18:25--  http://doi.org/10.1093/english/efv017
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv017 [following]
+--2017-02-03 18:18:26--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 133731 (131K) [text/html]
+Saving to: ‘efv017’
+
+     0K .......... .......... .......... .......... .......... 38%  251K 0s
+    50K .......... .......... .......... .......... .......... 76%  410K 0s
+   100K .......... .......... ..........                      100%  790K=0.4s
+
+2017-02-03 18:18:31 (362 KB/s) - ‘efv017’ saved [133731/133731]
+
+--2017-02-03 18:18:32--  http://doi.org/10.1093/english/efv019
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv019 [following]
+--2017-02-03 18:18:34--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79601 (78K) [text/html]
+Saving to: ‘efv019’
+
+     0K .......... .......... .......... .......... .......... 64%  310K 0s
+    50K .......... .......... .......                         100%  347K=0.2s
+
+2017-02-03 18:18:40 (322 KB/s) - ‘efv019’ saved [79601/79601]
+
+--2017-02-03 18:18:41--  http://doi.org/10.1093/english/efv018
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv018 [following]
+--2017-02-03 18:18:42--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv018
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 90239 (88K) [text/html]
+Saving to: ‘efv018’
+
+     0K .......... .......... .......... .......... .......... 56%  209K 0s
+    50K .......... .......... .......... ........             100% 9.62M=0.2s
+
+2017-02-03 18:18:47 (363 KB/s) - ‘efv018’ saved [90239/90239]
+
+--2017-02-03 18:18:48--  http://doi.org/10.1093/english/efv015
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv015 [following]
+--2017-02-03 18:18:50--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:18:50 ERROR 400: Bad Request.
+
+--2017-02-03 18:18:51--  http://doi.org/10.1093/english/efv014
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv014 [following]
+--2017-02-03 18:18:53--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv014
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 128338 (125K) [text/html]
+Saving to: ‘efv014’
+
+     0K .......... .......... .......... .......... .......... 39%  209K 0s
+    50K .......... .......... .......... .......... .......... 79%  608K 0s
+   100K .......... .......... .....                           100% 10.7M=0.3s
+
+2017-02-03 18:19:35 (386 KB/s) - ‘efv014’ saved [128338/128338]
+
+--2017-02-03 18:19:36--  http://doi.org/10.1093/english/efv016
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv016 [following]
+--2017-02-03 18:19:38--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv016
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 136340 (133K) [text/html]
+Saving to: ‘efv016’
+
+     0K .......... .......... .......... .......... .......... 37%  209K 0s
+    50K .......... .......... .......... .......... .......... 75%  605K 0s
+   100K .......... .......... .......... ...                  100%  411K=0.4s
+
+2017-02-03 18:19:49 (331 KB/s) - ‘efv016’ saved [136340/136340]
+
+--2017-02-03 18:19:50--  http://doi.org/10.1093/english/efv012
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv012 [following]
+--2017-02-03 18:19:51--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73703 (72K) [text/html]
+Saving to: ‘efv012’
+
+     0K .......... .......... .......... .......... .......... 69%  209K 0s
+    50K .......... .......... .                               100% 8.61M=0.2s
+
+2017-02-03 18:19:58 (298 KB/s) - ‘efv012’ saved [73703/73703]
+
+--2017-02-03 18:19:59--  http://doi.org/10.1093/english/efv013
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv013 [following]
+--2017-02-03 18:20:00--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68941 (67K) [text/html]
+Saving to: ‘efv013’
+
+     0K .......... .......... .......... .......... .......... 74%  209K 0s
+    50K .......... .......                                    100% 12.6M=0.2s
+
+2017-02-03 18:20:09 (279 KB/s) - ‘efv013’ saved [68941/68941]
+
+--2017-02-03 18:20:10--  http://doi.org/10.1093/english/efv011
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv011 [following]
+--2017-02-03 18:20:11--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 127433 (124K) [text/html]
+Saving to: ‘efv011’
+
+     0K .......... .......... .......... .......... .......... 40%  209K 0s
+    50K .......... .......... .......... .......... .......... 80%  603K 0s
+   100K .......... .......... ....                            100% 11.7M=0.3s
+
+2017-02-03 18:20:20 (384 KB/s) - ‘efv011’ saved [127433/127433]
+
+--2017-02-03 18:20:21--  http://doi.org/10.1093/english/efv009
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv009 [following]
+--2017-02-03 18:20:23--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68954 (67K) [text/html]
+Saving to: ‘efv009’
+
+     0K .......... .......... .......... .......... .......... 74%  208K 0s
+    50K .......... .......                                    100% 17.3M=0.2s
+
+2017-02-03 18:20:31 (279 KB/s) - ‘efv009’ saved [68954/68954]
+
+--2017-02-03 18:20:32--  http://doi.org/10.1093/english/efv010
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv010 [following]
+--2017-02-03 18:20:33--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:20:34 ERROR 400: Bad Request.
+
+--2017-02-03 18:20:35--  http://doi.org/10.1093/english/efv005
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv005 [following]
+--2017-02-03 18:20:36--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 133499 (130K) [text/html]
+Saving to: ‘efv005’
+
+     0K .......... .......... .......... .......... .......... 38%  306K 0s
+    50K .......... .......... .......... .......... .......... 76%  316K 0s
+   100K .......... .......... ..........                      100%  385K=0.4s
+
+2017-02-03 18:20:43 (325 KB/s) - ‘efv005’ saved [133499/133499]
+
+--2017-02-03 18:20:44--  http://doi.org/10.1093/english/efv007
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv007 [following]
+--2017-02-03 18:20:46--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 88050 (86K) [text/html]
+Saving to: ‘efv007’
+
+     0K .......... .......... .......... .......... .......... 58%  208K 0s
+    50K .......... .......... .......... .....                100% 4.91M=0.2s
+
+2017-02-03 18:20:53 (348 KB/s) - ‘efv007’ saved [88050/88050]
+
+--2017-02-03 18:20:54--  http://doi.org/10.1093/english/efv008
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv008 [following]
+--2017-02-03 18:20:55--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 130947 (128K) [text/html]
+Saving to: ‘efv008’
+
+     0K .......... .......... .......... .......... .......... 39%  208K 0s
+    50K .......... .......... .......... .......... .......... 78%  607K 0s
+   100K .......... .......... .......                         100%  355K=0.4s
+
+2017-02-03 18:21:02 (319 KB/s) - ‘efv008’ saved [130947/130947]
+
+--2017-02-03 18:21:03--  http://doi.org/10.1093/english/efv006
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv006 [following]
+--2017-02-03 18:21:05--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:21:06 ERROR 400: Bad Request.
+
+--2017-02-03 18:21:07--  http://doi.org/10.1093/english/efv003
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv003 [following]
+--2017-02-03 18:21:09--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:21:09 ERROR 400: Bad Request.
+
+--2017-02-03 18:21:10--  http://doi.org/10.1093/english/efv004
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv004 [following]
+--2017-02-03 18:21:12--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 74978 (73K) [text/html]
+Saving to: ‘efv004’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ...                             100% 12.8M=0.2s
+
+2017-02-03 18:21:21 (304 KB/s) - ‘efv004’ saved [74978/74978]
+
+--2017-02-03 18:21:22--  http://doi.org/10.1093/english/efv002
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv002 [following]
+--2017-02-03 18:21:23--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:21:24 ERROR 400: Bad Request.
+
+--2017-02-03 18:21:25--  http://doi.org/10.1093/english/efv001
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv001 [following]
+--2017-02-03 18:21:26--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efv001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 93424 (91K) [text/html]
+Saving to: ‘efv001’
+
+     0K .......... .......... .......... .......... .......... 54%  209K 0s
+    50K .......... .......... .......... .......... .         100% 10.7M=0.2s
+
+2017-02-03 18:21:31 (375 KB/s) - ‘efv001’ saved [93424/93424]
+
+--2017-02-03 18:21:32--  http://doi.org/10.1093/english/efu035
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efu035 [following]
+--2017-02-03 18:21:33--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efu035
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 152291 (149K) [text/html]
+Saving to: ‘efu035’
+
+     0K .......... .......... .......... .......... .......... 33%  310K 0s
+    50K .......... .......... .......... .......... .......... 67%  313K 0s
+   100K .......... .......... .......... .......... ........  100%  588K=0.4s
+
+2017-02-03 18:21:57 (368 KB/s) - ‘efu035’ saved [152291/152291]
+
+--2017-02-03 18:21:58--  http://doi.org/10.1093/english/efu036
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efu036 [following]
+--2017-02-03 18:21:59--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efu036
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:22:00 ERROR 400: Bad Request.
+
+--2017-02-03 18:22:01--  http://doi.org/10.1093/english/efu032
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efu032 [following]
+--2017-02-03 18:22:02--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efu032
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:22:03 ERROR 400: Bad Request.
+
+--2017-02-03 18:22:04--  http://doi.org/10.1093/english/efu028
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efu028 [following]
+--2017-02-03 18:22:05--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efu028
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 142846 (139K) [text/html]
+Saving to: ‘efu028’
+
+     0K .......... .......... .......... .......... .......... 35%  209K 0s
+    50K .......... .......... .......... .......... .......... 71%  600K 0s
+   100K .......... .......... .......... .........            100%  492K=0.4s
+
+2017-02-03 18:22:11 (346 KB/s) - ‘efu028’ saved [142846/142846]
+
+--2017-02-03 18:22:12--  http://doi.org/10.1093/english/efu034
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efu034 [following]
+--2017-02-03 18:22:13--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efu034
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68787 (67K) [text/html]
+Saving to: ‘efu034’
+
+     0K .......... .......... .......... .......... .......... 74%  208K 0s
+    50K .......... .......                                    100% 13.5M=0.2s
+
+2017-02-03 18:22:17 (278 KB/s) - ‘efu034’ saved [68787/68787]
+
+--2017-02-03 18:22:18--  http://doi.org/10.1093/english/efu033
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efu033 [following]
+--2017-02-03 18:22:20--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efu033
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 88820 (87K) [text/html]
+Saving to: ‘efu033’
+
+     0K .......... .......... .......... .......... .......... 57%  206K 0s
+    50K .......... .......... .......... ......               100% 13.4M=0.2s
+
+2017-02-03 18:22:25 (353 KB/s) - ‘efu033’ saved [88820/88820]
+
+--2017-02-03 18:22:26--  http://doi.org/10.1093/english/efu020
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efu020 [following]
+--2017-02-03 18:22:28--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efu020
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 136041 (133K) [text/html]
+Saving to: ‘efu020’
+
+     0K .......... .......... .......... .......... .......... 37%  209K 0s
+    50K .......... .......... .......... .......... .......... 75%  612K 0s
+   100K .......... .......... .......... ..                   100%  404K=0.4s
+
+2017-02-03 18:22:33 (330 KB/s) - ‘efu020’ saved [136041/136041]
+
+--2017-02-03 18:22:34--  http://doi.org/10.1093/english/efu029
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efu029 [following]
+--2017-02-03 18:22:36--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efu029
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 89301 (87K) [text/html]
+Saving to: ‘efu029’
+
+     0K .......... .......... .......... .......... .......... 57%  209K 0s
+    50K .......... .......... .......... .......              100%  916K=0.3s
+
+2017-02-03 18:22:41 (312 KB/s) - ‘efu029’ saved [89301/89301]
+
+--2017-02-03 18:22:42--  http://doi.org/10.1093/english/efu030
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efu030 [following]
+--2017-02-03 18:22:44--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efu030
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 74108 (72K) [text/html]
+Saving to: ‘efu030’
+
+     0K .......... .......... .......... .......... .......... 69%  210K 0s
+    50K .......... .......... ..                              100% 9.29M=0.2s
+
+2017-02-03 18:22:50 (301 KB/s) - ‘efu030’ saved [74108/74108]
+
+--2017-02-03 18:22:51--  http://doi.org/10.1093/english/efu031
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/english/article-lookup/doi/10.1093/english/efu031 [following]
+--2017-02-03 18:22:52--  https://academic.oup.com/english/article-lookup/doi/10.1093/english/efu031
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 89763 (88K) [text/html]
+Saving to: ‘efu031’
+
+     0K .......... .......... .......... .......... .......... 57%  310K 0s
+    50K .......... .......... .......... .......              100%  470K=0.2s
+
+2017-02-03 18:22:57 (363 KB/s) - ‘efu031’ saved [89763/89763]
+
+FINISHED --2017-02-03 18:22:57--
+Total wall clock time: 13m 42s
+Downloaded: 84 files, 7.4M in 22s (347 KB/s)

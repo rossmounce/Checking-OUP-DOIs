@@ -1,0 +1,1745 @@
+--2017-02-03 01:31:03--  http://doi.org/10.1093/biomet/asw063
+Resolving doi.org (doi.org)... 208.254.38.90, 38.100.138.162, 38.100.138.163, ...
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://biomet.oxfordjournals.org/lookup/doi/10.1093/biomet/asw063 [following]
+--2017-02-03 01:31:05--  http://biomet.oxfordjournals.org/lookup/doi/10.1093/biomet/asw063
+Resolving biomet.oxfordjournals.org (biomet.oxfordjournals.org)... 209.135.222.209
+Connecting to biomet.oxfordjournals.org (biomet.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from biomet.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/biomet/article/doi/10.1093/biomet/asw063/2938058/Itemwise-conditionally-independent-nonresponse [following]
+--2017-02-03 01:31:07--  https://academic.oup.com/biomet/article/doi/10.1093/biomet/asw063/2938058/Itemwise-conditionally-independent-nonresponse
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 01:31:08 ERROR 400: Bad Request.
+
+--2017-02-03 01:31:09--  http://doi.org/10.1093/biomet/asw068
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://biomet.oxfordjournals.org/lookup/doi/10.1093/biomet/asw068 [following]
+--2017-02-03 01:31:11--  http://biomet.oxfordjournals.org/lookup/doi/10.1093/biomet/asw068
+Connecting to biomet.oxfordjournals.org (biomet.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from biomet.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/biomet/article/doi/10.1093/biomet/asw068/2938063/On-estimating-regression-based-causal-effects [following]
+--2017-02-03 01:31:12--  https://academic.oup.com/biomet/article/doi/10.1093/biomet/asw068/2938063/On-estimating-regression-based-causal-effects
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 270043 (264K) [text/html]
+Saving to: ‘asw068’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 37%  602K 1s
+   100K .......... .......... .......... .......... .......... 56%  603K 0s
+   150K .......... .......... .......... .......... .......... 75%  309K 0s
+   200K .......... .......... .......... .......... .......... 94%  600K 0s
+   250K .......... ...                                        100% 28.9M=0.7s
+
+2017-02-03 01:31:37 (405 KB/s) - ‘asw068’ saved [270043/270043]
+
+--2017-02-03 01:31:38--  http://doi.org/10.1093/biomet/asw064
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://biomet.oxfordjournals.org/lookup/doi/10.1093/biomet/asw064 [following]
+--2017-02-03 01:31:39--  http://biomet.oxfordjournals.org/lookup/doi/10.1093/biomet/asw064
+Connecting to biomet.oxfordjournals.org (biomet.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from biomet.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/biomet/article/doi/10.1093/biomet/asw064/2938060/On-falsification-of-the-binary-instrumental [following]
+--2017-02-03 01:31:40--  https://academic.oup.com/biomet/article/doi/10.1093/biomet/asw064/2938060/On-falsification-of-the-binary-instrumental
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 194413 (190K) [text/html]
+Saving to: ‘asw064’
+
+     0K .......... .......... .......... .......... .......... 26%  209K 1s
+    50K .......... .......... .......... .......... .......... 52%  591K 0s
+   100K .......... .......... .......... .......... .......... 79%  602K 0s
+   150K .......... .......... .......... .........            100%  491K=0.5s
+
+2017-02-03 01:31:56 (389 KB/s) - ‘asw064’ saved [194413/194413]
+
+--2017-02-03 01:31:57--  http://doi.org/10.1093/biomet/asw057
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://biomet.oxfordjournals.org/lookup/doi/10.1093/biomet/asw057 [following]
+--2017-02-03 01:31:59--  http://biomet.oxfordjournals.org/lookup/doi/10.1093/biomet/asw057
+Connecting to biomet.oxfordjournals.org (biomet.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from biomet.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/biomet/article/doi/10.1093/biomet/asw057/2929337/Principal-weighted-support-vector-machines-for [following]
+--2017-02-03 01:32:00--  https://academic.oup.com/biomet/article/doi/10.1093/biomet/asw057/2929337/Principal-weighted-support-vector-machines-for
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 305276 (298K) [text/html]
+Saving to: ‘asw057’
+
+     0K .......... .......... .......... .......... .......... 16%  308K 1s
+    50K .......... .......... .......... .......... .......... 33%  306K 1s
+   100K .......... .......... .......... .......... .......... 50%  614K 0s
+   150K .......... .......... .......... .......... .......... 67%  608K 0s
+   200K .......... .......... .......... .......... .......... 83%  308K 0s
+   250K .......... .......... .......... .......... ........  100%  592K=0.7s
+
+2017-02-03 01:32:09 (407 KB/s) - ‘asw057’ saved [305276/305276]
+
+--2017-02-03 01:32:10--  http://doi.org/10.1093/biomet/asw065
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://biomet.oxfordjournals.org/lookup/doi/10.1093/biomet/asw065 [following]
+--2017-02-03 01:32:11--  http://biomet.oxfordjournals.org/lookup/doi/10.1093/biomet/asw065
+Connecting to biomet.oxfordjournals.org (biomet.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from biomet.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/biomet/article/doi/10.1093/biomet/asw065/2929347/Regression-modelling-on-stratified-data-with-the [following]
+--2017-02-03 01:32:12--  https://academic.oup.com/biomet/article/doi/10.1093/biomet/asw065/2929347/Regression-modelling-on-stratified-data-with-the
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 240171 (235K) [text/html]
+Saving to: ‘asw065’
+
+     0K .......... .......... .......... .......... .......... 21%  207K 1s
+    50K .......... .......... .......... .......... .......... 42%  608K 0s
+   100K .......... .......... .......... .......... .......... 63%  594K 0s
+   150K .......... .......... .......... .......... .......... 85%  571K 0s
+   200K .......... .......... .......... ....                 100%  454K=0.6s
+
+2017-02-03 01:32:18 (411 KB/s) - ‘asw065’ saved [240171/240171]
+
+--2017-02-03 01:32:19--  http://doi.org/10.1093/biomet/asw060
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://biomet.oxfordjournals.org/lookup/doi/10.1093/biomet/asw060 [following]
+--2017-02-03 01:32:20--  http://biomet.oxfordjournals.org/lookup/doi/10.1093/biomet/asw060
+Connecting to biomet.oxfordjournals.org (biomet.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from biomet.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/biomet/article/doi/10.1093/biomet/asw060/2901924/Roy-s-largest-root-test-under-rank-one [following]
+--2017-02-03 01:32:22--  https://academic.oup.com/biomet/article/doi/10.1093/biomet/asw060/2901924/Roy-s-largest-root-test-under-rank-one
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 273764 (267K) [text/html]
+Saving to: ‘asw060’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 37%  591K 1s
+   100K .......... .......... .......... .......... .......... 56%  605K 0s
+   150K .......... .......... .......... .......... .......... 74%  610K 0s
+   200K .......... .......... .......... .......... .......... 93%  320K 0s
+   250K .......... .......                                    100% 3.01M=0.7s
+
+2017-02-03 01:32:41 (411 KB/s) - ‘asw060’ saved [273764/273764]
+
+--2017-02-03 01:32:42--  http://doi.org/10.1093/biomet/asw061
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://biomet.oxfordjournals.org/lookup/doi/10.1093/biomet/asw061 [following]
+--2017-02-03 01:32:44--  http://biomet.oxfordjournals.org/lookup/doi/10.1093/biomet/asw061
+Connecting to biomet.oxfordjournals.org (biomet.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from biomet.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/biomet/article/doi/10.1093/biomet/asw061/2901925/Modelling-structured-correlation-matrices [following]
+--2017-02-03 01:32:45--  https://academic.oup.com/biomet/article/doi/10.1093/biomet/asw061/2901925/Modelling-structured-correlation-matrices
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 130936 (128K) [text/html]
+Saving to: ‘asw061’
+
+     0K .......... .......... .......... .......... .......... 39%  209K 0s
+    50K .......... .......... .......... .......... .......... 78%  611K 0s
+   100K .......... .......... .......                         100%  357K=0.4s
+
+2017-02-03 01:32:56 (320 KB/s) - ‘asw061’ saved [130936/130936]
+
+--2017-02-03 01:32:57--  http://doi.org/10.1093/biomet/asw058
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://biomet.oxfordjournals.org/lookup/doi/10.1093/biomet/asw058 [following]
+--2017-02-03 01:32:58--  http://biomet.oxfordjournals.org/lookup/doi/10.1093/biomet/asw058
+Connecting to biomet.oxfordjournals.org (biomet.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from biomet.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/biomet/article/doi/10.1093/biomet/asw058/2798661/A-note-on-multiple-imputation-under-complex [following]
+--2017-02-03 01:33:00--  https://academic.oup.com/biomet/article/doi/10.1093/biomet/asw058/2798661/A-note-on-multiple-imputation-under-complex
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 01:33:00 ERROR 400: Bad Request.
+
+--2017-02-03 01:33:01--  http://doi.org/10.1093/biomet/asw054
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://biomet.oxfordjournals.org/lookup/doi/10.1093/biomet/asw054 [following]
+--2017-02-03 01:33:02--  http://biomet.oxfordjournals.org/lookup/doi/10.1093/biomet/asw054
+Connecting to biomet.oxfordjournals.org (biomet.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from biomet.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/biomet/article/doi/10.1093/biomet/asw054/2798660/Inference-in-a-survival-cure-model-with [following]
+--2017-02-03 01:33:04--  https://academic.oup.com/biomet/article/doi/10.1093/biomet/asw054/2798660/Inference-in-a-survival-cure-model-with
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 377537 (369K) [text/html]
+Saving to: ‘asw054’
+
+     0K .......... .......... .......... .......... .......... 13%  208K 2s
+    50K .......... .......... .......... .......... .......... 27%  606K 1s
+   100K .......... .......... .......... .......... .......... 40%  593K 1s
+   150K .......... .......... .......... .......... .......... 54%  581K 0s
+   200K .......... .......... .......... .......... .......... 67%  311K 0s
+   250K .......... .......... .......... .......... .......... 81%  582K 0s
+   300K .......... .......... .......... .......... .......... 94%  602K 0s
+   350K .......... ........                                   100%  249K=0.9s
+
+2017-02-03 01:33:13 (410 KB/s) - ‘asw054’ saved [377537/377537]
+
+--2017-02-03 01:33:14--  http://doi.org/10.1093/biomet/asw062
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://biomet.oxfordjournals.org/lookup/doi/10.1093/biomet/asw062 [following]
+--2017-02-03 01:33:15--  http://biomet.oxfordjournals.org/lookup/doi/10.1093/biomet/asw062
+Connecting to biomet.oxfordjournals.org (biomet.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from biomet.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/biomet/article/doi/10.1093/biomet/asw062/2798663/Design-based-asymptotics-for-two-phase-sampling [following]
+--2017-02-03 01:33:16--  https://academic.oup.com/biomet/article/doi/10.1093/biomet/asw062/2798663/Design-based-asymptotics-for-two-phase-sampling
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 214268 (209K) [text/html]
+Saving to: ‘asw062’
+
+     0K .......... .......... .......... .......... .......... 23%  309K 1s
+    50K .......... .......... .......... .......... .......... 47%  313K 0s
+   100K .......... .......... .......... .......... .......... 71%  596K 0s
+   150K .......... .......... .......... .......... .......... 95%  313K 0s
+   200K .........                                             100% 19.4M=0.6s
+
+2017-02-03 01:33:41 (370 KB/s) - ‘asw062’ saved [214268/214268]
+
+--2017-02-03 01:33:42--  http://doi.org/10.1093/biomet/asw059
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://biomet.oxfordjournals.org/lookup/doi/10.1093/biomet/asw059 [following]
+--2017-02-03 01:33:43--  http://biomet.oxfordjournals.org/lookup/doi/10.1093/biomet/asw059
+Connecting to biomet.oxfordjournals.org (biomet.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from biomet.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/biomet/article/doi/10.1093/biomet/asw059/2798662/Selective-factor-extraction-in-high-dimensions [following]
+--2017-02-03 01:33:45--  https://academic.oup.com/biomet/article/doi/10.1093/biomet/asw059/2798662/Selective-factor-extraction-in-high-dimensions
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 261046 (255K) [text/html]
+Saving to: ‘asw059’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 39%  607K 0s
+   100K .......... .......... .......... .......... .......... 58%  609K 0s
+   150K .......... .......... .......... .......... .......... 78%  317K 0s
+   200K .......... .......... .......... .......... .......... 98%  589K 0s
+   250K ....                                                  100% 9399G=0.6s
+
+2017-02-03 01:33:51 (395 KB/s) - ‘asw059’ saved [261046/261046]
+
+--2017-02-03 01:33:52--  http://doi.org/10.1093/biomet/asx005
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:33:53--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Resolving fdslive.oup.com (fdslive.oup.com)... 193.67.160.201
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘asx005’
+
+     0K .......... .......... .......... .......... .......... 97% 1.28M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:33:53 (1.31 MB/s) - ‘asx005’ saved [52438/52438]
+
+--2017-02-03 01:33:54--  http://doi.org/10.1093/biomet/asx001
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:33:55--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘asx001’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:33:55 (1.19 MB/s) - ‘asx001’ saved [52438/52438]
+
+--2017-02-03 01:33:56--  http://doi.org/10.1093/biomet/asw072
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:33:57--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘asw072’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:33:57 (1.20 MB/s) - ‘asw072’ saved [52438/52438]
+
+--2017-02-03 01:33:58--  http://doi.org/10.1093/biomet/asx004
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:34:00--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘asx004’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:34:00 (1.20 MB/s) - ‘asx004’ saved [52438/52438]
+
+--2017-02-03 01:34:01--  http://doi.org/10.1093/biomet/asx007
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:34:02--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘asx007’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:34:02 (1.20 MB/s) - ‘asx007’ saved [52438/52438]
+
+--2017-02-03 01:34:03--  http://doi.org/10.1093/biomet/asx002
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:34:04--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘asx002’
+
+     0K .......... .......... .......... .......... .......... 97% 1.16M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:34:04 (1.19 MB/s) - ‘asx002’ saved [52438/52438]
+
+--2017-02-03 01:34:05--  http://doi.org/10.1093/biomet/asx006
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:34:06--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘asx006’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:34:06 (1.20 MB/s) - ‘asx006’ saved [52438/52438]
+
+--2017-02-03 01:34:07--  http://doi.org/10.1093/biomet/asx008
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:34:09--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘asx008’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:34:09 (1.32 MB/s) - ‘asx008’ saved [52438/52438]
+
+--2017-02-03 01:34:10--  http://doi.org/10.1093/biomet/asw053
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw053 [following]
+--2017-02-03 01:34:11--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw053
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 240027 (234K) [text/html]
+Saving to: ‘asw053’
+
+     0K .......... .......... .......... .......... .......... 21%  208K 1s
+    50K .......... .......... .......... .......... .......... 42%  612K 0s
+   100K .......... .......... .......... .......... .......... 63%  577K 0s
+   150K .......... .......... .......... .......... .......... 85%  594K 0s
+   200K .......... .......... .......... ....                 100%  440K=0.6s
+
+2017-02-03 01:34:18 (410 KB/s) - ‘asw053’ saved [240027/240027]
+
+--2017-02-03 01:34:19--  http://doi.org/10.1093/biomet/asw038
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw038 [following]
+--2017-02-03 01:34:20--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw038
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 348981 (341K) [text/html]
+Saving to: ‘asw038’
+
+     0K .......... .......... .......... .......... .......... 14%  208K 1s
+    50K .......... .......... .......... .......... .......... 29%  607K 1s
+   100K .......... .......... .......... .......... .......... 44%  609K 1s
+   150K .......... .......... .......... .......... .......... 58%  314K 0s
+   200K .......... .......... .......... .......... .......... 73%  591K 0s
+   250K .......... .......... .......... .......... .......... 88%  609K 0s
+   300K .......... .......... .......... ..........           100%  502K=0.8s
+
+2017-02-03 01:34:38 (420 KB/s) - ‘asw038’ saved [348981/348981]
+
+--2017-02-03 01:34:39--  http://doi.org/10.1093/biomet/asw044
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw044 [following]
+--2017-02-03 01:34:40--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw044
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 322941 (315K) [text/html]
+Saving to: ‘asw044’
+
+     0K .......... .......... .......... .......... .......... 15%  209K 1s
+    50K .......... .......... .......... .......... .......... 31%  613K 1s
+   100K .......... .......... .......... .......... .......... 47%  390K 0s
+   150K .......... .......... .......... .......... .......... 63%  315K 0s
+   200K .......... .......... .......... .......... .......... 79%  587K 0s
+   250K .......... .......... .......... .......... .......... 95%  593K 0s
+   300K .......... .....                                      100%  195K=0.9s
+
+2017-02-03 01:34:48 (368 KB/s) - ‘asw044’ saved [322941/322941]
+
+--2017-02-03 01:34:49--  http://doi.org/10.1093/biomet/asw045
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw045 [following]
+--2017-02-03 01:34:51--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw045
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 426962 (417K) [text/html]
+Saving to: ‘asw045’
+
+     0K .......... .......... .......... .......... .......... 11%  208K 2s
+    50K .......... .......... .......... .......... .......... 23%  612K 1s
+   100K .......... .......... .......... .......... .......... 35%  569K 1s
+   150K .......... .......... .......... .......... .......... 47%  592K 1s
+   200K .......... .......... .......... .......... .......... 59%  321K 0s
+   250K .......... .......... .......... .......... .......... 71%  538K 0s
+   300K .......... .......... .......... .......... .......... 83%  605K 0s
+   350K .......... .......... .......... .......... .......... 95%  583K 0s
+   400K .......... ......                                     100%  216K=1.0s
+
+2017-02-03 01:35:12 (421 KB/s) - ‘asw045’ saved [426962/426962]
+
+--2017-02-03 01:35:13--  http://doi.org/10.1093/biomet/asw051
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw051 [following]
+--2017-02-03 01:35:14--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw051
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 296042 (289K) [text/html]
+Saving to: ‘asw051’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 34%  606K 1s
+   100K .......... .......... .......... .......... .......... 51%  602K 0s
+   150K .......... .......... .......... .......... .......... 69%  317K 0s
+   200K .......... .......... .......... .......... .......... 86%  586K 0s
+   250K .......... .......... .......... .........            100%  492K=0.7s
+
+2017-02-03 01:35:47 (397 KB/s) - ‘asw051’ saved [296042/296042]
+
+--2017-02-03 01:35:48--  http://doi.org/10.1093/biomet/asw049
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw049 [following]
+--2017-02-03 01:35:49--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw049
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 230349 (225K) [text/html]
+Saving to: ‘asw049’
+
+     0K .......... .......... .......... .......... .......... 22%  208K 1s
+    50K .......... .......... .......... .......... .......... 44%  609K 0s
+   100K .......... .......... .......... .......... .......... 66%  593K 0s
+   150K .......... .......... .......... .......... .......... 88%  602K 0s
+   200K .......... .......... ....                            100%  324K=0.6s
+
+2017-02-03 01:36:04 (397 KB/s) - ‘asw049’ saved [230349/230349]
+
+--2017-02-03 01:36:05--  http://doi.org/10.1093/biomet/asw043
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw043 [following]
+--2017-02-03 01:36:07--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw043
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 266956 (261K) [text/html]
+Saving to: ‘asw043’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 38%  607K 1s
+   100K .......... .......... .......... .......... .......... 57%  609K 0s
+   150K .......... .......... .......... .......... .......... 76%  420K 0s
+   200K .......... .......... .......... .......... .......... 95%  412K 0s
+   250K ..........                                            100% 6.88M=0.6s
+
+2017-02-03 01:36:15 (404 KB/s) - ‘asw043’ saved [266956/266956]
+
+--2017-02-03 01:36:16--  http://doi.org/10.1093/biomet/asw052
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw052 [following]
+--2017-02-03 01:36:17--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw052
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 158555 (155K) [text/html]
+Saving to: ‘asw052’
+
+     0K .......... .......... .......... .......... .......... 32%  206K 1s
+    50K .......... .......... .......... .......... .......... 64%  608K 0s
+   100K .......... .......... .......... .......... .......... 96%  575K 0s
+   150K ....                                                  100% 9.77M=0.4s
+
+2017-02-03 01:36:43 (375 KB/s) - ‘asw052’ saved [158555/158555]
+
+--2017-02-03 01:36:44--  http://doi.org/10.1093/biomet/asw048
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw048 [following]
+--2017-02-03 01:36:45--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw048
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 208124 (203K) [text/html]
+Saving to: ‘asw048’
+
+     0K .......... .......... .......... .......... .......... 24%  208K 1s
+    50K .......... .......... .......... .......... .......... 49%  596K 0s
+   100K .......... .......... .......... .......... .......... 73%  600K 0s
+   150K .......... .......... .......... .......... .......... 98%  586K 0s
+   200K ...                                                   100% 12.6M=0.5s
+
+2017-02-03 01:36:54 (412 KB/s) - ‘asw048’ saved [208124/208124]
+
+--2017-02-03 01:36:55--  http://doi.org/10.1093/biomet/asw050
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw050 [following]
+--2017-02-03 01:36:57--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw050
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 346913 (339K) [text/html]
+Saving to: ‘asw050’
+
+     0K .......... .......... .......... .......... .......... 14%  209K 1s
+    50K .......... .......... .......... .......... .......... 29%  595K 1s
+   100K .......... .......... .......... .......... .......... 44%  594K 1s
+   150K .......... .......... .......... .......... .......... 59%  314K 0s
+   200K .......... .......... .......... .......... .......... 73%  585K 0s
+   250K .......... .......... .......... .......... .......... 88%  612K 0s
+   300K .......... .......... .......... ........             100%  478K=0.8s
+
+2017-02-03 01:37:07 (416 KB/s) - ‘asw050’ saved [346913/346913]
+
+--2017-02-03 01:37:08--  http://doi.org/10.1093/biomet/asw047
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw047 [following]
+--2017-02-03 01:37:09--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw047
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 274375 (268K) [text/html]
+Saving to: ‘asw047’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 37%  609K 1s
+   100K .......... .......... .......... .......... .......... 55%  597K 0s
+   150K .......... .......... .......... .......... .......... 74%  313K 0s
+   200K .......... .......... .......... .......... .......... 93%  602K 0s
+   250K .......... .......                                    100% 14.2M=0.6s
+
+2017-02-03 01:37:37 (413 KB/s) - ‘asw047’ saved [274375/274375]
+
+--2017-02-03 01:37:38--  http://doi.org/10.1093/biomet/asw041
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw041 [following]
+--2017-02-03 01:37:39--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw041
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 344082 (336K) [text/html]
+Saving to: ‘asw041’
+
+     0K .......... .......... .......... .......... .......... 14%  209K 1s
+    50K .......... .......... .......... .......... .......... 29%  601K 1s
+   100K .......... .......... .......... .......... .......... 44%  610K 1s
+   150K .......... .......... .......... .......... .......... 59%  598K 0s
+   200K .......... .......... .......... .......... .......... 74%  310K 0s
+   250K .......... .......... .......... .......... .......... 89%  593K 0s
+   300K .......... .......... .......... ......               100%  442K=0.8s
+
+2017-02-03 01:38:01 (412 KB/s) - ‘asw041’ saved [344082/344082]
+
+--2017-02-03 01:38:02--  http://doi.org/10.1093/biomet/asw040
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw040 [following]
+--2017-02-03 01:38:03--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw040
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 361351 (353K) [text/html]
+Saving to: ‘asw040’
+
+     0K .......... .......... .......... .......... .......... 14%  310K 1s
+    50K .......... .......... .......... .......... .......... 28%  309K 1s
+   100K .......... .......... .......... .......... .......... 42%  606K 1s
+   150K .......... .......... .......... .......... .......... 56%  316K 0s
+   200K .......... .......... .......... .......... .......... 70%  587K 0s
+   250K .......... .......... .......... .......... .......... 85%  598K 0s
+   300K .......... .......... .......... .......... .......... 99%  590K 0s
+   350K ..                                                    100% 12.8M=0.8s
+
+2017-02-03 01:38:10 (432 KB/s) - ‘asw040’ saved [361351/361351]
+
+--2017-02-03 01:38:11--  http://doi.org/10.1093/biomet/asw046
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw046 [following]
+--2017-02-03 01:38:13--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw046
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 01:38:13 ERROR 400: Bad Request.
+
+--2017-02-03 01:38:14--  http://doi.org/10.1093/biomet/asw042
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw042 [following]
+--2017-02-03 01:38:15--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw042
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 200192 (196K) [text/html]
+Saving to: ‘asw042’
+
+     0K .......... .......... .......... .......... .......... 25%  205K 1s
+    50K .......... .......... .......... .......... .......... 51%  578K 0s
+   100K .......... .......... .......... .......... .......... 76%  611K 0s
+   150K .......... .......... .......... .......... .....     100%  522K=0.5s
+
+2017-02-03 01:38:31 (391 KB/s) - ‘asw042’ saved [200192/200192]
+
+--2017-02-03 01:38:32--  http://doi.org/10.1093/biomet/asw039
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw039 [following]
+--2017-02-03 01:38:33--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw039
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 341214 (333K) [text/html]
+Saving to: ‘asw039’
+
+     0K .......... .......... .......... .......... .......... 15%  304K 1s
+    50K .......... .......... .......... .......... .......... 30%  321K 1s
+   100K .......... .......... .......... .......... .......... 45%  596K 0s
+   150K .......... .......... .......... .......... .......... 60%  591K 0s
+   200K .......... .......... .......... .......... .......... 75%  316K 0s
+   250K .......... .......... .......... .......... .......... 90%  612K 0s
+   300K .......... .......... .......... ...                  100%  418K=0.8s
+
+2017-02-03 01:38:56 (412 KB/s) - ‘asw039’ saved [341214/341214]
+
+--2017-02-03 01:38:57--  http://doi.org/10.1093/biomet/asw037
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw037 [following]
+--2017-02-03 01:38:58--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw037
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 165810 (162K) [text/html]
+Saving to: ‘asw037’
+
+     0K .......... .......... .......... .......... .......... 30%  209K 1s
+    50K .......... .......... .......... .......... .......... 61%  610K 0s
+   100K .......... .......... .......... .......... .......... 92%  597K 0s
+   150K .......... .                                          100% 12.2M=0.4s
+
+2017-02-03 01:39:07 (398 KB/s) - ‘asw037’ saved [165810/165810]
+
+--2017-02-03 01:39:08--  http://doi.org/10.1093/biomet/asw033
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw033 [following]
+--2017-02-03 01:39:09--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw033
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 01:39:09 ERROR 400: Bad Request.
+
+--2017-02-03 01:39:10--  http://doi.org/10.1093/biomet/asw035
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw035 [following]
+--2017-02-03 01:39:11--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw035
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 303174 (296K) [text/html]
+Saving to: ‘asw035’
+
+     0K .......... .......... .......... .......... .......... 16%  209K 1s
+    50K .......... .......... .......... .......... .......... 33%  603K 1s
+   100K .......... .......... .......... .......... .......... 50%  609K 0s
+   150K .......... .......... .......... .......... .......... 67%  602K 0s
+   200K .......... .......... .......... .......... .......... 84%  314K 0s
+   250K .......... .......... .......... .......... ......    100%  574K=0.7s
+
+2017-02-03 01:39:30 (407 KB/s) - ‘asw035’ saved [303174/303174]
+
+--2017-02-03 01:39:31--  http://doi.org/10.1093/biomet/asw029
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw029 [following]
+--2017-02-03 01:39:32--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw029
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 283712 (277K) [text/html]
+Saving to: ‘asw029’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 36%  609K 1s
+   100K .......... .......... .......... .......... .......... 54%  615K 0s
+   150K .......... .......... .......... .......... .......... 72%  416K 0s
+   200K .......... .......... .......... .......... .......... 90%  409K 0s
+   250K .......... .......... .......                         100%  696K=0.7s
+
+2017-02-03 01:39:49 (405 KB/s) - ‘asw029’ saved [283712/283712]
+
+--2017-02-03 01:39:50--  http://doi.org/10.1093/biomet/asw036
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw036 [following]
+--2017-02-03 01:39:51--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw036
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 268333 (262K) [text/html]
+Saving to: ‘asw036’
+
+     0K .......... .......... .......... .......... .......... 19%  207K 1s
+    50K .......... .......... .......... .......... .......... 38%  606K 1s
+   100K .......... .......... .......... .......... .......... 57%  597K 0s
+   150K .......... .......... .......... .......... .......... 76%  610K 0s
+   200K .......... .......... .......... .......... .......... 95%  313K 0s
+   250K .......... ..                                         100% 23.6M=0.7s
+
+2017-02-03 01:40:04 (403 KB/s) - ‘asw036’ saved [268333/268333]
+
+--2017-02-03 01:40:05--  http://doi.org/10.1093/biomet/asw030
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw030 [following]
+--2017-02-03 01:40:06--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw030
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 233122 (228K) [text/html]
+Saving to: ‘asw030’
+
+     0K .......... .......... .......... .......... .......... 21%  209K 1s
+    50K .......... .......... .......... .......... .......... 43%  600K 0s
+   100K .......... .......... .......... .......... .......... 65%  589K 0s
+   150K .......... .......... .......... .......... .......... 87%  607K 0s
+   200K .......... .......... .......                         100%  347K=0.6s
+
+2017-02-03 01:40:21 (400 KB/s) - ‘asw030’ saved [233122/233122]
+
+--2017-02-03 01:40:22--  http://doi.org/10.1093/biomet/asw020
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw020 [following]
+--2017-02-03 01:40:23--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw020
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 257725 (252K) [text/html]
+Saving to: ‘asw020’
+
+     0K .......... .......... .......... .......... .......... 19%  208K 1s
+    50K .......... .......... .......... .......... .......... 39%  599K 0s
+   100K .......... .......... .......... .......... .......... 59%  612K 0s
+   150K .......... .......... .......... .......... .......... 79%  591K 0s
+   200K .......... .......... .......... .......... .......... 99%  321K 0s
+   250K .                                                     100% 3213G=0.6s
+
+2017-02-03 01:40:31 (390 KB/s) - ‘asw020’ saved [257725/257725]
+
+--2017-02-03 01:40:32--  http://doi.org/10.1093/biomet/asw019
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw019 [following]
+--2017-02-03 01:40:33--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 151379 (148K) [text/html]
+Saving to: ‘asw019’
+
+     0K .......... .......... .......... .......... .......... 33%  209K 0s
+    50K .......... .......... .......... .......... .......... 67%  600K 0s
+   100K .......... .......... .......... .......... .......   100%  590K=0.4s
+
+2017-02-03 01:40:51 (366 KB/s) - ‘asw019’ saved [151379/151379]
+
+--2017-02-03 01:40:52--  http://doi.org/10.1093/biomet/asw028
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw028 [following]
+--2017-02-03 01:40:53--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw028
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 287484 (281K) [text/html]
+Saving to: ‘asw028’
+
+     0K .......... .......... .......... .......... .......... 17%  208K 1s
+    50K .......... .......... .......... .......... .......... 35%  603K 1s
+   100K .......... .......... .......... .......... .......... 53%  570K 0s
+   150K .......... .......... .......... .......... .......... 71%  594K 0s
+   200K .......... .......... .......... .......... .......... 89%  314K 0s
+   250K .......... .......... ..........                      100% 6.61M=0.7s
+
+2017-02-03 01:41:04 (426 KB/s) - ‘asw028’ saved [287484/287484]
+
+--2017-02-03 01:41:05--  http://doi.org/10.1093/biomet/asw034
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw034 [following]
+--2017-02-03 01:41:06--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw034
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 01:41:07 ERROR 400: Bad Request.
+
+--2017-02-03 01:41:08--  http://doi.org/10.1093/biomet/asw032
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw032 [following]
+--2017-02-03 01:41:09--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw032
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 01:41:10 ERROR 400: Bad Request.
+
+--2017-02-03 01:41:11--  http://doi.org/10.1093/biomet/asw023
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw023 [following]
+--2017-02-03 01:41:12--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 276572 (270K) [text/html]
+Saving to: ‘asw023’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 37%  610K 1s
+   100K .......... .......... .......... .......... .......... 55%  598K 0s
+   150K .......... .......... .......... .......... .......... 74%  596K 0s
+   200K .......... .......... .......... .......... .......... 92%  603K 0s
+   250K .......... ..........                                 100%  257K=0.7s
+
+2017-02-03 01:41:32 (415 KB/s) - ‘asw023’ saved [276572/276572]
+
+--2017-02-03 01:41:33--  http://doi.org/10.1093/biomet/asw027
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw027 [following]
+--2017-02-03 01:41:34--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw027
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 324082 (316K) [text/html]
+Saving to: ‘asw027’
+
+     0K .......... .......... .......... .......... .......... 15%  308K 1s
+    50K .......... .......... .......... .......... .......... 31%  314K 1s
+   100K .......... .......... .......... .......... .......... 47%  602K 0s
+   150K .......... .......... .......... .......... .......... 63%  606K 0s
+   200K .......... .......... .......... .......... .......... 78%  315K 0s
+   250K .......... .......... .......... .......... .......... 94%  604K 0s
+   300K .......... ......                                     100% 11.1M=0.7s
+
+2017-02-03 01:41:44 (434 KB/s) - ‘asw027’ saved [324082/324082]
+
+--2017-02-03 01:41:45--  http://doi.org/10.1093/biomet/asw021
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw021 [following]
+--2017-02-03 01:41:46--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 339748 (332K) [text/html]
+Saving to: ‘asw021’
+
+     0K .......... .......... .......... .......... .......... 15%  209K 1s
+    50K .......... .......... .......... .......... .......... 30%  609K 1s
+   100K .......... .......... .......... .......... .......... 45%  613K 0s
+   150K .......... .......... .......... .......... .......... 60%  316K 0s
+   200K .......... .......... .......... .......... .......... 75%  595K 0s
+   250K .......... .......... .......... .......... .......... 90%  584K 0s
+   300K .......... .......... .......... .                    100%  411K=0.8s
+
+2017-02-03 01:42:20 (411 KB/s) - ‘asw021’ saved [339748/339748]
+
+--2017-02-03 01:42:21--  http://doi.org/10.1093/biomet/asw026
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw026 [following]
+--2017-02-03 01:42:22--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw026
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 113675 (111K) [text/html]
+Saving to: ‘asw026’
+
+     0K .......... .......... .......... .......... .......... 45%  309K 0s
+    50K .......... .......... .......... .......... .......... 90%  299K 0s
+   100K .......... .                                          100% 10.2M=0.3s
+
+2017-02-03 01:42:48 (336 KB/s) - ‘asw026’ saved [113675/113675]
+
+--2017-02-03 01:42:49--  http://doi.org/10.1093/biomet/asw031
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw031 [following]
+--2017-02-03 01:42:51--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw031
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 01:42:51 ERROR 400: Bad Request.
+
+--2017-02-03 01:42:52--  http://doi.org/10.1093/biomet/asw024
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw024 [following]
+--2017-02-03 01:42:53--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw024
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 286706 (280K) [text/html]
+Saving to: ‘asw024’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 35%  613K 1s
+   100K .......... .......... .......... .......... .......... 53%  599K 0s
+   150K .......... .......... .......... .......... .......... 71%  606K 0s
+   200K .......... .......... .......... .......... .......... 89%  315K 0s
+   250K .......... .......... .........                       100% 4.05M=0.7s
+
+2017-02-03 01:43:08 (429 KB/s) - ‘asw024’ saved [286706/286706]
+
+--2017-02-03 01:43:09--  http://doi.org/10.1093/biomet/asw025
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw025 [following]
+--2017-02-03 01:43:11--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw025
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 262612 (256K) [text/html]
+Saving to: ‘asw025’
+
+     0K .......... .......... .......... .......... .......... 19%  208K 1s
+    50K .......... .......... .......... .......... .......... 38%  607K 1s
+   100K .......... .......... .......... .......... .......... 58%  606K 0s
+   150K .......... .......... .......... .......... .......... 77%  588K 0s
+   200K .......... .......... .......... .......... .......... 97%  319K 0s
+   250K ......                                                100% 22.8M=0.6s
+
+2017-02-03 01:43:39 (396 KB/s) - ‘asw025’ saved [262612/262612]
+
+--2017-02-03 01:43:40--  http://doi.org/10.1093/biomet/asw022
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw022 [following]
+--2017-02-03 01:43:41--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw022
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 247439 (242K) [text/html]
+Saving to: ‘asw022’
+
+     0K .......... .......... .......... .......... .......... 20%  209K 1s
+    50K .......... .......... .......... .......... .......... 41%  606K 0s
+   100K .......... .......... .......... .......... .......... 62%  612K 0s
+   150K .......... .......... .......... .......... .......... 82%  315K 0s
+   200K .......... .......... .......... .......... .         100%  512K=0.6s
+
+2017-02-03 01:43:50 (375 KB/s) - ‘asw022’ saved [247439/247439]
+
+--2017-02-03 01:43:51--  http://doi.org/10.1093/biomet/asw017
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw017 [following]
+--2017-02-03 01:43:52--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72892 (71K) [text/html]
+Saving to: ‘asw017’
+
+     0K .......... .......... .......... .......... .......... 70%  208K 0s
+    50K .......... .......... .                               100% 10.5M=0.2s
+
+2017-02-03 01:44:09 (294 KB/s) - ‘asw017’ saved [72892/72892]
+
+--2017-02-03 01:44:10--  http://doi.org/10.1093/biomet/asw015
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw015 [following]
+--2017-02-03 01:44:11--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 198057 (193K) [text/html]
+Saving to: ‘asw015’
+
+     0K .......... .......... .......... .......... .......... 25%  310K 0s
+    50K .......... .......... .......... .......... .......... 51%  312K 0s
+   100K .......... .......... .......... .......... .......... 77%  613K 0s
+   150K .......... .......... .......... .......... ...       100%  533K=0.5s
+
+2017-02-03 01:44:20 (399 KB/s) - ‘asw015’ saved [198057/198057]
+
+--2017-02-03 01:44:21--  http://doi.org/10.1093/biomet/asw013
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw013 [following]
+--2017-02-03 01:44:22--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 273545 (267K) [text/html]
+Saving to: ‘asw013’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 37%  614K 1s
+   100K .......... .......... .......... .......... .......... 56%  556K 0s
+   150K .......... .......... .......... .......... .......... 74%  606K 0s
+   200K .......... .......... .......... .......... .......... 93%  327K 0s
+   250K .......... .......                                    100% 2.30M=0.7s
+
+2017-02-03 01:44:50 (409 KB/s) - ‘asw013’ saved [273545/273545]
+
+--2017-02-03 01:44:51--  http://doi.org/10.1093/biomet/asw014
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw014 [following]
+--2017-02-03 01:44:52--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw014
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 230604 (225K) [text/html]
+Saving to: ‘asw014’
+
+     0K .......... .......... .......... .......... .......... 22%  207K 1s
+    50K .......... .......... .......... .......... .......... 44%  611K 0s
+   100K .......... .......... .......... .......... .......... 66%  602K 0s
+   150K .......... .......... .......... .......... .......... 88%  314K 0s
+   200K .......... .......... .....                           100% 10.5M=0.6s
+
+2017-02-03 01:45:08 (397 KB/s) - ‘asw014’ saved [230604/230604]
+
+--2017-02-03 01:45:09--  http://doi.org/10.1093/biomet/asw018
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw018 [following]
+--2017-02-03 01:45:10--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw018
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 202356 (198K) [text/html]
+Saving to: ‘asw018’
+
+     0K .......... .......... .......... .......... .......... 25%  209K 1s
+    50K .......... .......... .......... .......... .......... 50%  605K 0s
+   100K .......... .......... .......... .......... .......... 75%  608K 0s
+   150K .......... .......... .......... .......... .......   100%  583K=0.5s
+
+2017-02-03 01:45:29 (407 KB/s) - ‘asw018’ saved [202356/202356]
+
+--2017-02-03 01:45:30--  http://doi.org/10.1093/biomet/asw016
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw016 [following]
+--2017-02-03 01:45:31--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw016
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 157253 (154K) [text/html]
+Saving to: ‘asw016’
+
+     0K .......... .......... .......... .......... .......... 32%  209K 0s
+    50K .......... .......... .......... .......... .......... 65%  571K 0s
+   100K .......... .......... .......... .......... .......... 97%  608K 0s
+   150K ...                                                   100% 18.7M=0.4s
+
+2017-02-03 01:45:47 (375 KB/s) - ‘asw016’ saved [157253/157253]
+
+--2017-02-03 01:45:48--  http://doi.org/10.1093/biomet/asw011
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw011 [following]
+--2017-02-03 01:45:50--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 219546 (214K) [text/html]
+Saving to: ‘asw011’
+
+     0K .......... .......... .......... .......... .......... 23%  209K 1s
+    50K .......... .......... .......... .......... .......... 46%  604K 0s
+   100K .......... .......... .......... .......... .......... 69%  612K 0s
+   150K .......... .......... .......... .......... .......... 93%  603K 0s
+   200K .......... ....                                       100%  183K=0.6s
+
+2017-02-03 01:45:59 (379 KB/s) - ‘asw011’ saved [219546/219546]
+
+--2017-02-03 01:46:00--  http://doi.org/10.1093/biomet/asw008
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw008 [following]
+--2017-02-03 01:46:01--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 225257 (220K) [text/html]
+Saving to: ‘asw008’
+
+     0K .......... .......... .......... .......... .......... 22%  208K 1s
+    50K .......... .......... .......... .......... .......... 45%  605K 0s
+   100K .......... .......... .......... .......... .......... 68%  606K 0s
+   150K .......... .......... .......... .......... .......... 90%  606K 0s
+   200K .......... .........                                  100%  253K=0.6s
+
+2017-02-03 01:46:08 (388 KB/s) - ‘asw008’ saved [225257/225257]
+
+--2017-02-03 01:46:09--  http://doi.org/10.1093/biomet/asw005
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw005 [following]
+--2017-02-03 01:46:11--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 257406 (251K) [text/html]
+Saving to: ‘asw005’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 39%  605K 0s
+   100K .......... .......... .......... .......... .......... 59%  594K 0s
+   150K .......... .......... .......... .......... .......... 79%  600K 0s
+   200K .......... .......... .......... .......... .......... 99%  316K 0s
+   250K .                                                     100% 2619G=0.6s
+
+2017-02-03 01:46:21 (388 KB/s) - ‘asw005’ saved [257406/257406]
+
+--2017-02-03 01:46:22--  http://doi.org/10.1093/biomet/asw010
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw010 [following]
+--2017-02-03 01:46:23--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 217741 (213K) [text/html]
+Saving to: ‘asw010’
+
+     0K .......... .......... .......... .......... .......... 23%  208K 1s
+    50K .......... .......... .......... .......... .......... 47%  591K 0s
+   100K .......... .......... .......... .......... .......... 70%  591K 0s
+   150K .......... .......... .......... .......... .......... 94%  592K 0s
+   200K .......... ..                                         100% 13.8M=0.5s
+
+2017-02-03 01:46:45 (430 KB/s) - ‘asw010’ saved [217741/217741]
+
+--2017-02-03 01:46:46--  http://doi.org/10.1093/biomet/asw012
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw012 [following]
+--2017-02-03 01:46:47--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 181753 (177K) [text/html]
+Saving to: ‘asw012’
+
+     0K .......... .......... .......... .......... .......... 28%  209K 1s
+    50K .......... .......... .......... .......... .......... 56%  602K 0s
+   100K .......... .......... .......... .......... .......... 84%  611K 0s
+   150K .......... .......... .......                         100%  355K=0.5s
+
+2017-02-03 01:47:08 (368 KB/s) - ‘asw012’ saved [181753/181753]
+
+--2017-02-03 01:47:09--  http://doi.org/10.1093/biomet/asw003
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw003 [following]
+--2017-02-03 01:47:10--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 281748 (275K) [text/html]
+Saving to: ‘asw003’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 36%  602K 1s
+   100K .......... .......... .......... .......... .......... 54%  611K 0s
+   150K .......... .......... .......... .......... .......... 72%  316K 0s
+   200K .......... .......... .......... .......... .......... 90%  592K 0s
+   250K .......... .......... .....                           100%  330K=0.7s
+
+2017-02-03 01:47:17 (381 KB/s) - ‘asw003’ saved [281748/281748]
+
+--2017-02-03 01:47:18--  http://doi.org/10.1093/biomet/asw007
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw007 [following]
+--2017-02-03 01:47:19--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 01:47:20 ERROR 400: Bad Request.
+
+--2017-02-03 01:47:21--  http://doi.org/10.1093/biomet/asw009
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw009 [following]
+--2017-02-03 01:47:22--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 225046 (220K) [text/html]
+Saving to: ‘asw009’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 45%  601K 0s
+   100K .......... .......... .......... .......... .......... 68%  597K 0s
+   150K .......... .......... .......... .......... .......... 91%  601K 0s
+   200K .......... .........                                  100%  253K=0.6s
+
+2017-02-03 01:47:28 (387 KB/s) - ‘asw009’ saved [225046/225046]
+
+--2017-02-03 01:47:29--  http://doi.org/10.1093/biomet/asw001
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw001 [following]
+--2017-02-03 01:47:30--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 01:47:32 ERROR 400: Bad Request.
+
+--2017-02-03 01:47:33--  http://doi.org/10.1093/biomet/asw006
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw006 [following]
+--2017-02-03 01:47:34--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 233653 (228K) [text/html]
+Saving to: ‘asw006’
+
+     0K .......... .......... .......... .......... .......... 21%  209K 1s
+    50K .......... .......... .......... .......... .......... 43%  603K 0s
+   100K .......... .......... .......... .......... .......... 65%  613K 0s
+   150K .......... .......... .......... .......... .......... 87%  415K 0s
+   200K .......... .......... ........                        100%  662K=0.6s
+
+2017-02-03 01:47:43 (402 KB/s) - ‘asw006’ saved [233653/233653]
+
+--2017-02-03 01:47:44--  http://doi.org/10.1093/biomet/asw004
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw004 [following]
+--2017-02-03 01:47:46--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 273908 (267K) [text/html]
+Saving to: ‘asw004’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 37%  583K 1s
+   100K .......... .......... .......... .......... .......... 56%  605K 0s
+   150K .......... .......... .......... .......... .......... 74%  604K 0s
+   200K .......... .......... .......... .......... .......... 93%  312K 0s
+   250K .......... .......                                    100% 10.5M=0.7s
+
+2017-02-03 01:47:51 (410 KB/s) - ‘asw004’ saved [273908/273908]
+
+--2017-02-03 01:47:52--  http://doi.org/10.1093/biomet/asw002
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw002 [following]
+--2017-02-03 01:47:54--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asw002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 242577 (237K) [text/html]
+Saving to: ‘asw002’
+
+     0K .......... .......... .......... .......... .......... 21%  209K 1s
+    50K .......... .......... .......... .......... .......... 42%  569K 0s
+   100K .......... .......... .......... .......... .......... 63%  594K 0s
+   150K .......... .......... .......... .......... .......... 84%  613K 0s
+   200K .......... .......... .......... ......               100%  457K=0.6s
+
+2017-02-03 01:48:01 (413 KB/s) - ‘asw002’ saved [242577/242577]
+
+--2017-02-03 01:48:02--  http://doi.org/10.1093/biomet/asv070
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv070 [following]
+--2017-02-03 01:48:04--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv070
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 191430 (187K) [text/html]
+Saving to: ‘asv070’
+
+     0K .......... .......... .......... .......... .......... 26%  209K 1s
+    50K .......... .......... .......... .......... .......... 53%  601K 0s
+   100K .......... .......... .......... .......... .......... 80%  612K 0s
+   150K .......... .......... .......... ......               100%  454K=0.5s
+
+2017-02-03 01:48:11 (385 KB/s) - ‘asv070’ saved [191430/191430]
+
+--2017-02-03 01:48:12--  http://doi.org/10.1093/biomet/asv068
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv068 [following]
+--2017-02-03 01:48:14--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv068
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 01:48:14 ERROR 400: Bad Request.
+
+--2017-02-03 01:48:15--  http://doi.org/10.1093/biomet/asv066
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv066 [following]
+--2017-02-03 01:48:16--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv066
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 389974 (381K) [text/html]
+Saving to: ‘asv066’
+
+     0K .......... .......... .......... .......... .......... 13%  209K 2s
+    50K .......... .......... .......... .......... .......... 26%  611K 1s
+   100K .......... .......... .......... .......... .......... 39%  612K 1s
+   150K .......... .......... .......... .......... .......... 52%  311K 1s
+   200K .......... .......... .......... .......... .......... 65%  583K 0s
+   250K .......... .......... .......... .......... .......... 78%  606K 0s
+   300K .......... .......... .......... .......... .......... 91%  610K 0s
+   350K .......... .......... ..........                      100%  383K=0.9s
+
+2017-02-03 01:48:30 (426 KB/s) - ‘asv066’ saved [389974/389974]
+
+--2017-02-03 01:48:31--  http://doi.org/10.1093/biomet/asv069
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv069 [following]
+--2017-02-03 01:48:32--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv069
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 270279 (264K) [text/html]
+Saving to: ‘asv069’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 37%  606K 1s
+   100K .......... .......... .......... .......... .......... 56%  592K 0s
+   150K .......... .......... .......... .......... .......... 75%  621K 0s
+   200K .......... .......... .......... .......... .......... 94%  314K 0s
+   250K .......... ...                                        100% 15.6M=0.6s
+
+2017-02-03 01:48:49 (408 KB/s) - ‘asv069’ saved [270279/270279]
+
+--2017-02-03 01:48:50--  http://doi.org/10.1093/biomet/asv072
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv072 [following]
+--2017-02-03 01:48:51--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv072
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 232163 (227K) [text/html]
+Saving to: ‘asv072’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 44%  578K 0s
+   100K .......... .......... .......... .......... .......... 66%  605K 0s
+   150K .......... .......... .......... .......... .......... 88%  408K 0s
+   200K .......... .......... ......                          100%  679K=0.6s
+
+2017-02-03 01:48:59 (398 KB/s) - ‘asv072’ saved [232163/232163]
+
+--2017-02-03 01:49:00--  http://doi.org/10.1093/biomet/asv064
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv064 [following]
+--2017-02-03 01:49:01--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv064
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 335705 (328K) [text/html]
+Saving to: ‘asv064’
+
+     0K .......... .......... .......... .......... .......... 15%  209K 1s
+    50K .......... .......... .......... .......... .......... 30%  613K 1s
+   100K .......... .......... .......... .......... .......... 45%  603K 0s
+   150K .......... .......... .......... .......... .......... 61%  595K 0s
+   200K .......... .......... .......... .......... .......... 76%  317K 0s
+   250K .......... .......... .......... .......... .......... 91%  613K 0s
+   300K .......... .......... .......                         100%  350K=0.8s
+
+2017-02-03 01:49:10 (406 KB/s) - ‘asv064’ saved [335705/335705]
+
+--2017-02-03 01:49:11--  http://doi.org/10.1093/biomet/asv073
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv073 [following]
+--2017-02-03 01:49:12--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv073
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 190689 (186K) [text/html]
+Saving to: ‘asv073’
+
+     0K .......... .......... .......... .......... .......... 26%  209K 1s
+    50K .......... .......... .......... .......... .......... 53%  606K 0s
+   100K .......... .......... .......... .......... .......... 80%  614K 0s
+   150K .......... .......... .......... ......               100%  446K=0.5s
+
+2017-02-03 01:49:34 (384 KB/s) - ‘asv073’ saved [190689/190689]
+
+--2017-02-03 01:49:35--  http://doi.org/10.1093/biomet/asv067
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv067 [following]
+--2017-02-03 01:49:36--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv067
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 266385 (260K) [text/html]
+Saving to: ‘asv067’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 38%  606K 1s
+   100K .......... .......... .......... .......... .......... 57%  606K 0s
+   150K .......... .......... .......... .......... .......... 76%  609K 0s
+   200K .......... .......... .......... .......... .......... 96%  314K 0s
+   250K ..........                                            100% 27.8M=0.6s
+
+2017-02-03 01:50:08 (403 KB/s) - ‘asv067’ saved [266385/266385]
+
+--2017-02-03 01:50:09--  http://doi.org/10.1093/biomet/asv061
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv061 [following]
+--2017-02-03 01:50:10--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv061
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 286088 (279K) [text/html]
+Saving to: ‘asv061’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 35%  608K 1s
+   100K .......... .......... .......... .......... .......... 53%  608K 0s
+   150K .......... .......... .......... .......... .......... 71%  595K 0s
+   200K .......... .......... .......... .......... .......... 89%  311K 0s
+   250K .......... .......... .........                       100% 9.89M=0.7s
+
+2017-02-03 01:50:43 (429 KB/s) - ‘asv061’ saved [286088/286088]
+
+--2017-02-03 01:50:44--  http://doi.org/10.1093/biomet/asv071
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv071 [following]
+--2017-02-03 01:50:45--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv071
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 270631 (264K) [text/html]
+Saving to: ‘asv071’
+
+     0K .......... .......... .......... .......... .......... 18%  207K 1s
+    50K .......... .......... .......... .......... .......... 37%  606K 1s
+   100K .......... .......... .......... .......... .......... 56%  612K 0s
+   150K .......... .......... .......... .......... .......... 75%  608K 0s
+   200K .......... .......... .......... .......... .......... 94%  312K 0s
+   250K .......... ....                                       100% 30.5M=0.6s
+
+2017-02-03 01:51:23 (407 KB/s) - ‘asv071’ saved [270631/270631]
+
+--2017-02-03 01:51:24--  http://doi.org/10.1093/biomet/asv055
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv055 [following]
+--2017-02-03 01:51:25--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv055
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 285721 (279K) [text/html]
+Saving to: ‘asv055’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 35%  607K 1s
+   100K .......... .......... .......... .......... .......... 53%  608K 0s
+   150K .......... .......... .......... .......... .......... 71%  607K 0s
+   200K .......... .......... .......... .......... .......... 89%  317K 0s
+   250K .......... .......... .........                       100% 5.47M=0.6s
+
+2017-02-03 01:51:33 (430 KB/s) - ‘asv055’ saved [285721/285721]
+
+--2017-02-03 01:51:34--  http://doi.org/10.1093/biomet/asv063
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv063 [following]
+--2017-02-03 01:51:35--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv063
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 144763 (141K) [text/html]
+Saving to: ‘asv063’
+
+     0K .......... .......... .......... .......... .......... 35%  209K 0s
+    50K .......... .......... .......... .......... .......... 70%  606K 0s
+   100K .......... .......... .......... .......... .         100%  509K=0.4s
+
+2017-02-03 01:51:49 (351 KB/s) - ‘asv063’ saved [144763/144763]
+
+--2017-02-03 01:51:50--  http://doi.org/10.1093/biomet/asv060
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv060 [following]
+--2017-02-03 01:51:51--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv060
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 230817 (225K) [text/html]
+Saving to: ‘asv060’
+
+     0K .......... .......... .......... .......... .......... 22%  208K 1s
+    50K .......... .......... .......... .......... .......... 44%  606K 0s
+   100K .......... .......... .......... .......... .......... 66%  591K 0s
+   150K .......... .......... .......... .......... .......... 88%  399K 0s
+   200K .......... .......... .....                           100%  676K=0.6s
+
+2017-02-03 01:52:01 (395 KB/s) - ‘asv060’ saved [230817/230817]
+
+--2017-02-03 01:52:02--  http://doi.org/10.1093/biomet/asv062
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv062 [following]
+--2017-02-03 01:52:03--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv062
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 262698 (257K) [text/html]
+Saving to: ‘asv062’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 38%  610K 1s
+   100K .......... .......... .......... .......... .......... 58%  600K 0s
+   150K .......... .......... .......... .......... .......... 77%  313K 0s
+   200K .......... .......... .......... .......... .......... 97%  606K 0s
+   250K ......                                                100% 14.5M=0.6s
+
+2017-02-03 01:52:12 (396 KB/s) - ‘asv062’ saved [262698/262698]
+
+--2017-02-03 01:52:13--  http://doi.org/10.1093/biomet/asv054
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv054 [following]
+--2017-02-03 01:52:14--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv054
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 290376 (284K) [text/html]
+Saving to: ‘asv054’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 35%  610K 1s
+   100K .......... .......... .......... .......... .......... 52%  598K 0s
+   150K .......... .......... .......... .......... .......... 70%  610K 0s
+   200K .......... .......... .......... .......... .......... 88%  317K 0s
+   250K .......... .......... .......... ...                  100% 6.38M=0.6s
+
+2017-02-03 01:52:19 (436 KB/s) - ‘asv054’ saved [290376/290376]
+
+--2017-02-03 01:52:20--  http://doi.org/10.1093/biomet/asw070
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:52:22--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘asw070’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:52:22 (1.32 MB/s) - ‘asw070’ saved [52438/52438]
+
+--2017-02-03 01:52:23--  http://doi.org/10.1093/biomet/asw069
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:52:24--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘asw069’
+
+     0K .......... .......... .......... .......... .......... 97% 1.28M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:52:24 (1.31 MB/s) - ‘asw069’ saved [52438/52438]
+
+--2017-02-03 01:52:25--  http://doi.org/10.1093/biomet/asw067
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:52:26--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘asw067’
+
+     0K .......... .......... .......... .......... .......... 97% 1.28M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:52:26 (1.32 MB/s) - ‘asw067’ saved [52438/52438]
+
+--2017-02-03 01:52:27--  http://doi.org/10.1093/biomet/asw066
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:52:28--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘asw066’
+
+     0K .......... .......... .......... .......... .......... 97% 1.15M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:52:28 (1.18 MB/s) - ‘asw066’ saved [52438/52438]
+
+--2017-02-03 01:52:29--  http://doi.org/10.1093/biomet/asw071
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:52:31--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘asw071’
+
+     0K .......... .......... .......... .......... .......... 97% 1.16M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:52:31 (1.19 MB/s) - ‘asw071’ saved [52438/52438]
+
+--2017-02-03 01:52:32--  http://doi.org/10.1093/biomet/asv056
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv056 [following]
+--2017-02-03 01:52:33--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv056
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 188756 (184K) [text/html]
+Saving to: ‘asv056’
+
+     0K .......... .......... .......... .......... .......... 27%  209K 1s
+    50K .......... .......... .......... .......... .......... 54%  568K 0s
+   100K .......... .......... .......... .......... .......... 81%  613K 0s
+   150K .......... .......... .......... ....                 100%  428K=0.5s
+
+2017-02-03 01:52:42 (377 KB/s) - ‘asv056’ saved [188756/188756]
+
+--2017-02-03 01:52:43--  http://doi.org/10.1093/biomet/asv065
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv065 [following]
+--2017-02-03 01:52:44--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv065
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 130054 (127K) [text/html]
+Saving to: ‘asv065’
+
+     0K .......... .......... .......... .......... .......... 39%  209K 0s
+    50K .......... .......... .......... .......... .......... 78%  598K 0s
+   100K .......... .......... .......                         100% 13.7M=0.3s
+
+2017-02-03 01:52:49 (391 KB/s) - ‘asv065’ saved [130054/130054]
+
+--2017-02-03 01:52:50--  http://doi.org/10.1093/biomet/asv052
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv052 [following]
+--2017-02-03 01:52:52--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv052
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 240557 (235K) [text/html]
+Saving to: ‘asv052’
+
+     0K .......... .......... .......... .......... .......... 21%  209K 1s
+    50K .......... .......... .......... .......... .......... 42%  596K 0s
+   100K .......... .......... .......... .......... .......... 63%  611K 0s
+   150K .......... .......... .......... .......... .......... 85%  603K 0s
+   200K .......... .......... .......... ....                 100%  431K=0.6s
+
+2017-02-03 01:53:01 (413 KB/s) - ‘asv052’ saved [240557/240557]
+
+--2017-02-03 01:53:02--  http://doi.org/10.1093/biomet/asv057
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv057 [following]
+--2017-02-03 01:53:04--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv057
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 01:53:04 ERROR 400: Bad Request.
+
+--2017-02-03 01:53:05--  http://doi.org/10.1093/biomet/asv053
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv053 [following]
+--2017-02-03 01:53:06--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv053
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66371 (65K) [text/html]
+Saving to: ‘asv053’
+
+     0K .......... .......... .......... .......... .......... 77%  209K 0s
+    50K .......... ....                                       100% 14.7M=0.2s
+
+2017-02-03 01:53:10 (270 KB/s) - ‘asv053’ saved [66371/66371]
+
+--2017-02-03 01:53:11--  http://doi.org/10.1093/biomet/asv058
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv058 [following]
+--2017-02-03 01:53:12--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv058
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62464 (61K) [text/html]
+Saving to: ‘asv058’
+
+     0K .......... .......... .......... .......... .......... 81%  209K 0s
+    50K .......... .                                          100% 20.9M=0.2s
+
+2017-02-03 01:53:18 (254 KB/s) - ‘asv058’ saved [62464/62464]
+
+--2017-02-03 01:53:19--  http://doi.org/10.1093/biomet/asv059
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv059 [following]
+--2017-02-03 01:53:20--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv059
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62624 (61K) [text/html]
+Saving to: ‘asv059’
+
+     0K .......... .......... .......... .......... .......... 81%  209K 0s
+    50K .......... .                                          100% 22.4M=0.2s
+
+2017-02-03 01:53:25 (255 KB/s) - ‘asv059’ saved [62624/62624]
+
+--2017-02-03 01:53:26--  http://doi.org/10.1093/biomet/asv046
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv046 [following]
+--2017-02-03 01:53:28--  https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/asv046
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 193896 (189K) [text/html]
+Saving to: ‘asv046’
+
+     0K .......... .......... .......... .......... .......... 26%  208K 1s
+    50K .......... .......... .......... .......... .......... 52%  601K 0s
+   100K .......... .......... .......... .......... .......... 79%  612K 0s
+   150K .......... .......... .......... .........            100%  481K=0.5s
+
+2017-02-03 01:53:34 (389 KB/s) - ‘asv046’ saved [193896/193896]
+
+FINISHED --2017-02-03 01:53:34--
+Total wall clock time: 22m 31s
+Downloaded: 89 files, 18M in 46s (409 KB/s)

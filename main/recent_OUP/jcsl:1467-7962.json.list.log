@@ -1,0 +1,1641 @@
+--2017-02-03 08:38:55--  http://doi.org/10.1093/jcsl/krw029
+Resolving doi.org (doi.org)... 38.100.138.162, 95.138.171.129, 38.100.138.163, ...
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 08:38:56--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Resolving fdslive.oup.com (fdslive.oup.com)... 193.67.160.201
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘krw029’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 08:38:57 (1.20 MB/s) - ‘krw029’ saved [52438/52438]
+
+--2017-02-03 08:38:58--  http://doi.org/10.1093/jcsl/krw020
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw020 [following]
+--2017-02-03 08:38:59--  http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw020
+Resolving jcsl.oxfordjournals.org (jcsl.oxfordjournals.org)... 209.135.222.209
+Connecting to jcsl.oxfordjournals.org (jcsl.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcsl.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcsl/article/21/3/455/2567829/Non-State-Actors-Ungoverned-Spaces-and [following]
+--2017-02-03 08:39:00--  https://academic.oup.com/jcsl/article/21/3/455/2567829/Non-State-Actors-Ungoverned-Spaces-and
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 155312 (152K) [text/html]
+Saving to: ‘krw020’
+
+     0K .......... .......... .......... .......... .......... 32%  205K 0s
+    50K .......... .......... .......... .......... .......... 65%  606K 0s
+   100K .......... .......... .......... .......... .......... 98%  615K 0s
+   150K .                                                     100% 13.8M=0.4s
+
+2017-02-03 08:39:04 (372 KB/s) - ‘krw020’ saved [155312/155312]
+
+--2017-02-03 08:39:05--  http://doi.org/10.1093/jcsl/krw023
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw023 [following]
+--2017-02-03 08:39:07--  http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw023
+Connecting to jcsl.oxfordjournals.org (jcsl.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcsl.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from jcsl.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcsl/redirect-unavailable?url=jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw023 [following]
+--2017-02-03 08:39:08--  https://academic.oup.com/jcsl/redirect-unavailable?url=jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:39:09 ERROR 404: Not Found.
+
+--2017-02-03 08:39:10--  http://doi.org/10.1093/jcsl/krw022
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw022 [following]
+--2017-02-03 08:39:11--  http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw022
+Connecting to jcsl.oxfordjournals.org (jcsl.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcsl.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcsl/article/21/3/575/2567002/Cyber-Operations-and-International-Law-An [following]
+--2017-02-03 08:39:12--  https://academic.oup.com/jcsl/article/21/3/575/2567002/Cyber-Operations-and-International-Law-An
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 155709 (152K) [text/html]
+Saving to: ‘krw022’
+
+     0K .......... .......... .......... .......... .......... 32%  206K 0s
+    50K .......... .......... .......... .......... .......... 65%  605K 0s
+   100K .......... .......... .......... .......... .......... 98%  613K 0s
+   150K ..                                                    100% 10.9M=0.4s
+
+2017-02-03 08:39:16 (374 KB/s) - ‘krw022’ saved [155709/155709]
+
+--2017-02-03 08:39:17--  http://doi.org/10.1093/jcsl/krw018
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw018 [following]
+--2017-02-03 08:39:18--  http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw018
+Connecting to jcsl.oxfordjournals.org (jcsl.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcsl.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcsl/article/21/3/555/2567000/Violations-of-International-Humanitarian-Law-by [following]
+--2017-02-03 08:39:20--  https://academic.oup.com/jcsl/article/21/3/555/2567000/Violations-of-International-Humanitarian-Law-by
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 161385 (158K) [text/html]
+Saving to: ‘krw018’
+
+     0K .......... .......... .......... .......... .......... 31%  206K 1s
+    50K .......... .......... .......... .......... .......... 63%  614K 0s
+   100K .......... .......... .......... .......... .......... 95%  604K 0s
+   150K .......                                               100% 17.0M=0.4s
+
+2017-02-03 08:39:22 (387 KB/s) - ‘krw018’ saved [161385/161385]
+
+--2017-02-03 08:39:23--  http://doi.org/10.1093/jcsl/krw021
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw021 [following]
+--2017-02-03 08:39:24--  http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw021
+Connecting to jcsl.oxfordjournals.org (jcsl.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcsl.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcsl/article/21/3/523/2567001/The-Territorial-Jurisdiction-of-the-ICC-for-Core [following]
+--2017-02-03 08:39:25--  https://academic.oup.com/jcsl/article/21/3/523/2567001/The-Territorial-Jurisdiction-of-the-ICC-for-Core
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 149758 (146K) [text/html]
+Saving to: ‘krw021’
+
+     0K .......... .......... .......... .......... .......... 34%  209K 0s
+    50K .......... .......... .......... .......... .......... 68%  609K 0s
+   100K .......... .......... .......... .......... ......    100%  553K=0.4s
+
+2017-02-03 08:39:28 (361 KB/s) - ‘krw021’ saved [149758/149758]
+
+--2017-02-03 08:39:29--  http://doi.org/10.1093/jcsl/krw011
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw011 [following]
+--2017-02-03 08:39:30--  http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw011
+Connecting to jcsl.oxfordjournals.org (jcsl.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcsl.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcsl/article/21/3/429/2566738/Cyberspace-Non-State-Actors-and-the-Obligation-to [following]
+--2017-02-03 08:39:31--  https://academic.oup.com/jcsl/article/21/3/429/2566738/Cyberspace-Non-State-Actors-and-the-Obligation-to
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 187868 (183K) [text/html]
+Saving to: ‘krw011’
+
+     0K .......... .......... .......... .......... .......... 27%  307K 0s
+    50K .......... .......... .......... .......... .......... 54%  312K 0s
+   100K .......... .......... .......... .......... .......... 81%  606K 0s
+   150K .......... .......... .......... ...                  100%  417K=0.5s
+
+2017-02-03 08:39:36 (378 KB/s) - ‘krw011’ saved [187868/187868]
+
+--2017-02-03 08:39:37--  http://doi.org/10.1093/jcsl/krw017
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw017 [following]
+--2017-02-03 08:39:38--  http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw017
+Connecting to jcsl.oxfordjournals.org (jcsl.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcsl.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcsl/article/21/3/377/2566740/Special-Issue-Non-State-Actors-and-Responsibility [following]
+--2017-02-03 08:39:39--  https://academic.oup.com/jcsl/article/21/3/377/2566740/Special-Issue-Non-State-Actors-and-Responsibility
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 86438 (84K) [text/html]
+Saving to: ‘krw017’
+
+     0K .......... .......... .......... .......... .......... 59%  205K 0s
+    50K .......... .......... .......... ....                 100% 11.0M=0.2s
+
+2017-02-03 08:39:42 (341 KB/s) - ‘krw017’ saved [86438/86438]
+
+--2017-02-03 08:39:43--  http://doi.org/10.1093/jcsl/krw015
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw015 [following]
+--2017-02-03 08:39:44--  http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw015
+Connecting to jcsl.oxfordjournals.org (jcsl.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcsl.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcsl/article/21/3/383/2566739/Proxies-and-Cyberspace [following]
+--2017-02-03 08:39:45--  https://academic.oup.com/jcsl/article/21/3/383/2566739/Proxies-and-Cyberspace
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 158113 (154K) [text/html]
+Saving to: ‘krw015’
+
+     0K .......... .......... .......... .......... .......... 32%  204K 1s
+    50K .......... .......... .......... .......... .......... 64%  306K 0s
+   100K .......... .......... .......... .......... .......... 97%  589K 0s
+   150K ....                                                  100% 13.3M=0.5s
+
+2017-02-03 08:39:49 (312 KB/s) - ‘krw015’ saved [158113/158113]
+
+--2017-02-03 08:39:50--  http://doi.org/10.1093/jcsl/krw024
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw024 [following]
+--2017-02-03 08:39:51--  http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw024
+Connecting to jcsl.oxfordjournals.org (jcsl.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcsl.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from jcsl.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcsl/redirect-unavailable?url=jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw024 [following]
+--2017-02-03 08:39:52--  https://academic.oup.com/jcsl/redirect-unavailable?url=jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw024
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:39:53 ERROR 404: Not Found.
+
+--2017-02-03 08:39:54--  http://doi.org/10.1093/jcsl/krw014
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw014 [following]
+--2017-02-03 08:39:55--  http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw014
+Connecting to jcsl.oxfordjournals.org (jcsl.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcsl.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcsl/article/21/3/405/2525375/Decoding-Article-8-of-the-International-Law [following]
+--2017-02-03 08:39:56--  https://academic.oup.com/jcsl/article/21/3/405/2525375/Decoding-Article-8-of-the-International-Law
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 182965 (179K) [text/html]
+Saving to: ‘krw014’
+
+     0K .......... .......... .......... .......... .......... 27%  208K 1s
+    50K .......... .......... .......... .......... .......... 55%  606K 0s
+   100K .......... .......... .......... .......... .......... 83%  605K 0s
+   150K .......... .......... ........                        100%  360K=0.5s
+
+2017-02-03 08:40:00 (368 KB/s) - ‘krw014’ saved [182965/182965]
+
+--2017-02-03 08:40:01--  http://doi.org/10.1093/jcsl/krw012
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw012 [following]
+--2017-02-03 08:40:02--  http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw012
+Connecting to jcsl.oxfordjournals.org (jcsl.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcsl.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcsl/article/21/3/505/2525372/Command-Responsibility-and-Cyberattacks [following]
+--2017-02-03 08:40:03--  https://academic.oup.com/jcsl/article/21/3/505/2525372/Command-Responsibility-and-Cyberattacks
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 133346 (130K) [text/html]
+Saving to: ‘krw012’
+
+     0K .......... .......... .......... .......... .......... 38%  209K 0s
+    50K .......... .......... .......... .......... .......... 76%  609K 0s
+   100K .......... .......... ..........                      100%  378K=0.4s
+
+2017-02-03 08:40:07 (324 KB/s) - ‘krw012’ saved [133346/133346]
+
+--2017-02-03 08:40:08--  http://doi.org/10.1093/jcsl/krw013
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw013 [following]
+--2017-02-03 08:40:09--  http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw013
+Connecting to jcsl.oxfordjournals.org (jcsl.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcsl.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcsl/article/21/3/475/2525373/Cyberspace-Terrorism-and-International-Law [following]
+--2017-02-03 08:40:10--  https://academic.oup.com/jcsl/article/21/3/475/2525373/Cyberspace-Terrorism-and-International-Law
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 151236 (148K) [text/html]
+Saving to: ‘krw013’
+
+     0K .......... .......... .......... .......... .......... 33%  209K 0s
+    50K .......... .......... .......... .......... .......... 67%  602K 0s
+   100K .......... .......... .......... .......... .......   100%  585K=0.4s
+
+2017-02-03 08:40:14 (366 KB/s) - ‘krw013’ saved [151236/151236]
+
+--2017-02-03 08:40:15--  http://doi.org/10.1093/jcsl/krw016
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw016 [following]
+--2017-02-03 08:40:16--  http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw016
+Connecting to jcsl.oxfordjournals.org (jcsl.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcsl.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcsl/article/21/3/541/2525376/Digital-Evidence-as-a-Means-of-Proof-before-the [following]
+--2017-02-03 08:40:17--  https://academic.oup.com/jcsl/article/21/3/541/2525376/Digital-Evidence-as-a-Means-of-Proof-before-the
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 135488 (132K) [text/html]
+Saving to: ‘krw016’
+
+     0K .......... .......... .......... .......... .......... 37%  209K 0s
+    50K .......... .......... .......... .......... .......... 75%  584K 0s
+   100K .......... .......... .......... ..                   100%  435K=0.4s
+
+2017-02-03 08:40:20 (331 KB/s) - ‘krw016’ saved [135488/135488]
+
+--2017-02-03 08:40:21--  http://doi.org/10.1093/jcsl/krw019
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw019 [following]
+--2017-02-03 08:40:22--  http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw019
+Connecting to jcsl.oxfordjournals.org (jcsl.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcsl.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcsl/article/21/3/595/2525377/Beyond-State-Centrism-International-Law-and-Non [following]
+--2017-02-03 08:40:23--  https://academic.oup.com/jcsl/article/21/3/595/2525377/Beyond-State-Centrism-International-Law-and-Non
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 141393 (138K) [text/html]
+Saving to: ‘krw019’
+
+     0K .......... .......... .......... .......... .......... 36%  203K 0s
+    50K .......... .......... .......... .......... .......... 72%  602K 0s
+   100K .......... .......... .......... ........             100%  478K=0.4s
+
+2017-02-03 08:40:28 (338 KB/s) - ‘krw019’ saved [141393/141393]
+
+--2017-02-03 08:40:29--  http://doi.org/10.1093/jcsl/krw010
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw010 [following]
+--2017-02-03 08:40:30--  http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw010
+Connecting to jcsl.oxfordjournals.org (jcsl.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcsl.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcsl/article/21/3/495/2525371/Individual-Criminal-Responsibility-for-Cyber [following]
+--2017-02-03 08:40:31--  https://academic.oup.com/jcsl/article/21/3/495/2525371/Individual-Criminal-Responsibility-for-Cyber
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 108449 (106K) [text/html]
+Saving to: ‘krw010’
+
+     0K .......... .......... .......... .......... .......... 47%  309K 0s
+    50K .......... .......... .......... .......... .......... 94%  314K 0s
+   100K .....                                                 100% 15.4M=0.3s
+
+2017-02-03 08:40:34 (329 KB/s) - ‘krw010’ saved [108449/108449]
+
+--2017-02-03 08:40:35--  http://doi.org/10.1093/jcsl/krw009
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw009 [following]
+--2017-02-03 08:40:36--  http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw009
+Connecting to jcsl.oxfordjournals.org (jcsl.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcsl.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from jcsl.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcsl/redirect-unavailable?url=jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw009 [following]
+--2017-02-03 08:40:37--  https://academic.oup.com/jcsl/redirect-unavailable?url=jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 08:40:38 ERROR 400: Bad Request.
+
+--2017-02-03 08:40:39--  http://doi.org/10.1093/jcsl/krw008
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw008 [following]
+--2017-02-03 08:40:40--  http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw008
+Connecting to jcsl.oxfordjournals.org (jcsl.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcsl.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from jcsl.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcsl/redirect-unavailable?url=jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw008 [following]
+--2017-02-03 08:40:41--  https://academic.oup.com/jcsl/redirect-unavailable?url=jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:40:42 ERROR 404: Not Found.
+
+--2017-02-03 08:40:43--  http://doi.org/10.1093/jcsl/krw007
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw007 [following]
+--2017-02-03 08:40:44--  http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw007
+Connecting to jcsl.oxfordjournals.org (jcsl.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcsl.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from jcsl.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcsl/redirect-unavailable?url=jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw007 [following]
+--2017-02-03 08:40:46--  https://academic.oup.com/jcsl/redirect-unavailable?url=jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:40:47 ERROR 404: Not Found.
+
+--2017-02-03 08:40:48--  http://doi.org/10.1093/jcsl/krw005
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw005 [following]
+--2017-02-03 08:40:49--  http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw005
+Connecting to jcsl.oxfordjournals.org (jcsl.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcsl.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from jcsl.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcsl/redirect-unavailable?url=jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw005 [following]
+--2017-02-03 08:40:50--  https://academic.oup.com/jcsl/redirect-unavailable?url=jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:40:51 ERROR 404: Not Found.
+
+--2017-02-03 08:40:52--  http://doi.org/10.1093/jcsl/krw004
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw004 [following]
+--2017-02-03 08:40:53--  http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw004
+Connecting to jcsl.oxfordjournals.org (jcsl.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcsl.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from jcsl.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcsl/redirect-unavailable?url=jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw004 [following]
+--2017-02-03 08:40:54--  https://academic.oup.com/jcsl/redirect-unavailable?url=jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krw004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:40:55 ERROR 404: Not Found.
+
+--2017-02-03 08:40:56--  http://doi.org/10.1093/jcsl/krw006
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krw006 [following]
+--2017-02-03 08:40:58--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krw006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 67722 (66K) [text/html]
+Saving to: ‘krw006’
+
+     0K .......... .......... .......... .......... .......... 75%  209K 0s
+    50K .......... ......                                     100% 14.5M=0.2s
+
+2017-02-03 08:41:00 (275 KB/s) - ‘krw006’ saved [67722/67722]
+
+--2017-02-03 08:41:01--  http://doi.org/10.1093/jcsl/krw002
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krw002 [following]
+--2017-02-03 08:41:03--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krw002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 198138 (193K) [text/html]
+Saving to: ‘krw002’
+
+     0K .......... .......... .......... .......... .......... 25%  308K 0s
+    50K .......... .......... .......... .......... .......... 51%  304K 0s
+   100K .......... .......... .......... .......... .......... 77%  599K 0s
+   150K .......... .......... .......... .......... ...       100%  536K=0.5s
+
+2017-02-03 08:41:06 (394 KB/s) - ‘krw002’ saved [198138/198138]
+
+--2017-02-03 08:41:07--  http://doi.org/10.1093/jcsl/krw003
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krw003 [following]
+--2017-02-03 08:41:08--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krw003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71555 (70K) [text/html]
+Saving to: ‘krw003’
+
+     0K .......... .......... .......... .......... .......... 71%  209K 0s
+    50K .......... .........                                  100% 16.6M=0.2s
+
+2017-02-03 08:41:11 (291 KB/s) - ‘krw003’ saved [71555/71555]
+
+--2017-02-03 08:41:12--  http://doi.org/10.1093/jcsl/krv030
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv030 [following]
+--2017-02-03 08:41:14--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv030
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 244533 (239K) [text/html]
+Saving to: ‘krv030’
+
+     0K .......... .......... .......... .......... .......... 20%  208K 1s
+    50K .......... .......... .......... .......... .......... 41%  605K 0s
+   100K .......... .......... .......... .......... .......... 62%  604K 0s
+   150K .......... .......... .......... .......... .......... 83%  318K 0s
+   200K .......... .......... .......... ........             100%  944K=0.6s
+
+2017-02-03 08:41:17 (395 KB/s) - ‘krv030’ saved [244533/244533]
+
+--2017-02-03 08:41:18--  http://doi.org/10.1093/jcsl/krw001
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krw001 [following]
+--2017-02-03 08:41:19--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krw001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 81080 (79K) [text/html]
+Saving to: ‘krw001’
+
+     0K .......... .......... .......... .......... .......... 63%  208K 0s
+    50K .......... .......... .........                       100% 8.70M=0.2s
+
+2017-02-03 08:41:22 (326 KB/s) - ‘krw001’ saved [81080/81080]
+
+--2017-02-03 08:41:23--  http://doi.org/10.1093/jcsl/krv028
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krv028 [following]
+--2017-02-03 08:41:24--  http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krv028
+Connecting to jcsl.oxfordjournals.org (jcsl.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcsl.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from jcsl.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcsl/redirect-unavailable?url=jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krv028 [following]
+--2017-02-03 08:41:26--  https://academic.oup.com/jcsl/redirect-unavailable?url=jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krv028
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:41:27 ERROR 404: Not Found.
+
+--2017-02-03 08:41:28--  http://doi.org/10.1093/jcsl/krv029
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv029 [following]
+--2017-02-03 08:41:29--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv029
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 82441 (81K) [text/html]
+Saving to: ‘krv029’
+
+     0K .......... .......... .......... .......... .......... 62%  209K 0s
+    50K .......... .......... ..........                      100% 10.8M=0.2s
+
+2017-02-03 08:41:32 (333 KB/s) - ‘krv029’ saved [82441/82441]
+
+--2017-02-03 08:41:33--  http://doi.org/10.1093/jcsl/krw027
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 08:41:35--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘krw027’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 08:41:35 (1.32 MB/s) - ‘krw027’ saved [52438/52438]
+
+--2017-02-03 08:41:36--  http://doi.org/10.1093/jcsl/krv027
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krv027 [following]
+--2017-02-03 08:41:37--  http://jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krv027
+Connecting to jcsl.oxfordjournals.org (jcsl.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcsl.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from jcsl.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcsl/redirect-unavailable?url=jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krv027 [following]
+--2017-02-03 08:41:38--  https://academic.oup.com/jcsl/redirect-unavailable?url=jcsl.oxfordjournals.org/lookup/doi/10.1093/jcsl/krv027
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 08:41:39 ERROR 404: Not Found.
+
+--2017-02-03 08:41:40--  http://doi.org/10.1093/jcsl/krv025
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv025 [following]
+--2017-02-03 08:41:41--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv025
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 296390 (289K) [text/html]
+Saving to: ‘krv025’
+
+     0K .......... .......... .......... .......... .......... 17%  205K 1s
+    50K .......... .......... .......... .......... .......... 34%  609K 1s
+   100K .......... .......... .......... .......... .......... 51%  602K 0s
+   150K .......... .......... .......... .......... .......... 69%  320K 0s
+   200K .......... .......... .......... .......... .......... 86%  596K 0s
+   250K .......... .......... .......... .........            100%  476K=0.7s
+
+2017-02-03 08:41:44 (396 KB/s) - ‘krv025’ saved [296390/296390]
+
+--2017-02-03 08:41:45--  http://doi.org/10.1093/jcsl/krv026
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv026 [following]
+--2017-02-03 08:41:46--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv026
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 08:41:46 ERROR 400: Bad Request.
+
+--2017-02-03 08:41:47--  http://doi.org/10.1093/jcsl/krv023
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv023 [following]
+--2017-02-03 08:41:49--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 132018 (129K) [text/html]
+Saving to: ‘krv023’
+
+     0K .......... .......... .......... .......... .......... 38%  208K 0s
+    50K .......... .......... .......... .......... .......... 77%  601K 0s
+   100K .......... .......... ........                        100% 17.0M=0.3s
+
+2017-02-03 08:41:52 (397 KB/s) - ‘krv023’ saved [132018/132018]
+
+--2017-02-03 08:41:53--  http://doi.org/10.1093/jcsl/krv024
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv024 [following]
+--2017-02-03 08:41:54--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv024
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 82986 (81K) [text/html]
+Saving to: ‘krv024’
+
+     0K .......... .......... .......... .......... .......... 61%  207K 0s
+    50K .......... .......... .......... .                    100% 10.6M=0.2s
+
+2017-02-03 08:41:57 (331 KB/s) - ‘krv024’ saved [82986/82986]
+
+--2017-02-03 08:41:58--  http://doi.org/10.1093/jcsl/krv022
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv022 [following]
+--2017-02-03 08:41:59--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv022
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 172252 (168K) [text/html]
+Saving to: ‘krv022’
+
+     0K .......... .......... .......... .......... .......... 29%  205K 1s
+    50K .......... .......... .......... .......... .......... 59%  600K 0s
+   100K .......... .......... .......... .......... .......... 89%  610K 0s
+   150K .......... ........                                   100%  232K=0.5s
+
+2017-02-03 08:42:03 (345 KB/s) - ‘krv022’ saved [172252/172252]
+
+--2017-02-03 08:42:04--  http://doi.org/10.1093/jcsl/krv020
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv020 [following]
+--2017-02-03 08:42:05--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv020
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 158058 (154K) [text/html]
+Saving to: ‘krv020’
+
+     0K .......... .......... .......... .......... .......... 32%  209K 0s
+    50K .......... .......... .......... .......... .......... 64%  605K 0s
+   100K .......... .......... .......... .......... .......... 97%  599K 0s
+   150K ....                                                  100% 14.9M=0.4s
+
+2017-02-03 08:42:08 (381 KB/s) - ‘krv020’ saved [158058/158058]
+
+--2017-02-03 08:42:09--  http://doi.org/10.1093/jcsl/krv021
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv021 [following]
+--2017-02-03 08:42:10--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 08:42:11 ERROR 400: Bad Request.
+
+--2017-02-03 08:42:12--  http://doi.org/10.1093/jcsl/krv018
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv018 [following]
+--2017-02-03 08:42:13--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv018
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 08:42:14 ERROR 400: Bad Request.
+
+--2017-02-03 08:42:15--  http://doi.org/10.1093/jcsl/krv019
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv019 [following]
+--2017-02-03 08:42:16--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 145604 (142K) [text/html]
+Saving to: ‘krv019’
+
+     0K .......... .......... .......... .......... .......... 35%  209K 0s
+    50K .......... .......... .......... .......... .......... 70%  587K 0s
+   100K .......... .......... .......... .......... ..        100%  526K=0.4s
+
+2017-02-03 08:42:22 (351 KB/s) - ‘krv019’ saved [145604/145604]
+
+--2017-02-03 08:42:23--  http://doi.org/10.1093/jcsl/krv017
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv017 [following]
+--2017-02-03 08:42:25--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 162082 (158K) [text/html]
+Saving to: ‘krv017’
+
+     0K .......... .......... .......... .......... .......... 31%  208K 1s
+    50K .......... .......... .......... .......... .......... 63%  598K 0s
+   100K .......... .......... .......... .......... .......... 94%  610K 0s
+   150K ........                                              100% 17.1M=0.4s
+
+2017-02-03 08:42:28 (389 KB/s) - ‘krv017’ saved [162082/162082]
+
+--2017-02-03 08:42:29--  http://doi.org/10.1093/jcsl/krv016
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv016 [following]
+--2017-02-03 08:42:30--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv016
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 96146 (94K) [text/html]
+Saving to: ‘krv016’
+
+     0K .......... .......... .......... .......... .......... 53%  209K 0s
+    50K .......... .......... .......... .......... ...       100%  549K=0.3s
+
+2017-02-03 08:42:33 (294 KB/s) - ‘krv016’ saved [96146/96146]
+
+--2017-02-03 08:42:34--  http://doi.org/10.1093/jcsl/krv014
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv014 [following]
+--2017-02-03 08:42:35--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv014
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73658 (72K) [text/html]
+Saving to: ‘krv014’
+
+     0K .......... .......... .......... .......... .......... 69%  207K 0s
+    50K .......... .......... .                               100% 8.94M=0.2s
+
+2017-02-03 08:42:38 (294 KB/s) - ‘krv014’ saved [73658/73658]
+
+--2017-02-03 08:42:39--  http://doi.org/10.1093/jcsl/krv015
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv015 [following]
+--2017-02-03 08:42:40--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 91616 (89K) [text/html]
+Saving to: ‘krv015’
+
+     0K .......... .......... .......... .......... .......... 55%  299K 0s
+    50K .......... .......... .......... .........            100%  484K=0.2s
+
+2017-02-03 08:42:43 (360 KB/s) - ‘krv015’ saved [91616/91616]
+
+--2017-02-03 08:42:44--  http://doi.org/10.1093/jcsl/krv013
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv013 [following]
+--2017-02-03 08:42:45--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 210323 (205K) [text/html]
+Saving to: ‘krv013’
+
+     0K .......... .......... .......... .......... .......... 24%  208K 1s
+    50K .......... .......... .......... .......... .......... 48%  609K 0s
+   100K .......... .......... .......... .......... .......... 73%  604K 0s
+   150K .......... .......... .......... .......... .......... 97%  574K 0s
+   200K .....                                                 100% 13.2M=0.5s
+
+2017-02-03 08:42:48 (417 KB/s) - ‘krv013’ saved [210323/210323]
+
+--2017-02-03 08:42:49--  http://doi.org/10.1093/jcsl/krv010
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv010 [following]
+--2017-02-03 08:42:50--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 08:42:51 ERROR 400: Bad Request.
+
+--2017-02-03 08:42:52--  http://doi.org/10.1093/jcsl/krv009
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv009 [following]
+--2017-02-03 08:42:53--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 246046 (240K) [text/html]
+Saving to: ‘krv009’
+
+     0K .......... .......... .......... .......... .......... 20%  206K 1s
+    50K .......... .......... .......... .......... .......... 41%  609K 0s
+   100K .......... .......... .......... .......... .......... 62%  604K 0s
+   150K .......... .......... .......... .......... .......... 83%  420K 0s
+   200K .......... .......... .......... ..........           100%  502K=0.6s
+
+2017-02-03 08:42:56 (396 KB/s) - ‘krv009’ saved [246046/246046]
+
+--2017-02-03 08:42:57--  http://doi.org/10.1093/jcsl/krv008
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv008 [following]
+--2017-02-03 08:42:59--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 203580 (199K) [text/html]
+Saving to: ‘krv008’
+
+     0K .......... .......... .......... .......... .......... 25%  208K 1s
+    50K .......... .......... .......... .......... .......... 50%  561K 0s
+   100K .......... .......... .......... .......... .......... 75%  615K 0s
+   150K .......... .......... .......... .......... ........  100%  592K=0.5s
+
+2017-02-03 08:43:02 (403 KB/s) - ‘krv008’ saved [203580/203580]
+
+--2017-02-03 08:43:03--  http://doi.org/10.1093/jcsl/krv006
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv006 [following]
+--2017-02-03 08:43:04--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 228500 (223K) [text/html]
+Saving to: ‘krv006’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 44%  605K 0s
+   100K .......... .......... .......... .......... .......... 67%  606K 0s
+   150K .......... .......... .......... .......... .......... 89%  589K 0s
+   200K .......... .......... ...                             100%  303K=0.6s
+
+2017-02-03 08:43:09 (394 KB/s) - ‘krv006’ saved [228500/228500]
+
+--2017-02-03 08:43:10--  http://doi.org/10.1093/jcsl/krv011
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv011 [following]
+--2017-02-03 08:43:12--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 86966 (85K) [text/html]
+Saving to: ‘krv011’
+
+     0K .......... .......... .......... .......... .......... 58%  207K 0s
+    50K .......... .......... .......... ....                 100% 12.1M=0.2s
+
+2017-02-03 08:43:14 (347 KB/s) - ‘krv011’ saved [86966/86966]
+
+--2017-02-03 08:43:15--  http://doi.org/10.1093/jcsl/krv012
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv012 [following]
+--2017-02-03 08:43:17--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 78890 (77K) [text/html]
+Saving to: ‘krv012’
+
+     0K .......... .......... .......... .......... .......... 64%  306K 0s
+    50K .......... .......... .......                         100%  339K=0.2s
+
+2017-02-03 08:43:20 (317 KB/s) - ‘krv012’ saved [78890/78890]
+
+--2017-02-03 08:43:21--  http://doi.org/10.1093/jcsl/krv007
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv007 [following]
+--2017-02-03 08:43:22--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71644 (70K) [text/html]
+Saving to: ‘krv007’
+
+     0K .......... .......... .......... .......... .......... 71% 24.7K 1s
+    50K .......... .........                                  100%  248K=2.1s
+
+2017-02-03 08:43:26 (33.3 KB/s) - ‘krv007’ saved [71644/71644]
+
+--2017-02-03 08:43:27--  http://doi.org/10.1093/jcsl/krv005
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv005 [following]
+--2017-02-03 08:43:28--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 156783 (153K) [text/html]
+Saving to: ‘krv005’
+
+     0K .......... .......... .......... .......... .......... 32%  209K 0s
+    50K .......... .......... .......... .......... .......... 65%  603K 0s
+   100K .......... .......... .......... .......... .......... 97%  605K 0s
+   150K ...                                                   100% 12.5M=0.4s
+
+2017-02-03 08:43:33 (378 KB/s) - ‘krv005’ saved [156783/156783]
+
+--2017-02-03 08:43:34--  http://doi.org/10.1093/jcsl/krv004
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv004 [following]
+--2017-02-03 08:43:35--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 175369 (171K) [text/html]
+Saving to: ‘krv004’
+
+     0K .......... .......... .......... .......... .......... 29%  209K 1s
+    50K .......... .......... .......... .......... .......... 58%  591K 0s
+   100K .......... .......... .......... .......... .......... 87%  615K 0s
+   150K .......... .......... .                               100%  280K=0.5s
+
+2017-02-03 08:43:38 (356 KB/s) - ‘krv004’ saved [175369/175369]
+
+--2017-02-03 08:43:39--  http://doi.org/10.1093/jcsl/krv002
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv002 [following]
+--2017-02-03 08:43:40--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 165275 (161K) [text/html]
+Saving to: ‘krv002’
+
+     0K .......... .......... .......... .......... .......... 30%  209K 1s
+    50K .......... .......... .......... .......... .......... 61%  606K 0s
+   100K .......... .......... .......... .......... .......... 92%  614K 0s
+   150K .......... .                                          100% 9.98M=0.4s
+
+2017-02-03 08:43:43 (399 KB/s) - ‘krv002’ saved [165275/165275]
+
+--2017-02-03 08:43:44--  http://doi.org/10.1093/jcsl/krv003
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv003 [following]
+--2017-02-03 08:43:46--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 153979 (150K) [text/html]
+Saving to: ‘krv003’
+
+     0K .......... .......... .......... .......... .......... 33%  209K 0s
+    50K .......... .......... .......... .......... .......... 66%  601K 0s
+   100K .......... .......... .......... .......... .......... 99%  613K 0s
+   150K                                                       100%  706G=0.4s
+
+2017-02-03 08:43:50 (372 KB/s) - ‘krv003’ saved [153979/153979]
+
+--2017-02-03 08:43:51--  http://doi.org/10.1093/jcsl/kru023
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru023 [following]
+--2017-02-03 08:43:52--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 86133 (84K) [text/html]
+Saving to: ‘kru023’
+
+     0K .......... .......... .......... .......... .......... 59%  208K 0s
+    50K .......... .......... .......... ....                 100% 12.0M=0.2s
+
+2017-02-03 08:43:56 (346 KB/s) - ‘kru023’ saved [86133/86133]
+
+--2017-02-03 08:43:57--  http://doi.org/10.1093/jcsl/krv001
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv001 [following]
+--2017-02-03 08:43:58--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krv001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 181143 (177K) [text/html]
+Saving to: ‘krv001’
+
+     0K .......... .......... .......... .......... .......... 28%  209K 1s
+    50K .......... .......... .......... .......... .......... 56%  591K 0s
+   100K .......... .......... .......... .......... .......... 84%  612K 0s
+   150K .......... .......... ......                          100%  352K=0.5s
+
+2017-02-03 08:44:02 (367 KB/s) - ‘krv001’ saved [181143/181143]
+
+--2017-02-03 08:44:03--  http://doi.org/10.1093/jcsl/kru025
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru025 [following]
+--2017-02-03 08:44:04--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru025
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 176778 (173K) [text/html]
+Saving to: ‘kru025’
+
+     0K .......... .......... .......... .......... .......... 28%  209K 1s
+    50K .......... .......... .......... .......... .......... 57%  610K 0s
+   100K .......... .......... .......... .......... .......... 86%  604K 0s
+   150K .......... .......... ..                              100%  296K=0.5s
+
+2017-02-03 08:44:07 (359 KB/s) - ‘kru025’ saved [176778/176778]
+
+--2017-02-03 08:44:08--  http://doi.org/10.1093/jcsl/kru022
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru022 [following]
+--2017-02-03 08:44:09--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru022
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 218658 (214K) [text/html]
+Saving to: ‘kru022’
+
+     0K .......... .......... .......... .......... .......... 23%  209K 1s
+    50K .......... .......... .......... .......... .......... 46%  605K 0s
+   100K .......... .......... .......... .......... .......... 70%  608K 0s
+   150K .......... .......... .......... .......... .......... 93%  605K 0s
+   200K .......... ...                                        100%  177K=0.6s
+
+2017-02-03 08:44:15 (379 KB/s) - ‘kru022’ saved [218658/218658]
+
+--2017-02-03 08:44:16--  http://doi.org/10.1093/jcsl/kru024
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru024 [following]
+--2017-02-03 08:44:17--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru024
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 159916 (156K) [text/html]
+Saving to: ‘kru024’
+
+     0K .......... .......... .......... .......... .......... 32%  209K 1s
+    50K .......... .......... .......... .......... .......... 64%  606K 0s
+   100K .......... .......... .......... .......... .......... 96%  611K 0s
+   150K ......                                                100% 26.2M=0.4s
+
+2017-02-03 08:44:20 (387 KB/s) - ‘kru024’ saved [159916/159916]
+
+--2017-02-03 08:44:21--  http://doi.org/10.1093/jcsl/kru019
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru019 [following]
+--2017-02-03 08:44:22--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 205106 (200K) [text/html]
+Saving to: ‘kru019’
+
+     0K .......... .......... .......... .......... .......... 24%  208K 1s
+    50K .......... .......... .......... .......... .......... 49%  607K 0s
+   100K .......... .......... .......... .......... .......... 74%  610K 0s
+   150K .......... .......... .......... .......... .......... 99%  608K 0s
+   200K                                                       100%  570G=0.5s
+
+2017-02-03 08:44:26 (412 KB/s) - ‘kru019’ saved [205106/205106]
+
+--2017-02-03 08:44:27--  http://doi.org/10.1093/jcsl/kru021
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru021 [following]
+--2017-02-03 08:44:28--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 78426 (77K) [text/html]
+Saving to: ‘kru021’
+
+     0K .......... .......... .......... .......... .......... 65%  209K 0s
+    50K .......... .......... ......                          100% 8.66M=0.2s
+
+2017-02-03 08:44:31 (316 KB/s) - ‘kru021’ saved [78426/78426]
+
+--2017-02-03 08:44:32--  http://doi.org/10.1093/jcsl/kru020
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru020 [following]
+--2017-02-03 08:44:33--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru020
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76217 (74K) [text/html]
+Saving to: ‘kru020’
+
+     0K .......... .......... .......... .......... .......... 67%  208K 0s
+    50K .......... .......... ....                            100% 8.40M=0.2s
+
+2017-02-03 08:44:36 (306 KB/s) - ‘kru020’ saved [76217/76217]
+
+--2017-02-03 08:44:37--  http://doi.org/10.1093/jcsl/kru015
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru015 [following]
+--2017-02-03 08:44:38--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 159685 (156K) [text/html]
+Saving to: ‘kru015’
+
+     0K .......... .......... .......... .......... .......... 32%  309K 0s
+    50K .......... .......... .......... .......... .......... 64%  314K 0s
+   100K .......... .......... .......... .......... .......... 96%  612K 0s
+   150K .....                                                 100% 6.88M=0.4s
+
+2017-02-03 08:44:42 (386 KB/s) - ‘kru015’ saved [159685/159685]
+
+--2017-02-03 08:44:43--  http://doi.org/10.1093/jcsl/kru017
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru017 [following]
+--2017-02-03 08:44:44--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 157366 (154K) [text/html]
+Saving to: ‘kru017’
+
+     0K .......... .......... .......... .......... .......... 32%  209K 0s
+    50K .......... .......... .......... .......... .......... 65%  598K 0s
+   100K .......... .......... .......... .......... .......... 97%  607K 0s
+   150K ...                                                   100% 13.4M=0.4s
+
+2017-02-03 08:44:47 (379 KB/s) - ‘kru017’ saved [157366/157366]
+
+--2017-02-03 08:44:48--  http://doi.org/10.1093/jcsl/kru016
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru016 [following]
+--2017-02-03 08:44:49--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru016
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 150780 (147K) [text/html]
+Saving to: ‘kru016’
+
+     0K .......... .......... .......... .......... .......... 33%  308K 0s
+    50K .......... .......... .......... .......... .......... 67%  311K 0s
+   100K .......... .......... .......... .......... .......   100%  584K=0.4s
+
+2017-02-03 08:44:52 (365 KB/s) - ‘kru016’ saved [150780/150780]
+
+--2017-02-03 08:44:53--  http://doi.org/10.1093/jcsl/kru018
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru018 [following]
+--2017-02-03 08:44:54--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru018
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 140718 (137K) [text/html]
+Saving to: ‘kru018’
+
+     0K .......... .......... .......... .......... .......... 36%  209K 0s
+    50K .......... .......... .......... .......... .......... 72%  597K 0s
+   100K .......... .......... .......... .......              100%  465K=0.4s
+
+2017-02-03 08:44:57 (341 KB/s) - ‘kru018’ saved [140718/140718]
+
+--2017-02-03 08:44:58--  http://doi.org/10.1093/jcsl/kru014
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru014 [following]
+--2017-02-03 08:45:00--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru014
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 170718 (167K) [text/html]
+Saving to: ‘kru014’
+
+     0K .......... .......... .......... .......... .......... 29%  209K 1s
+    50K .......... .......... .......... .......... .......... 59%  613K 0s
+   100K .......... .......... .......... .......... .......... 89%  599K 0s
+   150K .......... ......                                     100% 11.8M=0.4s
+
+2017-02-03 08:45:03 (411 KB/s) - ‘kru014’ saved [170718/170718]
+
+--2017-02-03 08:45:04--  http://doi.org/10.1093/jcsl/kru013
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru013 [following]
+--2017-02-03 08:45:05--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 08:45:08 ERROR 400: Bad Request.
+
+--2017-02-03 08:45:09--  http://doi.org/10.1093/jcsl/kru007
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru007 [following]
+--2017-02-03 08:45:11--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 69086 (67K) [text/html]
+Saving to: ‘kru007’
+
+     0K .......... .......... .......... .......... .......... 74%  209K 0s
+    50K .......... .......                                    100% 14.8M=0.2s
+
+2017-02-03 08:45:13 (281 KB/s) - ‘kru007’ saved [69086/69086]
+
+--2017-02-03 08:45:14--  http://doi.org/10.1093/jcsl/kru012
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru012 [following]
+--2017-02-03 08:45:15--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 169564 (166K) [text/html]
+Saving to: ‘kru012’
+
+     0K .......... .......... .......... .......... .......... 30%  208K 1s
+    50K .......... .......... .......... .......... .......... 60%  613K 0s
+   100K .......... .......... .......... .......... .......... 90%  603K 0s
+   150K .......... .....                                      100% 8.67M=0.4s
+
+2017-02-03 08:45:18 (407 KB/s) - ‘kru012’ saved [169564/169564]
+
+--2017-02-03 08:45:19--  http://doi.org/10.1093/jcsl/kru011
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru011 [following]
+--2017-02-03 08:45:20--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 116327 (114K) [text/html]
+Saving to: ‘kru011’
+
+     0K .......... .......... .......... .......... .......... 44%  209K 0s
+    50K .......... .......... .......... .......... .......... 88%  602K 0s
+   100K .......... ...                                        100% 23.0M=0.3s
+
+2017-02-03 08:45:23 (351 KB/s) - ‘kru011’ saved [116327/116327]
+
+--2017-02-03 08:45:24--  http://doi.org/10.1093/jcsl/kru010
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru010 [following]
+--2017-02-03 08:45:25--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 213081 (208K) [text/html]
+Saving to: ‘kru010’
+
+     0K .......... .......... .......... .......... .......... 24%  309K 1s
+    50K .......... .......... .......... .......... .......... 48%  314K 0s
+   100K .......... .......... .......... .......... .......... 72%  605K 0s
+   150K .......... .......... .......... .......... .......... 96%  316K 0s
+   200K ........                                              100% 5.40M=0.6s
+
+2017-02-03 08:45:29 (369 KB/s) - ‘kru010’ saved [213081/213081]
+
+--2017-02-03 08:45:30--  http://doi.org/10.1093/jcsl/kru001
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru001 [following]
+--2017-02-03 08:45:31--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 169486 (166K) [text/html]
+Saving to: ‘kru001’
+
+     0K .......... .......... .......... .......... .......... 30%  209K 1s
+    50K .......... .......... .......... .......... .......... 60%  594K 0s
+   100K .......... .......... .......... .......... .......... 90%  612K 0s
+   150K .......... .....                                      100% 11.6M=0.4s
+
+2017-02-03 08:45:35 (408 KB/s) - ‘kru001’ saved [169486/169486]
+
+--2017-02-03 08:45:36--  http://doi.org/10.1093/jcsl/kru008
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru008 [following]
+--2017-02-03 08:45:38--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 202251 (198K) [text/html]
+Saving to: ‘kru008’
+
+     0K .......... .......... .......... .......... .......... 25%  209K 1s
+    50K .......... .......... .......... .......... .......... 50%  609K 0s
+   100K .......... .......... .......... .......... .......... 75%  602K 0s
+   150K .......... .......... .......... .......... .......   100%  562K=0.5s
+
+2017-02-03 08:45:41 (404 KB/s) - ‘kru008’ saved [202251/202251]
+
+--2017-02-03 08:45:42--  http://doi.org/10.1093/jcsl/kru009
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru009 [following]
+--2017-02-03 08:45:43--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 165191 (161K) [text/html]
+Saving to: ‘kru009’
+
+     0K .......... .......... .......... .......... .......... 30%  208K 1s
+    50K .......... .......... .......... .......... .......... 61%  608K 0s
+   100K .......... .......... .......... .......... .......... 92%  609K 0s
+   150K .......... .                                          100% 10.9M=0.4s
+
+2017-02-03 08:45:46 (397 KB/s) - ‘kru009’ saved [165191/165191]
+
+--2017-02-03 08:45:47--  http://doi.org/10.1093/jcsl/kru003
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru003 [following]
+--2017-02-03 08:45:49--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 239791 (234K) [text/html]
+Saving to: ‘kru003’
+
+     0K .......... .......... .......... .......... .......... 21%  208K 1s
+    50K .......... .......... .......... .......... .......... 42%  607K 0s
+   100K .......... .......... .......... .......... .......... 64%  607K 0s
+   150K .......... .......... .......... .......... .......... 85%  314K 0s
+   200K .......... .......... .......... ....                 100% 6.92M=0.6s
+
+2017-02-03 08:45:52 (411 KB/s) - ‘kru003’ saved [239791/239791]
+
+--2017-02-03 08:45:53--  http://doi.org/10.1093/jcsl/kru004
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru004 [following]
+--2017-02-03 08:45:54--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 08:45:55 ERROR 400: Bad Request.
+
+--2017-02-03 08:45:56--  http://doi.org/10.1093/jcsl/kru006
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru006 [following]
+--2017-02-03 08:45:57--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79695 (78K) [text/html]
+Saving to: ‘kru006’
+
+     0K .......... .......... .......... .......... .......... 64%  309K 0s
+    50K .......... .......... .......                         100%  348K=0.2s
+
+2017-02-03 08:46:00 (322 KB/s) - ‘kru006’ saved [79695/79695]
+
+--2017-02-03 08:46:01--  http://doi.org/10.1093/jcsl/kru005
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru005 [following]
+--2017-02-03 08:46:02--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76959 (75K) [text/html]
+Saving to: ‘kru005’
+
+     0K .......... .......... .......... .......... .......... 66%  209K 0s
+    50K .......... .......... .....                           100% 13.8M=0.2s
+
+2017-02-03 08:46:06 (312 KB/s) - ‘kru005’ saved [76959/76959]
+
+--2017-02-03 08:46:07--  http://doi.org/10.1093/jcsl/kru002
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru002 [following]
+--2017-02-03 08:46:09--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/kru002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 147080 (144K) [text/html]
+Saving to: ‘kru002’
+
+     0K .......... .......... .......... .......... .......... 34%  207K 0s
+    50K .......... .......... .......... .......... .......... 69%  593K 0s
+   100K .......... .......... .......... .......... ...       100%  527K=0.4s
+
+2017-02-03 08:46:12 (352 KB/s) - ‘kru002’ saved [147080/147080]
+
+--2017-02-03 08:46:13--  http://doi.org/10.1093/jcsl/krt027
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krt027 [following]
+--2017-02-03 08:46:15--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krt027
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 230354 (225K) [text/html]
+Saving to: ‘krt027’
+
+     0K .......... .......... .......... .......... .......... 22%  208K 1s
+    50K .......... .......... .......... .......... .......... 44%  608K 0s
+   100K .......... .......... .......... .......... .......... 66%  609K 0s
+   150K .......... .......... .......... .......... .......... 88%  608K 0s
+   200K .......... .......... ....                            100%  313K=0.6s
+
+2017-02-03 08:46:18 (397 KB/s) - ‘krt027’ saved [230354/230354]
+
+--2017-02-03 08:46:19--  http://doi.org/10.1093/jcsl/krt028
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krt028 [following]
+--2017-02-03 08:46:21--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krt028
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 181816 (178K) [text/html]
+Saving to: ‘krt028’
+
+     0K .......... .......... .......... .......... .......... 28%  209K 1s
+    50K .......... .......... .......... .......... .......... 56%  606K 0s
+   100K .......... .......... .......... .......... .......... 84%  609K 0s
+   150K .......... .......... .......                         100%  346K=0.5s
+
+2017-02-03 08:46:24 (367 KB/s) - ‘krt028’ saved [181816/181816]
+
+--2017-02-03 08:46:25--  http://doi.org/10.1093/jcsl/krt026
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krt026 [following]
+--2017-02-03 08:46:26--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krt026
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 250332 (244K) [text/html]
+Saving to: ‘krt026’
+
+     0K .......... .......... .......... .......... .......... 20%  207K 1s
+    50K .......... .......... .......... .......... .......... 40%  614K 0s
+   100K .......... .......... .......... .......... .......... 61%  600K 0s
+   150K .......... .......... .......... .......... .......... 81%  610K 0s
+   200K .......... .......... .......... .......... ....      100%  282K=0.6s
+
+2017-02-03 08:46:30 (378 KB/s) - ‘krt026’ saved [250332/250332]
+
+--2017-02-03 08:46:31--  http://doi.org/10.1093/jcsl/krt025
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krt025 [following]
+--2017-02-03 08:46:32--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krt025
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 181697 (177K) [text/html]
+Saving to: ‘krt025’
+
+     0K .......... .......... .......... .......... .......... 28%  208K 1s
+    50K .......... .......... .......... .......... .......... 56%  606K 0s
+   100K .......... .......... .......... .......... .......... 84%  602K 0s
+   150K .......... .......... .......                         100%  350K=0.5s
+
+2017-02-03 08:46:35 (367 KB/s) - ‘krt025’ saved [181697/181697]
+
+--2017-02-03 08:46:36--  http://doi.org/10.1093/jcsl/krt024
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krt024 [following]
+--2017-02-03 08:46:37--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krt024
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 141078 (138K) [text/html]
+Saving to: ‘krt024’
+
+     0K .......... .......... .......... .......... .......... 36%  209K 0s
+    50K .......... .......... .......... .......... .......... 72%  598K 0s
+   100K .......... .......... .......... .......              100%  472K=0.4s
+
+2017-02-03 08:46:40 (342 KB/s) - ‘krt024’ saved [141078/141078]
+
+--2017-02-03 08:46:41--  http://doi.org/10.1093/jcsl/krt017
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krt017 [following]
+--2017-02-03 08:46:42--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krt017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 291984 (285K) [text/html]
+Saving to: ‘krt017’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 35%  611K 1s
+   100K .......... .......... .......... .......... .......... 52%  601K 0s
+   150K .......... .......... .......... .......... .......... 70%  318K 0s
+   200K .......... .......... .......... .......... .......... 87%  592K 0s
+   250K .......... .......... .......... .....                100%  445K=0.7s
+
+2017-02-03 08:46:46 (393 KB/s) - ‘krt017’ saved [291984/291984]
+
+--2017-02-03 08:46:47--  http://doi.org/10.1093/jcsl/krt023
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krt023 [following]
+--2017-02-03 08:46:48--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krt023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68036 (66K) [text/html]
+Saving to: ‘krt023’
+
+     0K .......... .......... .......... .......... .......... 75%  209K 0s
+    50K .......... ......                                     100% 14.4M=0.2s
+
+2017-02-03 08:46:50 (276 KB/s) - ‘krt023’ saved [68036/68036]
+
+--2017-02-03 08:46:51--  http://doi.org/10.1093/jcsl/krt020
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krt020 [following]
+--2017-02-03 08:46:53--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krt020
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 89617 (88K) [text/html]
+Saving to: ‘krt020’
+
+     0K .......... .......... .......... .......... .......... 57%  209K 0s
+    50K .......... .......... .......... .......              100% 12.8M=0.2s
+
+2017-02-03 08:46:55 (361 KB/s) - ‘krt020’ saved [89617/89617]
+
+--2017-02-03 08:46:56--  http://doi.org/10.1093/jcsl/krt021
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krt021 [following]
+--2017-02-03 08:46:58--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krt021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76685 (75K) [text/html]
+Saving to: ‘krt021’
+
+     0K .......... .......... .......... .......... .......... 66%  209K 0s
+    50K .......... .......... ....                            100% 8.21M=0.2s
+
+2017-02-03 08:47:01 (309 KB/s) - ‘krt021’ saved [76685/76685]
+
+--2017-02-03 08:47:02--  http://doi.org/10.1093/jcsl/krt022
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krt022 [following]
+--2017-02-03 08:47:03--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krt022
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 180310 (176K) [text/html]
+Saving to: ‘krt022’
+
+     0K .......... .......... .......... .......... .......... 28%  209K 1s
+    50K .......... .......... .......... .......... .......... 56%  602K 0s
+   100K .......... .......... .......... .......... .......... 85%  613K 0s
+   150K .......... .......... ......                          100%  323K=0.5s
+
+2017-02-03 08:47:06 (363 KB/s) - ‘krt022’ saved [180310/180310]
+
+--2017-02-03 08:47:07--  http://doi.org/10.1093/jcsl/krt019
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krt019 [following]
+--2017-02-03 08:47:08--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krt019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 217550 (212K) [text/html]
+Saving to: ‘krt019’
+
+     0K .......... .......... .......... .......... .......... 23%  209K 1s
+    50K .......... .......... .......... .......... .......... 47%  610K 0s
+   100K .......... .......... .......... .......... .......... 70%  592K 0s
+   150K .......... .......... .......... .......... .......... 94%  605K 0s
+   200K .......... ..                                         100%  167K=0.6s
+
+2017-02-03 08:47:13 (377 KB/s) - ‘krt019’ saved [217550/217550]
+
+--2017-02-03 08:47:14--  http://doi.org/10.1093/jcsl/krt018
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krt018 [following]
+--2017-02-03 08:47:16--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krt018
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 232420 (227K) [text/html]
+Saving to: ‘krt018’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 44%  609K 0s
+   100K .......... .......... .......... .......... .......... 66%  607K 0s
+   150K .......... .......... .......... .......... .......... 88%  316K 0s
+   200K .......... .......... ......                          100% 7.36M=0.6s
+
+2017-02-03 08:47:19 (401 KB/s) - ‘krt018’ saved [232420/232420]
+
+--2017-02-03 08:47:20--  http://doi.org/10.1093/jcsl/krt016
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krt016 [following]
+--2017-02-03 08:47:21--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krt016
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 08:47:22 ERROR 400: Bad Request.
+
+--2017-02-03 08:47:23--  http://doi.org/10.1093/jcsl/krt015
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krt015 [following]
+--2017-02-03 08:47:24--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krt015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 144241 (141K) [text/html]
+Saving to: ‘krt015’
+
+     0K .......... .......... .......... .......... .......... 35%  209K 0s
+    50K .......... .......... .......... .......... .......... 70%  598K 0s
+   100K .......... .......... .......... ..........           100%  509K=0.4s
+
+2017-02-03 08:47:27 (349 KB/s) - ‘krt015’ saved [144241/144241]
+
+--2017-02-03 08:47:28--  http://doi.org/10.1093/jcsl/krt011
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krt011 [following]
+--2017-02-03 08:47:29--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krt011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 151532 (148K) [text/html]
+Saving to: ‘krt011’
+
+     0K .......... .......... .......... .......... .......... 33%  209K 0s
+    50K .......... .......... .......... .......... .......... 67%  609K 0s
+   100K .......... .......... .......... .......... .......   100%  578K=0.4s
+
+2017-02-03 08:47:32 (366 KB/s) - ‘krt011’ saved [151532/151532]
+
+--2017-02-03 08:47:33--  http://doi.org/10.1093/jcsl/krt008
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krt008 [following]
+--2017-02-03 08:47:35--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krt008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 83485 (82K) [text/html]
+Saving to: ‘krt008’
+
+     0K .......... .......... .......... .......... .......... 61%  209K 0s
+    50K .......... .......... .......... .                    100% 12.2M=0.2s
+
+2017-02-03 08:47:37 (337 KB/s) - ‘krt008’ saved [83485/83485]
+
+--2017-02-03 08:47:38--  http://doi.org/10.1093/jcsl/krt009
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krt009 [following]
+--2017-02-03 08:47:39--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krt009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79351 (77K) [text/html]
+Saving to: ‘krt009’
+
+     0K .......... .......... .......... .......... .......... 64%  207K 0s
+    50K .......... .......... .......                         100% 12.8M=0.2s
+
+2017-02-03 08:47:42 (318 KB/s) - ‘krt009’ saved [79351/79351]
+
+--2017-02-03 08:47:43--  http://doi.org/10.1093/jcsl/krt010
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krt010 [following]
+--2017-02-03 08:47:44--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krt010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 08:47:45 ERROR 400: Bad Request.
+
+--2017-02-03 08:47:46--  http://doi.org/10.1093/jcsl/krt013
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krt013 [following]
+--2017-02-03 08:47:47--  https://academic.oup.com/jcsl/article-lookup/doi/10.1093/jcsl/krt013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 179092 (175K) [text/html]
+Saving to: ‘krt013’
+
+     0K .......... .......... .......... .......... .......... 28%  209K 1s
+    50K .......... .......... .......... .......... .......... 57%  609K 0s
+   100K .......... .......... .......... .......... .......... 85%  614K 0s
+   150K .......... .......... ....                            100%  315K=0.5s
+
+2017-02-03 08:47:51 (363 KB/s) - ‘krt013’ saved [179092/179092]
+
+FINISHED --2017-02-03 08:47:51--
+Total wall clock time: 8m 55s
+Downloaded: 83 files, 12M in 35s (349 KB/s)

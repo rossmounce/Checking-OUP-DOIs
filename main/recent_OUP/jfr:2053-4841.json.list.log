@@ -1,0 +1,621 @@
+--2017-02-03 09:53:44--  http://doi.org/10.1093/jfr/fjw015
+Resolving doi.org (doi.org)... 208.254.38.90, 95.138.171.129, 63.123.152.248, ...
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jfr.oxfordjournals.org/lookup/doi/10.1093/jfr/fjw015 [following]
+--2017-02-03 09:53:46--  http://jfr.oxfordjournals.org/lookup/doi/10.1093/jfr/fjw015
+Resolving jfr.oxfordjournals.org (jfr.oxfordjournals.org)... 209.135.222.209
+Connecting to jfr.oxfordjournals.org (jfr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jfr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jfr/article/doi/10.1093/jfr/fjw015/2838368/Designing-Virtual-Currency-Regulation-in-Japan [following]
+--2017-02-03 09:53:47--  https://academic.oup.com/jfr/article/doi/10.1093/jfr/fjw015/2838368/Designing-Virtual-Currency-Regulation-in-Japan
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jfr/article-abstract/doi/10.1093/jfr/fjw015/2838368/Designing-Virtual-Currency-Regulation-in-Japan?redirectedFrom=fulltext [following]
+--2017-02-03 09:53:49--  https://academic.oup.com/jfr/article-abstract/doi/10.1093/jfr/fjw015/2838368/Designing-Virtual-Currency-Regulation-in-Japan?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 09:53:49 ERROR 400: Bad Request.
+
+--2017-02-03 09:53:50--  http://doi.org/10.1093/jfr/fjw017
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 09:53:52--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Resolving fdslive.oup.com (fdslive.oup.com)... 193.67.160.201
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘fjw017’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 09:53:52 (1.32 MB/s) - ‘fjw017’ saved [52438/52438]
+
+--2017-02-03 09:53:53--  http://doi.org/10.1093/jfr/fjw014
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjw014 [following]
+--2017-02-03 09:53:54--  https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjw014
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jfr/article-abstract/2/2/225/1750885/Bank-Capital-Structure-and-Financial-Innovation?redirectedFrom=fulltext [following]
+--2017-02-03 09:53:56--  https://academic.oup.com/jfr/article-abstract/2/2/225/1750885/Bank-Capital-Structure-and-Financial-Innovation?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 93624 (91K) [text/html]
+Saving to: ‘fjw014’
+
+     0K .......... .......... .......... .......... .......... 54%  208K 0s
+    50K .......... .......... .......... .......... .         100%  514K=0.3s
+
+2017-02-03 09:54:04 (285 KB/s) - ‘fjw014’ saved [93624/93624]
+
+--2017-02-03 09:54:05--  http://doi.org/10.1093/jfr/fjw012
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjw012 [following]
+--2017-02-03 09:54:07--  https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjw012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jfr/article-abstract/2/2/163/1750881/The-Global-Investment-Banks-are-now-all-Becoming?redirectedFrom=fulltext [following]
+--2017-02-03 09:54:09--  https://academic.oup.com/jfr/article-abstract/2/2/163/1750881/The-Global-Investment-Banks-are-now-all-Becoming?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 76866 (75K) [text/html]
+Saving to: ‘fjw012’
+
+     0K .......... .......... .......... .......... .......... 66%  208K 0s
+    50K .......... .......... .....                           100% 17.2M=0.2s
+
+2017-02-03 09:54:13 (310 KB/s) - ‘fjw012’ saved [76866/76866]
+
+--2017-02-03 09:54:14--  http://doi.org/10.1093/jfr/fjw013
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjw013 [following]
+--2017-02-03 09:54:16--  https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjw013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jfr/article-abstract/2/2/291/2240668/Entry-Restriction-Shadow-Banking-and-the-Structure?redirectedFrom=fulltext [following]
+--2017-02-03 09:54:19--  https://academic.oup.com/jfr/article-abstract/2/2/291/2240668/Entry-Restriction-Shadow-Banking-and-the-Structure?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72909 (71K) [text/html]
+Saving to: ‘fjw013’
+
+     0K .......... .......... .......... .......... .......... 70%  210K 0s
+    50K .......... .......... .                               100% 8.32M=0.2s
+
+2017-02-03 09:54:26 (296 KB/s) - ‘fjw013’ saved [72909/72909]
+
+--2017-02-03 09:54:27--  http://doi.org/10.1093/jfr/fjw011
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjw011 [following]
+--2017-02-03 09:54:28--  https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjw011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 166588 (163K) [text/html]
+Saving to: ‘fjw011’
+
+     0K .......... .......... .......... .......... .......... 30%  209K 1s
+    50K .......... .......... .......... .......... .......... 61%  609K 0s
+   100K .......... .......... .......... .......... .......... 92%  601K 0s
+   150K .......... ..                                         100% 37.3M=0.4s
+
+2017-02-03 09:54:33 (402 KB/s) - ‘fjw011’ saved [166588/166588]
+
+--2017-02-03 09:54:34--  http://doi.org/10.1093/jfr/fjw009
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjw009 [following]
+--2017-02-03 09:54:36--  https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjw009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jfr/article-abstract/2/2/203/1750880/The-Regulation-of-PRIIPs-Great-Ambitions?redirectedFrom=fulltext [following]
+--2017-02-03 09:54:38--  https://academic.oup.com/jfr/article-abstract/2/2/203/1750880/The-Regulation-of-PRIIPs-Great-Ambitions?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 76541 (75K) [text/html]
+Saving to: ‘fjw009’
+
+     0K .......... .......... .......... .......... .......... 66%  208K 0s
+    50K .......... .......... ....                            100% 12.9M=0.2s
+
+2017-02-03 09:54:41 (309 KB/s) - ‘fjw009’ saved [76541/76541]
+
+--2017-02-03 09:54:42--  http://doi.org/10.1093/jfr/fjw010
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjw010 [following]
+--2017-02-03 09:54:43--  https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjw010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jfr/article-abstract/2/2/283/2240666/Current-Developments-in-India-s-Monetary-Policy?redirectedFrom=fulltext [following]
+--2017-02-03 09:54:45--  https://academic.oup.com/jfr/article-abstract/2/2/283/2240666/Current-Developments-in-India-s-Monetary-Policy?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 73179 (71K) [text/html]
+Saving to: ‘fjw010’
+
+     0K .......... .......... .......... .......... .......... 69%  209K 0s
+    50K .......... .......... .                               100% 9.70M=0.2s
+
+2017-02-03 09:54:51 (296 KB/s) - ‘fjw010’ saved [73179/73179]
+
+--2017-02-03 09:54:52--  http://doi.org/10.1093/jfr/fjw008
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjw008 [following]
+--2017-02-03 09:54:53--  https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjw008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jfr/article-abstract/2/2/182/1750877/Taking-Identity-Seriously-When-Identity-Meets?redirectedFrom=fulltext [following]
+--2017-02-03 09:54:55--  https://academic.oup.com/jfr/article-abstract/2/2/182/1750877/Taking-Identity-Seriously-When-Identity-Meets?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 09:54:55 ERROR 400: Bad Request.
+
+--2017-02-03 09:54:56--  http://doi.org/10.1093/jfr/fjw002
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjw002 [following]
+--2017-02-03 09:54:57--  https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjw002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 09:54:58 ERROR 400: Bad Request.
+
+--2017-02-03 09:54:59--  http://doi.org/10.1093/jfr/fjw003
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjw003 [following]
+--2017-02-03 09:55:00--  https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjw003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jfr/article-abstract/2/1/114/2357879/Fiscal-Governance-How-Can-the-Eurozone-Get-What-It?redirectedFrom=fulltext [following]
+--2017-02-03 09:55:03--  https://academic.oup.com/jfr/article-abstract/2/1/114/2357879/Fiscal-Governance-How-Can-the-Eurozone-Get-What-It?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75145 (73K) [text/html]
+Saving to: ‘fjw003’
+
+     0K .......... .......... .......... .......... .......... 68%  205K 0s
+    50K .......... .......... ...                             100% 10.4M=0.2s
+
+2017-02-03 09:55:07 (298 KB/s) - ‘fjw003’ saved [75145/75145]
+
+--2017-02-03 09:55:08--  http://doi.org/10.1093/jfr/fjw007
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjw007 [following]
+--2017-02-03 09:55:09--  https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjw007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 165904 (162K) [text/html]
+Saving to: ‘fjw007’
+
+     0K .......... .......... .......... .......... .......... 30%  208K 1s
+    50K .......... .......... .......... .......... .......... 61%  591K 0s
+   100K .......... .......... .......... .......... .......... 92%  612K 0s
+   150K .......... ..                                         100% 11.4M=0.4s
+
+2017-02-03 09:55:16 (398 KB/s) - ‘fjw007’ saved [165904/165904]
+
+--2017-02-03 09:55:17--  http://doi.org/10.1093/jfr/fjw001
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjw001 [following]
+--2017-02-03 09:55:18--  https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjw001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 09:55:18 ERROR 400: Bad Request.
+
+--2017-02-03 09:55:19--  http://doi.org/10.1093/jfr/fjw005
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjw005 [following]
+--2017-02-03 09:55:20--  https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjw005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jfr/article-abstract/2/1/154/2357882/The-Implementation-of-the-BRRD-in-Italy-and-its?redirectedFrom=fulltext [following]
+--2017-02-03 09:55:22--  https://academic.oup.com/jfr/article-abstract/2/1/154/2357882/The-Implementation-of-the-BRRD-in-Italy-and-its?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75711 (74K) [text/html]
+Saving to: ‘fjw005’
+
+     0K .......... .......... .......... .......... .......... 67%  209K 0s
+    50K .......... .......... ...                             100% 10.3M=0.2s
+
+2017-02-03 09:55:27 (306 KB/s) - ‘fjw005’ saved [75711/75711]
+
+--2017-02-03 09:55:28--  http://doi.org/10.1093/jfr/fjw006
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjw006 [following]
+--2017-02-03 09:55:29--  https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjw006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 207016 (202K) [text/html]
+Saving to: ‘fjw006’
+
+     0K .......... .......... .......... .......... .......... 24%  208K 1s
+    50K .......... .......... .......... .......... .......... 49%  612K 0s
+   100K .......... .......... .......... .......... .......... 74%  609K 0s
+   150K .......... .......... .......... .......... .......... 98%  561K 0s
+   200K ..                                                    100% 4128G=0.5s
+
+2017-02-03 09:55:33 (410 KB/s) - ‘fjw006’ saved [207016/207016]
+
+--2017-02-03 09:55:34--  http://doi.org/10.1093/jfr/fjw016
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 09:55:35--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘fjw016’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 09:55:35 (1.32 MB/s) - ‘fjw016’ saved [52438/52438]
+
+--2017-02-03 09:55:36--  http://doi.org/10.1093/jfr/fjw018
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 09:55:38--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘fjw018’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 09:55:38 (1.32 MB/s) - ‘fjw018’ saved [52438/52438]
+
+--2017-02-03 09:55:39--  http://doi.org/10.1093/jfr/fjv010
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjv010 [following]
+--2017-02-03 09:55:40--  https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjv010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jfr/article-abstract/2/1/56/2357872/Too-Connected-to-Fail-The-Regulation-of-Systemic?redirectedFrom=fulltext [following]
+--2017-02-03 09:55:42--  https://academic.oup.com/jfr/article-abstract/2/1/56/2357872/Too-Connected-to-Fail-The-Regulation-of-Systemic?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 82111 (80K) [text/html]
+Saving to: ‘fjv010’
+
+     0K .......... .......... .......... .......... .......... 62%  309K 0s
+    50K .......... .......... ..........                      100%  375K=0.2s
+
+2017-02-03 09:55:48 (331 KB/s) - ‘fjv010’ saved [82111/82111]
+
+--2017-02-03 09:55:49--  http://doi.org/10.1093/jfr/fjv008
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjv008 [following]
+--2017-02-03 09:55:50--  https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjv008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jfr/article-abstract/1/2/298/2357869/The-Roadmap-Approach-to-Regulating-Digital?redirectedFrom=fulltext [following]
+--2017-02-03 09:55:52--  https://academic.oup.com/jfr/article-abstract/1/2/298/2357869/The-Roadmap-Approach-to-Regulating-Digital?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 72565 (71K) [text/html]
+Saving to: ‘fjv008’
+
+     0K .......... .......... .......... .......... .......... 70%  208K 0s
+    50K .......... ..........                                 100% 12.9M=0.2s
+
+2017-02-03 09:55:56 (293 KB/s) - ‘fjv008’ saved [72565/72565]
+
+--2017-02-03 09:55:57--  http://doi.org/10.1093/jfr/fjv004
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjv004 [following]
+--2017-02-03 09:55:58--  https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjv004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jfr/article-abstract/1/2/306/2357858/Bank-Regulation-in-Singapore?redirectedFrom=fulltext [following]
+--2017-02-03 09:56:00--  https://academic.oup.com/jfr/article-abstract/1/2/306/2357858/Bank-Regulation-in-Singapore?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 73926 (72K) [text/html]
+Saving to: ‘fjv004’
+
+     0K .......... .......... .......... .......... .......... 69%  209K 0s
+    50K .......... .......... ..                              100% 4.43M=0.2s
+
+2017-02-03 09:56:03 (295 KB/s) - ‘fjv004’ saved [73926/73926]
+
+--2017-02-03 09:56:04--  http://doi.org/10.1093/jfr/fjv009
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjv009 [following]
+--2017-02-03 09:56:06--  https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjv009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jfr/article-abstract/1/2/294/2357871/New-National-Solutions-for-Bank-Failures-Game?redirectedFrom=fulltext [following]
+--2017-02-03 09:56:09--  https://academic.oup.com/jfr/article-abstract/1/2/294/2357871/New-National-Solutions-for-Bank-Failures-Game?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 74887 (73K) [text/html]
+Saving to: ‘fjv009’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ...                             100% 10.1M=0.2s
+
+2017-02-03 09:56:19 (302 KB/s) - ‘fjv009’ saved [74887/74887]
+
+--2017-02-03 09:56:20--  http://doi.org/10.1093/jfr/fjv006
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjv006 [following]
+--2017-02-03 09:56:22--  https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjv006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jfr/article-abstract/1/2/206/2357863/Cross-Border-Application-of-OTC-Derivatives-Rules?redirectedFrom=fulltext [following]
+--2017-02-03 09:56:24--  https://academic.oup.com/jfr/article-abstract/1/2/206/2357863/Cross-Border-Application-of-OTC-Derivatives-Rules?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 74290 (73K) [text/html]
+Saving to: ‘fjv006’
+
+     0K .......... .......... .......... .......... .......... 68%  310K 0s
+    50K .......... .......... ..                              100%  283K=0.2s
+
+2017-02-03 09:56:27 (301 KB/s) - ‘fjv006’ saved [74290/74290]
+
+--2017-02-03 09:56:28--  http://doi.org/10.1093/jfr/fjv005
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjv005 [following]
+--2017-02-03 09:56:30--  https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjv005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jfr/article-abstract/1/2/284/2357861/Why-Operational-Risk-Modelling-Creates-Inverse?redirectedFrom=fulltext [following]
+--2017-02-03 09:56:32--  https://academic.oup.com/jfr/article-abstract/1/2/284/2357861/Why-Operational-Risk-Modelling-Creates-Inverse?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 73563 (72K) [text/html]
+Saving to: ‘fjv005’
+
+     0K .......... .......... .......... .......... .......... 69%  209K 0s
+    50K .......... .......... .                               100% 9.64M=0.2s
+
+2017-02-03 09:56:35 (298 KB/s) - ‘fjv005’ saved [73563/73563]
+
+--2017-02-03 09:56:36--  http://doi.org/10.1093/jfr/fjv003
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjv003 [following]
+--2017-02-03 09:56:37--  https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjv003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jfr/article-abstract/1/2/263/2357855/Unusual-Trade-or-Market-Manipulation-How-Market?redirectedFrom=fulltext [following]
+--2017-02-03 09:56:39--  https://academic.oup.com/jfr/article-abstract/1/2/263/2357855/Unusual-Trade-or-Market-Manipulation-How-Market?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 76953 (75K) [text/html]
+Saving to: ‘fjv003’
+
+     0K .......... .......... .......... .......... .......... 66%  208K 0s
+    50K .......... .......... .....                           100% 11.2M=0.2s
+
+2017-02-03 09:56:43 (311 KB/s) - ‘fjv003’ saved [76953/76953]
+
+--2017-02-03 09:56:44--  http://doi.org/10.1093/jfr/fjv007
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjv007 [following]
+--2017-02-03 09:56:45--  https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjv007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 245692 (240K) [text/html]
+Saving to: ‘fjv007’
+
+     0K .......... .......... .......... .......... .......... 20%  209K 1s
+    50K .......... .......... .......... .......... .......... 41%  606K 0s
+   100K .......... .......... .......... .......... .......... 62%  612K 0s
+   150K .......... .......... .......... .......... .......... 83%  425K 0s
+   200K .......... .......... .......... .........            100%  499K=0.6s
+
+2017-02-03 09:56:52 (399 KB/s) - ‘fjv007’ saved [245692/245692]
+
+--2017-02-03 09:56:53--  http://doi.org/10.1093/jfr/fjv002
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjv002 [following]
+--2017-02-03 09:56:55--  https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjv002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jfr/article-abstract/1/2/226/2357852/Standing-and-Judicial-Review-in-the-New-EU?redirectedFrom=fulltext [following]
+--2017-02-03 09:56:57--  https://academic.oup.com/jfr/article-abstract/1/2/226/2357852/Standing-and-Judicial-Review-in-the-New-EU?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 09:56:57 ERROR 400: Bad Request.
+
+--2017-02-03 09:56:58--  http://doi.org/10.1093/jfr/fju010
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fju010 [following]
+--2017-02-03 09:56:59--  https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fju010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jfr/article-abstract/1/1/1/2357878/Editorial?redirectedFrom=fulltext [following]
+--2017-02-03 09:57:02--  https://academic.oup.com/jfr/article-abstract/1/1/1/2357878/Editorial?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 81179 (79K) [text/html]
+Saving to: ‘fju010’
+
+     0K .......... .......... .......... .......... .......... 63%  310K 0s
+    50K .......... .......... .........                       100%  364K=0.2s
+
+2017-02-03 09:57:06 (328 KB/s) - ‘fju010’ saved [81179/81179]
+
+--2017-02-03 09:57:07--  http://doi.org/10.1093/jfr/fjv001
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjv001 [following]
+--2017-02-03 09:57:09--  https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fjv001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jfr/article-abstract/1/2/290/2357849/Virtual-Currency-Regulation-in-Singapore?redirectedFrom=fulltext [following]
+--2017-02-03 09:57:12--  https://academic.oup.com/jfr/article-abstract/1/2/290/2357849/Virtual-Currency-Regulation-in-Singapore?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73130 (71K) [text/html]
+Saving to: ‘fjv001’
+
+     0K .......... .......... .......... .......... .......... 70%  208K 0s
+    50K .......... .......... .                               100% 15.3M=0.2s
+
+2017-02-03 09:57:17 (296 KB/s) - ‘fjv001’ saved [73130/73130]
+
+--2017-02-03 09:57:18--  http://doi.org/10.1093/jfr/fju009
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fju009 [following]
+--2017-02-03 09:57:19--  https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fju009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 189966 (186K) [text/html]
+Saving to: ‘fju009’
+
+     0K .......... .......... .......... .......... .......... 26%  209K 1s
+    50K .......... .......... .......... .......... .......... 53%  605K 0s
+   100K .......... .......... .......... .......... .......... 80%  610K 0s
+   150K .......... .......... .......... .....                100%  417K=0.5s
+
+2017-02-03 09:57:23 (379 KB/s) - ‘fju009’ saved [189966/189966]
+
+--2017-02-03 09:57:24--  http://doi.org/10.1093/jfr/fju003
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fju003 [following]
+--2017-02-03 09:57:26--  https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fju003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 09:57:26 ERROR 400: Bad Request.
+
+--2017-02-03 09:57:27--  http://doi.org/10.1093/jfr/fju005
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fju005 [following]
+--2017-02-03 09:57:28--  https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fju005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jfr/article-abstract/1/1/159/2357866/Judge-Jed-Rakoff-and-Law-s-Penumbra?redirectedFrom=fulltext [following]
+--2017-02-03 09:57:31--  https://academic.oup.com/jfr/article-abstract/1/1/159/2357866/Judge-Jed-Rakoff-and-Law-s-Penumbra?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 72329 (71K) [text/html]
+Saving to: ‘fju005’
+
+     0K .......... .......... .......... .......... .......... 70%  207K 0s
+    50K .......... ..........                                 100% 11.9M=0.2s
+
+2017-02-03 09:57:34 (291 KB/s) - ‘fju005’ saved [72329/72329]
+
+--2017-02-03 09:57:35--  http://doi.org/10.1093/jfr/fju004
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fju004 [following]
+--2017-02-03 09:57:36--  https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fju004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jfr/article-abstract/1/1/135/2357864/Halliburton-II-What-It-s-All-About?redirectedFrom=fulltext [following]
+--2017-02-03 09:57:38--  https://academic.oup.com/jfr/article-abstract/1/1/135/2357864/Halliburton-II-What-It-s-All-About?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 89790 (88K) [text/html]
+Saving to: ‘fju004’
+
+     0K .......... .......... .......... .......... .......... 57%  209K 0s
+    50K .......... .......... .......... .......              100%  468K=0.3s
+
+2017-02-03 09:57:46 (274 KB/s) - ‘fju004’ saved [89790/89790]
+
+--2017-02-03 09:57:47--  http://doi.org/10.1093/jfr/fju007
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fju007 [following]
+--2017-02-03 09:57:49--  https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fju007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 09:57:49 ERROR 400: Bad Request.
+
+--2017-02-03 09:57:50--  http://doi.org/10.1093/jfr/fju001
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fju001 [following]
+--2017-02-03 09:57:51--  https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fju001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 285970 (279K) [text/html]
+Saving to: ‘fju001’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 35%  602K 1s
+   100K .......... .......... .......... .......... .......... 53%  604K 0s
+   150K .......... .......... .......... .......... .......... 71%  611K 0s
+   200K .......... .......... .......... .......... .......... 89%  314K 0s
+   250K .......... .......... .........                       100% 6.55M=0.7s
+
+2017-02-03 09:57:56 (430 KB/s) - ‘fju001’ saved [285970/285970]
+
+--2017-02-03 09:57:57--  http://doi.org/10.1093/jfr/fju006
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fju006 [following]
+--2017-02-03 09:57:59--  https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fju006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 09:57:59 ERROR 400: Bad Request.
+
+--2017-02-03 09:58:00--  http://doi.org/10.1093/jfr/fju008
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fju008 [following]
+--2017-02-03 09:58:01--  https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fju008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jfr/article-abstract/1/1/164/2357873/Alternative-Investment-Markets-under-Criticism?redirectedFrom=fulltext [following]
+--2017-02-03 09:58:04--  https://academic.oup.com/jfr/article-abstract/1/1/164/2357873/Alternative-Investment-Markets-under-Criticism?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 09:58:04 ERROR 400: Bad Request.
+
+--2017-02-03 09:58:05--  http://doi.org/10.1093/jfr/fju002
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fju002 [following]
+--2017-02-03 09:58:07--  https://academic.oup.com/jfr/article-lookup/doi/10.1093/jfr/fju002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jfr/article-abstract/1/1/95/2357856/Regulating-Sovereign-Wealth-Funds-to-Avoid?redirectedFrom=fulltext [following]
+--2017-02-03 09:58:09--  https://academic.oup.com/jfr/article-abstract/1/1/95/2357856/Regulating-Sovereign-Wealth-Funds-to-Avoid?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 76430 (75K) [text/html]
+Saving to: ‘fju002’
+
+     0K .......... .......... .......... .......... .......... 66%  209K 0s
+    50K .......... .......... ....                            100% 12.9M=0.2s
+
+2017-02-03 09:58:13 (310 KB/s) - ‘fju002’ saved [76430/76430]
+
+FINISHED --2017-02-03 09:58:13--
+Total wall clock time: 4m 28s
+Downloaded: 28 files, 2.7M in 7.9s (356 KB/s)

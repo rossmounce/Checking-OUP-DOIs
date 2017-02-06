@@ -1,0 +1,155 @@
+--2017-02-03 01:53:34--  http://doi.org/10.1093/biomethods/bpx002
+Resolving doi.org (doi.org)... 95.138.171.129, 63.123.152.248, 208.254.38.90, ...
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:53:35--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Resolving fdslive.oup.com (fdslive.oup.com)... 193.67.160.201
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘bpx002’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:53:35 (1.32 MB/s) - ‘bpx002’ saved [52438/52438]
+
+--2017-02-03 01:53:36--  http://doi.org/10.1093/biomethods/bpx001
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:53:38--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘bpx001’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:53:38 (1.32 MB/s) - ‘bpx001’ saved [52438/52438]
+
+--2017-02-03 01:53:39--  http://doi.org/10.1093/biomethods/bpw003
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomethods/article-lookup/doi/10.1093/biomethods/bpw003 [following]
+--2017-02-03 01:53:40--  https://academic.oup.com/biomethods/article-lookup/doi/10.1093/biomethods/bpw003
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 230405 (225K) [text/html]
+Saving to: ‘bpw003’
+
+     0K .......... .......... .......... .......... .......... 22%  208K 1s
+    50K .......... .......... .......... .......... .......... 44%  607K 0s
+   100K .......... .......... .......... .......... .......... 66%  582K 0s
+   150K .......... .......... .......... .......... .......... 88%  436K 0s
+   200K .......... .......... .....                           100%  510K=0.6s
+
+2017-02-03 01:54:00 (393 KB/s) - ‘bpw003’ saved [230405/230405]
+
+--2017-02-03 01:54:01--  http://doi.org/10.1093/biomethods/bpw002
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomethods/article-lookup/doi/10.1093/biomethods/bpw002 [following]
+--2017-02-03 01:54:02--  https://academic.oup.com/biomethods/article-lookup/doi/10.1093/biomethods/bpw002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 239564 (234K) [text/html]
+Saving to: ‘bpw002’
+
+     0K .......... .......... .......... .......... .......... 21%  208K 1s
+    50K .......... .......... .......... .......... .......... 42%  598K 0s
+   100K .......... .......... .......... .......... .......... 64%  610K 0s
+   150K .......... .......... .......... .......... .......... 85%  601K 0s
+   200K .......... .......... .......... ...                  100%  422K=0.6s
+
+2017-02-03 01:54:19 (411 KB/s) - ‘bpw002’ saved [239564/239564]
+
+--2017-02-03 01:54:20--  http://doi.org/10.1093/biomethods/bpw001
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomethods/article-lookup/doi/10.1093/biomethods/bpw001 [following]
+--2017-02-03 01:54:21--  https://academic.oup.com/biomethods/article-lookup/doi/10.1093/biomethods/bpw001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 332480 (325K) [text/html]
+Saving to: ‘bpw001’
+
+     0K .......... .......... .......... .......... .......... 15%  209K 1s
+    50K .......... .......... .......... .......... .......... 30%  604K 1s
+   100K .......... .......... .......... .......... .......... 46%  613K 0s
+   150K .......... .......... .......... .......... .......... 61%  600K 0s
+   200K .......... .......... .......... .......... .......... 76%  315K 0s
+   250K .......... .......... .......... .......... .......... 92%  599K 0s
+   300K .......... .......... ....                            100%  315K=0.8s
+
+2017-02-03 01:54:41 (402 KB/s) - ‘bpw001’ saved [332480/332480]
+
+--2017-02-03 01:54:42--  http://doi.org/10.1093/biomethods/bpv001
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomethods/article-lookup/doi/10.1093/biomethods/bpv001 [following]
+--2017-02-03 01:54:43--  https://academic.oup.com/biomethods/article-lookup/doi/10.1093/biomethods/bpv001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 90295 (88K) [text/html]
+Saving to: ‘bpv001’
+
+     0K .......... .......... .......... .......... .......... 56%  209K 0s
+    50K .......... .......... .......... ........             100% 11.1M=0.2s
+
+2017-02-03 01:54:49 (363 KB/s) - ‘bpv001’ saved [90295/90295]
+
+--2017-02-03 01:54:50--  http://doi.org/10.1093/biomethods/bpw005
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomethods/article-lookup/doi/10.1093/biomethods/bpw005 [following]
+--2017-02-03 01:54:51--  https://academic.oup.com/biomethods/article-lookup/doi/10.1093/biomethods/bpw005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 01:54:52 ERROR 400: Bad Request.
+
+--2017-02-03 01:54:53--  http://doi.org/10.1093/biomethods/bpw004
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/biomethods/article-lookup/doi/10.1093/biomethods/bpw004 [following]
+--2017-02-03 01:54:54--  https://academic.oup.com/biomethods/article-lookup/doi/10.1093/biomethods/bpw004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 01:54:54 ERROR 400: Bad Request.
+
+--2017-02-03 01:54:55--  http://doi.org/10.1093/biomethods/bpw006
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:54:57--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘bpw006’
+
+     0K .......... .......... .......... .......... .......... 97% 1.16M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:54:57 (1.19 MB/s) - ‘bpw006’ saved [52438/52438]
+
+--2017-02-03 01:54:58--  http://doi.org/10.1093/biomethods/bpw008
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:54:59--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘bpw008’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:54:59 (1.20 MB/s) - ‘bpw008’ saved [52438/52438]
+
+FINISHED --2017-02-03 01:54:59--
+Total wall clock time: 1m 25s
+Downloaded: 8 files, 1.1M in 2.4s (458 KB/s)

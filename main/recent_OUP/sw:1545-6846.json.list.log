@@ -1,0 +1,1482 @@
+--2017-02-03 19:27:59--  http://doi.org/10.1093/sw/swx003
+Resolving doi.org (doi.org)... 208.254.38.90, 63.123.152.248, 38.100.138.162, ...
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://sw.oxfordjournals.org/lookup/doi/10.1093/sw/swx003 [following]
+--2017-02-03 19:28:00--  http://sw.oxfordjournals.org/lookup/doi/10.1093/sw/swx003
+Resolving sw.oxfordjournals.org (sw.oxfordjournals.org)... 209.135.222.209
+Connecting to sw.oxfordjournals.org (sw.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from sw.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/sw/article/doi/10.1093/sw/swx003/2962027/Active-Collaboration-with-Clients-An [following]
+--2017-02-03 19:28:01--  https://academic.oup.com/sw/article/doi/10.1093/sw/swx003/2962027/Active-Collaboration-with-Clients-An
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 202908 (198K) [text/html]
+Saving to: ‘swx003’
+
+     0K .......... .......... .......... .......... .......... 25%  209K 1s
+    50K .......... .......... .......... .......... .......... 50%  602K 0s
+   100K .......... .......... .......... .......... .......... 75%  610K 0s
+   150K .......... .......... .......... .......... ........  100%  588K=0.5s
+
+2017-02-03 19:28:05 (407 KB/s) - ‘swx003’ saved [202908/202908]
+
+--2017-02-03 19:28:06--  http://doi.org/10.1093/sw/swx001
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/swx001 [following]
+--2017-02-03 19:28:07--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/swx001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 210407 (205K) [text/html]
+Saving to: ‘swx001’
+
+     0K .......... .......... .......... .......... .......... 24%  207K 1s
+    50K .......... .......... .......... .......... .......... 48%  588K 0s
+   100K .......... .......... .......... .......... .......... 73%  608K 0s
+   150K .......... .......... .......... .......... .......... 97%  605K 0s
+   200K .....                                                 100% 34.1M=0.5s
+
+2017-02-03 19:28:11 (418 KB/s) - ‘swx001’ saved [210407/210407]
+
+--2017-02-03 19:28:12--  http://doi.org/10.1093/sw/sww085
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww085 [following]
+--2017-02-03 19:28:13--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww085
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63613 (62K) [text/html]
+Saving to: ‘sww085’
+
+     0K .......... .......... .......... .......... .......... 80%  209K 0s
+    50K .......... ..                                         100% 22.0M=0.2s
+
+2017-02-03 19:28:17 (259 KB/s) - ‘sww085’ saved [63613/63613]
+
+--2017-02-03 19:28:18--  http://doi.org/10.1093/sw/sww083
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww083 [following]
+--2017-02-03 19:28:20--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww083
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63545 (62K) [text/html]
+Saving to: ‘sww083’
+
+     0K .......... .......... .......... .......... .......... 80%  209K 0s
+    50K .......... ..                                         100% 25.2M=0.2s
+
+2017-02-03 19:28:24 (259 KB/s) - ‘sww083’ saved [63545/63545]
+
+--2017-02-03 19:28:25--  http://doi.org/10.1093/sw/sww084
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww084 [following]
+--2017-02-03 19:28:26--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww084
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63578 (62K) [text/html]
+Saving to: ‘sww084’
+
+     0K .......... .......... .......... .......... .......... 80%  209K 0s
+    50K .......... ..                                         100% 13.4M=0.2s
+
+2017-02-03 19:28:30 (259 KB/s) - ‘sww084’ saved [63578/63578]
+
+--2017-02-03 19:28:31--  http://doi.org/10.1093/sw/sww086
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww086 [following]
+--2017-02-03 19:28:32--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww086
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63611 (62K) [text/html]
+Saving to: ‘sww086’
+
+     0K .......... .......... .......... .......... .......... 80%  209K 0s
+    50K .......... ..                                         100% 16.8M=0.2s
+
+2017-02-03 19:28:38 (259 KB/s) - ‘sww086’ saved [63611/63611]
+
+--2017-02-03 19:28:39--  http://doi.org/10.1093/sw/sww082
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww082 [following]
+--2017-02-03 19:28:40--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww082
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 128073 (125K) [text/html]
+Saving to: ‘sww082’
+
+     0K .......... .......... .......... .......... .......... 39%  209K 0s
+    50K .......... .......... .......... .......... .......... 79%  608K 0s
+   100K .......... .......... .....                           100% 4.26M=0.3s
+
+2017-02-03 19:28:46 (382 KB/s) - ‘sww082’ saved [128073/128073]
+
+--2017-02-03 19:28:47--  http://doi.org/10.1093/sw/sww081
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww081 [following]
+--2017-02-03 19:28:48--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww081
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 130560 (128K) [text/html]
+Saving to: ‘sww081’
+
+     0K .......... .......... .......... .......... .......... 39%  209K 0s
+    50K .......... .......... .......... .......... .......... 78%  603K 0s
+   100K .......... .......... .......                         100% 12.2M=0.3s
+
+2017-02-03 19:28:52 (392 KB/s) - ‘sww081’ saved [130560/130560]
+
+--2017-02-03 19:28:53--  http://doi.org/10.1093/sw/sww080
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww080 [following]
+--2017-02-03 19:28:54--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww080
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 200303 (196K) [text/html]
+Saving to: ‘sww080’
+
+     0K .......... .......... .......... .......... .......... 25%  209K 1s
+    50K .......... .......... .......... .......... .......... 51%  605K 0s
+   100K .......... .......... .......... .......... .......... 76%  604K 0s
+   150K .......... .......... .......... .......... .....     100%  564K=0.5s
+
+2017-02-03 19:28:58 (403 KB/s) - ‘sww080’ saved [200303/200303]
+
+--2017-02-03 19:28:59--  http://doi.org/10.1093/sw/sww078
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww078 [following]
+--2017-02-03 19:29:00--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww078
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 204559 (200K) [text/html]
+Saving to: ‘sww078’
+
+     0K .......... .......... .......... .......... .......... 25%  209K 1s
+    50K .......... .......... .......... .......... .......... 50%  604K 0s
+   100K .......... .......... .......... .......... .......... 75%  610K 0s
+   150K .......... .......... .......... .......... ......... 100%  607K=0.5s
+
+2017-02-03 19:29:04 (411 KB/s) - ‘sww078’ saved [204559/204559]
+
+--2017-02-03 19:29:05--  http://doi.org/10.1093/sw/sww075
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww075 [following]
+--2017-02-03 19:29:06--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww075
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 189923 (185K) [text/html]
+Saving to: ‘sww075’
+
+     0K .......... .......... .......... .......... .......... 26%  209K 1s
+    50K .......... .......... .......... .......... .......... 53%  551K 0s
+   100K .......... .......... .......... .......... .......... 80%  620K 0s
+   150K .......... .......... .......... .....                100%  445K=0.5s
+
+2017-02-03 19:29:10 (378 KB/s) - ‘sww075’ saved [189923/189923]
+
+--2017-02-03 19:29:11--  http://doi.org/10.1093/sw/sww077
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww077 [following]
+--2017-02-03 19:29:12--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww077
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 19:29:13 ERROR 400: Bad Request.
+
+--2017-02-03 19:29:14--  http://doi.org/10.1093/sw/sww076
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww076 [following]
+--2017-02-03 19:29:15--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww076
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 107099 (105K) [text/html]
+Saving to: ‘sww076’
+
+     0K .......... .......... .......... .......... .......... 47%  209K 0s
+    50K .......... .......... .......... .......... .......... 95%  611K 0s
+   100K ....                                                  100% 17.5M=0.3s
+
+2017-02-03 19:29:19 (326 KB/s) - ‘sww076’ saved [107099/107099]
+
+--2017-02-03 19:29:20--  http://doi.org/10.1093/sw/sww079
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww079 [following]
+--2017-02-03 19:29:22--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww079
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79807 (78K) [text/html]
+Saving to: ‘sww079’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... .......                         100% 9.43M=0.2s
+
+2017-02-03 19:29:25 (321 KB/s) - ‘sww079’ saved [79807/79807]
+
+--2017-02-03 19:29:26--  http://doi.org/10.1093/sw/sww072
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww072 [following]
+--2017-02-03 19:29:28--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww072
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 113371 (111K) [text/html]
+Saving to: ‘sww072’
+
+     0K .......... .......... .......... .......... .......... 45%  309K 0s
+    50K .......... .......... .......... .......... .......... 90%  313K 0s
+   100K ..........                                            100% 10.3M=0.3s
+
+2017-02-03 19:29:31 (343 KB/s) - ‘sww072’ saved [113371/113371]
+
+--2017-02-03 19:29:32--  http://doi.org/10.1093/sw/sww073
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww073 [following]
+--2017-02-03 19:29:33--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww073
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73122 (71K) [text/html]
+Saving to: ‘sww073’
+
+     0K .......... .......... .......... .......... .......... 70%  207K 0s
+    50K .......... .......... .                               100% 15.5M=0.2s
+
+2017-02-03 19:29:36 (294 KB/s) - ‘sww073’ saved [73122/73122]
+
+--2017-02-03 19:29:37--  http://doi.org/10.1093/sw/sww067
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww067 [following]
+--2017-02-03 19:29:38--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww067
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 107190 (105K) [text/html]
+Saving to: ‘sww067’
+
+     0K .......... .......... .......... .......... .......... 47%  207K 0s
+    50K .......... .......... .......... .......... .......... 95%  609K 0s
+   100K ....                                                  100% 23.4M=0.3s
+
+2017-02-03 19:29:41 (323 KB/s) - ‘sww067’ saved [107190/107190]
+
+--2017-02-03 19:29:42--  http://doi.org/10.1093/sw/sww074
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww074 [following]
+--2017-02-03 19:29:43--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww074
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71778 (70K) [text/html]
+Saving to: ‘sww074’
+
+     0K .......... .......... .......... .......... .......... 71%  209K 0s
+    50K .......... ..........                                 100% 14.0M=0.2s
+
+2017-02-03 19:29:46 (291 KB/s) - ‘sww074’ saved [71778/71778]
+
+--2017-02-03 19:29:47--  http://doi.org/10.1093/sw/sww071
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww071 [following]
+--2017-02-03 19:29:49--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww071
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 19:29:50 ERROR 400: Bad Request.
+
+--2017-02-03 19:29:51--  http://doi.org/10.1093/sw/sww068
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww068 [following]
+--2017-02-03 19:29:52--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww068
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 204202 (199K) [text/html]
+Saving to: ‘sww068’
+
+     0K .......... .......... .......... .......... .......... 25%  209K 1s
+    50K .......... .......... .......... .......... .......... 50%  613K 0s
+   100K .......... .......... .......... .......... .......... 75%  606K 0s
+   150K .......... .......... .......... .......... ......... 100%  599K=0.5s
+
+2017-02-03 19:29:56 (410 KB/s) - ‘sww068’ saved [204202/204202]
+
+--2017-02-03 19:29:57--  http://doi.org/10.1093/sw/sww069
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww069 [following]
+--2017-02-03 19:29:58--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww069
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 201212 (196K) [text/html]
+Saving to: ‘sww069’
+
+     0K .......... .......... .......... .......... .......... 25%  208K 1s
+    50K .......... .......... .......... .......... .......... 50%  603K 0s
+   100K .......... .......... .......... .......... .......... 76%  611K 0s
+   150K .......... .......... .......... .......... ......    100%  567K=0.5s
+
+2017-02-03 19:30:03 (403 KB/s) - ‘sww069’ saved [201212/201212]
+
+--2017-02-03 19:30:04--  http://doi.org/10.1093/sw/sww065
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww065 [following]
+--2017-02-03 19:30:05--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww065
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 19:30:06 ERROR 400: Bad Request.
+
+--2017-02-03 19:30:07--  http://doi.org/10.1093/sw/sww066
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww066 [following]
+--2017-02-03 19:30:08--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww066
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 19:30:09 ERROR 400: Bad Request.
+
+--2017-02-03 19:30:10--  http://doi.org/10.1093/sw/sww070
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww070 [following]
+--2017-02-03 19:30:11--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww070
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76669 (75K) [text/html]
+Saving to: ‘sww070’
+
+     0K .......... .......... .......... .......... .......... 66%  209K 0s
+    50K .......... .......... ....                            100% 13.0M=0.2s
+
+2017-02-03 19:30:14 (310 KB/s) - ‘sww070’ saved [76669/76669]
+
+--2017-02-03 19:30:15--  http://doi.org/10.1093/sw/sww064
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww064 [following]
+--2017-02-03 19:30:16--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww064
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 19:30:17 ERROR 400: Bad Request.
+
+--2017-02-03 19:30:18--  http://doi.org/10.1093/sw/sww060
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww060 [following]
+--2017-02-03 19:30:19--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww060
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 101898 (100K) [text/html]
+Saving to: ‘sww060’
+
+     0K .......... .......... .......... .......... .......... 50%  309K 0s
+    50K .......... .......... .......... .......... ......... 100%  312K=0.3s
+
+2017-02-03 19:30:23 (310 KB/s) - ‘sww060’ saved [101898/101898]
+
+--2017-02-03 19:30:24--  http://doi.org/10.1093/sw/sww061
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww061 [following]
+--2017-02-03 19:30:26--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww061
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63100 (62K) [text/html]
+Saving to: ‘sww061’
+
+     0K .......... .......... .......... .......... .......... 81%  209K 0s
+    50K .......... .                                          100% 14.0M=0.2s
+
+2017-02-03 19:30:29 (257 KB/s) - ‘sww061’ saved [63100/63100]
+
+--2017-02-03 19:30:30--  http://doi.org/10.1093/sw/sww062
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww062 [following]
+--2017-02-03 19:30:31--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww062
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63124 (62K) [text/html]
+Saving to: ‘sww062’
+
+     0K .......... .......... .......... .......... .......... 81%  209K 0s
+    50K .......... .                                          100% 16.7M=0.2s
+
+2017-02-03 19:30:36 (257 KB/s) - ‘sww062’ saved [63124/63124]
+
+--2017-02-03 19:30:37--  http://doi.org/10.1093/sw/sww063
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww063 [following]
+--2017-02-03 19:30:38--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww063
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63201 (62K) [text/html]
+Saving to: ‘sww063’
+
+     0K .......... .......... .......... .......... .......... 81%  310K 0s
+    50K .......... .                                          100%  149K=0.2s
+
+2017-02-03 19:30:43 (257 KB/s) - ‘sww063’ saved [63201/63201]
+
+--2017-02-03 19:30:44--  http://doi.org/10.1093/sw/sww059
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww059 [following]
+--2017-02-03 19:30:45--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww059
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 88815 (87K) [text/html]
+Saving to: ‘sww059’
+
+     0K .......... .......... .......... .......... .......... 57%  209K 0s
+    50K .......... .......... .......... ......               100% 10.4M=0.2s
+
+2017-02-03 19:30:50 (357 KB/s) - ‘sww059’ saved [88815/88815]
+
+--2017-02-03 19:30:51--  http://doi.org/10.1093/sw/sww053
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww053 [following]
+--2017-02-03 19:30:52--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww053
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 97752 (95K) [text/html]
+Saving to: ‘sww053’
+
+     0K .......... .......... .......... .......... .......... 52%  209K 0s
+    50K .......... .......... .......... .......... .....     100%  567K=0.3s
+
+2017-02-03 19:30:56 (299 KB/s) - ‘sww053’ saved [97752/97752]
+
+--2017-02-03 19:30:57--  http://doi.org/10.1093/sw/sww046
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww046 [following]
+--2017-02-03 19:30:58--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww046
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 108343 (106K) [text/html]
+Saving to: ‘sww046’
+
+     0K .......... .......... .......... .......... .......... 47%  209K 0s
+    50K .......... .......... .......... .......... .......... 94%  611K 0s
+   100K .....                                                 100% 23.8M=0.3s
+
+2017-02-03 19:31:02 (329 KB/s) - ‘sww046’ saved [108343/108343]
+
+--2017-02-03 19:31:03--  http://doi.org/10.1093/sw/sww049
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww049 [following]
+--2017-02-03 19:31:04--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww049
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 185028 (181K) [text/html]
+Saving to: ‘sww049’
+
+     0K .......... .......... .......... .......... .......... 27%  208K 1s
+    50K .......... .......... .......... .......... .......... 55%  608K 0s
+   100K .......... .......... .......... .......... .......... 83%  609K 0s
+   150K .......... .......... ..........                      100%  385K=0.5s
+
+2017-02-03 19:31:08 (373 KB/s) - ‘sww049’ saved [185028/185028]
+
+--2017-02-03 19:31:09--  http://doi.org/10.1093/sw/sww055
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww055 [following]
+--2017-02-03 19:31:10--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww055
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 70886 (69K) [text/html]
+Saving to: ‘sww055’
+
+     0K .......... .......... .......... .......... .......... 72%  209K 0s
+    50K .......... .........                                  100% 17.3M=0.2s
+
+2017-02-03 19:31:13 (288 KB/s) - ‘sww055’ saved [70886/70886]
+
+--2017-02-03 19:31:14--  http://doi.org/10.1093/sw/sww047
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww047 [following]
+--2017-02-03 19:31:15--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww047
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 183624 (179K) [text/html]
+Saving to: ‘sww047’
+
+     0K .......... .......... .......... .......... .......... 27%  310K 0s
+    50K .......... .......... .......... .......... .......... 55%  313K 0s
+   100K .......... .......... .......... .......... .......... 83%  599K 0s
+   150K .......... .......... .........                       100%  365K=0.5s
+
+2017-02-03 19:31:19 (370 KB/s) - ‘sww047’ saved [183624/183624]
+
+--2017-02-03 19:31:20--  http://doi.org/10.1093/sw/sww042
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww042 [following]
+--2017-02-03 19:31:21--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww042
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 194267 (190K) [text/html]
+Saving to: ‘sww042’
+
+     0K .......... .......... .......... .......... .......... 26%  209K 1s
+    50K .......... .......... .......... .......... .......... 52%  604K 0s
+   100K .......... .......... .......... .......... .......... 79%  602K 0s
+   150K .......... .......... .......... .........            100%  486K=0.5s
+
+2017-02-03 19:31:25 (390 KB/s) - ‘sww042’ saved [194267/194267]
+
+--2017-02-03 19:31:26--  http://doi.org/10.1093/sw/sww052
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww052 [following]
+--2017-02-03 19:31:27--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww052
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 19:31:28 ERROR 400: Bad Request.
+
+--2017-02-03 19:31:29--  http://doi.org/10.1093/sw/sww045
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww045 [following]
+--2017-02-03 19:31:30--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww045
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 160735 (157K) [text/html]
+Saving to: ‘sww045’
+
+     0K .......... .......... .......... .......... .......... 31%  209K 1s
+    50K .......... .......... .......... .......... .......... 63%  614K 0s
+   100K .......... .......... .......... .......... .......... 95%  602K 0s
+   150K ......                                                100% 24.5M=0.4s
+
+2017-02-03 19:31:35 (388 KB/s) - ‘sww045’ saved [160735/160735]
+
+--2017-02-03 19:31:36--  http://doi.org/10.1093/sw/sww048
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww048 [following]
+--2017-02-03 19:31:37--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww048
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71366 (70K) [text/html]
+Saving to: ‘sww048’
+
+     0K .......... .......... .......... .......... .......... 71%  209K 0s
+    50K .......... .........                                  100% 16.6M=0.2s
+
+2017-02-03 19:31:42 (290 KB/s) - ‘sww048’ saved [71366/71366]
+
+--2017-02-03 19:31:43--  http://doi.org/10.1093/sw/sww051
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww051 [following]
+--2017-02-03 19:31:44--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww051
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 199375 (195K) [text/html]
+Saving to: ‘sww051’
+
+     0K .......... .......... .......... .......... .......... 25%  208K 1s
+    50K .......... .......... .......... .......... .......... 51%  594K 0s
+   100K .......... .......... .......... .......... .......... 77%  609K 0s
+   150K .......... .......... .......... .......... ....      100%  264K=0.6s
+
+2017-02-03 19:31:51 (338 KB/s) - ‘sww051’ saved [199375/199375]
+
+--2017-02-03 19:31:52--  http://doi.org/10.1093/sw/sww044
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww044 [following]
+--2017-02-03 19:31:53--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww044
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 19:31:55 ERROR 400: Bad Request.
+
+--2017-02-03 19:31:56--  http://doi.org/10.1093/sw/sww057
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww057 [following]
+--2017-02-03 19:31:57--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww057
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 200087 (195K) [text/html]
+Saving to: ‘sww057’
+
+     0K .......... .......... .......... .......... .......... 25%  209K 1s
+    50K .......... .......... .......... .......... .......... 51%  609K 0s
+   100K .......... .......... .......... .......... .......... 76%  607K 0s
+   150K .......... .......... .......... .......... .....     100%  558K=0.5s
+
+2017-02-03 19:32:03 (403 KB/s) - ‘sww057’ saved [200087/200087]
+
+--2017-02-03 19:32:04--  http://doi.org/10.1093/sw/sww041
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww041 [following]
+--2017-02-03 19:32:05--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww041
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72482 (71K) [text/html]
+Saving to: ‘sww041’
+
+     0K .......... .......... .......... .......... .......... 70%  208K 0s
+    50K .......... ..........                                 100% 10.9M=0.2s
+
+2017-02-03 19:32:15 (293 KB/s) - ‘sww041’ saved [72482/72482]
+
+--2017-02-03 19:32:16--  http://doi.org/10.1093/sw/sww043
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww043 [following]
+--2017-02-03 19:32:17--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww043
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72841 (71K) [text/html]
+Saving to: ‘sww043’
+
+     0K .......... .......... .......... .......... .......... 70%  207K 0s
+    50K .......... .......... .                               100% 15.4M=0.2s
+
+2017-02-03 19:32:24 (293 KB/s) - ‘sww043’ saved [72841/72841]
+
+--2017-02-03 19:32:25--  http://doi.org/10.1093/sw/sww054
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww054 [following]
+--2017-02-03 19:32:26--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww054
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 127394 (124K) [text/html]
+Saving to: ‘sww054’
+
+     0K .......... .......... .......... .......... .......... 40%  209K 0s
+    50K .......... .......... .......... .......... .......... 80%  608K 0s
+   100K .......... .......... ....                            100% 15.3M=0.3s
+
+2017-02-03 19:32:32 (385 KB/s) - ‘sww054’ saved [127394/127394]
+
+--2017-02-03 19:32:33--  http://doi.org/10.1093/sw/sww050
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww050 [following]
+--2017-02-03 19:32:34--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww050
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 148855 (145K) [text/html]
+Saving to: ‘sww050’
+
+     0K .......... .......... .......... .......... .......... 34%  209K 0s
+    50K .......... .......... .......... .......... .......... 68%  600K 0s
+   100K .......... .......... .......... .......... .....     100%  562K=0.4s
+
+2017-02-03 19:32:37 (360 KB/s) - ‘sww050’ saved [148855/148855]
+
+--2017-02-03 19:32:38--  http://doi.org/10.1093/sw/sww058
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww058 [following]
+--2017-02-03 19:32:39--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww058
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 129013 (126K) [text/html]
+Saving to: ‘sww058’
+
+     0K .......... .......... .......... .......... .......... 39%  209K 0s
+    50K .......... .......... .......... .......... .......... 79%  609K 0s
+   100K .......... .......... .....                           100% 15.0M=0.3s
+
+2017-02-03 19:32:43 (390 KB/s) - ‘sww058’ saved [129013/129013]
+
+--2017-02-03 19:32:44--  http://doi.org/10.1093/sw/sww056
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww056 [following]
+--2017-02-03 19:32:45--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww056
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 122747 (120K) [text/html]
+Saving to: ‘sww056’
+
+     0K .......... .......... .......... .......... .......... 41%  209K 0s
+    50K .......... .......... .......... .......... .......... 83%  604K 0s
+   100K .......... .........                                  100% 21.3M=0.3s
+
+2017-02-03 19:32:49 (371 KB/s) - ‘sww056’ saved [122747/122747]
+
+--2017-02-03 19:32:50--  http://doi.org/10.1093/sw/sww040
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww040 [following]
+--2017-02-03 19:32:51--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww040
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63034 (62K) [text/html]
+Saving to: ‘sww040’
+
+     0K .......... .......... .......... .......... .......... 81%  209K 0s
+    50K .......... .                                          100% 23.4M=0.2s
+
+2017-02-03 19:32:54 (257 KB/s) - ‘sww040’ saved [63034/63034]
+
+--2017-02-03 19:32:55--  http://doi.org/10.1093/sw/sww039
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww039 [following]
+--2017-02-03 19:32:57--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww039
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63225 (62K) [text/html]
+Saving to: ‘sww039’
+
+     0K .......... .......... .......... .......... .......... 80%  208K 0s
+    50K .......... .                                          100% 20.5M=0.2s
+
+2017-02-03 19:33:00 (256 KB/s) - ‘sww039’ saved [63225/63225]
+
+--2017-02-03 19:33:01--  http://doi.org/10.1093/sw/sww038
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww038 [following]
+--2017-02-03 19:33:02--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww038
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63148 (62K) [text/html]
+Saving to: ‘sww038’
+
+     0K .......... .......... .......... .......... .......... 81%  209K 0s
+    50K .......... .                                          100% 19.6M=0.2s
+
+2017-02-03 19:33:07 (257 KB/s) - ‘sww038’ saved [63148/63148]
+
+--2017-02-03 19:33:08--  http://doi.org/10.1093/sw/sww037
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww037 [following]
+--2017-02-03 19:33:10--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww037
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63084 (62K) [text/html]
+Saving to: ‘sww037’
+
+     0K .......... .......... .......... .......... .......... 81%  209K 0s
+    50K .......... .                                          100% 20.7M=0.2s
+
+2017-02-03 19:33:14 (257 KB/s) - ‘sww037’ saved [63084/63084]
+
+--2017-02-03 19:33:15--  http://doi.org/10.1093/sw/sww036
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww036 [following]
+--2017-02-03 19:33:16--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww036
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63347 (62K) [text/html]
+Saving to: ‘sww036’
+
+     0K .......... .......... .......... .......... .......... 80%  209K 0s
+    50K .......... .                                          100% 14.5M=0.2s
+
+2017-02-03 19:33:19 (257 KB/s) - ‘sww036’ saved [63347/63347]
+
+--2017-02-03 19:33:20--  http://doi.org/10.1093/sw/sww033
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww033 [following]
+--2017-02-03 19:33:21--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww033
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 226195 (221K) [text/html]
+Saving to: ‘sww033’
+
+     0K .......... .......... .......... .......... .......... 22%  209K 1s
+    50K .......... .......... .......... .......... .......... 45%  608K 0s
+   100K .......... .......... .......... .......... .......... 67%  609K 0s
+   150K .......... .......... .......... .......... .......... 90%  567K 0s
+   200K .......... ..........                                 100%  287K=0.6s
+
+2017-02-03 19:33:25 (391 KB/s) - ‘sww033’ saved [226195/226195]
+
+--2017-02-03 19:33:26--  http://doi.org/10.1093/sw/sww035
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww035 [following]
+--2017-02-03 19:33:27--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww035
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 110814 (108K) [text/html]
+Saving to: ‘sww035’
+
+     0K .......... .......... .......... .......... .......... 46%  209K 0s
+    50K .......... .......... .......... .......... .......... 92%  604K 0s
+   100K ........                                              100% 35.5M=0.3s
+
+2017-02-03 19:33:30 (336 KB/s) - ‘sww035’ saved [110814/110814]
+
+--2017-02-03 19:33:31--  http://doi.org/10.1093/sw/sww034
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww034 [following]
+--2017-02-03 19:33:32--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww034
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 99617 (97K) [text/html]
+Saving to: ‘sww034’
+
+     0K .......... .......... .......... .......... .......... 51%  209K 0s
+    50K .......... .......... .......... .......... .......   100%  581K=0.3s
+
+2017-02-03 19:33:36 (304 KB/s) - ‘sww034’ saved [99617/99617]
+
+--2017-02-03 19:33:37--  http://doi.org/10.1093/sw/sww024
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww024 [following]
+--2017-02-03 19:33:38--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww024
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72120 (70K) [text/html]
+Saving to: ‘sww024’
+
+     0K .......... .......... .......... .......... .......... 70%  209K 0s
+    50K .......... ..........                                 100% 10.6M=0.2s
+
+2017-02-03 19:33:42 (292 KB/s) - ‘sww024’ saved [72120/72120]
+
+--2017-02-03 19:33:43--  http://doi.org/10.1093/sw/sww032
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww032 [following]
+--2017-02-03 19:33:44--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww032
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73949 (72K) [text/html]
+Saving to: ‘sww032’
+
+     0K .......... .......... .......... .......... .......... 69%  208K 0s
+    50K .......... .......... ..                              100% 11.5M=0.2s
+
+2017-02-03 19:33:47 (299 KB/s) - ‘sww032’ saved [73949/73949]
+
+--2017-02-03 19:33:48--  http://doi.org/10.1093/sw/sww026
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww026 [following]
+--2017-02-03 19:33:49--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww026
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 185756 (181K) [text/html]
+Saving to: ‘sww026’
+
+     0K .......... .......... .......... .......... .......... 27%  209K 1s
+    50K .......... .......... .......... .......... .......... 55%  598K 0s
+   100K .......... .......... .......... .......... .......... 82%  609K 0s
+   150K .......... .......... .......... .                    100%  392K=0.5s
+
+2017-02-03 19:33:53 (374 KB/s) - ‘sww026’ saved [185756/185756]
+
+--2017-02-03 19:33:54--  http://doi.org/10.1093/sw/sww030
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww030 [following]
+--2017-02-03 19:33:55--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww030
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 197636 (193K) [text/html]
+Saving to: ‘sww030’
+
+     0K .......... .......... .......... .......... .......... 25%  209K 1s
+    50K .......... .......... .......... .......... .......... 51%  610K 0s
+   100K .......... .......... .......... .......... .......... 77%  614K 0s
+   150K .......... .......... .......... .......... ...       100%  527K=0.5s
+
+2017-02-03 19:33:59 (398 KB/s) - ‘sww030’ saved [197636/197636]
+
+--2017-02-03 19:34:00--  http://doi.org/10.1093/sw/sww019
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww019 [following]
+--2017-02-03 19:34:01--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 164492 (161K) [text/html]
+Saving to: ‘sww019’
+
+     0K .......... .......... .......... .......... .......... 31%  208K 1s
+    50K .......... .......... .......... .......... .......... 62%  601K 0s
+   100K .......... .......... .......... .......... .......... 93%  573K 0s
+   150K ..........                                            100% 12.1M=0.4s
+
+2017-02-03 19:34:05 (390 KB/s) - ‘sww019’ saved [164492/164492]
+
+--2017-02-03 19:34:06--  http://doi.org/10.1093/sw/sww028
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww028 [following]
+--2017-02-03 19:34:07--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww028
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71833 (70K) [text/html]
+Saving to: ‘sww028’
+
+     0K .......... .......... .......... .......... .......... 71%  208K 0s
+    50K .......... ..........                                 100% 17.3M=0.2s
+
+2017-02-03 19:34:10 (291 KB/s) - ‘sww028’ saved [71833/71833]
+
+--2017-02-03 19:34:11--  http://doi.org/10.1093/sw/sww025
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww025 [following]
+--2017-02-03 19:34:13--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww025
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 74730 (73K) [text/html]
+Saving to: ‘sww025’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ..                              100% 9.71M=0.2s
+
+2017-02-03 19:34:16 (302 KB/s) - ‘sww025’ saved [74730/74730]
+
+--2017-02-03 19:34:17--  http://doi.org/10.1093/sw/sww031
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww031 [following]
+--2017-02-03 19:34:18--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww031
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73630 (72K) [text/html]
+Saving to: ‘sww031’
+
+     0K .......... .......... .......... .......... .......... 69%  309K 0s
+    50K .......... .......... .                               100%  276K=0.2s
+
+2017-02-03 19:34:21 (298 KB/s) - ‘sww031’ saved [73630/73630]
+
+--2017-02-03 19:34:22--  http://doi.org/10.1093/sw/sww029
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww029 [following]
+--2017-02-03 19:34:23--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww029
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72363 (71K) [text/html]
+Saving to: ‘sww029’
+
+     0K .......... .......... .......... .......... .......... 70%  209K 0s
+    50K .......... ..........                                 100% 14.7M=0.2s
+
+2017-02-03 19:34:27 (294 KB/s) - ‘sww029’ saved [72363/72363]
+
+--2017-02-03 19:34:28--  http://doi.org/10.1093/sw/sww027
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww027 [following]
+--2017-02-03 19:34:29--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww027
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 82235 (80K) [text/html]
+Saving to: ‘sww027’
+
+     0K .......... .......... .......... .......... .......... 62%  209K 0s
+    50K .......... .......... ..........                      100% 9.06M=0.2s
+
+2017-02-03 19:34:33 (332 KB/s) - ‘sww027’ saved [82235/82235]
+
+--2017-02-03 19:34:34--  http://doi.org/10.1093/sw/sww020
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww020 [following]
+--2017-02-03 19:34:35--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww020
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 107022 (105K) [text/html]
+Saving to: ‘sww020’
+
+     0K .......... .......... .......... .......... .......... 47%  207K 0s
+    50K .......... .......... .......... .......... .......... 95%  609K 0s
+   100K ....                                                  100% 8609G=0.3s
+
+2017-02-03 19:34:38 (323 KB/s) - ‘sww020’ saved [107022/107022]
+
+--2017-02-03 19:34:39--  http://doi.org/10.1093/sw/sww023
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww023 [following]
+--2017-02-03 19:34:40--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 199277 (195K) [text/html]
+Saving to: ‘sww023’
+
+     0K .......... .......... .......... .......... .......... 25%  209K 1s
+    50K .......... .......... .......... .......... .......... 51%  613K 0s
+   100K .......... .......... .......... .......... .......... 77%  591K 0s
+   150K .......... .......... .......... .......... ....      100%  549K=0.5s
+
+2017-02-03 19:34:44 (400 KB/s) - ‘sww023’ saved [199277/199277]
+
+--2017-02-03 19:34:45--  http://doi.org/10.1093/sw/sww022
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww022 [following]
+--2017-02-03 19:34:46--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww022
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73914 (72K) [text/html]
+Saving to: ‘sww022’
+
+     0K .......... .......... .......... .......... .......... 69%  209K 0s
+    50K .......... .......... ..                              100% 7.45M=0.2s
+
+2017-02-03 19:34:49 (298 KB/s) - ‘sww022’ saved [73914/73914]
+
+--2017-02-03 19:34:50--  http://doi.org/10.1093/sw/sww021
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww021 [following]
+--2017-02-03 19:34:51--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 191804 (187K) [text/html]
+Saving to: ‘sww021’
+
+     0K .......... .......... .......... .......... .......... 26%  209K 1s
+    50K .......... .......... .......... .......... .......... 53%  610K 0s
+   100K .......... .......... .......... .......... .......... 80%  607K 0s
+   150K .......... .......... .......... .......              100%  459K=0.5s
+
+2017-02-03 19:34:56 (386 KB/s) - ‘sww021’ saved [191804/191804]
+
+--2017-02-03 19:34:57--  http://doi.org/10.1093/sw/sww018
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww018 [following]
+--2017-02-03 19:34:59--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww018
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 164668 (161K) [text/html]
+Saving to: ‘sww018’
+
+     0K .......... .......... .......... .......... .......... 31%  209K 1s
+    50K .......... .......... .......... .......... .......... 62%  606K 0s
+   100K .......... .......... .......... .......... .......... 93%  609K 0s
+   150K ..........                                            100% 8.14M=0.4s
+
+2017-02-03 19:35:03 (397 KB/s) - ‘sww018’ saved [164668/164668]
+
+--2017-02-03 19:35:04--  http://doi.org/10.1093/sw/swv058
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/swv058 [following]
+--2017-02-03 19:35:06--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/swv058
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 19:35:07 ERROR 400: Bad Request.
+
+--2017-02-03 19:35:08--  http://doi.org/10.1093/sw/swv060
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/swv060 [following]
+--2017-02-03 19:35:09--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/swv060
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 19:35:10 ERROR 400: Bad Request.
+
+--2017-02-03 19:35:11--  http://doi.org/10.1093/sw/swv064
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/swv064 [following]
+--2017-02-03 19:35:12--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/swv064
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63036 (62K) [text/html]
+Saving to: ‘swv064’
+
+     0K .......... .......... .......... .......... .......... 81%  209K 0s
+    50K .......... .                                          100% 24.4M=0.2s
+
+2017-02-03 19:35:16 (257 KB/s) - ‘swv064’ saved [63036/63036]
+
+--2017-02-03 19:35:17--  http://doi.org/10.1093/sw/swv062
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/swv062 [following]
+--2017-02-03 19:35:18--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/swv062
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63227 (62K) [text/html]
+Saving to: ‘swv062’
+
+     0K .......... .......... .......... .......... .......... 80%  208K 0s
+    50K .......... .                                          100% 19.3M=0.2s
+
+2017-02-03 19:35:25 (256 KB/s) - ‘swv062’ saved [63227/63227]
+
+--2017-02-03 19:35:26--  http://doi.org/10.1093/sw/sww007
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww007 [following]
+--2017-02-03 19:35:27--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 205305 (200K) [text/html]
+Saving to: ‘sww007’
+
+     0K .......... .......... .......... .......... .......... 24%  209K 1s
+    50K .......... .......... .......... .......... .......... 49%  614K 0s
+   100K .......... .......... .......... .......... .......... 74%  602K 0s
+   150K .......... .......... .......... .......... .......... 99%  315K 0s
+   200K                                                       100%  941G=0.6s
+
+2017-02-03 19:35:32 (356 KB/s) - ‘sww007’ saved [205305/205305]
+
+--2017-02-03 19:35:33--  http://doi.org/10.1093/sw/sww005
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww005 [following]
+--2017-02-03 19:35:34--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 19:35:38 ERROR 400: Bad Request.
+
+--2017-02-03 19:35:39--  http://doi.org/10.1093/sw/sww009
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww009 [following]
+--2017-02-03 19:35:40--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 19:35:41 ERROR 400: Bad Request.
+
+--2017-02-03 19:35:42--  http://doi.org/10.1093/sw/sww017
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww017 [following]
+--2017-02-03 19:35:43--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 182542 (178K) [text/html]
+Saving to: ‘sww017’
+
+     0K .......... .......... .......... .......... .......... 28%  209K 1s
+    50K .......... .......... .......... .......... .......... 56%  602K 0s
+   100K .......... .......... .......... .......... .......... 84%  607K 0s
+   150K .......... .......... ........                        100%  354K=0.5s
+
+2017-02-03 19:36:08 (368 KB/s) - ‘sww017’ saved [182542/182542]
+
+--2017-02-03 19:36:09--  http://doi.org/10.1093/sw/sww014
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww014 [following]
+--2017-02-03 19:36:10--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww014
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79330 (77K) [text/html]
+Saving to: ‘sww014’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... .......                         100% 13.2M=0.2s
+
+2017-02-03 19:36:15 (321 KB/s) - ‘sww014’ saved [79330/79330]
+
+--2017-02-03 19:36:16--  http://doi.org/10.1093/sw/sww015
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww015 [following]
+--2017-02-03 19:36:17--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 96460 (94K) [text/html]
+Saving to: ‘sww015’
+
+     0K .......... .......... .......... .......... .......... 53%  209K 0s
+    50K .......... .......... .......... .......... ....      100%  553K=0.3s
+
+2017-02-03 19:36:21 (295 KB/s) - ‘sww015’ saved [96460/96460]
+
+--2017-02-03 19:36:22--  http://doi.org/10.1093/sw/sww016
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww016 [following]
+--2017-02-03 19:36:23--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww016
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 70842 (69K) [text/html]
+Saving to: ‘sww016’
+
+     0K .......... .......... .......... .......... .......... 72%  209K 0s
+    50K .......... .........                                  100% 18.3M=0.2s
+
+2017-02-03 19:36:29 (288 KB/s) - ‘sww016’ saved [70842/70842]
+
+--2017-02-03 19:36:30--  http://doi.org/10.1093/sw/sww013
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww013 [following]
+--2017-02-03 19:36:31--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 95028 (93K) [text/html]
+Saving to: ‘sww013’
+
+     0K .......... .......... .......... .......... .......... 53%  208K 0s
+    50K .......... .......... .......... .......... ..        100%  531K=0.3s
+
+2017-02-03 19:36:35 (290 KB/s) - ‘sww013’ saved [95028/95028]
+
+--2017-02-03 19:36:36--  http://doi.org/10.1093/sw/sww012
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww012 [following]
+--2017-02-03 19:36:37--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 100031 (98K) [text/html]
+Saving to: ‘sww012’
+
+     0K .......... .......... .......... .......... .......... 51%  209K 0s
+    50K .......... .......... .......... .......... .......   100%  589K=0.3s
+
+2017-02-03 19:36:42 (305 KB/s) - ‘sww012’ saved [100031/100031]
+
+--2017-02-03 19:36:43--  http://doi.org/10.1093/sw/sww011
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww011 [following]
+--2017-02-03 19:36:44--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 121219 (118K) [text/html]
+Saving to: ‘sww011’
+
+     0K .......... .......... .......... .......... .......... 42%  209K 0s
+    50K .......... .......... .......... .......... .......... 84%  606K 0s
+   100K .......... ........                                   100% 20.9M=0.3s
+
+2017-02-03 19:36:50 (367 KB/s) - ‘sww011’ saved [121219/121219]
+
+--2017-02-03 19:36:51--  http://doi.org/10.1093/sw/sww010
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww010 [following]
+--2017-02-03 19:36:52--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 216296 (211K) [text/html]
+Saving to: ‘sww010’
+
+     0K .......... .......... .......... .......... .......... 23%  309K 1s
+    50K .......... .......... .......... .......... .......... 47%  314K 0s
+   100K .......... .......... .......... .......... .......... 71%  600K 0s
+   150K .......... .......... .......... .......... .......... 94%  318K 0s
+   200K .......... .                                          100% 4.57M=0.6s
+
+2017-02-03 19:36:56 (374 KB/s) - ‘sww010’ saved [216296/216296]
+
+--2017-02-03 19:36:57--  http://doi.org/10.1093/sw/sww003
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww003 [following]
+--2017-02-03 19:36:58--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 19:37:00 ERROR 400: Bad Request.
+
+--2017-02-03 19:37:01--  http://doi.org/10.1093/sw/sww006
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww006 [following]
+--2017-02-03 19:37:02--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 118181 (115K) [text/html]
+Saving to: ‘sww006’
+
+     0K .......... .......... .......... .......... .......... 43%  209K 0s
+    50K .......... .......... .......... .......... .......... 86%  607K 0s
+   100K .......... .....                                      100% 21.0M=0.3s
+
+2017-02-03 19:37:06 (358 KB/s) - ‘sww006’ saved [118181/118181]
+
+--2017-02-03 19:37:07--  http://doi.org/10.1093/sw/sww008
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww008 [following]
+--2017-02-03 19:37:09--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 139622 (136K) [text/html]
+Saving to: ‘sww008’
+
+     0K .......... .......... .......... .......... .......... 36%  209K 0s
+    50K .......... .......... .......... .......... .......... 73%  605K 0s
+   100K .......... .......... .......... ......               100%  458K=0.4s
+
+2017-02-03 19:37:13 (340 KB/s) - ‘sww008’ saved [139622/139622]
+
+--2017-02-03 19:37:14--  http://doi.org/10.1093/sw/sww001
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww001 [following]
+--2017-02-03 19:37:15--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 19:37:16 ERROR 400: Bad Request.
+
+--2017-02-03 19:37:17--  http://doi.org/10.1093/sw/sww002
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww002 [following]
+--2017-02-03 19:37:18--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 100485 (98K) [text/html]
+Saving to: ‘sww002’
+
+     0K .......... .......... .......... .......... .......... 50%  209K 0s
+    50K .......... .......... .......... .......... ........  100%  591K=0.3s
+
+2017-02-03 19:37:22 (306 KB/s) - ‘sww002’ saved [100485/100485]
+
+--2017-02-03 19:37:23--  http://doi.org/10.1093/sw/sww004
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww004 [following]
+--2017-02-03 19:37:24--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/sww004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72774 (71K) [text/html]
+Saving to: ‘sww004’
+
+     0K .......... .......... .......... .......... .......... 70%  209K 0s
+    50K .......... .......... .                               100% 13.7M=0.2s
+
+2017-02-03 19:37:29 (295 KB/s) - ‘sww004’ saved [72774/72774]
+
+--2017-02-03 19:37:30--  http://doi.org/10.1093/sw/swv063
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/swv063 [following]
+--2017-02-03 19:37:31--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/swv063
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63040 (62K) [text/html]
+Saving to: ‘swv063’
+
+     0K .......... .......... .......... .......... .......... 81%  207K 0s
+    50K .......... .                                          100% 21.6M=0.2s
+
+2017-02-03 19:37:34 (254 KB/s) - ‘swv063’ saved [63040/63040]
+
+--2017-02-03 19:37:35--  http://doi.org/10.1093/sw/swv057
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/swv057 [following]
+--2017-02-03 19:37:36--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/swv057
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63112 (62K) [text/html]
+Saving to: ‘swv057’
+
+     0K .......... .......... .......... .......... .......... 81%  208K 0s
+    50K .......... .                                          100% 14.3M=0.2s
+
+2017-02-03 19:37:40 (256 KB/s) - ‘swv057’ saved [63112/63112]
+
+--2017-02-03 19:37:41--  http://doi.org/10.1093/sw/swv059
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/swv059 [following]
+--2017-02-03 19:37:42--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/swv059
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63154 (62K) [text/html]
+Saving to: ‘swv059’
+
+     0K .......... .......... .......... .......... .......... 81%  209K 0s
+    50K .......... .                                          100% 22.3M=0.2s
+
+2017-02-03 19:37:48 (257 KB/s) - ‘swv059’ saved [63154/63154]
+
+--2017-02-03 19:37:49--  http://doi.org/10.1093/sw/swv061
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/swv061 [following]
+--2017-02-03 19:37:50--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/swv061
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63231 (62K) [text/html]
+Saving to: ‘swv061’
+
+     0K .......... .......... .......... .......... .......... 80%  209K 0s
+    50K .......... .                                          100% 24.6M=0.2s
+
+2017-02-03 19:37:55 (257 KB/s) - ‘swv061’ saved [63231/63231]
+
+--2017-02-03 19:37:56--  http://doi.org/10.1093/sw/swv055
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/swv055 [following]
+--2017-02-03 19:37:57--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/swv055
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 19:37:57 ERROR 400: Bad Request.
+
+--2017-02-03 19:37:58--  http://doi.org/10.1093/sw/swv054
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/swv054 [following]
+--2017-02-03 19:38:00--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/swv054
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 19:38:00 ERROR 400: Bad Request.
+
+--2017-02-03 19:38:01--  http://doi.org/10.1093/sw/swv053
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/swv053 [following]
+--2017-02-03 19:38:02--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/swv053
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 19:38:04 ERROR 400: Bad Request.
+
+--2017-02-03 19:38:05--  http://doi.org/10.1093/sw/swv056
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/swv056 [following]
+--2017-02-03 19:38:06--  https://academic.oup.com/sw/article-lookup/doi/10.1093/sw/swv056
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 168554 (165K) [text/html]
+Saving to: ‘swv056’
+
+     0K .......... .......... .......... .......... .......... 30%  209K 1s
+    50K .......... .......... .......... .......... .......... 60%  609K 0s
+   100K .......... .......... .......... .......... .......... 91%  610K 0s
+   150K .......... ....                                       100%  190K=0.5s
+
+2017-02-03 19:38:11 (343 KB/s) - ‘swv056’ saved [168554/168554]
+
+FINISHED --2017-02-03 19:38:11--
+Total wall clock time: 10m 12s
+Downloaded: 84 files, 9.3M in 28s (339 KB/s)

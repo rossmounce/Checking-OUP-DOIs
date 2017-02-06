@@ -1,0 +1,1764 @@
+--2017-02-02 19:34:37--  http://doi.org/10.1093/heapol/czw170
+Resolving doi.org (doi.org)... 95.138.171.129, 54.191.229.235, 38.100.138.162, ...
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://heapol.oxfordjournals.org/lookup/doi/10.1093/heapol/czw170 [following]
+--2017-02-02 19:34:38--  http://heapol.oxfordjournals.org/lookup/doi/10.1093/heapol/czw170
+Resolving heapol.oxfordjournals.org (heapol.oxfordjournals.org)... 209.135.222.209
+Connecting to heapol.oxfordjournals.org (heapol.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from heapol.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/heapol/article/doi/10.1093/heapol/czw170/2957092/Evaluating-the-effect-of-integrated-microfinance [following]
+--2017-02-02 19:34:39--  https://academic.oup.com/heapol/article/doi/10.1093/heapol/czw170/2957092/Evaluating-the-effect-of-integrated-microfinance
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 462962 (452K) [text/html]
+Saving to: ‘czw170’
+
+     0K .......... .......... .......... .......... .......... 11%  308K 1s
+    50K .......... .......... .......... .......... .......... 22%  311K 1s
+   100K .......... .......... .......... .......... .......... 33%  608K 1s
+   150K .......... .......... .......... .......... .......... 44%  609K 1s
+   200K .......... .......... .......... .......... .......... 55%  301K 1s
+   250K .......... .......... .......... .......... .......... 66%  309K 0s
+   300K .......... .......... .......... .......... .......... 77%  609K 0s
+   350K .......... .......... .......... .......... .......... 88%  307K 0s
+   400K .......... .......... .......... .......... .......... 99%  611K 0s
+   450K ..                                                    100% 4027G=1.1s
+
+2017-02-02 19:34:45 (396 KB/s) - ‘czw170’ saved [462962/462962]
+
+--2017-02-02 19:34:46--  http://doi.org/10.1093/heapol/czx001
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://heapol.oxfordjournals.org/lookup/doi/10.1093/heapol/czx001 [following]
+--2017-02-02 19:34:47--  http://heapol.oxfordjournals.org/lookup/doi/10.1093/heapol/czx001
+Connecting to heapol.oxfordjournals.org (heapol.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from heapol.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/heapol/article/32/1/F1/2953673/Resumes-dans-ce-numero [following]
+--2017-02-02 19:34:48--  https://academic.oup.com/heapol/article/32/1/F1/2953673/Resumes-dans-ce-numero
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71841 (70K) [text/html]
+Saving to: ‘czx001’
+
+     0K .......... .......... .......... .......... .......... 71%  207K 0s
+    50K .......... ..........                                 100% 14.8M=0.2s
+
+2017-02-02 19:35:04 (290 KB/s) - ‘czx001’ saved [71841/71841]
+
+--2017-02-02 19:35:05--  http://doi.org/10.1093/heapol/czx002
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://heapol.oxfordjournals.org/lookup/doi/10.1093/heapol/czx002 [following]
+--2017-02-02 19:35:06--  http://heapol.oxfordjournals.org/lookup/doi/10.1093/heapol/czx002
+Connecting to heapol.oxfordjournals.org (heapol.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from heapol.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/heapol/article/32/1/S1/2953674/Resumenes-en-esta-edicion [following]
+--2017-02-02 19:35:07--  https://academic.oup.com/heapol/article/32/1/S1/2953674/Resumenes-en-esta-edicion
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71764 (70K) [text/html]
+Saving to: ‘czx002’
+
+     0K .......... .......... .......... .......... .......... 71%  207K 0s
+    50K .......... ..........                                 100% 11.3M=0.2s
+
+2017-02-02 19:35:10 (288 KB/s) - ‘czx002’ saved [71764/71764]
+
+--2017-02-02 19:35:11--  http://doi.org/10.1093/heapol/czw161
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw161 [following]
+--2017-02-02 19:35:12--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw161
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 283084 (276K) [text/html]
+Saving to: ‘czw161’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 36%  610K 1s
+   100K .......... .......... .......... .......... .......... 54%  599K 0s
+   150K .......... .......... .......... .......... .......... 72%  601K 0s
+   200K .......... .......... .......... .......... .......... 90%  313K 0s
+   250K .......... .......... ......                          100% 10.5M=0.7s
+
+2017-02-02 19:35:17 (425 KB/s) - ‘czw161’ saved [283084/283084]
+
+--2017-02-02 19:35:18--  http://doi.org/10.1093/heapol/czw178
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw178 [following]
+--2017-02-02 19:35:20--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw178
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 243074 (237K) [text/html]
+Saving to: ‘czw178’
+
+     0K .......... .......... .......... .......... .......... 21%  209K 1s
+    50K .......... .......... .......... .......... .......... 42%  604K 0s
+   100K .......... .......... .......... .......... .......... 63%  611K 0s
+   150K .......... .......... .......... .......... .......... 84%  611K 0s
+   200K .......... .......... .......... .......              100%  462K=0.6s
+
+2017-02-02 19:35:23 (419 KB/s) - ‘czw178’ saved [243074/243074]
+
+--2017-02-02 19:35:24--  http://doi.org/10.1093/heapol/czw179
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://heapol.oxfordjournals.org/lookup/doi/10.1093/heapol/czw179 [following]
+--2017-02-02 19:35:25--  http://heapol.oxfordjournals.org/lookup/doi/10.1093/heapol/czw179
+Connecting to heapol.oxfordjournals.org (heapol.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from heapol.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/heapol/article/doi/10.1093/heapol/czw179/2931987/Comparative-effectiveness-of-two-disparate [following]
+--2017-02-02 19:35:27--  https://academic.oup.com/heapol/article/doi/10.1093/heapol/czw179/2931987/Comparative-effectiveness-of-two-disparate
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:35:27 ERROR 400: Bad Request.
+
+--2017-02-02 19:35:28--  http://doi.org/10.1093/heapol/czw177
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw177 [following]
+--2017-02-02 19:35:29--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw177
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 287697 (281K) [text/html]
+Saving to: ‘czw177’
+
+     0K .......... .......... .......... .......... .......... 17%  208K 1s
+    50K .......... .......... .......... .......... .......... 35%  606K 1s
+   100K .......... .......... .......... .......... .......... 53%  613K 0s
+   150K .......... .......... .......... .......... .......... 71%  602K 0s
+   200K .......... .......... .......... .......... .......... 88%  300K 0s
+   250K .......... .......... ..........                      100% 13.1M=0.7s
+
+2017-02-02 19:35:34 (428 KB/s) - ‘czw177’ saved [287697/287697]
+
+--2017-02-02 19:35:35--  http://doi.org/10.1093/heapol/czw168
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw168 [following]
+--2017-02-02 19:35:36--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw168
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 359523 (351K) [text/html]
+Saving to: ‘czw168’
+
+     0K .......... .......... .......... .......... .......... 14%  208K 1s
+    50K .......... .......... .......... .......... .......... 28%  610K 1s
+   100K .......... .......... .......... .......... .......... 42%  600K 1s
+   150K .......... .......... .......... .......... .......... 56%  598K 0s
+   200K .......... .......... .......... .......... .......... 71%  318K 0s
+   250K .......... .......... .......... .......... .......... 85%  603K 0s
+   300K .......... .......... .......... .......... .......... 99%  590K 0s
+   350K .                                                     100% 2092G=0.8s
+
+2017-02-02 19:35:44 (431 KB/s) - ‘czw168’ saved [359523/359523]
+
+--2017-02-02 19:35:45--  http://doi.org/10.1093/heapol/czw155
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw155 [following]
+--2017-02-02 19:35:46--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw155
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 263931 (258K) [text/html]
+Saving to: ‘czw155’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 38%  602K 1s
+   100K .......... .......... .......... .......... .......... 58%  607K 0s
+   150K .......... .......... .......... .......... .......... 77%  602K 0s
+   200K .......... .......... .......... .......... .......... 96%  316K 0s
+   250K .......                                               100% 42.3M=0.6s
+
+2017-02-02 19:35:51 (399 KB/s) - ‘czw155’ saved [263931/263931]
+
+--2017-02-02 19:35:52--  http://doi.org/10.1093/heapol/czw162
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw162 [following]
+--2017-02-02 19:35:53--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw162
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 363428 (355K) [text/html]
+Saving to: ‘czw162’
+
+     0K .......... .......... .......... .......... .......... 14%  209K 1s
+    50K .......... .......... .......... .......... .......... 28%  609K 1s
+   100K .......... .......... .......... .......... .......... 42%  597K 1s
+   150K .......... .......... .......... .......... .......... 56%  436K 0s
+   200K .......... .......... .......... .......... .......... 70%  389K 0s
+   250K .......... .......... .......... .......... .......... 84%  606K 0s
+   300K .......... .......... .......... .......... .......... 98%  606K 0s
+   350K ....                                                  100% 19.9M=0.8s
+
+2017-02-02 19:35:57 (436 KB/s) - ‘czw162’ saved [363428/363428]
+
+--2017-02-02 19:35:58--  http://doi.org/10.1093/heapol/czw159
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw159 [following]
+--2017-02-02 19:35:59--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw159
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:36:00 ERROR 400: Bad Request.
+
+--2017-02-02 19:36:01--  http://doi.org/10.1093/heapol/czw166
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw166 [following]
+--2017-02-02 19:36:02--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw166
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 211960 (207K) [text/html]
+Saving to: ‘czw166’
+
+     0K .......... .......... .......... .......... .......... 24%  209K 1s
+    50K .......... .......... .......... .......... .......... 48%  607K 0s
+   100K .......... .......... .......... .......... .......... 72%  608K 0s
+   150K .......... .......... .......... .......... .......... 96%  318K 0s
+   200K ......                                                100% 8.77M=0.6s
+
+2017-02-02 19:36:08 (368 KB/s) - ‘czw166’ saved [211960/211960]
+
+--2017-02-02 19:36:09--  http://doi.org/10.1093/heapol/czw165
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw165 [following]
+--2017-02-02 19:36:10--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw165
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:36:12 ERROR 400: Bad Request.
+
+--2017-02-02 19:36:13--  http://doi.org/10.1093/heapol/czx012
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-02 19:36:14--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Resolving fdslive.oup.com (fdslive.oup.com)... 193.67.160.201
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘czx012’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-02 19:36:14 (1.32 MB/s) - ‘czx012’ saved [52438/52438]
+
+--2017-02-02 19:36:15--  http://doi.org/10.1093/heapol/czw169
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-02 19:36:16--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘czw169’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-02 19:36:16 (1.32 MB/s) - ‘czw169’ saved [52438/52438]
+
+--2017-02-02 19:36:17--  http://doi.org/10.1093/heapol/czw175
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-02 19:36:18--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘czw175’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-02 19:36:19 (1.33 MB/s) - ‘czw175’ saved [52438/52438]
+
+--2017-02-02 19:36:20--  http://doi.org/10.1093/heapol/czx004
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-02 19:36:21--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘czx004’
+
+     0K .......... .......... .......... .......... .......... 97% 1.27M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-02 19:36:21 (1.30 MB/s) - ‘czx004’ saved [52438/52438]
+
+--2017-02-02 19:36:22--  http://doi.org/10.1093/heapol/czx005
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-02 19:36:23--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘czx005’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-02 19:36:23 (1.32 MB/s) - ‘czx005’ saved [52438/52438]
+
+--2017-02-02 19:36:24--  http://doi.org/10.1093/heapol/czw183
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-02 19:36:25--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘czw183’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-02 19:36:25 (1.33 MB/s) - ‘czw183’ saved [52438/52438]
+
+--2017-02-02 19:36:26--  http://doi.org/10.1093/heapol/czx013
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-02 19:36:27--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘czx013’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-02 19:36:27 (1.19 MB/s) - ‘czx013’ saved [52438/52438]
+
+--2017-02-02 19:36:28--  http://doi.org/10.1093/heapol/czw180
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-02 19:36:29--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘czw180’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-02 19:36:29 (1.32 MB/s) - ‘czw180’ saved [52438/52438]
+
+--2017-02-02 19:36:30--  http://doi.org/10.1093/heapol/czx003
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-02 19:36:32--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘czx003’
+
+     0K .......... .......... .......... .......... .......... 97% 1.28M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-02 19:36:32 (1.31 MB/s) - ‘czx003’ saved [52438/52438]
+
+--2017-02-02 19:36:33--  http://doi.org/10.1093/heapol/czw184
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-02 19:36:34--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘czw184’
+
+     0K .......... .......... .......... .......... .......... 97% 1.28M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-02 19:36:35 (1.31 MB/s) - ‘czw184’ saved [52438/52438]
+
+--2017-02-02 19:36:36--  http://doi.org/10.1093/heapol/czx007
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-02 19:36:37--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘czx007’
+
+     0K .......... .......... .......... .......... .......... 97% 1.28M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-02 19:36:37 (1.31 MB/s) - ‘czx007’ saved [52438/52438]
+
+--2017-02-02 19:36:38--  http://doi.org/10.1093/heapol/czw182
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-02 19:36:39--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘czw182’
+
+     0K .......... .......... .......... .......... .......... 97%  841K 0s
+    50K .                                                     100% 2306G=0.06s
+
+2017-02-02 19:36:39 (861 KB/s) - ‘czw182’ saved [52438/52438]
+
+--2017-02-02 19:36:40--  http://doi.org/10.1093/heapol/czw164
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw164 [following]
+--2017-02-02 19:36:41--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw164
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 277297 (271K) [text/html]
+Saving to: ‘czw164’
+
+     0K .......... .......... .......... .......... .......... 18%  207K 1s
+    50K .......... .......... .......... .......... .......... 36%  610K 1s
+   100K .......... .......... .......... .......... .......... 55%  579K 0s
+   150K .......... .......... .......... .......... .......... 73%  306K 0s
+   200K .......... .......... .......... .......... .......... 92%  582K 0s
+   250K .......... ..........                                 100% 14.6M=0.7s
+
+2017-02-02 19:36:46 (410 KB/s) - ‘czw164’ saved [277297/277297]
+
+--2017-02-02 19:36:47--  http://doi.org/10.1093/heapol/czw157
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw157 [following]
+--2017-02-02 19:36:48--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw157
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 247079 (241K) [text/html]
+Saving to: ‘czw157’
+
+     0K .......... .......... .......... .......... .......... 20%  308K 1s
+    50K .......... .......... .......... .......... .......... 41%  314K 0s
+   100K .......... .......... .......... .......... .......... 62%  581K 0s
+   150K .......... .......... .......... .......... .......... 82%  319K 0s
+   200K .......... .......... .......... .......... .         100%  507K=0.6s
+
+2017-02-02 19:36:52 (374 KB/s) - ‘czw157’ saved [247079/247079]
+
+--2017-02-02 19:36:53--  http://doi.org/10.1093/heapol/czw163
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw163 [following]
+--2017-02-02 19:36:54--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw163
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68666 (67K) [text/html]
+Saving to: ‘czw163’
+
+     0K .......... .......... .......... .......... .......... 74%  209K 0s
+    50K .......... .......                                    100% 12.3M=0.2s
+
+2017-02-02 19:36:58 (279 KB/s) - ‘czw163’ saved [68666/68666]
+
+--2017-02-02 19:36:59--  http://doi.org/10.1093/heapol/czw160
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw160 [following]
+--2017-02-02 19:37:00--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw160
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 288657 (282K) [text/html]
+Saving to: ‘czw160’
+
+     0K .......... .......... .......... .......... .......... 17%  208K 1s
+    50K .......... .......... .......... .......... .......... 35%  602K 1s
+   100K .......... .......... .......... .......... .......... 53%  599K 0s
+   150K .......... .......... .......... .......... .......... 70%  609K 0s
+   200K .......... .......... .......... .......... .......... 88%  311K 0s
+   250K .......... .......... .......... .                    100% 7.64M=0.7s
+
+2017-02-02 19:37:05 (431 KB/s) - ‘czw160’ saved [288657/288657]
+
+--2017-02-02 19:37:06--  http://doi.org/10.1093/heapol/czw153
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw153 [following]
+--2017-02-02 19:37:07--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw153
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 347907 (340K) [text/html]
+Saving to: ‘czw153’
+
+     0K .......... .......... .......... .......... .......... 14%  208K 1s
+    50K .......... .......... .......... .......... .......... 29%  609K 1s
+   100K .......... .......... .......... .......... .......... 44%  601K 1s
+   150K .......... .......... .......... .......... .......... 58%  608K 0s
+   200K .......... .......... .......... .......... .......... 73%  312K 0s
+   250K .......... .......... .......... .......... .......... 88%  605K 0s
+   300K .......... .......... .......... .........            100%  490K=0.8s
+
+2017-02-02 19:37:12 (418 KB/s) - ‘czw153’ saved [347907/347907]
+
+--2017-02-02 19:37:13--  http://doi.org/10.1093/heapol/czw156
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw156 [following]
+--2017-02-02 19:37:14--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw156
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 204657 (200K) [text/html]
+Saving to: ‘czw156’
+
+     0K .......... .......... .......... .......... .......... 25%  309K 0s
+    50K .......... .......... .......... .......... .......... 50%  312K 0s
+   100K .......... .......... .......... .......... .......... 75%  609K 0s
+   150K .......... .......... .......... .......... ......... 100%  603K=0.5s
+
+2017-02-02 19:37:18 (411 KB/s) - ‘czw156’ saved [204657/204657]
+
+--2017-02-02 19:37:19--  http://doi.org/10.1093/heapol/czw154
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw154 [following]
+--2017-02-02 19:37:20--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw154
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 281692 (275K) [text/html]
+Saving to: ‘czw154’
+
+     0K .......... .......... .......... .......... .......... 18%  307K 1s
+    50K .......... .......... .......... .......... .......... 36%  312K 1s
+   100K .......... .......... .......... .......... .......... 54%  607K 0s
+   150K .......... .......... .......... .......... .......... 72%  596K 0s
+   200K .......... .......... .......... .......... .......... 90%  314K 0s
+   250K .......... .......... .....                           100% 6.92M=0.7s
+
+2017-02-02 19:37:24 (422 KB/s) - ‘czw154’ saved [281692/281692]
+
+--2017-02-02 19:37:25--  http://doi.org/10.1093/heapol/czw147
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw147 [following]
+--2017-02-02 19:37:26--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw147
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 355269 (347K) [text/html]
+Saving to: ‘czw147’
+
+     0K .......... .......... .......... .......... .......... 14%  309K 1s
+    50K .......... .......... .......... .......... .......... 28%  313K 1s
+   100K .......... .......... .......... .......... .......... 43%  587K 1s
+   150K .......... .......... .......... .......... .......... 57%  607K 0s
+   200K .......... .......... .......... .......... .......... 72%  324K 0s
+   250K .......... .......... .......... .......... .......... 86%  565K 0s
+   300K .......... .......... .......... .......... ......    100%  577K=0.8s
+
+2017-02-02 19:37:30 (427 KB/s) - ‘czw147’ saved [355269/355269]
+
+--2017-02-02 19:37:31--  http://doi.org/10.1093/heapol/czw105
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw105 [following]
+--2017-02-02 19:37:32--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw105
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 182994 (179K) [text/html]
+Saving to: ‘czw105’
+
+     0K .......... .......... .......... .......... .......... 27%  209K 1s
+    50K .......... .......... .......... .......... .......... 55%  609K 0s
+   100K .......... .......... .......... .......... .......... 83%  579K 0s
+   150K .......... .......... ........                        100%  380K=0.5s
+
+2017-02-02 19:37:36 (370 KB/s) - ‘czw105’ saved [182994/182994]
+
+--2017-02-02 19:37:37--  http://doi.org/10.1093/heapol/czw144
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw144 [following]
+--2017-02-02 19:37:38--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 380578 (372K) [text/html]
+Saving to: ‘czw144’
+
+     0K .......... .......... .......... .......... .......... 13%  306K 1s
+    50K .......... .......... .......... .......... .......... 26%  301K 1s
+   100K .......... .......... .......... .......... .......... 40%  607K 1s
+   150K .......... .......... .......... .......... .......... 53%  601K 0s
+   200K .......... .......... .......... .......... .......... 67%  305K 0s
+   250K .......... .......... .......... .......... .......... 80%  597K 0s
+   300K .......... .......... .......... .......... .......... 94%  597K 0s
+   350K .......... .......... .                               100%  269K=0.9s
+
+2017-02-02 19:37:42 (410 KB/s) - ‘czw144’ saved [380578/380578]
+
+--2017-02-02 19:37:43--  http://doi.org/10.1093/heapol/czw152
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw152 [following]
+--2017-02-02 19:37:44--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw152
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71735 (70K) [text/html]
+Saving to: ‘czw152’
+
+     0K .......... .......... .......... .......... .......... 71%  208K 0s
+    50K .......... ..........                                 100% 11.4M=0.2s
+
+2017-02-02 19:37:48 (290 KB/s) - ‘czw152’ saved [71735/71735]
+
+--2017-02-02 19:37:49--  http://doi.org/10.1093/heapol/czw151
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw151 [following]
+--2017-02-02 19:37:50--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw151
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71800 (70K) [text/html]
+Saving to: ‘czw151’
+
+     0K .......... .......... .......... .......... .......... 71%  209K 0s
+    50K .......... ..........                                 100% 5.03M=0.2s
+
+2017-02-02 19:37:57 (289 KB/s) - ‘czw151’ saved [71800/71800]
+
+--2017-02-02 19:37:58--  http://doi.org/10.1093/heapol/czw150
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw150 [following]
+--2017-02-02 19:37:59--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw150
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71665 (70K) [text/html]
+Saving to: ‘czw150’
+
+     0K .......... .......... .......... .......... .......... 71%  209K 0s
+    50K .......... .........                                  100% 10.9M=0.2s
+
+2017-02-02 19:38:02 (290 KB/s) - ‘czw150’ saved [71665/71665]
+
+--2017-02-02 19:38:03--  http://doi.org/10.1093/heapol/czw113
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw113 [following]
+--2017-02-02 19:38:04--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw113
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 278310 (272K) [text/html]
+Saving to: ‘czw113’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 36%  606K 1s
+   100K .......... .......... .......... .......... .......... 55%  581K 0s
+   150K .......... .......... .......... .......... .......... 73%  322K 0s
+   200K .......... .......... .......... .......... .......... 91%  588K 0s
+   250K .......... .......... .                               100% 7.51M=0.7s
+
+2017-02-02 19:38:09 (418 KB/s) - ‘czw113’ saved [278310/278310]
+
+--2017-02-02 19:38:10--  http://doi.org/10.1093/heapol/czw145
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw145 [following]
+--2017-02-02 19:38:11--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw145
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 215505 (210K) [text/html]
+Saving to: ‘czw145’
+
+     0K .......... .......... .......... .......... .......... 23%  209K 1s
+    50K .......... .......... .......... .......... .......... 47%  609K 0s
+   100K .......... .......... .......... .......... .......... 71%  604K 0s
+   150K .......... .......... .......... .......... .......... 95%  316K 0s
+   200K ..........                                            100% 5.20M=0.6s
+
+2017-02-02 19:38:16 (373 KB/s) - ‘czw145’ saved [215505/215505]
+
+--2017-02-02 19:38:17--  http://doi.org/10.1093/heapol/czw136
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw136 [following]
+--2017-02-02 19:38:18--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw136
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71636 (70K) [text/html]
+Saving to: ‘czw136’
+
+     0K .......... .......... .......... .......... .......... 71%  209K 0s
+    50K .......... .........                                  100% 13.7M=0.2s
+
+2017-02-02 19:38:22 (290 KB/s) - ‘czw136’ saved [71636/71636]
+
+--2017-02-02 19:38:23--  http://doi.org/10.1093/heapol/czw137
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw137 [following]
+--2017-02-02 19:38:24--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw137
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71765 (70K) [text/html]
+Saving to: ‘czw137’
+
+     0K .......... .......... .......... .......... .......... 71%  209K 0s
+    50K .......... ..........                                 100% 5.97M=0.2s
+
+2017-02-02 19:38:30 (289 KB/s) - ‘czw137’ saved [71765/71765]
+
+--2017-02-02 19:38:31--  http://doi.org/10.1093/heapol/czw138
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw138 [following]
+--2017-02-02 19:38:32--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw138
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71701 (70K) [text/html]
+Saving to: ‘czw138’
+
+     0K .......... .......... .......... .......... .......... 71%  309K 0s
+    50K .......... ..........                                 100%  251K=0.2s
+
+2017-02-02 19:38:40 (290 KB/s) - ‘czw138’ saved [71701/71701]
+
+--2017-02-02 19:38:41--  http://doi.org/10.1093/heapol/czw146
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw146 [following]
+--2017-02-02 19:38:42--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw146
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 98506 (96K) [text/html]
+Saving to: ‘czw146’
+
+     0K .......... .......... .......... .......... .......... 51%  309K 0s
+    50K .......... .......... .......... .......... ......    100%  292K=0.3s
+
+2017-02-02 19:38:46 (300 KB/s) - ‘czw146’ saved [98506/98506]
+
+--2017-02-02 19:38:47--  http://doi.org/10.1093/heapol/czw142
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw142 [following]
+--2017-02-02 19:38:48--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw142
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:38:49 ERROR 400: Bad Request.
+
+--2017-02-02 19:38:50--  http://doi.org/10.1093/heapol/czw143
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw143 [following]
+--2017-02-02 19:38:51--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw143
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 304212 (297K) [text/html]
+Saving to: ‘czw143’
+
+     0K .......... .......... .......... .......... .......... 16%  207K 1s
+    50K .......... .......... .......... .......... .......... 33%  594K 1s
+   100K .......... .......... .......... .......... .......... 50%  253K 1s
+   150K .......... .......... .......... .......... .......... 67%  315K 0s
+   200K .......... .......... .......... .......... .......... 84%  602K 0s
+   250K .......... .......... .......... .......... .......   100%  578K=0.8s
+
+2017-02-02 19:38:55 (351 KB/s) - ‘czw143’ saved [304212/304212]
+
+--2017-02-02 19:38:56--  http://doi.org/10.1093/heapol/czw141
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw141 [following]
+--2017-02-02 19:38:58--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw141
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 274095 (268K) [text/html]
+Saving to: ‘czw141’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 37%  613K 1s
+   100K .......... .......... .......... .......... .......... 56%  599K 0s
+   150K .......... .......... .......... .......... .......... 74%  608K 0s
+   200K .......... .......... .......... .......... .......... 93%  313K 0s
+   250K .......... .......                                    100% 23.0M=0.6s
+
+2017-02-02 19:39:04 (414 KB/s) - ‘czw141’ saved [274095/274095]
+
+--2017-02-02 19:39:05--  http://doi.org/10.1093/heapol/czw117
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw117 [following]
+--2017-02-02 19:39:06--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw117
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 219905 (215K) [text/html]
+Saving to: ‘czw117’
+
+     0K .......... .......... .......... .......... .......... 23%  208K 1s
+    50K .......... .......... .......... .......... .......... 46%  611K 0s
+   100K .......... .......... .......... .......... .......... 69%  572K 0s
+   150K .......... .......... .......... .......... .......... 93%  313K 0s
+   200K .......... ....                                       100% 9.32M=0.6s
+
+2017-02-02 19:39:13 (376 KB/s) - ‘czw117’ saved [219905/219905]
+
+--2017-02-02 19:39:14--  http://doi.org/10.1093/heapol/czw123
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw123 [following]
+--2017-02-02 19:39:16--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw123
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 236006 (230K) [text/html]
+Saving to: ‘czw123’
+
+     0K .......... .......... .......... .......... .......... 21%  208K 1s
+    50K .......... .......... .......... .......... .......... 43%  608K 0s
+   100K .......... .......... .......... .......... .......... 65%  613K 0s
+   150K .......... .......... .......... .......... .......... 86%  606K 0s
+   200K .......... .......... ..........                      100%  380K=0.6s
+
+2017-02-02 19:39:20 (406 KB/s) - ‘czw123’ saved [236006/236006]
+
+--2017-02-02 19:39:21--  http://doi.org/10.1093/heapol/czw140
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw140 [following]
+--2017-02-02 19:39:22--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw140
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 269029 (263K) [text/html]
+Saving to: ‘czw140’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 38%  602K 1s
+   100K .......... .......... .......... .......... .......... 57%  584K 0s
+   150K .......... .......... .......... .......... .......... 76%  610K 0s
+   200K .......... .......... .......... .......... .......... 95%  316K 0s
+   250K .......... ..                                         100% 22.0M=0.6s
+
+2017-02-02 19:39:26 (405 KB/s) - ‘czw140’ saved [269029/269029]
+
+--2017-02-02 19:39:27--  http://doi.org/10.1093/heapol/czw134
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw134 [following]
+--2017-02-02 19:39:28--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw134
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 257594 (252K) [text/html]
+Saving to: ‘czw134’
+
+     0K .......... .......... .......... .......... .......... 19%  308K 1s
+    50K .......... .......... .......... .......... .......... 39%  313K 0s
+   100K .......... .......... .......... .......... .......... 59%  603K 0s
+   150K .......... .......... .......... .......... .......... 79%  605K 0s
+   200K .......... .......... .......... .......... .......... 99%  315K 0s
+   250K .                                                     100% 2969G=0.6s
+
+2017-02-02 19:39:33 (389 KB/s) - ‘czw134’ saved [257594/257594]
+
+--2017-02-02 19:39:34--  http://doi.org/10.1093/heapol/czw131
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw131 [following]
+--2017-02-02 19:39:35--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw131
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 218137 (213K) [text/html]
+Saving to: ‘czw131’
+
+     0K .......... .......... .......... .......... .......... 23%  209K 1s
+    50K .......... .......... .......... .......... .......... 46%  608K 0s
+   100K .......... .......... .......... .......... .......... 70%  588K 0s
+   150K .......... .......... .......... .......... .......... 93%  324K 0s
+   200K .......... ...                                        100% 5.17M=0.6s
+
+2017-02-02 19:39:37 (378 KB/s) - ‘czw131’ saved [218137/218137]
+
+--2017-02-02 19:39:38--  http://doi.org/10.1093/heapol/czw135
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw135 [following]
+--2017-02-02 19:39:39--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw135
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 327631 (320K) [text/html]
+Saving to: ‘czw135’
+
+     0K .......... .......... .......... .......... .......... 15%  208K 1s
+    50K .......... .......... .......... .......... .......... 31%  606K 1s
+   100K .......... .......... .......... .......... .......... 46%  613K 0s
+   150K .......... .......... .......... .......... .......... 62%  312K 0s
+   200K .......... .......... .......... .......... .......... 78%  572K 0s
+   250K .......... .......... .......... .......... .......... 93%  604K 0s
+   300K .......... .........                                  100%  254K=0.8s
+
+2017-02-02 19:39:44 (394 KB/s) - ‘czw135’ saved [327631/327631]
+
+--2017-02-02 19:39:45--  http://doi.org/10.1093/heapol/czw133
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw133 [following]
+--2017-02-02 19:39:46--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw133
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 287936 (281K) [text/html]
+Saving to: ‘czw133’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 35%  602K 1s
+   100K .......... .......... .......... .......... .......... 53%  609K 0s
+   150K .......... .......... .......... .......... .......... 71%  315K 0s
+   200K .......... .......... .......... .......... .......... 88%  580K 0s
+   250K .......... .......... .......... .                    100%  398K=0.7s
+
+2017-02-02 19:39:50 (386 KB/s) - ‘czw133’ saved [287936/287936]
+
+--2017-02-02 19:39:51--  http://doi.org/10.1093/heapol/czw130
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw130 [following]
+--2017-02-02 19:39:52--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw130
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 269561 (263K) [text/html]
+Saving to: ‘czw130’
+
+     0K .......... .......... .......... .......... .......... 18%  206K 1s
+    50K .......... .......... .......... .......... .......... 37%  605K 1s
+   100K .......... .......... .......... .......... .......... 56%  610K 0s
+   150K .......... .......... .......... .......... .......... 75%  607K 0s
+   200K .......... .......... .......... .......... .......... 94%  306K 0s
+   250K .......... ...                                        100% 25.4M=0.7s
+
+2017-02-02 19:39:56 (403 KB/s) - ‘czw130’ saved [269561/269561]
+
+--2017-02-02 19:39:57--  http://doi.org/10.1093/heapol/czw132
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw132 [following]
+--2017-02-02 19:39:58--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw132
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 235903 (230K) [text/html]
+Saving to: ‘czw132’
+
+     0K .......... .......... .......... .......... .......... 21%  209K 1s
+    50K .......... .......... .......... .......... .......... 43%  597K 0s
+   100K .......... .......... .......... .......... .......... 65%  607K 0s
+   150K .......... .......... .......... .......... .......... 86%  609K 0s
+   200K .......... .......... ..........                      100%  375K=0.6s
+
+2017-02-02 19:40:04 (405 KB/s) - ‘czw132’ saved [235903/235903]
+
+--2017-02-02 19:40:05--  http://doi.org/10.1093/heapol/czw129
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw129 [following]
+--2017-02-02 19:40:06--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw129
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 209875 (205K) [text/html]
+Saving to: ‘czw129’
+
+     0K .......... .......... .......... .......... .......... 24%  209K 1s
+    50K .......... .......... .......... .......... .......... 48%  602K 0s
+   100K .......... .......... .......... .......... .......... 73%  612K 0s
+   150K .......... .......... .......... .......... .......... 97%  318K 0s
+   200K ....                                                  100% 11.4M=0.6s
+
+2017-02-02 19:40:11 (364 KB/s) - ‘czw129’ saved [209875/209875]
+
+--2017-02-02 19:40:12--  http://doi.org/10.1093/heapol/czw127
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw127 [following]
+--2017-02-02 19:40:13--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw127
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 184591 (180K) [text/html]
+Saving to: ‘czw127’
+
+     0K .......... .......... .......... .......... .......... 27%  209K 1s
+    50K .......... .......... .......... .......... .......... 55%  602K 0s
+   100K .......... .......... .......... .......... .......... 83%  607K 0s
+   150K .......... .......... ..........                      100%  383K=0.5s
+
+2017-02-02 19:40:17 (373 KB/s) - ‘czw127’ saved [184591/184591]
+
+--2017-02-02 19:40:18--  http://doi.org/10.1093/heapol/czw122
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw122 [following]
+--2017-02-02 19:40:19--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw122
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 272003 (266K) [text/html]
+Saving to: ‘czw122’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 37%  586K 1s
+   100K .......... .......... .......... .......... .......... 56%  613K 0s
+   150K .......... .......... .......... .......... .......... 75%  593K 0s
+   200K .......... .......... .......... .......... .......... 94%  317K 0s
+   250K .......... .....                                      100% 24.0M=0.6s
+
+2017-02-02 19:40:23 (409 KB/s) - ‘czw122’ saved [272003/272003]
+
+--2017-02-02 19:40:24--  http://doi.org/10.1093/heapol/czw128
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw128 [following]
+--2017-02-02 19:40:25--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw128
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:40:25 ERROR 400: Bad Request.
+
+--2017-02-02 19:40:26--  http://doi.org/10.1093/heapol/czw121
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw121 [following]
+--2017-02-02 19:40:27--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw121
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 208659 (204K) [text/html]
+Saving to: ‘czw121’
+
+     0K .......... .......... .......... .......... .......... 24%  309K 0s
+    50K .......... .......... .......... .......... .......... 49%  314K 0s
+   100K .......... .......... .......... .......... .......... 73%  603K 0s
+   150K .......... .......... .......... .......... .......... 98%  600K 0s
+   200K ...                                                   100% 15.4M=0.5s
+
+2017-02-02 19:40:31 (418 KB/s) - ‘czw121’ saved [208659/208659]
+
+--2017-02-02 19:40:32--  http://doi.org/10.1093/heapol/czw124
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw124 [following]
+--2017-02-02 19:40:33--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw124
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71761 (70K) [text/html]
+Saving to: ‘czw124’
+
+     0K .......... .......... .......... .......... .......... 71%  209K 0s
+    50K .......... ..........                                 100% 10.5M=0.2s
+
+2017-02-02 19:40:35 (290 KB/s) - ‘czw124’ saved [71761/71761]
+
+--2017-02-02 19:40:36--  http://doi.org/10.1093/heapol/czw126
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw126 [following]
+--2017-02-02 19:40:38--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw126
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71702 (70K) [text/html]
+Saving to: ‘czw126’
+
+     0K .......... .......... .......... .......... .......... 71%  309K 0s
+    50K .......... ..........                                 100%  254K=0.2s
+
+2017-02-02 19:40:41 (291 KB/s) - ‘czw126’ saved [71702/71702]
+
+--2017-02-02 19:40:42--  http://doi.org/10.1093/heapol/czw125
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw125 [following]
+--2017-02-02 19:40:43--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw125
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71634 (70K) [text/html]
+Saving to: ‘czw125’
+
+     0K .......... .......... .......... .......... .......... 71%  304K 0s
+    50K .......... .........                                  100%  253K=0.2s
+
+2017-02-02 19:40:47 (288 KB/s) - ‘czw125’ saved [71634/71634]
+
+--2017-02-02 19:40:48--  http://doi.org/10.1093/heapol/czw120
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw120 [following]
+--2017-02-02 19:40:49--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw120
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 236077 (231K) [text/html]
+Saving to: ‘czw120’
+
+     0K .......... .......... .......... .......... .......... 21%  209K 1s
+    50K .......... .......... .......... .......... .......... 43%  602K 0s
+   100K .......... .......... .......... .......... .......... 65%  586K 0s
+   150K .......... .......... .......... .......... .......... 86%  320K 0s
+   200K .......... .......... ..........                      100% 4.37M=0.6s
+
+2017-02-02 19:40:53 (404 KB/s) - ‘czw120’ saved [236077/236077]
+
+--2017-02-02 19:40:54--  http://doi.org/10.1093/heapol/czw114
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw114 [following]
+--2017-02-02 19:40:55--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw114
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:40:55 ERROR 400: Bad Request.
+
+--2017-02-02 19:40:56--  http://doi.org/10.1093/heapol/czw118
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw118 [following]
+--2017-02-02 19:40:57--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw118
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:40:59 ERROR 400: Bad Request.
+
+--2017-02-02 19:41:00--  http://doi.org/10.1093/heapol/czw107
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw107 [following]
+--2017-02-02 19:41:01--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw107
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:41:01 ERROR 400: Bad Request.
+
+--2017-02-02 19:41:02--  http://doi.org/10.1093/heapol/czw115
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw115 [following]
+--2017-02-02 19:41:04--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw115
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 305493 (298K) [text/html]
+Saving to: ‘czw115’
+
+     0K .......... .......... .......... .......... .......... 16%  209K 1s
+    50K .......... .......... .......... .......... .......... 33%  601K 1s
+   100K .......... .......... .......... .......... .......... 50%  603K 0s
+   150K .......... .......... .......... .......... .......... 67%  321K 0s
+   200K .......... .......... .......... .......... .......... 83%  591K 0s
+   250K .......... .......... .......... .......... ........  100%  595K=0.7s
+
+2017-02-02 19:41:08 (410 KB/s) - ‘czw115’ saved [305493/305493]
+
+--2017-02-02 19:41:09--  http://doi.org/10.1093/heapol/czw017
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw017 [following]
+--2017-02-02 19:41:10--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 280034 (273K) [text/html]
+Saving to: ‘czw017’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 36%  605K 1s
+   100K .......... .......... .......... .......... .......... 54%  611K 0s
+   150K .......... .......... .......... .......... .......... 73%  313K 0s
+   200K .......... .......... .......... .......... .......... 91%  602K 0s
+   250K .......... .......... ...                             100% 7.67M=0.6s
+
+2017-02-02 19:41:14 (421 KB/s) - ‘czw017’ saved [280034/280034]
+
+--2017-02-02 19:41:15--  http://doi.org/10.1093/heapol/czv124
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czv124 [following]
+--2017-02-02 19:41:17--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czv124
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 354382 (346K) [text/html]
+Saving to: ‘czv124’
+
+     0K .......... .......... .......... .......... .......... 14%  209K 1s
+    50K .......... .......... .......... .......... .......... 28%  609K 1s
+   100K .......... .......... .......... .......... .......... 43%  612K 1s
+   150K .......... .......... .......... .......... .......... 57%  603K 0s
+   200K .......... .......... .......... .......... .......... 72%  311K 0s
+   250K .......... .......... .......... .......... .......... 86%  611K 0s
+   300K .......... .......... .......... .......... ......    100%  565K=0.8s
+
+2017-02-02 19:41:21 (427 KB/s) - ‘czv124’ saved [354382/354382]
+
+--2017-02-02 19:41:22--  http://doi.org/10.1093/heapol/czw082
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw082 [following]
+--2017-02-02 19:41:23--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw082
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 243507 (238K) [text/html]
+Saving to: ‘czw082’
+
+     0K .......... .......... .......... .......... .......... 21%  208K 1s
+    50K .......... .......... .......... .......... .......... 42%  613K 0s
+   100K .......... .......... .......... .......... .......... 63%  580K 0s
+   150K .......... .......... .......... .......... .......... 84%  612K 0s
+   200K .......... .......... .......... .......              100%  464K=0.6s
+
+2017-02-02 19:41:26 (416 KB/s) - ‘czw082’ saved [243507/243507]
+
+--2017-02-02 19:41:27--  http://doi.org/10.1093/heapol/czw103
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw103 [following]
+--2017-02-02 19:41:28--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw103
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:41:29 ERROR 400: Bad Request.
+
+--2017-02-02 19:41:30--  http://doi.org/10.1093/heapol/czv117
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czv117 [following]
+--2017-02-02 19:41:31--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czv117
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 255510 (250K) [text/html]
+Saving to: ‘czv117’
+
+     0K .......... .......... .......... .......... .......... 20%  209K 1s
+    50K .......... .......... .......... .......... .......... 40%  609K 0s
+   100K .......... .......... .......... .......... .......... 60%  608K 0s
+   150K .......... .......... .......... .......... .......... 80%  418K 0s
+   200K .......... .......... .......... .......... ......... 100%  603K=0.6s
+
+2017-02-02 19:41:35 (412 KB/s) - ‘czv117’ saved [255510/255510]
+
+--2017-02-02 19:41:36--  http://doi.org/10.1093/heapol/czw116
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw116 [following]
+--2017-02-02 19:41:37--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw116
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 284523 (278K) [text/html]
+Saving to: ‘czw116’
+
+     0K .......... .......... .......... .......... .......... 17%  208K 1s
+    50K .......... .......... .......... .......... .......... 35%  599K 1s
+   100K .......... .......... .......... .......... .......... 53%  610K 0s
+   150K .......... .......... .......... .......... .......... 71%  312K 0s
+   200K .......... .......... .......... .......... .......... 89%  460K 0s
+   250K .......... .......... .......                         100%  403K=0.7s
+
+2017-02-02 19:41:41 (373 KB/s) - ‘czw116’ saved [284523/284523]
+
+--2017-02-02 19:41:42--  http://doi.org/10.1093/heapol/czw108
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw108 [following]
+--2017-02-02 19:41:44--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw108
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 370615 (362K) [text/html]
+Saving to: ‘czw108’
+
+     0K .......... .......... .......... .......... .......... 13%  308K 1s
+    50K .......... .......... .......... .......... .......... 27%  313K 1s
+   100K .......... .......... .......... .......... .......... 41%  604K 1s
+   150K .......... .......... .......... .......... .......... 55%  318K 0s
+   200K .......... .......... .......... .......... .......... 69%  599K 0s
+   250K .......... .......... .......... .......... .......... 82%  599K 0s
+   300K .......... .......... .......... .......... .......... 96%  318K 0s
+   350K .......... .                                          100% 6.22M=0.9s
+
+2017-02-02 19:41:48 (408 KB/s) - ‘czw108’ saved [370615/370615]
+
+--2017-02-02 19:41:49--  http://doi.org/10.1093/heapol/czw109
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw109 [following]
+--2017-02-02 19:41:50--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw109
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 325218 (318K) [text/html]
+Saving to: ‘czw109’
+
+     0K .......... .......... .......... .......... .......... 15%  209K 1s
+    50K .......... .......... .......... .......... .......... 31%  602K 1s
+   100K .......... .......... .......... .......... .......... 47%  614K 0s
+   150K .......... .......... .......... .......... .......... 62%  606K 0s
+   200K .......... .......... .......... .......... .......... 78%  310K 0s
+   250K .......... .......... .......... .......... .......... 94%  610K 0s
+   300K .......... .......                                    100% 11.5M=0.7s
+
+2017-02-02 19:41:55 (434 KB/s) - ‘czw109’ saved [325218/325218]
+
+--2017-02-02 19:41:56--  http://doi.org/10.1093/heapol/czw104
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw104 [following]
+--2017-02-02 19:41:57--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw104
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 257257 (251K) [text/html]
+Saving to: ‘czw104’
+
+     0K .......... .......... .......... .......... .......... 19%  208K 1s
+    50K .......... .......... .......... .......... .......... 39%  609K 0s
+   100K .......... .......... .......... .......... .......... 59%  605K 0s
+   150K .......... .......... .......... .......... .......... 79%  608K 0s
+   200K .......... .......... .......... .......... .......... 99%  316K 0s
+   250K .                                                     100% 2341G=0.6s
+
+2017-02-02 19:42:01 (389 KB/s) - ‘czw104’ saved [257257/257257]
+
+--2017-02-02 19:42:02--  http://doi.org/10.1093/heapol/czw100
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://heapol.oxfordjournals.org/lookup/doi/10.1093/heapol/czw100 [following]
+--2017-02-02 19:42:03--  http://heapol.oxfordjournals.org/lookup/doi/10.1093/heapol/czw100
+Connecting to heapol.oxfordjournals.org (heapol.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from heapol.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/heapol/article/32/1/79/2555417/Has-India-s-national-rural-health-mission-reduced [following]
+--2017-02-02 19:42:05--  https://academic.oup.com/heapol/article/32/1/79/2555417/Has-India-s-national-rural-health-mission-reduced
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 335442 (328K) [text/html]
+Saving to: ‘czw100’
+
+     0K .......... .......... .......... .......... .......... 15%  209K 1s
+    50K .......... .......... .......... .......... .......... 30%  584K 1s
+   100K .......... .......... .......... .......... .......... 45%  610K 0s
+   150K .......... .......... .......... .......... .......... 61%  423K 0s
+   200K .......... .......... .......... .......... .......... 76%  404K 0s
+   250K .......... .......... .......... .......... .......... 91%  603K 0s
+   300K .......... .......... .......                         100%  351K=0.8s
+
+2017-02-02 19:42:08 (404 KB/s) - ‘czw100’ saved [335442/335442]
+
+--2017-02-02 19:42:09--  http://doi.org/10.1093/heapol/czw098
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://heapol.oxfordjournals.org/lookup/doi/10.1093/heapol/czw098 [following]
+--2017-02-02 19:42:10--  http://heapol.oxfordjournals.org/lookup/doi/10.1093/heapol/czw098
+Connecting to heapol.oxfordjournals.org (heapol.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from heapol.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/heapol/article/32/1/57/2555413/Effect-of-primary-health-care-reforms-in-Turkey-on [following]
+--2017-02-02 19:42:11--  https://academic.oup.com/heapol/article/32/1/57/2555413/Effect-of-primary-health-care-reforms-in-Turkey-on
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 263418 (257K) [text/html]
+Saving to: ‘czw098’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 38%  602K 1s
+   100K .......... .......... .......... .......... .......... 58%  602K 0s
+   150K .......... .......... .......... .......... .......... 77%  319K 0s
+   200K .......... .......... .......... .......... .......... 97%  591K 0s
+   250K .......                                               100% 21.7M=0.6s
+
+2017-02-02 19:42:19 (398 KB/s) - ‘czw098’ saved [263418/263418]
+
+--2017-02-02 19:42:20--  http://doi.org/10.1093/heapol/czw106
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw106 [following]
+--2017-02-02 19:42:22--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw106
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71755 (70K) [text/html]
+Saving to: ‘czw106’
+
+     0K .......... .......... .......... .......... .......... 71%  207K 0s
+    50K .......... ..........                                 100% 10.3M=0.2s
+
+2017-02-02 19:42:25 (288 KB/s) - ‘czw106’ saved [71755/71755]
+
+--2017-02-02 19:42:26--  http://doi.org/10.1093/heapol/czw110
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw110 [following]
+--2017-02-02 19:42:27--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw110
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71636 (70K) [text/html]
+Saving to: ‘czw110’
+
+     0K .......... .......... .......... .......... .......... 71%  209K 0s
+    50K .......... .........                                  100% 11.9M=0.2s
+
+2017-02-02 19:42:30 (290 KB/s) - ‘czw110’ saved [71636/71636]
+
+--2017-02-02 19:42:32--  http://doi.org/10.1093/heapol/czw111
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw111 [following]
+--2017-02-02 19:42:33--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw111
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71696 (70K) [text/html]
+Saving to: ‘czw111’
+
+     0K .......... .......... .......... .......... .......... 71%  205K 0s
+    50K .......... ..........                                 100% 12.8M=0.2s
+
+2017-02-02 19:42:36 (285 KB/s) - ‘czw111’ saved [71696/71696]
+
+--2017-02-02 19:42:37--  http://doi.org/10.1093/heapol/czw101
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://heapol.oxfordjournals.org/lookup/doi/10.1093/heapol/czw101 [following]
+--2017-02-02 19:42:38--  http://heapol.oxfordjournals.org/lookup/doi/10.1093/heapol/czw101
+Connecting to heapol.oxfordjournals.org (heapol.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from heapol.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/heapol/article/32/1/91/2555419/Sub-national-health-care-financing-reforms-in [following]
+--2017-02-02 19:42:39--  https://academic.oup.com/heapol/article/32/1/91/2555419/Sub-national-health-care-financing-reforms-in
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 269032 (263K) [text/html]
+Saving to: ‘czw101’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 38%  603K 1s
+   100K .......... .......... .......... .......... .......... 57%  608K 0s
+   150K .......... .......... .......... .......... .......... 76%  318K 0s
+   200K .......... .......... .......... .......... .......... 95%  598K 0s
+   250K .......... ..                                         100% 20.4M=0.6s
+
+2017-02-02 19:42:44 (407 KB/s) - ‘czw101’ saved [269032/269032]
+
+--2017-02-02 19:42:45--  http://doi.org/10.1093/heapol/czw097
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://heapol.oxfordjournals.org/lookup/doi/10.1093/heapol/czw097 [following]
+--2017-02-02 19:42:46--  http://heapol.oxfordjournals.org/lookup/doi/10.1093/heapol/czw097
+Connecting to heapol.oxfordjournals.org (heapol.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from heapol.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/heapol/article/32/1/43/2555410/A-composite-indicator-to-measure-universal-health [following]
+--2017-02-02 19:42:47--  https://academic.oup.com/heapol/article/32/1/43/2555410/A-composite-indicator-to-measure-universal-health
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 335072 (327K) [text/html]
+Saving to: ‘czw097’
+
+     0K .......... .......... .......... .......... .......... 15%  310K 1s
+    50K .......... .......... .......... .......... .......... 30%  315K 1s
+   100K .......... .......... .......... .......... .......... 45%  604K 0s
+   150K .......... .......... .......... .......... .......... 61%  608K 0s
+   200K .......... .......... .......... .......... .......... 76%  315K 0s
+   250K .......... .......... .......... .......... .......... 91%  598K 0s
+   300K .......... .......... .......                         100%  349K=0.8s
+
+2017-02-02 19:42:54 (406 KB/s) - ‘czw097’ saved [335072/335072]
+
+--2017-02-02 19:42:55--  http://doi.org/10.1093/heapol/czw099
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://heapol.oxfordjournals.org/lookup/doi/10.1093/heapol/czw099 [following]
+--2017-02-02 19:42:56--  http://heapol.oxfordjournals.org/lookup/doi/10.1093/heapol/czw099
+Connecting to heapol.oxfordjournals.org (heapol.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from heapol.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/heapol/article/32/1/68/2555415/Incidence-and-determinants-of-hysterectomy-in-a [following]
+--2017-02-02 19:42:57--  https://academic.oup.com/heapol/article/32/1/68/2555415/Incidence-and-determinants-of-hysterectomy-in-a
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:42:58 ERROR 400: Bad Request.
+
+--2017-02-02 19:42:59--  http://doi.org/10.1093/heapol/czw088
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://heapol.oxfordjournals.org/lookup/doi/10.1093/heapol/czw088 [following]
+--2017-02-02 19:43:00--  http://heapol.oxfordjournals.org/lookup/doi/10.1093/heapol/czw088
+Connecting to heapol.oxfordjournals.org (heapol.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from heapol.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/heapol/article/32/1/110/2555385/The-effectiveness-of-social-marketing-in-global [following]
+--2017-02-02 19:43:01--  https://academic.oup.com/heapol/article/32/1/110/2555385/The-effectiveness-of-social-marketing-in-global
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 645236 (630K) [text/html]
+Saving to: ‘czw088’
+
+     0K .......... .......... .......... .......... ..........  7%  209K 3s
+    50K .......... .......... .......... .......... .......... 15%  602K 2s
+   100K .......... .......... .......... .......... .......... 23%  589K 1s
+   150K .......... .......... .......... .......... .......... 31%  324K 1s
+   200K .......... .......... .......... .......... .......... 39%  575K 1s
+   250K .......... .......... .......... .......... .......... 47%  604K 1s
+   300K .......... .......... .......... .......... .......... 55%  608K 1s
+   350K .......... .......... .......... .......... .......... 63%  314K 1s
+   400K .......... .......... .......... .......... .......... 71%  604K 0s
+   450K .......... .......... .......... .......... .......... 79%  607K 0s
+   500K .......... .......... .......... .......... .......... 87%  599K 0s
+   550K .......... .......... .......... .......... .......... 95%  322K 0s
+   600K .......... .......... ..........                      100% 4.32M=1.4s
+
+2017-02-02 19:43:14 (455 KB/s) - ‘czw088’ saved [645236/645236]
+
+--2017-02-02 19:43:15--  http://doi.org/10.1093/heapol/czw095
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://heapol.oxfordjournals.org/lookup/doi/10.1093/heapol/czw095 [following]
+--2017-02-02 19:43:16--  http://heapol.oxfordjournals.org/lookup/doi/10.1093/heapol/czw095
+Connecting to heapol.oxfordjournals.org (heapol.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from heapol.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/heapol/article/32/1/34/2555406/Who-bears-the-cost-of-informal-mhealth-Health [following]
+--2017-02-02 19:43:17--  https://academic.oup.com/heapol/article/32/1/34/2555406/Who-bears-the-cost-of-informal-mhealth-Health
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 294389 (287K) [text/html]
+Saving to: ‘czw095’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 34%  597K 1s
+   100K .......... .......... .......... .......... .......... 52%  607K 0s
+   150K .......... .......... .......... .......... .......... 69%  315K 0s
+   200K .......... .......... .......... .......... .......... 86%  607K 0s
+   250K .......... .......... .......... .......              100%  465K=0.7s
+
+2017-02-02 19:43:22 (395 KB/s) - ‘czw095’ saved [294389/294389]
+
+--2017-02-02 19:43:23--  http://doi.org/10.1093/heapol/czw083
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw083 [following]
+--2017-02-02 19:43:25--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw083
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 347165 (339K) [text/html]
+Saving to: ‘czw083’
+
+     0K .......... .......... .......... .......... .......... 14%  209K 1s
+    50K .......... .......... .......... .......... .......... 29%  608K 1s
+   100K .......... .......... .......... .......... .......... 44%  597K 1s
+   150K .......... .......... .......... .......... .......... 58%  609K 0s
+   200K .......... .......... .......... .......... .......... 73%  309K 0s
+   250K .......... .......... .......... .......... .......... 88%  608K 0s
+   300K .......... .......... .......... .........            100%  481K=0.8s
+
+2017-02-02 19:43:29 (417 KB/s) - ‘czw083’ saved [347165/347165]
+
+--2017-02-02 19:43:30--  http://doi.org/10.1093/heapol/czw090
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw090 [following]
+--2017-02-02 19:43:31--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw090
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 277424 (271K) [text/html]
+Saving to: ‘czw090’
+
+     0K .......... .......... .......... .......... .......... 18%  208K 1s
+    50K .......... .......... .......... .......... .......... 36%  606K 1s
+   100K .......... .......... .......... .......... .......... 55%  609K 0s
+   150K .......... .......... .......... .......... .......... 73%  316K 0s
+   200K .......... .......... .......... .......... .......... 92%  596K 0s
+   250K .......... ..........                                 100%  487K=0.7s
+
+2017-02-02 19:43:36 (393 KB/s) - ‘czw090’ saved [277424/277424]
+
+--2017-02-02 19:43:37--  http://doi.org/10.1093/heapol/czw102
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://heapol.oxfordjournals.org/lookup/doi/10.1093/heapol/czw102 [following]
+--2017-02-02 19:43:38--  http://heapol.oxfordjournals.org/lookup/doi/10.1093/heapol/czw102
+Connecting to heapol.oxfordjournals.org (heapol.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from heapol.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/heapol/article/32/1/146/2555420/Thank-you-to-reviewers-2015 [following]
+--2017-02-02 19:43:39--  https://academic.oup.com/heapol/article/32/1/146/2555420/Thank-you-to-reviewers-2015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 88201 (86K) [text/html]
+Saving to: ‘czw102’
+
+     0K .......... .......... .......... .......... .......... 58%  206K 0s
+    50K .......... .......... .......... ......               100% 11.8M=0.2s
+
+2017-02-02 19:43:43 (350 KB/s) - ‘czw102’ saved [88201/88201]
+
+--2017-02-02 19:43:44--  http://doi.org/10.1093/heapol/czw093
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://heapol.oxfordjournals.org/lookup/doi/10.1093/heapol/czw093 [following]
+--2017-02-02 19:43:45--  http://heapol.oxfordjournals.org/lookup/doi/10.1093/heapol/czw093
+Connecting to heapol.oxfordjournals.org (heapol.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from heapol.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/heapol/article/32/1/21/2555402/Community-midwifery-initiatives-in-fragile-and [following]
+--2017-02-02 19:43:46--  https://academic.oup.com/heapol/article/32/1/21/2555402/Community-midwifery-initiatives-in-fragile-and
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:43:47 ERROR 400: Bad Request.
+
+--2017-02-02 19:43:48--  http://doi.org/10.1093/heapol/czw096
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://heapol.oxfordjournals.org/lookup/doi/10.1093/heapol/czw096 [following]
+--2017-02-02 19:43:49--  http://heapol.oxfordjournals.org/lookup/doi/10.1093/heapol/czw096
+Connecting to heapol.oxfordjournals.org (heapol.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from heapol.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/heapol/article/32/1/141/2555408/Understanding-and-improving-the-one-and-three [following]
+--2017-02-02 19:43:50--  https://academic.oup.com/heapol/article/32/1/141/2555408/Understanding-and-improving-the-one-and-three
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 198498 (194K) [text/html]
+Saving to: ‘czw096’
+
+     0K .......... .......... .......... .......... .......... 25%  209K 1s
+    50K .......... .......... .......... .......... .......... 51%  601K 0s
+   100K .......... .......... .......... .......... .......... 77%  609K 0s
+   150K .......... .......... .......... .......... ...       100%  534K=0.5s
+
+2017-02-02 19:43:55 (398 KB/s) - ‘czw096’ saved [198498/198498]
+
+--2017-02-02 19:43:56--  http://doi.org/10.1093/heapol/czw091
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://heapol.oxfordjournals.org/lookup/doi/10.1093/heapol/czw091 [following]
+--2017-02-02 19:43:57--  http://heapol.oxfordjournals.org/lookup/doi/10.1093/heapol/czw091
+Connecting to heapol.oxfordjournals.org (heapol.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from heapol.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/heapol/article/32/1/11/2555400/Health-system-changes-under-pay-for-performance [following]
+--2017-02-02 19:43:58--  https://academic.oup.com/heapol/article/32/1/11/2555400/Health-system-changes-under-pay-for-performance
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 276150 (270K) [text/html]
+Saving to: ‘czw091’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 37%  602K 1s
+   100K .......... .......... .......... .......... .......... 55%  616K 0s
+   150K .......... .......... .......... .......... .......... 74%  605K 0s
+   200K .......... .......... .......... .......... .......... 92%  319K 0s
+   250K .......... .........                                  100% 5.54M=0.6s
+
+2017-02-02 19:44:03 (417 KB/s) - ‘czw091’ saved [276150/276150]
+
+--2017-02-02 19:44:04--  http://doi.org/10.1093/heapol/czw094
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw094 [following]
+--2017-02-02 19:44:05--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw094
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 19:44:07 ERROR 400: Bad Request.
+
+--2017-02-02 19:44:08--  http://doi.org/10.1093/heapol/czw084
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw084 [following]
+--2017-02-02 19:44:09--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw084
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 324769 (317K) [text/html]
+Saving to: ‘czw084’
+
+     0K .......... .......... .......... .......... .......... 15%  209K 1s
+    50K .......... .......... .......... .......... .......... 31%  613K 1s
+   100K .......... .......... .......... .......... .......... 47%  597K 0s
+   150K .......... .......... .......... .......... .......... 63%  612K 0s
+   200K .......... .......... .......... .......... .......... 78%  314K 0s
+   250K .......... .......... .......... .......... .......... 94%  607K 0s
+   300K .......... .......                                    100%  216K=0.8s
+
+2017-02-02 19:44:18 (393 KB/s) - ‘czw084’ saved [324769/324769]
+
+--2017-02-02 19:44:19--  http://doi.org/10.1093/heapol/czw089
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://heapol.oxfordjournals.org/lookup/doi/10.1093/heapol/czw089 [following]
+--2017-02-02 19:44:21--  http://heapol.oxfordjournals.org/lookup/doi/10.1093/heapol/czw089
+Connecting to heapol.oxfordjournals.org (heapol.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from heapol.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/heapol/article/32/1/125/2555394/Health-provider-responsiveness-to-social [following]
+--2017-02-02 19:44:22--  https://academic.oup.com/heapol/article/32/1/125/2555394/Health-provider-responsiveness-to-social
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 438875 (429K) [text/html]
+Saving to: ‘czw089’
+
+     0K .......... .......... .......... .......... .......... 11%  209K 2s
+    50K .......... .......... .......... .......... .......... 23%  605K 1s
+   100K .......... .......... .......... .......... .......... 34%  611K 1s
+   150K .......... .......... .......... .......... .......... 46%  608K 1s
+   200K .......... .......... .......... .......... .......... 58%  313K 0s
+   250K .......... .......... .......... .......... .......... 69%  601K 0s
+   300K .......... .......... .......... .......... .......... 81%  592K 0s
+   350K .......... .......... .......... .......... .......... 93%  320K 0s
+   400K .......... .......... ........                        100% 5.46M=1.0s
+
+2017-02-02 19:44:27 (440 KB/s) - ‘czw089’ saved [438875/438875]
+
+--2017-02-02 19:44:28--  http://doi.org/10.1093/heapol/czw081
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw081 [following]
+--2017-02-02 19:44:29--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw081
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 251328 (245K) [text/html]
+Saving to: ‘czw081’
+
+     0K .......... .......... .......... .......... .......... 20%  209K 1s
+    50K .......... .......... .......... .......... .......... 40%  612K 0s
+   100K .......... .......... .......... .......... .......... 61%  600K 0s
+   150K .......... .......... .......... .......... .......... 81%  591K 0s
+   200K .......... .......... .......... .......... .....     100%  294K=0.6s
+
+2017-02-02 19:44:33 (381 KB/s) - ‘czw081’ saved [251328/251328]
+
+--2017-02-02 19:44:34--  http://doi.org/10.1093/heapol/czw071
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw071 [following]
+--2017-02-02 19:44:35--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw071
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 381926 (373K) [text/html]
+Saving to: ‘czw071’
+
+     0K .......... .......... .......... .......... .......... 13%  208K 2s
+    50K .......... .......... .......... .......... .......... 26%  603K 1s
+   100K .......... .......... .......... .......... .......... 40%  604K 1s
+   150K .......... .......... .......... .......... .......... 53%  612K 0s
+   200K .......... .......... .......... .......... .......... 67%  309K 0s
+   250K .......... .......... .......... .......... .......... 80%  594K 0s
+   300K .......... .......... .......... .......... .......... 93%  606K 0s
+   350K .......... .......... ..                              100%  283K=0.9s
+
+2017-02-02 19:44:39 (416 KB/s) - ‘czw071’ saved [381926/381926]
+
+--2017-02-02 19:44:40--  http://doi.org/10.1093/heapol/czw078
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw078 [following]
+--2017-02-02 19:44:41--  https://academic.oup.com/heapol/article-lookup/doi/10.1093/heapol/czw078
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 367072 (358K) [text/html]
+Saving to: ‘czw078’
+
+     0K .......... .......... .......... .......... .......... 13%  209K 1s
+    50K .......... .......... .......... .......... .......... 27%  602K 1s
+   100K .......... .......... .......... .......... .......... 41%  612K 1s
+   150K .......... .......... .......... .......... .......... 55%  600K 0s
+   200K .......... .......... .......... .......... .......... 69%  311K 0s
+   250K .......... .......... .......... .......... .......... 83%  612K 0s
+   300K .......... .......... .......... .......... .......... 97%  602K 0s
+   350K ........                                              100% 16.3M=0.8s
+
+2017-02-02 19:44:46 (440 KB/s) - ‘czw078’ saved [367072/367072]
+
+FINISHED --2017-02-02 19:44:46--
+Total wall clock time: 10m 9s
+Downloaded: 88 files, 18M in 46s (406 KB/s)

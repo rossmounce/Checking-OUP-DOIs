@@ -1,0 +1,1603 @@
+--2017-02-03 18:35:59--  http://doi.org/10.2307/envrev/2.supplement_2.74
+Resolving doi.org (doi.org)... 95.138.171.129, 38.100.138.162, 54.191.229.235, ...
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article-lookup/doi/10.2307/envrev/2.Supplement_2.74 [following]
+--2017-02-03 18:36:00--  https://academic.oup.com/envihistrevi/article-lookup/doi/10.2307/envrev/2.Supplement_2.74
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:36:00 ERROR 400: Bad Request.
+
+--2017-02-03 18:36:01--  http://doi.org/10.2307/envrev/2.supplement_2.72
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article-lookup/doi/10.2307/envrev/2.Supplement_2.72 [following]
+--2017-02-03 18:36:02--  https://academic.oup.com/envihistrevi/article-lookup/doi/10.2307/envrev/2.Supplement_2.72
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:36:04 ERROR 400: Bad Request.
+
+--2017-02-03 18:36:05--  http://doi.org/10.2307/envrev/1.supplement.1
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article-lookup/doi/10.2307/envrev/1.Supplement.1 [following]
+--2017-02-03 18:36:06--  https://academic.oup.com/envihistrevi/article-lookup/doi/10.2307/envrev/1.Supplement.1
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/1/Supplement/1/381264/Bibliographic-Supplement?redirectedFrom=fulltext [following]
+--2017-02-03 18:36:09--  https://academic.oup.com/envihistrevi/article-abstract/1/Supplement/1/381264/Bibliographic-Supplement?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 69606 (68K) [text/html]
+Saving to: ‘1.supplement.1’
+
+     0K .......... .......... .......... .......... .......... 73%  209K 0s
+    50K .......... .......                                    100% 17.6M=0.2s
+
+2017-02-03 18:36:16 (283 KB/s) - ‘1.supplement.1’ saved [69606/69606]
+
+--2017-02-03 18:36:17--  http://doi.org/10.2307/envrev/2.supplement_2.1
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article-lookup/doi/10.2307/envrev/2.Supplement_2.1 [following]
+--2017-02-03 18:36:18--  https://academic.oup.com/envihistrevi/article-lookup/doi/10.2307/envrev/2.Supplement_2.1
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 74559 (73K) [text/html]
+Saving to: ‘2.supplement_2.1’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ..                              100% 13.5M=0.2s
+
+2017-02-03 18:36:28 (302 KB/s) - ‘2.supplement_2.1’ saved [74559/74559]
+
+--2017-02-03 18:36:29--  http://doi.org/10.2307/envrev/2.supplement_2.54
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article-lookup/doi/10.2307/envrev/2.Supplement_2.54 [following]
+--2017-02-03 18:36:30--  https://academic.oup.com/envihistrevi/article-lookup/doi/10.2307/envrev/2.Supplement_2.54
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/2/Supplement_2/54/479877/Book-Reviews?redirectedFrom=fulltext [following]
+--2017-02-03 18:36:33--  https://academic.oup.com/envihistrevi/article-abstract/2/Supplement_2/54/479877/Book-Reviews?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 83027 (81K) [text/html]
+Saving to: ‘2.supplement_2.54’
+
+     0K .......... .......... .......... .......... .......... 61%  209K 0s
+    50K .......... .......... .......... .                    100% 8.05M=0.2s
+
+2017-02-03 18:36:39 (334 KB/s) - ‘2.supplement_2.54’ saved [83027/83027]
+
+--2017-02-03 18:36:40--  http://doi.org/10.2307/3984910
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/3/17/466927/Coming-to-Terms-with-Nature-State-and-Environment [following]
+--2017-02-03 18:36:42--  https://academic.oup.com/envihistrevi/article/19/3/17/466927/Coming-to-Terms-with-Nature-State-and-Environment
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77086 (75K) [text/html]
+Saving to: ‘3984910’
+
+     0K .......... .......... .......... .......... .......... 66%  209K 0s
+    50K .......... .......... .....                           100% 13.0M=0.2s
+
+2017-02-03 18:36:53 (312 KB/s) - ‘3984910’ saved [77086/77086]
+
+--2017-02-03 18:36:54--  http://doi.org/10.2307/3984698
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/4/78/421529/Losing-Ground-American-Environmentalism-at-the [following]
+--2017-02-03 18:36:55--  https://academic.oup.com/envihistrevi/article/19/4/78/421529/Losing-Ground-American-Environmentalism-at-the
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/4/78/421529/Losing-Ground-American-Environmentalism-at-the?redirectedFrom=fulltext [following]
+--2017-02-03 18:36:57--  https://academic.oup.com/envihistrevi/article-abstract/19/4/78/421529/Losing-Ground-American-Environmentalism-at-the?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 70729 (69K) [text/html]
+Saving to: ‘3984698’
+
+     0K .......... .......... .......... .......... .......... 72%  208K 0s
+    50K .......... .........                                  100% 8.30M=0.2s
+
+2017-02-03 18:37:02 (285 KB/s) - ‘3984698’ saved [70729/70729]
+
+--2017-02-03 18:37:03--  http://doi.org/10.2307/3984693
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/4/67/421512/With-Broadax-and-Firebrand-The-Destruction-of-the [following]
+--2017-02-03 18:37:04--  https://academic.oup.com/envihistrevi/article/19/4/67/421512/With-Broadax-and-Firebrand-The-Destruction-of-the
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/4/67/421512/With-Broadax-and-Firebrand-The-Destruction-of-the?redirectedFrom=fulltext [following]
+--2017-02-03 18:37:07--  https://academic.oup.com/envihistrevi/article-abstract/19/4/67/421512/With-Broadax-and-Firebrand-The-Destruction-of-the?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 72217 (71K) [text/html]
+Saving to: ‘3984693’
+
+     0K .......... .......... .......... .......... .......... 70%  209K 0s
+    50K .......... ..........                                 100% 9.29M=0.2s
+
+2017-02-03 18:37:14 (292 KB/s) - ‘3984693’ saved [72217/72217]
+
+--2017-02-03 18:37:15--  http://doi.org/10.2307/3984918
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/3/92/467005/Savage-Dreams-A-Journey-Into-the-Hidden-Wars-of [following]
+--2017-02-03 18:37:16--  https://academic.oup.com/envihistrevi/article/19/3/92/467005/Savage-Dreams-A-Journey-Into-the-Hidden-Wars-of
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/3/92/467005/Savage-Dreams-A-Journey-Into-the-Hidden-Wars-of?redirectedFrom=fulltext [following]
+--2017-02-03 18:37:20--  https://academic.oup.com/envihistrevi/article-abstract/19/3/92/467005/Savage-Dreams-A-Journey-Into-the-Hidden-Wars-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 70692 (69K) [text/html]
+Saving to: ‘3984918’
+
+     0K .......... .......... .......... .......... .......... 72%  208K 0s
+    50K .......... .........                                  100% 13.3M=0.2s
+
+2017-02-03 18:37:39 (285 KB/s) - ‘3984918’ saved [70692/70692]
+
+--2017-02-03 18:37:40--  http://doi.org/10.2307/3984689
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/4/1/421497/Beyond-NEPA-and-Earth-Day-Reconstructing-the-Past [following]
+--2017-02-03 18:37:41--  https://academic.oup.com/envihistrevi/article/19/4/1/421497/Beyond-NEPA-and-Earth-Day-Reconstructing-the-Past
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/4/1/421497/Beyond-NEPA-and-Earth-Day-Reconstructing-the-Past?redirectedFrom=fulltext [following]
+--2017-02-03 18:37:43--  https://academic.oup.com/envihistrevi/article-abstract/19/4/1/421497/Beyond-NEPA-and-Earth-Day-Reconstructing-the-Past?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 70731 (69K) [text/html]
+Saving to: ‘3984689’
+
+     0K .......... .......... .......... .......... .......... 72%  209K 0s
+    50K .......... .........                                  100% 11.9M=0.2s
+
+2017-02-03 18:37:55 (287 KB/s) - ‘3984689’ saved [70731/70731]
+
+--2017-02-03 18:37:56--  http://doi.org/10.2307/3984830
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/2/1/407708/The-Case-For-Letting-Malibu-Burn [following]
+--2017-02-03 18:37:58--  https://academic.oup.com/envihistrevi/article/19/2/1/407708/The-Case-For-Letting-Malibu-Burn
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/2/1/407708/The-Case-For-Letting-Malibu-Burn?redirectedFrom=fulltext [following]
+--2017-02-03 18:38:00--  https://academic.oup.com/envihistrevi/article-abstract/19/2/1/407708/The-Case-For-Letting-Malibu-Burn?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 84846 (83K) [text/html]
+Saving to: ‘3984830’
+
+     0K .......... .......... .......... .......... .......... 60%  208K 0s
+    50K .......... .......... .......... ..                   100% 9.99M=0.2s
+
+2017-02-03 18:38:05 (341 KB/s) - ‘3984830’ saved [84846/84846]
+
+--2017-02-03 18:38:06--  http://doi.org/10.2307/3984911
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/3/39/466931/Academic-Historians-and-Hunting-A-Call-for-More [following]
+--2017-02-03 18:38:08--  https://academic.oup.com/envihistrevi/article/19/3/39/466931/Academic-Historians-and-Hunting-A-Call-for-More
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/3/39/466931/Academic-Historians-and-Hunting-A-Call-for-More?redirectedFrom=fulltext [following]
+--2017-02-03 18:38:10--  https://academic.oup.com/envihistrevi/article-abstract/19/3/39/466931/Academic-Historians-and-Hunting-A-Call-for-More?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 72473 (71K) [text/html]
+Saving to: ‘3984911’
+
+     0K .......... .......... .......... .......... .......... 70%  206K 0s
+    50K .......... ..........                                 100% 12.1M=0.2s
+
+2017-02-03 18:38:14 (290 KB/s) - ‘3984911’ saved [72473/72473]
+
+--2017-02-03 18:38:15--  http://doi.org/10.2307/3984690
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/4/15/421500/The-Impact-of-World-War-II-on-the-Land-Gruinard [following]
+--2017-02-03 18:38:16--  https://academic.oup.com/envihistrevi/article/19/4/15/421500/The-Impact-of-World-War-II-on-the-Land-Gruinard
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/4/15/421500/The-Impact-of-World-War-II-on-the-Land-Gruinard?redirectedFrom=fulltext [following]
+--2017-02-03 18:38:19--  https://academic.oup.com/envihistrevi/article-abstract/19/4/15/421500/The-Impact-of-World-War-II-on-the-Land-Gruinard?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 70925 (69K) [text/html]
+Saving to: ‘3984690’
+
+     0K .......... .......... .......... .......... .......... 72%  209K 0s
+    50K .......... .........                                  100% 10.9M=0.2s
+
+2017-02-03 18:38:23 (288 KB/s) - ‘3984690’ saved [70925/70925]
+
+--2017-02-03 18:38:24--  http://doi.org/10.2307/3984704
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/4/92/421545/George-S-Long-Timber-Statesman-By-Charles-E [following]
+--2017-02-03 18:38:25--  https://academic.oup.com/envihistrevi/article/19/4/92/421545/George-S-Long-Timber-Statesman-By-Charles-E
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:38:27 ERROR 400: Bad Request.
+
+--2017-02-03 18:38:28--  http://doi.org/10.2307/3984923
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/3/101/466923/The-Trail-A-History-of-the-Ho-Chi-Minh-Trail-and [following]
+--2017-02-03 18:38:29--  https://academic.oup.com/envihistrevi/article/19/3/101/466923/The-Trail-A-History-of-the-Ho-Chi-Minh-Trail-and
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/3/101/466923/The-Trail-A-History-of-the-Ho-Chi-Minh-Trail-and?redirectedFrom=fulltext [following]
+--2017-02-03 18:38:31--  https://academic.oup.com/envihistrevi/article-abstract/19/3/101/466923/The-Trail-A-History-of-the-Ho-Chi-Minh-Trail-and?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 85868 (84K) [text/html]
+Saving to: ‘3984923’
+
+     0K .......... .......... .......... .......... .......... 59%  209K 0s
+    50K .......... .......... .......... ...                  100% 9.76M=0.2s
+
+2017-02-03 18:38:36 (346 KB/s) - ‘3984923’ saved [85868/85868]
+
+--2017-02-03 18:38:37--  http://doi.org/10.2307/3984922
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/3/100/466918/Regulating-Toxic-Substances-A-Philosophy-of [following]
+--2017-02-03 18:38:38--  https://academic.oup.com/envihistrevi/article/19/3/100/466918/Regulating-Toxic-Substances-A-Philosophy-of
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:38:40 ERROR 400: Bad Request.
+
+--2017-02-03 18:38:41--  http://doi.org/10.2307/3984835
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/2/89/407731/Caring-for-Creation-An-Ecumenical-Approach-to-the [following]
+--2017-02-03 18:38:42--  https://academic.oup.com/envihistrevi/article/19/2/89/407731/Caring-for-Creation-An-Ecumenical-Approach-to-the
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/2/89/407731/Caring-for-Creation-An-Ecumenical-Approach-to-the?redirectedFrom=fulltext [following]
+--2017-02-03 18:38:44--  https://academic.oup.com/envihistrevi/article-abstract/19/2/89/407731/Caring-for-Creation-An-Ecumenical-Approach-to-the?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 70880 (69K) [text/html]
+Saving to: ‘3984835’
+
+     0K .......... .......... .......... .......... .......... 72%  208K 0s
+    50K .......... .........                                  100% 14.1M=0.2s
+
+2017-02-03 18:38:48 (287 KB/s) - ‘3984835’ saved [70880/70880]
+
+--2017-02-03 18:38:49--  http://doi.org/10.2307/3984833
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/2/85/407726/American-Technological-Sublime-By-David-E-Nye [following]
+--2017-02-03 18:38:50--  https://academic.oup.com/envihistrevi/article/19/2/85/407726/American-Technological-Sublime-By-David-E-Nye
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/2/85/407726/American-Technological-Sublime-By-David-E-Nye?redirectedFrom=fulltext [following]
+--2017-02-03 18:38:52--  https://academic.oup.com/envihistrevi/article-abstract/19/2/85/407726/American-Technological-Sublime-By-David-E-Nye?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 71731 (70K) [text/html]
+Saving to: ‘3984833’
+
+     0K .......... .......... .......... .......... .......... 71%  208K 0s
+    50K .......... ..........                                 100% 11.3M=0.2s
+
+2017-02-03 18:38:56 (290 KB/s) - ‘3984833’ saved [71731/71731]
+
+--2017-02-03 18:38:57--  http://doi.org/10.2307/3984912
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/3/57/466943/How-the-Discovery-of-Accidental-Childhood [following]
+--2017-02-03 18:38:58--  https://academic.oup.com/envihistrevi/article/19/3/57/466943/How-the-Discovery-of-Accidental-Childhood
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/3/57/466943/How-the-Discovery-of-Accidental-Childhood?redirectedFrom=fulltext [following]
+--2017-02-03 18:39:00--  https://academic.oup.com/envihistrevi/article-abstract/19/3/57/466943/How-the-Discovery-of-Accidental-Childhood?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 70967 (69K) [text/html]
+Saving to: ‘3984912’
+
+     0K .......... .......... .......... .......... .......... 72%  206K 0s
+    50K .......... .........                                  100% 8.77M=0.2s
+
+2017-02-03 18:39:04 (283 KB/s) - ‘3984912’ saved [70967/70967]
+
+--2017-02-03 18:39:05--  http://doi.org/10.2307/3984701
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/4/84/421535/Problems-and-Prospects-for-Nuclear-Waste-Disposal [following]
+--2017-02-03 18:39:07--  https://academic.oup.com/envihistrevi/article/19/4/84/421535/Problems-and-Prospects-for-Nuclear-Waste-Disposal
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/4/84/421535/Problems-and-Prospects-for-Nuclear-Waste-Disposal?redirectedFrom=fulltext [following]
+--2017-02-03 18:39:09--  https://academic.oup.com/envihistrevi/article-abstract/19/4/84/421535/Problems-and-Prospects-for-Nuclear-Waste-Disposal?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 72011 (70K) [text/html]
+Saving to: ‘3984701’
+
+     0K .......... .......... .......... .......... .......... 71%  209K 0s
+    50K .......... ..........                                 100% 7.67M=0.2s
+
+2017-02-03 18:39:13 (291 KB/s) - ‘3984701’ saved [72011/72011]
+
+--2017-02-03 18:39:14--  http://doi.org/10.2307/3984837
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/2/94/407735/The-Day-Before-America-Changing-the-Nature-of-a [following]
+--2017-02-03 18:39:15--  https://academic.oup.com/envihistrevi/article/19/2/94/407735/The-Day-Before-America-Changing-the-Nature-of-a
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/2/94/407735/The-Day-Before-America-Changing-the-Nature-of-a?redirectedFrom=fulltext [following]
+--2017-02-03 18:39:18--  https://academic.oup.com/envihistrevi/article-abstract/19/2/94/407735/The-Day-Before-America-Changing-the-Nature-of-a?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 70731 (69K) [text/html]
+Saving to: ‘3984837’
+
+     0K .......... .......... .......... .......... .......... 72%  208K 0s
+    50K .......... .........                                  100% 14.3M=0.2s
+
+2017-02-03 18:39:24 (286 KB/s) - ‘3984837’ saved [70731/70731]
+
+--2017-02-03 18:39:25--  http://doi.org/10.2307/3984840
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/2/99/407747/Americas-National-Park-System-The-Critical [following]
+--2017-02-03 18:39:26--  https://academic.oup.com/envihistrevi/article/19/2/99/407747/Americas-National-Park-System-The-Critical
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/2/99/407747/America-s-National-Park-System-The-Critical?redirectedFrom=fulltext [following]
+--2017-02-03 18:39:28--  https://academic.oup.com/envihistrevi/article-abstract/19/2/99/407747/America-s-National-Park-System-The-Critical?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 70665 (69K) [text/html]
+Saving to: ‘3984840’
+
+     0K .......... .......... .......... .......... .......... 72%  208K 0s
+    50K .......... .........                                  100% 10.6M=0.2s
+
+2017-02-03 18:39:34 (285 KB/s) - ‘3984840’ saved [70665/70665]
+
+--2017-02-03 18:39:35--  http://doi.org/10.2307/3984700
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/4/83/421534/Elements-of-Controversy-The-Atomic-Energy [following]
+--2017-02-03 18:39:37--  https://academic.oup.com/envihistrevi/article/19/4/83/421534/Elements-of-Controversy-The-Atomic-Energy
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/4/83/421534/Elements-of-Controversy-The-Atomic-Energy?redirectedFrom=fulltext [following]
+--2017-02-03 18:39:39--  https://academic.oup.com/envihistrevi/article-abstract/19/4/83/421534/Elements-of-Controversy-The-Atomic-Energy?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 71151 (69K) [text/html]
+Saving to: ‘3984700’
+
+     0K .......... .......... .......... .......... .......... 71%  209K 0s
+    50K .......... .........                                  100% 13.0M=0.2s
+
+2017-02-03 18:39:45 (288 KB/s) - ‘3984700’ saved [71151/71151]
+
+--2017-02-03 18:39:46--  http://doi.org/10.2307/3984771
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/1/1/409560/Ecology-and-Development-as-Narrative-Themes-of [following]
+--2017-02-03 18:39:48--  https://academic.oup.com/envihistrevi/article/19/1/1/409560/Ecology-and-Development-as-Narrative-Themes-of
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/1/1/409560/Ecology-and-Development-as-Narrative-Themes-of?redirectedFrom=fulltext [following]
+--2017-02-03 18:39:50--  https://academic.oup.com/envihistrevi/article-abstract/19/1/1/409560/Ecology-and-Development-as-Narrative-Themes-of?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:39:50 ERROR 400: Bad Request.
+
+--2017-02-03 18:39:51--  http://doi.org/10.2307/3984841
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/2/101/407710/The-Timber-Wolf-in-Wisconsin-The-Death-and-Life-of [following]
+--2017-02-03 18:39:53--  https://academic.oup.com/envihistrevi/article/19/2/101/407710/The-Timber-Wolf-in-Wisconsin-The-Death-and-Life-of
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/2/101/407710/The-Timber-Wolf-in-Wisconsin-The-Death-and-Life-of?redirectedFrom=fulltext [following]
+--2017-02-03 18:39:55--  https://academic.oup.com/envihistrevi/article-abstract/19/2/101/407710/The-Timber-Wolf-in-Wisconsin-The-Death-and-Life-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 70921 (69K) [text/html]
+Saving to: ‘3984841’
+
+     0K .......... .......... .......... .......... .......... 72%  209K 0s
+    50K .......... .........                                  100% 13.0M=0.2s
+
+2017-02-03 18:40:01 (288 KB/s) - ‘3984841’ saved [70921/70921]
+
+--2017-02-03 18:40:02--  http://doi.org/10.2307/3984781
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/1/107/409585/The-Norton-History-of-the-Environmental-Sciences [following]
+--2017-02-03 18:40:03--  https://academic.oup.com/envihistrevi/article/19/1/107/409585/The-Norton-History-of-the-Environmental-Sciences
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/1/107/409585/The-Norton-History-of-the-Environmental-Sciences?redirectedFrom=fulltext [following]
+--2017-02-03 18:40:05--  https://academic.oup.com/envihistrevi/article-abstract/19/1/107/409585/The-Norton-History-of-the-Environmental-Sciences?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 70676 (69K) [text/html]
+Saving to: ‘3984781’
+
+     0K .......... .......... .......... .......... .......... 72%  310K 0s
+    50K .......... .........                                  100%  239K=0.2s
+
+2017-02-03 18:40:10 (286 KB/s) - ‘3984781’ saved [70676/70676]
+
+--2017-02-03 18:40:11--  http://doi.org/10.2307/3984774
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/1/77/409657/Market-Ideology-and-Administrative-Fiat-The [following]
+--2017-02-03 18:40:12--  https://academic.oup.com/envihistrevi/article/19/1/77/409657/Market-Ideology-and-Administrative-Fiat-The
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/1/77/409657/Market-Ideology-and-Administrative-Fiat-The?redirectedFrom=fulltext [following]
+--2017-02-03 18:40:14--  https://academic.oup.com/envihistrevi/article-abstract/19/1/77/409657/Market-Ideology-and-Administrative-Fiat-The?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 70664 (69K) [text/html]
+Saving to: ‘3984774’
+
+     0K .......... .......... .......... .......... .......... 72%  207K 0s
+    50K .......... .........                                  100% 44.8M=0.2s
+
+2017-02-03 18:40:44 (285 KB/s) - ‘3984774’ saved [70664/70664]
+
+--2017-02-03 18:40:45--  http://doi.org/10.2307/3984777
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/1/100/409564/Deeper-Shades-of-Green-The-Rise-of-BlueCollar-and [following]
+--2017-02-03 18:40:47--  https://academic.oup.com/envihistrevi/article/19/1/100/409564/Deeper-Shades-of-Green-The-Rise-of-BlueCollar-and
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/1/100/409564/Deeper-Shades-of-Green-The-Rise-of-Blue-Collar-and?redirectedFrom=fulltext [following]
+--2017-02-03 18:40:49--  https://academic.oup.com/envihistrevi/article-abstract/19/1/100/409564/Deeper-Shades-of-Green-The-Rise-of-Blue-Collar-and?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 71052 (69K) [text/html]
+Saving to: ‘3984777’
+
+     0K .......... .......... .......... .......... .......... 72%  209K 0s
+    50K .......... .........                                  100% 14.1M=0.2s
+
+2017-02-03 18:40:53 (289 KB/s) - ‘3984777’ saved [71052/71052]
+
+--2017-02-03 18:40:54--  http://doi.org/10.2307/3984776
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/1/99/409670/Protectors-of-the-Land-and-Water-Environmentalism [following]
+--2017-02-03 18:40:55--  https://academic.oup.com/envihistrevi/article/19/1/99/409670/Protectors-of-the-Land-and-Water-Environmentalism
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/1/99/409670/Protectors-of-the-Land-and-Water-Environmentalism?redirectedFrom=fulltext [following]
+--2017-02-03 18:40:57--  https://academic.oup.com/envihistrevi/article-abstract/19/1/99/409670/Protectors-of-the-Land-and-Water-Environmentalism?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 70982 (69K) [text/html]
+Saving to: ‘3984776’
+
+     0K .......... .......... .......... .......... .......... 72%  209K 0s
+    50K .......... .........                                  100% 14.4M=0.2s
+
+2017-02-03 18:41:03 (288 KB/s) - ‘3984776’ saved [70982/70982]
+
+--2017-02-03 18:41:04--  http://doi.org/10.2307/3984838
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/2/96/407738/Neither-Wolf-Nor-Dog-American-Indians-Environment [following]
+--2017-02-03 18:41:05--  https://academic.oup.com/envihistrevi/article/19/2/96/407738/Neither-Wolf-Nor-Dog-American-Indians-Environment
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/2/96/407738/Neither-Wolf-Nor-Dog-American-Indians-Environment?redirectedFrom=fulltext [following]
+--2017-02-03 18:41:07--  https://academic.oup.com/envihistrevi/article-abstract/19/2/96/407738/Neither-Wolf-Nor-Dog-American-Indians-Environment?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 70829 (69K) [text/html]
+Saving to: ‘3984838’
+
+     0K .......... .......... .......... .......... .......... 72%  209K 0s
+    50K .......... .........                                  100% 14.5M=0.2s
+
+2017-02-03 18:41:13 (287 KB/s) - ‘3984838’ saved [70829/70829]
+
+--2017-02-03 18:41:14--  http://doi.org/10.2307/3984787
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/1/117/409628/Natures-Kindred-Spirits-Aldo-Leopold-Joseph-Wood [following]
+--2017-02-03 18:41:15--  https://academic.oup.com/envihistrevi/article/19/1/117/409628/Natures-Kindred-Spirits-Aldo-Leopold-Joseph-Wood
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/1/117/409628/Nature-s-Kindred-Spirits-Aldo-Leopold-Joseph-Wood?redirectedFrom=fulltext [following]
+--2017-02-03 18:41:17--  https://academic.oup.com/envihistrevi/article-abstract/19/1/117/409628/Nature-s-Kindred-Spirits-Aldo-Leopold-Joseph-Wood?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 71089 (69K) [text/html]
+Saving to: ‘3984787’
+
+     0K .......... .......... .......... .......... .......... 72%  209K 0s
+    50K .......... .........                                  100% 6.12M=0.2s
+
+2017-02-03 18:41:22 (287 KB/s) - ‘3984787’ saved [71089/71089]
+
+--2017-02-03 18:41:23--  http://doi.org/10.2307/3984699
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/4/80/421530/Cancer-Wars-How-Politics-Shapes-What-We-Know-amp [following]
+--2017-02-03 18:41:24--  https://academic.oup.com/envihistrevi/article/19/4/80/421530/Cancer-Wars-How-Politics-Shapes-What-We-Know-amp
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/4/80/421530/Cancer-Wars-How-Politics-Shapes-What-We-Know-amp?redirectedFrom=fulltext [following]
+--2017-02-03 18:41:27--  https://academic.oup.com/envihistrevi/article-abstract/19/4/80/421530/Cancer-Wars-How-Politics-Shapes-What-We-Know-amp?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:41:27 ERROR 400: Bad Request.
+
+--2017-02-03 18:41:28--  http://doi.org/10.2307/3984844
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/2/106/407716/Call-of-the-Colorado-By-Roy-Webb [following]
+--2017-02-03 18:41:29--  https://academic.oup.com/envihistrevi/article/19/2/106/407716/Call-of-the-Colorado-By-Roy-Webb
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/2/106/407716/Call-of-the-Colorado-By-Roy-Webb?redirectedFrom=fulltext [following]
+--2017-02-03 18:41:31--  https://academic.oup.com/envihistrevi/article-abstract/19/2/106/407716/Call-of-the-Colorado-By-Roy-Webb?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:41:32 ERROR 400: Bad Request.
+
+--2017-02-03 18:41:33--  http://doi.org/10.2307/3984703
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/4/90/421540/Strange-Genius-The-Life-of-Ferdinand-Vandeveer [following]
+--2017-02-03 18:41:34--  https://academic.oup.com/envihistrevi/article/19/4/90/421540/Strange-Genius-The-Life-of-Ferdinand-Vandeveer
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:41:35 ERROR 400: Bad Request.
+
+--2017-02-03 18:41:36--  http://doi.org/10.2307/3984786
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/1/116/409618/The-Great-Land-Reflections-on-Alaska-Edited-by [following]
+--2017-02-03 18:41:37--  https://academic.oup.com/envihistrevi/article/19/1/116/409618/The-Great-Land-Reflections-on-Alaska-Edited-by
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:41:38 ERROR 400: Bad Request.
+
+--2017-02-03 18:41:39--  http://doi.org/10.2307/3984694
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/4/70/421515/Science-and-the-Raj-18571905-By-Deepak-Kumar [following]
+--2017-02-03 18:41:40--  https://academic.oup.com/envihistrevi/article/19/4/70/421515/Science-and-the-Raj-18571905-By-Deepak-Kumar
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/4/70/421515/Science-and-the-Raj-1857-1905-By-Deepak-Kumar?redirectedFrom=fulltext [following]
+--2017-02-03 18:41:42--  https://academic.oup.com/envihistrevi/article-abstract/19/4/70/421515/Science-and-the-Raj-1857-1905-By-Deepak-Kumar?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 70393 (69K) [text/html]
+Saving to: ‘3984694’
+
+     0K .......... .......... .......... .......... .......... 72%  310K 0s
+    50K .......... ........                                   100%  238K=0.2s
+
+2017-02-03 18:41:46 (286 KB/s) - ‘3984694’ saved [70393/70393]
+
+--2017-02-03 18:41:47--  http://doi.org/10.2307/3984839
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/2/98/407742/A-Conspiracy-of-Optimism-Management-of-the [following]
+--2017-02-03 18:41:48--  https://academic.oup.com/envihistrevi/article/19/2/98/407742/A-Conspiracy-of-Optimism-Management-of-the
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:41:49 ERROR 400: Bad Request.
+
+--2017-02-03 18:41:50--  http://doi.org/10.2307/3984783
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/1/110/409597/The-Wisdom-of-the-Spotted-Owl-Policy-Lessons-for-a [following]
+--2017-02-03 18:41:51--  https://academic.oup.com/envihistrevi/article/19/1/110/409597/The-Wisdom-of-the-Spotted-Owl-Policy-Lessons-for-a
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:41:52 ERROR 400: Bad Request.
+
+--2017-02-03 18:41:53--  http://doi.org/10.2307/3984919
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/3/94/467013/Alongshore-By-John-R-Stilgoe [following]
+--2017-02-03 18:41:54--  https://academic.oup.com/envihistrevi/article/19/3/94/467013/Alongshore-By-John-R-Stilgoe
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/3/94/467013/Alongshore-By-John-R-Stilgoe?redirectedFrom=fulltext [following]
+--2017-02-03 18:41:56--  https://academic.oup.com/envihistrevi/article-abstract/19/3/94/467013/Alongshore-By-John-R-Stilgoe?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 69970 (68K) [text/html]
+Saving to: ‘3984919’
+
+     0K .......... .......... .......... .......... .......... 73%  209K 0s
+    50K .......... ........                                   100% 15.5M=0.2s
+
+2017-02-03 18:42:00 (284 KB/s) - ‘3984919’ saved [69970/69970]
+
+--2017-02-03 18:42:01--  http://doi.org/10.2307/3984843
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/2/104/407714/Wildlife-and-People-The-Human-Dimensions-of [following]
+--2017-02-03 18:42:02--  https://academic.oup.com/envihistrevi/article/19/2/104/407714/Wildlife-and-People-The-Human-Dimensions-of
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/2/104/407714/Wildlife-and-People-The-Human-Dimensions-of?redirectedFrom=fulltext [following]
+--2017-02-03 18:42:33--  https://academic.oup.com/envihistrevi/article-abstract/19/2/104/407714/Wildlife-and-People-The-Human-Dimensions-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 70643 (69K) [text/html]
+Saving to: ‘3984843’
+
+     0K .......... .......... .......... .......... .......... 72%  209K 0s
+    50K .......... ........                                   100% 12.0M=0.2s
+
+2017-02-03 18:42:43 (286 KB/s) - ‘3984843’ saved [70643/70643]
+
+--2017-02-03 18:42:44--  http://doi.org/10.2307/3984780
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/1/105/409580/The-Beak-of-the-Finch-A-Story-of-Evolution-in-Our [following]
+--2017-02-03 18:42:45--  https://academic.oup.com/envihistrevi/article/19/1/105/409580/The-Beak-of-the-Finch-A-Story-of-Evolution-in-Our
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:42:47 ERROR 400: Bad Request.
+
+--2017-02-03 18:42:48--  http://doi.org/10.2307/3984692
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/4/49/421509/Great-Plains-Legal-Culture-and-Irrigation [following]
+--2017-02-03 18:42:49--  https://academic.oup.com/envihistrevi/article/19/4/49/421509/Great-Plains-Legal-Culture-and-Irrigation
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/4/49/421509/Great-Plains-Legal-Culture-and-Irrigation?redirectedFrom=fulltext [following]
+--2017-02-03 18:42:51--  https://academic.oup.com/envihistrevi/article-abstract/19/4/49/421509/Great-Plains-Legal-Culture-and-Irrigation?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 70890 (69K) [text/html]
+Saving to: ‘3984692’
+
+     0K .......... .......... .......... .......... .......... 72%  209K 0s
+    50K .......... .........                                  100% 9.95M=0.2s
+
+2017-02-03 18:42:58 (287 KB/s) - ‘3984692’ saved [70890/70890]
+
+--2017-02-03 18:42:59--  http://doi.org/10.2307/3984915
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/3/87/466978/River-of-Promise-River-of-Peril-The-Politics-of [following]
+--2017-02-03 18:43:00--  https://academic.oup.com/envihistrevi/article/19/3/87/466978/River-of-Promise-River-of-Peril-The-Politics-of
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/3/87/466978/River-of-Promise-River-of-Peril-The-Politics-of?redirectedFrom=fulltext [following]
+--2017-02-03 18:43:02--  https://academic.oup.com/envihistrevi/article-abstract/19/3/87/466978/River-of-Promise-River-of-Peril-The-Politics-of?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 70835 (69K) [text/html]
+Saving to: ‘3984915’
+
+     0K .......... .......... .......... .......... .......... 72%  310K 0s
+    50K .......... .........                                  100%  244K=0.2s
+
+2017-02-03 18:43:07 (288 KB/s) - ‘3984915’ saved [70835/70835]
+
+--2017-02-03 18:43:08--  http://doi.org/10.2307/3984831
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/2/37/407722/The-Nixon-Administration-Timber-And-The-Call-Of [following]
+--2017-02-03 18:43:09--  https://academic.oup.com/envihistrevi/article/19/2/37/407722/The-Nixon-Administration-Timber-And-The-Call-Of
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/2/37/407722/The-Nixon-Administration-Timber-And-The-Call-Of?redirectedFrom=fulltext [following]
+--2017-02-03 18:43:12--  https://academic.oup.com/envihistrevi/article-abstract/19/2/37/407722/The-Nixon-Administration-Timber-And-The-Call-Of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 70424 (69K) [text/html]
+Saving to: ‘3984831’
+
+     0K .......... .......... .......... .......... .......... 72%  208K 0s
+    50K .......... ........                                   100% 14.8M=0.2s
+
+2017-02-03 18:43:16 (284 KB/s) - ‘3984831’ saved [70424/70424]
+
+--2017-02-03 18:43:17--  http://doi.org/10.2307/3984913
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/3/83/466964/Always-Rachel-The-Letters-of-Rachel-Carson-and [following]
+--2017-02-03 18:43:18--  https://academic.oup.com/envihistrevi/article/19/3/83/466964/Always-Rachel-The-Letters-of-Rachel-Carson-and
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/3/83/466964/Always-Rachel-The-Letters-of-Rachel-Carson-and?redirectedFrom=fulltext [following]
+--2017-02-03 18:43:21--  https://academic.oup.com/envihistrevi/article-abstract/19/3/83/466964/Always-Rachel-The-Letters-of-Rachel-Carson-and?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 87338 (85K) [text/html]
+Saving to: ‘3984913’
+
+     0K .......... .......... .......... .......... .......... 58%  209K 0s
+    50K .......... .......... .......... .....                100% 6.18M=0.2s
+
+2017-02-03 18:43:26 (349 KB/s) - ‘3984913’ saved [87338/87338]
+
+--2017-02-03 18:43:27--  http://doi.org/10.2307/3984845
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/2/107/407718/In-The-First-Country-of-Places-By-Louise-Chawla [following]
+--2017-02-03 18:43:28--  https://academic.oup.com/envihistrevi/article/19/2/107/407718/In-The-First-Country-of-Places-By-Louise-Chawla
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/2/107/407718/In-The-First-Country-of-Places-By-Louise-Chawla?redirectedFrom=fulltext [following]
+--2017-02-03 18:43:30--  https://academic.oup.com/envihistrevi/article-abstract/19/2/107/407718/In-The-First-Country-of-Places-By-Louise-Chawla?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 85316 (83K) [text/html]
+Saving to: ‘3984845’
+
+     0K .......... .......... .......... .......... .......... 60%  209K 0s
+    50K .......... .......... .......... ...                  100% 11.2M=0.2s
+
+2017-02-03 18:43:34 (344 KB/s) - ‘3984845’ saved [85316/85316]
+
+--2017-02-03 18:43:35--  http://doi.org/10.2307/3984696
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/4/75/421523/Structures-in-the-Stream-Water-Science-and-the [following]
+--2017-02-03 18:43:36--  https://academic.oup.com/envihistrevi/article/19/4/75/421523/Structures-in-the-Stream-Water-Science-and-the
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:43:37 ERROR 400: Bad Request.
+
+--2017-02-03 18:43:38--  http://doi.org/10.2307/3984916
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/3/89/466989/IM-Never-Fight-Fire-with-My-Bare-Hands-Again [following]
+--2017-02-03 18:43:39--  https://academic.oup.com/envihistrevi/article/19/3/89/466989/IM-Never-Fight-Fire-with-My-Bare-Hands-Again
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/3/89/466989/I-M-Never-Fight-Fire-with-My-Bare-Hands-Again?redirectedFrom=fulltext [following]
+--2017-02-03 18:43:41--  https://academic.oup.com/envihistrevi/article-abstract/19/3/89/466989/I-M-Never-Fight-Fire-with-My-Bare-Hands-Again?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:43:42 ERROR 400: Bad Request.
+
+--2017-02-03 18:43:43--  http://doi.org/10.2307/3984832
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/2/55/407723/Conservation-and-the-Gospel-of-Economic [following]
+--2017-02-03 18:43:44--  https://academic.oup.com/envihistrevi/article/19/2/55/407723/Conservation-and-the-Gospel-of-Economic
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/2/55/407723/Conservation-and-the-Gospel-of-Economic?redirectedFrom=fulltext [following]
+--2017-02-03 18:43:46--  https://academic.oup.com/envihistrevi/article-abstract/19/2/55/407723/Conservation-and-the-Gospel-of-Economic?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 72808 (71K) [text/html]
+Saving to: ‘3984832’
+
+     0K .......... .......... .......... .......... .......... 70%  209K 0s
+    50K .......... .......... .                               100% 9.43M=0.2s
+
+2017-02-03 18:43:50 (295 KB/s) - ‘3984832’ saved [72808/72808]
+
+--2017-02-03 18:43:51--  http://doi.org/10.2307/3984917
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/3/90/466999/Rocky-Mountain-Divide-Selling-and-Saving-the-West [following]
+--2017-02-03 18:43:52--  https://academic.oup.com/envihistrevi/article/19/3/90/466999/Rocky-Mountain-Divide-Selling-and-Saving-the-West
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/3/90/466999/Rocky-Mountain-Divide-Selling-and-Saving-the-West?redirectedFrom=fulltext [following]
+--2017-02-03 18:43:55--  https://academic.oup.com/envihistrevi/article-abstract/19/3/90/466999/Rocky-Mountain-Divide-Selling-and-Saving-the-West?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 70669 (69K) [text/html]
+Saving to: ‘3984917’
+
+     0K .......... .......... .......... .......... .......... 72%  209K 0s
+    50K .......... .........                                  100% 14.0M=0.2s
+
+2017-02-03 18:43:59 (287 KB/s) - ‘3984917’ saved [70669/70669]
+
+--2017-02-03 18:44:00--  http://doi.org/10.2307/3984920
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/3/96/467024/Going-Wild-Hunting-Animal-Rights-and-the-Contested [following]
+--2017-02-03 18:44:01--  https://academic.oup.com/envihistrevi/article/19/3/96/467024/Going-Wild-Hunting-Animal-Rights-and-the-Contested
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/3/96/467024/Going-Wild-Hunting-Animal-Rights-and-the-Contested?redirectedFrom=fulltext [following]
+--2017-02-03 18:44:03--  https://academic.oup.com/envihistrevi/article-abstract/19/3/96/467024/Going-Wild-Hunting-Animal-Rights-and-the-Contested?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 85753 (84K) [text/html]
+Saving to: ‘3984920’
+
+     0K .......... .......... .......... .......... .......... 59%  208K 0s
+    50K .......... .......... .......... ...                  100% 14.0M=0.2s
+
+2017-02-03 18:44:07 (345 KB/s) - ‘3984920’ saved [85753/85753]
+
+--2017-02-03 18:44:08--  http://doi.org/10.2307/3984691
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/4/31/421504/The-Political-Economy-of-Sugar-Production-and-the [following]
+--2017-02-03 18:44:10--  https://academic.oup.com/envihistrevi/article/19/4/31/421504/The-Political-Economy-of-Sugar-Production-and-the
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/4/31/421504/The-Political-Economy-of-Sugar-Production-and-the?redirectedFrom=fulltext [following]
+--2017-02-03 18:44:12--  https://academic.oup.com/envihistrevi/article-abstract/19/4/31/421504/The-Political-Economy-of-Sugar-Production-and-the?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 85635 (84K) [text/html]
+Saving to: ‘3984691’
+
+     0K .......... .......... .......... .......... .......... 59%  209K 0s
+    50K .......... .......... .......... ...                  100% 8.61M=0.2s
+
+2017-02-03 18:44:17 (344 KB/s) - ‘3984691’ saved [85635/85635]
+
+--2017-02-03 18:44:18--  http://doi.org/10.2307/3984836
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/2/92/407733/Wisdom-in-the-Open-Air-The-Norwegian-Roots-of-Deep [following]
+--2017-02-03 18:44:19--  https://academic.oup.com/envihistrevi/article/19/2/92/407733/Wisdom-in-the-Open-Air-The-Norwegian-Roots-of-Deep
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:44:21 ERROR 400: Bad Request.
+
+--2017-02-03 18:44:22--  http://doi.org/10.2307/3984782
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/1/108/409591/A-Plague-of-Sheep-Environmental-Consequences-of [following]
+--2017-02-03 18:44:23--  https://academic.oup.com/envihistrevi/article/19/1/108/409591/A-Plague-of-Sheep-Environmental-Consequences-of
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/1/108/409591/A-Plague-of-Sheep-Environmental-Consequences-of?redirectedFrom=fulltext [following]
+--2017-02-03 18:44:25--  https://academic.oup.com/envihistrevi/article-abstract/19/1/108/409591/A-Plague-of-Sheep-Environmental-Consequences-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 85872 (84K) [text/html]
+Saving to: ‘3984782’
+
+     0K .......... .......... .......... .......... .......... 59%  209K 0s
+    50K .......... .......... .......... ...                  100% 9.65M=0.2s
+
+2017-02-03 18:44:31 (346 KB/s) - ‘3984782’ saved [85872/85872]
+
+--2017-02-03 18:44:32--  http://doi.org/10.2307/3984772
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/1/17/409634/Voices-from-the-Hydrocarbon-Frontier-Canadas [following]
+--2017-02-03 18:44:33--  https://academic.oup.com/envihistrevi/article/19/1/17/409634/Voices-from-the-Hydrocarbon-Frontier-Canadas
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/1/17/409634/Voices-from-the-Hydrocarbon-Frontier-Canada-s?redirectedFrom=fulltext [following]
+--2017-02-03 18:44:36--  https://academic.oup.com/envihistrevi/article-abstract/19/1/17/409634/Voices-from-the-Hydrocarbon-Frontier-Canada-s?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 70759 (69K) [text/html]
+Saving to: ‘3984772’
+
+     0K .......... .......... .......... .......... .......... 72%  209K 0s
+    50K .......... .........                                  100% 12.7M=0.2s
+
+2017-02-03 18:44:42 (287 KB/s) - ‘3984772’ saved [70759/70759]
+
+--2017-02-03 18:44:43--  http://doi.org/10.2307/3984779
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/1/103/409572/Beyond-the-Numbers-A-Reader-on-Population [following]
+--2017-02-03 18:44:44--  https://academic.oup.com/envihistrevi/article/19/1/103/409572/Beyond-the-Numbers-A-Reader-on-Population
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/1/103/409572/Beyond-the-Numbers-A-Reader-on-Population?redirectedFrom=fulltext [following]
+--2017-02-03 18:44:46--  https://academic.oup.com/envihistrevi/article-abstract/19/1/103/409572/Beyond-the-Numbers-A-Reader-on-Population?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 70957 (69K) [text/html]
+Saving to: ‘3984779’
+
+     0K .......... .......... .......... .......... .......... 72%  209K 0s
+    50K .......... .........                                  100% 15.4M=0.2s
+
+2017-02-03 18:44:51 (288 KB/s) - ‘3984779’ saved [70957/70957]
+
+--2017-02-03 18:44:52--  http://doi.org/10.2307/3984702
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/4/86/421538/Cities-of-Heat-and-Light-Domesticating-Gas-and [following]
+--2017-02-03 18:44:53--  https://academic.oup.com/envihistrevi/article/19/4/86/421538/Cities-of-Heat-and-Light-Domesticating-Gas-and
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:44:53 ERROR 400: Bad Request.
+
+--2017-02-03 18:44:54--  http://doi.org/10.2307/3984914
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/3/86/466972/A-Symbol-of-Wilderness-Echo-Park-and-the-American [following]
+--2017-02-03 18:44:56--  https://academic.oup.com/envihistrevi/article/19/3/86/466972/A-Symbol-of-Wilderness-Echo-Park-and-the-American
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:44:57 ERROR 400: Bad Request.
+
+--2017-02-03 18:44:58--  http://doi.org/10.2307/3984695
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/4/72/421519/Mixing-the-Waters-Environment-Politics-and-the [following]
+--2017-02-03 18:44:59--  https://academic.oup.com/envihistrevi/article/19/4/72/421519/Mixing-the-Waters-Environment-Politics-and-the
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/4/72/421519/Mixing-the-Waters-Environment-Politics-and-the?redirectedFrom=fulltext [following]
+--2017-02-03 18:45:02--  https://academic.oup.com/envihistrevi/article-abstract/19/4/72/421519/Mixing-the-Waters-Environment-Politics-and-the?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 71143 (69K) [text/html]
+Saving to: ‘3984695’
+
+     0K .......... .......... .......... .......... .......... 71%  209K 0s
+    50K .......... .........                                  100% 13.6M=0.2s
+
+2017-02-03 18:45:07 (289 KB/s) - ‘3984695’ saved [71143/71143]
+
+--2017-02-03 18:45:08--  http://doi.org/10.2307/3984785
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/1/113/409612/Getting-Back-Into-Place-Toward-a-Renewed [following]
+--2017-02-03 18:45:09--  https://academic.oup.com/envihistrevi/article/19/1/113/409612/Getting-Back-Into-Place-Toward-a-Renewed
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/1/113/409612/Getting-Back-Into-Place-Toward-a-Renewed?redirectedFrom=fulltext [following]
+--2017-02-03 18:45:12--  https://academic.oup.com/envihistrevi/article-abstract/19/1/113/409612/Getting-Back-Into-Place-Toward-a-Renewed?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 71462 (70K) [text/html]
+Saving to: ‘3984785’
+
+     0K .......... .......... .......... .......... .......... 71%  208K 0s
+    50K .......... .........                                  100% 12.8M=0.2s
+
+2017-02-03 18:45:18 (289 KB/s) - ‘3984785’ saved [71462/71462]
+
+--2017-02-03 18:45:19--  http://doi.org/10.2307/3984773
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/1/49/409645/Killing-Animals-With-Guns-and-Ballots-The [following]
+--2017-02-03 18:45:21--  https://academic.oup.com/envihistrevi/article/19/1/49/409645/Killing-Animals-With-Guns-and-Ballots-The
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/1/49/409645/Killing-Animals-With-Guns-and-Ballots-The?redirectedFrom=fulltext [following]
+--2017-02-03 18:45:23--  https://academic.oup.com/envihistrevi/article-abstract/19/1/49/409645/Killing-Animals-With-Guns-and-Ballots-The?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 70725 (69K) [text/html]
+Saving to: ‘3984773’
+
+     0K .......... .......... .......... .......... .......... 72%  209K 0s
+    50K .......... .........                                  100% 9.16M=0.2s
+
+2017-02-03 18:45:29 (287 KB/s) - ‘3984773’ saved [70725/70725]
+
+--2017-02-03 18:45:30--  http://doi.org/10.2307/3984775
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/1/95/409663/Pesticides-and-Politics-The-Life-Cycle-of-a-Public [following]
+--2017-02-03 18:45:31--  https://academic.oup.com/envihistrevi/article/19/1/95/409663/Pesticides-and-Politics-The-Life-Cycle-of-a-Public
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/1/95/409663/Pesticides-and-Politics-The-Life-Cycle-of-a-Public?redirectedFrom=fulltext [following]
+--2017-02-03 18:45:34--  https://academic.oup.com/envihistrevi/article-abstract/19/1/95/409663/Pesticides-and-Politics-The-Life-Cycle-of-a-Public?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 74503 (73K) [text/html]
+Saving to: ‘3984775’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ..                              100% 13.2M=0.2s
+
+2017-02-03 18:45:41 (303 KB/s) - ‘3984775’ saved [74503/74503]
+
+--2017-02-03 18:45:42--  http://doi.org/10.2307/3984834
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/2/87/407730/American-Environmentalism-The-US-Environmental [following]
+--2017-02-03 18:45:43--  https://academic.oup.com/envihistrevi/article/19/2/87/407730/American-Environmentalism-The-US-Environmental
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:45:44 ERROR 400: Bad Request.
+
+--2017-02-03 18:45:45--  http://doi.org/10.2307/3984784
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/1/112/409606/Picturing-Nature-American-NineteenthCentury [following]
+--2017-02-03 18:45:46--  https://academic.oup.com/envihistrevi/article/19/1/112/409606/Picturing-Nature-American-NineteenthCentury
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/1/112/409606/Picturing-Nature-American-Nineteenth-Century?redirectedFrom=fulltext [following]
+--2017-02-03 18:45:48--  https://academic.oup.com/envihistrevi/article-abstract/19/1/112/409606/Picturing-Nature-American-Nineteenth-Century?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 70897 (69K) [text/html]
+Saving to: ‘3984784’
+
+     0K .......... .......... .......... .......... .......... 72%  208K 0s
+    50K .......... .........                                  100% 16.4M=0.2s
+
+2017-02-03 18:45:54 (286 KB/s) - ‘3984784’ saved [70897/70897]
+
+--2017-02-03 18:45:55--  http://doi.org/10.2307/3984842
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/2/103/407712/The-Mississippi-Kite-By-Eric-G-Bolen-and-Dan [following]
+--2017-02-03 18:45:56--  https://academic.oup.com/envihistrevi/article/19/2/103/407712/The-Mississippi-Kite-By-Eric-G-Bolen-and-Dan
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:45:57 ERROR 400: Bad Request.
+
+--2017-02-03 18:45:58--  http://doi.org/10.2307/3984697
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/4/76/421527/Contesting-Earths-Future-Radical-Ecology-and [following]
+--2017-02-03 18:45:59--  https://academic.oup.com/envihistrevi/article/19/4/76/421527/Contesting-Earths-Future-Radical-Ecology-and
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/4/76/421527/Contesting-Earth-s-Future-Radical-Ecology-and?redirectedFrom=fulltext [following]
+--2017-02-03 18:46:02--  https://academic.oup.com/envihistrevi/article-abstract/19/4/76/421527/Contesting-Earth-s-Future-Radical-Ecology-and?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 71047 (69K) [text/html]
+Saving to: ‘3984697’
+
+     0K .......... .......... .......... .......... .......... 72%  209K 0s
+    50K .......... .........                                  100% 7.16M=0.2s
+
+2017-02-03 18:46:30 (287 KB/s) - ‘3984697’ saved [71047/71047]
+
+--2017-02-03 18:46:31--  http://doi.org/10.2307/3984909
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/3/1/466913/Equity-Ecoracism-and-Environmental-History [following]
+--2017-02-03 18:46:32--  https://academic.oup.com/envihistrevi/article/19/3/1/466913/Equity-Ecoracism-and-Environmental-History
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/19/3/1/466913/Equity-Eco-racism-and-Environmental-History?redirectedFrom=fulltext [following]
+--2017-02-03 18:46:35--  https://academic.oup.com/envihistrevi/article-abstract/19/3/1/466913/Equity-Eco-racism-and-Environmental-History?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 70087 (68K) [text/html]
+Saving to: ‘3984909’
+
+     0K .......... .......... .......... .......... .......... 73%  209K 0s
+    50K .......... ........                                   100% 13.3M=0.2s
+
+2017-02-03 18:46:41 (285 KB/s) - ‘3984909’ saved [70087/70087]
+
+--2017-02-03 18:46:42--  http://doi.org/10.2307/3984778
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/1/102/409569/The-Emergence-of-Technopolis-KnowledgeIntensive [following]
+--2017-02-03 18:46:43--  https://academic.oup.com/envihistrevi/article/19/1/102/409569/The-Emergence-of-Technopolis-KnowledgeIntensive
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:46:44 ERROR 400: Bad Request.
+
+--2017-02-03 18:46:45--  http://doi.org/10.2307/3984921
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/19/3/98/467033/Making-the-Corn-Belt-A-Geographical-History-of [following]
+--2017-02-03 18:46:46--  https://academic.oup.com/envihistrevi/article/19/3/98/467033/Making-the-Corn-Belt-A-Geographical-History-of
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62349 (61K) [text/html]
+Saving to: ‘3984921’
+
+     0K .......... .......... .......... .......... .......... 82%  209K 0s
+    50K ..........                                            100% 25.6M=0.2s
+
+2017-02-03 18:46:53 (254 KB/s) - ‘3984921’ saved [62349/62349]
+
+--2017-02-03 18:46:54--  http://doi.org/10.2307/envrev/18.1.1
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article-lookup/doi/10.2307/envrev/18.1.1 [following]
+--2017-02-03 18:46:56--  https://academic.oup.com/envihistrevi/article-lookup/doi/10.2307/envrev/18.1.1
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/18/1/1/595233/Technology-and-the-Environment-The-Historians?redirectedFrom=fulltext [following]
+--2017-02-03 18:46:58--  https://academic.oup.com/envihistrevi/article-abstract/18/1/1/595233/Technology-and-the-Environment-The-Historians?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 71659 (70K) [text/html]
+Saving to: ‘18.1.1’
+
+     0K .......... .......... .......... .......... .......... 71%  311K 0s
+    50K .......... .........                                  100%  251K=0.2s
+
+2017-02-03 18:47:11 (291 KB/s) - ‘18.1.1’ saved [71659/71659]
+
+--2017-02-03 18:47:12--  http://doi.org/10.2307/3984710
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/18/3/59/459627/Elin-W%C3%A4gner-and-Radical-Environmentalism-in-Sweden [following]
+--2017-02-03 18:47:13--  https://academic.oup.com/envihistrevi/article/18/3/59/459627/Elin-W%C3%A4gner-and-Radical-Environmentalism-in-Sweden
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/18/3/59/459627/Elin-Wagner-and-Radical-Environmentalism-in-Sweden?redirectedFrom=fulltext [following]
+--2017-02-03 18:47:15--  https://academic.oup.com/envihistrevi/article-abstract/18/3/59/459627/Elin-Wagner-and-Radical-Environmentalism-in-Sweden?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 70599 (69K) [text/html]
+Saving to: ‘3984710’
+
+     0K .......... .......... .......... .......... .......... 72%  209K 0s
+    50K .......... ........                                   100% 17.8M=0.2s
+
+2017-02-03 18:47:31 (287 KB/s) - ‘3984710’ saved [70599/70599]
+
+--2017-02-03 18:47:32--  http://doi.org/10.2307/3984808
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/18/2/113/454333/Animal-Victims-in-Modern-Fiction-From-Sanctity-to [following]
+--2017-02-03 18:47:33--  https://academic.oup.com/envihistrevi/article/18/2/113/454333/Animal-Victims-in-Modern-Fiction-From-Sanctity-to
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/18/2/113/454333/Animal-Victims-in-Modern-Fiction-From-Sanctity-to?redirectedFrom=fulltext [following]
+--2017-02-03 18:47:35--  https://academic.oup.com/envihistrevi/article-abstract/18/2/113/454333/Animal-Victims-in-Modern-Fiction-From-Sanctity-to?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 70729 (69K) [text/html]
+Saving to: ‘3984808’
+
+     0K .......... .......... .......... .......... .......... 72%  209K 0s
+    50K .......... .........                                  100% 12.2M=0.2s
+
+2017-02-03 18:47:42 (286 KB/s) - ‘3984808’ saved [70729/70729]
+
+--2017-02-03 18:47:43--  http://doi.org/10.2307/3984803
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/18/2/104/454277/Following-Where-the-River-Begins-By-James-C-Work [following]
+--2017-02-03 18:47:44--  https://academic.oup.com/envihistrevi/article/18/2/104/454277/Following-Where-the-River-Begins-By-James-C-Work
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:47:45 ERROR 400: Bad Request.
+
+--2017-02-03 18:47:46--  http://doi.org/10.2307/3984720
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/18/3/94/459899/Claiming-the-High-Ground-Shevpas-Subsistence-and [following]
+--2017-02-03 18:47:47--  https://academic.oup.com/envihistrevi/article/18/3/94/459899/Claiming-the-High-Ground-Shevpas-Subsistence-and
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:47:48 ERROR 400: Bad Request.
+
+--2017-02-03 18:47:49--  http://doi.org/10.2307/3984791
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/18/2/17/454343/Environmental-Change-in-Colonial-New-Mexico [following]
+--2017-02-03 18:47:50--  https://academic.oup.com/envihistrevi/article/18/2/17/454343/Environmental-Change-in-Colonial-New-Mexico
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/18/2/17/454343/Environmental-Change-in-Colonial-New-Mexico?redirectedFrom=fulltext [following]
+--2017-02-03 18:47:53--  https://academic.oup.com/envihistrevi/article-abstract/18/2/17/454343/Environmental-Change-in-Colonial-New-Mexico?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 70253 (69K) [text/html]
+Saving to: ‘3984791’
+
+     0K .......... .......... .......... .......... .......... 72%  209K 0s
+    50K .......... ........                                   100% 16.2M=0.2s
+
+2017-02-03 18:47:59 (285 KB/s) - ‘3984791’ saved [70253/70253]
+
+--2017-02-03 18:48:00--  http://doi.org/10.2307/3984743
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/18/1/9/595274/Searching-for-a-Sink-for-an-Industrial-Waste [following]
+--2017-02-03 18:48:01--  https://academic.oup.com/envihistrevi/article/18/1/9/595274/Searching-for-a-Sink-for-an-Industrial-Waste
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/18/1/9/595274/Searching-for-a-Sink-for-an-Industrial-Waste-Iron?redirectedFrom=fulltext [following]
+--2017-02-03 18:48:05--  https://academic.oup.com/envihistrevi/article-abstract/18/1/9/595274/Searching-for-a-Sink-for-an-Industrial-Waste-Iron?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 70696 (69K) [text/html]
+Saving to: ‘3984743’
+
+     0K .......... .......... .......... .......... .......... 72%  209K 0s
+    50K .......... .........                                  100% 12.2M=0.2s
+
+2017-02-03 18:48:11 (287 KB/s) - ‘3984743’ saved [70696/70696]
+
+--2017-02-03 18:48:12--  http://doi.org/10.2307/3984800
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/18/2/98/454439/Federal-Land-Western-Anger-The-Sagebrush-Rebellion [following]
+--2017-02-03 18:48:13--  https://academic.oup.com/envihistrevi/article/18/2/98/454439/Federal-Land-Western-Anger-The-Sagebrush-Rebellion
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/18/2/98/454439/Federal-Land-Western-Anger-The-Sagebrush-Rebellion?redirectedFrom=fulltext [following]
+--2017-02-03 18:48:16--  https://academic.oup.com/envihistrevi/article-abstract/18/2/98/454439/Federal-Land-Western-Anger-The-Sagebrush-Rebellion?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 70989 (69K) [text/html]
+Saving to: ‘3984800’
+
+     0K .......... .......... .......... .......... .......... 72%  209K 0s
+    50K .......... .........                                  100% 11.3M=0.2s
+
+2017-02-03 18:48:22 (288 KB/s) - ‘3984800’ saved [70989/70989]
+
+--2017-02-03 18:48:23--  http://doi.org/10.2307/3984796
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/18/2/91/454393/A-Fierce-Green-Fire-The-American-Environmental [following]
+--2017-02-03 18:48:24--  https://academic.oup.com/envihistrevi/article/18/2/91/454393/A-Fierce-Green-Fire-The-American-Environmental
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/18/2/91/454393/A-Fierce-Green-Fire-The-American-Environmental?redirectedFrom=fulltext [following]
+--2017-02-03 18:48:26--  https://academic.oup.com/envihistrevi/article-abstract/18/2/91/454393/A-Fierce-Green-Fire-The-American-Environmental?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 70877 (69K) [text/html]
+Saving to: ‘3984796’
+
+     0K .......... .......... .......... .......... .......... 72%  209K 0s
+    50K .......... .........                                  100% 12.8M=0.2s
+
+2017-02-03 18:48:30 (288 KB/s) - ‘3984796’ saved [70877/70877]
+
+--2017-02-03 18:48:31--  http://doi.org/10.2307/3984799
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/18/2/95/454428/Ogallala-Water-for-a-Dry-Land-By-John-Opie [following]
+--2017-02-03 18:48:32--  https://academic.oup.com/envihistrevi/article/18/2/95/454428/Ogallala-Water-for-a-Dry-Land-By-John-Opie
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:48:32 ERROR 400: Bad Request.
+
+--2017-02-03 18:48:33--  http://doi.org/10.2307/3984876
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/18/4/93/649184/Environmental-History-A-Concise-Introduction-By-I [following]
+--2017-02-03 18:48:35--  https://academic.oup.com/envihistrevi/article/18/4/93/649184/Environmental-History-A-Concise-Introduction-By-I
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:48:36 ERROR 400: Bad Request.
+
+--2017-02-03 18:48:37--  http://doi.org/10.2307/3984794
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/18/2/87/454374/The-Wealth-of-Nature-Environmental-History-and-the [following]
+--2017-02-03 18:48:38--  https://academic.oup.com/envihistrevi/article/18/2/87/454374/The-Wealth-of-Nature-Environmental-History-and-the
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:48:47 ERROR 400: Bad Request.
+
+--2017-02-03 18:48:48--  http://doi.org/10.2307/3984880
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/18/4/102/649119/The-Texture-of-Industry-An-Archaeological-View-of [following]
+--2017-02-03 18:48:49--  https://academic.oup.com/envihistrevi/article/18/4/102/649119/The-Texture-of-Industry-An-Archaeological-View-of
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/18/4/102/649119/The-Texture-of-Industry-An-Archaeological-View-of?redirectedFrom=fulltext [following]
+--2017-02-03 18:48:51--  https://academic.oup.com/envihistrevi/article-abstract/18/4/102/649119/The-Texture-of-Industry-An-Archaeological-View-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 71511 (70K) [text/html]
+Saving to: ‘3984880’
+
+     0K .......... .......... .......... .......... .......... 71%  209K 0s
+    50K .......... .........                                  100% 2.40M=0.2s
+
+2017-02-03 18:48:55 (283 KB/s) - ‘3984880’ saved [71511/71511]
+
+--2017-02-03 18:48:56--  http://doi.org/10.2307/3984744
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/18/1/35/595245/A-Nature-Fit-for-Industry-The-Environmental [following]
+--2017-02-03 18:48:57--  https://academic.oup.com/envihistrevi/article/18/1/35/595245/A-Nature-Fit-for-Industry-The-Environmental
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/18/1/35/595245/A-Nature-Fit-for-Industry-The-Environmental?redirectedFrom=fulltext [following]
+--2017-02-03 18:49:00--  https://academic.oup.com/envihistrevi/article-abstract/18/1/35/595245/A-Nature-Fit-for-Industry-The-Environmental?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 70710 (69K) [text/html]
+Saving to: ‘3984744’
+
+     0K .......... .......... .......... .......... .......... 72%  208K 0s
+    50K .......... .........                                  100% 14.4M=0.2s
+
+2017-02-03 18:49:05 (286 KB/s) - ‘3984744’ saved [70710/70710]
+
+--2017-02-03 18:49:06--  http://doi.org/10.2307/3984874
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/18/4/89/649172/Pans-Travail-Environmental-Problems-of-the-Ancient [following]
+--2017-02-03 18:49:07--  https://academic.oup.com/envihistrevi/article/18/4/89/649172/Pans-Travail-Environmental-Problems-of-the-Ancient
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:49:08 ERROR 400: Bad Request.
+
+--2017-02-03 18:49:09--  http://doi.org/10.2307/3984797
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/18/2/92/454406/Government-and-Environmental-Politics-Essays-on [following]
+--2017-02-03 18:49:10--  https://academic.oup.com/envihistrevi/article/18/2/92/454406/Government-and-Environmental-Politics-Essays-on
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:49:12 ERROR 400: Bad Request.
+
+--2017-02-03 18:49:13--  http://doi.org/10.2307/3984747
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/18/1/117/595240/The-DeathDealing-Smog-Over-Donora-Pennsylvania [following]
+--2017-02-03 18:49:14--  https://academic.oup.com/envihistrevi/article/18/1/117/595240/The-DeathDealing-Smog-Over-Donora-Pennsylvania
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:49:15 ERROR 400: Bad Request.
+
+--2017-02-03 18:49:16--  http://doi.org/10.2307/3984806
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/18/2/109/454311/Passing-Strange-and-Wonderful-Aesthetics-Nature [following]
+--2017-02-03 18:49:17--  https://academic.oup.com/envihistrevi/article/18/2/109/454311/Passing-Strange-and-Wonderful-Aesthetics-Nature
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/18/2/109/454311/Passing-Strange-and-Wonderful-Aesthetics-Nature?redirectedFrom=fulltext [following]
+--2017-02-03 18:49:20--  https://academic.oup.com/envihistrevi/article-abstract/18/2/109/454311/Passing-Strange-and-Wonderful-Aesthetics-Nature?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 70659 (69K) [text/html]
+Saving to: ‘3984806’
+
+     0K .......... .......... .......... .......... .......... 72%  209K 0s
+    50K .......... .........                                  100% 13.4M=0.2s
+
+2017-02-03 18:49:28 (286 KB/s) - ‘3984806’ saved [70659/70659]
+
+--2017-02-03 18:49:29--  http://doi.org/10.2307/3984712
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/18/3/78/459652/Our-Limits-Transgressed-Environmental-Political [following]
+--2017-02-03 18:49:30--  https://academic.oup.com/envihistrevi/article/18/3/78/459652/Our-Limits-Transgressed-Environmental-Political
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/18/3/78/459652/Our-Limits-Transgressed-Environmental-Political?redirectedFrom=fulltext [following]
+--2017-02-03 18:49:32--  https://academic.oup.com/envihistrevi/article-abstract/18/3/78/459652/Our-Limits-Transgressed-Environmental-Political?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 70794 (69K) [text/html]
+Saving to: ‘3984712’
+
+     0K .......... .......... .......... .......... .......... 72%  209K 0s
+    50K .......... .........                                  100% 11.4M=0.2s
+
+2017-02-03 18:49:36 (287 KB/s) - ‘3984712’ saved [70794/70794]
+
+--2017-02-03 18:49:37--  http://doi.org/10.2307/3984714
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/18/3/82/459668/Tensions-at-the-Border-Energy-and-Environmental [following]
+--2017-02-03 18:49:38--  https://academic.oup.com/envihistrevi/article/18/3/82/459668/Tensions-at-the-Border-Energy-and-Environmental
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/18/3/82/459668/Tensions-at-the-Border-Energy-and-Environmental?redirectedFrom=fulltext [following]
+--2017-02-03 18:49:40--  https://academic.oup.com/envihistrevi/article-abstract/18/3/82/459668/Tensions-at-the-Border-Energy-and-Environmental?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 72205 (71K) [text/html]
+Saving to: ‘3984714’
+
+     0K .......... .......... .......... .......... .......... 70%  209K 0s
+    50K .......... ..........                                 100% 7.65M=0.2s
+
+2017-02-03 18:50:00 (292 KB/s) - ‘3984714’ saved [72205/72205]
+
+--2017-02-03 18:50:01--  http://doi.org/10.2307/3984875
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/18/4/91/649177/The-Environmental-Movement-in-Germany-Prophets-and [following]
+--2017-02-03 18:50:02--  https://academic.oup.com/envihistrevi/article/18/4/91/649177/The-Environmental-Movement-in-Germany-Prophets-and
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/18/4/91/649177/The-Environmental-Movement-in-Germany-Prophets-and?redirectedFrom=fulltext [following]
+--2017-02-03 18:50:04--  https://academic.oup.com/envihistrevi/article-abstract/18/4/91/649177/The-Environmental-Movement-in-Germany-Prophets-and?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 71027 (69K) [text/html]
+Saving to: ‘3984875’
+
+     0K .......... .......... .......... .......... .......... 72%  207K 0s
+    50K .......... .........                                  100% 12.9M=0.2s
+
+2017-02-03 18:50:08 (286 KB/s) - ‘3984875’ saved [71027/71027]
+
+--2017-02-03 18:50:09--  http://doi.org/10.2307/3984713
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/18/3/80/459661/Between-Earth-and-Sky-How-CFCs-Changed-Our-World [following]
+--2017-02-03 18:50:10--  https://academic.oup.com/envihistrevi/article/18/3/80/459661/Between-Earth-and-Sky-How-CFCs-Changed-Our-World
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/18/3/80/459661/Between-Earth-and-Sky-How-CFCs-Changed-Our-World?redirectedFrom=fulltext [following]
+--2017-02-03 18:50:12--  https://academic.oup.com/envihistrevi/article-abstract/18/3/80/459661/Between-Earth-and-Sky-How-CFCs-Changed-Our-World?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 71033 (69K) [text/html]
+Saving to: ‘3984713’
+
+     0K .......... .......... .......... .......... .......... 72%  208K 0s
+    50K .......... .........                                  100% 14.9M=0.2s
+
+2017-02-03 18:50:16 (287 KB/s) - ‘3984713’ saved [71033/71033]
+
+--2017-02-03 18:50:17--  http://doi.org/10.2307/3984873
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/18/4/63/649164/Industry-and-Water-Distribution-in-California-The [following]
+--2017-02-03 18:50:18--  https://academic.oup.com/envihistrevi/article/18/4/63/649164/Industry-and-Water-Distribution-in-California-The
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/18/4/63/649164/Industry-and-Water-Distribution-in-California-The?redirectedFrom=fulltext [following]
+--2017-02-03 18:50:20--  https://academic.oup.com/envihistrevi/article-abstract/18/4/63/649164/Industry-and-Water-Distribution-in-California-The?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 70901 (69K) [text/html]
+Saving to: ‘3984873’
+
+     0K .......... .......... .......... .......... .......... 72%  209K 0s
+    50K .......... .........                                  100% 14.5M=0.2s
+
+2017-02-03 18:50:23 (288 KB/s) - ‘3984873’ saved [70901/70901]
+
+--2017-02-03 18:50:24--  http://doi.org/10.2307/3984885
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/18/4/112/649141/Silver-Swimmer-The-Struggle-for-Survival-of-the [following]
+--2017-02-03 18:50:25--  https://academic.oup.com/envihistrevi/article/18/4/112/649141/Silver-Swimmer-The-Struggle-for-Survival-of-the
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/18/4/112/649141/Silver-Swimmer-The-Struggle-for-Survival-of-the?redirectedFrom=fulltext [following]
+--2017-02-03 18:50:27--  https://academic.oup.com/envihistrevi/article-abstract/18/4/112/649141/Silver-Swimmer-The-Struggle-for-Survival-of-the?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 70751 (69K) [text/html]
+Saving to: ‘3984885’
+
+     0K .......... .......... .......... .......... .......... 72%  209K 0s
+    50K .......... .........                                  100% 8.15M=0.2s
+
+2017-02-03 18:50:30 (286 KB/s) - ‘3984885’ saved [70751/70751]
+
+--2017-02-03 18:50:31--  http://doi.org/10.2307/3984711
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/18/3/75/459641/Forcing-the-Spring-The-Transformation-of-the [following]
+--2017-02-03 18:50:33--  https://academic.oup.com/envihistrevi/article/18/3/75/459641/Forcing-the-Spring-The-Transformation-of-the
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/18/3/75/459641/Forcing-the-Spring-The-Transformation-of-the?redirectedFrom=fulltext [following]
+--2017-02-03 18:50:35--  https://academic.oup.com/envihistrevi/article-abstract/18/3/75/459641/Forcing-the-Spring-The-Transformation-of-the?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 72485 (71K) [text/html]
+Saving to: ‘3984711’
+
+     0K .......... .......... .......... .......... .......... 70%  209K 0s
+    50K .......... ..........                                 100% 8.97M=0.2s
+
+2017-02-03 18:50:39 (293 KB/s) - ‘3984711’ saved [72485/72485]
+
+--2017-02-03 18:50:40--  http://doi.org/10.2307/3984879
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/18/4/100/649115/The-Shaping-of-America-A-Geographical-Perspective [following]
+--2017-02-03 18:50:41--  https://academic.oup.com/envihistrevi/article/18/4/100/649115/The-Shaping-of-America-A-Geographical-Perspective
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/18/4/100/649115/The-Shaping-of-America-A-Geographical-Perspective?redirectedFrom=fulltext [following]
+--2017-02-03 18:50:44--  https://academic.oup.com/envihistrevi/article-abstract/18/4/100/649115/The-Shaping-of-America-A-Geographical-Perspective?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:51:01 ERROR 400: Bad Request.
+
+--2017-02-03 18:51:02--  http://doi.org/10.2307/3984883
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/18/4/109/649132/Visions-Upon-the-Land-Man-and-Nature-on-the [following]
+--2017-02-03 18:51:03--  https://academic.oup.com/envihistrevi/article/18/4/109/649132/Visions-Upon-the-Land-Man-and-Nature-on-the
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:51:05 ERROR 400: Bad Request.
+
+--2017-02-03 18:51:06--  http://doi.org/10.2307/3984881
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/18/4/104/649122/John-Muir-Life-and-Work-Edited-by-Sally-M-Miller [following]
+--2017-02-03 18:51:07--  https://academic.oup.com/envihistrevi/article/18/4/104/649122/John-Muir-Life-and-Work-Edited-by-Sally-M-Miller
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/18/4/104/649122/John-Muir-Life-and-Work-Edited-by-Sally-M-Miller?redirectedFrom=fulltext [following]
+--2017-02-03 18:51:10--  https://academic.oup.com/envihistrevi/article-abstract/18/4/104/649122/John-Muir-Life-and-Work-Edited-by-Sally-M-Miller?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 70520 (69K) [text/html]
+Saving to: ‘3984881’
+
+     0K .......... .......... .......... .......... .......... 72%  209K 0s
+    50K .......... ........                                   100% 13.2M=0.2s
+
+2017-02-03 18:51:15 (286 KB/s) - ‘3984881’ saved [70520/70520]
+
+--2017-02-03 18:51:16--  http://doi.org/10.2307/3984717
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/18/3/88/459766/The-Boundary-Waters-Canoe-Area-Wilderness-Values [following]
+--2017-02-03 18:51:17--  https://academic.oup.com/envihistrevi/article/18/3/88/459766/The-Boundary-Waters-Canoe-Area-Wilderness-Values
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/18/3/88/459766/The-Boundary-Waters-Canoe-Area-Wilderness-Values?redirectedFrom=fulltext [following]
+--2017-02-03 18:51:21--  https://academic.oup.com/envihistrevi/article-abstract/18/3/88/459766/The-Boundary-Waters-Canoe-Area-Wilderness-Values?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 70860 (69K) [text/html]
+Saving to: ‘3984717’
+
+     0K .......... .......... .......... .......... .......... 72%  209K 0s
+    50K .......... .........                                  100% 15.9M=0.2s
+
+2017-02-03 18:51:27 (288 KB/s) - ‘3984717’ saved [70860/70860]
+
+--2017-02-03 18:51:28--  http://doi.org/10.2307/3984719
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/18/3/91/459832/North-American-CattleRanching-Frontiers-Origins [following]
+--2017-02-03 18:51:29--  https://academic.oup.com/envihistrevi/article/18/3/91/459832/North-American-CattleRanching-Frontiers-Origins
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /envihistrevi/article-abstract/18/3/91/459832/North-American-Cattle-Ranching-Frontiers-Origins?redirectedFrom=fulltext [following]
+--2017-02-03 18:51:32--  https://academic.oup.com/envihistrevi/article-abstract/18/3/91/459832/North-American-Cattle-Ranching-Frontiers-Origins?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 70915 (69K) [text/html]
+Saving to: ‘3984719’
+
+     0K .......... .......... .......... .......... .......... 72%  209K 0s
+    50K .......... .........                                  100% 14.7M=0.2s
+
+2017-02-03 18:51:39 (288 KB/s) - ‘3984719’ saved [70915/70915]
+
+--2017-02-03 18:51:40--  http://doi.org/10.2307/3984878
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/envihistrevi/article/18/4/98/649197/Science-and-Empire-East-Coast-Fever-in-Rhodesia [following]
+--2017-02-03 18:51:41--  https://academic.oup.com/envihistrevi/article/18/4/98/649197/Science-and-Empire-East-Coast-Fever-in-Rhodesia
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 18:51:42 ERROR 400: Bad Request.
+
+FINISHED --2017-02-03 18:51:42--
+Total wall clock time: 15m 43s
+Downloaded: 69 files, 4.8M in 17s (294 KB/s)

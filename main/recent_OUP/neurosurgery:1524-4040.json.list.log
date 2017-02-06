@@ -1,0 +1,823 @@
+--2017-02-03 00:59:37--  http://doi.org/10.1093/neuros/nyw101
+Resolving doi.org (doi.org)... 54.191.229.235, 38.100.138.163, 95.138.171.129, ...
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/neurosurgery/article-lookup/doi/10.1093/neuros/nyw101 [following]
+--2017-02-03 00:59:38--  https://academic.oup.com/neurosurgery/article-lookup/doi/10.1093/neuros/nyw101
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 300328 (293K) [text/html]
+Saving to: ‘nyw101’
+
+     0K .......... .......... .......... .......... .......... 17%  309K 1s
+    50K .......... .......... .......... .......... .......... 34%  311K 1s
+   100K .......... .......... .......... .......... .......... 51%  613K 0s
+   150K .......... .......... .......... .......... .......... 68%  313K 0s
+   200K .......... .......... .......... .......... .......... 85%  605K 0s
+   250K .......... .......... .......... .......... ...       100%  517K=0.7s
+
+2017-02-03 00:59:48 (401 KB/s) - ‘nyw101’ saved [300328/300328]
+
+--2017-02-03 00:59:49--  http://doi.org/10.1093/neuros/nyw067
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/neurosurgery/article-lookup/doi/10.1093/neuros/nyw067 [following]
+--2017-02-03 00:59:50--  https://academic.oup.com/neurosurgery/article-lookup/doi/10.1093/neuros/nyw067
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/neurosurgery/article-lookup/doi/10.1093/neuros/nyw067 [following]
+--2017-02-03 00:59:52--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/neurosurgery/article-lookup/doi/10.1093/neuros/nyw067
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23985 (23K) [text/html]
+Saving to: ‘nyw067’
+
+     0K .......... .......... ...                             100%  292K=0.08s
+
+2017-02-03 00:59:54 (292 KB/s) - ‘nyw067’ saved [23985/23985]
+
+--2017-02-03 00:59:55--  http://doi.org/10.1093/neuros/nyw162
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 00:59:56--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Resolving fdslive.oup.com (fdslive.oup.com)... 193.67.160.201
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyw162’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 00:59:56 (1.32 MB/s) - ‘nyw162’ saved [52438/52438]
+
+--2017-02-03 00:59:57--  http://doi.org/10.1093/neuros/nyw066
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 00:59:59--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyw066’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 00:59:59 (1.32 MB/s) - ‘nyw066’ saved [52438/52438]
+
+--2017-02-03 01:00:00--  http://doi.org/10.1093/neuros/nyw102
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:00:01--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyw102’
+
+     0K .......... .......... .......... .......... .......... 97% 1.02M 0s
+    50K .                                                     100% 2306G=0.05s
+
+2017-02-03 01:00:01 (1.04 MB/s) - ‘nyw102’ saved [52438/52438]
+
+--2017-02-03 01:00:02--  http://doi.org/10.1093/neuros/nyw083
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:00:03--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyw083’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:00:04 (1.19 MB/s) - ‘nyw083’ saved [52438/52438]
+
+--2017-02-03 01:00:05--  http://doi.org/10.1093/neuros/nyw084
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:00:06--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyw084’
+
+     0K .......... .......... .......... .......... .......... 97% 1.28M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:00:06 (1.31 MB/s) - ‘nyw084’ saved [52438/52438]
+
+--2017-02-03 01:00:07--  http://doi.org/10.1093/neuros/nyw151
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:00:08--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyw151’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:00:08 (1.20 MB/s) - ‘nyw151’ saved [52438/52438]
+
+--2017-02-03 01:00:09--  http://doi.org/10.1093/neuros/nyx059
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:00:11--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyx059’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:00:11 (1.20 MB/s) - ‘nyx059’ saved [52438/52438]
+
+--2017-02-03 01:00:12--  http://doi.org/10.1093/neuros/nyw185
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:00:13--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyw185’
+
+     0K .......... .......... .......... .......... .......... 97% 1.24M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:00:13 (1.27 MB/s) - ‘nyw185’ saved [52438/52438]
+
+--2017-02-03 01:00:14--  http://doi.org/10.1093/neuros/nyx033
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:00:16--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyx033’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:00:16 (1.20 MB/s) - ‘nyx033’ saved [52438/52438]
+
+--2017-02-03 01:00:17--  http://doi.org/10.1093/neuros/nyx053
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:00:18--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyx053’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:00:18 (1.32 MB/s) - ‘nyx053’ saved [52438/52438]
+
+--2017-02-03 01:00:19--  http://doi.org/10.1093/neuros/nyx062
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:00:21--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyx062’
+
+     0K .......... .......... .......... .......... .......... 97% 1.28M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:00:21 (1.31 MB/s) - ‘nyx062’ saved [52438/52438]
+
+--2017-02-03 01:00:22--  http://doi.org/10.1093/neuros/nyx010
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:00:23--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyx010’
+
+     0K .......... .......... .......... .......... .......... 97% 1.16M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:00:23 (1.19 MB/s) - ‘nyx010’ saved [52438/52438]
+
+--2017-02-03 01:00:24--  http://doi.org/10.1093/neuros/nyx068
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:00:25--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyx068’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:00:26 (1.32 MB/s) - ‘nyx068’ saved [52438/52438]
+
+--2017-02-03 01:00:27--  http://doi.org/10.1093/neuros/nyx024
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:00:28--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyx024’
+
+     0K .......... .......... .......... .......... .......... 97% 1.16M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:00:28 (1.19 MB/s) - ‘nyx024’ saved [52438/52438]
+
+--2017-02-03 01:00:29--  http://doi.org/10.1093/neuros/nyx002
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:00:30--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyx002’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:00:30 (1.19 MB/s) - ‘nyx002’ saved [52438/52438]
+
+--2017-02-03 01:00:31--  http://doi.org/10.1093/neuros/nyw085
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:00:33--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyw085’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:00:33 (1.20 MB/s) - ‘nyw085’ saved [52438/52438]
+
+--2017-02-03 01:00:34--  http://doi.org/10.1093/neuros/nyx055
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:00:35--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyx055’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:00:35 (1.32 MB/s) - ‘nyx055’ saved [52438/52438]
+
+--2017-02-03 01:00:36--  http://doi.org/10.1093/neuros/nyw144
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:00:38--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyw144’
+
+     0K .......... .......... .......... .......... .......... 97% 1.28M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:00:38 (1.31 MB/s) - ‘nyw144’ saved [52438/52438]
+
+--2017-02-03 01:00:39--  http://doi.org/10.1093/neuros/nyw081
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:00:41--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyw081’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:00:41 (1.20 MB/s) - ‘nyw081’ saved [52438/52438]
+
+--2017-02-03 01:00:42--  http://doi.org/10.1093/neuros/nyx004
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:00:43--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyx004’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:00:43 (1.32 MB/s) - ‘nyx004’ saved [52438/52438]
+
+--2017-02-03 01:00:44--  http://doi.org/10.1093/neuros/nyx007
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:00:46--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyx007’
+
+     0K .......... .......... .......... .......... .......... 97% 1.30M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:00:46 (1.33 MB/s) - ‘nyx007’ saved [52438/52438]
+
+--2017-02-03 01:00:47--  http://doi.org/10.1093/neuros/nyx070
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:00:48--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyx070’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:00:48 (1.32 MB/s) - ‘nyx070’ saved [52438/52438]
+
+--2017-02-03 01:00:49--  http://doi.org/10.1093/neuros/nyx042
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:00:51--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyx042’
+
+     0K .......... .......... .......... .......... .......... 97% 1.28M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:00:51 (1.31 MB/s) - ‘nyx042’ saved [52438/52438]
+
+--2017-02-03 01:00:52--  http://doi.org/10.1093/neuros/nyx046
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:00:53--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyx046’
+
+     0K .......... .......... .......... .......... .......... 97% 1.16M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:00:53 (1.19 MB/s) - ‘nyx046’ saved [52438/52438]
+
+--2017-02-03 01:00:54--  http://doi.org/10.1093/neuros/nyx048
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:00:55--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyx048’
+
+     0K .......... .......... .......... .......... .......... 97%  956K 0s
+    50K .                                                     100% 2306G=0.05s
+
+2017-02-03 01:00:56 (979 KB/s) - ‘nyx048’ saved [52438/52438]
+
+--2017-02-03 01:00:57--  http://doi.org/10.1093/neuros/nyx057
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:00:58--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyx057’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:00:58 (1.20 MB/s) - ‘nyx057’ saved [52438/52438]
+
+--2017-02-03 01:00:59--  http://doi.org/10.1093/neuros/nyx019
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:01:00--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyx019’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:01:00 (1.20 MB/s) - ‘nyx019’ saved [52438/52438]
+
+--2017-02-03 01:01:01--  http://doi.org/10.1093/neuros/nyw088
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:01:03--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyw088’
+
+     0K .......... .......... .......... .......... .......... 97% 1.16M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:01:03 (1.18 MB/s) - ‘nyw088’ saved [52438/52438]
+
+--2017-02-03 01:01:04--  http://doi.org/10.1093/neuros/nyx037
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:01:05--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyx037’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:01:05 (1.20 MB/s) - ‘nyx037’ saved [52438/52438]
+
+--2017-02-03 01:01:06--  http://doi.org/10.1093/neuros/nyx061
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:01:08--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyx061’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:01:08 (1.20 MB/s) - ‘nyx061’ saved [52438/52438]
+
+--2017-02-03 01:01:09--  http://doi.org/10.1093/neuros/nyx025
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:01:10--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyx025’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:01:10 (1.20 MB/s) - ‘nyx025’ saved [52438/52438]
+
+--2017-02-03 01:01:11--  http://doi.org/10.1093/neuros/nyx017
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:01:13--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyx017’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:01:13 (1.32 MB/s) - ‘nyx017’ saved [52438/52438]
+
+--2017-02-03 01:01:14--  http://doi.org/10.1093/neuros/nyx031
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:01:15--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyx031’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:01:15 (1.32 MB/s) - ‘nyx031’ saved [52438/52438]
+
+--2017-02-03 01:01:16--  http://doi.org/10.1093/neuros/nyx044
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:01:17--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyx044’
+
+     0K .......... .......... .......... .......... .......... 97% 1.28M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:01:18 (1.31 MB/s) - ‘nyx044’ saved [52438/52438]
+
+--2017-02-03 01:01:19--  http://doi.org/10.1093/neuros/nyx034
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:01:20--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyx034’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:01:20 (1.19 MB/s) - ‘nyx034’ saved [52438/52438]
+
+--2017-02-03 01:01:21--  http://doi.org/10.1093/neuros/nyx060
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:01:23--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyx060’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:01:23 (1.20 MB/s) - ‘nyx060’ saved [52438/52438]
+
+--2017-02-03 01:01:24--  http://doi.org/10.1093/neuros/nyx036
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:01:25--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyx036’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:01:25 (1.32 MB/s) - ‘nyx036’ saved [52438/52438]
+
+--2017-02-03 01:01:26--  http://doi.org/10.1093/neuros/nyx003
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:01:27--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyx003’
+
+     0K .......... .......... .......... .......... .......... 97% 1.28M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:01:27 (1.31 MB/s) - ‘nyx003’ saved [52438/52438]
+
+--2017-02-03 01:01:28--  http://doi.org/10.1093/neuros/nyx012
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:01:30--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyx012’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:01:30 (1.32 MB/s) - ‘nyx012’ saved [52438/52438]
+
+--2017-02-03 01:01:31--  http://doi.org/10.1093/neuros/nyx008
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:01:32--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyx008’
+
+     0K .......... .......... .......... .......... .......... 97% 1.15M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:01:32 (1.17 MB/s) - ‘nyx008’ saved [52438/52438]
+
+--2017-02-03 01:01:33--  http://doi.org/10.1093/neuros/nyx001
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:01:35--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyx001’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:01:35 (1.20 MB/s) - ‘nyx001’ saved [52438/52438]
+
+--2017-02-03 01:01:36--  http://doi.org/10.1093/neuros/nyx041
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:01:37--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyx041’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:01:37 (1.32 MB/s) - ‘nyx041’ saved [52438/52438]
+
+--2017-02-03 01:01:38--  http://doi.org/10.1093/neuros/nyw072
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:01:40--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyw072’
+
+     0K .......... .......... .......... .......... .......... 97%  883K 0s
+    50K .                                                     100% 2306G=0.06s
+
+2017-02-03 01:01:40 (904 KB/s) - ‘nyw072’ saved [52438/52438]
+
+--2017-02-03 01:01:41--  http://doi.org/10.1093/neuros/nyx039
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:01:42--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyx039’
+
+     0K .......... .......... .......... .......... .......... 97% 1.28M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:01:42 (1.31 MB/s) - ‘nyx039’ saved [52438/52438]
+
+--2017-02-03 01:01:43--  http://doi.org/10.1093/neuros/nyx027
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:01:45--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyx027’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:01:45 (1.32 MB/s) - ‘nyx027’ saved [52438/52438]
+
+--2017-02-03 01:01:46--  http://doi.org/10.1093/neuros/nyx005
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:01:47--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyx005’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:01:47 (1.19 MB/s) - ‘nyx005’ saved [52438/52438]
+
+--2017-02-03 01:01:48--  http://doi.org/10.1093/neuros/nyx054
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:01:49--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyx054’
+
+     0K .......... .......... .......... .......... .......... 97%  389K 0s
+    50K .                                                     100% 2306G=0.1s
+
+2017-02-03 01:01:50 (399 KB/s) - ‘nyx054’ saved [52438/52438]
+
+--2017-02-03 01:01:51--  http://doi.org/10.1093/neuros/nyx028
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:01:52--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyx028’
+
+     0K .......... .......... .......... .......... .......... 97% 1.15M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:01:52 (1.17 MB/s) - ‘nyx028’ saved [52438/52438]
+
+--2017-02-03 01:01:53--  http://doi.org/10.1093/neuros/nyw103
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:01:54--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyw103’
+
+     0K .......... .......... .......... .......... .......... 97% 1.16M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:01:55 (1.18 MB/s) - ‘nyw103’ saved [52438/52438]
+
+--2017-02-03 01:01:56--  http://doi.org/10.1093/neuros/nyx047
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:01:57--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyx047’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:01:57 (1.32 MB/s) - ‘nyx047’ saved [52438/52438]
+
+--2017-02-03 01:01:58--  http://doi.org/10.1093/neuros/nyx040
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:01:59--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyx040’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:01:59 (1.32 MB/s) - ‘nyx040’ saved [52438/52438]
+
+--2017-02-03 01:02:00--  http://doi.org/10.1093/neuros/nyx020
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-03 01:02:02--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘nyx020’
+
+     0K .......... .......... .......... .......... .......... 97% 1.16M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-03 01:02:02 (1.19 MB/s) - ‘nyx020’ saved [52438/52438]
+
+FINISHED --2017-02-03 01:02:02--
+Total wall clock time: 2m 25s
+Downloaded: 54 files, 2.9M in 3.0s (989 KB/s)

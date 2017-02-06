@@ -1,0 +1,1689 @@
+--2017-02-03 00:14:20--  http://doi.org/10.1093/nass/nrp073
+Resolving doi.org (doi.org)... 38.100.138.163, 63.123.152.248, 208.254.38.90, ...
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp073 [following]
+--2017-02-03 00:14:21--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp073
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/145/1099240/Synthesis-and-hybridization-of-oligonucleotides?redirectedFrom=fulltext [following]
+--2017-02-03 00:14:23--  https://academic.oup.com/nass/article-abstract/53/1/145/1099240/Synthesis-and-hybridization-of-oligonucleotides?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75863 (74K) [text/html]
+Saving to: ‘nrp073’
+
+     0K .......... .......... .......... .......... .......... 67%  209K 0s
+    50K .......... .......... ....                            100% 8.36M=0.2s
+
+2017-02-03 00:14:33 (306 KB/s) - ‘nrp073’ saved [75863/75863]
+
+--2017-02-03 00:14:34--  http://doi.org/10.1093/nass/nrp047
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp047 [following]
+--2017-02-03 00:14:35--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp047
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/93/1099039/Monitoring-biological-interactions-using?redirectedFrom=fulltext [following]
+--2017-02-03 00:14:39--  https://academic.oup.com/nass/article-abstract/53/1/93/1099039/Monitoring-biological-interactions-using?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 102443 (100K) [text/html]
+Saving to: ‘nrp047’
+
+     0K .......... .......... .......... .......... .......... 49%  208K 0s
+    50K .......... .......... .......... .......... .......... 99%  605K 0s
+   100K                                                       100% 80.1G=0.3s
+
+2017-02-03 00:14:46 (310 KB/s) - ‘nrp047’ saved [102443/102443]
+
+--2017-02-03 00:14:47--  http://doi.org/10.1093/nass/nrp125
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp125 [following]
+--2017-02-03 00:14:48--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp125
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/249/1099664/Influence-of-3-azido-2-3-dideoxyguanosine?redirectedFrom=fulltext [following]
+--2017-02-03 00:14:50--  https://academic.oup.com/nass/article-abstract/53/1/249/1099664/Influence-of-3-azido-2-3-dideoxyguanosine?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 103546 (101K) [text/html]
+Saving to: ‘nrp125’
+
+     0K .......... .......... .......... .......... .......... 49%  209K 0s
+    50K .......... .......... .......... .......... .......... 98%  607K 0s
+   100K .                                                     100% 2135G=0.3s
+
+2017-02-03 00:14:56 (314 KB/s) - ‘nrp125’ saved [103546/103546]
+
+--2017-02-03 00:14:57--  http://doi.org/10.1093/nass/nrp107
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp107 [following]
+--2017-02-03 00:14:58--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp107
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:14:59 ERROR 400: Bad Request.
+
+--2017-02-03 00:15:00--  http://doi.org/10.1093/nass/nrp102
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp102 [following]
+--2017-02-03 00:15:01--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp102
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/203/1099546/A-photochemical-detection-of-methylcytosine-by?redirectedFrom=fulltext [following]
+--2017-02-03 00:15:04--  https://academic.oup.com/nass/article-abstract/53/1/203/1099546/A-photochemical-detection-of-methylcytosine-by?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78603 (77K) [text/html]
+Saving to: ‘nrp102’
+
+     0K .......... .......... .......... .......... .......... 65%  209K 0s
+    50K .......... .......... ......                          100% 8.20M=0.2s
+
+2017-02-03 00:15:09 (317 KB/s) - ‘nrp102’ saved [78603/78603]
+
+--2017-02-03 00:15:10--  http://doi.org/10.1093/nass/nrp006
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp006 [following]
+--2017-02-03 00:15:11--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:15:12 ERROR 400: Bad Request.
+
+--2017-02-03 00:15:13--  http://doi.org/10.1093/nass/nrp007
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp007 [following]
+--2017-02-03 00:15:14--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 78746 (77K) [text/html]
+Saving to: ‘nrp007’
+
+     0K .......... .......... .......... .......... .......... 65%  208K 0s
+    50K .......... .......... ......                          100% 12.8M=0.2s
+
+2017-02-03 00:15:28 (318 KB/s) - ‘nrp007’ saved [78746/78746]
+
+--2017-02-03 00:15:29--  http://doi.org/10.1093/nass/nrp001
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp001 [following]
+--2017-02-03 00:15:30--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/1/1098541/Reaction-of-the-4-benzenesulfonyl-derivatives-of?redirectedFrom=fulltext [following]
+--2017-02-03 00:15:32--  https://academic.oup.com/nass/article-abstract/53/1/1/1098541/Reaction-of-the-4-benzenesulfonyl-derivatives-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78119 (76K) [text/html]
+Saving to: ‘nrp001’
+
+     0K .......... .......... .......... .......... .......... 65%  209K 0s
+    50K .......... .......... ......                          100% 9.11M=0.2s
+
+2017-02-03 00:15:36 (315 KB/s) - ‘nrp001’ saved [78119/78119]
+
+--2017-02-03 00:15:37--  http://doi.org/10.1093/nass/nrp069
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp069 [following]
+--2017-02-03 00:15:39--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp069
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/137/1099200/Fluorescent-properties-of-acridonyl-group-in-DNA?redirectedFrom=fulltext [following]
+--2017-02-03 00:15:42--  https://academic.oup.com/nass/article-abstract/53/1/137/1099200/Fluorescent-properties-of-acridonyl-group-in-DNA?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 86842 (85K) [text/html]
+Saving to: ‘nrp069’
+
+     0K .......... .......... .......... .......... .......... 58%  208K 0s
+    50K .......... .......... .......... ....                 100% 9.97M=0.2s
+
+2017-02-03 00:15:44 (348 KB/s) - ‘nrp069’ saved [86842/86842]
+
+--2017-02-03 00:15:45--  http://doi.org/10.1093/nass/nrp005
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp005 [following]
+--2017-02-03 00:15:47--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/9/1098563/Stereocontrolled-synthesis-of?redirectedFrom=fulltext [following]
+--2017-02-03 00:15:49--  https://academic.oup.com/nass/article-abstract/53/1/9/1098563/Stereocontrolled-synthesis-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 91750 (90K) [text/html]
+Saving to: ‘nrp005’
+
+     0K .......... .......... .......... .......... .......... 55%  209K 0s
+    50K .......... .......... .......... .........            100%  492K=0.3s
+
+2017-02-03 00:16:04 (280 KB/s) - ‘nrp005’ saved [91750/91750]
+
+--2017-02-03 00:16:05--  http://doi.org/10.1093/nass/nrp116
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp116 [following]
+--2017-02-03 00:16:06--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp116
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/231/1099640/Synthesis-of-potent-G-quadruplex-binders-of?redirectedFrom=fulltext [following]
+--2017-02-03 00:16:09--  https://academic.oup.com/nass/article-abstract/53/1/231/1099640/Synthesis-of-potent-G-quadruplex-binders-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 80270 (78K) [text/html]
+Saving to: ‘nrp116’
+
+     0K .......... .......... .......... .......... .......... 63%  209K 0s
+    50K .......... .......... ........                        100% 8.66M=0.2s
+
+2017-02-03 00:16:13 (323 KB/s) - ‘nrp116’ saved [80270/80270]
+
+--2017-02-03 00:16:14--  http://doi.org/10.1093/nass/nrp048
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp048 [following]
+--2017-02-03 00:16:16--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp048
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:16:16 ERROR 400: Bad Request.
+
+--2017-02-03 00:16:17--  http://doi.org/10.1093/nass/nrp045
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp045 [following]
+--2017-02-03 00:16:18--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp045
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:16:19 ERROR 400: Bad Request.
+
+--2017-02-03 00:16:20--  http://doi.org/10.1093/nass/nrp111
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp111 [following]
+--2017-02-03 00:16:21--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp111
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/221/1099603/Recognition-and-reaction-mechanisms-of-the-6-4?redirectedFrom=fulltext [following]
+--2017-02-03 00:16:23--  https://academic.oup.com/nass/article-abstract/53/1/221/1099603/Recognition-and-reaction-mechanisms-of-the-6-4?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:16:24 ERROR 400: Bad Request.
+
+--2017-02-03 00:16:25--  http://doi.org/10.1093/nass/nrp083
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp083 [following]
+--2017-02-03 00:16:26--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp083
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/165/1099341/Synthesis-and-thermal-denaturation-studies-of?redirectedFrom=fulltext [following]
+--2017-02-03 00:16:32--  https://academic.oup.com/nass/article-abstract/53/1/165/1099341/Synthesis-and-thermal-denaturation-studies-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75840 (74K) [text/html]
+Saving to: ‘nrp083’
+
+     0K .......... .......... .......... .......... .......... 67%  209K 0s
+    50K .......... .......... ....                            100% 6.53M=0.2s
+
+2017-02-03 00:16:36 (306 KB/s) - ‘nrp083’ saved [75840/75840]
+
+--2017-02-03 00:16:37--  http://doi.org/10.1093/nass/nrp134
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp134 [following]
+--2017-02-03 00:16:38--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp134
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:16:39 ERROR 400: Bad Request.
+
+--2017-02-03 00:16:40--  http://doi.org/10.1093/nass/nrp157
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp157 [following]
+--2017-02-03 00:16:41--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp157
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/313/1099821/Expression-behavior-of-high-pressure-compacted?redirectedFrom=fulltext [following]
+--2017-02-03 00:16:43--  https://academic.oup.com/nass/article-abstract/53/1/313/1099821/Expression-behavior-of-high-pressure-compacted?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 81219 (79K) [text/html]
+Saving to: ‘nrp157’
+
+     0K .......... .......... .......... .......... .......... 63%  306K 0s
+    50K .......... .......... .........                       100%  367K=0.2s
+
+2017-02-03 00:16:45 (326 KB/s) - ‘nrp157’ saved [81219/81219]
+
+--2017-02-03 00:16:46--  http://doi.org/10.1093/nass/nrp090
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp090 [following]
+--2017-02-03 00:16:48--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp090
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/179/1099378/Development-of-a-novel-method-to-determine-the?redirectedFrom=fulltext [following]
+--2017-02-03 00:16:50--  https://academic.oup.com/nass/article-abstract/53/1/179/1099378/Development-of-a-novel-method-to-determine-the?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 86930 (85K) [text/html]
+Saving to: ‘nrp090’
+
+     0K .......... .......... .......... .......... .......... 58%  209K 0s
+    50K .......... .......... .......... ....                 100% 8.48M=0.2s
+
+2017-02-03 00:16:54 (349 KB/s) - ‘nrp090’ saved [86930/86930]
+
+--2017-02-03 00:16:55--  http://doi.org/10.1093/nass/nrp079
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp079 [following]
+--2017-02-03 00:16:56--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp079
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/157/1099265/Protein-detection-using-oligonucleotide-probes?redirectedFrom=fulltext [following]
+--2017-02-03 00:18:04--  https://academic.oup.com/nass/article-abstract/53/1/157/1099265/Protein-detection-using-oligonucleotide-probes?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 82823 (81K) [text/html]
+Saving to: ‘nrp079’
+
+     0K .......... .......... .......... .......... .......... 61%  208K 0s
+    50K .......... .......... ..........                      100% 3.55M=0.2s
+
+2017-02-03 00:18:08 (325 KB/s) - ‘nrp079’ saved [82823/82823]
+
+--2017-02-03 00:18:09--  http://doi.org/10.1093/nass/nrp129
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp129 [following]
+--2017-02-03 00:18:10--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp129
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/257/1099678/Covalently-linked-fluorescent-ribonucreopeptide?redirectedFrom=fulltext [following]
+--2017-02-03 00:18:12--  https://academic.oup.com/nass/article-abstract/53/1/257/1099678/Covalently-linked-fluorescent-ribonucreopeptide?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 77546 (76K) [text/html]
+Saving to: ‘nrp129’
+
+     0K .......... .......... .......... .......... .......... 66%  209K 0s
+    50K .......... .......... .....                           100% 9.47M=0.2s
+
+2017-02-03 00:18:15 (313 KB/s) - ‘nrp129’ saved [77546/77546]
+
+--2017-02-03 00:18:16--  http://doi.org/10.1093/nass/nrp159
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp159 [following]
+--2017-02-03 00:18:18--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp159
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/317/1099827/Author-index?redirectedFrom=fulltext [following]
+--2017-02-03 00:18:27--  https://academic.oup.com/nass/article-abstract/53/1/317/1099827/Author-index?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62897 (61K) [text/html]
+Saving to: ‘nrp159’
+
+     0K .......... .......... .......... .......... .......... 81%  209K 0s
+    50K .......... .                                          100% 17.1M=0.2s
+
+2017-02-03 00:18:33 (256 KB/s) - ‘nrp159’ saved [62897/62897]
+
+--2017-02-03 00:18:34--  http://doi.org/10.1093/nass/nrp046
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp046 [following]
+--2017-02-03 00:18:35--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp046
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:18:36 ERROR 400: Bad Request.
+
+--2017-02-03 00:18:37--  http://doi.org/10.1093/nass/nrp062
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp062 [following]
+--2017-02-03 00:18:38--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp062
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/123/1099164/Introduction-of-8-methyladenosine-into-2-5?redirectedFrom=fulltext [following]
+--2017-02-03 00:18:40--  https://academic.oup.com/nass/article-abstract/53/1/123/1099164/Introduction-of-8-methyladenosine-into-2-5?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 83840 (82K) [text/html]
+Saving to: ‘nrp062’
+
+     0K .......... .......... .......... .......... .......... 61%  209K 0s
+    50K .......... .......... .......... .                    100% 8.30M=0.2s
+
+2017-02-03 00:19:01 (337 KB/s) - ‘nrp062’ saved [83840/83840]
+
+--2017-02-03 00:19:02--  http://doi.org/10.1093/nass/nrp041
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp041 [following]
+--2017-02-03 00:19:03--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp041
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:19:04 ERROR 400: Bad Request.
+
+--2017-02-03 00:19:05--  http://doi.org/10.1093/nass/nrp049
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp049 [following]
+--2017-02-03 00:19:06--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp049
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/97/1099099/Synthesis-and-anti-HIV-activity-of-4-C-ethynyl-2?redirectedFrom=fulltext [following]
+--2017-02-03 00:19:08--  https://academic.oup.com/nass/article-abstract/53/1/97/1099099/Synthesis-and-anti-HIV-activity-of-4-C-ethynyl-2?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 113029 (110K) [text/html]
+Saving to: ‘nrp049’
+
+     0K .......... .......... .......... .......... .......... 45%  209K 0s
+    50K .......... .......... .......... .......... .......... 90%  567K 0s
+   100K ..........                                            100% 27.2M=0.3s
+
+2017-02-03 00:19:17 (337 KB/s) - ‘nrp049’ saved [113029/113029]
+
+--2017-02-03 00:19:18--  http://doi.org/10.1093/nass/nrp144
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp144 [following]
+--2017-02-03 00:19:19--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/287/1099728/Inhibition-of-influenza-virus-by-baculovirus?redirectedFrom=fulltext [following]
+--2017-02-03 00:19:27--  https://academic.oup.com/nass/article-abstract/53/1/287/1099728/Inhibition-of-influenza-virus-by-baculovirus?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 83279 (81K) [text/html]
+Saving to: ‘nrp144’
+
+     0K .......... .......... .......... .......... .......... 61%  208K 0s
+    50K .......... .......... .......... .                    100% 13.5M=0.2s
+
+2017-02-03 00:19:30 (336 KB/s) - ‘nrp144’ saved [83279/83279]
+
+--2017-02-03 00:19:31--  http://doi.org/10.1093/nass/nrp123
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp123 [following]
+--2017-02-03 00:19:32--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp123
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/245/1099660/Interaction-between-tetraplex-structure-of-mouse?redirectedFrom=fulltext [following]
+--2017-02-03 00:19:42--  https://academic.oup.com/nass/article-abstract/53/1/245/1099660/Interaction-between-tetraplex-structure-of-mouse?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 88562 (86K) [text/html]
+Saving to: ‘nrp123’
+
+     0K .......... .......... .......... .......... .......... 57%  209K 0s
+    50K .......... .......... .......... ......               100% 10.9M=0.2s
+
+2017-02-03 00:20:11 (357 KB/s) - ‘nrp123’ saved [88562/88562]
+
+--2017-02-03 00:20:12--  http://doi.org/10.1093/nass/nrp139
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp139 [following]
+--2017-02-03 00:20:13--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp139
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/277/1099718/Preparations-of-hammerhead-ribozymes-for?redirectedFrom=fulltext [following]
+--2017-02-03 00:20:15--  https://academic.oup.com/nass/article-abstract/53/1/277/1099718/Preparations-of-hammerhead-ribozymes-for?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 86927 (85K) [text/html]
+Saving to: ‘nrp139’
+
+     0K .......... .......... .......... .......... .......... 58%  209K 0s
+    50K .......... .......... .......... ....                 100% 7.75M=0.2s
+
+2017-02-03 00:20:18 (349 KB/s) - ‘nrp139’ saved [86927/86927]
+
+--2017-02-03 00:20:19--  http://doi.org/10.1093/nass/nrp106
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp106 [following]
+--2017-02-03 00:20:20--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp106
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/211/1099579/Analysis-of-an-RNA-adduct-formed-from?redirectedFrom=fulltext [following]
+--2017-02-03 00:20:22--  https://academic.oup.com/nass/article-abstract/53/1/211/1099579/Analysis-of-an-RNA-adduct-formed-from?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 101162 (99K) [text/html]
+Saving to: ‘nrp106’
+
+     0K .......... .......... .......... .......... .......... 50%  209K 0s
+    50K .......... .......... .......... .......... ........  100%  594K=0.3s
+
+2017-02-03 00:20:25 (307 KB/s) - ‘nrp106’ saved [101162/101162]
+
+--2017-02-03 00:20:26--  http://doi.org/10.1093/nass/nrp071
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp071 [following]
+--2017-02-03 00:20:28--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp071
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/141/1099234/Design-of-extremely-facile-3-and-5-ends-free?redirectedFrom=fulltext [following]
+--2017-02-03 00:20:37--  https://academic.oup.com/nass/article-abstract/53/1/141/1099234/Design-of-extremely-facile-3-and-5-ends-free?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 88218 (86K) [text/html]
+Saving to: ‘nrp071’
+
+     0K .......... .......... .......... .......... .......... 58%  208K 0s
+    50K .......... .......... .......... ......               100% 12.2M=0.2s
+
+2017-02-03 00:20:42 (355 KB/s) - ‘nrp071’ saved [88218/88218]
+
+--2017-02-03 00:20:43--  http://doi.org/10.1093/nass/nrp023
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp023 [following]
+--2017-02-03 00:20:44--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/45/1098791/Development-of-novel-chemical-probes-to-detect?redirectedFrom=fulltext [following]
+--2017-02-03 00:20:47--  https://academic.oup.com/nass/article-abstract/53/1/45/1098791/Development-of-novel-chemical-probes-to-detect?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 81308 (79K) [text/html]
+Saving to: ‘nrp023’
+
+     0K .......... .......... .......... .......... .......... 62%  209K 0s
+    50K .......... .......... .........                       100% 10.0M=0.2s
+
+2017-02-03 00:20:49 (328 KB/s) - ‘nrp023’ saved [81308/81308]
+
+--2017-02-03 00:20:50--  http://doi.org/10.1093/nass/nrp143
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp143 [following]
+--2017-02-03 00:20:51--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp143
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/285/1099725/Inhibition-of-influenza-virus-infection-by?redirectedFrom=fulltext [following]
+--2017-02-03 00:20:53--  https://academic.oup.com/nass/article-abstract/53/1/285/1099725/Inhibition-of-influenza-virus-infection-by?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 99003 (97K) [text/html]
+Saving to: ‘nrp143’
+
+     0K .......... .......... .......... .......... .......... 51%  208K 0s
+    50K .......... .......... .......... .......... ......    100%  576K=0.3s
+
+2017-02-03 00:21:00 (301 KB/s) - ‘nrp143’ saved [99003/99003]
+
+--2017-02-03 00:21:01--  http://doi.org/10.1093/nass/nrp074
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp074 [following]
+--2017-02-03 00:21:02--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp074
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72399 (71K) [text/html]
+Saving to: ‘nrp074’
+
+     0K .......... .......... .......... .......... .......... 70%  209K 0s
+    50K .......... ..........                                 100% 10.3M=0.2s
+
+2017-02-03 00:21:07 (293 KB/s) - ‘nrp074’ saved [72399/72399]
+
+--2017-02-03 00:21:08--  http://doi.org/10.1093/nass/nrp018
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp018 [following]
+--2017-02-03 00:21:10--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp018
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/35/1098766/Substrate-recognition-of-pre-tRNA-by-ribonuclease?redirectedFrom=fulltext [following]
+--2017-02-03 00:21:12--  https://academic.oup.com/nass/article-abstract/53/1/35/1098766/Substrate-recognition-of-pre-tRNA-by-ribonuclease?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://academic.oup.com/nass/article/53/1/35/1098766/Substrate-recognition-of-pre-tRNA-by-ribonuclease [following]
+--2017-02-03 00:21:16--  https://academic.oup.com/nass/article/53/1/35/1098766/Substrate-recognition-of-pre-tRNA-by-ribonuclease
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/35/1098766/Substrate-recognition-of-pre-tRNA-by-ribonuclease?redirectedFrom=fulltext [following]
+--2017-02-03 00:21:18--  https://academic.oup.com/nass/article-abstract/53/1/35/1098766/Substrate-recognition-of-pre-tRNA-by-ribonuclease?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:21:19 ERROR 400: Bad Request.
+
+--2017-02-03 00:21:20--  http://doi.org/10.1093/nass/nrp086
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp086 [following]
+--2017-02-03 00:21:21--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp086
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/171/1099360/DNA-cross-link-generated-by-a-novel-modified-DNA?redirectedFrom=fulltext [following]
+--2017-02-03 00:21:23--  https://academic.oup.com/nass/article-abstract/53/1/171/1099360/DNA-cross-link-generated-by-a-novel-modified-DNA?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75301 (74K) [text/html]
+Saving to: ‘nrp086’
+
+     0K .......... .......... .......... .......... .......... 67%  209K 0s
+    50K .......... .......... ...                             100% 9.50M=0.2s
+
+2017-02-03 00:21:27 (304 KB/s) - ‘nrp086’ saved [75301/75301]
+
+--2017-02-03 00:21:28--  http://doi.org/10.1093/nass/nrp026
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp026 [following]
+--2017-02-03 00:21:29--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp026
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/51/1098813/Multiple-activities-of-c-di-GMP-in-Pseudomonas?redirectedFrom=fulltext [following]
+--2017-02-03 00:21:31--  https://academic.oup.com/nass/article-abstract/53/1/51/1098813/Multiple-activities-of-c-di-GMP-in-Pseudomonas?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 84733 (83K) [text/html]
+Saving to: ‘nrp026’
+
+     0K .......... .......... .......... .......... .......... 60%  310K 0s
+    50K .......... .......... .......... ..                   100%  405K=0.2s
+
+2017-02-03 00:21:35 (341 KB/s) - ‘nrp026’ saved [84733/84733]
+
+--2017-02-03 00:21:36--  http://doi.org/10.1093/nass/nrp019
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp019 [following]
+--2017-02-03 00:21:37--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:21:38 ERROR 400: Bad Request.
+
+--2017-02-03 00:21:39--  http://doi.org/10.1093/nass/nrp039
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp039 [following]
+--2017-02-03 00:21:40--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp039
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/77/1098956/Kinetic-studies-of-long-range-hole-transfer?redirectedFrom=fulltext [following]
+--2017-02-03 00:21:42--  https://academic.oup.com/nass/article-abstract/53/1/77/1098956/Kinetic-studies-of-long-range-hole-transfer?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 72630 (71K) [text/html]
+Saving to: ‘nrp039’
+
+     0K .......... .......... .......... .......... .......... 70%  206K 0s
+    50K .......... ..........                                 100% 12.9M=0.2s
+
+2017-02-03 00:21:45 (291 KB/s) - ‘nrp039’ saved [72630/72630]
+
+--2017-02-03 00:21:46--  http://doi.org/10.1093/nass/nrp002
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp002 [following]
+--2017-02-03 00:21:47--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/3/1098547/Alternative-I-D-exchange-reaction-on-pyrimidine?redirectedFrom=fulltext [following]
+--2017-02-03 00:21:49--  https://academic.oup.com/nass/article-abstract/53/1/3/1098547/Alternative-I-D-exchange-reaction-on-pyrimidine?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:21:50 ERROR 400: Bad Request.
+
+--2017-02-03 00:21:51--  http://doi.org/10.1093/nass/nrp081
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp081 [following]
+--2017-02-03 00:21:52--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp081
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/161/1099302/Promotion-of-strand-invasion-by-utilizing?redirectedFrom=fulltext [following]
+--2017-02-03 00:21:55--  https://academic.oup.com/nass/article-abstract/53/1/161/1099302/Promotion-of-strand-invasion-by-utilizing?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 77209 (75K) [text/html]
+Saving to: ‘nrp081’
+
+     0K .......... .......... .......... .......... .......... 66%  208K 0s
+    50K .......... .......... .....                           100% 14.0M=0.2s
+
+2017-02-03 00:22:03 (311 KB/s) - ‘nrp081’ saved [77209/77209]
+
+--2017-02-03 00:22:04--  http://doi.org/10.1093/nass/nrp089
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp089 [following]
+--2017-02-03 00:22:05--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp089
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/177/1099373/Radiolytic-one-electron-reductive-cyclization-of?redirectedFrom=fulltext [following]
+--2017-02-03 00:22:07--  https://academic.oup.com/nass/article-abstract/53/1/177/1099373/Radiolytic-one-electron-reductive-cyclization-of?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75135 (73K) [text/html]
+Saving to: ‘nrp089’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ...                             100% 12.4M=0.2s
+
+2017-02-03 00:22:10 (304 KB/s) - ‘nrp089’ saved [75135/75135]
+
+--2017-02-03 00:22:11--  http://doi.org/10.1093/nass/nrp142
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp142 [following]
+--2017-02-03 00:22:12--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp142
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/283/1099724/Thymidylate-kinase-The-lost-chemotherapeutic?redirectedFrom=fulltext [following]
+--2017-02-03 00:22:14--  https://academic.oup.com/nass/article-abstract/53/1/283/1099724/Thymidylate-kinase-The-lost-chemotherapeutic?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 80727 (79K) [text/html]
+Saving to: ‘nrp142’
+
+     0K .......... .......... .......... .......... .......... 63%  209K 0s
+    50K .......... .......... ........                        100% 9.34M=0.2s
+
+2017-02-03 00:22:17 (325 KB/s) - ‘nrp142’ saved [80727/80727]
+
+--2017-02-03 00:22:18--  http://doi.org/10.1093/nass/nrp093
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp093 [following]
+--2017-02-03 00:22:19--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp093
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/185/1099429/Photochemical-generation-and-reaction-of-2?redirectedFrom=fulltext [following]
+--2017-02-03 00:22:21--  https://academic.oup.com/nass/article-abstract/53/1/185/1099429/Photochemical-generation-and-reaction-of-2?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 101718 (99K) [text/html]
+Saving to: ‘nrp093’
+
+     0K .......... .......... .......... .......... .......... 50%  208K 0s
+    50K .......... .......... .......... .......... ......... 100%  599K=0.3s
+
+2017-02-03 00:22:24 (307 KB/s) - ‘nrp093’ saved [101718/101718]
+
+--2017-02-03 00:22:25--  http://doi.org/10.1093/nass/nrp004
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp004 [following]
+--2017-02-03 00:22:26--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/7/1098559/Development-of-next-generation-4-selenonucleosides?redirectedFrom=fulltext [following]
+--2017-02-03 00:22:28--  https://academic.oup.com/nass/article-abstract/53/1/7/1098559/Development-of-next-generation-4-selenonucleosides?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 72972 (71K) [text/html]
+Saving to: ‘nrp004’
+
+     0K .......... .......... .......... .......... .......... 70%  309K 0s
+    50K .......... .......... .                               100%  269K=0.2s
+
+2017-02-03 00:22:31 (295 KB/s) - ‘nrp004’ saved [72972/72972]
+
+--2017-02-03 00:22:32--  http://doi.org/10.1093/nass/nrp131
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp131 [following]
+--2017-02-03 00:22:33--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp131
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/261/1099687/Aptazyme-based-biosensors-using-a-eukaryotic-cell?redirectedFrom=fulltext [following]
+--2017-02-03 00:22:36--  https://academic.oup.com/nass/article-abstract/53/1/261/1099687/Aptazyme-based-biosensors-using-a-eukaryotic-cell?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72568 (71K) [text/html]
+Saving to: ‘nrp131’
+
+     0K .......... .......... .......... .......... .......... 70%  209K 0s
+    50K .......... ..........                                 100% 10.2M=0.2s
+
+2017-02-03 00:22:39 (293 KB/s) - ‘nrp131’ saved [72568/72568]
+
+--2017-02-03 00:22:40--  http://doi.org/10.1093/nass/nrp021
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp021 [following]
+--2017-02-03 00:22:41--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/41/1098776/Structural-basis-for-the-specificity-of?redirectedFrom=fulltext [following]
+--2017-02-03 00:22:45--  https://academic.oup.com/nass/article-abstract/53/1/41/1098776/Structural-basis-for-the-specificity-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 86932 (85K) [text/html]
+Saving to: ‘nrp021’
+
+     0K .......... .......... .......... .......... .......... 58%  207K 0s
+    50K .......... .......... .......... ....                 100%  945K=0.3s
+
+2017-02-03 00:22:54 (305 KB/s) - ‘nrp021’ saved [86932/86932]
+
+--2017-02-03 00:22:55--  http://doi.org/10.1093/nass/nrp151
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp151 [following]
+--2017-02-03 00:22:56--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp151
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/301/1099749/Precise-analysis-of-modification-status-at-various?redirectedFrom=fulltext [following]
+--2017-02-03 00:22:58--  https://academic.oup.com/nass/article-abstract/53/1/301/1099749/Precise-analysis-of-modification-status-at-various?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 83134 (81K) [text/html]
+Saving to: ‘nrp151’
+
+     0K .......... .......... .......... .......... .......... 61%  208K 0s
+    50K .......... .......... .......... .                    100% 13.0M=0.2s
+
+2017-02-03 00:23:00 (334 KB/s) - ‘nrp151’ saved [83134/83134]
+
+--2017-02-03 00:23:01--  http://doi.org/10.1093/nass/nrp118
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp118 [following]
+--2017-02-03 00:23:03--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp118
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:23:03 ERROR 400: Bad Request.
+
+--2017-02-03 00:23:04--  http://doi.org/10.1093/nass/nrp099
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp099 [following]
+--2017-02-03 00:23:05--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp099
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/197/1099526/Development-of-a-rapid-and-reversible?redirectedFrom=fulltext [following]
+--2017-02-03 00:23:07--  https://academic.oup.com/nass/article-abstract/53/1/197/1099526/Development-of-a-rapid-and-reversible?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 76075 (74K) [text/html]
+Saving to: ‘nrp099’
+
+     0K .......... .......... .......... .......... .......... 67%  208K 0s
+    50K .......... .......... ....                            100% 6.53M=0.2s
+
+2017-02-03 00:23:16 (305 KB/s) - ‘nrp099’ saved [76075/76075]
+
+--2017-02-03 00:23:17--  http://doi.org/10.1093/nass/nrp022
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp022 [following]
+--2017-02-03 00:23:18--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp022
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/43/1098782/Chemical-methods-to-study-protein-nucleic-acid?redirectedFrom=fulltext [following]
+--2017-02-03 00:23:22--  https://academic.oup.com/nass/article-abstract/53/1/43/1098782/Chemical-methods-to-study-protein-nucleic-acid?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 84670 (83K) [text/html]
+Saving to: ‘nrp022’
+
+     0K .......... .......... .......... .......... .......... 60%  209K 0s
+    50K .......... .......... .......... ..                   100% 7.72M=0.2s
+
+2017-02-03 00:23:25 (340 KB/s) - ‘nrp022’ saved [84670/84670]
+
+--2017-02-03 00:23:26--  http://doi.org/10.1093/nass/nrp120
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp120 [following]
+--2017-02-03 00:23:27--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp120
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/239/1099648/Human-telomeric-RNA-r-UAGGGU-sequence-forms?redirectedFrom=fulltext [following]
+--2017-02-03 00:23:29--  https://academic.oup.com/nass/article-abstract/53/1/239/1099648/Human-telomeric-RNA-r-UAGGGU-sequence-forms?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75425 (74K) [text/html]
+Saving to: ‘nrp120’
+
+     0K .......... .......... .......... .......... .......... 67%  208K 0s
+    50K .......... .......... ...                             100% 12.1M=0.2s
+
+2017-02-03 00:23:33 (304 KB/s) - ‘nrp120’ saved [75425/75425]
+
+--2017-02-03 00:23:34--  http://doi.org/10.1093/nass/nrp088
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp088 [following]
+--2017-02-03 00:23:35--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp088
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/175/1099369/Handy-and-prompt-DNA-separation-using-PNA-with?redirectedFrom=fulltext [following]
+--2017-02-03 00:23:38--  https://academic.oup.com/nass/article-abstract/53/1/175/1099369/Handy-and-prompt-DNA-separation-using-PNA-with?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 87842 (86K) [text/html]
+Saving to: ‘nrp088’
+
+     0K .......... .......... .......... .......... .......... 58%  209K 0s
+    50K .......... .......... .......... .....                100% 12.0M=0.2s
+
+2017-02-03 00:23:41 (354 KB/s) - ‘nrp088’ saved [87842/87842]
+
+--2017-02-03 00:23:42--  http://doi.org/10.1093/nass/nrp020
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp020 [following]
+--2017-02-03 00:23:43--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp020
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/39/1098770/The-exceptional-properties-of-Plasmodium?redirectedFrom=fulltext [following]
+--2017-02-03 00:23:45--  https://academic.oup.com/nass/article-abstract/53/1/39/1098770/The-exceptional-properties-of-Plasmodium?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78071 (76K) [text/html]
+Saving to: ‘nrp020’
+
+     0K .......... .......... .......... .......... .......... 65%  208K 0s
+    50K .......... .......... ......                          100% 11.1M=0.2s
+
+2017-02-03 00:23:48 (313 KB/s) - ‘nrp020’ saved [78071/78071]
+
+--2017-02-03 00:23:49--  http://doi.org/10.1093/nass/nrp145
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp145 [following]
+--2017-02-03 00:23:51--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp145
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/289/1099730/Regulation-of-vascular-endothelial-growth-factor?redirectedFrom=fulltext [following]
+--2017-02-03 00:23:52--  https://academic.oup.com/nass/article-abstract/53/1/289/1099730/Regulation-of-vascular-endothelial-growth-factor?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:23:53 ERROR 400: Bad Request.
+
+--2017-02-03 00:23:54--  http://doi.org/10.1093/nass/nrp191
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp191 [following]
+--2017-02-03 00:23:55--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp191
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/v/1099832/Prelims?redirectedFrom=fulltext [following]
+--2017-02-03 00:23:57--  https://academic.oup.com/nass/article-abstract/53/1/v/1099832/Prelims?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 62647 (61K) [text/html]
+Saving to: ‘nrp191’
+
+     0K .......... .......... .......... .......... .......... 81%  209K 0s
+    50K .......... .                                          100% 15.9M=0.2s
+
+2017-02-03 00:23:59 (255 KB/s) - ‘nrp191’ saved [62647/62647]
+
+--2017-02-03 00:24:00--  http://doi.org/10.1093/nass/nrp012
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp012 [following]
+--2017-02-03 00:24:02--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/23/1098696/Development-of-a-novel-device-to-trap-heavy-metal?redirectedFrom=fulltext [following]
+--2017-02-03 00:24:06--  https://academic.oup.com/nass/article-abstract/53/1/23/1098696/Development-of-a-novel-device-to-trap-heavy-metal?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 87058 (85K) [text/html]
+Saving to: ‘nrp012’
+
+     0K .......... .......... .......... .......... .......... 58%  208K 0s
+    50K .......... .......... .......... .....                100% 8.56M=0.2s
+
+2017-02-03 00:24:19 (347 KB/s) - ‘nrp012’ saved [87058/87058]
+
+--2017-02-03 00:24:20--  http://doi.org/10.1093/nass/nrp033
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp033 [following]
+--2017-02-03 00:24:21--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp033
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/65/1098881/Synthetic-nanocircular-RNA-for-controlling-of-gene?redirectedFrom=fulltext [following]
+--2017-02-03 00:24:23--  https://academic.oup.com/nass/article-abstract/53/1/65/1098881/Synthetic-nanocircular-RNA-for-controlling-of-gene?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 82346 (80K) [text/html]
+Saving to: ‘nrp033’
+
+     0K .......... .......... .......... .......... .......... 62%  207K 0s
+    50K .......... .......... ..........                      100% 14.4M=0.2s
+
+2017-02-03 00:24:27 (330 KB/s) - ‘nrp033’ saved [82346/82346]
+
+--2017-02-03 00:24:28--  http://doi.org/10.1093/nass/nrp064
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp064 [following]
+--2017-02-03 00:24:30--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp064
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/127/1099172/Evaluation-of-base-recognition-abilities-of-2?redirectedFrom=fulltext [following]
+--2017-02-03 00:24:32--  https://academic.oup.com/nass/article-abstract/53/1/127/1099172/Evaluation-of-base-recognition-abilities-of-2?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:24:32 ERROR 400: Bad Request.
+
+--2017-02-03 00:24:33--  http://doi.org/10.1093/nass/nrp097
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp097 [following]
+--2017-02-03 00:24:34--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp097
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/193/1099510/Photo-switching-of-vinylpyrene-substituted-2?redirectedFrom=fulltext [following]
+--2017-02-03 00:24:38--  https://academic.oup.com/nass/article-abstract/53/1/193/1099510/Photo-switching-of-vinylpyrene-substituted-2?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 85922 (84K) [text/html]
+Saving to: ‘nrp097’
+
+     0K .......... .......... .......... .......... .......... 59%  207K 0s
+    50K .......... .......... .......... ...                  100% 10.9M=0.2s
+
+2017-02-03 00:24:41 (343 KB/s) - ‘nrp097’ saved [85922/85922]
+
+--2017-02-03 00:24:42--  http://doi.org/10.1093/nass/nrp077
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp077 [following]
+--2017-02-03 00:24:43--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp077
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/153/1099257/Real-time-monitoring-of-mRNAs-with-fluorescence?redirectedFrom=fulltext [following]
+--2017-02-03 00:24:46--  https://academic.oup.com/nass/article-abstract/53/1/153/1099257/Real-time-monitoring-of-mRNAs-with-fluorescence?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 81308 (79K) [text/html]
+Saving to: ‘nrp077’
+
+     0K .......... .......... .......... .......... .......... 62%  209K 0s
+    50K .......... .......... .........                       100% 7.07M=0.2s
+
+2017-02-03 00:24:49 (326 KB/s) - ‘nrp077’ saved [81308/81308]
+
+--2017-02-03 00:24:50--  http://doi.org/10.1093/nass/nrp117
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp117 [following]
+--2017-02-03 00:24:52--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp117
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/233/1099642/G-quadruplex-recognition-by-macrocyclic?redirectedFrom=fulltext [following]
+--2017-02-03 00:24:54--  https://academic.oup.com/nass/article-abstract/53/1/233/1099642/G-quadruplex-recognition-by-macrocyclic?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78045 (76K) [text/html]
+Saving to: ‘nrp117’
+
+     0K .......... .......... .......... .......... .......... 65%  208K 0s
+    50K .......... .......... ......                          100% 9.69M=0.2s
+
+2017-02-03 00:24:57 (313 KB/s) - ‘nrp117’ saved [78045/78045]
+
+--2017-02-03 00:24:58--  http://doi.org/10.1093/nass/nrp031
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp031 [following]
+--2017-02-03 00:25:00--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp031
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/61/1098863/Cationic-comb-type-copolymer-as-a-nucleic-acid?redirectedFrom=fulltext [following]
+--2017-02-03 00:25:02--  https://academic.oup.com/nass/article-abstract/53/1/61/1098863/Cationic-comb-type-copolymer-as-a-nucleic-acid?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78991 (77K) [text/html]
+Saving to: ‘nrp031’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... .......                         100% 12.3M=0.2s
+
+2017-02-03 00:25:05 (319 KB/s) - ‘nrp031’ saved [78991/78991]
+
+--2017-02-03 00:25:06--  http://doi.org/10.1093/nass/nrp085
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp085 [following]
+--2017-02-03 00:25:07--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp085
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/169/1099354/Design-and-synthesis-of-the-novel-cross-linking?redirectedFrom=fulltext [following]
+--2017-02-03 00:25:09--  https://academic.oup.com/nass/article-abstract/53/1/169/1099354/Design-and-synthesis-of-the-novel-cross-linking?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 93667 (91K) [text/html]
+Saving to: ‘nrp085’
+
+     0K .......... .......... .......... .......... .......... 54%  209K 0s
+    50K .......... .......... .......... .......... .         100%  515K=0.3s
+
+2017-02-03 00:25:18 (286 KB/s) - ‘nrp085’ saved [93667/93667]
+
+--2017-02-03 00:25:19--  http://doi.org/10.1093/nass/nrp104
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp104 [following]
+--2017-02-03 00:25:20--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp104
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/207/1099561/Osmium-complex-binding-to-mismatched?redirectedFrom=fulltext [following]
+--2017-02-03 00:25:22--  https://academic.oup.com/nass/article-abstract/53/1/207/1099561/Osmium-complex-binding-to-mismatched?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 74295 (73K) [text/html]
+Saving to: ‘nrp104’
+
+     0K .......... .......... .......... .......... .......... 68%  207K 0s
+    50K .......... .......... ..                              100% 9.19M=0.2s
+
+2017-02-03 00:25:27 (298 KB/s) - ‘nrp104’ saved [74295/74295]
+
+--2017-02-03 00:25:28--  http://doi.org/10.1093/nass/nrp152
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp152 [following]
+--2017-02-03 00:25:29--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp152
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/303/1099752/Production-of-yeast-m2G10-methyltransferase-Trm11?redirectedFrom=fulltext [following]
+--2017-02-03 00:25:31--  https://academic.oup.com/nass/article-abstract/53/1/303/1099752/Production-of-yeast-m2G10-methyltransferase-Trm11?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:25:31 ERROR 400: Bad Request.
+
+--2017-02-03 00:25:32--  http://doi.org/10.1093/nass/nrp148
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp148 [following]
+--2017-02-03 00:25:33--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp148
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:25:34 ERROR 400: Bad Request.
+
+--2017-02-03 00:25:35--  http://doi.org/10.1093/nass/nrp136
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp136 [following]
+--2017-02-03 00:25:36--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp136
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:25:37 ERROR 400: Bad Request.
+
+--2017-02-03 00:25:38--  http://doi.org/10.1093/nass/nrp032
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp032 [following]
+--2017-02-03 00:25:39--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp032
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/63/1098867/Molecular-basis-of-human-telomere-DNA-RNA?redirectedFrom=fulltext [following]
+--2017-02-03 00:25:42--  https://academic.oup.com/nass/article-abstract/53/1/63/1098867/Molecular-basis-of-human-telomere-DNA-RNA?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 80503 (79K) [text/html]
+Saving to: ‘nrp032’
+
+     0K .......... .......... .......... .......... .......... 63%  209K 0s
+    50K .......... .......... ........                        100% 11.1M=0.2s
+
+2017-02-03 00:25:45 (325 KB/s) - ‘nrp032’ saved [80503/80503]
+
+--2017-02-03 00:25:46--  http://doi.org/10.1093/nass/nrp114
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp114 [following]
+--2017-02-03 00:25:47--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp114
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/227/1099625/Accurate-curve-fitting-procedure-for-UV-melting?redirectedFrom=fulltext [following]
+--2017-02-03 00:25:50--  https://academic.oup.com/nass/article-abstract/53/1/227/1099625/Accurate-curve-fitting-procedure-for-UV-melting?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 77852 (76K) [text/html]
+Saving to: ‘nrp114’
+
+     0K .......... .......... .......... .......... .......... 65%  209K 0s
+    50K .......... .......... ......                          100% 10.0M=0.2s
+
+2017-02-03 00:25:56 (315 KB/s) - ‘nrp114’ saved [77852/77852]
+
+--2017-02-03 00:25:57--  http://doi.org/10.1093/nass/nrp008
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp008 [following]
+--2017-02-03 00:25:58--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:25:59 ERROR 400: Bad Request.
+
+--2017-02-03 00:26:00--  http://doi.org/10.1093/nass/nrp082
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp082 [following]
+--2017-02-03 00:26:01--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp082
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/163/1099324/Development-of-new-DNA-triplex-triads-by-using-5?redirectedFrom=fulltext [following]
+--2017-02-03 00:26:04--  https://academic.oup.com/nass/article-abstract/53/1/163/1099324/Development-of-new-DNA-triplex-triads-by-using-5?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78116 (76K) [text/html]
+Saving to: ‘nrp082’
+
+     0K .......... .......... .......... .......... .......... 65%  210K 0s
+    50K .......... .......... ......                          100% 11.6M=0.2s
+
+2017-02-03 00:26:08 (317 KB/s) - ‘nrp082’ saved [78116/78116]
+
+--2017-02-03 00:26:09--  http://doi.org/10.1093/nass/nrp060
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp060 [following]
+--2017-02-03 00:26:10--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp060
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/119/1099158/Synthesis-of-modified-double-stranded-RNAs?redirectedFrom=fulltext [following]
+--2017-02-03 00:26:12--  https://academic.oup.com/nass/article-abstract/53/1/119/1099158/Synthesis-of-modified-double-stranded-RNAs?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 77768 (76K) [text/html]
+Saving to: ‘nrp060’
+
+     0K .......... .......... .......... .......... .......... 65%  207K 0s
+    50K .......... .......... .....                           100% 13.6M=0.2s
+
+2017-02-03 00:26:17 (312 KB/s) - ‘nrp060’ saved [77768/77768]
+
+--2017-02-03 00:26:18--  http://doi.org/10.1093/nass/nrp029
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp029 [following]
+--2017-02-03 00:26:19--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp029
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/57/1098832/Polyethylenimine-derived-nanoparticles-for?redirectedFrom=fulltext [following]
+--2017-02-03 00:26:22--  https://academic.oup.com/nass/article-abstract/53/1/57/1098832/Polyethylenimine-derived-nanoparticles-for?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://academic.oup.com/nass/article/53/1/57/1098832/Polyethylenimine-derived-nanoparticles-for [following]
+--2017-02-03 00:26:26--  https://academic.oup.com/nass/article/53/1/57/1098832/Polyethylenimine-derived-nanoparticles-for
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/57/1098832/Polyethylenimine-derived-nanoparticles-for?redirectedFrom=fulltext [following]
+--2017-02-03 00:26:28--  https://academic.oup.com/nass/article-abstract/53/1/57/1098832/Polyethylenimine-derived-nanoparticles-for?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78510 (77K) [text/html]
+Saving to: ‘nrp029’
+
+     0K .......... .......... .......... .......... .......... 65%  209K 0s
+    50K .......... .......... ......                          100% 9.09M=0.2s
+
+2017-02-03 00:26:31 (317 KB/s) - ‘nrp029’ saved [78510/78510]
+
+--2017-02-03 00:26:32--  http://doi.org/10.1093/nass/nrp054
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp054 [following]
+--2017-02-03 00:26:34--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp054
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/107/1099139/Synthesis-and-properties-of-a-novel-artificial?redirectedFrom=fulltext [following]
+--2017-02-03 00:26:36--  https://academic.oup.com/nass/article-abstract/53/1/107/1099139/Synthesis-and-properties-of-a-novel-artificial?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78400 (77K) [text/html]
+Saving to: ‘nrp054’
+
+     0K .......... .......... .......... .......... .......... 65%  209K 0s
+    50K .......... .......... ......                          100% 8.83M=0.2s
+
+2017-02-03 00:26:39 (316 KB/s) - ‘nrp054’ saved [78400/78400]
+
+--2017-02-03 00:26:40--  http://doi.org/10.1093/nass/nrp057
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp057 [following]
+--2017-02-03 00:26:41--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp057
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/113/1099149/Stabilization-of-A-type-nucleic-acid-duplexes-by?redirectedFrom=fulltext [following]
+--2017-02-03 00:26:43--  https://academic.oup.com/nass/article-abstract/53/1/113/1099149/Stabilization-of-A-type-nucleic-acid-duplexes-by?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:26:44 ERROR 400: Bad Request.
+
+--2017-02-03 00:26:45--  http://doi.org/10.1093/nass/nrp103
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp103 [following]
+--2017-02-03 00:26:46--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp103
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/205/1099553/Photoelectrochemical-identification-of-5?redirectedFrom=fulltext [following]
+--2017-02-03 00:26:48--  https://academic.oup.com/nass/article-abstract/53/1/205/1099553/Photoelectrochemical-identification-of-5?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 95029 (93K) [text/html]
+Saving to: ‘nrp103’
+
+     0K .......... .......... .......... .......... .......... 53%  210K 0s
+    50K .......... .......... .......... .......... ..        100%  529K=0.3s
+
+2017-02-03 00:26:53 (291 KB/s) - ‘nrp103’ saved [95029/95029]
+
+--2017-02-03 00:26:54--  http://doi.org/10.1093/nass/nrp141
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp141 [following]
+--2017-02-03 00:26:55--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp141
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 82980 (81K) [text/html]
+Saving to: ‘nrp141’
+
+     0K .......... .......... .......... .......... .......... 61%  209K 0s
+    50K .......... .......... .......... .                    100% 13.9M=0.2s
+
+2017-02-03 00:27:05 (335 KB/s) - ‘nrp141’ saved [82980/82980]
+
+--2017-02-03 00:27:06--  http://doi.org/10.1093/nass/nrp112
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp112 [following]
+--2017-02-03 00:27:07--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp112
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:27:08 ERROR 400: Bad Request.
+
+--2017-02-03 00:27:09--  http://doi.org/10.1093/nass/nrp121
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp121 [following]
+--2017-02-03 00:27:10--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp121
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/241/1099653/Characterization-of-heme-coordination-structure-in?redirectedFrom=fulltext [following]
+--2017-02-03 00:27:13--  https://academic.oup.com/nass/article-abstract/53/1/241/1099653/Characterization-of-heme-coordination-structure-in?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 94535 (92K) [text/html]
+Saving to: ‘nrp121’
+
+     0K .......... .......... .......... .......... .......... 54%  208K 0s
+    50K .......... .......... .......... .......... ..        100%  527K=0.3s
+
+2017-02-03 00:27:25 (288 KB/s) - ‘nrp121’ saved [94535/94535]
+
+--2017-02-03 00:27:26--  http://doi.org/10.1093/nass/nrp013
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp013 [following]
+--2017-02-03 00:27:27--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/25/1098712/Role-of-microRNAs-in-the-pathogenesis-of-human?redirectedFrom=fulltext [following]
+--2017-02-03 00:27:29--  https://academic.oup.com/nass/article-abstract/53/1/25/1098712/Role-of-microRNAs-in-the-pathogenesis-of-human?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:27:29 ERROR 400: Bad Request.
+
+--2017-02-03 00:27:30--  http://doi.org/10.1093/nass/nrp038
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp038 [following]
+--2017-02-03 00:27:31--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp038
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/75/1098950/Restriction-enzyme-treatment-ligation-independent?redirectedFrom=fulltext [following]
+--2017-02-03 00:27:33--  https://academic.oup.com/nass/article-abstract/53/1/75/1098950/Restriction-enzyme-treatment-ligation-independent?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78328 (76K) [text/html]
+Saving to: ‘nrp038’
+
+     0K .......... .......... .......... .......... .......... 65%  308K 0s
+    50K .......... .......... ......                          100%  329K=0.2s
+
+2017-02-03 00:27:43 (315 KB/s) - ‘nrp038’ saved [78328/78328]
+
+--2017-02-03 00:27:44--  http://doi.org/10.1093/nass/nrp122
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp122 [following]
+--2017-02-03 00:27:45--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp122
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/243/1099658/Interaction-between-tetraplex-structure-of-yeast?redirectedFrom=fulltext [following]
+--2017-02-03 00:27:49--  https://academic.oup.com/nass/article-abstract/53/1/243/1099658/Interaction-between-tetraplex-structure-of-yeast?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:27:50 ERROR 400: Bad Request.
+
+--2017-02-03 00:27:51--  http://doi.org/10.1093/nass/nrp098
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp098 [following]
+--2017-02-03 00:27:52--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp098
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/195/1099520/Photo-controllable-aptamer?redirectedFrom=fulltext [following]
+--2017-02-03 00:28:00--  https://academic.oup.com/nass/article-abstract/53/1/195/1099520/Photo-controllable-aptamer?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 84962 (83K) [text/html]
+Saving to: ‘nrp098’
+
+     0K .......... .......... .......... .......... .......... 60%  209K 0s
+    50K .......... .......... .......... ..                   100% 9.71M=0.2s
+
+2017-02-03 00:28:04 (342 KB/s) - ‘nrp098’ saved [84962/84962]
+
+--2017-02-03 00:28:05--  http://doi.org/10.1093/nass/nrp156
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp156 [following]
+--2017-02-03 00:28:07--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp156
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/311/1099814/Role-of-exposed-aromatic-residues-in-substrate?redirectedFrom=fulltext [following]
+--2017-02-03 00:28:10--  https://academic.oup.com/nass/article-abstract/53/1/311/1099814/Role-of-exposed-aromatic-residues-in-substrate?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 81908 (80K) [text/html]
+Saving to: ‘nrp156’
+
+     0K .......... .......... .......... .......... .......... 62%  308K 0s
+    50K .......... .......... .........                       100%  373K=0.2s
+
+2017-02-03 00:28:14 (330 KB/s) - ‘nrp156’ saved [81908/81908]
+
+--2017-02-03 00:28:15--  http://doi.org/10.1093/nass/nrp055
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp055 [following]
+--2017-02-03 00:28:16--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp055
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/109/1099141/The-use-of-conformationally-rigid-nucleoside?redirectedFrom=fulltext [following]
+--2017-02-03 00:28:18--  https://academic.oup.com/nass/article-abstract/53/1/109/1099141/The-use-of-conformationally-rigid-nucleoside?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 112091 (109K) [text/html]
+Saving to: ‘nrp055’
+
+     0K .......... .......... .......... .......... .......... 45%  209K 0s
+    50K .......... .......... .......... .......... .......... 91%  598K 0s
+   100K .........                                             100% 24.5M=0.3s
+
+2017-02-03 00:28:21 (338 KB/s) - ‘nrp055’ saved [112091/112091]
+
+--2017-02-03 00:28:22--  http://doi.org/10.1093/nass/nrp056
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp056 [following]
+--2017-02-03 00:28:24--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp056
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:28:24 ERROR 400: Bad Request.
+
+--2017-02-03 00:28:25--  http://doi.org/10.1093/nass/nrp133
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp133 [following]
+--2017-02-03 00:28:26--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp133
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/265/1099692/Characterization-of-RNA-aptamers-against-SRP19?redirectedFrom=fulltext [following]
+--2017-02-03 00:28:33--  https://academic.oup.com/nass/article-abstract/53/1/265/1099692/Characterization-of-RNA-aptamers-against-SRP19?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 112275 (110K) [text/html]
+Saving to: ‘nrp133’
+
+     0K .......... .......... .......... .......... .......... 45%  209K 0s
+    50K .......... .......... .......... .......... .......... 91%  611K 0s
+   100K .........                                             100% 6.77M=0.3s
+
+2017-02-03 00:28:35 (340 KB/s) - ‘nrp133’ saved [112275/112275]
+
+--2017-02-03 00:28:36--  http://doi.org/10.1093/nass/nrp037
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp037 [following]
+--2017-02-03 00:28:38--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp037
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/73/1098940/Site-specific-incorporation-of-functional?redirectedFrom=fulltext [following]
+--2017-02-03 00:28:40--  https://academic.oup.com/nass/article-abstract/53/1/73/1098940/Site-specific-incorporation-of-functional?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 101571 (99K) [text/html]
+Saving to: ‘nrp037’
+
+     0K .......... .......... .......... .......... .......... 50%  209K 0s
+    50K .......... .......... .......... .......... ......... 100%  598K=0.3s
+
+2017-02-03 00:28:43 (309 KB/s) - ‘nrp037’ saved [101571/101571]
+
+--2017-02-03 00:28:44--  http://doi.org/10.1093/nass/nrp034
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp034 [following]
+--2017-02-03 00:28:45--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp034
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/67/1098886/Site-specific-modification-of-RNA-by-functionality?redirectedFrom=fulltext [following]
+--2017-02-03 00:28:47--  https://academic.oup.com/nass/article-abstract/53/1/67/1098886/Site-specific-modification-of-RNA-by-functionality?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78963 (77K) [text/html]
+Saving to: ‘nrp034’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... .......                         100% 10.4M=0.2s
+
+2017-02-03 00:28:52 (318 KB/s) - ‘nrp034’ saved [78963/78963]
+
+--2017-02-03 00:28:53--  http://doi.org/10.1093/nass/nrp128
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp128 [following]
+--2017-02-03 00:28:55--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp128
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/255/1099675/Acridone-labeled-DNA-aptamer-for-the-detection-of?redirectedFrom=fulltext [following]
+--2017-02-03 00:28:57--  https://academic.oup.com/nass/article-abstract/53/1/255/1099675/Acridone-labeled-DNA-aptamer-for-the-detection-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:28:57 ERROR 400: Bad Request.
+
+--2017-02-03 00:28:58--  http://doi.org/10.1093/nass/nrp043
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp043 [following]
+--2017-02-03 00:28:59--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp043
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/85/1098989/One-electron-oxidation-of-DNA-mechanism-and?redirectedFrom=fulltext [following]
+--2017-02-03 00:29:01--  https://academic.oup.com/nass/article-abstract/53/1/85/1098989/One-electron-oxidation-of-DNA-mechanism-and?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 88487 (86K) [text/html]
+Saving to: ‘nrp043’
+
+     0K .......... .......... .......... .......... .......... 57%  209K 0s
+    50K .......... .......... .......... ......               100% 12.3M=0.2s
+
+2017-02-03 00:29:05 (357 KB/s) - ‘nrp043’ saved [88487/88487]
+
+--2017-02-03 00:29:06--  http://doi.org/10.1093/nass/nrp042
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp042 [following]
+--2017-02-03 00:29:07--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp042
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/83/1098983/Defining-the-syntax-for-self-assembling-RNA?redirectedFrom=fulltext [following]
+--2017-02-03 00:29:12--  https://academic.oup.com/nass/article-abstract/53/1/83/1098983/Defining-the-syntax-for-self-assembling-RNA?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 71035 (69K) [text/html]
+Saving to: ‘nrp042’
+
+     0K .......... .......... .......... .......... .......... 72%  209K 0s
+    50K .......... .........                                  100% 10.4M=0.2s
+
+2017-02-03 00:29:15 (287 KB/s) - ‘nrp042’ saved [71035/71035]
+
+--2017-02-03 00:29:16--  http://doi.org/10.1093/nass/nrp140
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp140 [following]
+--2017-02-03 00:29:17--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp140
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/279/1099720/Multiple-turnover-cleavage-of-double-stranded-DNA?redirectedFrom=fulltext [following]
+--2017-02-03 00:29:19--  https://academic.oup.com/nass/article-abstract/53/1/279/1099720/Multiple-turnover-cleavage-of-double-stranded-DNA?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 83875 (82K) [text/html]
+Saving to: ‘nrp140’
+
+     0K .......... .......... .......... .......... .......... 61%  209K 0s
+    50K .......... .......... .......... .                    100% 10.1M=0.2s
+
+2017-02-03 00:29:23 (338 KB/s) - ‘nrp140’ saved [83875/83875]
+
+--2017-02-03 00:29:24--  http://doi.org/10.1093/nass/nrp044
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp044 [following]
+--2017-02-03 00:29:25--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp044
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/87/1098994/Structure-and-real-time-monitoring-of-the?redirectedFrom=fulltext [following]
+--2017-02-03 00:29:28--  https://academic.oup.com/nass/article-abstract/53/1/87/1098994/Structure-and-real-time-monitoring-of-the?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 108384 (106K) [text/html]
+Saving to: ‘nrp044’
+
+     0K .......... .......... .......... .......... .......... 47%  208K 0s
+    50K .......... .......... .......... .......... .......... 94%  600K 0s
+   100K .....                                                 100% 11146G=0.3s
+
+2017-02-03 00:29:39 (327 KB/s) - ‘nrp044’ saved [108384/108384]
+
+--2017-02-03 00:29:40--  http://doi.org/10.1093/nass/nrp075
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp075 [following]
+--2017-02-03 00:29:41--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp075
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/149/1099245/Strategies-for-preparation-of-oligonucleotide?redirectedFrom=fulltext [following]
+--2017-02-03 00:29:43--  https://academic.oup.com/nass/article-abstract/53/1/149/1099245/Strategies-for-preparation-of-oligonucleotide?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79798 (78K) [text/html]
+Saving to: ‘nrp075’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... .......                         100% 12.3M=0.2s
+
+2017-02-03 00:29:52 (323 KB/s) - ‘nrp075’ saved [79798/79798]
+
+--2017-02-03 00:29:53--  http://doi.org/10.1093/nass/nrp014
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp014 [following]
+--2017-02-03 00:29:55--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp014
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:29:55 ERROR 400: Bad Request.
+
+--2017-02-03 00:29:56--  http://doi.org/10.1093/nass/nrp030
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp030 [following]
+--2017-02-03 00:29:57--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp030
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/59/1098838/DNA-junction-structure-stabilized-by-molecular?redirectedFrom=fulltext [following]
+--2017-02-03 00:29:59--  https://academic.oup.com/nass/article-abstract/53/1/59/1098838/DNA-junction-structure-stabilized-by-molecular?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 80153 (78K) [text/html]
+Saving to: ‘nrp030’
+
+     0K .......... .......... .......... .......... .......... 63%  209K 0s
+    50K .......... .......... ........                        100% 10.7M=0.2s
+
+2017-02-03 00:30:04 (323 KB/s) - ‘nrp030’ saved [80153/80153]
+
+--2017-02-03 00:30:05--  http://doi.org/10.1093/nass/nrp154
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp154 [following]
+--2017-02-03 00:30:06--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp154
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/307/1099758/Physiological-role-of-RsgA-in-ribosome?redirectedFrom=fulltext [following]
+--2017-02-03 00:30:08--  https://academic.oup.com/nass/article-abstract/53/1/307/1099758/Physiological-role-of-RsgA-in-ribosome?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:30:08 ERROR 400: Bad Request.
+
+--2017-02-03 00:30:09--  http://doi.org/10.1093/nass/nrp124
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp124 [following]
+--2017-02-03 00:30:10--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp124
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nass/article-abstract/53/1/247/1099661/Identification-of-DNA-binding-specificity-for-TLS?redirectedFrom=fulltext [following]
+--2017-02-03 00:30:12--  https://academic.oup.com/nass/article-abstract/53/1/247/1099661/Identification-of-DNA-binding-specificity-for-TLS?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 96854 (95K) [text/html]
+Saving to: ‘nrp124’
+
+     0K .......... .......... .......... .......... .......... 52%  208K 0s
+    50K .......... .......... .......... .......... ....      100%  549K=0.3s
+
+2017-02-03 00:30:15 (294 KB/s) - ‘nrp124’ saved [96854/96854]
+
+--2017-02-03 00:30:16--  http://doi.org/10.1093/nass/nrp100
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp100 [following]
+--2017-02-03 00:30:17--  https://academic.oup.com/nass/article-lookup/doi/10.1093/nass/nrp100
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:30:18 ERROR 400: Bad Request.
+
+FINISHED --2017-02-03 00:30:18--
+Total wall clock time: 15m 58s
+Downloaded: 73 files, 5.9M in 19s (317 KB/s)

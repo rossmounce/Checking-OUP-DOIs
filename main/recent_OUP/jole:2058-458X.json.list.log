@@ -1,0 +1,433 @@
+--2017-02-03 20:11:47--  http://doi.org/10.1093/jole/lzw012
+Resolving doi.org (doi.org)... 95.138.171.129, 208.254.38.90, 54.191.229.235, ...
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jole.oxfordjournals.org/lookup/doi/10.1093/jole/lzw012 [following]
+--2017-02-03 20:11:48--  http://jole.oxfordjournals.org/lookup/doi/10.1093/jole/lzw012
+Resolving jole.oxfordjournals.org (jole.oxfordjournals.org)... 209.135.222.209
+Connecting to jole.oxfordjournals.org (jole.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jole.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jole/article/doi/10.1093/jole/lzw012/2954715/Language-for-200-success-in-the-environment [following]
+--2017-02-03 20:11:49--  https://academic.oup.com/jole/article/doi/10.1093/jole/lzw012/2954715/Language-for-200-success-in-the-environment
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 275844 (269K) [text/html]
+Saving to: ‘lzw012’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 37%  613K 1s
+   100K .......... .......... .......... .......... .......... 55%  591K 0s
+   150K .......... .......... .......... .......... .......... 74%  615K 0s
+   200K .......... .......... .......... .......... .......... 92%  314K 0s
+   250K .......... .........                                  100% 12.6M=0.6s
+
+2017-02-03 20:11:55 (416 KB/s) - ‘lzw012’ saved [275844/275844]
+
+--2017-02-03 20:11:56--  http://doi.org/10.1093/jole/lzw007
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzw007 [following]
+--2017-02-03 20:11:57--  https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzw007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 460836 (450K) [text/html]
+Saving to: ‘lzw007’
+
+     0K .......... .......... .......... .......... .......... 11%  209K 2s
+    50K .......... .......... .......... .......... .......... 22%  580K 1s
+   100K .......... .......... .......... .......... .......... 33%  611K 1s
+   150K .......... .......... .......... .......... .......... 44%  610K 1s
+   200K .......... .......... .......... .......... .......... 55%  314K 1s
+   250K .......... .......... .......... .......... .......... 66%  599K 0s
+   300K .......... .......... .......... .......... .......... 77%  611K 0s
+   350K .......... .......... .......... .......... .......... 88%  326K 0s
+   400K .......... .......... .......... .......... .......... 99%  568K 0s
+   450K                                                       100% 67.1G=1.1s
+
+2017-02-03 20:12:04 (427 KB/s) - ‘lzw007’ saved [460836/460836]
+
+--2017-02-03 20:12:05--  http://doi.org/10.1093/jole/lzw008
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzw008 [following]
+--2017-02-03 20:12:06--  https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzw008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 106321 (104K) [text/html]
+Saving to: ‘lzw008’
+
+     0K .......... .......... .......... .......... .......... 48%  209K 0s
+    50K .......... .......... .......... .......... .......... 96%  611K 0s
+   100K ...                                                   100% 7303G=0.3s
+
+2017-02-03 20:12:14 (324 KB/s) - ‘lzw008’ saved [106321/106321]
+
+--2017-02-03 20:12:15--  http://doi.org/10.1093/jole/lzw009
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzw009 [following]
+--2017-02-03 20:12:16--  https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzw009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 20:12:17 ERROR 400: Bad Request.
+
+--2017-02-03 20:12:18--  http://doi.org/10.1093/jole/lzw010
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzw010 [following]
+--2017-02-03 20:12:19--  https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzw010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 120690 (118K) [text/html]
+Saving to: ‘lzw010’
+
+     0K .......... .......... .......... .......... .......... 42%  209K 0s
+    50K .......... .......... .......... .......... .......... 84%  605K 0s
+   100K .......... .......                                    100% 21.9M=0.3s
+
+2017-02-03 20:12:27 (365 KB/s) - ‘lzw010’ saved [120690/120690]
+
+--2017-02-03 20:12:28--  http://doi.org/10.1093/jole/lzw006
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzw006 [following]
+--2017-02-03 20:12:29--  https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzw006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 397167 (388K) [text/html]
+Saving to: ‘lzw006’
+
+     0K .......... .......... .......... .......... .......... 12%  209K 2s
+    50K .......... .......... .......... .......... .......... 25%  605K 1s
+   100K .......... .......... .......... .......... .......... 38%  606K 1s
+   150K .......... .......... .......... .......... .......... 51%  310K 1s
+   200K .......... .......... .......... .......... .......... 64%  602K 0s
+   250K .......... .......... .......... .......... .......... 77%  606K 0s
+   300K .......... .......... .......... .......... .......... 90%  604K 0s
+   350K .......... .......... .......... .......              100%  466K=0.9s
+
+2017-02-03 20:12:36 (433 KB/s) - ‘lzw006’ saved [397167/397167]
+
+--2017-02-03 20:12:37--  http://doi.org/10.1093/jole/lzw005
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzw005 [following]
+--2017-02-03 20:12:38--  https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzw005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 239218 (234K) [text/html]
+Saving to: ‘lzw005’
+
+     0K .......... .......... .......... .......... .......... 21%  209K 1s
+    50K .......... .......... .......... .......... .......... 42%  602K 0s
+   100K .......... .......... .......... .......... .......... 64%  605K 0s
+   150K .......... .......... .......... .......... .......... 85%  316K 0s
+   200K .......... .......... .......... ...                  100% 5.96M=0.6s
+
+2017-02-03 20:12:44 (411 KB/s) - ‘lzw005’ saved [239218/239218]
+
+--2017-02-03 20:12:45--  http://doi.org/10.1093/jole/lzw004
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzw004 [following]
+--2017-02-03 20:12:46--  https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzw004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 190024 (186K) [text/html]
+Saving to: ‘lzw004’
+
+     0K .......... .......... .......... .......... .......... 26%  209K 1s
+    50K .......... .......... .......... .......... .......... 53%  609K 0s
+   100K .......... .......... .......... .......... .......... 80%  612K 0s
+   150K .......... .......... .......... .....                100%  444K=0.5s
+
+2017-02-03 20:12:50 (384 KB/s) - ‘lzw004’ saved [190024/190024]
+
+--2017-02-03 20:12:51--  http://doi.org/10.1093/jole/lzw003
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzw003 [following]
+--2017-02-03 20:12:52--  https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzw003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 20:12:53 ERROR 400: Bad Request.
+
+--2017-02-03 20:12:54--  http://doi.org/10.1093/jole/lzv004
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzv004 [following]
+--2017-02-03 20:12:55--  https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzv004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 354495 (346K) [text/html]
+Saving to: ‘lzv004’
+
+     0K .......... .......... .......... .......... .......... 14%  209K 1s
+    50K .......... .......... .......... .......... .......... 28%  609K 1s
+   100K .......... .......... .......... .......... .......... 43%  598K 1s
+   150K .......... .......... .......... .......... .......... 57%  319K 0s
+   200K .......... .......... .......... .......... .......... 72%  596K 0s
+   250K .......... .......... .......... .......... .......... 86%  606K 0s
+   300K .......... .......... .......... .......... ......    100%  561K=0.8s
+
+2017-02-03 20:13:00 (427 KB/s) - ‘lzv004’ saved [354495/354495]
+
+--2017-02-03 20:13:01--  http://doi.org/10.1093/jole/lzv016
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzv016 [following]
+--2017-02-03 20:13:02--  https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzv016
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 118767 (116K) [text/html]
+Saving to: ‘lzv016’
+
+     0K .......... .......... .......... .......... .......... 43%  209K 0s
+    50K .......... .......... .......... .......... .......... 86%  597K 0s
+   100K .......... .....                                      100% 10.7M=0.3s
+
+2017-02-03 20:13:08 (357 KB/s) - ‘lzv016’ saved [118767/118767]
+
+--2017-02-03 20:13:09--  http://doi.org/10.1093/jole/lzv011
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzv011 [following]
+--2017-02-03 20:13:11--  https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzv011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 155875 (152K) [text/html]
+Saving to: ‘lzv011’
+
+     0K .......... .......... .......... .......... .......... 32%  209K 0s
+    50K .......... .......... .......... .......... .......... 65%  610K 0s
+   100K .......... .......... .......... .......... .......... 98%  599K 0s
+   150K ..                                                    100% 8.14M=0.4s
+
+2017-02-03 20:13:15 (376 KB/s) - ‘lzv011’ saved [155875/155875]
+
+--2017-02-03 20:13:16--  http://doi.org/10.1093/jole/lzv008
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzv008 [following]
+--2017-02-03 20:13:17--  https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzv008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 92853 (91K) [text/html]
+Saving to: ‘lzv008’
+
+     0K .......... .......... .......... .......... .......... 55%  207K 0s
+    50K .......... .......... .......... ..........           100%  507K=0.3s
+
+2017-02-03 20:13:21 (282 KB/s) - ‘lzv008’ saved [92853/92853]
+
+--2017-02-03 20:13:22--  http://doi.org/10.1093/jole/lzv013
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzv013 [following]
+--2017-02-03 20:13:24--  https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzv013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 132859 (130K) [text/html]
+Saving to: ‘lzv013’
+
+     0K .......... .......... .......... .......... .......... 38%  209K 0s
+    50K .......... .......... .......... .......... .......... 77%  602K 0s
+   100K .......... .......... .........                       100%  380K=0.4s
+
+2017-02-03 20:13:28 (324 KB/s) - ‘lzv013’ saved [132859/132859]
+
+--2017-02-03 20:13:29--  http://doi.org/10.1093/jole/lzv002
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzv002 [following]
+--2017-02-03 20:13:30--  https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzv002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 84620 (83K) [text/html]
+Saving to: ‘lzv002’
+
+     0K .......... .......... .......... .......... .......... 60%  209K 0s
+    50K .......... .......... .......... ..                   100% 12.9M=0.2s
+
+2017-02-03 20:13:35 (342 KB/s) - ‘lzv002’ saved [84620/84620]
+
+--2017-02-03 20:13:36--  http://doi.org/10.1093/jole/lzv005
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzv005 [following]
+--2017-02-03 20:13:37--  https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzv005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 98328 (96K) [text/html]
+Saving to: ‘lzv005’
+
+     0K .......... .......... .......... .......... .......... 52%  233K 0s
+    50K .......... .......... .......... .......... ......    100%  290K=0.4s
+
+2017-02-03 20:13:43 (257 KB/s) - ‘lzv005’ saved [98328/98328]
+
+--2017-02-03 20:13:44--  http://doi.org/10.1093/jole/lzv015
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzv015 [following]
+--2017-02-03 20:13:45--  https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzv015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 115277 (113K) [text/html]
+Saving to: ‘lzv015’
+
+     0K .......... .......... .......... .......... .......... 44%  209K 0s
+    50K .......... .......... .......... .......... .......... 88%  605K 0s
+   100K .......... ..                                         100% 24.2M=0.3s
+
+2017-02-03 20:13:49 (349 KB/s) - ‘lzv015’ saved [115277/115277]
+
+--2017-02-03 20:13:50--  http://doi.org/10.1093/jole/lzv012
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzv012 [following]
+--2017-02-03 20:13:51--  https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzv012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 131123 (128K) [text/html]
+Saving to: ‘lzv012’
+
+     0K .......... .......... .......... .......... .......... 39%  209K 0s
+    50K .......... .......... .......... .......... .......... 78%  607K 0s
+   100K .......... .......... ........                        100% 14.4M=0.3s
+
+2017-02-03 20:13:56 (395 KB/s) - ‘lzv012’ saved [131123/131123]
+
+--2017-02-03 20:13:57--  http://doi.org/10.1093/jole/lzv006
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzv006 [following]
+--2017-02-03 20:13:59--  https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzv006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 97393 (95K) [text/html]
+Saving to: ‘lzv006’
+
+     0K .......... .......... .......... .......... .......... 52%  209K 0s
+    50K .......... .......... .......... .......... .....     100%  564K=0.3s
+
+2017-02-03 20:14:02 (298 KB/s) - ‘lzv006’ saved [97393/97393]
+
+--2017-02-03 20:14:03--  http://doi.org/10.1093/jole/lzw002
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzw002 [following]
+--2017-02-03 20:14:04--  https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzw002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 278948 (272K) [text/html]
+Saving to: ‘lzw002’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 36%  594K 1s
+   100K .......... .......... .......... .......... .......... 55%  611K 0s
+   150K .......... .......... .......... .......... .......... 73%  607K 0s
+   200K .......... .......... .......... .......... .......... 91%  309K 0s
+   250K .......... .......... ..                              100% 10.0M=0.7s
+
+2017-02-03 20:14:09 (418 KB/s) - ‘lzw002’ saved [278948/278948]
+
+--2017-02-03 20:14:10--  http://doi.org/10.1093/jole/lzv009
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzv009 [following]
+--2017-02-03 20:14:11--  https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzv009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 20:14:12 ERROR 400: Bad Request.
+
+--2017-02-03 20:14:13--  http://doi.org/10.1093/jole/lzv014
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzv014 [following]
+--2017-02-03 20:14:14--  https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzv014
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 122121 (119K) [text/html]
+Saving to: ‘lzv014’
+
+     0K .......... .......... .......... .......... .......... 41%  209K 0s
+    50K .......... .......... .......... .......... .......... 83%  608K 0s
+   100K .......... .........                                  100% 20.3M=0.3s
+
+2017-02-03 20:14:18 (370 KB/s) - ‘lzv014’ saved [122121/122121]
+
+--2017-02-03 20:14:19--  http://doi.org/10.1093/jole/lzw001
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzw001 [following]
+--2017-02-03 20:14:20--  https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzw001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 143840 (140K) [text/html]
+Saving to: ‘lzw001’
+
+     0K .......... .......... .......... .......... .......... 35%  210K 0s
+    50K .......... .......... .......... .......... .......... 71%  601K 0s
+   100K .......... .......... .......... ..........           100%  501K=0.4s
+
+2017-02-03 20:14:24 (349 KB/s) - ‘lzw001’ saved [143840/143840]
+
+--2017-02-03 20:14:25--  http://doi.org/10.1093/jole/lzv010
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzv010 [following]
+--2017-02-03 20:14:26--  https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzv010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 20:14:27 ERROR 400: Bad Request.
+
+--2017-02-03 20:14:28--  http://doi.org/10.1093/jole/lzv007
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzv007 [following]
+--2017-02-03 20:14:30--  https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzv007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 180640 (176K) [text/html]
+Saving to: ‘lzv007’
+
+     0K .......... .......... .......... .......... .......... 28%  209K 1s
+    50K .......... .......... .......... .......... .......... 56%  604K 0s
+   100K .......... .......... .......... .......... .......... 85%  605K 0s
+   150K .......... .......... ......                          100%  322K=0.5s
+
+2017-02-03 20:14:34 (363 KB/s) - ‘lzv007’ saved [180640/180640]
+
+--2017-02-03 20:14:35--  http://doi.org/10.1093/jole/lzv003
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzv003 [following]
+--2017-02-03 20:14:36--  https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzv003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 248969 (243K) [text/html]
+Saving to: ‘lzv003’
+
+     0K .......... .......... .......... .......... .......... 20%  308K 1s
+    50K .......... .......... .......... .......... .......... 41%  312K 0s
+   100K .......... .......... .......... .......... .......... 61%  609K 0s
+   150K .......... .......... .......... .......... .......... 82%  600K 0s
+   200K .......... .......... .......... .......... ...       100%  515K=0.6s
+
+2017-02-03 20:14:40 (425 KB/s) - ‘lzv003’ saved [248969/248969]
+
+--2017-02-03 20:14:41--  http://doi.org/10.1093/jole/lzv001
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzv001 [following]
+--2017-02-03 20:14:42--  https://academic.oup.com/jole/article-lookup/doi/10.1093/jole/lzv001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 20:14:44 ERROR 400: Bad Request.
+
+FINISHED --2017-02-03 20:14:44--
+Total wall clock time: 2m 57s
+Downloaded: 22 files, 4.0M in 11s (383 KB/s)

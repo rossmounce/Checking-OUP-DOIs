@@ -1,0 +1,1720 @@
+--2017-02-03 01:02:02--  http://doi.org/10.1093/nop/npw031
+Resolving doi.org (doi.org)... 208.254.38.90, 54.191.229.235, 63.123.152.248, ...
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw031 [following]
+--2017-02-03 01:02:03--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw031
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nop/article-abstract/doi/10.1093/nop/npw031/2917941/Survey-on-current-practice-within-the-European-Low?redirectedFrom=fulltext [following]
+--2017-02-03 01:02:07--  https://academic.oup.com/nop/article-abstract/doi/10.1093/nop/npw031/2917941/Survey-on-current-practice-within-the-European-Low?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 584394 (571K) [text/html]
+Saving to: ‘npw031’
+
+     0K .......... .......... .......... .......... ..........  8%  209K 2s
+    50K .......... .......... .......... .......... .......... 17%  601K 2s
+   100K .......... .......... .......... .......... .......... 26%  598K 1s
+   150K .......... .......... .......... .......... .......... 35%  594K 1s
+   200K .......... .......... .......... .......... .......... 43%  311K 1s
+   250K .......... .......... .......... .......... .......... 52%  603K 1s
+   300K .......... .......... .......... .......... .......... 61%  597K 1s
+   350K .......... .......... .......... .......... .......... 70%  317K 0s
+   400K .......... .......... .......... .......... .......... 78%  583K 0s
+   450K .......... .......... .......... .......... .......... 87%  609K 0s
+   500K .......... .......... .......... .......... .......... 96%  314K 0s
+   550K .......... ..........                                 100% 5.88M=1.3s
+
+2017-02-03 01:02:21 (437 KB/s) - ‘npw031’ saved [584394/584394]
+
+--2017-02-03 01:02:22--  http://doi.org/10.1093/nop/npw030
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw030 [following]
+--2017-02-03 01:02:23--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw030
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nop/article-abstract/doi/10.1093/nop/npw030/2917887/Impact-of-mass-effect-tumor-location-age-and?redirectedFrom=fulltext [following]
+--2017-02-03 01:02:26--  https://academic.oup.com/nop/article-abstract/doi/10.1093/nop/npw030/2917887/Impact-of-mass-effect-tumor-location-age-and?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 153404 (150K) [text/html]
+Saving to: ‘npw030’
+
+     0K .......... .......... .......... .......... .......... 33%  208K 0s
+    50K .......... .......... .......... .......... .......... 66%  607K 0s
+   100K .......... .......... .......... .......... ......... 100%  593K=0.4s
+
+2017-02-03 01:02:41 (369 KB/s) - ‘npw030’ saved [153404/153404]
+
+--2017-02-03 01:02:42--  http://doi.org/10.1093/nop/npw029
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw029 [following]
+--2017-02-03 01:02:43--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw029
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nop/article-abstract/doi/10.1093/nop/npw029/2763413/Brain-tumor-biobanking-in-the-precision-medicine?redirectedFrom=fulltext [following]
+--2017-02-03 01:02:46--  https://academic.oup.com/nop/article-abstract/doi/10.1093/nop/npw029/2763413/Brain-tumor-biobanking-in-the-precision-medicine?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 149861 (146K) [text/html]
+Saving to: ‘npw029’
+
+     0K .......... .......... .......... .......... .......... 34%  208K 0s
+    50K .......... .......... .......... .......... .......... 68%  600K 0s
+   100K .......... .......... .......... .......... ......    100%  571K=0.4s
+
+2017-02-03 01:02:53 (362 KB/s) - ‘npw029’ saved [149861/149861]
+
+--2017-02-03 01:02:54--  http://doi.org/10.1093/nop/npw021
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw021 [following]
+--2017-02-03 01:02:55--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 01:02:56 ERROR 400: Bad Request.
+
+--2017-02-03 01:02:57--  http://doi.org/10.1093/nop/npw023
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw023 [following]
+--2017-02-03 01:02:58--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 01:02:59 ERROR 400: Bad Request.
+
+--2017-02-03 01:03:00--  http://doi.org/10.1093/nop/npw024
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw024 [following]
+--2017-02-03 01:03:01--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw024
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nop/article-abstract/3/4/209/2913019/Neuro-Oncology-Practice-Learning-from-our-past-to?redirectedFrom=fulltext [following]
+--2017-02-03 01:03:03--  https://academic.oup.com/nop/article-abstract/3/4/209/2913019/Neuro-Oncology-Practice-Learning-from-our-past-to?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 83695 (82K) [text/html]
+Saving to: ‘npw024’
+
+     0K .......... .......... .......... .......... .......... 61%  209K 0s
+    50K .......... .......... .......... .                    100% 9.43M=0.2s
+
+2017-02-03 01:03:16 (337 KB/s) - ‘npw024’ saved [83695/83695]
+
+--2017-02-03 01:03:17--  http://doi.org/10.1093/nop/npw022
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw022 [following]
+--2017-02-03 01:03:19--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw022
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 01:03:19 ERROR 400: Bad Request.
+
+--2017-02-03 01:03:20--  http://doi.org/10.1093/nop/npw020
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw020 [following]
+--2017-02-03 01:03:21--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw020
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nop/article-abstract/doi/10.1093/nop/npw020/2631789/Effects-of-physically-active-video-gaming-on?redirectedFrom=fulltext [following]
+--2017-02-03 01:03:24--  https://academic.oup.com/nop/article-abstract/doi/10.1093/nop/npw020/2631789/Effects-of-physically-active-video-gaming-on?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 154374 (151K) [text/html]
+Saving to: ‘npw020’
+
+     0K .......... .......... .......... .......... .......... 33%  208K 0s
+    50K .......... .......... .......... .......... .......... 66%  606K 0s
+   100K .......... .......... .......... .......... .......... 99%  575K 0s
+   150K                                                       100% 1442G=0.4s
+
+2017-02-03 01:03:32 (368 KB/s) - ‘npw020’ saved [154374/154374]
+
+--2017-02-03 01:03:33--  http://doi.org/10.1093/nop/npw019
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw019 [following]
+--2017-02-03 01:03:34--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nop/article-abstract/doi/10.1093/nop/npw019/2631788/Creating-a-caregiver-program-in-neuro-oncology?redirectedFrom=fulltext [following]
+--2017-02-03 01:03:36--  https://academic.oup.com/nop/article-abstract/doi/10.1093/nop/npw019/2631788/Creating-a-caregiver-program-in-neuro-oncology?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 01:03:37 ERROR 400: Bad Request.
+
+--2017-02-03 01:03:38--  http://doi.org/10.1093/nop/npw014
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw014 [following]
+--2017-02-03 01:03:39--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw014
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nop/article-abstract/doi/10.1093/nop/npw014/2631785/Phase-I-cancer-clinical-trials?redirectedFrom=fulltext [following]
+--2017-02-03 01:03:45--  https://academic.oup.com/nop/article-abstract/doi/10.1093/nop/npw014/2631785/Phase-I-cancer-clinical-trials?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 105991 (104K) [text/html]
+Saving to: ‘npw014’
+
+     0K .......... .......... .......... .......... .......... 48%  209K 0s
+    50K .......... .......... .......... .......... .......... 96%  605K 0s
+   100K ...                                                   100% 6689G=0.3s
+
+2017-02-03 01:04:01 (322 KB/s) - ‘npw014’ saved [105991/105991]
+
+--2017-02-03 01:04:02--  http://doi.org/10.1093/nop/npw016
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw016 [following]
+--2017-02-03 01:04:03--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw016
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nop/article-abstract/doi/10.1093/nop/npw016/2631787/Pivotal-therapeutic-trials-for-infiltrating?redirectedFrom=fulltext [following]
+--2017-02-03 01:04:06--  https://academic.oup.com/nop/article-abstract/doi/10.1093/nop/npw016/2631787/Pivotal-therapeutic-trials-for-infiltrating?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 129484 (126K) [text/html]
+Saving to: ‘npw016’
+
+     0K .......... .......... .......... .......... .......... 39%  208K 0s
+    50K .......... .......... .......... .......... .......... 79%  605K 0s
+   100K .......... .......... ......                          100%  334K=0.4s
+
+2017-02-03 01:04:10 (315 KB/s) - ‘npw016’ saved [129484/129484]
+
+--2017-02-03 01:04:11--  http://doi.org/10.1093/nop/npw015
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw015 [following]
+--2017-02-03 01:04:12--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nop/article-abstract/doi/10.1093/nop/npw015/2631786/Feasibility-and-efficacy-of-an-extended-trial-of?redirectedFrom=fulltext [following]
+--2017-02-03 01:04:19--  https://academic.oup.com/nop/article-abstract/doi/10.1093/nop/npw015/2631786/Feasibility-and-efficacy-of-an-extended-trial-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 121033 (118K) [text/html]
+Saving to: ‘npw015’
+
+     0K .......... .......... .......... .......... .......... 42%  209K 0s
+    50K .......... .......... .......... .......... .......... 84%  609K 0s
+   100K .......... ........                                   100% 5.50M=0.3s
+
+2017-02-03 01:04:25 (364 KB/s) - ‘npw015’ saved [121033/121033]
+
+--2017-02-03 01:04:26--  http://doi.org/10.1093/nop/npw013
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw013 [following]
+--2017-02-03 01:04:27--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nop/article-abstract/doi/10.1093/nop/npw013/2631784/Core-deficits-and-quality-of-survival-after?redirectedFrom=fulltext [following]
+--2017-02-03 01:04:29--  https://academic.oup.com/nop/article-abstract/doi/10.1093/nop/npw013/2631784/Core-deficits-and-quality-of-survival-after?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 203821 (199K) [text/html]
+Saving to: ‘npw013’
+
+     0K .......... .......... .......... .......... .......... 25%  209K 1s
+    50K .......... .......... .......... .......... .......... 50%  602K 0s
+   100K .......... .......... .......... .......... .......... 75%  584K 0s
+   150K .......... .......... .......... .......... ......... 100%  404K=0.5s
+
+2017-02-03 01:04:34 (376 KB/s) - ‘npw013’ saved [203821/203821]
+
+--2017-02-03 01:04:35--  http://doi.org/10.1093/nop/npw017
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw017 [following]
+--2017-02-03 01:04:36--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nop/article-abstract/3/3/208/1752347/Announcements?redirectedFrom=fulltext [following]
+--2017-02-03 01:04:38--  https://academic.oup.com/nop/article-abstract/3/3/208/1752347/Announcements?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 01:04:39 ERROR 400: Bad Request.
+
+--2017-02-03 01:04:40--  http://doi.org/10.1093/nop/npw018
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw018 [following]
+--2017-02-03 01:04:42--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw018
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nop/article-abstract/3/3/137/1752357/Fulfilling-the-purpose-and-scope-of-Neuro-Oncology?redirectedFrom=fulltext [following]
+--2017-02-03 01:04:47--  https://academic.oup.com/nop/article-abstract/3/3/137/1752357/Fulfilling-the-purpose-and-scope-of-Neuro-Oncology?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 88680 (87K) [text/html]
+Saving to: ‘npw018’
+
+     0K .......... .......... .......... .......... .......... 57%  209K 0s
+    50K .......... .......... .......... ......               100% 9.28M=0.2s
+
+2017-02-03 01:04:52 (356 KB/s) - ‘npw018’ saved [88680/88680]
+
+--2017-02-03 01:04:53--  http://doi.org/10.1093/nop/npw006
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw006 [following]
+--2017-02-03 01:04:54--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nop/article-abstract/doi/10.1093/nop/npw006/2661727/Optic-neuropathy-in-the-context-of-leukemia-or?redirectedFrom=fulltext [following]
+--2017-02-03 01:05:01--  https://academic.oup.com/nop/article-abstract/doi/10.1093/nop/npw006/2661727/Optic-neuropathy-in-the-context-of-leukemia-or?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 163098 (159K) [text/html]
+Saving to: ‘npw006’
+
+     0K .......... .......... .......... .......... .......... 31%  209K 1s
+    50K .......... .......... .......... .......... .......... 62%  591K 0s
+   100K .......... .......... .......... .......... .......... 94%  604K 0s
+   150K .........                                             100% 2.65M=0.4s
+
+2017-02-03 01:05:06 (388 KB/s) - ‘npw006’ saved [163098/163098]
+
+--2017-02-03 01:05:07--  http://doi.org/10.1093/nop/npw012
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw012 [following]
+--2017-02-03 01:05:08--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nop/article-abstract/doi/10.1093/nop/npw012/2661731/Essence-of-survival-analysis?redirectedFrom=fulltext [following]
+--2017-02-03 01:05:10--  https://academic.oup.com/nop/article-abstract/doi/10.1093/nop/npw012/2661731/Essence-of-survival-analysis?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 98318 (96K) [text/html]
+Saving to: ‘npw012’
+
+     0K .......... .......... .......... .......... .......... 52%  209K 0s
+    50K .......... .......... .......... .......... ......    100%  567K=0.3s
+
+2017-02-03 01:05:16 (300 KB/s) - ‘npw012’ saved [98318/98318]
+
+--2017-02-03 01:05:17--  http://doi.org/10.1093/nop/npw008
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw008 [following]
+--2017-02-03 01:05:18--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nop/article-abstract/doi/10.1093/nop/npw008/2661729/Bevacizumab-in-high-grade-glioma-patients?redirectedFrom=fulltext [following]
+--2017-02-03 01:05:21--  https://academic.oup.com/nop/article-abstract/doi/10.1093/nop/npw008/2661729/Bevacizumab-in-high-grade-glioma-patients?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 120916 (118K) [text/html]
+Saving to: ‘npw008’
+
+     0K .......... .......... .......... .......... .......... 42%  209K 0s
+    50K .......... .......... .......... .......... .......... 84%  596K 0s
+   100K .......... ........                                   100% 4.67M=0.3s
+
+2017-02-03 01:05:28 (361 KB/s) - ‘npw008’ saved [120916/120916]
+
+--2017-02-03 01:05:29--  http://doi.org/10.1093/nop/npw011
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw011 [following]
+--2017-02-03 01:05:30--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nop/article-abstract/doi/10.1093/nop/npw011/2661730/Impact-of-standard-care-on-elderly-glioblastoma?redirectedFrom=fulltext [following]
+--2017-02-03 01:05:33--  https://academic.oup.com/nop/article-abstract/doi/10.1093/nop/npw011/2661730/Impact-of-standard-care-on-elderly-glioblastoma?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 135053 (132K) [text/html]
+Saving to: ‘npw011’
+
+     0K .......... .......... .......... .......... .......... 37%  209K 0s
+    50K .......... .......... .......... .......... .......... 75%  596K 0s
+   100K .......... .......... .......... .                    100%  410K=0.4s
+
+2017-02-03 01:05:40 (329 KB/s) - ‘npw011’ saved [135053/135053]
+
+--2017-02-03 01:05:41--  http://doi.org/10.1093/nop/npw010
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw010 [following]
+--2017-02-03 01:05:42--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nop/article-abstract/3/2/69/1752313/Neuro-Oncology-Practice-old-challenges-new?redirectedFrom=fulltext [following]
+--2017-02-03 01:05:50--  https://academic.oup.com/nop/article-abstract/3/2/69/1752313/Neuro-Oncology-Practice-old-challenges-new?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 97288 (95K) [text/html]
+Saving to: ‘npw010’
+
+     0K .......... .......... .......... .......... .......... 52%  206K 0s
+    50K .......... .......... .......... .......... .....     100%  554K=0.3s
+
+2017-02-03 01:06:08 (293 KB/s) - ‘npw010’ saved [97288/97288]
+
+--2017-02-03 01:06:09--  http://doi.org/10.1093/nop/npw009
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw009 [following]
+--2017-02-03 01:06:10--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 01:06:11 ERROR 400: Bad Request.
+
+--2017-02-03 01:06:12--  http://doi.org/10.1093/nop/npw007
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw007 [following]
+--2017-02-03 01:06:13--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 01:06:14 ERROR 400: Bad Request.
+
+--2017-02-03 01:06:15--  http://doi.org/10.1093/nop/npw005
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw005 [following]
+--2017-02-03 01:06:16--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 01:06:16 ERROR 400: Bad Request.
+
+--2017-02-03 01:06:17--  http://doi.org/10.1093/nop/npw004
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw004 [following]
+--2017-02-03 01:06:19--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nop/article-abstract/doi/10.1093/nop/npw004/2661725/Prolonged-survival-after-bevacizumab-rechallenge?redirectedFrom=fulltext [following]
+--2017-02-03 01:06:21--  https://academic.oup.com/nop/article-abstract/doi/10.1093/nop/npw004/2661725/Prolonged-survival-after-bevacizumab-rechallenge?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 171839 (168K) [text/html]
+Saving to: ‘npw004’
+
+     0K .......... .......... .......... .......... .......... 29%  206K 1s
+    50K .......... .......... .......... .......... .......... 59%  606K 0s
+   100K .......... .......... .......... .......... .......... 89%  586K 0s
+   150K .......... .......                                    100%  228K=0.5s
+
+2017-02-03 01:06:28 (343 KB/s) - ‘npw004’ saved [171839/171839]
+
+--2017-02-03 01:06:29--  http://doi.org/10.1093/nop/npw001
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw001 [following]
+--2017-02-03 01:06:30--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nop/article-abstract/3/1/68/2460184/Announcements?redirectedFrom=fulltext [following]
+--2017-02-03 01:06:33--  https://academic.oup.com/nop/article-abstract/3/1/68/2460184/Announcements?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 94038 (92K) [text/html]
+Saving to: ‘npw001’
+
+     0K .......... .......... .......... .......... .......... 54%  209K 0s
+    50K .......... .......... .......... .......... .         100%  517K=0.3s
+
+2017-02-03 01:06:37 (287 KB/s) - ‘npw001’ saved [94038/94038]
+
+--2017-02-03 01:06:38--  http://doi.org/10.1093/nop/npw003
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw003 [following]
+--2017-02-03 01:06:39--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 01:06:40 ERROR 400: Bad Request.
+
+--2017-02-03 01:06:41--  http://doi.org/10.1093/nop/npw002
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw002 [following]
+--2017-02-03 01:06:42--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npw002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /nop/article-abstract/3/1/3/2460185/Reviewer-List?redirectedFrom=fulltext [following]
+--2017-02-03 01:06:45--  https://academic.oup.com/nop/article-abstract/3/1/3/2460185/Reviewer-List?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 77908 (76K) [text/html]
+Saving to: ‘npw002’
+
+     0K .......... .......... .......... .......... .......... 65%  209K 0s
+    50K .......... .......... ......                          100% 10.8M=0.2s
+
+2017-02-03 01:06:50 (315 KB/s) - ‘npw002’ saved [77908/77908]
+
+--2017-02-03 01:06:51--  http://doi.org/10.1093/nop/npv061
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv061 [following]
+--2017-02-03 01:06:52--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv061
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 438578 (428K) [text/html]
+Saving to: ‘npv061’
+
+     0K .......... .......... .......... .......... .......... 11%  208K 2s
+    50K .......... .......... .......... .......... .......... 23%  603K 1s
+   100K .......... .......... .......... .......... .......... 35%  606K 1s
+   150K .......... .......... .......... .......... .......... 46%  317K 1s
+   200K .......... .......... .......... .......... .......... 58%  596K 0s
+   250K .......... .......... .......... .......... .......... 70%  602K 0s
+   300K .......... .......... .......... .......... .......... 81%  314K 0s
+   350K .......... .......... .......... .......... .......... 93%  599K 0s
+   400K .......... .......... ........                        100% 5.53M=1.0s
+
+2017-02-03 01:06:59 (438 KB/s) - ‘npv061’ saved [438578/438578]
+
+--2017-02-03 01:07:00--  http://doi.org/10.1093/nop/npv066
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv066 [following]
+--2017-02-03 01:07:01--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv066
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 214896 (210K) [text/html]
+Saving to: ‘npv066’
+
+     0K .......... .......... .......... .......... .......... 23%  208K 1s
+    50K .......... .......... .......... .......... .......... 47%  610K 0s
+   100K .......... .......... .......... .......... .......... 71%  601K 0s
+   150K .......... .......... .......... .......... .......... 95%  595K 0s
+   200K .........                                             100%  129K=0.6s
+
+2017-02-03 01:07:16 (371 KB/s) - ‘npv066’ saved [214896/214896]
+
+--2017-02-03 01:07:17--  http://doi.org/10.1093/nop/npv063
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv063 [following]
+--2017-02-03 01:07:18--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv063
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 676044 (660K) [text/html]
+Saving to: ‘npv063’
+
+     0K .......... .......... .......... .......... ..........  7%  208K 3s
+    50K .......... .......... .......... .......... .......... 15%  608K 2s
+   100K .......... .......... .......... .......... .......... 22%  178K 2s
+   150K .......... .......... .......... .......... .......... 30%  614K 2s
+   200K .......... .......... .......... .......... .......... 37%  532K 1s
+   250K .......... .......... .......... .......... .......... 45%  595K 1s
+   300K .......... .......... .......... .......... .......... 53%  317K 1s
+   350K .......... .......... .......... .......... .......... 60%  596K 1s
+   400K .......... .......... .......... .......... .......... 68%  611K 1s
+   450K .......... .......... .......... .......... .......... 75%  579K 0s
+   500K .......... .......... .......... .......... .......... 83%  587K 0s
+   550K .......... .......... .......... .......... .......... 90%  321K 0s
+   600K .......... .......... .......... .......... .......... 98%  608K 0s
+   650K ..........                                            100% 1.70M=1.6s
+
+2017-02-03 01:07:34 (412 KB/s) - ‘npv063’ saved [676044/676044]
+
+--2017-02-03 01:07:35--  http://doi.org/10.1093/nop/npv064
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv064 [following]
+--2017-02-03 01:07:37--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv064
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 619687 (605K) [text/html]
+Saving to: ‘npv064’
+
+     0K .......... .......... .......... .......... ..........  8%  252K 2s
+    50K .......... .......... .......... .......... .......... 16%  396K 2s
+   100K .......... .......... .......... .......... .......... 24%  610K 1s
+   150K .......... .......... .......... .......... .......... 33%  436K 1s
+   200K .......... .......... .......... .......... .......... 41%  392K 1s
+   250K .......... .......... .......... .......... .......... 49%  604K 1s
+   300K .......... .......... .......... .......... .......... 57%  439K 1s
+   350K .......... .......... .......... .......... .......... 66%  597K 0s
+   400K .......... .......... .......... .......... .......... 74%  395K 0s
+   450K .......... .......... .......... .......... .......... 82%  435K 0s
+   500K .......... .......... .......... .......... .......... 90%  603K 0s
+   550K .......... .......... .......... .......... .......... 99%  400K 0s
+   600K .....                                                 100% 9848G=1.4s
+
+2017-02-03 01:07:50 (439 KB/s) - ‘npv064’ saved [619687/619687]
+
+--2017-02-03 01:07:51--  http://doi.org/10.1093/nop/npv065
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv065 [following]
+--2017-02-03 01:07:52--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv065
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 293712 (287K) [text/html]
+Saving to: ‘npv065’
+
+     0K .......... .......... .......... .......... .......... 17%  208K 1s
+    50K .......... .......... .......... .......... .......... 34%  565K 1s
+   100K .......... .......... .......... .......... .......... 52%  604K 0s
+   150K .......... .......... .......... .......... .......... 69%  608K 0s
+   200K .......... .......... .......... .......... .......... 87%  311K 0s
+   250K .......... .......... .......... ......               100%  849K=0.7s
+
+2017-02-03 01:08:07 (411 KB/s) - ‘npv065’ saved [293712/293712]
+
+--2017-02-03 01:08:08--  http://doi.org/10.1093/nop/npv062
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv062 [following]
+--2017-02-03 01:08:09--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv062
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 146604 (143K) [text/html]
+Saving to: ‘npv062’
+
+     0K .......... .......... .......... .......... .......... 34%  206K 0s
+    50K .......... .......... .......... .......... .......... 69%  604K 0s
+   100K .......... .......... .......... .......... ...       100%  521K=0.4s
+
+2017-02-03 01:08:21 (351 KB/s) - ‘npv062’ saved [146604/146604]
+
+--2017-02-03 01:08:22--  http://doi.org/10.1093/nop/npv060
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv060 [following]
+--2017-02-03 01:08:23--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv060
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 395210 (386K) [text/html]
+Saving to: ‘npv060’
+
+     0K .......... .......... .......... .......... .......... 12%  209K 2s
+    50K .......... .......... .......... .......... .......... 25%  599K 1s
+   100K .......... .......... .......... .......... .......... 38%  596K 1s
+   150K .......... .......... .......... .......... .......... 51%  320K 1s
+   200K .......... .......... .......... .......... .......... 64%  581K 0s
+   250K .......... .......... .......... .......... .......... 77%  604K 0s
+   300K .......... .......... .......... .......... .......... 90%  594K 0s
+   350K .......... .......... .......... .....                100%  454K=0.9s
+
+2017-02-03 01:08:47 (431 KB/s) - ‘npv060’ saved [395210/395210]
+
+--2017-02-03 01:08:48--  http://doi.org/10.1093/nop/npv049
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nop.oxfordjournals.org/lookup/doi/10.1093/nop/npv049 [following]
+--2017-02-03 01:08:49--  http://nop.oxfordjournals.org/lookup/doi/10.1093/nop/npv049
+Resolving nop.oxfordjournals.org (nop.oxfordjournals.org)... 209.135.222.209
+Connecting to nop.oxfordjournals.org (nop.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nop.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from nop.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nop/redirect-unavailable?url=nop.oxfordjournals.org/lookup/doi/10.1093/nop/npv049 [following]
+--2017-02-03 01:08:55--  https://academic.oup.com/nop/redirect-unavailable?url=nop.oxfordjournals.org/lookup/doi/10.1093/nop/npv049
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 01:08:57 ERROR 404: Not Found.
+
+--2017-02-03 01:08:58--  http://doi.org/10.1093/nop/npv044
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nop.oxfordjournals.org/lookup/doi/10.1093/nop/npv044 [following]
+--2017-02-03 01:08:59--  http://nop.oxfordjournals.org/lookup/doi/10.1093/nop/npv044
+Connecting to nop.oxfordjournals.org (nop.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nop.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from nop.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nop/redirect-unavailable?url=nop.oxfordjournals.org/lookup/doi/10.1093/nop/npv044 [following]
+--2017-02-03 01:09:00--  https://academic.oup.com/nop/redirect-unavailable?url=nop.oxfordjournals.org/lookup/doi/10.1093/nop/npv044
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 01:09:02 ERROR 404: Not Found.
+
+--2017-02-03 01:09:03--  http://doi.org/10.1093/nop/npv053
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nop.oxfordjournals.org/lookup/doi/10.1093/nop/npv053 [following]
+--2017-02-03 01:09:04--  http://nop.oxfordjournals.org/lookup/doi/10.1093/nop/npv053
+Connecting to nop.oxfordjournals.org (nop.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nop.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from nop.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nop/redirect-unavailable?url=nop.oxfordjournals.org/lookup/doi/10.1093/nop/npv053 [following]
+--2017-02-03 01:09:06--  https://academic.oup.com/nop/redirect-unavailable?url=nop.oxfordjournals.org/lookup/doi/10.1093/nop/npv053
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 01:09:11 ERROR 404: Not Found.
+
+--2017-02-03 01:09:12--  http://doi.org/10.1093/nop/npv046
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nop.oxfordjournals.org/lookup/doi/10.1093/nop/npv046 [following]
+--2017-02-03 01:09:13--  http://nop.oxfordjournals.org/lookup/doi/10.1093/nop/npv046
+Connecting to nop.oxfordjournals.org (nop.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nop.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from nop.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nop/redirect-unavailable?url=nop.oxfordjournals.org/lookup/doi/10.1093/nop/npv046 [following]
+--2017-02-03 01:09:15--  https://academic.oup.com/nop/redirect-unavailable?url=nop.oxfordjournals.org/lookup/doi/10.1093/nop/npv046
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 01:09:15 ERROR 400: Bad Request.
+
+--2017-02-03 01:09:16--  http://doi.org/10.1093/nop/npv056
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nop.oxfordjournals.org/lookup/doi/10.1093/nop/npv056 [following]
+--2017-02-03 01:09:18--  http://nop.oxfordjournals.org/lookup/doi/10.1093/nop/npv056
+Connecting to nop.oxfordjournals.org (nop.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nop.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from nop.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nop/redirect-unavailable?url=nop.oxfordjournals.org/lookup/doi/10.1093/nop/npv056 [following]
+--2017-02-03 01:09:19--  https://academic.oup.com/nop/redirect-unavailable?url=nop.oxfordjournals.org/lookup/doi/10.1093/nop/npv056
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 01:09:21 ERROR 404: Not Found.
+
+--2017-02-03 01:09:22--  http://doi.org/10.1093/nop/npv048
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nop.oxfordjournals.org/lookup/doi/10.1093/nop/npv048 [following]
+--2017-02-03 01:09:23--  http://nop.oxfordjournals.org/lookup/doi/10.1093/nop/npv048
+Connecting to nop.oxfordjournals.org (nop.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nop.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from nop.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nop/redirect-unavailable?url=nop.oxfordjournals.org/lookup/doi/10.1093/nop/npv048 [following]
+--2017-02-03 01:09:25--  https://academic.oup.com/nop/redirect-unavailable?url=nop.oxfordjournals.org/lookup/doi/10.1093/nop/npv048
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 01:09:27 ERROR 404: Not Found.
+
+--2017-02-03 01:09:28--  http://doi.org/10.1093/nop/npv047
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nop.oxfordjournals.org/lookup/doi/10.1093/nop/npv047 [following]
+--2017-02-03 01:09:29--  http://nop.oxfordjournals.org/lookup/doi/10.1093/nop/npv047
+Connecting to nop.oxfordjournals.org (nop.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nop.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from nop.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nop/redirect-unavailable?url=nop.oxfordjournals.org/lookup/doi/10.1093/nop/npv047 [following]
+--2017-02-03 01:09:31--  https://academic.oup.com/nop/redirect-unavailable?url=nop.oxfordjournals.org/lookup/doi/10.1093/nop/npv047
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 01:09:36 ERROR 404: Not Found.
+
+--2017-02-03 01:09:37--  http://doi.org/10.1093/nop/npv045
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://nop.oxfordjournals.org/lookup/doi/10.1093/nop/npv045 [following]
+--2017-02-03 01:09:38--  http://nop.oxfordjournals.org/lookup/doi/10.1093/nop/npv045
+Connecting to nop.oxfordjournals.org (nop.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from nop.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from nop.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/nop/redirect-unavailable?url=nop.oxfordjournals.org/lookup/doi/10.1093/nop/npv045 [following]
+--2017-02-03 01:09:40--  https://academic.oup.com/nop/redirect-unavailable?url=nop.oxfordjournals.org/lookup/doi/10.1093/nop/npv045
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-02-03 01:09:41 ERROR 404: Not Found.
+
+--2017-02-03 01:09:42--  http://doi.org/10.1093/nop/npv055
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv055 [following]
+--2017-02-03 01:09:43--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv055
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 310033 (303K) [text/html]
+Saving to: ‘npv055’
+
+     0K .......... .......... .......... .......... .......... 16%  309K 1s
+    50K .......... .......... .......... .......... .......... 33%  310K 1s
+   100K .......... .......... .......... .......... .......... 49%  613K 0s
+   150K .......... .......... .......... .......... .......... 66%  314K 0s
+   200K .......... .......... .......... .......... .......... 82%  584K 0s
+   250K .......... .......... .......... .......... .......... 99%  602K 0s
+   300K ..                                                    100% 5277G=0.7s
+
+2017-02-03 01:10:03 (413 KB/s) - ‘npv055’ saved [310033/310033]
+
+--2017-02-03 01:10:04--  http://doi.org/10.1093/nop/npv052
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv052 [following]
+--2017-02-03 01:10:05--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv052
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 182234 (178K) [text/html]
+Saving to: ‘npv052’
+
+     0K .......... .......... .......... .......... .......... 28%  209K 1s
+    50K .......... .......... .......... .......... .......... 56%  601K 0s
+   100K .......... .......... .......... .......... .......... 84%  604K 0s
+   150K .......... .......... .......                         100%  350K=0.5s
+
+2017-02-03 01:10:28 (367 KB/s) - ‘npv052’ saved [182234/182234]
+
+--2017-02-03 01:10:29--  http://doi.org/10.1093/nop/npv054
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv054 [following]
+--2017-02-03 01:10:31--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv054
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 204277 (199K) [text/html]
+Saving to: ‘npv054’
+
+     0K .......... .......... .......... .......... .......... 25%  209K 1s
+    50K .......... .......... .......... .......... .......... 50%  605K 0s
+   100K .......... .......... .......... .......... .......... 75%  612K 0s
+   150K .......... .......... .......... .......... ......... 100%  589K=0.5s
+
+2017-02-03 01:11:03 (409 KB/s) - ‘npv054’ saved [204277/204277]
+
+--2017-02-03 01:11:04--  http://doi.org/10.1093/nop/npv059
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv059 [following]
+--2017-02-03 01:11:05--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv059
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 01:11:05 ERROR 400: Bad Request.
+
+--2017-02-03 01:11:07--  http://doi.org/10.1093/nop/npv057
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv057 [following]
+--2017-02-03 01:11:08--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv057
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 88028 (86K) [text/html]
+Saving to: ‘npv057’
+
+     0K .......... .......... .......... .......... .......... 58%  209K 0s
+    50K .......... .......... .......... .....                100% 5.25M=0.2s
+
+2017-02-03 01:11:45 (350 KB/s) - ‘npv057’ saved [88028/88028]
+
+--2017-02-03 01:11:46--  http://doi.org/10.1093/nop/npv058
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv058 [following]
+--2017-02-03 01:11:47--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv058
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 80066 (78K) [text/html]
+Saving to: ‘npv058’
+
+     0K .......... .......... .......... .......... .......... 63%  309K 0s
+    50K .......... .......... ........                        100%  352K=0.2s
+
+2017-02-03 01:12:14 (323 KB/s) - ‘npv058’ saved [80066/80066]
+
+--2017-02-03 01:12:15--  http://doi.org/10.1093/nop/npv051
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv051 [following]
+--2017-02-03 01:12:16--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv051
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 252847 (247K) [text/html]
+Saving to: ‘npv051’
+
+     0K .......... .......... .......... .......... .......... 20%  209K 1s
+    50K .......... .......... .......... .......... .......... 40%  601K 0s
+   100K .......... .......... .......... .......... .......... 60%  613K 0s
+   150K .......... .......... .......... .......... .......... 80%  311K 0s
+   200K .......... .......... .......... .......... ......    100%  575K=0.6s
+
+2017-02-03 01:12:27 (382 KB/s) - ‘npv051’ saved [252847/252847]
+
+--2017-02-03 01:12:28--  http://doi.org/10.1093/nop/npv042
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv042 [following]
+--2017-02-03 01:12:29--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv042
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 338916 (331K) [text/html]
+Saving to: ‘npv042’
+
+     0K .......... .......... .......... .......... .......... 15%  209K 1s
+    50K .......... .......... .......... .......... .......... 30%  607K 1s
+   100K .......... .......... .......... .......... .......... 45%  610K 0s
+   150K .......... .......... .......... .......... .......... 60%  605K 0s
+   200K .......... .......... .......... .......... .......... 75%  315K 0s
+   250K .......... .......... .......... .......... .......... 90%  601K 0s
+   300K .......... .......... ..........                      100%  387K=0.8s
+
+2017-02-03 01:12:49 (410 KB/s) - ‘npv042’ saved [338916/338916]
+
+--2017-02-03 01:12:50--  http://doi.org/10.1093/nop/npv050
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv050 [following]
+--2017-02-03 01:12:51--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv050
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 341196 (333K) [text/html]
+Saving to: ‘npv050’
+
+     0K .......... .......... .......... .......... .......... 15%  209K 1s
+    50K .......... .......... .......... .......... .......... 30%  584K 1s
+   100K .......... .......... .......... .......... .......... 45%  608K 0s
+   150K .......... .......... .......... .......... .......... 60%  607K 0s
+   200K .......... .......... .......... .......... .......... 75%  323K 0s
+   250K .......... .......... .......... .......... .......... 90%  570K 0s
+   300K .......... .......... .......... ...                  100%  436K=0.8s
+
+2017-02-03 01:13:11 (412 KB/s) - ‘npv050’ saved [341196/341196]
+
+--2017-02-03 01:13:12--  http://doi.org/10.1093/nop/npv043
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv043 [following]
+--2017-02-03 01:13:13--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv043
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 213963 (209K) [text/html]
+Saving to: ‘npv043’
+
+     0K .......... .......... .......... .......... .......... 23%  208K 1s
+    50K .......... .......... .......... .......... .......... 47%  570K 0s
+   100K .......... .......... .......... .......... .......... 71%  607K 0s
+   150K .......... .......... .......... .......... .......... 95%  603K 0s
+   200K ........                                              100%  119K=0.6s
+
+2017-02-03 01:13:22 (368 KB/s) - ‘npv043’ saved [213963/213963]
+
+--2017-02-03 01:13:23--  http://doi.org/10.1093/nop/npv039
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv039 [following]
+--2017-02-03 01:13:24--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv039
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 01:13:25 ERROR 400: Bad Request.
+
+--2017-02-03 01:13:26--  http://doi.org/10.1093/nop/npv038
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv038 [following]
+--2017-02-03 01:13:28--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv038
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 528637 (516K) [text/html]
+Saving to: ‘npv038’
+
+     0K .......... .......... .......... .......... ..........  9%  209K 2s
+    50K .......... .......... .......... .......... .......... 19%  581K 1s
+   100K .......... .......... .......... .......... .......... 29%  610K 1s
+   150K .......... .......... .......... .......... .......... 38%  607K 1s
+   200K .......... .......... .......... .......... .......... 48%  313K 1s
+   250K .......... .......... .......... .......... .......... 58%  607K 1s
+   300K .......... .......... .......... .......... .......... 67%  602K 0s
+   350K .......... .......... .......... .......... .......... 77%  609K 0s
+   400K .......... .......... .......... .......... .......... 87%  316K 0s
+   450K .......... .......... .......... .......... .......... 96%  604K 0s
+   500K .......... ......                                     100% 8.20M=1.1s
+
+2017-02-03 01:13:39 (453 KB/s) - ‘npv038’ saved [528637/528637]
+
+--2017-02-03 01:13:40--  http://doi.org/10.1093/nop/npv041
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv041 [following]
+--2017-02-03 01:13:41--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv041
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 397710 (388K) [text/html]
+Saving to: ‘npv041’
+
+     0K .......... .......... .......... .......... .......... 12%  310K 1s
+    50K .......... .......... .......... .......... .......... 25%  313K 1s
+   100K .......... .......... .......... .......... .......... 38%  606K 1s
+   150K .......... .......... .......... .......... .......... 51%  314K 1s
+   200K .......... .......... .......... .......... .......... 64%  590K 0s
+   250K .......... .......... .......... .......... .......... 77%  608K 0s
+   300K .......... .......... .......... .......... .......... 90%  311K 0s
+   350K .......... .......... .......... ........             100% 7.33M=0.9s
+
+2017-02-03 01:14:06 (434 KB/s) - ‘npv041’ saved [397710/397710]
+
+--2017-02-03 01:14:07--  http://doi.org/10.1093/nop/npv040
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv040 [following]
+--2017-02-03 01:14:08--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv040
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 01:14:09 ERROR 400: Bad Request.
+
+--2017-02-03 01:14:10--  http://doi.org/10.1093/nop/npv037
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv037 [following]
+--2017-02-03 01:14:11--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv037
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 183418 (179K) [text/html]
+Saving to: ‘npv037’
+
+     0K .......... .......... .......... .......... .......... 27%  209K 1s
+    50K .......... .......... .......... .......... .......... 55%  588K 0s
+   100K .......... .......... .......... .......... .......... 83%  596K 0s
+   150K .......... .......... .........                       100%  385K=0.5s
+
+2017-02-03 01:14:25 (370 KB/s) - ‘npv037’ saved [183418/183418]
+
+--2017-02-03 01:14:26--  http://doi.org/10.1093/nop/npv036
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv036 [following]
+--2017-02-03 01:14:27--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv036
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 01:14:27 ERROR 400: Bad Request.
+
+--2017-02-03 01:14:28--  http://doi.org/10.1093/nop/npv035
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv035 [following]
+--2017-02-03 01:14:29--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv035
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 78322 (76K) [text/html]
+Saving to: ‘npv035’
+
+     0K .......... .......... .......... .......... .......... 65%  310K 0s
+    50K .......... .......... ......                          100%  331K=0.2s
+
+2017-02-03 01:14:35 (317 KB/s) - ‘npv035’ saved [78322/78322]
+
+--2017-02-03 01:14:36--  http://doi.org/10.1093/nop/npv030
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv030 [following]
+--2017-02-03 01:14:37--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv030
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 143323 (140K) [text/html]
+Saving to: ‘npv030’
+
+     0K .......... .......... .......... .......... .......... 35%  208K 0s
+    50K .......... .......... .......... .......... .......... 71%  603K 0s
+   100K .......... .......... .......... .........            100%  494K=0.4s
+
+2017-02-03 01:14:47 (346 KB/s) - ‘npv030’ saved [143323/143323]
+
+--2017-02-03 01:14:48--  http://doi.org/10.1093/nop/npv027
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv027 [following]
+--2017-02-03 01:14:49--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv027
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 337002 (329K) [text/html]
+Saving to: ‘npv027’
+
+     0K .......... .......... .......... .......... .......... 15%  207K 1s
+    50K .......... .......... .......... .......... .......... 30%  597K 1s
+   100K .......... .......... .......... .......... .......... 45%  611K 0s
+   150K .......... .......... .......... .......... .......... 60%  609K 0s
+   200K .......... .......... .......... .......... .......... 75%  606K 0s
+   250K .......... .......... .......... .......... .......... 91%  313K 0s
+   300K .......... .......... .........                       100% 8.31M=0.7s
+
+2017-02-03 01:14:57 (448 KB/s) - ‘npv027’ saved [337002/337002]
+
+--2017-02-03 01:14:58--  http://doi.org/10.1093/nop/npv029
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv029 [following]
+--2017-02-03 01:14:59--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv029
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 515678 (504K) [text/html]
+Saving to: ‘npv029’
+
+     0K .......... .......... .......... .......... ..........  9%  209K 2s
+    50K .......... .......... .......... .......... .......... 19%  600K 1s
+   100K .......... .......... .......... .......... .......... 29%  607K 1s
+   150K .......... .......... .......... .......... .......... 39%  320K 1s
+   200K .......... .......... .......... .......... .......... 49%  564K 1s
+   250K .......... .......... .......... .......... .......... 59%  602K 0s
+   300K .......... .......... .......... .......... .......... 69%  599K 0s
+   350K .......... .......... .......... .......... .......... 79%  326K 0s
+   400K .......... .......... .......... .......... .......... 89%  588K 0s
+   450K .......... .......... .......... .......... .......... 99%  590K 0s
+   500K ...                                                   100% 6851G=1.1s
+
+2017-02-03 01:15:28 (442 KB/s) - ‘npv029’ saved [515678/515678]
+
+--2017-02-03 01:15:29--  http://doi.org/10.1093/nop/npv033
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv033 [following]
+--2017-02-03 01:15:30--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv033
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 01:15:30 ERROR 400: Bad Request.
+
+--2017-02-03 01:15:31--  http://doi.org/10.1093/nop/npv028
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv028 [following]
+--2017-02-03 01:15:33--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv028
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 286998 (280K) [text/html]
+Saving to: ‘npv028’
+
+     0K .......... .......... .......... .......... .......... 17%  309K 1s
+    50K .......... .......... .......... .......... .......... 35%  313K 1s
+   100K .......... .......... .......... .......... .......... 53%  603K 0s
+   150K .......... .......... .......... .......... .......... 71%  604K 0s
+   200K .......... .......... .......... .......... .......... 89%  313K 0s
+   250K .......... .......... ..........                      100% 12.5M=0.6s
+
+2017-02-03 01:16:37 (432 KB/s) - ‘npv028’ saved [286998/286998]
+
+--2017-02-03 01:16:38--  http://doi.org/10.1093/nop/npv026
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv026 [following]
+--2017-02-03 01:16:40--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv026
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 316809 (309K) [text/html]
+Saving to: ‘npv026’
+
+     0K .......... .......... .......... .......... .......... 16%  209K 1s
+    50K .......... .......... .......... .......... .......... 32%  602K 1s
+   100K .......... .......... .......... .......... .......... 48%  610K 0s
+   150K .......... .......... .......... .......... .......... 64%  605K 0s
+   200K .......... .......... .......... .......... .......... 80%  318K 0s
+   250K .......... .......... .......... .......... .......... 96%  583K 0s
+   300K .........                                             100% 20.8M=0.7s
+
+2017-02-03 01:17:13 (424 KB/s) - ‘npv026’ saved [316809/316809]
+
+--2017-02-03 01:17:14--  http://doi.org/10.1093/nop/npv024
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv024 [following]
+--2017-02-03 01:17:15--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv024
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 282105 (275K) [text/html]
+Saving to: ‘npv024’
+
+     0K .......... .......... .......... .......... .......... 18%  208K 1s
+    50K .......... .......... .......... .......... .......... 36%  605K 1s
+   100K .......... .......... .......... .......... .......... 54%  610K 0s
+   150K .......... .......... .......... .......... .......... 72%  603K 0s
+   200K .......... .......... .......... .......... .......... 90%  313K 0s
+   250K .......... .......... .....                           100% 13.9M=0.6s
+
+2017-02-03 01:17:36 (424 KB/s) - ‘npv024’ saved [282105/282105]
+
+--2017-02-03 01:17:37--  http://doi.org/10.1093/nop/npv031
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv031 [following]
+--2017-02-03 01:17:38--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv031
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 259188 (253K) [text/html]
+Saving to: ‘npv031’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 39%  610K 0s
+   100K .......... .......... .......... .......... .......... 59%  611K 0s
+   150K .......... .......... .......... .......... .......... 79%  587K 0s
+   200K .......... .......... .......... .......... .......... 98%  318K 0s
+   250K ...                                                   100% 5938G=0.6s
+
+2017-02-03 01:17:48 (392 KB/s) - ‘npv031’ saved [259188/259188]
+
+--2017-02-03 01:17:49--  http://doi.org/10.1093/nop/npv034
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv034 [following]
+--2017-02-03 01:17:51--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv034
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 74830 (73K) [text/html]
+Saving to: ‘npv034’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ...                             100% 5.17M=0.2s
+
+2017-02-03 01:17:59 (299 KB/s) - ‘npv034’ saved [74830/74830]
+
+--2017-02-03 01:18:00--  http://doi.org/10.1093/nop/npv025
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv025 [following]
+--2017-02-03 01:18:01--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv025
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 524851 (513K) [text/html]
+Saving to: ‘npv025’
+
+     0K .......... .......... .......... .......... ..........  9%  209K 2s
+    50K .......... .......... .......... .......... .......... 19%  602K 1s
+   100K .......... .......... .......... .......... .......... 29%  606K 1s
+   150K .......... .......... .......... .......... .......... 39%  594K 1s
+   200K .......... .......... .......... .......... .......... 48%  309K 1s
+   250K .......... .......... .......... .......... .......... 58%  597K 1s
+   300K .......... .......... .......... .......... .......... 68%  609K 0s
+   350K .......... .......... .......... .......... .......... 78%  314K 0s
+   400K .......... .......... .......... .......... .......... 87%  595K 0s
+   450K .......... .......... .......... .......... .......... 97%  602K 0s
+   500K .......... ..                                         100% 13.0M=1.1s
+
+2017-02-03 01:18:17 (448 KB/s) - ‘npv025’ saved [524851/524851]
+
+--2017-02-03 01:18:18--  http://doi.org/10.1093/nop/npv022
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv022 [following]
+--2017-02-03 01:18:20--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv022
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 469409 (458K) [text/html]
+Saving to: ‘npv022’
+
+     0K .......... .......... .......... .......... .......... 10%  209K 2s
+    50K .......... .......... .......... .......... .......... 21%  612K 1s
+   100K .......... .......... .......... .......... .......... 32%  593K 1s
+   150K .......... .......... .......... .......... .......... 43%  606K 1s
+   200K .......... .......... .......... .......... .......... 54%  317K 1s
+   250K .......... .......... .......... .......... .......... 65%  590K 0s
+   300K .......... .......... .......... .......... .......... 76%  606K 0s
+   350K .......... .......... .......... .......... .......... 87%  316K 0s
+   400K .......... .......... .......... .......... .......... 98%  543K 0s
+   450K ........                                              100% 32.5M=1.1s
+
+2017-02-03 01:18:30 (431 KB/s) - ‘npv022’ saved [469409/469409]
+
+--2017-02-03 01:18:31--  http://doi.org/10.1093/nop/npv032
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv032 [following]
+--2017-02-03 01:18:33--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv032
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 81427 (80K) [text/html]
+Saving to: ‘npv032’
+
+     0K .......... .......... .......... .......... .......... 62%  209K 0s
+    50K .......... .......... .........                       100% 9.37M=0.2s
+
+2017-02-03 01:18:54 (328 KB/s) - ‘npv032’ saved [81427/81427]
+
+--2017-02-03 01:18:55--  http://doi.org/10.1093/nop/npv020
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv020 [following]
+--2017-02-03 01:18:56--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv020
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 582218 (569K) [text/html]
+Saving to: ‘npv020’
+
+     0K .......... .......... .......... .......... ..........  8%  209K 2s
+    50K .......... .......... .......... .......... .......... 17%  606K 2s
+   100K .......... .......... .......... .......... .......... 26%  570K 1s
+   150K .......... .......... .......... .......... .......... 35%  607K 1s
+   200K .......... .......... .......... .......... .......... 43%  316K 1s
+   250K .......... .......... .......... .......... .......... 52%  590K 1s
+   300K .......... .......... .......... .......... .......... 61%  611K 1s
+   350K .......... .......... .......... .......... .......... 70%  316K 0s
+   400K .......... .......... .......... .......... .......... 79%  590K 0s
+   450K .......... .......... .......... .......... .......... 87%  612K 0s
+   500K .......... .......... .......... .......... .......... 96%  316K 0s
+   550K .......... ........                                   100% 5.48M=1.3s
+
+2017-02-03 01:19:18 (436 KB/s) - ‘npv020’ saved [582218/582218]
+
+--2017-02-03 01:19:19--  http://doi.org/10.1093/nop/npv021
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv021 [following]
+--2017-02-03 01:19:20--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 78827 (77K) [text/html]
+Saving to: ‘npv021’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... ......                          100% 10.7M=0.2s
+
+2017-02-03 01:19:35 (319 KB/s) - ‘npv021’ saved [78827/78827]
+
+--2017-02-03 01:19:36--  http://doi.org/10.1093/nop/npv023
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv023 [following]
+--2017-02-03 01:19:37--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 284224 (278K) [text/html]
+Saving to: ‘npv023’
+
+     0K .......... .......... .......... .......... .......... 18%  207K 1s
+    50K .......... .......... .......... .......... .......... 36%  591K 1s
+   100K .......... .......... .......... .......... .......... 54%  612K 0s
+   150K .......... .......... .......... .......... .......... 72%  595K 0s
+   200K .......... .......... .......... .......... .......... 90%  315K 0s
+   250K .......... .......... .......                         100% 4.78M=0.7s
+
+2017-02-03 01:19:56 (423 KB/s) - ‘npv023’ saved [284224/284224]
+
+--2017-02-03 01:19:57--  http://doi.org/10.1093/nop/npv016
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv016 [following]
+--2017-02-03 01:19:58--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv016
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 300066 (293K) [text/html]
+Saving to: ‘npv016’
+
+     0K .......... .......... .......... .......... .......... 17%  208K 1s
+    50K .......... .......... .......... .......... .......... 34%  605K 1s
+   100K .......... .......... .......... .......... .......... 51%  564K 0s
+   150K .......... .......... .......... .......... .......... 68%  330K 0s
+   200K .......... .......... .......... .......... .......... 85%  579K 0s
+   250K .......... .......... .......... .......... ...       100%  536K=0.7s
+
+2017-02-03 01:20:10 (401 KB/s) - ‘npv016’ saved [300066/300066]
+
+--2017-02-03 01:20:11--  http://doi.org/10.1093/nop/npv017
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv017 [following]
+--2017-02-03 01:20:13--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 203065 (198K) [text/html]
+Saving to: ‘npv017’
+
+     0K .......... .......... .......... .......... .......... 25%  209K 1s
+    50K .......... .......... .......... .......... .......... 50%  610K 0s
+   100K .......... .......... .......... .......... .......... 75%  584K 0s
+   150K .......... .......... .......... .......... ........  100%  588K=0.5s
+
+2017-02-03 01:20:20 (406 KB/s) - ‘npv017’ saved [203065/203065]
+
+--2017-02-03 01:20:21--  http://doi.org/10.1093/nop/npv015
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv015 [following]
+--2017-02-03 01:20:22--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 88048 (86K) [text/html]
+Saving to: ‘npv015’
+
+     0K .......... .......... .......... .......... .......... 58%  209K 0s
+    50K .......... .......... .......... .....                100% 7.47M=0.2s
+
+2017-02-03 01:20:36 (353 KB/s) - ‘npv015’ saved [88048/88048]
+
+--2017-02-03 01:20:37--  http://doi.org/10.1093/nop/npv018
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv018 [following]
+--2017-02-03 01:20:38--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv018
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 218342 (213K) [text/html]
+Saving to: ‘npv018’
+
+     0K .......... .......... .......... .......... .......... 23%  209K 1s
+    50K .......... .......... .......... .......... .......... 46%  586K 0s
+   100K .......... .......... .......... .......... .......... 70%  603K 0s
+   150K .......... .......... .......... .......... .......... 93%  602K 0s
+   200K .......... ...                                        100%  168K=0.6s
+
+2017-02-03 01:21:00 (375 KB/s) - ‘npv018’ saved [218342/218342]
+
+--2017-02-03 01:21:01--  http://doi.org/10.1093/nop/npv019
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv019 [following]
+--2017-02-03 01:21:02--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 256155 (250K) [text/html]
+Saving to: ‘npv019’
+
+     0K .......... .......... .......... .......... .......... 19%  208K 1s
+    50K .......... .......... .......... .......... .......... 39%  602K 0s
+   100K .......... .......... .......... .......... .......... 59%  592K 0s
+   150K .......... .......... .......... .......... .......... 79%  320K 0s
+   200K .......... .......... .......... .......... .......... 99%  600K 0s
+   250K                                                       100%  289G=0.6s
+
+2017-02-03 01:21:16 (386 KB/s) - ‘npv019’ saved [256155/256155]
+
+--2017-02-03 01:21:17--  http://doi.org/10.1093/nop/npv010
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv010 [following]
+--2017-02-03 01:21:19--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 386465 (377K) [text/html]
+Saving to: ‘npv010’
+
+     0K .......... .......... .......... .......... .......... 13%  209K 2s
+    50K .......... .......... .......... .......... .......... 26%  593K 1s
+   100K .......... .......... .......... .......... .......... 39%  613K 1s
+   150K .......... .......... .......... .......... .......... 52%  600K 0s
+   200K .......... .......... .......... .......... .......... 66%  320K 0s
+   250K .......... .......... .......... .......... .......... 79%  593K 0s
+   300K .......... .......... .......... .......... .......... 92%  568K 0s
+   350K .......... .......... .......                         100%  374K=0.9s
+
+2017-02-03 01:21:42 (424 KB/s) - ‘npv010’ saved [386465/386465]
+
+--2017-02-03 01:21:43--  http://doi.org/10.1093/nop/npv007
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv007 [following]
+--2017-02-03 01:21:44--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 01:21:45 ERROR 400: Bad Request.
+
+--2017-02-03 01:21:46--  http://doi.org/10.1093/nop/npv011
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv011 [following]
+--2017-02-03 01:21:47--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 262098 (256K) [text/html]
+Saving to: ‘npv011’
+
+     0K .......... .......... .......... .......... .......... 19%  207K 1s
+    50K .......... .......... .......... .......... .......... 39%  605K 1s
+   100K .......... .......... .......... .......... .......... 58%  596K 0s
+   150K .......... .......... .......... .......... .......... 78%  312K 0s
+   200K .......... .......... .......... .......... .......... 97%  587K 0s
+   250K .....                                                 100% 11358G=0.7s
+
+2017-02-03 01:22:00 (392 KB/s) - ‘npv011’ saved [262098/262098]
+
+--2017-02-03 01:22:01--  http://doi.org/10.1093/nop/npv012
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv012 [following]
+--2017-02-03 01:22:02--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 01:22:03 ERROR 400: Bad Request.
+
+--2017-02-03 01:22:04--  http://doi.org/10.1093/nop/npv008
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv008 [following]
+--2017-02-03 01:22:05--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 01:22:05 ERROR 400: Bad Request.
+
+--2017-02-03 01:22:06--  http://doi.org/10.1093/nop/npv014
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv014 [following]
+--2017-02-03 01:22:07--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv014
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75441 (74K) [text/html]
+Saving to: ‘npv014’
+
+     0K .......... .......... .......... .......... .......... 67%  206K 0s
+    50K .......... .......... ...                             100% 7.72M=0.2s
+
+2017-02-03 01:22:25 (300 KB/s) - ‘npv014’ saved [75441/75441]
+
+--2017-02-03 01:22:26--  http://doi.org/10.1093/nop/npv013
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv013 [following]
+--2017-02-03 01:22:28--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79997 (78K) [text/html]
+Saving to: ‘npv013’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... ........                        100% 6.51M=0.2s
+
+2017-02-03 01:22:38 (321 KB/s) - ‘npv013’ saved [79997/79997]
+
+--2017-02-03 01:22:39--  http://doi.org/10.1093/nop/npv006
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv006 [following]
+--2017-02-03 01:22:40--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 276517 (270K) [text/html]
+Saving to: ‘npv006’
+
+     0K .......... .......... .......... .......... .......... 18%  305K 1s
+    50K .......... .......... .......... .......... .......... 37%  313K 1s
+   100K .......... .......... .......... .......... .......... 55%  601K 0s
+   150K .......... .......... .......... .......... .......... 74%  602K 0s
+   200K .......... .......... .......... .......... .......... 92%  313K 0s
+   250K .......... ..........                                 100% 8.62M=0.7s
+
+2017-02-03 01:22:51 (414 KB/s) - ‘npv006’ saved [276517/276517]
+
+--2017-02-03 01:22:52--  http://doi.org/10.1093/nop/npv009
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv009 [following]
+--2017-02-03 01:22:53--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 193219 (189K) [text/html]
+Saving to: ‘npv009’
+
+     0K .......... .......... .......... .......... .......... 26%  208K 1s
+    50K .......... .......... .......... .......... .......... 52%  606K 0s
+   100K .......... .......... .......... .......... .......... 79%  612K 0s
+   150K .......... .......... .......... ........             100%  476K=0.5s
+
+2017-02-03 01:23:09 (388 KB/s) - ‘npv009’ saved [193219/193219]
+
+--2017-02-03 01:23:10--  http://doi.org/10.1093/nop/npu038
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npu038 [following]
+--2017-02-03 01:23:12--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npu038
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 213136 (208K) [text/html]
+Saving to: ‘npu038’
+
+     0K .......... .......... .......... .......... .......... 24%  208K 1s
+    50K .......... .......... .......... .......... .......... 48%  578K 0s
+   100K .......... .......... .......... .......... .......... 72%  604K 0s
+   150K .......... .......... .......... .......... .......... 96%  310K 0s
+   200K ........                                              100% 19.7M=0.6s
+
+2017-02-03 01:23:17 (365 KB/s) - ‘npu038’ saved [213136/213136]
+
+--2017-02-03 01:23:18--  http://doi.org/10.1093/nop/npu036
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npu036 [following]
+--2017-02-03 01:23:20--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npu036
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 297367 (290K) [text/html]
+Saving to: ‘npu036’
+
+     0K .......... .......... .......... .......... .......... 17%  210K 1s
+    50K .......... .......... .......... .......... .......... 34%  588K 1s
+   100K .......... .......... .......... .......... .......... 51%  611K 0s
+   150K .......... .......... .......... .......... .......... 68%  609K 0s
+   200K .......... .......... .......... .......... .......... 86%  315K 0s
+   250K .......... .......... .......... ..........           100%  501K=0.7s
+
+2017-02-03 01:23:26 (400 KB/s) - ‘npu036’ saved [297367/297367]
+
+--2017-02-03 01:23:27--  http://doi.org/10.1093/nop/npv003
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv003 [following]
+--2017-02-03 01:23:28--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 78882 (77K) [text/html]
+Saving to: ‘npv003’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... .......                         100% 11.3M=0.2s
+
+2017-02-03 01:23:36 (319 KB/s) - ‘npv003’ saved [78882/78882]
+
+--2017-02-03 01:23:37--  http://doi.org/10.1093/nop/npu032
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npu032 [following]
+--2017-02-03 01:23:38--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npu032
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 255377 (249K) [text/html]
+Saving to: ‘npu032’
+
+     0K .......... .......... .......... .......... .......... 20%  208K 1s
+    50K .......... .......... .......... .......... .......... 40%  595K 0s
+   100K .......... .......... .......... .......... .......... 60%  598K 0s
+   150K .......... .......... .......... .......... .......... 80%  608K 0s
+   200K .......... .......... .......... .......... ......... 100%  314K=0.6s
+
+2017-02-03 01:23:49 (385 KB/s) - ‘npu032’ saved [255377/255377]
+
+--2017-02-03 01:23:50--  http://doi.org/10.1093/nop/npv004
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv004 [following]
+--2017-02-03 01:23:52--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79344 (77K) [text/html]
+Saving to: ‘npv004’
+
+     0K .......... .......... .......... .......... .......... 64%  308K 0s
+    50K .......... .......... .......                         100%  333K=0.2s
+
+2017-02-03 01:24:06 (316 KB/s) - ‘npv004’ saved [79344/79344]
+
+--2017-02-03 01:24:07--  http://doi.org/10.1093/nop/npu035
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npu035 [following]
+--2017-02-03 01:24:08--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npu035
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 331776 (324K) [text/html]
+Saving to: ‘npu035’
+
+     0K .......... .......... .......... .......... .......... 15%  209K 1s
+    50K .......... .......... .......... .......... .......... 30%  599K 1s
+   100K .......... .......... .......... .......... .......... 46%  602K 0s
+   150K .......... .......... .......... .......... .......... 61%  589K 0s
+   200K .......... .......... .......... .......... .......... 77%  309K 0s
+   250K .......... .......... .......... .......... .......... 92%  596K 0s
+   300K .......... .......... ....                            100%  310K=0.8s
+
+2017-02-03 01:24:16 (398 KB/s) - ‘npu035’ saved [331776/331776]
+
+--2017-02-03 01:24:17--  http://doi.org/10.1093/nop/npv002
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv002 [following]
+--2017-02-03 01:24:18--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 172338 (168K) [text/html]
+Saving to: ‘npv002’
+
+     0K .......... .......... .......... .......... .......... 29%  209K 1s
+    50K .......... .......... .......... .......... .......... 59%  613K 0s
+   100K .......... .......... .......... .......... .......... 89%  591K 0s
+   150K .......... ........                                   100%  227K=0.5s
+
+2017-02-03 01:24:24 (346 KB/s) - ‘npv002’ saved [172338/172338]
+
+--2017-02-03 01:24:25--  http://doi.org/10.1093/nop/npu037
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npu037 [following]
+--2017-02-03 01:24:26--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npu037
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 236299 (231K) [text/html]
+Saving to: ‘npu037’
+
+     0K .......... .......... .......... .......... .......... 21%  209K 1s
+    50K .......... .......... .......... .......... .......... 43%  604K 0s
+   100K .......... .......... .......... .......... .......... 65%  612K 0s
+   150K .......... .......... .......... .......... .......... 86%  580K 0s
+   200K .......... .......... ..........                      100%  366K=0.6s
+
+2017-02-03 01:24:39 (402 KB/s) - ‘npu037’ saved [236299/236299]
+
+--2017-02-03 01:24:40--  http://doi.org/10.1093/nop/npv001
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv001 [following]
+--2017-02-03 01:24:42--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npv001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 203549 (199K) [text/html]
+Saving to: ‘npv001’
+
+     0K .......... .......... .......... .......... .......... 25%  209K 1s
+    50K .......... .......... .......... .......... .......... 50%  605K 0s
+   100K .......... .......... .......... .......... .......... 75%  605K 0s
+   150K .......... .......... .......... .......... ........  100%  581K=0.5s
+
+2017-02-03 01:24:53 (407 KB/s) - ‘npv001’ saved [203549/203549]
+
+--2017-02-03 01:24:54--  http://doi.org/10.1093/nop/npu031
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npu031 [following]
+--2017-02-03 01:24:55--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npu031
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 205964 (201K) [text/html]
+Saving to: ‘npu031’
+
+     0K .......... .......... .......... .......... .......... 24%  209K 1s
+    50K .......... .......... .......... .......... .......... 49%  612K 0s
+   100K .......... .......... .......... .......... .......... 74%  578K 0s
+   150K .......... .......... .......... .......... .......... 99%  612K 0s
+   200K .                                                     100% 2168G=0.5s
+
+2017-02-03 01:24:59 (411 KB/s) - ‘npu031’ saved [205964/205964]
+
+--2017-02-03 01:25:00--  http://doi.org/10.1093/nop/npu026
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npu026 [following]
+--2017-02-03 01:25:01--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npu026
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 309464 (302K) [text/html]
+Saving to: ‘npu026’
+
+     0K .......... .......... .......... .......... .......... 16%  209K 1s
+    50K .......... .......... .......... .......... .......... 33%  611K 1s
+   100K .......... .......... .......... .......... .......... 49%  609K 0s
+   150K .......... .......... .......... .......... .......... 66%  316K 0s
+   200K .......... .......... .......... .......... .......... 82%  587K 0s
+   250K .......... .......... .......... .......... .......... 99%  612K 0s
+   300K ..                                                    100% 4217G=0.7s
+
+2017-02-03 01:25:32 (415 KB/s) - ‘npu026’ saved [309464/309464]
+
+--2017-02-03 01:25:33--  http://doi.org/10.1093/nop/npu030
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npu030 [following]
+--2017-02-03 01:25:34--  https://academic.oup.com/nop/article-lookup/doi/10.1093/nop/npu030
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 207635 (203K) [text/html]
+Saving to: ‘npu030’
+
+     0K .......... .......... .......... .......... .......... 24%  209K 1s
+    50K .......... .......... .......... .......... .......... 49%  581K 0s
+   100K .......... .......... .......... .......... .......... 73%  605K 0s
+   150K .......... .......... .......... .......... .......... 98%  609K 0s
+   200K ..                                                    100% 13.8M=0.5s
+
+2017-02-03 01:25:41 (414 KB/s) - ‘npu030’ saved [207635/207635]
+
+FINISHED --2017-02-03 01:25:41--
+Total wall clock time: 23m 39s
+Downloaded: 75 files, 17M in 44s (398 KB/s)

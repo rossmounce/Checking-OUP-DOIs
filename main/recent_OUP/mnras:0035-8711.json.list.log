@@ -1,0 +1,2023 @@
+--2017-02-02 21:23:05--  http://doi.org/10.1093/mnras/stx227
+Resolving doi.org (doi.org)... 208.254.38.90, 38.100.138.163, 63.123.152.248, ...
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx227 [following]
+--2017-02-02 21:23:07--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx227
+Resolving mnras.oxfordjournals.org (mnras.oxfordjournals.org)... 209.135.222.209
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx227/2962435/Double-Compton-and-Cyclo-Synchrotron-in-Super [following]
+--2017-02-02 21:23:08--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx227/2962435/Double-Compton-and-Cyclo-Synchrotron-in-Super
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 21:23:11 ERROR 400: Bad Request.
+
+--2017-02-02 21:23:12--  http://doi.org/10.1093/mnras/stx239
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx239 [following]
+--2017-02-02 21:23:13--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx239
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx239/2964464/LOFAR-observations-of-decameter-carbon-radio [following]
+--2017-02-02 21:23:14--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx239/2964464/LOFAR-observations-of-decameter-carbon-radio
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 90522 (88K) [text/html]
+Saving to: ‘stx239’
+
+     0K .......... .......... .......... .......... .......... 56%  209K 0s
+    50K .......... .......... .......... ........             100% 10.3M=0.2s
+
+2017-02-02 21:23:18 (364 KB/s) - ‘stx239’ saved [90522/90522]
+
+--2017-02-02 21:23:19--  http://doi.org/10.1093/mnras/stx243
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx243 [following]
+--2017-02-02 21:23:20--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx243
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx243/2964465/How-to-get-cool-in-the-heat-comparing-analytic [following]
+--2017-02-02 21:23:21--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx243/2964465/How-to-get-cool-in-the-heat-comparing-analytic
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 89471 (87K) [text/html]
+Saving to: ‘stx243’
+
+     0K .......... .......... .......... .......... .......... 57%  208K 0s
+    50K .......... .......... .......... .......              100% 11.3M=0.2s
+
+2017-02-02 21:23:26 (359 KB/s) - ‘stx243’ saved [89471/89471]
+
+--2017-02-02 21:23:27--  http://doi.org/10.1093/mnras/stx250
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx250 [following]
+--2017-02-02 21:23:28--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx250
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx250/2964466/Cool-DZ-white-dwarfs-I-Identification-and-spectral [following]
+--2017-02-02 21:23:29--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx250/2964466/Cool-DZ-white-dwarfs-I-Identification-and-spectral
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79988 (78K) [text/html]
+Saving to: ‘stx250’
+
+     0K .......... .......... .......... .......... .......... 64%  208K 0s
+    50K .......... .......... ........                        100% 13.9M=0.2s
+
+2017-02-02 21:23:32 (323 KB/s) - ‘stx250’ saved [79988/79988]
+
+--2017-02-02 21:23:33--  http://doi.org/10.1093/mnras/stx242
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx242 [following]
+--2017-02-02 21:23:35--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx242
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx242/2962439/Compact-Groups-analysis-using-weak-gravitational [following]
+--2017-02-02 21:23:36--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx242/2962439/Compact-Groups-analysis-using-weak-gravitational
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /mnras/article-abstract/doi/10.1093/mnras/stx242/2962439/Compact-Groups-analysis-using-weak-gravitational?redirectedFrom=fulltext [following]
+--2017-02-02 21:23:46--  https://academic.oup.com/mnras/article-abstract/doi/10.1093/mnras/stx242/2962439/Compact-Groups-analysis-using-weak-gravitational?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 86128 (84K) [text/html]
+Saving to: ‘stx242’
+
+     0K .......... .......... .......... .......... .......... 59%  206K 0s
+    50K .......... .......... .......... ....                 100% 12.4M=0.2s
+
+2017-02-02 21:23:55 (343 KB/s) - ‘stx242’ saved [86128/86128]
+
+--2017-02-02 21:23:56--  http://doi.org/10.1093/mnras/stx241
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx241 [following]
+--2017-02-02 21:23:57--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx241
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx241/2962438/Optical-and-ultraviolet-spectroscopic-analysis-of [following]
+--2017-02-02 21:23:58--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx241/2962438/Optical-and-ultraviolet-spectroscopic-analysis-of
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /mnras/article-abstract/doi/10.1093/mnras/stx241/2962438/Optical-and-ultraviolet-spectroscopic-analysis-of?redirectedFrom=fulltext [following]
+--2017-02-02 21:24:01--  https://academic.oup.com/mnras/article-abstract/doi/10.1093/mnras/stx241/2962438/Optical-and-ultraviolet-spectroscopic-analysis-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 126430 (123K) [text/html]
+Saving to: ‘stx241’
+
+     0K .......... .......... .......... .......... .......... 40%  310K 0s
+    50K .......... .......... .......... .......... .......... 80%  308K 0s
+   100K .......... .......... ...                             100% 10.5M=0.3s
+
+2017-02-02 21:24:05 (379 KB/s) - ‘stx241’ saved [126430/126430]
+
+--2017-02-02 21:24:06--  http://doi.org/10.1093/mnras/stx238
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx238 [following]
+--2017-02-02 21:24:07--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx238
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx238/2962437/Synthetic-absorption-lines-for-a-clumpy-medium-a [following]
+--2017-02-02 21:24:09--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx238/2962437/Synthetic-absorption-lines-for-a-clumpy-medium-a
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /mnras/article-abstract/doi/10.1093/mnras/stx238/2962437/Synthetic-absorption-lines-for-a-clumpy-medium-a?redirectedFrom=fulltext [following]
+--2017-02-02 21:24:11--  https://academic.oup.com/mnras/article-abstract/doi/10.1093/mnras/stx238/2962437/Synthetic-absorption-lines-for-a-clumpy-medium-a?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 21:24:11 ERROR 400: Bad Request.
+
+--2017-02-02 21:24:12--  http://doi.org/10.1093/mnras/stx247
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx247 [following]
+--2017-02-02 21:24:13--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx247
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx247/2962443/Pseudo-bulges-in-galaxy-groups-the-role-of [following]
+--2017-02-02 21:24:15--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx247/2962443/Pseudo-bulges-in-galaxy-groups-the-role-of
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /mnras/article-abstract/doi/10.1093/mnras/stx247/2962443/Pseudo-bulges-in-galaxy-groups-the-role-of?redirectedFrom=fulltext [following]
+--2017-02-02 21:24:17--  https://academic.oup.com/mnras/article-abstract/doi/10.1093/mnras/stx247/2962443/Pseudo-bulges-in-galaxy-groups-the-role-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 81979 (80K) [text/html]
+Saving to: ‘stx247’
+
+     0K .......... .......... .......... .......... .......... 62%  310K 0s
+    50K .......... .......... ..........                      100%  376K=0.2s
+
+2017-02-02 21:24:20 (332 KB/s) - ‘stx247’ saved [81979/81979]
+
+--2017-02-02 21:24:21--  http://doi.org/10.1093/mnras/stx200
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx200 [following]
+--2017-02-02 21:24:22--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx200
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx200/2962434/Calibration-of-weak-lensing-shear-in-the-Kilo [following]
+--2017-02-02 21:24:23--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx200/2962434/Calibration-of-weak-lensing-shear-in-the-Kilo
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /mnras/article-abstract/doi/10.1093/mnras/stx200/2962434/Calibration-of-weak-lensing-shear-in-the-Kilo?redirectedFrom=fulltext [following]
+--2017-02-02 21:24:25--  https://academic.oup.com/mnras/article-abstract/doi/10.1093/mnras/stx200/2962434/Calibration-of-weak-lensing-shear-in-the-Kilo?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 88181 (86K) [text/html]
+Saving to: ‘stx200’
+
+     0K .......... .......... .......... .......... .......... 58%  209K 0s
+    50K .......... .......... .......... ......               100% 10.5M=0.2s
+
+2017-02-02 21:24:28 (355 KB/s) - ‘stx200’ saved [88181/88181]
+
+--2017-02-02 21:24:29--  http://doi.org/10.1093/mnras/stx244
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx244 [following]
+--2017-02-02 21:24:30--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx244
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx244/2962440/Origin-of-Observed-Periodic-Components-in [following]
+--2017-02-02 21:24:32--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx244/2962440/Origin-of-Observed-Periodic-Components-in
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /mnras/article-abstract/doi/10.1093/mnras/stx244/2962440/Origin-of-Observed-Periodic-Components-in?redirectedFrom=fulltext [following]
+--2017-02-02 21:24:34--  https://academic.oup.com/mnras/article-abstract/doi/10.1093/mnras/stx244/2962440/Origin-of-Observed-Periodic-Components-in?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 79760 (78K) [text/html]
+Saving to: ‘stx244’
+
+     0K .......... .......... .......... .......... .......... 64%  208K 0s
+    50K .......... .......... .......                         100% 11.2M=0.2s
+
+2017-02-02 21:24:38 (321 KB/s) - ‘stx244’ saved [79760/79760]
+
+--2017-02-02 21:24:39--  http://doi.org/10.1093/mnras/stx097
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx097 [following]
+--2017-02-02 21:24:41--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx097
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx097/2962433/Formation-of-Massive-Black-Holes-in-Galactic [following]
+--2017-02-02 21:24:42--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx097/2962433/Formation-of-Massive-Black-Holes-in-Galactic
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /mnras/article-abstract/doi/10.1093/mnras/stx097/2962433/Formation-of-Massive-Black-Holes-in-Galactic?redirectedFrom=fulltext [following]
+--2017-02-02 21:24:44--  https://academic.oup.com/mnras/article-abstract/doi/10.1093/mnras/stx097/2962433/Formation-of-Massive-Black-Holes-in-Galactic?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 96785 (95K) [text/html]
+Saving to: ‘stx097’
+
+     0K .......... .......... .......... .......... .......... 52%  308K 0s
+    50K .......... .......... .......... .......... ....      100%  282K=0.3s
+
+2017-02-02 21:24:48 (295 KB/s) - ‘stx097’ saved [96785/96785]
+
+--2017-02-02 21:24:49--  http://doi.org/10.1093/mnras/stx251
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx251 [following]
+--2017-02-02 21:24:50--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx251
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx251/2962445/Resolving-the-age-bimodality-of-galaxy-stellar [following]
+--2017-02-02 21:24:51--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx251/2962445/Resolving-the-age-bimodality-of-galaxy-stellar
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /mnras/article-abstract/doi/10.1093/mnras/stx251/2962445/Resolving-the-age-bimodality-of-galaxy-stellar?redirectedFrom=fulltext [following]
+--2017-02-02 21:24:54--  https://academic.oup.com/mnras/article-abstract/doi/10.1093/mnras/stx251/2962445/Resolving-the-age-bimodality-of-galaxy-stellar?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 126868 (124K) [text/html]
+Saving to: ‘stx251’
+
+     0K .......... .......... .......... .......... .......... 40%  209K 0s
+    50K .......... .......... .......... .......... .......... 80%  608K 0s
+   100K .......... .......... ...                             100% 4.35M=0.3s
+
+2017-02-02 21:24:57 (380 KB/s) - ‘stx251’ saved [126868/126868]
+
+--2017-02-02 21:24:58--  http://doi.org/10.1093/mnras/stx245
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx245 [following]
+--2017-02-02 21:24:59--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx245
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx245/2962441/A-gravitationally-boosted-MUSE-survey-for-emission [following]
+--2017-02-02 21:25:01--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx245/2962441/A-gravitationally-boosted-MUSE-survey-for-emission
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 21:25:01 ERROR 400: Bad Request.
+
+--2017-02-02 21:25:02--  http://doi.org/10.1093/mnras/stx237
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx237 [following]
+--2017-02-02 21:25:03--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx237
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx237/2962436/Radiative-striped-wind-model-for-gamma-ray-bursts [following]
+--2017-02-02 21:25:05--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx237/2962436/Radiative-striped-wind-model-for-gamma-ray-bursts
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /mnras/article-abstract/doi/10.1093/mnras/stx237/2962436/Radiative-striped-wind-model-for-gamma-ray-bursts?redirectedFrom=fulltext [following]
+--2017-02-02 21:25:07--  https://academic.oup.com/mnras/article-abstract/doi/10.1093/mnras/stx237/2962436/Radiative-striped-wind-model-for-gamma-ray-bursts?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 21:25:07 ERROR 400: Bad Request.
+
+--2017-02-02 21:25:08--  http://doi.org/10.1093/mnras/stx249
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx249 [following]
+--2017-02-02 21:25:10--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx249
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx249/2962444/Mg-Al-Si-Ca-Ti-Fe-and-Ni-abundance-for-a-sample-of [following]
+--2017-02-02 21:25:11--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx249/2962444/Mg-Al-Si-Ca-Ti-Fe-and-Ni-abundance-for-a-sample-of
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /mnras/article-abstract/doi/10.1093/mnras/stx249/2962444/Mg-Al-Si-Ca-Ti-Fe-and-Ni-abundance-for-a-sample-of?redirectedFrom=fulltext [following]
+--2017-02-02 21:25:13--  https://academic.oup.com/mnras/article-abstract/doi/10.1093/mnras/stx249/2962444/Mg-Al-Si-Ca-Ti-Fe-and-Ni-abundance-for-a-sample-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78787 (77K) [text/html]
+Saving to: ‘stx249’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... ......                          100% 10.4M=0.2s
+
+2017-02-02 21:25:19 (318 KB/s) - ‘stx249’ saved [78787/78787]
+
+--2017-02-02 21:25:20--  http://doi.org/10.1093/mnras/stx246
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx246 [following]
+--2017-02-02 21:25:21--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx246
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx246/2962442/Zooming-into-local-active-galactic-nuclei-The [following]
+--2017-02-02 21:25:22--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx246/2962442/Zooming-into-local-active-galactic-nuclei-The
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /mnras/article-abstract/doi/10.1093/mnras/stx246/2962442/Zooming-into-local-active-galactic-nuclei-The?redirectedFrom=fulltext [following]
+--2017-02-02 21:25:24--  https://academic.oup.com/mnras/article-abstract/doi/10.1093/mnras/stx246/2962442/Zooming-into-local-active-galactic-nuclei-The?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 109218 (107K) [text/html]
+Saving to: ‘stx246’
+
+     0K .......... .......... .......... .......... .......... 46%  209K 0s
+    50K .......... .......... .......... .......... .......... 93%  610K 0s
+   100K ......                                                100% 10.7M=0.3s
+
+2017-02-02 21:25:28 (331 KB/s) - ‘stx246’ saved [109218/109218]
+
+--2017-02-02 21:25:29--  http://doi.org/10.1093/mnras/stw3321
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stw3321 [following]
+--2017-02-02 21:25:31--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stw3321
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/466/4/3775/2962017/Formation-scenario-of-the-progenitor-of-iPTF13bvn [following]
+--2017-02-02 21:25:32--  https://academic.oup.com/mnras/article/466/4/3775/2962017/Formation-scenario-of-the-progenitor-of-iPTF13bvn
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 21:25:32 ERROR 400: Bad Request.
+
+--2017-02-02 21:25:33--  http://doi.org/10.1093/mnras/stw3349
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stw3349 [following]
+--2017-02-02 21:25:35--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stw3349
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/466/4/3827/2962021/Detecting-periodic-oscillations-in-astronomy-data [following]
+--2017-02-02 21:25:36--  https://academic.oup.com/mnras/article/466/4/3827/2962021/Detecting-periodic-oscillations-in-astronomy-data
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 176328 (172K) [text/html]
+Saving to: ‘stw3349’
+
+     0K .......... .......... .......... .......... .......... 29%  209K 1s
+    50K .......... .......... .......... .......... .......... 58%  605K 0s
+   100K .......... .......... .......... .......... .......... 87%  608K 0s
+   150K .......... .......... ..                              100%  284K=0.5s
+
+2017-02-02 21:25:44 (357 KB/s) - ‘stw3349’ saved [176328/176328]
+
+--2017-02-02 21:25:45--  http://doi.org/10.1093/mnras/stx234
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx234 [following]
+--2017-02-02 21:25:46--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx234
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx234/2961803/Modelling-the-Milky-Way-s-globular-cluster-system [following]
+--2017-02-02 21:25:48--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx234/2961803/Modelling-the-Milky-Way-s-globular-cluster-system
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72928 (71K) [text/html]
+Saving to: ‘stx234’
+
+     0K .......... .......... .......... .......... .......... 70%  209K 0s
+    50K .......... .......... .                               100% 11.7M=0.2s
+
+2017-02-02 21:25:52 (295 KB/s) - ‘stx234’ saved [72928/72928]
+
+--2017-02-02 21:25:53--  http://doi.org/10.1093/mnras/stx187
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx187 [following]
+--2017-02-02 21:25:54--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx187
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx187/2961793/Kinematic-clues-to-the-origins-of-starless-HI [following]
+--2017-02-02 21:25:55--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx187/2961793/Kinematic-clues-to-the-origins-of-starless-HI
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 87977 (86K) [text/html]
+Saving to: ‘stx187’
+
+     0K .......... .......... .......... .......... .......... 58%  209K 0s
+    50K .......... .......... .......... .....                100% 9.28M=0.2s
+
+2017-02-02 21:26:01 (353 KB/s) - ‘stx187’ saved [87977/87977]
+
+--2017-02-02 21:26:02--  http://doi.org/10.1093/mnras/stx226
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx226 [following]
+--2017-02-02 21:26:03--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx226
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx226/2961796/Analytical-derivation-of-the-radial-distribution [following]
+--2017-02-02 21:26:04--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx226/2961796/Analytical-derivation-of-the-radial-distribution
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71909 (70K) [text/html]
+Saving to: ‘stx226’
+
+     0K .......... .......... .......... .......... .......... 71%  305K 0s
+    50K .......... ..........                                 100%  256K=0.2s
+
+2017-02-02 21:26:10 (289 KB/s) - ‘stx226’ saved [71909/71909]
+
+--2017-02-02 21:26:11--  http://doi.org/10.1093/mnras/stx232
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx232 [following]
+--2017-02-02 21:26:13--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx232
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx232/2961801/A-new-paradigm-for-reproducing-and-analyzing-N [following]
+--2017-02-02 21:26:14--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx232/2961801/A-new-paradigm-for-reproducing-and-analyzing-N
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 74744 (73K) [text/html]
+Saving to: ‘stx232’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ..                              100% 8.79M=0.2s
+
+2017-02-02 21:26:18 (302 KB/s) - ‘stx232’ saved [74744/74744]
+
+--2017-02-02 21:26:19--  http://doi.org/10.1093/mnras/stx225
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx225 [following]
+--2017-02-02 21:26:20--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx225
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx225/2961795/A-numerical-investigation-of-wind-accretion-in [following]
+--2017-02-02 21:26:21--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx225/2961795/A-numerical-investigation-of-wind-accretion-in
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 74247 (73K) [text/html]
+Saving to: ‘stx225’
+
+     0K .......... .......... .......... .......... .......... 68%  208K 0s
+    50K .......... .......... ..                              100% 14.0M=0.2s
+
+2017-02-02 21:26:33 (299 KB/s) - ‘stx225’ saved [74247/74247]
+
+--2017-02-02 21:26:34--  http://doi.org/10.1093/mnras/stx224
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx224 [following]
+--2017-02-02 21:26:35--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx224
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx224/2961794/Unveiling-the-AGN-in-IC-883-discovery-of-a-parsec [following]
+--2017-02-02 21:26:37--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx224/2961794/Unveiling-the-AGN-in-IC-883-discovery-of-a-parsec
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 21:26:37 ERROR 400: Bad Request.
+
+--2017-02-02 21:26:38--  http://doi.org/10.1093/mnras/stx240
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx240 [following]
+--2017-02-02 21:26:39--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx240
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx240/2961805/Type-II-intermediate-luminosity-optical-transients [following]
+--2017-02-02 21:26:41--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx240/2961805/Type-II-intermediate-luminosity-optical-transients
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72099 (70K) [text/html]
+Saving to: ‘stx240’
+
+     0K .......... .......... .......... .......... .......... 71%  209K 0s
+    50K .......... ..........                                 100% 11.3M=0.2s
+
+2017-02-02 21:27:00 (292 KB/s) - ‘stx240’ saved [72099/72099]
+
+--2017-02-02 21:27:01--  http://doi.org/10.1093/mnras/stx157
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx157 [following]
+--2017-02-02 21:27:02--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx157
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx157/2961791/A-Multiply-Imaged-z-6-3-Lyman-Alpha-Emitter [following]
+--2017-02-02 21:27:03--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx157/2961791/A-Multiply-Imaged-z-6-3-Lyman-Alpha-Emitter
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 21:27:05 ERROR 400: Bad Request.
+
+--2017-02-02 21:27:06--  http://doi.org/10.1093/mnras/stx229
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx229 [following]
+--2017-02-02 21:27:07--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx229
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx229/2961798/Precise-CCD-positions-of-Himalia-using-Gaia-DR1-in [following]
+--2017-02-02 21:27:08--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx229/2961798/Precise-CCD-positions-of-Himalia-using-Gaia-DR1-in
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77744 (76K) [text/html]
+Saving to: ‘stx229’
+
+     0K .......... .......... .......... .......... .......... 65%  209K 0s
+    50K .......... .......... .....                           100% 8.54M=0.2s
+
+2017-02-02 21:27:21 (313 KB/s) - ‘stx229’ saved [77744/77744]
+
+--2017-02-02 21:27:22--  http://doi.org/10.1093/mnras/stx231
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx231 [following]
+--2017-02-02 21:27:23--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx231
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx231/2961799/Quasar-emission-lines-as-probes-of-orientation [following]
+--2017-02-02 21:27:24--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx231/2961799/Quasar-emission-lines-as-probes-of-orientation
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77192 (75K) [text/html]
+Saving to: ‘stx231’
+
+     0K .......... .......... .......... .......... .......... 66%  209K 0s
+    50K .......... .......... .....                           100% 4.69M=0.2s
+
+2017-02-02 21:27:27 (309 KB/s) - ‘stx231’ saved [77192/77192]
+
+--2017-02-02 21:27:28--  http://doi.org/10.1093/mnras/stx233
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx233 [following]
+--2017-02-02 21:27:30--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx233
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx233/2961802/An-eLIMA-model-for-the-67-s-X-ray-periodicity-in [following]
+--2017-02-02 21:27:31--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx233/2961802/An-eLIMA-model-for-the-67-s-X-ray-periodicity-in
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73791 (72K) [text/html]
+Saving to: ‘stx233’
+
+     0K .......... .......... .......... .......... .......... 69%  209K 0s
+    50K .......... .......... ..                              100% 15.1M=0.2s
+
+2017-02-02 21:27:34 (300 KB/s) - ‘stx233’ saved [73791/73791]
+
+--2017-02-02 21:27:35--  http://doi.org/10.1093/mnras/stx236
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx236 [following]
+--2017-02-02 21:27:36--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx236
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx236/2961804/Redshift-metallicity-and-size-of-two-extended [following]
+--2017-02-02 21:27:38--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx236/2961804/Redshift-metallicity-and-size-of-two-extended
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 88781 (87K) [text/html]
+Saving to: ‘stx236’
+
+     0K .......... .......... .......... .......... .......... 57%  209K 0s
+    50K .......... .......... .......... ......               100% 11.9M=0.2s
+
+2017-02-02 21:27:46 (358 KB/s) - ‘stx236’ saved [88781/88781]
+
+--2017-02-02 21:27:47--  http://doi.org/10.1093/mnras/stx126
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx126 [following]
+--2017-02-02 21:27:48--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx126
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx126/2961790/The-Horizon-AGN-simulation-evolution-of-galaxy [following]
+--2017-02-02 21:27:49--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx126/2961790/The-Horizon-AGN-simulation-evolution-of-galaxy
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 92263 (90K) [text/html]
+Saving to: ‘stx126’
+
+     0K .......... .......... .......... .......... .......... 55%  209K 0s
+    50K .......... .......... .......... ..........           100% 7.43M=0.2s
+
+2017-02-02 21:27:52 (368 KB/s) - ‘stx126’ saved [92263/92263]
+
+--2017-02-02 21:27:53--  http://doi.org/10.1093/mnras/stx228
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx228 [following]
+--2017-02-02 21:27:54--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx228
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx228/2961797/OMEGA-OSIRIS-Mapping-of-Emission-line-Galaxies-in [following]
+--2017-02-02 21:27:56--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx228/2961797/OMEGA-OSIRIS-Mapping-of-Emission-line-Galaxies-in
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 21:27:56 ERROR 400: Bad Request.
+
+--2017-02-02 21:27:57--  http://doi.org/10.1093/mnras/stw3214
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stw3214 [following]
+--2017-02-02 21:27:58--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stw3214
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/466/3/3569/2957433/The-Chandra-Deep-Field-South-as-a-test-case-for [following]
+--2017-02-02 21:28:00--  https://academic.oup.com/mnras/article/466/3/3569/2957433/The-Chandra-Deep-Field-South-as-a-test-case-for
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 319619 (312K) [text/html]
+Saving to: ‘stw3214’
+
+     0K .......... .......... .......... .......... .......... 16%  209K 1s
+    50K .......... .......... .......... .......... .......... 32%  612K 1s
+   100K .......... .......... .......... .......... .......... 48%  605K 0s
+   150K .......... .......... .......... .......... .......... 64%  609K 0s
+   200K .......... .......... .......... .......... .......... 80%  312K 0s
+   250K .......... .......... .......... .......... .......... 96%  613K 0s
+   300K .......... ..                                         100% 7.96M=0.7s
+
+2017-02-02 21:28:07 (428 KB/s) - ‘stw3214’ saved [319619/319619]
+
+--2017-02-02 21:28:08--  http://doi.org/10.1093/mnras/stx211
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx211 [following]
+--2017-02-02 21:28:10--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx211
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx211/2957029/A-tale-of-clusters-No-resolvable-periodicity-in [following]
+--2017-02-02 21:28:11--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx211/2957029/A-tale-of-clusters-No-resolvable-periodicity-in
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73635 (72K) [text/html]
+Saving to: ‘stx211’
+
+     0K .......... .......... .......... .......... .......... 69%  209K 0s
+    50K .......... .......... .                               100% 14.9M=0.2s
+
+2017-02-02 21:28:14 (299 KB/s) - ‘stx211’ saved [73635/73635]
+
+--2017-02-02 21:28:15--  http://doi.org/10.1093/mnras/stx216
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx216 [following]
+--2017-02-02 21:28:16--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx216
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx216/2957034/Trigonometric-distance-and-proper-motions-of-H2O [following]
+--2017-02-02 21:28:18--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx216/2957034/Trigonometric-distance-and-proper-motions-of-H2O
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 90686 (89K) [text/html]
+Saving to: ‘stx216’
+
+     0K .......... .......... .......... .......... .......... 56%  209K 0s
+    50K .......... .......... .......... ........             100% 11.4M=0.2s
+
+2017-02-02 21:28:41 (365 KB/s) - ‘stx216’ saved [90686/90686]
+
+--2017-02-02 21:28:42--  http://doi.org/10.1093/mnras/stx223
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx223 [following]
+--2017-02-02 21:28:43--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx223
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx223/2957038/Erratum-Ultra-stripped-supernovae-progenitors-and [following]
+--2017-02-02 21:28:44--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx223/2957038/Erratum-Ultra-stripped-supernovae-progenitors-and
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73050 (71K) [text/html]
+Saving to: ‘stx223’
+
+     0K .......... .......... .......... .......... .......... 70%  209K 0s
+    50K .......... .......... .                               100% 10.8M=0.2s
+
+2017-02-02 21:28:49 (296 KB/s) - ‘stx223’ saved [73050/73050]
+
+--2017-02-02 21:28:50--  http://doi.org/10.1093/mnras/stx222
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx222 [following]
+--2017-02-02 21:28:51--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx222
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx222/2957050/Production-of-complex-organic-molecules-H-atom [following]
+--2017-02-02 21:28:52--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx222/2957050/Production-of-complex-organic-molecules-H-atom
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 84289 (82K) [text/html]
+Saving to: ‘stx222’
+
+     0K .......... .......... .......... .......... .......... 60%  207K 0s
+    50K .......... .......... .......... ..                   100% 12.0M=0.2s
+
+2017-02-02 21:28:56 (338 KB/s) - ‘stx222’ saved [84289/84289]
+
+--2017-02-02 21:28:57--  http://doi.org/10.1093/mnras/stx213
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx213 [following]
+--2017-02-02 21:28:58--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx213
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx213/2957031/Not-a-Copernican-observer-biased-peculiar-velocity [following]
+--2017-02-02 21:28:59--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx213/2957031/Not-a-Copernican-observer-biased-peculiar-velocity
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 94004 (92K) [text/html]
+Saving to: ‘stx213’
+
+     0K .......... .......... .......... .......... .......... 54%  236K 0s
+    50K .......... .......... .......... .......... .         100%  263K=0.4s
+
+2017-02-02 21:29:04 (247 KB/s) - ‘stx213’ saved [94004/94004]
+
+--2017-02-02 21:29:05--  http://doi.org/10.1093/mnras/stx201
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx201 [following]
+--2017-02-02 21:29:06--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx201
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx201/2957025/Angular-momentum-evolution-of-galaxies-over-the [following]
+--2017-02-02 21:29:07--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx201/2957025/Angular-momentum-evolution-of-galaxies-over-the
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 144431 (141K) [text/html]
+Saving to: ‘stx201’
+
+     0K .......... .......... .......... .......... .......... 35%  208K 0s
+    50K .......... .......... .......... .......... .......... 70%  604K 0s
+   100K .......... .......... .......... .......... .         100%  517K=0.4s
+
+2017-02-02 21:29:12 (351 KB/s) - ‘stx201’ saved [144431/144431]
+
+--2017-02-02 21:29:13--  http://doi.org/10.1093/mnras/stx219
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx219 [following]
+--2017-02-02 21:29:14--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx219
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx219/2957036/Quark-matter-with-strong-magnetic-field-and [following]
+--2017-02-02 21:29:16--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx219/2957036/Quark-matter-with-strong-magnetic-field-and
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 87080 (85K) [text/html]
+Saving to: ‘stx219’
+
+     0K .......... .......... .......... .......... .......... 58%  209K 0s
+    50K .......... .......... .......... .....                100% 10.8M=0.2s
+
+2017-02-02 21:29:20 (351 KB/s) - ‘stx219’ saved [87080/87080]
+
+--2017-02-02 21:29:21--  http://doi.org/10.1093/mnras/stx001
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx001 [following]
+--2017-02-02 21:29:22--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx001
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx001/2957022/Rhapsody-G-simulations-I-the-cool-cores-hot-gas [following]
+--2017-02-02 21:29:23--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx001/2957022/Rhapsody-G-simulations-I-the-cool-cores-hot-gas
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 84866 (83K) [text/html]
+Saving to: ‘stx001’
+
+     0K .......... .......... .......... .......... .......... 60%  309K 0s
+    50K .......... .......... .......... ..                   100%  409K=0.2s
+
+2017-02-02 21:29:37 (342 KB/s) - ‘stx001’ saved [84866/84866]
+
+--2017-02-02 21:29:38--  http://doi.org/10.1093/mnras/stx218
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx218 [following]
+--2017-02-02 21:29:39--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx218
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx218/2957035/Optical-spectroscopic-classification-of-a [following]
+--2017-02-02 21:29:40--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx218/2957035/Optical-spectroscopic-classification-of-a
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77711 (76K) [text/html]
+Saving to: ‘stx218’
+
+     0K .......... .......... .......... .......... .......... 65%  309K 0s
+    50K .......... .......... .....                           100%  326K=0.2s
+
+2017-02-02 21:29:43 (315 KB/s) - ‘stx218’ saved [77711/77711]
+
+--2017-02-02 21:29:44--  http://doi.org/10.1093/mnras/stx212
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx212 [following]
+--2017-02-02 21:29:46--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx212
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx212/2957030/On-the-dust-and-gas-components-of-the-z-2-8 [following]
+--2017-02-02 21:29:47--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx212/2957030/On-the-dust-and-gas-components-of-the-z-2-8
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79909 (78K) [text/html]
+Saving to: ‘stx212’
+
+     0K .......... .......... .......... .......... .......... 64%  208K 0s
+    50K .......... .......... ........                        100% 13.8M=0.2s
+
+2017-02-02 21:29:50 (322 KB/s) - ‘stx212’ saved [79909/79909]
+
+--2017-02-02 21:29:51--  http://doi.org/10.1093/mnras/stx193
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx193 [following]
+--2017-02-02 21:29:52--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx193
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx193/2957024/The-contribution-of-bulk-Comptonization-to-the [following]
+--2017-02-02 21:29:54--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx193/2957024/The-contribution-of-bulk-Comptonization-to-the
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73046 (71K) [text/html]
+Saving to: ‘stx193’
+
+     0K .......... .......... .......... .......... .......... 70%  309K 0s
+    50K .......... .......... .                               100%  267K=0.2s
+
+2017-02-02 21:29:57 (295 KB/s) - ‘stx193’ saved [73046/73046]
+
+--2017-02-02 21:29:58--  http://doi.org/10.1093/mnras/stx203
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx203 [following]
+--2017-02-02 21:29:59--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx203
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx203/2957026/Insights-from-probability-distribution-functions [following]
+--2017-02-02 21:30:01--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx203/2957026/Insights-from-probability-distribution-functions
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79787 (78K) [text/html]
+Saving to: ‘stx203’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... .......                         100% 10.3M=0.2s
+
+2017-02-02 21:30:05 (322 KB/s) - ‘stx203’ saved [79787/79787]
+
+--2017-02-02 21:30:06--  http://doi.org/10.1093/mnras/stx215
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx215 [following]
+--2017-02-02 21:30:07--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx215
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx215/2957033/Radio-spectra-of-bright-compact-sources-at-z-gt-4 [following]
+--2017-02-02 21:30:08--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx215/2957033/Radio-spectra-of-bright-compact-sources-at-z-gt-4
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 119075 (116K) [text/html]
+Saving to: ‘stx215’
+
+     0K .......... .......... .......... .......... .......... 42%  208K 0s
+    50K .......... .......... .......... .......... .......... 85%  613K 0s
+   100K .......... ......                                     100% 7.06M=0.3s
+
+2017-02-02 21:30:12 (359 KB/s) - ‘stx215’ saved [119075/119075]
+
+--2017-02-02 21:30:13--  http://doi.org/10.1093/mnras/stx209
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx209 [following]
+--2017-02-02 21:30:14--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx209
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx209/2957027/Shearing-box-simulations-in-the-Rayleigh-unstable [following]
+--2017-02-02 21:30:15--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx209/2957027/Shearing-box-simulations-in-the-Rayleigh-unstable
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73897 (72K) [text/html]
+Saving to: ‘stx209’
+
+     0K .......... .......... .......... .......... .......... 69%  209K 0s
+    50K .......... .......... ..                              100% 14.8M=0.2s
+
+2017-02-02 21:30:22 (299 KB/s) - ‘stx209’ saved [73897/73897]
+
+--2017-02-02 21:30:23--  http://doi.org/10.1093/mnras/stx147
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx147 [following]
+--2017-02-02 21:30:24--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx147
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx147/2957023/The-stellar-mass-halo-mass-relation-of-isolated [following]
+--2017-02-02 21:30:25--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx147/2957023/The-stellar-mass-halo-mass-relation-of-isolated
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 95303 (93K) [text/html]
+Saving to: ‘stx147’
+
+     0K .......... .......... .......... .......... .......... 53%  209K 0s
+    50K .......... .......... .......... .......... ...       100%  539K=0.3s
+
+2017-02-02 21:30:32 (292 KB/s) - ‘stx147’ saved [95303/95303]
+
+--2017-02-02 21:30:33--  http://doi.org/10.1093/mnras/stx210
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx210 [following]
+--2017-02-02 21:30:34--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx210
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx210/2957028/Multifrequency-study-of-a-new-Hybrid-Morphology [following]
+--2017-02-02 21:30:35--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx210/2957028/Multifrequency-study-of-a-new-Hybrid-Morphology
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 70387 (69K) [text/html]
+Saving to: ‘stx210’
+
+     0K .......... .......... .......... .......... .......... 72%  209K 0s
+    50K .......... ........                                   100% 5.43M=0.2s
+
+2017-02-02 21:30:40 (283 KB/s) - ‘stx210’ saved [70387/70387]
+
+--2017-02-02 21:30:41--  http://doi.org/10.1093/mnras/stx214
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx214 [following]
+--2017-02-02 21:30:42--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx214
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx214/2957032/Hi-absorption-in-nearby-compact-radio-galaxies [following]
+--2017-02-02 21:30:43--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx214/2957032/Hi-absorption-in-nearby-compact-radio-galaxies
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 21:30:45 ERROR 400: Bad Request.
+
+--2017-02-02 21:30:46--  http://doi.org/10.1093/mnras/stx220
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx220 [following]
+--2017-02-02 21:30:47--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx220
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx220/2957037/The-host-galaxies-and-explosion-sites-of-long [following]
+--2017-02-02 21:30:48--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx220/2957037/The-host-galaxies-and-explosion-sites-of-long
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 99729 (97K) [text/html]
+Saving to: ‘stx220’
+
+     0K .......... .......... .......... .......... .......... 51%  209K 0s
+    50K .......... .......... .......... .......... .......   100%  573K=0.3s
+
+2017-02-02 21:30:52 (302 KB/s) - ‘stx220’ saved [99729/99729]
+
+--2017-02-02 21:30:53--  http://doi.org/10.1093/mnras/stw3261
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stw3261 [following]
+--2017-02-02 21:30:54--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stw3261
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/466/3/3323/2952775/A-new-method-to-measure-the-virial-factors-in-the [following]
+--2017-02-02 21:30:56--  https://academic.oup.com/mnras/article/466/3/3323/2952775/A-new-method-to-measure-the-virial-factors-in-the
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 304136 (297K) [text/html]
+Saving to: ‘stw3261’
+
+     0K .......... .......... .......... .......... .......... 16%  209K 1s
+    50K .......... .......... .......... .......... .......... 33%  586K 1s
+   100K .......... .......... .......... .......... .......... 50%  600K 0s
+   150K .......... .......... .......... .......... .......... 67%  606K 0s
+   200K .......... .......... .......... .......... .......... 84%  318K 0s
+   250K .......... .......... .......... .......... .......   100%  552K=0.7s
+
+2017-02-02 21:31:00 (405 KB/s) - ‘stw3261’ saved [304136/304136]
+
+--2017-02-02 21:31:01--  http://doi.org/10.1093/mnras/stx172
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx172 [following]
+--2017-02-02 21:31:02--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx172
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx172/2949373/The-kinematics-of-drop-bulges-from-spectral [following]
+--2017-02-02 21:31:03--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx172/2949373/The-kinematics-of-drop-bulges-from-spectral
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 95839 (94K) [text/html]
+Saving to: ‘stx172’
+
+     0K .......... .......... .......... .......... .......... 53%  209K 0s
+    50K .......... .......... .......... .......... ...       100%  539K=0.3s
+
+2017-02-02 21:31:08 (292 KB/s) - ‘stx172’ saved [95839/95839]
+
+--2017-02-02 21:31:09--  http://doi.org/10.1093/mnras/stx208
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx208 [following]
+--2017-02-02 21:31:10--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx208
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx208/2949380/Lidov-Kozai-Mechanism-in-Hydrodynamical-Disks [following]
+--2017-02-02 21:31:11--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx208/2949380/Lidov-Kozai-Mechanism-in-Hydrodynamical-Disks
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 88133 (86K) [text/html]
+Saving to: ‘stx208’
+
+     0K .......... .......... .......... .......... .......... 58%  209K 0s
+    50K .......... .......... .......... ......               100% 9.07M=0.2s
+
+2017-02-02 21:31:15 (354 KB/s) - ‘stx208’ saved [88133/88133]
+
+--2017-02-02 21:31:16--  http://doi.org/10.1093/mnras/stx096
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx096 [following]
+--2017-02-02 21:31:17--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx096
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx096/2949368/Cardinal-kinematics-I-Rotation-fields-of-the [following]
+--2017-02-02 21:31:18--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx096/2949368/Cardinal-kinematics-I-Rotation-fields-of-the
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 99148 (97K) [text/html]
+Saving to: ‘stx096’
+
+     0K .......... .......... .......... .......... .......... 51%  209K 0s
+    50K .......... .......... .......... .......... ......    100%  556K=0.3s
+
+2017-02-02 21:31:22 (299 KB/s) - ‘stx096’ saved [99148/99148]
+
+--2017-02-02 21:31:23--  http://doi.org/10.1093/mnras/stx085
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx085 [following]
+--2017-02-02 21:31:24--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx085
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx085/2949366/Reconstructing-the-cosmic-Horseshoe-gravitational [following]
+--2017-02-02 21:31:25--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx085/2949366/Reconstructing-the-cosmic-Horseshoe-gravitational
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68542 (67K) [text/html]
+Saving to: ‘stx085’
+
+     0K .......... .......... .......... .......... .......... 74%  208K 0s
+    50K .......... ......                                     100% 16.4M=0.2s
+
+2017-02-02 21:31:31 (278 KB/s) - ‘stx085’ saved [68542/68542]
+
+--2017-02-02 21:31:32--  http://doi.org/10.1093/mnras/stx094
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx094 [following]
+--2017-02-02 21:31:33--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx094
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx094/2949367/The-case-for-cases-B-and-C-intrinsic-hydrogen-line [following]
+--2017-02-02 21:31:34--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx094/2949367/The-case-for-cases-B-and-C-intrinsic-hydrogen-line
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71229 (70K) [text/html]
+Saving to: ‘stx094’
+
+     0K .......... .......... .......... .......... .......... 71%  209K 0s
+    50K .......... .........                                  100% 11.5M=0.2s
+
+2017-02-02 21:31:37 (289 KB/s) - ‘stx094’ saved [71229/71229]
+
+--2017-02-02 21:31:38--  http://doi.org/10.1093/mnras/stx182
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx182 [following]
+--2017-02-02 21:31:40--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx182
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx182/2949374/Perturbation-of-Compact-Planetary-Systems-by [following]
+--2017-02-02 21:31:41--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx182/2949374/Perturbation-of-Compact-Planetary-Systems-by
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71425 (70K) [text/html]
+Saving to: ‘stx182’
+
+     0K .......... .......... .......... .......... .......... 71%  209K 0s
+    50K .......... .........                                  100% 15.8M=0.2s
+
+2017-02-02 21:31:44 (290 KB/s) - ‘stx182’ saved [71425/71425]
+
+--2017-02-02 21:31:45--  http://doi.org/10.1093/mnras/stx204
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx204 [following]
+--2017-02-02 21:31:47--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx204
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx204/2949377/The-fan-beam-model-for-the-pulse-evolution-of-PSR [following]
+--2017-02-02 21:31:48--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx204/2949377/The-fan-beam-model-for-the-pulse-evolution-of-PSR
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 70077 (68K) [text/html]
+Saving to: ‘stx204’
+
+     0K .......... .......... .......... .......... .......... 73%  209K 0s
+    50K .......... ........                                   100% 13.1M=0.2s
+
+2017-02-02 21:31:53 (285 KB/s) - ‘stx204’ saved [70077/70077]
+
+--2017-02-02 21:31:54--  http://doi.org/10.1093/mnras/stx205
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx205 [following]
+--2017-02-02 21:31:55--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx205
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx205/2949378/The-VMC-Survey-XXIV-Signatures-of-tidally-stripped [following]
+--2017-02-02 21:31:57--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx205/2949378/The-VMC-Survey-XXIV-Signatures-of-tidally-stripped
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 109883 (107K) [text/html]
+Saving to: ‘stx205’
+
+     0K .......... .......... .......... .......... .......... 46%  209K 0s
+    50K .......... .......... .......... .......... .......... 93%  609K 0s
+   100K .......                                               100% 15.3M=0.3s
+
+2017-02-02 21:32:00 (334 KB/s) - ‘stx205’ saved [109883/109883]
+
+--2017-02-02 21:32:01--  http://doi.org/10.1093/mnras/stx161
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx161 [following]
+--2017-02-02 21:32:02--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx161
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx161/2951289/Cores-in-Dwarf-Galaxies-from-Fermi-Repulsion [following]
+--2017-02-02 21:32:03--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx161/2951289/Cores-in-Dwarf-Galaxies-from-Fermi-Repulsion
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73805 (72K) [text/html]
+Saving to: ‘stx161’
+
+     0K .......... .......... .......... .......... .......... 69%  208K 0s
+    50K .......... .......... ..                              100% 14.7M=0.2s
+
+2017-02-02 21:32:09 (298 KB/s) - ‘stx161’ saved [73805/73805]
+
+--2017-02-02 21:32:10--  http://doi.org/10.1093/mnras/stx186
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx186 [following]
+--2017-02-02 21:32:11--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx186
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx186/2949375/Using-photo-ionisation-models-to-derive-carbon-and [following]
+--2017-02-02 21:32:12--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx186/2949375/Using-photo-ionisation-models-to-derive-carbon-and
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 88327 (86K) [text/html]
+Saving to: ‘stx186’
+
+     0K .......... .......... .......... .......... .......... 57%  209K 0s
+    50K .......... .......... .......... ......               100% 10.8M=0.2s
+
+2017-02-02 21:32:16 (356 KB/s) - ‘stx186’ saved [88327/88327]
+
+--2017-02-02 21:32:17--  http://doi.org/10.1093/mnras/stx164
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx164 [following]
+--2017-02-02 21:32:19--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx164
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx164/2949372/The-shape-of-a-rapidly-rotating-polytrope-with [following]
+--2017-02-02 21:32:20--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx164/2949372/The-shape-of-a-rapidly-rotating-polytrope-with
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 85867 (84K) [text/html]
+Saving to: ‘stx164’
+
+     0K .......... .......... .......... .......... .......... 59%  208K 0s
+    50K .......... .......... .......... ...                  100% 8.53M=0.2s
+
+2017-02-02 21:32:26 (343 KB/s) - ‘stx164’ saved [85867/85867]
+
+--2017-02-02 21:32:27--  http://doi.org/10.1093/mnras/stx073
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx073 [following]
+--2017-02-02 21:32:28--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx073
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx073/2949365/Can-the-removal-of-molecular-cloud-envelopes-by [following]
+--2017-02-02 21:32:29--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx073/2949365/Can-the-removal-of-molecular-cloud-envelopes-by
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76077 (74K) [text/html]
+Saving to: ‘stx073’
+
+     0K .......... .......... .......... .......... .......... 67%  309K 0s
+    50K .......... .......... ....                            100%  303K=0.2s
+
+2017-02-02 21:32:33 (307 KB/s) - ‘stx073’ saved [76077/76077]
+
+--2017-02-02 21:32:34--  http://doi.org/10.1093/mnras/stx065
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx065 [following]
+--2017-02-02 21:32:35--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx065
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx065/2949364/2MASS-0213-3648-C-A-wide-T3-benchmark-companion-to [following]
+--2017-02-02 21:32:36--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx065/2949364/2MASS-0213-3648-C-A-wide-T3-benchmark-companion-to
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 123301 (120K) [text/html]
+Saving to: ‘stx065’
+
+     0K .......... .......... .......... .......... .......... 41%  208K 0s
+    50K .......... .......... .......... .......... .......... 83%  604K 0s
+   100K .......... ..........                                 100% 9.37M=0.3s
+
+2017-02-02 21:32:44 (370 KB/s) - ‘stx065’ saved [123301/123301]
+
+--2017-02-02 21:32:45--  http://doi.org/10.1093/mnras/stx162
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx162 [following]
+--2017-02-02 21:32:46--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx162
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx162/2949371/Enabling-Radiative-Transfer-on-AMR-grids-in-CRASH [following]
+--2017-02-02 21:32:47--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx162/2949371/Enabling-Radiative-Transfer-on-AMR-grids-in-CRASH
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 80092 (78K) [text/html]
+Saving to: ‘stx162’
+
+     0K .......... .......... .......... .......... .......... 63%  209K 0s
+    50K .......... .......... ........                        100% 12.2M=0.2s
+
+2017-02-02 21:32:52 (324 KB/s) - ‘stx162’ saved [80092/80092]
+
+--2017-02-02 21:32:53--  http://doi.org/10.1093/mnras/stx202
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx202 [following]
+--2017-02-02 21:32:54--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx202
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx202/2949376/Constraints-on-the-structure-of-hot-exozodiacal [following]
+--2017-02-02 21:32:55--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx202/2949376/Constraints-on-the-structure-of-hot-exozodiacal
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 81620 (80K) [text/html]
+Saving to: ‘stx202’
+
+     0K .......... .......... .......... .......... .......... 62%  208K 0s
+    50K .......... .......... .........                       100% 11.3M=0.2s
+
+2017-02-02 21:33:07 (329 KB/s) - ‘stx202’ saved [81620/81620]
+
+--2017-02-02 21:33:08--  http://doi.org/10.1093/mnras/stx206
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx206 [following]
+--2017-02-02 21:33:09--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx206
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx206/2949379/Detection-of-a-Coherent-Magnetic-Field-in-the [following]
+--2017-02-02 21:33:10--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx206/2949379/Detection-of-a-Coherent-Magnetic-Field-in-the
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 95657 (93K) [text/html]
+Saving to: ‘stx206’
+
+     0K .......... .......... .......... .......... .......... 53%  209K 0s
+    50K .......... .......... .......... .......... ...       100%  543K=0.3s
+
+2017-02-02 21:33:15 (292 KB/s) - ‘stx206’ saved [95657/95657]
+
+--2017-02-02 21:33:16--  http://doi.org/10.1093/mnras/stx104
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx104 [following]
+--2017-02-02 21:33:17--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx104
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx104/2949370/K2-observations-of-pulsating-subdwarf-B-stars [following]
+--2017-02-02 21:33:18--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx104/2949370/K2-observations-of-pulsating-subdwarf-B-stars
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 83907 (82K) [text/html]
+Saving to: ‘stx104’
+
+     0K .......... .......... .......... .......... .......... 61%  208K 0s
+    50K .......... .......... .......... .                    100% 12.8M=0.2s
+
+2017-02-02 21:33:22 (338 KB/s) - ‘stx104’ saved [83907/83907]
+
+--2017-02-02 21:33:23--  http://doi.org/10.1093/mnras/stx185
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx185 [following]
+--2017-02-02 21:33:24--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx185
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx185/2939815/The-Effect-of-Fiber-Collisions-on-the-Galaxy-Power [following]
+--2017-02-02 21:33:25--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx185/2939815/The-Effect-of-Fiber-Collisions-on-the-Galaxy-Power
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 83821 (82K) [text/html]
+Saving to: ‘stx185’
+
+     0K .......... .......... .......... .......... .......... 61%  309K 0s
+    50K .......... .......... .......... .                    100%  394K=0.2s
+
+2017-02-02 21:33:32 (337 KB/s) - ‘stx185’ saved [83821/83821]
+
+--2017-02-02 21:33:33--  http://doi.org/10.1093/mnras/stx176
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx176 [following]
+--2017-02-02 21:33:34--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx176
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx176/2939813/The-high-mass-end-of-the-stellar-mass-function [following]
+--2017-02-02 21:33:35--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx176/2939813/The-high-mass-end-of-the-stellar-mass-function
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 87920 (86K) [text/html]
+Saving to: ‘stx176’
+
+     0K .......... .......... .......... .......... .......... 58%  207K 0s
+    50K .......... .......... .......... .....                100% 8.53M=0.2s
+
+2017-02-02 21:33:39 (350 KB/s) - ‘stx176’ saved [87920/87920]
+
+--2017-02-02 21:33:40--  http://doi.org/10.1093/mnras/stx173
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx173 [following]
+--2017-02-02 21:33:41--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx173
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx173/2939810/Growing-supermassive-black-holes-in-the-late [following]
+--2017-02-02 21:33:42--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx173/2939810/Growing-supermassive-black-holes-in-the-late
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 104979 (103K) [text/html]
+Saving to: ‘stx173’
+
+     0K .......... .......... .......... .......... .......... 48%  209K 0s
+    50K .......... .......... .......... .......... .......... 97%  613K 0s
+   100K ..                                                    100% 4804G=0.3s
+
+2017-02-02 21:33:47 (319 KB/s) - ‘stx173’ saved [104979/104979]
+
+--2017-02-02 21:33:48--  http://doi.org/10.1093/mnras/stx191
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx191 [following]
+--2017-02-02 21:33:49--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx191
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx191/2939816/Gas-around-galaxy-haloes-III-hydrogen-absorption [following]
+--2017-02-02 21:33:50--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx191/2939816/Gas-around-galaxy-haloes-III-hydrogen-absorption
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75400 (74K) [text/html]
+Saving to: ‘stx191’
+
+     0K .......... .......... .......... .......... .......... 67%  309K 0s
+    50K .......... .......... ...                             100%  297K=0.2s
+
+2017-02-02 21:33:54 (305 KB/s) - ‘stx191’ saved [75400/75400]
+
+--2017-02-02 21:33:55--  http://doi.org/10.1093/mnras/stx175
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx175 [following]
+--2017-02-02 21:33:56--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx175
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx175/2939812/Galaxy-Populations-in-Massive-Galaxy-Clusters-to-z [following]
+--2017-02-02 21:33:58--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx175/2939812/Galaxy-Populations-in-Massive-Galaxy-Clusters-to-z
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 262693 (257K) [text/html]
+Saving to: ‘stx175’
+
+     0K .......... .......... .......... .......... .......... 19%  207K 1s
+    50K .......... .......... .......... .......... .......... 38%  607K 1s
+   100K .......... .......... .......... .......... .......... 58%  607K 0s
+   150K .......... .......... .......... .......... .......... 77%  314K 0s
+   200K .......... .......... .......... .......... .......... 97%  588K 0s
+   250K ......                                                100% 26.9M=0.7s
+
+2017-02-02 21:34:02 (394 KB/s) - ‘stx175’ saved [262693/262693]
+
+--2017-02-02 21:34:03--  http://doi.org/10.1093/mnras/stx178
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx178 [following]
+--2017-02-02 21:34:04--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx178
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx178/2939814/The-Clustering-of-Galaxies-in-the-Completed-SDSS [following]
+--2017-02-02 21:34:06--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx178/2939814/The-Clustering-of-Galaxies-in-the-Completed-SDSS
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 21:34:07 ERROR 400: Bad Request.
+
+--2017-02-02 21:34:08--  http://doi.org/10.1093/mnras/stx174
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx174 [following]
+--2017-02-02 21:34:09--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx174
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx174/2939811/Chemical-fractionation-of-deuterium-in-the [following]
+--2017-02-02 21:34:11--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx174/2939811/Chemical-fractionation-of-deuterium-in-the
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79219 (77K) [text/html]
+Saving to: ‘stx174’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... .......                         100% 9.41M=0.2s
+
+2017-02-02 21:34:15 (319 KB/s) - ‘stx174’ saved [79219/79219]
+
+--2017-02-02 21:34:16--  http://doi.org/10.1093/mnras/stw3046
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stw3046 [following]
+--2017-02-02 21:34:17--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stw3046
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/466/3/2948/2948272/Multi-band-polarimetry-of-post-asymptotic-giant [following]
+--2017-02-02 21:34:18--  https://academic.oup.com/mnras/article/466/3/2948/2948272/Multi-band-polarimetry-of-post-asymptotic-giant
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 721539 (705K) [text/html]
+Saving to: ‘stw3046’
+
+     0K .......... .......... .......... .......... ..........  7%  209K 3s
+    50K .......... .......... .......... .......... .......... 14%  605K 2s
+   100K .......... .......... .......... .......... .......... 21%  610K 1s
+   150K .......... .......... .......... .......... .......... 28%  317K 1s
+   200K .......... .......... .......... .......... .......... 35%  587K 1s
+   250K .......... .......... .......... .......... .......... 42%  605K 1s
+   300K .......... .......... .......... .......... .......... 49%  597K 1s
+   350K .......... .......... .......... .......... .......... 56%  319K 1s
+   400K .......... .......... .......... .......... .......... 63%  603K 1s
+   450K .......... .......... .......... .......... .......... 70%  585K 0s
+   500K .......... .......... .......... .......... .......... 78%  602K 0s
+   550K .......... .......... .......... .......... .......... 85%  318K 0s
+   600K .......... .......... .......... .......... .......... 92%  592K 0s
+   650K .......... .......... .......... .......... .......... 99%  587K 0s
+   700K ....                                                  100% 18.9M=1.5s
+
+2017-02-02 21:34:27 (455 KB/s) - ‘stw3046’ saved [721539/721539]
+
+--2017-02-02 21:34:28--  http://doi.org/10.1093/mnras/stx179
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx179 [following]
+--2017-02-02 21:34:29--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx179
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx179/2936807/Artificial-intelligence-applied-to-the-automatic [following]
+--2017-02-02 21:34:30--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx179/2936807/Artificial-intelligence-applied-to-the-automatic
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 89568 (87K) [text/html]
+Saving to: ‘stx179’
+
+     0K .......... .......... .......... .......... .......... 57%  208K 0s
+    50K .......... .......... .......... .......              100% 12.3M=0.2s
+
+2017-02-02 21:34:51 (360 KB/s) - ‘stx179’ saved [89568/89568]
+
+--2017-02-02 21:34:52--  http://doi.org/10.1093/mnras/stx183
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx183 [following]
+--2017-02-02 21:34:53--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx183
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx183/2936809/Topology-and-geometry-of-the-dark-matter-web-A [following]
+--2017-02-02 21:34:54--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx183/2936809/Topology-and-geometry-of-the-dark-matter-web-A
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 70916 (69K) [text/html]
+Saving to: ‘stx183’
+
+     0K .......... .......... .......... .......... .......... 72%  208K 0s
+    50K .......... .........                                  100% 11.0M=0.2s
+
+2017-02-02 21:35:06 (286 KB/s) - ‘stx183’ saved [70916/70916]
+
+--2017-02-02 21:35:07--  http://doi.org/10.1093/mnras/stx194
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx194 [following]
+--2017-02-02 21:35:08--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx194
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx194/2936815/How-unique-is-Plaskett-s-star-A-search-for [following]
+--2017-02-02 21:35:09--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx194/2936815/How-unique-is-Plaskett-s-star-A-search-for
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 89564 (87K) [text/html]
+Saving to: ‘stx194’
+
+     0K .......... .......... .......... .......... .......... 57%  209K 0s
+    50K .......... .......... .......... .......              100% 4.64M=0.2s
+
+2017-02-02 21:35:17 (354 KB/s) - ‘stx194’ saved [89564/89564]
+
+--2017-02-02 21:35:18--  http://doi.org/10.1093/mnras/stx196
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx196 [following]
+--2017-02-02 21:35:19--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx196
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx196/2936817/Real-and-redshift-space-halo-clustering-in-f-R [following]
+--2017-02-02 21:35:20--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx196/2936817/Real-and-redshift-space-halo-clustering-in-f-R
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79334 (77K) [text/html]
+Saving to: ‘stx196’
+
+     0K .......... .......... .......... .......... .......... 64%  207K 0s
+    50K .......... .......... .......                         100% 12.6M=0.2s
+
+2017-02-02 21:35:25 (318 KB/s) - ‘stx196’ saved [79334/79334]
+
+--2017-02-02 21:35:26--  http://doi.org/10.1093/mnras/stx171
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx171 [following]
+--2017-02-02 21:35:27--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx171
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx171/2936806/Two-new-confirmed-massive-relic-galaxies-red [following]
+--2017-02-02 21:35:29--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx171/2936806/Two-new-confirmed-massive-relic-galaxies-red
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 21:35:30 ERROR 400: Bad Request.
+
+--2017-02-02 21:35:31--  http://doi.org/10.1093/mnras/stx184
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx184 [following]
+--2017-02-02 21:35:32--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx184
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx184/2936810/The-Rafita-asteroid-family [following]
+--2017-02-02 21:35:34--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx184/2936810/The-Rafita-asteroid-family
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 21:35:34 ERROR 400: Bad Request.
+
+--2017-02-02 21:35:35--  http://doi.org/10.1093/mnras/stx189
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx189 [following]
+--2017-02-02 21:35:36--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx189
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx189/2936812/A-representative-survey-of-the-dynamics-and [following]
+--2017-02-02 21:35:38--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx189/2936812/A-representative-survey-of-the-dynamics-and
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77872 (76K) [text/html]
+Saving to: ‘stx189’
+
+     0K .......... .......... .......... .......... .......... 65%  209K 0s
+    50K .......... .......... ......                          100% 13.5M=0.2s
+
+2017-02-02 21:35:42 (316 KB/s) - ‘stx189’ saved [77872/77872]
+
+--2017-02-02 21:35:43--  http://doi.org/10.1093/mnras/stx195
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx195 [following]
+--2017-02-02 21:35:44--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx195
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx195/2936816/Reflection-symmetries-of-Isolated-Self-consistent [following]
+--2017-02-02 21:35:45--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx195/2936816/Reflection-symmetries-of-Isolated-Self-consistent
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73888 (72K) [text/html]
+Saving to: ‘stx195’
+
+     0K .......... .......... .......... .......... .......... 69%  209K 0s
+    50K .......... .......... ..                              100% 14.9M=0.2s
+
+2017-02-02 21:35:49 (299 KB/s) - ‘stx195’ saved [73888/73888]
+
+--2017-02-02 21:35:50--  http://doi.org/10.1093/mnras/stx180
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx180 [following]
+--2017-02-02 21:35:51--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx180
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx180/2936808/Molecular-clouds-photoevaporation-and-FIR-line [following]
+--2017-02-02 21:35:52--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx180/2936808/Molecular-clouds-photoevaporation-and-FIR-line
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 82277 (80K) [text/html]
+Saving to: ‘stx180’
+
+     0K .......... .......... .......... .......... .......... 62%  208K 0s
+    50K .......... .......... ..........                      100% 11.6M=0.2s
+
+2017-02-02 21:35:57 (331 KB/s) - ‘stx180’ saved [82277/82277]
+
+--2017-02-02 21:35:58--  http://doi.org/10.1093/mnras/stx156
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx156 [following]
+--2017-02-02 21:35:59--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx156
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx156/2936805/The-AT-LESS-CO-1-0-survey-of-submillimetre [following]
+--2017-02-02 21:36:00--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx156/2936805/The-AT-LESS-CO-1-0-survey-of-submillimetre
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 111791 (109K) [text/html]
+Saving to: ‘stx156’
+
+     0K .......... .......... .......... .......... .......... 45%  209K 0s
+    50K .......... .......... .......... .......... .......... 91%  592K 0s
+   100K .........                                             100% 32.5M=0.3s
+
+2017-02-02 21:36:06 (337 KB/s) - ‘stx156’ saved [111791/111791]
+
+--2017-02-02 21:36:07--  http://doi.org/10.1093/mnras/stx088
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx088 [following]
+--2017-02-02 21:36:09--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx088
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx088/2936802/RR-Lyrae-stars-in-NGC-6362 [following]
+--2017-02-02 21:36:10--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx088/2936802/RR-Lyrae-stars-in-NGC-6362
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 99850 (98K) [text/html]
+Saving to: ‘stx088’
+
+     0K .......... .......... .......... .......... .......... 51%  207K 0s
+    50K .......... .......... .......... .......... .......   100%  561K=0.3s
+
+2017-02-02 21:36:17 (299 KB/s) - ‘stx088’ saved [99850/99850]
+
+--2017-02-02 21:36:18--  http://doi.org/10.1093/mnras/stx192
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx192 [following]
+--2017-02-02 21:36:20--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx192
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx192/2936814/Rovibrational-transitions-of-H2-by-collision-with [following]
+--2017-02-02 21:36:21--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx192/2936814/Rovibrational-transitions-of-H2-by-collision-with
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73380 (72K) [text/html]
+Saving to: ‘stx192’
+
+     0K .......... .......... .......... .......... .......... 69%  209K 0s
+    50K .......... .......... .                               100% 8.47M=0.2s
+
+2017-02-02 21:36:29 (297 KB/s) - ‘stx192’ saved [73380/73380]
+
+--2017-02-02 21:36:30--  http://doi.org/10.1093/mnras/stx154
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx154 [following]
+--2017-02-02 21:36:31--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx154
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx154/2936804/Peculiar-architectures-for-the-WASP-53-and-WASP-81 [following]
+--2017-02-02 21:36:32--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx154/2936804/Peculiar-architectures-for-the-WASP-53-and-WASP-81
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 119867 (117K) [text/html]
+Saving to: ‘stx154’
+
+     0K .......... .......... .......... .......... .......... 42%  207K 0s
+    50K .......... .......... .......... .......... .......... 85%  600K 0s
+   100K .......... .......                                    100% 18.7M=0.3s
+
+2017-02-02 21:36:43 (360 KB/s) - ‘stx154’ saved [119867/119867]
+
+--2017-02-02 21:36:44--  http://doi.org/10.1093/mnras/stx197
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx197 [following]
+--2017-02-02 21:36:45--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx197
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx197/2936818/Asteroid-2014-YX-mathbf-49-a-large-transient [following]
+--2017-02-02 21:36:46--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx197/2936818/Asteroid-2014-YX-mathbf-49-a-large-transient
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72696 (71K) [text/html]
+Saving to: ‘stx197’
+
+     0K .......... .......... .......... .......... .......... 70%  208K 0s
+    50K .......... ..........                                 100% 11.5M=0.2s
+
+2017-02-02 21:36:59 (293 KB/s) - ‘stx197’ saved [72696/72696]
+
+--2017-02-02 21:37:00--  http://doi.org/10.1093/mnras/stx151
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx151 [following]
+--2017-02-02 21:37:02--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx151
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx151/2936803/Dynamical-History-Of-The-Local-Group-In-CDM [following]
+--2017-02-02 21:37:03--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx151/2936803/Dynamical-History-Of-The-Local-Group-In-CDM
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 74068 (72K) [text/html]
+Saving to: ‘stx151’
+
+     0K .......... .......... .......... .......... .......... 69%  207K 0s
+    50K .......... .......... ..                              100% 15.4M=0.2s
+
+2017-02-02 21:37:08 (298 KB/s) - ‘stx151’ saved [74068/74068]
+
+--2017-02-02 21:37:09--  http://doi.org/10.1093/mnras/stx190
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx190 [following]
+--2017-02-02 21:37:10--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx190
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx190/2936813/Assessment-of-different-sunspot-number-series [following]
+--2017-02-02 21:37:11--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx190/2936813/Assessment-of-different-sunspot-number-series
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 86969 (85K) [text/html]
+Saving to: ‘stx190’
+
+     0K .......... .......... .......... .......... .......... 58%  206K 0s
+    50K .......... .......... .......... ....                 100% 11.2M=0.2s
+
+2017-02-02 21:37:15 (346 KB/s) - ‘stx190’ saved [86969/86969]
+
+--2017-02-02 21:37:16--  http://doi.org/10.1093/mnras/stx188
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx188 [following]
+--2017-02-02 21:37:18--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx188
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx188/2936811/A-High-Resolution-Radio-Continuum-Study-Of-The [following]
+--2017-02-02 21:37:19--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx188/2936811/A-High-Resolution-Radio-Continuum-Study-Of-The
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 92259 (90K) [text/html]
+Saving to: ‘stx188’
+
+     0K .......... .......... .......... .......... .......... 55%  308K 0s
+    50K .......... .......... .......... ..........           100%  492K=0.2s
+
+2017-02-02 21:37:23 (370 KB/s) - ‘stx188’ saved [92259/92259]
+
+--2017-02-02 21:37:24--  http://doi.org/10.1093/mnras/stw3179
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stw3179 [following]
+--2017-02-02 21:37:25--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stw3179
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/466/3/2542/2928206/Flare-activity-on-low-mass-eclipsing-binary-GJ [following]
+--2017-02-02 21:37:26--  https://academic.oup.com/mnras/article/466/3/2542/2928206/Flare-activity-on-low-mass-eclipsing-binary-GJ
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 189862 (185K) [text/html]
+Saving to: ‘stw3179’
+
+     0K .......... .......... .......... .......... .......... 26%  208K 1s
+    50K .......... .......... .......... .......... .......... 53%  600K 0s
+   100K .......... .......... .......... .......... .......... 80%  587K 0s
+   150K .......... .......... .......... .....                100%  435K=0.5s
+
+2017-02-02 21:37:31 (378 KB/s) - ‘stw3179’ saved [189862/189862]
+
+--2017-02-02 21:37:32--  http://doi.org/10.1093/mnras/stx069
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx069 [following]
+--2017-02-02 21:37:33--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx069
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx069/2931733/Taming-outliers-in-pulsar-timing-datasets-with [following]
+--2017-02-02 21:37:34--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx069/2931733/Taming-outliers-in-pulsar-timing-datasets-with
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 74554 (73K) [text/html]
+Saving to: ‘stx069’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ..                              100% 6.54M=0.2s
+
+2017-02-02 21:37:39 (300 KB/s) - ‘stx069’ saved [74554/74554]
+
+--2017-02-02 21:37:40--  http://doi.org/10.1093/mnras/stw3240
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stw3240 [following]
+--2017-02-02 21:37:41--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stw3240
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/466/3/2787/2931747/Metallicities-in-long-gamma-ray-burst-host [following]
+--2017-02-02 21:37:42--  https://academic.oup.com/mnras/article/466/3/2787/2931747/Metallicities-in-long-gamma-ray-burst-host
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 312742 (305K) [text/html]
+Saving to: ‘stw3240’
+
+     0K .......... .......... .......... .......... .......... 16%  209K 1s
+    50K .......... .......... .......... .......... .......... 32%  570K 1s
+   100K .......... .......... .......... .......... .......... 49%  606K 0s
+   150K .......... .......... .......... .......... .......... 65%  598K 0s
+   200K .......... .......... .......... .......... .......... 81%  328K 0s
+   250K .......... .......... .......... .......... .......... 98%  565K 0s
+   300K .....                                                 100% 10323G=0.7s
+
+2017-02-02 21:37:48 (416 KB/s) - ‘stw3240’ saved [312742/312742]
+
+--2017-02-02 21:37:49--  http://doi.org/10.1093/mnras/stx167
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx167 [following]
+--2017-02-02 21:37:50--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx167
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx167/2931738/Beyond-Jcrit-a-critical-curve-for-suppression-of [following]
+--2017-02-02 21:37:51--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx167/2931738/Beyond-Jcrit-a-critical-curve-for-suppression-of
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 74837 (73K) [text/html]
+Saving to: ‘stx167’
+
+     0K .......... .......... .......... .......... .......... 68%  208K 0s
+    50K .......... .......... ...                             100% 11.3M=0.2s
+
+2017-02-02 21:37:58 (302 KB/s) - ‘stx167’ saved [74837/74837]
+
+--2017-02-02 21:37:59--  http://doi.org/10.1093/mnras/stx170
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx170 [following]
+--2017-02-02 21:38:00--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx170
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx170/2931741/The-kinematic-Sunyaev-Zel-dovich-effect-of-the [following]
+--2017-02-02 21:38:01--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx170/2931741/The-kinematic-Sunyaev-Zel-dovich-effect-of-the
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 80544 (79K) [text/html]
+Saving to: ‘stx170’
+
+     0K .......... .......... .......... .......... .......... 63%  209K 0s
+    50K .......... .......... ........                        100% 14.8M=0.2s
+
+2017-02-02 21:38:05 (326 KB/s) - ‘stx170’ saved [80544/80544]
+
+--2017-02-02 21:38:07--  http://doi.org/10.1093/mnras/stx148
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx148 [following]
+--2017-02-02 21:38:08--  http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stx148
+Connecting to mnras.oxfordjournals.org (mnras.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from mnras.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx148/2931734/Sharp-magnetic-structures-from-dynamos-with [following]
+--2017-02-02 21:38:09--  https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx148/2931734/Sharp-magnetic-structures-from-dynamos-with
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 81404 (79K) [text/html]
+Saving to: ‘stx148’
+
+     0K .......... .......... .......... .......... .......... 62%  209K 0s
+    50K .......... .......... .........                       100% 14.5M=0.2s
+
+2017-02-02 21:38:13 (329 KB/s) - ‘stx148’ saved [81404/81404]
+
+FINISHED --2017-02-02 21:38:13--
+Total wall clock time: 15m 7s
+Downloaded: 88 files, 8.9M in 27s (341 KB/s)

@@ -1,0 +1,1828 @@
+--2017-02-02 22:06:44--  http://doi.org/10.1093/molehr/gax003
+Resolving doi.org (doi.org)... 38.100.138.162, 95.138.171.129, 54.191.229.235, ...
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gax003 [following]
+--2017-02-02 22:06:45--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gax003
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 109895 (107K) [text/html]
+Saving to: ‘gax003.1’
+
+     0K .......... .......... .......... .......... .......... 46%  307K 0s
+    50K .......... .......... .......... .......... .......... 93%  310K 0s
+   100K .......                                               100% 12.0M=0.3s
+
+2017-02-02 22:06:49 (331 KB/s) - ‘gax003.1’ saved [109895/109895]
+
+--2017-02-02 22:06:50--  http://doi.org/10.1093/molehr/gaw076
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw076 [following]
+--2017-02-02 22:06:51--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw076
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/molehr/article-lookup/doi/10.1093/molehr/gaw076 [following]
+--2017-02-02 22:06:54--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/molehr/article-lookup/doi/10.1093/molehr/gaw076
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23961 (23K) [text/html]
+Saving to: ‘gaw076’
+
+     0K .......... .......... ...                             100%  290K=0.08s
+
+2017-02-02 22:06:57 (290 KB/s) - ‘gaw076’ saved [23961/23961]
+
+--2017-02-02 22:06:58--  http://doi.org/10.1093/molehr/gax001
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gax001 [following]
+--2017-02-02 22:07:00--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gax001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 84418 (82K) [text/html]
+Saving to: ‘gax001.1’
+
+     0K .......... .......... .......... .......... .......... 60%  207K 0s
+    50K .......... .......... .......... ..                   100% 7.04M=0.2s
+
+2017-02-02 22:07:08 (335 KB/s) - ‘gax001.1’ saved [84418/84418]
+
+--2017-02-02 22:07:09--  http://doi.org/10.1093/molehr/gax002
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gax002 [following]
+--2017-02-02 22:07:10--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gax002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 22:07:11 ERROR 400: Bad Request.
+
+--2017-02-02 22:07:12--  http://doi.org/10.1093/molehr/gaw079
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw079 [following]
+--2017-02-02 22:07:13--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw079
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 323765 (316K) [text/html]
+Saving to: ‘gaw079’
+
+     0K .......... .......... .......... .......... .......... 15%  208K 1s
+    50K .......... .......... .......... .......... .......... 31%  604K 1s
+   100K .......... .......... .......... .......... .......... 47%  565K 0s
+   150K .......... .......... .......... .......... .......... 63%  604K 0s
+   200K .......... .......... .......... .......... .......... 79%  316K 0s
+   250K .......... .......... .......... .......... .......... 94%  599K 0s
+   300K .......... ......                                     100% 2.66M=0.7s
+
+2017-02-02 22:07:18 (426 KB/s) - ‘gaw079’ saved [323765/323765]
+
+--2017-02-02 22:07:19--  http://doi.org/10.1093/molehr/gaw082
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw082 [following]
+--2017-02-02 22:07:20--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw082
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 22:07:21 ERROR 400: Bad Request.
+
+--2017-02-02 22:07:22--  http://doi.org/10.1093/molehr/gaw080
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw080 [following]
+--2017-02-02 22:07:23--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw080
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 22:07:24 ERROR 400: Bad Request.
+
+--2017-02-02 22:07:25--  http://doi.org/10.1093/molehr/gax007
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-02 22:07:26--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Resolving fdslive.oup.com (fdslive.oup.com)... 193.67.160.201
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘gax007.1’
+
+     0K .......... .......... .......... .......... .......... 97% 1.29M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-02 22:07:26 (1.32 MB/s) - ‘gax007.1’ saved [52438/52438]
+
+--2017-02-02 22:07:27--  http://doi.org/10.1093/molehr/gax006
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-02 22:07:28--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘gax006.1’
+
+     0K .......... .......... .......... .......... .......... 97% 1.16M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-02 22:07:28 (1.19 MB/s) - ‘gax006.1’ saved [52438/52438]
+
+--2017-02-02 22:07:29--  http://doi.org/10.1093/molehr/gax004
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf [following]
+--2017-02-02 22:07:30--  http://fdslive.oup.com/www.oup.com/pdf/production_in_progress.pdf
+Connecting to fdslive.oup.com (fdslive.oup.com)|193.67.160.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52438 (51K) [application/pdf]
+Saving to: ‘gax004.1’
+
+     0K .......... .......... .......... .......... .......... 97% 1.17M 0s
+    50K .                                                     100% 2306G=0.04s
+
+2017-02-02 22:07:31 (1.20 MB/s) - ‘gax004.1’ saved [52438/52438]
+
+--2017-02-02 22:07:32--  http://doi.org/10.1093/molehr/gaw081
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw081 [following]
+--2017-02-02 22:07:33--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw081
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 22:07:34 ERROR 400: Bad Request.
+
+--2017-02-02 22:07:35--  http://doi.org/10.1093/molehr/gaw077
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw077 [following]
+--2017-02-02 22:07:36--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw077
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 426146 (416K) [text/html]
+Saving to: ‘gaw077’
+
+     0K .......... .......... .......... .......... .......... 12%  208K 2s
+    50K .......... .......... .......... .......... .......... 24%  589K 1s
+   100K .......... .......... .......... .......... .......... 36%  591K 1s
+   150K .......... .......... .......... .......... .......... 48%  405K 1s
+   200K .......... .......... .......... .......... .......... 60%  307K 0s
+   250K .......... .......... .......... .......... .......... 72%  172K 0s
+   300K .......... .......... .......... .......... .......... 84%  609K 0s
+   350K .......... .......... .......... .......... .......... 96%  596K 0s
+   400K .......... ......                                     100% 9.31M=1.2s
+
+2017-02-02 22:07:41 (360 KB/s) - ‘gaw077’ saved [426146/426146]
+
+--2017-02-02 22:07:42--  http://doi.org/10.1093/molehr/gaw078
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw078 [following]
+--2017-02-02 22:07:43--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw078
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 338812 (331K) [text/html]
+Saving to: ‘gaw078.1’
+
+     0K .......... .......... .......... .......... .......... 15%  209K 1s
+    50K .......... .......... .......... .......... .......... 30%  598K 1s
+   100K .......... .......... .......... .......... .......... 45%  605K 0s
+   150K .......... .......... .......... .......... .......... 60%  576K 0s
+   200K .......... .......... .......... .......... .......... 75%  321K 0s
+   250K .......... .......... .......... .......... .......... 90%  600K 0s
+   300K .......... .......... ..........                      100%  391K=0.8s
+
+2017-02-02 22:07:54 (408 KB/s) - ‘gaw078.1’ saved [338812/338812]
+
+--2017-02-02 22:07:55--  http://doi.org/10.1093/molehr/gaw074
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw074 [following]
+--2017-02-02 22:07:56--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw074
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 458640 (448K) [text/html]
+Saving to: ‘gaw074.1’
+
+     0K .......... .......... .......... .......... .......... 11%  209K 2s
+    50K .......... .......... .......... .......... .......... 22%  610K 1s
+   100K .......... .......... .......... .......... .......... 33%  597K 1s
+   150K .......... .......... .......... .......... .......... 44%  429K 1s
+   200K .......... .......... .......... .......... .......... 55%  391K 1s
+   250K .......... .......... .......... .......... .......... 66%  588K 0s
+   300K .......... .......... .......... .......... .......... 78%  601K 0s
+   350K .......... .......... .......... .......... .......... 89%  316K 0s
+   400K .......... .......... .......... .......... .......   100%  572K=1.1s
+
+2017-02-02 22:08:02 (422 KB/s) - ‘gaw074.1’ saved [458640/458640]
+
+--2017-02-02 22:08:03--  http://doi.org/10.1093/molehr/gaw073
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw073 [following]
+--2017-02-02 22:08:04--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw073
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 425635 (416K) [text/html]
+Saving to: ‘gaw073.1’
+
+     0K .......... .......... .......... .......... .......... 12%  208K 2s
+    50K .......... .......... .......... .......... .......... 24%  598K 1s
+   100K .......... .......... .......... .......... .......... 36%  609K 1s
+   150K .......... .......... .......... .......... .......... 48%  417K 1s
+   200K .......... .......... .......... .......... .......... 60%  399K 0s
+   250K .......... .......... .......... .......... .......... 72%  609K 0s
+   300K .......... .......... .......... .......... .......... 84%  606K 0s
+   350K .......... .......... .......... .......... .......... 96%  312K 0s
+   400K .......... .....                                      100% 11.6M=1.0s
+
+2017-02-02 22:08:09 (425 KB/s) - ‘gaw073.1’ saved [425635/425635]
+
+--2017-02-02 22:08:10--  http://doi.org/10.1093/molehr/gaw075
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw075 [following]
+--2017-02-02 22:08:12--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw075
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 411567 (402K) [text/html]
+Saving to: ‘gaw075.1’
+
+     0K .......... .......... .......... .......... .......... 12%  208K 2s
+    50K .......... .......... .......... .......... .......... 24%  607K 1s
+   100K .......... .......... .......... .......... .......... 37%  607K 1s
+   150K .......... .......... .......... .......... .......... 49%  423K 1s
+   200K .......... .......... .......... .......... .......... 62%  402K 0s
+   250K .......... .......... .......... .......... .......... 74%  604K 0s
+   300K .......... .......... .......... .......... .......... 87%  607K 0s
+   350K .......... .......... .......... .......... .......... 99%  610K 0s
+   400K .                                                     100% 3664G=0.9s
+
+2017-02-02 22:08:16 (449 KB/s) - ‘gaw075.1’ saved [411567/411567]
+
+--2017-02-02 22:08:17--  http://doi.org/10.1093/molehr/gaw072
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw072 [following]
+--2017-02-02 22:08:18--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw072
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 293969 (287K) [text/html]
+Saving to: ‘gaw072.1’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 34%  602K 1s
+   100K .......... .......... .......... .......... .......... 52%  609K 0s
+   150K .......... .......... .......... .......... .......... 69%  544K 0s
+   200K .......... .......... .......... .......... .......... 87%  314K 0s
+   250K .......... .......... .......... .......              100% 10.6M=0.7s
+
+2017-02-02 22:08:26 (436 KB/s) - ‘gaw072.1’ saved [293969/293969]
+
+--2017-02-02 22:08:27--  http://doi.org/10.1093/molehr/gaw069
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw069 [following]
+--2017-02-02 22:08:28--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw069
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 423427 (414K) [text/html]
+Saving to: ‘gaw069.1’
+
+     0K .......... .......... .......... .......... .......... 12%  208K 2s
+    50K .......... .......... .......... .......... .......... 24%  577K 1s
+   100K .......... .......... .......... .......... .......... 36%  609K 1s
+   150K .......... .......... .......... .......... .......... 48%  601K 1s
+   200K .......... .......... .......... .......... .......... 60%  309K 0s
+   250K .......... .......... .......... .......... .......... 72%  613K 0s
+   300K .......... .......... .......... .......... .......... 84%  607K 0s
+   350K .......... .......... .......... .......... .......... 96%  600K 0s
+   400K .......... ...                                        100%  174K=1.0s
+
+2017-02-02 22:08:32 (422 KB/s) - ‘gaw069.1’ saved [423427/423427]
+
+--2017-02-02 22:08:33--  http://doi.org/10.1093/molehr/gaw070
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw070 [following]
+--2017-02-02 22:08:34--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw070
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 295736 (289K) [text/html]
+Saving to: ‘gaw070’
+
+     0K .......... .......... .......... .......... .......... 17%  208K 1s
+    50K .......... .......... .......... .......... .......... 34%  603K 1s
+   100K .......... .......... .......... .......... .......... 51%  613K 0s
+   150K .......... .......... .......... .......... .......... 69%  585K 0s
+   200K .......... .......... .......... .......... .......... 86%  318K 0s
+   250K .......... .......... .......... ........             100%  958K=0.7s
+
+2017-02-02 22:08:39 (419 KB/s) - ‘gaw070’ saved [295736/295736]
+
+--2017-02-02 22:08:40--  http://doi.org/10.1093/molehr/gaw067
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw067 [following]
+--2017-02-02 22:08:41--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw067
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 279707 (273K) [text/html]
+Saving to: ‘gaw067.1’
+
+     0K .......... .......... .......... .......... .......... 18%  208K 1s
+    50K .......... .......... .......... .......... .......... 36%  603K 1s
+   100K .......... .......... .......... .......... .......... 54%  610K 0s
+   150K .......... .......... .......... .......... .......... 73%  316K 0s
+   200K .......... .......... .......... .......... .......... 91%  588K 0s
+   250K .......... .......... ...                             100% 11.1M=0.7s
+
+2017-02-02 22:08:49 (420 KB/s) - ‘gaw067.1’ saved [279707/279707]
+
+--2017-02-02 22:08:50--  http://doi.org/10.1093/molehr/gaw068
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw068 [following]
+--2017-02-02 22:08:51--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw068
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 339895 (332K) [text/html]
+Saving to: ‘gaw068.1’
+
+     0K .......... .......... .......... .......... .......... 15%  207K 1s
+    50K .......... .......... .......... .......... .......... 30%  598K 1s
+   100K .......... .......... .......... .......... .......... 45%  601K 0s
+   150K .......... .......... .......... .......... .......... 60%  316K 0s
+   200K .......... .......... .......... .......... .......... 75%  587K 0s
+   250K .......... .......... .......... .......... .......... 90%  605K 0s
+   300K .......... .......... .......... .                    100%  397K=0.8s
+
+2017-02-02 22:08:56 (408 KB/s) - ‘gaw068.1’ saved [339895/339895]
+
+--2017-02-02 22:08:57--  http://doi.org/10.1093/molehr/gaw064
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw064 [following]
+--2017-02-02 22:08:59--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw064
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 22:08:59 ERROR 400: Bad Request.
+
+--2017-02-02 22:09:00--  http://doi.org/10.1093/molehr/gaw066
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw066 [following]
+--2017-02-02 22:09:01--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw066
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 304328 (297K) [text/html]
+Saving to: ‘gaw066.1’
+
+     0K .......... .......... .......... .......... .......... 16%  208K 1s
+    50K .......... .......... .......... .......... .......... 33%  592K 1s
+   100K .......... .......... .......... .......... .......... 50%  589K 0s
+   150K .......... .......... .......... .......... .......... 67%  607K 0s
+   200K .......... .......... .......... .......... .......... 84%  325K 0s
+   250K .......... .......... .......... .......... .......   100%  534K=0.7s
+
+2017-02-02 22:09:06 (405 KB/s) - ‘gaw066.1’ saved [304328/304328]
+
+--2017-02-02 22:09:07--  http://doi.org/10.1093/molehr/gaw061
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw061 [following]
+--2017-02-02 22:09:09--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw061
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 491459 (480K) [text/html]
+Saving to: ‘gaw061.1’
+
+     0K .......... .......... .......... .......... .......... 10%  208K 2s
+    50K .......... .......... .......... .......... .......... 20%  599K 1s
+   100K .......... .......... .......... .......... .......... 31%  612K 1s
+   150K .......... .......... .......... .......... .......... 41%  605K 1s
+   200K .......... .......... .......... .......... .......... 52%  313K 1s
+   250K .......... .......... .......... .......... .......... 62%  592K 0s
+   300K .......... .......... .......... .......... .......... 72%  611K 0s
+   350K .......... .......... .......... .......... .......... 83%  315K 0s
+   400K .......... .......... .......... .......... .......... 93%  612K 0s
+   450K .......... .......... .........                       100%  373K=1.1s
+
+2017-02-02 22:09:13 (423 KB/s) - ‘gaw061.1’ saved [491459/491459]
+
+--2017-02-02 22:09:14--  http://doi.org/10.1093/molehr/gaw063
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw063 [following]
+--2017-02-02 22:09:15--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw063
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 447640 (437K) [text/html]
+Saving to: ‘gaw063’
+
+     0K .......... .......... .......... .......... .......... 11%  309K 1s
+    50K .......... .......... .......... .......... .......... 22%  310K 1s
+   100K .......... .......... .......... .......... .......... 34%  596K 1s
+   150K .......... .......... .......... .......... .......... 45%  405K 1s
+   200K .......... .......... .......... .......... .......... 57%  405K 0s
+   250K .......... .......... .......... .......... .......... 68%  596K 0s
+   300K .......... .......... .......... .......... .......... 80%  611K 0s
+   350K .......... .......... .......... .......... .......... 91%  304K 0s
+   400K .......... .......... .......... .......              100% 1.09M=1.0s
+
+2017-02-02 22:09:30 (430 KB/s) - ‘gaw063’ saved [447640/447640]
+
+--2017-02-02 22:09:31--  http://doi.org/10.1093/molehr/gaw065
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw065 [following]
+--2017-02-02 22:09:32--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw065
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 22:09:34 ERROR 400: Bad Request.
+
+--2017-02-02 22:09:35--  http://doi.org/10.1093/molehr/gaw056
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw056 [following]
+--2017-02-02 22:09:36--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw056
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 346938 (339K) [text/html]
+Saving to: ‘gaw056.1’
+
+     0K .......... .......... .......... .......... .......... 14%  209K 1s
+    50K .......... .......... .......... .......... .......... 29%  610K 1s
+   100K .......... .......... .......... .......... .......... 44%  609K 1s
+   150K .......... .......... .......... .......... .......... 59%  310K 0s
+   200K .......... .......... .......... .......... .......... 73%  608K 0s
+   250K .......... .......... .......... .......... .......... 88%  596K 0s
+   300K .......... .......... .......... ........             100%  477K=0.8s
+
+2017-02-02 22:09:41 (417 KB/s) - ‘gaw056.1’ saved [346938/346938]
+
+--2017-02-02 22:09:42--  http://doi.org/10.1093/molehr/gaw060
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw060 [following]
+--2017-02-02 22:09:43--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw060
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 433683 (424K) [text/html]
+Saving to: ‘gaw060.1’
+
+     0K .......... .......... .......... .......... .......... 11%  209K 2s
+    50K .......... .......... .......... .......... .......... 23%  562K 1s
+   100K .......... .......... .......... .......... .......... 35%  590K 1s
+   150K .......... .......... .......... .......... .......... 47%  612K 1s
+   200K .......... .......... .......... .......... .......... 59%  312K 0s
+   250K .......... .......... .......... .......... .......... 70%  601K 0s
+   300K .......... .......... .......... .......... .......... 82%  603K 0s
+   350K .......... .......... .......... .......... .......... 94%  315K 0s
+   400K .......... .......... ...                             100% 8.68M=1.0s
+
+2017-02-02 22:09:51 (431 KB/s) - ‘gaw060.1’ saved [433683/433683]
+
+--2017-02-02 22:09:52--  http://doi.org/10.1093/molehr/gaw062
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw062 [following]
+--2017-02-02 22:09:53--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw062
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 311615 (304K) [text/html]
+Saving to: ‘gaw062.1’
+
+     0K .......... .......... .......... .......... .......... 16%  207K 1s
+    50K .......... .......... .......... .......... .......... 32%  608K 1s
+   100K .......... .......... .......... .......... .......... 49%  603K 0s
+   150K .......... .......... .......... .......... .......... 65%  610K 0s
+   200K .......... .......... .......... .......... .......... 82%  309K 0s
+   250K .......... .......... .......... .......... .......... 98%  608K 0s
+   300K ....                                                  100% 8224G=0.7s
+
+2017-02-02 22:10:02 (416 KB/s) - ‘gaw062.1’ saved [311615/311615]
+
+--2017-02-02 22:10:03--  http://doi.org/10.1093/molehr/gaw058
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw058 [following]
+--2017-02-02 22:10:04--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw058
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 87898 (86K) [text/html]
+Saving to: ‘gaw058.1’
+
+     0K .......... .......... .......... .......... .......... 58%  208K 0s
+    50K .......... .......... .......... .....                100% 8.94M=0.2s
+
+2017-02-02 22:10:11 (352 KB/s) - ‘gaw058.1’ saved [87898/87898]
+
+--2017-02-02 22:10:12--  http://doi.org/10.1093/molehr/gaw053
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw053 [following]
+--2017-02-02 22:10:14--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw053
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 332470 (325K) [text/html]
+Saving to: ‘gaw053’
+
+     0K .......... .......... .......... .......... .......... 15%  209K 1s
+    50K .......... .......... .......... .......... .......... 30%  605K 1s
+   100K .......... .......... .......... .......... .......... 46%  608K 0s
+   150K .......... .......... .......... .......... .......... 61%  608K 0s
+   200K .......... .......... .......... .......... .......... 76%  319K 0s
+   250K .......... .......... .......... .......... .......... 92%  587K 0s
+   300K .......... .......... ....                            100%  323K=0.8s
+
+2017-02-02 22:10:19 (403 KB/s) - ‘gaw053’ saved [332470/332470]
+
+--2017-02-02 22:10:20--  http://doi.org/10.1093/molehr/gaw059
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw059 [following]
+--2017-02-02 22:10:21--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw059
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 522752 (510K) [text/html]
+Saving to: ‘gaw059’
+
+     0K .......... .......... .......... .......... ..........  9%  309K 1s
+    50K .......... .......... .......... .......... .......... 19%  312K 1s
+   100K .......... .......... .......... .......... .......... 29%  612K 1s
+   150K .......... .......... .......... .......... .......... 39%  307K 1s
+   200K .......... .......... .......... .......... .......... 48%  598K 1s
+   250K .......... .......... .......... .......... .......... 58%  611K 1s
+   300K .......... .......... .......... .......... .......... 68%  316K 0s
+   350K .......... .......... .......... .......... .......... 78%  595K 0s
+   400K .......... .......... .......... .......... .......... 88%  598K 0s
+   450K .......... .......... .......... .......... .......... 97%  597K 0s
+   500K ..........                                            100%  137K=1.2s
+
+2017-02-02 22:10:32 (419 KB/s) - ‘gaw059’ saved [522752/522752]
+
+--2017-02-02 22:10:33--  http://doi.org/10.1093/molehr/gaw057
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw057 [following]
+--2017-02-02 22:10:34--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw057
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 584156 (570K) [text/html]
+Saving to: ‘gaw057.1’
+
+     0K .......... .......... .......... .......... ..........  8%  208K 2s
+    50K .......... .......... .......... .......... .......... 17%  607K 2s
+   100K .......... .......... .......... .......... .......... 26%  596K 1s
+   150K .......... .......... .......... .......... .......... 35%  429K 1s
+   200K .......... .......... .......... .......... .......... 43%  400K 1s
+   250K .......... .......... .......... .......... .......... 52%  601K 1s
+   300K .......... .......... .......... .......... .......... 61%  611K 1s
+   350K .......... .......... .......... .......... .......... 70%  427K 0s
+   400K .......... .......... .......... .......... .......... 78%  397K 0s
+   450K .......... .......... .......... .......... .......... 87%  605K 0s
+   500K .......... .......... .......... .......... .......... 96%  590K 0s
+   550K .......... ..........                                 100%  256K=1.3s
+
+2017-02-02 22:10:39 (438 KB/s) - ‘gaw057.1’ saved [584156/584156]
+
+--2017-02-02 22:10:40--  http://doi.org/10.1093/molehr/gaw055
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw055 [following]
+--2017-02-02 22:10:41--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw055
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 494920 (483K) [text/html]
+Saving to: ‘gaw055.1’
+
+     0K .......... .......... .......... .......... .......... 10%  208K 2s
+    50K .......... .......... .......... .......... .......... 20%  604K 1s
+   100K .......... .......... .......... .......... .......... 31%  604K 1s
+   150K .......... .......... .......... .......... .......... 41%  420K 1s
+   200K .......... .......... .......... .......... .......... 51%  405K 1s
+   250K .......... .......... .......... .......... .......... 62%  607K 0s
+   300K .......... .......... .......... .......... .......... 72%  609K 0s
+   350K .......... .......... .......... .......... .......... 82%  319K 0s
+   400K .......... .......... .......... .......... .......... 93%  568K 0s
+   450K .......... .......... .......... ...                  100%  449K=1.1s
+
+2017-02-02 22:10:47 (427 KB/s) - ‘gaw055.1’ saved [494920/494920]
+
+--2017-02-02 22:10:48--  http://doi.org/10.1093/molehr/gaw041
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw041 [following]
+--2017-02-02 22:10:49--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw041
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 340065 (332K) [text/html]
+Saving to: ‘gaw041.1’
+
+     0K .......... .......... .......... .......... .......... 15%  208K 1s
+    50K .......... .......... .......... .......... .......... 30%  601K 1s
+   100K .......... .......... .......... .......... .......... 45%  612K 0s
+   150K .......... .......... .......... .......... .......... 60%  599K 0s
+   200K .......... .......... .......... .......... .......... 75%  316K 0s
+   250K .......... .......... .......... .......... .......... 90%  575K 0s
+   300K .......... .......... .......... ..                   100%  417K=0.8s
+
+2017-02-02 22:10:53 (410 KB/s) - ‘gaw041.1’ saved [340065/340065]
+
+--2017-02-02 22:10:54--  http://doi.org/10.1093/molehr/gaw054
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw054 [following]
+--2017-02-02 22:10:55--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw054
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 309964 (303K) [text/html]
+Saving to: ‘gaw054.1’
+
+     0K .......... .......... .......... .......... .......... 16%  208K 1s
+    50K .......... .......... .......... .......... .......... 33%  602K 1s
+   100K .......... .......... .......... .......... .......... 49%  611K 0s
+   150K .......... .......... .......... .......... .......... 66%  606K 0s
+   200K .......... .......... .......... .......... .......... 82%  313K 0s
+   250K .......... .......... .......... .......... .......... 99%  608K 0s
+   300K ..                                                    100% 17.7M=0.7s
+
+2017-02-02 22:11:00 (415 KB/s) - ‘gaw054.1’ saved [309964/309964]
+
+--2017-02-02 22:11:01--  http://doi.org/10.1093/molehr/gaw042
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw042 [following]
+--2017-02-02 22:11:02--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw042
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 391352 (382K) [text/html]
+Saving to: ‘gaw042’
+
+     0K .......... .......... .......... .......... .......... 13%  208K 2s
+    50K .......... .......... .......... .......... .......... 26%  606K 1s
+   100K .......... .......... .......... .......... .......... 39%  604K 1s
+   150K .......... .......... .......... .......... .......... 52%  320K 1s
+   200K .......... .......... .......... .......... .......... 65%  573K 0s
+   250K .......... .......... .......... .......... .......... 78%  606K 0s
+   300K .......... .......... .......... .......... .......... 91%  611K 0s
+   350K .......... .......... .......... ..                   100%  401K=0.9s
+
+2017-02-02 22:11:08 (428 KB/s) - ‘gaw042’ saved [391352/391352]
+
+--2017-02-02 22:11:09--  http://doi.org/10.1093/molehr/gaw052
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw052 [following]
+--2017-02-02 22:11:10--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw052
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 391283 (382K) [text/html]
+Saving to: ‘gaw052’
+
+     0K .......... .......... .......... .......... .......... 13%  208K 2s
+    50K .......... .......... .......... .......... .......... 26%  608K 1s
+   100K .......... .......... .......... .......... .......... 39%  607K 1s
+   150K .......... .......... .......... .......... .......... 52%  314K 1s
+   200K .......... .......... .......... .......... .......... 65%  592K 0s
+   250K .......... .......... .......... .......... .......... 78%  607K 0s
+   300K .......... .......... .......... .......... .......... 91%  313K 0s
+   350K .......... .......... .......... ..                   100% 6.74M=0.9s
+
+2017-02-02 22:11:16 (427 KB/s) - ‘gaw052’ saved [391283/391283]
+
+--2017-02-02 22:11:17--  http://doi.org/10.1093/molehr/gaw050
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw050 [following]
+--2017-02-02 22:11:18--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw050
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 341440 (333K) [text/html]
+Saving to: ‘gaw050.1’
+
+     0K .......... .......... .......... .......... .......... 14%  207K 1s
+    50K .......... .......... .......... .......... .......... 29%  605K 1s
+   100K .......... .......... .......... .......... .......... 44%  611K 0s
+   150K .......... .......... .......... .......... .......... 59%  598K 0s
+   200K .......... .......... .......... .......... .......... 74%  310K 0s
+   250K .......... .......... .......... .......... .......... 89%  601K 0s
+   300K .......... .......... .......... ...                  100%  418K=0.8s
+
+2017-02-02 22:11:27 (410 KB/s) - ‘gaw050.1’ saved [341440/341440]
+
+--2017-02-02 22:11:28--  http://doi.org/10.1093/molehr/gaw051
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw051 [following]
+--2017-02-02 22:11:30--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw051
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 314459 (307K) [text/html]
+Saving to: ‘gaw051.1’
+
+     0K .......... .......... .......... .......... .......... 16%  305K 1s
+    50K .......... .......... .......... .......... .......... 32%  308K 1s
+   100K .......... .......... .......... .......... .......... 48%  564K 0s
+   150K .......... .......... .......... .......... .......... 65%  320K 0s
+   200K .......... .......... .......... .......... .......... 81%  590K 0s
+   250K .......... .......... .......... .......... .......... 97%  567K 0s
+   300K .......                                               100% 12.6M=0.7s
+
+2017-02-02 22:11:37 (412 KB/s) - ‘gaw051.1’ saved [314459/314459]
+
+--2017-02-02 22:11:38--  http://doi.org/10.1093/molehr/gaw049
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw049 [following]
+--2017-02-02 22:11:39--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw049
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 22:11:40 ERROR 400: Bad Request.
+
+--2017-02-02 22:11:41--  http://doi.org/10.1093/molehr/gaw047
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw047 [following]
+--2017-02-02 22:11:42--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw047
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 353725 (345K) [text/html]
+Saving to: ‘gaw047’
+
+     0K .......... .......... .......... .......... .......... 14%  208K 1s
+    50K .......... .......... .......... .......... .......... 28%  592K 1s
+   100K .......... .......... .......... .......... .......... 43%  605K 1s
+   150K .......... .......... .......... .......... .......... 57%  315K 0s
+   200K .......... .......... .......... .......... .......... 72%  582K 0s
+   250K .......... .......... .......... .......... .......... 86%  582K 0s
+   300K .......... .......... .......... .......... .....     100%  560K=0.8s
+
+2017-02-02 22:11:49 (422 KB/s) - ‘gaw047’ saved [353725/353725]
+
+--2017-02-02 22:11:50--  http://doi.org/10.1093/molehr/gaw040
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw040 [following]
+--2017-02-02 22:11:51--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw040
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 22:11:52 ERROR 400: Bad Request.
+
+--2017-02-02 22:11:53--  http://doi.org/10.1093/molehr/gaw048
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw048 [following]
+--2017-02-02 22:11:54--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw048
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 284451 (278K) [text/html]
+Saving to: ‘gaw048.1’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 35%  600K 1s
+   100K .......... .......... .......... .......... .......... 53%  605K 0s
+   150K .......... .......... .......... .......... .......... 71%  317K 0s
+   200K .......... .......... .......... .......... .......... 89%  582K 0s
+   250K .......... .......... .......                         100% 12.9M=0.7s
+
+2017-02-02 22:11:57 (427 KB/s) - ‘gaw048.1’ saved [284451/284451]
+
+--2017-02-02 22:11:58--  http://doi.org/10.1093/molehr/gaw046
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw046 [following]
+--2017-02-02 22:11:59--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw046
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 300990 (294K) [text/html]
+Saving to: ‘gaw046.1’
+
+     0K .......... .......... .......... .......... .......... 17%  208K 1s
+    50K .......... .......... .......... .......... .......... 34%  605K 1s
+   100K .......... .......... .......... .......... .......... 51%  603K 0s
+   150K .......... .......... .......... .......... .......... 68%  418K 0s
+   200K .......... .......... .......... .......... .......... 85%  407K 0s
+   250K .......... .......... .......... .......... ...       100%  536K=0.7s
+
+2017-02-02 22:12:04 (403 KB/s) - ‘gaw046.1’ saved [300990/300990]
+
+--2017-02-02 22:12:05--  http://doi.org/10.1093/molehr/gaw043
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw043 [following]
+--2017-02-02 22:12:06--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw043
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 328901 (321K) [text/html]
+Saving to: ‘gaw043.1’
+
+     0K .......... .......... .......... .......... .......... 15%  209K 1s
+    50K .......... .......... .......... .......... .......... 31%  591K 1s
+   100K .......... .......... .......... .......... .......... 46%  579K 0s
+   150K .......... .......... .......... .......... .......... 62%  595K 0s
+   200K .......... .......... .......... .......... .......... 77%  324K 0s
+   250K .......... .......... .......... .......... .......... 93%  605K 0s
+   300K .......... .......... .                               100%  466K=0.8s
+
+2017-02-02 22:12:09 (413 KB/s) - ‘gaw043.1’ saved [328901/328901]
+
+--2017-02-02 22:12:10--  http://doi.org/10.1093/molehr/gaw039
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw039 [following]
+--2017-02-02 22:12:12--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw039
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 303847 (297K) [text/html]
+Saving to: ‘gaw039.1’
+
+     0K .......... .......... .......... .......... .......... 16%  208K 1s
+    50K .......... .......... .......... .......... .......... 33%  610K 1s
+   100K .......... .......... .......... .......... .......... 50%  607K 0s
+   150K .......... .......... .......... .......... .......... 67%  606K 0s
+   200K .......... .......... .......... .......... .......... 84%  303K 0s
+   250K .......... .......... .......... .......... ......    100%  570K=0.7s
+
+2017-02-02 22:12:14 (404 KB/s) - ‘gaw039.1’ saved [303847/303847]
+
+--2017-02-02 22:12:15--  http://doi.org/10.1093/molehr/gaw045
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw045 [following]
+--2017-02-02 22:12:16--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw045
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 22:12:18 ERROR 400: Bad Request.
+
+--2017-02-02 22:12:19--  http://doi.org/10.1093/molehr/gaw044
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw044 [following]
+--2017-02-02 22:12:20--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw044
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 260309 (254K) [text/html]
+Saving to: ‘gaw044.1’
+
+     0K .......... .......... .......... .......... .......... 19%  208K 1s
+    50K .......... .......... .......... .......... .......... 39%  607K 0s
+   100K .......... .......... .......... .......... .......... 59%  613K 0s
+   150K .......... .......... .......... .......... .......... 78%  603K 0s
+   200K .......... .......... .......... .......... .......... 98%  313K 0s
+   250K ....                                                  100% 8026G=0.6s
+
+2017-02-02 22:12:25 (393 KB/s) - ‘gaw044.1’ saved [260309/260309]
+
+--2017-02-02 22:12:26--  http://doi.org/10.1093/molehr/gaw038
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw038 [following]
+--2017-02-02 22:12:27--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw038
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 407796 (398K) [text/html]
+Saving to: ‘gaw038.1’
+
+     0K .......... .......... .......... .......... .......... 12%  208K 2s
+    50K .......... .......... .......... .......... .......... 25%  609K 1s
+   100K .......... .......... .......... .......... .......... 37%  612K 1s
+   150K .......... .......... .......... .......... .......... 50%  593K 0s
+   200K .......... .......... .......... .......... .......... 62%  311K 0s
+   250K .......... .......... .......... .......... .......... 75%  608K 0s
+   300K .......... .......... .......... .......... .......... 87%  313K 0s
+   350K .......... .......... .......... .......... ........  100%  565K=1.0s
+
+2017-02-02 22:12:32 (408 KB/s) - ‘gaw038.1’ saved [407796/407796]
+
+--2017-02-02 22:12:33--  http://doi.org/10.1093/molehr/gaw035
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw035 [following]
+--2017-02-02 22:12:34--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw035
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 109048 (106K) [text/html]
+Saving to: ‘gaw035’
+
+     0K .......... .......... .......... .......... .......... 46%  208K 0s
+    50K .......... .......... .......... .......... .......... 93%  612K 0s
+   100K ......                                                100% 6.55M=0.3s
+
+2017-02-02 22:12:38 (330 KB/s) - ‘gaw035’ saved [109048/109048]
+
+--2017-02-02 22:12:39--  http://doi.org/10.1093/molehr/gaw034
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw034 [following]
+--2017-02-02 22:12:40--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw034
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 22:12:41 ERROR 400: Bad Request.
+
+--2017-02-02 22:12:42--  http://doi.org/10.1093/molehr/gaw033
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw033 [following]
+--2017-02-02 22:12:43--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw033
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 247769 (242K) [text/html]
+Saving to: ‘gaw033’
+
+     0K .......... .......... .......... .......... .......... 20%  208K 1s
+    50K .......... .......... .......... .......... .......... 41%  612K 0s
+   100K .......... .......... .......... .......... .......... 61%  598K 0s
+   150K .......... .......... .......... .......... .......... 82%  590K 0s
+   200K .......... .......... .......... .......... .         100%  523K=0.6s
+
+2017-02-02 22:12:50 (424 KB/s) - ‘gaw033’ saved [247769/247769]
+
+--2017-02-02 22:12:51--  http://doi.org/10.1093/molehr/gaw037
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw037 [following]
+--2017-02-02 22:12:52--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw037
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 372898 (364K) [text/html]
+Saving to: ‘gaw037.1’
+
+     0K .......... .......... .......... .......... .......... 13%  208K 2s
+    50K .......... .......... .......... .......... .......... 27%  587K 1s
+   100K .......... .......... .......... .......... .......... 41%  611K 1s
+   150K .......... .......... .......... .......... .......... 54%  600K 0s
+   200K .......... .......... .......... .......... .......... 68%  602K 0s
+   250K .......... .......... .......... .......... .......... 82%  318K 0s
+   300K .......... .......... .......... .......... .......... 96%  592K 0s
+   350K .......... ....                                       100% 8.38M=0.8s
+
+2017-02-02 22:12:56 (446 KB/s) - ‘gaw037.1’ saved [372898/372898]
+
+--2017-02-02 22:12:57--  http://doi.org/10.1093/molehr/gaw036
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw036 [following]
+--2017-02-02 22:12:58--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw036
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 400988 (392K) [text/html]
+Saving to: ‘gaw036.1’
+
+     0K .......... .......... .......... .......... .......... 12%  209K 2s
+    50K .......... .......... .......... .......... .......... 25%  611K 1s
+   100K .......... .......... .......... .......... .......... 38%  607K 1s
+   150K .......... .......... .......... .......... .......... 51%  591K 0s
+   200K .......... .......... .......... .......... .......... 63%  313K 0s
+   250K .......... .......... .......... .......... .......... 76%  606K 0s
+   300K .......... .......... .......... .......... .......... 89%  609K 0s
+   350K .......... .......... .......... .......... .         100%  513K=0.9s
+
+2017-02-02 22:13:01 (438 KB/s) - ‘gaw036.1’ saved [400988/400988]
+
+--2017-02-02 22:13:02--  http://doi.org/10.1093/molehr/gaw032
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw032 [following]
+--2017-02-02 22:13:03--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw032
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 291406 (285K) [text/html]
+Saving to: ‘gaw032.1’
+
+     0K .......... .......... .......... .......... .......... 17%  207K 1s
+    50K .......... .......... .......... .......... .......... 35%  601K 1s
+   100K .......... .......... .......... .......... .......... 52%  579K 0s
+   150K .......... .......... .......... .......... .......... 70%  584K 0s
+   200K .......... .......... .......... .......... .......... 87%  309K 0s
+   250K .......... .......... .......... ....                 100% 8.67M=0.7s
+
+2017-02-02 22:13:08 (429 KB/s) - ‘gaw032.1’ saved [291406/291406]
+
+--2017-02-02 22:13:09--  http://doi.org/10.1093/molehr/gaw031
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw031 [following]
+--2017-02-02 22:13:10--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw031
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 22:13:11 ERROR 400: Bad Request.
+
+--2017-02-02 22:13:12--  http://doi.org/10.1093/molehr/gaw030
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw030 [following]
+--2017-02-02 22:13:13--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw030
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 241136 (235K) [text/html]
+Saving to: ‘gaw030’
+
+     0K .......... .......... .......... .......... .......... 21%  209K 1s
+    50K .......... .......... .......... .......... .......... 42%  610K 0s
+   100K .......... .......... .......... .......... .......... 63%  608K 0s
+   150K .......... .......... .......... .......... .......... 84%  318K 0s
+   200K .......... .......... .......... .....                100% 5.68M=0.6s
+
+2017-02-02 22:13:18 (415 KB/s) - ‘gaw030’ saved [241136/241136]
+
+--2017-02-02 22:13:19--  http://doi.org/10.1093/molehr/gaw029
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw029 [following]
+--2017-02-02 22:13:20--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw029
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 311203 (304K) [text/html]
+Saving to: ‘gaw029’
+
+     0K .......... .......... .......... .......... .......... 16%  207K 1s
+    50K .......... .......... .......... .......... .......... 32%  595K 1s
+   100K .......... .......... .......... .......... .......... 49%  612K 0s
+   150K .......... .......... .......... .......... .......... 65%  604K 0s
+   200K .......... .......... .......... .......... .......... 82%  311K 0s
+   250K .......... .......... .......... .......... .......... 98%  604K 0s
+   300K ...                                                   100% 7456G=0.7s
+
+2017-02-02 22:13:25 (414 KB/s) - ‘gaw029’ saved [311203/311203]
+
+--2017-02-02 22:13:26--  http://doi.org/10.1093/molehr/gaw028
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw028 [following]
+--2017-02-02 22:13:27--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw028
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 398762 (389K) [text/html]
+Saving to: ‘gaw028.1’
+
+     0K .......... .......... .......... .......... .......... 12%  207K 2s
+    50K .......... .......... .......... .......... .......... 25%  609K 1s
+   100K .......... .......... .......... .......... .......... 38%  602K 1s
+   150K .......... .......... .......... .......... .......... 51%  319K 1s
+   200K .......... .......... .......... .......... .......... 64%  594K 0s
+   250K .......... .......... .......... .......... .......... 77%  588K 0s
+   300K .......... .......... .......... .......... .......... 89%  315K 0s
+   350K .......... .......... .......... .........            100%  485K=1.0s
+
+2017-02-02 22:13:33 (400 KB/s) - ‘gaw028.1’ saved [398762/398762]
+
+--2017-02-02 22:13:34--  http://doi.org/10.1093/molehr/gaw020
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw020 [following]
+--2017-02-02 22:13:35--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw020
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 74980 (73K) [text/html]
+Saving to: ‘gaw020.1’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ...                             100% 9.04M=0.2s
+
+2017-02-02 22:13:39 (303 KB/s) - ‘gaw020.1’ saved [74980/74980]
+
+--2017-02-02 22:13:40--  http://doi.org/10.1093/molehr/gaw027
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw027 [following]
+--2017-02-02 22:13:41--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw027
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 402729 (393K) [text/html]
+Saving to: ‘gaw027.1’
+
+     0K .......... .......... .......... .......... .......... 12%  209K 2s
+    50K .......... .......... .......... .......... .......... 25%  598K 1s
+   100K .......... .......... .......... .......... .......... 38%  592K 1s
+   150K .......... .......... .......... .......... .......... 50%  606K 0s
+   200K .......... .......... .......... .......... .......... 63%  319K 0s
+   250K .......... .......... .......... .......... .......... 76%  585K 0s
+   300K .......... .......... .......... .......... .......... 88%  600K 0s
+   350K .......... .......... .......... .......... ...       100%  535K=0.9s
+
+2017-02-02 22:13:47 (439 KB/s) - ‘gaw027.1’ saved [402729/402729]
+
+--2017-02-02 22:13:48--  http://doi.org/10.1093/molehr/gaw026
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw026 [following]
+--2017-02-02 22:13:49--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw026
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 358233 (350K) [text/html]
+Saving to: ‘gaw026.1’
+
+     0K .......... .......... .......... .......... .......... 14%  208K 1s
+    50K .......... .......... .......... .......... .......... 28%  608K 1s
+   100K .......... .......... .......... .......... .......... 42%  582K 1s
+   150K .......... .......... .......... .......... .......... 57%  603K 0s
+   200K .......... .......... .......... .......... .......... 71%  320K 0s
+   250K .......... .......... .......... .......... .......... 85%  572K 0s
+   300K .......... .......... .......... .......... ......... 100%  607K=0.8s
+
+2017-02-02 22:13:59 (428 KB/s) - ‘gaw026.1’ saved [358233/358233]
+
+--2017-02-02 22:14:00--  http://doi.org/10.1093/molehr/gaw025
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw025 [following]
+--2017-02-02 22:14:01--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw025
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 22:14:02 ERROR 400: Bad Request.
+
+--2017-02-02 22:14:03--  http://doi.org/10.1093/molehr/gaw024
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw024 [following]
+--2017-02-02 22:14:04--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw024
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 331117 (323K) [text/html]
+Saving to: ‘gaw024.1’
+
+     0K .......... .......... .......... .......... .......... 15%  207K 1s
+    50K .......... .......... .......... .......... .......... 30%  604K 1s
+   100K .......... .......... .......... .......... .......... 46%  580K 0s
+   150K .......... .......... .......... .......... .......... 61%  601K 0s
+   200K .......... .......... .......... .......... .......... 77%  318K 0s
+   250K .......... .......... .......... .......... .......... 92%  585K 0s
+   300K .......... .......... ...                             100% 17.7M=0.7s
+
+2017-02-02 22:14:10 (438 KB/s) - ‘gaw024.1’ saved [331117/331117]
+
+--2017-02-02 22:14:11--  http://doi.org/10.1093/molehr/gaw022
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw022 [following]
+--2017-02-02 22:14:12--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw022
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 139499 (136K) [text/html]
+Saving to: ‘gaw022.1’
+
+     0K .......... .......... .......... .......... .......... 36%  209K 0s
+    50K .......... .......... .......... .......... .......... 73%  606K 0s
+   100K .......... .......... .......... ......               100%  453K=0.4s
+
+2017-02-02 22:14:17 (339 KB/s) - ‘gaw022.1’ saved [139499/139499]
+
+--2017-02-02 22:14:18--  http://doi.org/10.1093/molehr/gaw021
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw021 [following]
+--2017-02-02 22:14:19--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 97364 (95K) [text/html]
+Saving to: ‘gaw021.1’
+
+     0K .......... .......... .......... .......... .......... 52%  209K 0s
+    50K .......... .......... .......... .......... .....     100%  557K=0.3s
+
+2017-02-02 22:14:24 (297 KB/s) - ‘gaw021.1’ saved [97364/97364]
+
+--2017-02-02 22:14:25--  http://doi.org/10.1093/molehr/gaw023
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw023 [following]
+--2017-02-02 22:14:26--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 400733 (391K) [text/html]
+Saving to: ‘gaw023.1’
+
+     0K .......... .......... .......... .......... .......... 12%  208K 2s
+    50K .......... .......... .......... .......... .......... 25%  599K 1s
+   100K .......... .......... .......... .......... .......... 38%  613K 1s
+   150K .......... .......... .......... .......... .......... 51%  586K 0s
+   200K .......... .......... .......... .......... .......... 63%  309K 0s
+   250K .......... .......... .......... .......... .......... 76%  599K 0s
+   300K .......... .......... .......... .......... .......... 89%  584K 0s
+   350K .......... .......... .......... .......... .         100%  514K=0.9s
+
+2017-02-02 22:14:36 (434 KB/s) - ‘gaw023.1’ saved [400733/400733]
+
+--2017-02-02 22:14:37--  http://doi.org/10.1093/molehr/gaw018
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw018 [following]
+--2017-02-02 22:14:38--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw018
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 22:14:40 ERROR 400: Bad Request.
+
+--2017-02-02 22:14:41--  http://doi.org/10.1093/molehr/gaw019
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw019 [following]
+--2017-02-02 22:14:42--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 441405 (431K) [text/html]
+Saving to: ‘gaw019.1’
+
+     0K .......... .......... .......... .......... .......... 11%  209K 2s
+    50K .......... .......... .......... .......... .......... 23%  600K 1s
+   100K .......... .......... .......... .......... .......... 34%  589K 1s
+   150K .......... .......... .......... .......... .......... 46%  322K 1s
+   200K .......... .......... .......... .......... .......... 57%  587K 0s
+   250K .......... .......... .......... .......... .......... 69%  598K 0s
+   300K .......... .......... .......... .......... .......... 81%  320K 0s
+   350K .......... .......... .......... .......... .......... 92%  581K 0s
+   400K .......... .......... .......... .                    100%  405K=1.1s
+
+2017-02-02 22:14:46 (410 KB/s) - ‘gaw019.1’ saved [441405/441405]
+
+--2017-02-02 22:14:47--  http://doi.org/10.1093/molehr/gaw016
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw016 [following]
+--2017-02-02 22:14:49--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw016
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 423471 (414K) [text/html]
+Saving to: ‘gaw016’
+
+     0K .......... .......... .......... .......... .......... 12%  208K 2s
+    50K .......... .......... .......... .......... .......... 24%  608K 1s
+   100K .......... .......... .......... .......... .......... 36%  586K 1s
+   150K .......... .......... .......... .......... .......... 48%  594K 1s
+   200K .......... .......... .......... .......... .......... 60%  313K 0s
+   250K .......... .......... .......... .......... .......... 72%  561K 0s
+   300K .......... .......... .......... .......... .......... 84%  601K 0s
+   350K .......... .......... .......... .......... .......... 96%  596K 0s
+   400K .......... ...                                        100%  174K=1.0s
+
+2017-02-02 22:14:53 (419 KB/s) - ‘gaw016’ saved [423471/423471]
+
+--2017-02-02 22:14:54--  http://doi.org/10.1093/molehr/gaw014
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw014 [following]
+--2017-02-02 22:14:55--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw014
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 22:14:56 ERROR 400: Bad Request.
+
+--2017-02-02 22:14:57--  http://doi.org/10.1093/molehr/gaw010
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw010 [following]
+--2017-02-02 22:14:58--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 95584 (93K) [text/html]
+Saving to: ‘gaw010.1’
+
+     0K .......... .......... .......... .......... .......... 53%  207K 0s
+    50K .......... .......... .......... .......... ...       100%  540K=0.3s
+
+2017-02-02 22:15:03 (290 KB/s) - ‘gaw010.1’ saved [95584/95584]
+
+--2017-02-02 22:15:04--  http://doi.org/10.1093/molehr/gaw007
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw007 [following]
+--2017-02-02 22:15:05--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 81500 (80K) [text/html]
+Saving to: ‘gaw007’
+
+     0K .......... .......... .......... .......... .......... 62%  208K 0s
+    50K .......... .......... .........                       100% 12.3M=0.2s
+
+2017-02-02 22:15:08 (329 KB/s) - ‘gaw007’ saved [81500/81500]
+
+--2017-02-02 22:15:09--  http://doi.org/10.1093/molehr/gaw015
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw015 [following]
+--2017-02-02 22:15:10--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 370881 (362K) [text/html]
+Saving to: ‘gaw015.1’
+
+     0K .......... .......... .......... .......... .......... 13%  208K 1s
+    50K .......... .......... .......... .......... .......... 27%  606K 1s
+   100K .......... .......... .......... .......... .......... 41%  600K 1s
+   150K .......... .......... .......... .......... .......... 55%  604K 0s
+   200K .......... .......... .......... .......... .......... 69%  308K 0s
+   250K .......... .......... .......... .......... .......... 82%  597K 0s
+   300K .......... .......... .......... .......... .......... 96%  603K 0s
+   350K .......... ..                                         100% 12.3M=0.8s
+
+2017-02-02 22:15:18 (442 KB/s) - ‘gaw015.1’ saved [370881/370881]
+
+--2017-02-02 22:15:19--  http://doi.org/10.1093/molehr/gaw017
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw017 [following]
+--2017-02-02 22:15:20--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 22:15:21 ERROR 400: Bad Request.
+
+--2017-02-02 22:15:22--  http://doi.org/10.1093/molehr/gaw011
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw011 [following]
+--2017-02-02 22:15:23--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 414758 (405K) [text/html]
+Saving to: ‘gaw011.1’
+
+     0K .......... .......... .......... .......... .......... 12%  209K 2s
+    50K .......... .......... .......... .......... .......... 24%  603K 1s
+   100K .......... .......... .......... .......... .......... 37%  612K 1s
+   150K .......... .......... .......... .......... .......... 49%  311K 1s
+   200K .......... .......... .......... .......... .......... 61%  598K 0s
+   250K .......... .......... .......... .......... .......... 74%  606K 0s
+   300K .......... .......... .......... .......... .......... 86%  602K 0s
+   350K .......... .......... .......... .......... .......... 98%  309K 0s
+   400K .....                                                 100% 21.8M=1.0s
+
+2017-02-02 22:15:29 (415 KB/s) - ‘gaw011.1’ saved [414758/414758]
+
+--2017-02-02 22:15:30--  http://doi.org/10.1093/molehr/gaw013
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw013 [following]
+--2017-02-02 22:15:31--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 345985 (338K) [text/html]
+Saving to: ‘gaw013.1’
+
+     0K .......... .......... .......... .......... .......... 14%  209K 1s
+    50K .......... .......... .......... .......... .......... 29%  609K 1s
+   100K .......... .......... .......... .......... .......... 44%  593K 1s
+   150K .......... .......... .......... .......... .......... 59%  318K 0s
+   200K .......... .......... .......... .......... .......... 73%  600K 0s
+   250K .......... .......... .......... .......... .......... 88%  307K 0s
+   300K .......... .......... .......... .......              100% 8.47M=0.8s
+
+2017-02-02 22:15:37 (415 KB/s) - ‘gaw013.1’ saved [345985/345985]
+
+--2017-02-02 22:15:38--  http://doi.org/10.1093/molehr/gaw012
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw012 [following]
+--2017-02-02 22:15:39--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 450099 (440K) [text/html]
+Saving to: ‘gaw012.1’
+
+     0K .......... .......... .......... .......... .......... 11%  209K 2s
+    50K .......... .......... .......... .......... .......... 22%  611K 1s
+   100K .......... .......... .......... .......... .......... 34%  610K 1s
+   150K .......... .......... .......... .......... .......... 45%  605K 1s
+   200K .......... .......... .......... .......... .......... 56%  314K 0s
+   250K .......... .......... .......... .......... .......... 68%  610K 0s
+   300K .......... .......... .......... .......... .......... 79%  599K 0s
+   350K .......... .......... .......... .......... .......... 91%  607K 0s
+   400K .......... .......... .......... .........            100%  483K=1.0s
+
+2017-02-02 22:15:44 (451 KB/s) - ‘gaw012.1’ saved [450099/450099]
+
+--2017-02-02 22:15:45--  http://doi.org/10.1093/molehr/gaw009
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw009 [following]
+--2017-02-02 22:15:46--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 308675 (301K) [text/html]
+Saving to: ‘gaw009.1’
+
+     0K .......... .......... .......... .......... .......... 16%  209K 1s
+    50K .......... .......... .......... .......... .......... 33%  612K 1s
+   100K .......... .......... .......... .......... .......... 49%  570K 0s
+   150K .......... .......... .......... .......... .......... 66%  598K 0s
+   200K .......... .......... .......... .......... .......... 82%  324K 0s
+   250K .......... .......... .......... .......... .......... 99%  578K 0s
+   300K .                                                     100% 2747G=0.7s
+
+2017-02-02 22:15:49 (411 KB/s) - ‘gaw009.1’ saved [308675/308675]
+
+--2017-02-02 22:15:50--  http://doi.org/10.1093/molehr/gaw008
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw008 [following]
+--2017-02-02 22:15:51--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-02 22:15:52 ERROR 400: Bad Request.
+
+--2017-02-02 22:15:53--  http://doi.org/10.1093/molehr/gaw003
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw003 [following]
+--2017-02-02 22:15:54--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 339742 (332K) [text/html]
+Saving to: ‘gaw003.1’
+
+     0K .......... .......... .......... .......... .......... 15%  209K 1s
+    50K .......... .......... .......... .......... .......... 30%  597K 1s
+   100K .......... .......... .......... .......... .......... 45%  614K 0s
+   150K .......... .......... .......... .......... .......... 60%  589K 0s
+   200K .......... .......... .......... .......... .......... 75%  317K 0s
+   250K .......... .......... .......... .......... .......... 90%  584K 0s
+   300K .......... .......... .......... .                    100%  386K=0.8s
+
+2017-02-02 22:15:58 (407 KB/s) - ‘gaw003.1’ saved [339742/339742]
+
+--2017-02-02 22:15:59--  http://doi.org/10.1093/molehr/gaw006
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw006 [following]
+--2017-02-02 22:16:01--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 341918 (334K) [text/html]
+Saving to: ‘gaw006.1’
+
+     0K .......... .......... .......... .......... .......... 14%  208K 1s
+    50K .......... .......... .......... .......... .......... 29%  605K 1s
+   100K .......... .......... .......... .......... .......... 44%  604K 0s
+   150K .......... .......... .......... .......... .......... 59%  606K 0s
+   200K .......... .......... .......... .......... .......... 74%  315K 0s
+   250K .......... .......... .......... .......... .......... 89%  608K 0s
+   300K .......... .......... .......... ...                  100%  420K=0.8s
+
+2017-02-02 22:16:05 (412 KB/s) - ‘gaw006.1’ saved [341918/341918]
+
+--2017-02-02 22:16:06--  http://doi.org/10.1093/molehr/gaw004
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw004 [following]
+--2017-02-02 22:16:07--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 359996 (352K) [text/html]
+Saving to: ‘gaw004.1’
+
+     0K .......... .......... .......... .......... .......... 14%  209K 1s
+    50K .......... .......... .......... .......... .......... 28%  606K 1s
+   100K .......... .......... .......... .......... .......... 42%  586K 1s
+   150K .......... .......... .......... .......... .......... 56%  596K 0s
+   200K .......... .......... .......... .......... .......... 71%  315K 0s
+   250K .......... .......... .......... .......... .......... 85%  587K 0s
+   300K .......... .......... .......... .......... .......... 99%  596K 0s
+   350K .                                                     100% 7.20M=0.8s
+
+2017-02-02 22:16:12 (429 KB/s) - ‘gaw004.1’ saved [359996/359996]
+
+--2017-02-02 22:16:13--  http://doi.org/10.1093/molehr/gaw005
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw005 [following]
+--2017-02-02 22:16:14--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 396725 (387K) [text/html]
+Saving to: ‘gaw005.1’
+
+     0K .......... .......... .......... .......... .......... 12%  209K 2s
+    50K .......... .......... .......... .......... .......... 25%  613K 1s
+   100K .......... .......... .......... .......... .......... 38%  599K 1s
+   150K .......... .......... .......... .......... .......... 51%  574K 0s
+   200K .......... .......... .......... .......... .......... 64%  320K 0s
+   250K .......... .......... .......... .......... .......... 77%  609K 0s
+   300K .......... .......... .......... .......... .......... 90%  580K 0s
+   350K .......... .......... .......... .......              100%  467K=0.9s
+
+2017-02-02 22:16:23 (432 KB/s) - ‘gaw005.1’ saved [396725/396725]
+
+--2017-02-02 22:16:24--  http://doi.org/10.1093/molehr/gaw001
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw001 [following]
+--2017-02-02 22:16:25--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 286437 (280K) [text/html]
+Saving to: ‘gaw001’
+
+     0K .......... .......... .......... .......... .......... 17%  207K 1s
+    50K .......... .......... .......... .......... .......... 35%  570K 1s
+   100K .......... .......... .......... .......... .......... 53%  613K 0s
+   150K .......... .......... .......... .......... .......... 71%  408K 0s
+   200K .......... .......... .......... .......... .......... 89%  247K 0s
+   250K .......... .......... .........                       100% 17.7M=0.7s
+
+2017-02-02 22:16:34 (379 KB/s) - ‘gaw001’ saved [286437/286437]
+
+--2017-02-02 22:16:35--  http://doi.org/10.1093/molehr/gaw002
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw002 [following]
+--2017-02-02 22:16:36--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 515189 (503K) [text/html]
+Saving to: ‘gaw002’
+
+     0K .......... .......... .......... .......... ..........  9%  252K 2s
+    50K .......... .......... .......... .......... .......... 19%  406K 1s
+   100K .......... .......... .......... .......... .......... 29%  604K 1s
+   150K .......... .......... .......... .......... .......... 39%  415K 1s
+   200K .......... .......... .......... .......... .......... 49%  603K 1s
+   250K .......... .......... .......... .......... .......... 59%  412K 0s
+   300K .......... .......... .......... .......... .......... 69%  604K 0s
+   350K .......... .......... .......... .......... .......... 79%  402K 0s
+   400K .......... .......... .......... .......... .......... 89%  571K 0s
+   450K .......... .......... .......... .......... .......... 99%  613K 0s
+   500K ...                                                   100%  104K=1.1s
+
+2017-02-02 22:16:42 (443 KB/s) - ‘gaw002’ saved [515189/515189]
+
+--2017-02-02 22:16:43--  http://doi.org/10.1093/molehr/gav076
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gav076 [following]
+--2017-02-02 22:16:44--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gav076
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 363483 (355K) [text/html]
+Saving to: ‘gav076.1’
+
+     0K .......... .......... .......... .......... .......... 14%  209K 1s
+    50K .......... .......... .......... .......... .......... 28%  611K 1s
+   100K .......... .......... .......... .......... .......... 42%  595K 1s
+   150K .......... .......... .......... .......... .......... 56%  604K 0s
+   200K .......... .......... .......... .......... .......... 70%  312K 0s
+   250K .......... .......... .......... .......... .......... 84%  605K 0s
+   300K .......... .......... .......... .......... .......... 98%  609K 0s
+   350K ....                                                  100% 1.29M=0.8s
+
+2017-02-02 22:16:49 (435 KB/s) - ‘gav076.1’ saved [363483/363483]
+
+--2017-02-02 22:16:50--  http://doi.org/10.1093/molehr/gav072
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gav072 [following]
+--2017-02-02 22:16:51--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gav072
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 463081 (452K) [text/html]
+Saving to: ‘gav072.1’
+
+     0K .......... .......... .......... .......... .......... 11%  208K 2s
+    50K .......... .......... .......... .......... .......... 22%  581K 1s
+   100K .......... .......... .......... .......... .......... 33%  599K 1s
+   150K .......... .......... .......... .......... .......... 44%  601K 1s
+   200K .......... .......... .......... .......... .......... 55%  314K 1s
+   250K .......... .......... .......... .......... .......... 66%  595K 0s
+   300K .......... .......... .......... .......... .......... 77%  613K 0s
+   350K .......... .......... .......... .......... .......... 88%  308K 0s
+   400K .......... .......... .......... .......... .......... 99%  609K 0s
+   450K ..                                                    100% 9.96M=1.1s
+
+2017-02-02 22:16:57 (425 KB/s) - ‘gav072.1’ saved [463081/463081]
+
+--2017-02-02 22:16:58--  http://doi.org/10.1093/molehr/gav075
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gav075 [following]
+--2017-02-02 22:16:59--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gav075
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 351272 (343K) [text/html]
+Saving to: ‘gav075.1’
+
+     0K .......... .......... .......... .......... .......... 14%  209K 1s
+    50K .......... .......... .......... .......... .......... 29%  614K 1s
+   100K .......... .......... .......... .......... .......... 43%  604K 1s
+   150K .......... .......... .......... .......... .......... 58%  317K 0s
+   200K .......... .......... .......... .......... .......... 72%  590K 0s
+   250K .......... .......... .......... .......... .......... 87%  610K 0s
+   300K .......... .......... .......... .......... ...       100%  529K=0.8s
+
+2017-02-02 22:17:05 (424 KB/s) - ‘gav075.1’ saved [351272/351272]
+
+--2017-02-02 22:17:06--  http://doi.org/10.1093/molehr/gaw071
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw071 [following]
+--2017-02-02 22:17:07--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gaw071
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 563575 (550K) [text/html]
+Saving to: ‘gaw071.1’
+
+     0K .......... .......... .......... .......... ..........  9%  208K 2s
+    50K .......... .......... .......... .......... .......... 18%  597K 1s
+   100K .......... .......... .......... .......... .......... 27%  613K 1s
+   150K .......... .......... .......... .......... .......... 36%  604K 1s
+   200K .......... .......... .......... .......... .......... 45%  307K 1s
+   250K .......... .......... .......... .......... .......... 54%  604K 1s
+   300K .......... .......... .......... .......... .......... 63%  605K 0s
+   350K .......... .......... .......... .......... .......... 72%  595K 0s
+   400K .......... .......... .......... .......... .......... 81%  318K 0s
+   450K .......... .......... .......... .......... .......... 90%  613K 0s
+   500K .......... .......... .......... .......... .......... 99%  589K 0s
+   550K                                                       100%  698G=1.2s
+
+2017-02-02 22:17:20 (450 KB/s) - ‘gaw071.1’ saved [563575/563575]
+
+--2017-02-02 22:17:21--  http://doi.org/10.1093/molehr/gav074
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gav074 [following]
+--2017-02-02 22:17:23--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gav074
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 451392 (441K) [text/html]
+Saving to: ‘gav074.1’
+
+     0K .......... .......... .......... .......... .......... 11%  207K 2s
+    50K .......... .......... .......... .......... .......... 22%  598K 1s
+   100K .......... .......... .......... .......... .......... 34%  585K 1s
+   150K .......... .......... .......... .......... .......... 45%  598K 1s
+   200K .......... .......... .......... .......... .......... 56%  309K 1s
+   250K .......... .......... .......... .......... .......... 68%  597K 0s
+   300K .......... .......... .......... .......... .......... 79%  606K 0s
+   350K .......... .......... .......... .......... .......... 90%  558K 0s
+   400K .......... .......... .......... ..........           100%  494K=1.0s
+
+2017-02-02 22:17:35 (444 KB/s) - ‘gav074.1’ saved [451392/451392]
+
+--2017-02-02 22:17:36--  http://doi.org/10.1093/molehr/gav073
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gav073 [following]
+--2017-02-02 22:17:37--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gav073
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 439622 (429K) [text/html]
+Saving to: ‘gav073’
+
+     0K .......... .......... .......... .......... .......... 11%  209K 2s
+    50K .......... .......... .......... .......... .......... 23%  600K 1s
+   100K .......... .......... .......... .......... .......... 34%  603K 1s
+   150K .......... .......... .......... .......... .......... 46%  318K 1s
+   200K .......... .......... .......... .......... .......... 58%  587K 0s
+   250K .......... .......... .......... .......... .......... 69%  607K 0s
+   300K .......... .......... .......... .......... .......... 81%  317K 0s
+   350K .......... .......... .......... .......... .......... 93%  599K 0s
+   400K .......... .......... .........                       100%  370K=1.1s
+
+2017-02-02 22:17:42 (409 KB/s) - ‘gav073’ saved [439622/439622]
+
+--2017-02-02 22:17:43--  http://doi.org/10.1093/molehr/gav070
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gav070 [following]
+--2017-02-02 22:17:44--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gav070
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 312769 (305K) [text/html]
+Saving to: ‘gav070.1’
+
+     0K .......... .......... .......... .......... .......... 16%  208K 1s
+    50K .......... .......... .......... .......... .......... 32%  601K 1s
+   100K .......... .......... .......... .......... .......... 49%  587K 0s
+   150K .......... .......... .......... .......... .......... 65%  589K 0s
+   200K .......... .......... .......... .......... .......... 81%  316K 0s
+   250K .......... .......... .......... .......... .......... 98%  605K 0s
+   300K .....                                                 100% 10373G=0.7s
+
+2017-02-02 22:18:02 (416 KB/s) - ‘gav070.1’ saved [312769/312769]
+
+--2017-02-02 22:18:03--  http://doi.org/10.1093/molehr/gav068
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gav068 [following]
+--2017-02-02 22:18:04--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gav068
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 606751 (593K) [text/html]
+Saving to: ‘gav068.1’
+
+     0K .......... .......... .......... .......... ..........  8%  209K 3s
+    50K .......... .......... .......... .......... .......... 16%  610K 2s
+   100K .......... .......... .......... .......... .......... 25%  606K 1s
+   150K .......... .......... .......... .......... .......... 33%  581K 1s
+   200K .......... .......... .......... .......... .......... 42%  318K 1s
+   250K .......... .......... .......... .......... .......... 50%  598K 1s
+   300K .......... .......... .......... .......... .......... 59%  591K 1s
+   350K .......... .......... .......... .......... .......... 67%  317K 0s
+   400K .......... .......... .......... .......... .......... 75%  605K 0s
+   450K .......... .......... .......... .......... .......... 84%  603K 0s
+   500K .......... .......... .......... .......... .......... 92%  309K 0s
+   550K .......... .......... .......... .......... ..        100%  529K=1.4s
+
+2017-02-02 22:18:18 (429 KB/s) - ‘gav068.1’ saved [606751/606751]
+
+--2017-02-02 22:18:19--  http://doi.org/10.1093/molehr/gav071
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gav071 [following]
+--2017-02-02 22:18:21--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gav071
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 279791 (273K) [text/html]
+Saving to: ‘gav071.1’
+
+     0K .......... .......... .......... .......... .......... 18%  208K 1s
+    50K .......... .......... .......... .......... .......... 36%  597K 1s
+   100K .......... .......... .......... .......... .......... 54%  599K 0s
+   150K .......... .......... .......... .......... .......... 73%  426K 0s
+   200K .......... .......... .......... .......... .......... 91%  398K 0s
+   250K .......... .......... ...                             100%  654K=0.7s
+
+2017-02-02 22:18:29 (399 KB/s) - ‘gav071.1’ saved [279791/279791]
+
+--2017-02-02 22:18:30--  http://doi.org/10.1093/molehr/gav069
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gav069 [following]
+--2017-02-02 22:18:31--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gav069
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 363156 (355K) [text/html]
+Saving to: ‘gav069.1’
+
+     0K .......... .......... .......... .......... .......... 14%  262K 1s
+    50K .......... .......... .......... .......... .......... 28%  312K 1s
+   100K .......... .......... .......... .......... .......... 42%  603K 1s
+   150K .......... .......... .......... .......... .......... 56%  314K 0s
+   200K .......... .......... .......... .......... .......... 70%  609K 0s
+   250K .......... .......... .......... .......... .......... 84%  558K 0s
+   300K .......... .......... .......... .......... .......... 98%  607K 0s
+   350K ....                                                  100% 19.9M=0.8s
+
+2017-02-02 22:18:37 (419 KB/s) - ‘gav069.1’ saved [363156/363156]
+
+--2017-02-02 22:18:38--  http://doi.org/10.1093/molehr/gav067
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gav067 [following]
+--2017-02-02 22:18:39--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gav067
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 336937 (329K) [text/html]
+Saving to: ‘gav067’
+
+     0K .......... .......... .......... .......... .......... 15%  209K 1s
+    50K .......... .......... .......... .......... .......... 30%  524K 1s
+   100K .......... .......... .......... .......... .......... 45%  606K 0s
+   150K .......... .......... .......... .......... .......... 60%  599K 0s
+   200K .......... .......... .......... .......... .......... 75%  337K 0s
+   250K .......... .......... .......... .......... .......... 91%  530K 0s
+   300K .......... .......... .........                       100% 6.39M=0.7s
+
+2017-02-02 22:18:44 (440 KB/s) - ‘gav067’ saved [336937/336937]
+
+--2017-02-02 22:18:45--  http://doi.org/10.1093/molehr/gav065
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gav065 [following]
+--2017-02-02 22:18:47--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gav065
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 313124 (306K) [text/html]
+Saving to: ‘gav065.1’
+
+     0K .......... .......... .......... .......... .......... 16%  209K 1s
+    50K .......... .......... .......... .......... .......... 32%  607K 1s
+   100K .......... .......... .......... .......... .......... 49%  582K 0s
+   150K .......... .......... .......... .......... .......... 65%  609K 0s
+   200K .......... .......... .......... .......... .......... 81%  311K 0s
+   250K .......... .......... .......... .......... .......... 98%  615K 0s
+   300K .....                                                 100% 5.14M=0.7s
+
+2017-02-02 22:18:52 (417 KB/s) - ‘gav065.1’ saved [313124/313124]
+
+--2017-02-02 22:18:53--  http://doi.org/10.1093/molehr/gav066
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gav066 [following]
+--2017-02-02 22:18:55--  https://academic.oup.com/molehr/article-lookup/doi/10.1093/molehr/gav066
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 402652 (393K) [text/html]
+Saving to: ‘gav066.1’
+
+     0K .......... .......... .......... .......... .......... 12%  208K 2s
+    50K .......... .......... .......... .......... .......... 25%  595K 1s
+   100K .......... .......... .......... .......... .......... 38%  612K 1s
+   150K .......... .......... .......... .......... .......... 50%  594K 0s
+   200K .......... .......... .......... .......... .......... 63%  314K 0s
+   250K .......... .......... .......... .......... .......... 76%  588K 0s
+   300K .......... .......... .......... .......... .......... 89%  598K 0s
+   350K .......... .......... .......... .......... ...       100%  516K=0.9s
+
+2017-02-02 22:19:06 (436 KB/s) - ‘gav066.1’ saved [402652/402652]
+
+FINISHED --2017-02-02 22:19:06--
+Total wall clock time: 12m 23s
+Downloaded: 84 files, 26M in 1m 5s (419 KB/s)

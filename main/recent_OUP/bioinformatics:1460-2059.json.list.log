@@ -1,0 +1,1849 @@
+--2017-02-03 00:18:37--  http://doi.org/10.1093/bioinformatics/btx017
+Resolving doi.org (doi.org)... 38.100.138.163, 54.191.229.235, 208.254.38.90, ...
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx017 [following]
+--2017-02-03 00:18:39--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx017
+Resolving bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)... 209.135.222.209
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx017/2962858/COV-COP-allows-to-detect-CNVs-responsible-for [following]
+--2017-02-03 00:18:40--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx017/2962858/COV-COP-allows-to-detect-CNVs-responsible-for
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 83966 (82K) [text/html]
+Saving to: ‘btx017’
+
+     0K .......... .......... .......... .......... .......... 60%  209K 0s
+    50K .......... .......... .......... .                    100% 11.8M=0.2s
+
+2017-02-03 00:18:46 (339 KB/s) - ‘btx017’ saved [83966/83966]
+
+--2017-02-03 00:18:47--  http://doi.org/10.1093/bioinformatics/btx012
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx012 [following]
+--2017-02-03 00:18:49--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx012
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx012/2902715/Sparse-network-modeling-and-Metscape-based [following]
+--2017-02-03 00:18:50--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx012/2902715/Sparse-network-modeling-and-Metscape-based
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 84856 (83K) [text/html]
+Saving to: ‘btx012’
+
+     0K .......... .......... .......... .......... .......... 60%  209K 0s
+    50K .......... .......... .......... ..                   100% 10.7M=0.2s
+
+2017-02-03 00:18:53 (342 KB/s) - ‘btx012’ saved [84856/84856]
+
+--2017-02-03 00:18:54--  http://doi.org/10.1093/bioinformatics/btx028
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx028 [following]
+--2017-02-03 00:18:55--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx028
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/redirect-unavailable?url=bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx028 [following]
+--2017-02-03 00:18:56--  https://academic.oup.com/bioinformatics/redirect-unavailable?url=bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx028
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:18:57 ERROR 400: Bad Request.
+
+--2017-02-03 00:18:58--  http://doi.org/10.1093/bioinformatics/btx039
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx039 [following]
+--2017-02-03 00:18:59--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx039
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx039/2962595/Dscam1-Web-Server-online-prediction-of-Dscam1-self [following]
+--2017-02-03 00:19:00--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx039/2962595/Dscam1-Web-Server-online-prediction-of-Dscam1-self
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:19:01 ERROR 400: Bad Request.
+
+--2017-02-03 00:19:02--  http://doi.org/10.1093/bioinformatics/btx040
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx040 [following]
+--2017-02-03 00:19:03--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx040
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx040/2959851/Genome-wide-Analysis-of-DNA-Methylation-Profiles [following]
+--2017-02-03 00:19:04--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx040/2959851/Genome-wide-Analysis-of-DNA-Methylation-Profiles
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 92538 (90K) [text/html]
+Saving to: ‘btx040’
+
+     0K .......... .......... .......... .......... .......... 55%  209K 0s
+    50K .......... .......... .......... ..........           100% 1024K=0.3s
+
+2017-02-03 00:19:12 (324 KB/s) - ‘btx040’ saved [92538/92538]
+
+--2017-02-03 00:19:13--  http://doi.org/10.1093/bioinformatics/btx030
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx030 [following]
+--2017-02-03 00:19:14--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx030
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx030/2959903/Evolutionary-design-of-multiple-genes-encoding-the [following]
+--2017-02-03 00:19:15--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx030/2959903/Evolutionary-design-of-multiple-genes-encoding-the
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:19:17 ERROR 400: Bad Request.
+
+--2017-02-03 00:19:18--  http://doi.org/10.1093/bioinformatics/btx038
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx038 [following]
+--2017-02-03 00:19:19--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx038
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx038/2959850/ANAQUIN-a-software-toolkit-for-the-analysis-of [following]
+--2017-02-03 00:19:20--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx038/2959850/ANAQUIN-a-software-toolkit-for-the-analysis-of
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 95583 (93K) [text/html]
+Saving to: ‘btx038’
+
+     0K .......... .......... .......... .......... .......... 53%  209K 0s
+    50K .......... .......... .......... .......... ...       100%  542K=0.3s
+
+2017-02-03 00:19:28 (293 KB/s) - ‘btx038’ saved [95583/95583]
+
+--2017-02-03 00:19:29--  http://doi.org/10.1093/bioinformatics/btx034
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx034 [following]
+--2017-02-03 00:19:30--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx034
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx034/2959905/Hierarchical-Sets-Analyzing-Pangenome-Structure [following]
+--2017-02-03 00:19:31--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx034/2959905/Hierarchical-Sets-Analyzing-Pangenome-Structure
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:19:56 ERROR 400: Bad Request.
+
+--2017-02-03 00:19:57--  http://doi.org/10.1093/bioinformatics/btw831
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw831 [following]
+--2017-02-03 00:19:58--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw831
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw831/2960005/The-JWS-online-simulation-database [following]
+--2017-02-03 00:19:59--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw831/2960005/The-JWS-online-simulation-database
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:20:00 ERROR 400: Bad Request.
+
+--2017-02-03 00:20:01--  http://doi.org/10.1093/bioinformatics/btx033
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx033 [following]
+--2017-02-03 00:20:02--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx033
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx033/2959846/Unrealistic-phylogenetic-trees-may-improve [following]
+--2017-02-03 00:20:03--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx033/2959846/Unrealistic-phylogenetic-trees-may-improve
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:20:04 ERROR 400: Bad Request.
+
+--2017-02-03 00:20:05--  http://doi.org/10.1093/bioinformatics/btx043
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx043 [following]
+--2017-02-03 00:20:06--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx043
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx043/2953247/Identification-of-Protein-Complexes-by-Integrating [following]
+--2017-02-03 00:20:07--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx043/2953247/Identification-of-Protein-Complexes-by-Integrating
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 97577 (95K) [text/html]
+Saving to: ‘btx043’
+
+     0K .......... .......... .......... .......... .......... 52%  209K 0s
+    50K .......... .......... .......... .......... .....     100%  559K=0.3s
+
+2017-02-03 00:20:17 (297 KB/s) - ‘btx043’ saved [97577/97577]
+
+--2017-02-03 00:20:18--  http://doi.org/10.1093/bioinformatics/btx045
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx045 [following]
+--2017-02-03 00:20:19--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx045
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx045/2953249/LOCUST-A-Custom-Sequence-Locus-Typer-for [following]
+--2017-02-03 00:20:20--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx045/2953249/LOCUST-A-Custom-Sequence-Locus-Typer-for
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 82130 (80K) [text/html]
+Saving to: ‘btx045’
+
+     0K .......... .......... .......... .......... .......... 62%  208K 0s
+    50K .......... .......... ..........                      100% 11.8M=0.2s
+
+2017-02-03 00:20:26 (330 KB/s) - ‘btx045’ saved [82130/82130]
+
+--2017-02-03 00:20:27--  http://doi.org/10.1093/bioinformatics/btx044
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx044 [following]
+--2017-02-03 00:20:28--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx044
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx044/2953248/ISPRED4-Interaction-Sites-PREDiction-in-protein [following]
+--2017-02-03 00:20:29--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx044/2953248/ISPRED4-Interaction-Sites-PREDiction-in-protein
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 80330 (78K) [text/html]
+Saving to: ‘btx044’
+
+     0K .......... .......... .......... .......... .......... 63%  209K 0s
+    50K .......... .......... ........                        100% 13.9M=0.2s
+
+2017-02-03 00:20:33 (325 KB/s) - ‘btx044’ saved [80330/80330]
+
+--2017-02-03 00:20:34--  http://doi.org/10.1093/bioinformatics/btx032
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx032 [following]
+--2017-02-03 00:20:35--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx032
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx032/2959904/A-comprehensive-quality-control-workflow-for [following]
+--2017-02-03 00:20:36--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx032/2959904/A-comprehensive-quality-control-workflow-for
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 84346 (82K) [text/html]
+Saving to: ‘btx032’
+
+     0K .......... .......... .......... .......... .......... 60%  207K 0s
+    50K .......... .......... .......... ..                   100% 13.1M=0.2s
+
+2017-02-03 00:20:40 (338 KB/s) - ‘btx032’ saved [84346/84346]
+
+--2017-02-03 00:20:41--  http://doi.org/10.1093/bioinformatics/btx042
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx042 [following]
+--2017-02-03 00:20:42--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx042
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx042/2959907/H-O-TA-estimation-of-DNA-methylation-and [following]
+--2017-02-03 00:20:43--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx042/2959907/H-O-TA-estimation-of-DNA-methylation-and
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75227 (73K) [text/html]
+Saving to: ‘btx042’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ...                             100% 10.4M=0.2s
+
+2017-02-03 00:20:46 (304 KB/s) - ‘btx042’ saved [75227/75227]
+
+--2017-02-03 00:20:47--  http://doi.org/10.1093/bioinformatics/btx041
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx041 [following]
+--2017-02-03 00:20:48--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx041
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx041/2953246/Classification-of-RNA-structure-change-by-gazing [following]
+--2017-02-03 00:20:49--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx041/2953246/Classification-of-RNA-structure-change-by-gazing
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 93808 (92K) [text/html]
+Saving to: ‘btx041’
+
+     0K .......... .......... .......... .......... .......... 54%  208K 0s
+    50K .......... .......... .......... .......... .         100%  518K=0.3s
+
+2017-02-03 00:20:52 (285 KB/s) - ‘btx041’ saved [93808/93808]
+
+--2017-02-03 00:20:53--  http://doi.org/10.1093/bioinformatics/btx037
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx037 [following]
+--2017-02-03 00:20:54--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx037
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx037/2959849/Ligandbook-an-online-repository-for-small-and-drug [following]
+--2017-02-03 00:20:55--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx037/2959849/Ligandbook-an-online-repository-for-small-and-drug
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79005 (77K) [text/html]
+Saving to: ‘btx037’
+
+     0K .......... .......... .......... .......... .......... 64%  308K 0s
+    50K .......... .......... .......                         100%  335K=0.2s
+
+2017-02-03 00:21:00 (317 KB/s) - ‘btx037’ saved [79005/79005]
+
+--2017-02-03 00:21:01--  http://doi.org/10.1093/bioinformatics/btx035
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx035 [following]
+--2017-02-03 00:21:03--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx035
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx035/2959847/Extracting-morphologies-from-third-harmonic [following]
+--2017-02-03 00:21:04--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx035/2959847/Extracting-morphologies-from-third-harmonic
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 96196 (94K) [text/html]
+Saving to: ‘btx035’
+
+     0K .......... .......... .......... .......... .......... 53%  208K 0s
+    50K .......... .......... .......... .......... ...       100%  548K=0.3s
+
+2017-02-03 00:21:09 (293 KB/s) - ‘btx035’ saved [96196/96196]
+
+--2017-02-03 00:21:10--  http://doi.org/10.1093/bioinformatics/btx036
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx036 [following]
+--2017-02-03 00:21:11--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx036
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx036/2959848/MetaShot-an-accurate-workflow-for-taxon [following]
+--2017-02-03 00:21:13--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx036/2959848/MetaShot-an-accurate-workflow-for-taxon
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 96613 (94K) [text/html]
+Saving to: ‘btx036’
+
+     0K .......... .......... .......... .......... .......... 52%  207K 0s
+    50K .......... .......... .......... .......... ....      100%  544K=0.3s
+
+2017-02-03 00:21:16 (292 KB/s) - ‘btx036’ saved [96613/96613]
+
+--2017-02-03 00:21:17--  http://doi.org/10.1093/bioinformatics/btw830
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw830 [following]
+--2017-02-03 00:21:18--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw830
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw830/2960004/GDISC-a-web-portal-for-integrative-analysis-of [following]
+--2017-02-03 00:21:19--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw830/2960004/GDISC-a-web-portal-for-integrative-analysis-of
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:21:20 ERROR 400: Bad Request.
+
+--2017-02-03 00:21:21--  http://doi.org/10.1093/bioinformatics/btw820
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw820 [following]
+--2017-02-03 00:21:22--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw820
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw820/2957047/Introducing-COCOS-codon-consequence-scanner-for [following]
+--2017-02-03 00:21:23--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw820/2957047/Introducing-COCOS-codon-consequence-scanner-for
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 121323 (118K) [text/html]
+Saving to: ‘btw820’
+
+     0K .......... .......... .......... .......... .......... 42%  209K 0s
+    50K .......... .......... .......... .......... .......... 84%  609K 0s
+   100K .......... ........                                   100% 23.1M=0.3s
+
+2017-02-03 00:21:26 (368 KB/s) - ‘btw820’ saved [121323/121323]
+
+--2017-02-03 00:21:27--  http://doi.org/10.1093/bioinformatics/btw813
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw813 [following]
+--2017-02-03 00:21:29--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw813
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw813/2902713/BioPAXViz-a-cytoscape-application-for-the-visual [following]
+--2017-02-03 00:21:30--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw813/2902713/BioPAXViz-a-cytoscape-application-for-the-visual
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 127764 (125K) [text/html]
+Saving to: ‘btw813’
+
+     0K .......... .......... .......... .......... .......... 40%  208K 0s
+    50K .......... .......... .......... .......... .......... 80%  591K 0s
+   100K .......... .......... ....                            100% 15.0M=0.3s
+
+2017-02-03 00:21:35 (381 KB/s) - ‘btw813’ saved [127764/127764]
+
+--2017-02-03 00:21:36--  http://doi.org/10.1093/bioinformatics/btw766
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw766 [following]
+--2017-02-03 00:21:37--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw766
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw766/2949508/QCEWAS-automated-quality-control-of-results-of [following]
+--2017-02-03 00:21:38--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw766/2949508/QCEWAS-automated-quality-control-of-results-of
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76965 (75K) [text/html]
+Saving to: ‘btw766’
+
+     0K .......... .......... .......... .......... .......... 66%  208K 0s
+    50K .......... .......... .....                           100% 12.1M=0.2s
+
+2017-02-03 00:21:43 (311 KB/s) - ‘btw766’ saved [76965/76965]
+
+--2017-02-03 00:21:44--  http://doi.org/10.1093/bioinformatics/btx007
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx007 [following]
+--2017-02-03 00:21:45--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx007
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx007/2949509/ASCIIGenome-A-command-line-genome-browser-for [following]
+--2017-02-03 00:21:46--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx007/2949509/ASCIIGenome-A-command-line-genome-browser-for
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73415 (72K) [text/html]
+Saving to: ‘btx007’
+
+     0K .......... .......... .......... .......... .......... 69%  209K 0s
+    50K .......... .......... .                               100% 15.8M=0.2s
+
+2017-02-03 00:21:51 (298 KB/s) - ‘btx007’ saved [73415/73415]
+
+--2017-02-03 00:21:52--  http://doi.org/10.1093/bioinformatics/btw821
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw821 [following]
+--2017-02-03 00:21:53--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw821
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw821/2931816/Biomartr-genomic-data-retrieval-with-R [following]
+--2017-02-03 00:21:55--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw821/2931816/Biomartr-genomic-data-retrieval-with-R
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 98203 (96K) [text/html]
+Saving to: ‘btw821’
+
+     0K .......... .......... .......... .......... .......... 52%  208K 0s
+    50K .......... .......... .......... .......... .....     100%  560K=0.3s
+
+2017-02-03 00:22:03 (297 KB/s) - ‘btw821’ saved [98203/98203]
+
+--2017-02-03 00:22:04--  http://doi.org/10.1093/bioinformatics/btx008
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx008 [following]
+--2017-02-03 00:22:05--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx008
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx008/2902714/GWAR-Robust-Analysis-and-Meta-Analysis-of-Genome [following]
+--2017-02-03 00:22:06--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx008/2902714/GWAR-Robust-Analysis-and-Meta-Analysis-of-Genome
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79658 (78K) [text/html]
+Saving to: ‘btx008’
+
+     0K .......... .......... .......... .......... .......... 64%  208K 0s
+    50K .......... .......... .......                         100% 13.2M=0.2s
+
+2017-02-03 00:22:10 (321 KB/s) - ‘btx008’ saved [79658/79658]
+
+--2017-02-03 00:22:11--  http://doi.org/10.1093/bioinformatics/btx022
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx022 [following]
+--2017-02-03 00:22:12--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx022
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx022/2929380/NetLand-quantitative-modeling-and-visualization-of [following]
+--2017-02-03 00:22:13--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx022/2929380/NetLand-quantitative-modeling-and-visualization-of
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 83419 (81K) [text/html]
+Saving to: ‘btx022’
+
+     0K .......... .......... .......... .......... .......... 61%  207K 0s
+    50K .......... .......... .......... .                    100% 10.9M=0.2s
+
+2017-02-03 00:22:17 (333 KB/s) - ‘btx022’ saved [83419/83419]
+
+--2017-02-03 00:22:18--  http://doi.org/10.1093/bioinformatics/btx024
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx024 [following]
+--2017-02-03 00:22:19--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx024
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx024/2929382/chainCleaner-improves-genome-alignment-specificity [following]
+--2017-02-03 00:22:20--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx024/2929382/chainCleaner-improves-genome-alignment-specificity
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 80117 (78K) [text/html]
+Saving to: ‘btx024’
+
+     0K .......... .......... .......... .......... .......... 63%  208K 0s
+    50K .......... .......... ........                        100% 9.12M=0.2s
+
+2017-02-03 00:22:25 (322 KB/s) - ‘btx024’ saved [80117/80117]
+
+--2017-02-03 00:22:26--  http://doi.org/10.1093/bioinformatics/btx025
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx025 [following]
+--2017-02-03 00:22:27--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx025
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx025/2929383/Multi-rate-Poisson-Tree-Processes-for-single-locus [following]
+--2017-02-03 00:22:29--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx025/2929383/Multi-rate-Poisson-Tree-Processes-for-single-locus
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 106899 (104K) [text/html]
+Saving to: ‘btx025’
+
+     0K .......... .......... .......... .......... .......... 47%  209K 0s
+    50K .......... .......... .......... .......... .......... 95%  611K 0s
+   100K ....                                                  100% 8380G=0.3s
+
+2017-02-03 00:22:38 (325 KB/s) - ‘btx025’ saved [106899/106899]
+
+--2017-02-03 00:22:39--  http://doi.org/10.1093/bioinformatics/btx019
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx019 [following]
+--2017-02-03 00:22:40--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx019
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx019/2929379/miRmine-A-Database-of-Human-miRNA-Expression [following]
+--2017-02-03 00:22:42--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx019/2929379/miRmine-A-Database-of-Human-miRNA-Expression
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:22:42 ERROR 400: Bad Request.
+
+--2017-02-03 00:22:43--  http://doi.org/10.1093/bioinformatics/btx023
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx023 [following]
+--2017-02-03 00:22:44--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx023
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx023/2929381/aRNApipe-A-balanced-efficient-and-distributed [following]
+--2017-02-03 00:22:46--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx023/2929381/aRNApipe-A-balanced-efficient-and-distributed
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 95709 (93K) [text/html]
+Saving to: ‘btx023’
+
+     0K .......... .......... .......... .......... .......... 53%  209K 0s
+    50K .......... .......... .......... .......... ...       100%  544K=0.3s
+
+2017-02-03 00:22:49 (292 KB/s) - ‘btx023’ saved [95709/95709]
+
+--2017-02-03 00:22:50--  http://doi.org/10.1093/bioinformatics/btx026
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx026 [following]
+--2017-02-03 00:22:51--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx026
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx026/2929384/Quantification-of-fibrous-spatial-point-patterns [following]
+--2017-02-03 00:22:52--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx026/2929384/Quantification-of-fibrous-spatial-point-patterns
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 84991 (83K) [text/html]
+Saving to: ‘btx026’
+
+     0K .......... .......... .......... .......... .......... 60%  309K 0s
+    50K .......... .......... .......... ..                   100%  410K=0.2s
+
+2017-02-03 00:22:56 (343 KB/s) - ‘btx026’ saved [84991/84991]
+
+--2017-02-03 00:22:57--  http://doi.org/10.1093/bioinformatics/btw791
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw791 [following]
+--2017-02-03 00:22:58--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw791
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw791/2926463/Historian-accurate-reconstruction-of-ancestral [following]
+--2017-02-03 00:22:59--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw791/2926463/Historian-accurate-reconstruction-of-ancestral
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 140386 (137K) [text/html]
+Saving to: ‘btw791’
+
+     0K .......... .......... .......... .......... .......... 36%  207K 0s
+    50K .......... .......... .......... .......... .......... 72%  586K 0s
+   100K .......... .......... .......... .......              100%  467K=0.4s
+
+2017-02-03 00:23:03 (337 KB/s) - ‘btw791’ saved [140386/140386]
+
+--2017-02-03 00:23:04--  http://doi.org/10.1093/bioinformatics/btx015
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx015 [following]
+--2017-02-03 00:23:05--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx015
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx015/2908909/MobiDB-lite-Fast-and-highly-specific-consensus [following]
+--2017-02-03 00:23:06--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx015/2908909/MobiDB-lite-Fast-and-highly-specific-consensus
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 80663 (79K) [text/html]
+Saving to: ‘btx015’
+
+     0K .......... .......... .......... .......... .......... 63%  208K 0s
+    50K .......... .......... ........                        100% 13.1M=0.2s
+
+2017-02-03 00:23:09 (325 KB/s) - ‘btx015’ saved [80663/80663]
+
+--2017-02-03 00:23:10--  http://doi.org/10.1093/bioinformatics/btx014
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx014 [following]
+--2017-02-03 00:23:12--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx014
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx014/2910772/MAPPI-DAT-data-management-and-analysis-for-protein [following]
+--2017-02-03 00:23:13--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx014/2910772/MAPPI-DAT-data-management-and-analysis-for-protein
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 111800 (109K) [text/html]
+Saving to: ‘btx014’
+
+     0K .......... .......... .......... .......... .......... 45%  208K 0s
+    50K .......... .......... .......... .......... .......... 91%  607K 0s
+   100K .........                                             100% 13.6M=0.3s
+
+2017-02-03 00:23:16 (337 KB/s) - ‘btx014’ saved [111800/111800]
+
+--2017-02-03 00:23:17--  http://doi.org/10.1093/bioinformatics/btw780
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw780 [following]
+--2017-02-03 00:23:19--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw780
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw780/2918135/TimesVector-a-vectorized-clustering-approach-to [following]
+--2017-02-03 00:23:20--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw780/2918135/TimesVector-a-vectorized-clustering-approach-to
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 245615 (240K) [text/html]
+Saving to: ‘btw780’
+
+     0K .......... .......... .......... .......... .......... 20%  208K 1s
+    50K .......... .......... .......... .......... .......... 41%  603K 0s
+   100K .......... .......... .......... .......... .......... 62%  611K 0s
+   150K .......... .......... .......... .......... .......... 83%  586K 0s
+   200K .......... .......... .......... .........            100%  490K=0.6s
+
+2017-02-03 00:23:24 (420 KB/s) - ‘btw780’ saved [245615/245615]
+
+--2017-02-03 00:23:25--  http://doi.org/10.1093/bioinformatics/btw770
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw770 [following]
+--2017-02-03 00:23:26--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw770
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw770/2918132/LRSSL-predict-and-interpret-drug-disease [following]
+--2017-02-03 00:23:28--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw770/2918132/LRSSL-predict-and-interpret-drug-disease
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 278785 (272K) [text/html]
+Saving to: ‘btw770’
+
+     0K .......... .......... .......... .......... .......... 18%  206K 1s
+    50K .......... .......... .......... .......... .......... 36%  592K 1s
+   100K .......... .......... .......... .......... .......... 55%  583K 0s
+   150K .......... .......... .......... .......... .......... 73%  594K 0s
+   200K .......... .......... .......... .......... .......... 91%  309K 0s
+   250K .......... .......... ..                              100% 13.1M=0.7s
+
+2017-02-03 00:23:32 (412 KB/s) - ‘btw770’ saved [278785/278785]
+
+--2017-02-03 00:23:33--  http://doi.org/10.1093/bioinformatics/btw774
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw774 [following]
+--2017-02-03 00:23:34--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw774
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw774/2918134/Improved-orthology-inference-with-Hieranoid-2 [following]
+--2017-02-03 00:23:36--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw774/2918134/Improved-orthology-inference-with-Hieranoid-2
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 195805 (191K) [text/html]
+Saving to: ‘btw774’
+
+     0K .......... .......... .......... .......... .......... 26%  206K 1s
+    50K .......... .......... .......... .......... .......... 52%  609K 0s
+   100K .......... .......... .......... .......... .......... 78%  610K 0s
+   150K .......... .......... .......... .......... .         100%  507K=0.5s
+
+2017-02-03 00:23:39 (392 KB/s) - ‘btw774’ saved [195805/195805]
+
+--2017-02-03 00:23:40--  http://doi.org/10.1093/bioinformatics/btx011
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx011 [following]
+--2017-02-03 00:23:42--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx011
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx011/2908861/VCF-kit-Assorted-utilities-for-the-variant-call [following]
+--2017-02-03 00:23:43--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx011/2908861/VCF-kit-Assorted-utilities-for-the-variant-call
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72446 (71K) [text/html]
+Saving to: ‘btx011’
+
+     0K .......... .......... .......... .......... .......... 70%  208K 0s
+    50K .......... ..........                                 100% 10.9M=0.2s
+
+2017-02-03 00:23:46 (292 KB/s) - ‘btx011’ saved [72446/72446]
+
+--2017-02-03 00:23:47--  http://doi.org/10.1093/bioinformatics/btx009
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx009 [following]
+--2017-02-03 00:23:49--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx009
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx009/2908859/DeuteRater-a-Tool-for-Quantifying-Peptide-Isotope [following]
+--2017-02-03 00:23:50--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx009/2908859/DeuteRater-a-Tool-for-Quantifying-Peptide-Isotope
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:23:51 ERROR 400: Bad Request.
+
+--2017-02-03 00:23:52--  http://doi.org/10.1093/bioinformatics/btw840
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw840 [following]
+--2017-02-03 00:23:53--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw840
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw840/2908435/Protein-Multiple-Sequence-Alignment-Benchmarking [following]
+--2017-02-03 00:23:54--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw840/2908435/Protein-Multiple-Sequence-Alignment-Benchmarking
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 80578 (79K) [text/html]
+Saving to: ‘btw840’
+
+     0K .......... .......... .......... .......... .......... 63%  208K 0s
+    50K .......... .......... ........                        100% 11.0M=0.2s
+
+2017-02-03 00:23:57 (324 KB/s) - ‘btw840’ saved [80578/80578]
+
+--2017-02-03 00:23:58--  http://doi.org/10.1093/bioinformatics/btx010
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx010 [following]
+--2017-02-03 00:23:59--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx010
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx010/2908860/FASTdoop-A-Versatile-and-Efficient-Library-for-the [following]
+--2017-02-03 00:24:00--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx010/2908860/FASTdoop-A-Versatile-and-Efficient-Library-for-the
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79267 (77K) [text/html]
+Saving to: ‘btx010’
+
+     0K .......... .......... .......... .......... .......... 64%  306K 0s
+    50K .......... .......... .......                         100%  339K=0.2s
+
+2017-02-03 00:24:35 (317 KB/s) - ‘btx010’ saved [79267/79267]
+
+--2017-02-03 00:24:36--  http://doi.org/10.1093/bioinformatics/btw838
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw838 [following]
+--2017-02-03 00:24:38--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw838
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw838/2908434/DistributedFBA-jl-High-level-high-performance-flux [following]
+--2017-02-03 00:24:39--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw838/2908434/DistributedFBA-jl-High-level-high-performance-flux
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:24:39 ERROR 400: Bad Request.
+
+--2017-02-03 00:24:40--  http://doi.org/10.1093/bioinformatics/btw827
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw827 [following]
+--2017-02-03 00:24:42--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw827
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw827/2908433/Development-and-Application-of-an-Algorithm-to [following]
+--2017-02-03 00:24:43--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw827/2908433/Development-and-Application-of-an-Algorithm-to
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79618 (78K) [text/html]
+Saving to: ‘btw827’
+
+     0K .......... .......... .......... .......... .......... 64%  208K 0s
+    50K .......... .......... .......                         100% 10.3M=0.2s
+
+2017-02-03 00:24:51 (320 KB/s) - ‘btw827’ saved [79618/79618]
+
+--2017-02-03 00:24:52--  http://doi.org/10.1093/bioinformatics/btw823
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw823 [following]
+--2017-02-03 00:24:54--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw823
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw823/2908432/Sphinx-Merging-knowledge-based-and-ab-initio [following]
+--2017-02-03 00:24:55--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw823/2908432/Sphinx-Merging-knowledge-based-and-ab-initio
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 104839 (102K) [text/html]
+Saving to: ‘btw823’
+
+     0K .......... .......... .......... .......... .......... 48%  308K 0s
+    50K .......... .......... .......... .......... .......... 97%  314K 0s
+   100K ..                                                    100% 9.24M=0.3s
+
+2017-02-03 00:24:59 (318 KB/s) - ‘btw823’ saved [104839/104839]
+
+--2017-02-03 00:25:00--  http://doi.org/10.1093/bioinformatics/btw777
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw777 [following]
+--2017-02-03 00:25:01--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw777
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw777/2907823/Scater-pre-processing-quality-control [following]
+--2017-02-03 00:25:02--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw777/2907823/Scater-pre-processing-quality-control
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:25:03 ERROR 400: Bad Request.
+
+--2017-02-03 00:25:04--  http://doi.org/10.1093/bioinformatics/btw773
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw773 [following]
+--2017-02-03 00:25:05--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw773
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw773/2907822/The-super-n-motifs-model-a-novel-alignment-free [following]
+--2017-02-03 00:25:06--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw773/2907822/The-super-n-motifs-model-a-novel-alignment-free
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 353277 (345K) [text/html]
+Saving to: ‘btw773’
+
+     0K .......... .......... .......... .......... .......... 14%  208K 1s
+    50K .......... .......... .......... .......... .......... 28%  613K 1s
+   100K .......... .......... .......... .......... .......... 43%  608K 1s
+   150K .......... .......... .......... .......... .......... 57%  602K 0s
+   200K .......... .......... .......... .......... .......... 72%  305K 0s
+   250K .......... .......... .......... .......... .......... 86%  601K 0s
+   300K .......... .......... .......... .......... ....      100%  550K=0.8s
+
+2017-02-03 00:25:12 (423 KB/s) - ‘btw773’ saved [353277/353277]
+
+--2017-02-03 00:25:13--  http://doi.org/10.1093/bioinformatics/btw769
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw769 [following]
+--2017-02-03 00:25:15--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw769
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw769/2900493/H-BLAST-a-fast-protein-sequence-alignment-toolkit [following]
+--2017-02-03 00:25:16--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw769/2900493/H-BLAST-a-fast-protein-sequence-alignment-toolkit
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 240977 (235K) [text/html]
+Saving to: ‘btw769’
+
+     0K .......... .......... .......... .......... .......... 21%  208K 1s
+    50K .......... .......... .......... .......... .......... 42%  589K 0s
+   100K .......... .......... .......... .......... .......... 63%  587K 0s
+   150K .......... .......... .......... .......... .......... 84%  603K 0s
+   200K .......... .......... .......... .....                100%  441K=0.6s
+
+2017-02-03 00:25:20 (411 KB/s) - ‘btw769’ saved [240977/240977]
+
+--2017-02-03 00:25:21--  http://doi.org/10.1093/bioinformatics/btw836
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw836 [following]
+--2017-02-03 00:25:22--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw836
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw836/2832784/Modeling-Gene-Wise-Dependencies-Improves-the [following]
+--2017-02-03 00:25:23--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw836/2832784/Modeling-Gene-Wise-Dependencies-Improves-the
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 83863 (82K) [text/html]
+Saving to: ‘btw836’
+
+     0K .......... .......... .......... .......... .......... 61%  209K 0s
+    50K .......... .......... .......... .                    100% 12.8M=0.2s
+
+2017-02-03 00:25:29 (339 KB/s) - ‘btw836’ saved [83863/83863]
+
+--2017-02-03 00:25:30--  http://doi.org/10.1093/bioinformatics/btw816
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw816 [following]
+--2017-02-03 00:25:32--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw816
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw816/2908431/The-Genetic-Map-Comparator-a-user-friendly [following]
+--2017-02-03 00:25:33--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw816/2908431/The-Genetic-Map-Comparator-a-user-friendly
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:25:33 ERROR 400: Bad Request.
+
+--2017-02-03 00:25:34--  http://doi.org/10.1093/bioinformatics/btw837
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw837 [following]
+--2017-02-03 00:25:36--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw837
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw837/2950729/Better-diagnostic-signatures-from-RNAseq-data [following]
+--2017-02-03 00:25:37--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw837/2950729/Better-diagnostic-signatures-from-RNAseq-data
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 80638 (79K) [text/html]
+Saving to: ‘btw837’
+
+     0K .......... .......... .......... .......... .......... 63%  209K 0s
+    50K .......... .......... ........                        100% 11.2M=0.2s
+
+2017-02-03 00:25:40 (325 KB/s) - ‘btw837’ saved [80638/80638]
+
+--2017-02-03 00:25:41--  http://doi.org/10.1093/bioinformatics/btx005
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx005 [following]
+--2017-02-03 00:25:42--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx005
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx005/2929532/Seeing-the-Trees-through-the-Forest-Sequence-based [following]
+--2017-02-03 00:25:43--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx005/2929532/Seeing-the-Trees-through-the-Forest-Sequence-based
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 85808 (84K) [text/html]
+Saving to: ‘btx005’
+
+     0K .......... .......... .......... .......... .......... 59%  209K 0s
+    50K .......... .......... .......... ...                  100% 11.7M=0.2s
+
+2017-02-03 00:25:52 (346 KB/s) - ‘btx005’ saved [85808/85808]
+
+--2017-02-03 00:25:53--  http://doi.org/10.1093/bioinformatics/btw747
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw747 [following]
+--2017-02-03 00:25:54--  https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw747
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 281374 (275K) [text/html]
+Saving to: ‘btw747’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 36%  608K 1s
+   100K .......... .......... .......... .......... .......... 54%  612K 0s
+   150K .......... .......... .......... .......... .......... 72%  604K 0s
+   200K .......... .......... .......... .......... .......... 90%  314K 0s
+   250K .......... .......... ....                            100% 4.40M=0.7s
+
+2017-02-03 00:25:58 (422 KB/s) - ‘btw747’ saved [281374/281374]
+
+--2017-02-03 00:25:59--  http://doi.org/10.1093/bioinformatics/btw388
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw388 [following]
+--2017-02-03 00:26:01--  https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw388
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 124079 (121K) [text/html]
+Saving to: ‘btw388’
+
+     0K .......... .......... .......... .......... .......... 41%  209K 0s
+    50K .......... .......... .......... .......... .......... 82%  609K 0s
+   100K .......... .......... .                               100% 9.01M=0.3s
+
+2017-02-03 00:26:04 (375 KB/s) - ‘btw388’ saved [124079/124079]
+
+--2017-02-03 00:26:05--  http://doi.org/10.1093/bioinformatics/btw771
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw771 [following]
+--2017-02-03 00:26:06--  https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw771
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:26:06 ERROR 400: Bad Request.
+
+--2017-02-03 00:26:07--  http://doi.org/10.1093/bioinformatics/btw778
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw778 [following]
+--2017-02-03 00:26:09--  https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw778
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 262197 (256K) [text/html]
+Saving to: ‘btw778’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 39%  588K 1s
+   100K .......... .......... .......... .......... .......... 58%  616K 0s
+   150K .......... .......... .......... .......... .......... 78%  321K 0s
+   200K .......... .......... .......... .......... .......... 97%  572K 0s
+   250K ......                                                100% 11543G=0.6s
+
+2017-02-03 00:26:12 (395 KB/s) - ‘btw778’ saved [262197/262197]
+
+--2017-02-03 00:26:13--  http://doi.org/10.1093/bioinformatics/btw776
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw776 [following]
+--2017-02-03 00:26:14--  https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw776
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 277907 (271K) [text/html]
+Saving to: ‘btw776’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 36%  608K 1s
+   100K .......... .......... .......... .......... .......... 55%  612K 0s
+   150K .......... .......... .......... .......... .......... 73%  420K 0s
+   200K .......... .......... .......... .......... .......... 92%  415K 0s
+   250K .......... .......... .                               100% 4.11M=0.6s
+
+2017-02-03 00:26:19 (419 KB/s) - ‘btw776’ saved [277907/277907]
+
+--2017-02-03 00:26:20--  http://doi.org/10.1093/bioinformatics/btx006
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx006 [following]
+--2017-02-03 00:26:21--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx006
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx006/2949519/A-DNA-Intercalation-Methodology-for-an-Efficient [following]
+--2017-02-03 00:26:23--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx006/2949519/A-DNA-Intercalation-Methodology-for-an-Efficient
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 82417 (80K) [text/html]
+Saving to: ‘btx006’
+
+     0K .......... .......... .......... .......... .......... 62%  209K 0s
+    50K .......... .......... ..........                      100% 13.1M=0.2s
+
+2017-02-03 00:26:31 (333 KB/s) - ‘btx006’ saved [82417/82417]
+
+--2017-02-03 00:26:32--  http://doi.org/10.1093/bioinformatics/btx003
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx003 [following]
+--2017-02-03 00:26:33--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx003
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx003/2871246/KNIME4NGS-a-comprehensive-toolbox-for-Next [following]
+--2017-02-03 00:26:34--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx003/2871246/KNIME4NGS-a-comprehensive-toolbox-for-Next
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 93977 (92K) [text/html]
+Saving to: ‘btx003’
+
+     0K .......... .......... .......... .......... .......... 54%  209K 0s
+    50K .......... .......... .......... .......... .         100% 1018K=0.3s
+
+2017-02-03 00:26:46 (327 KB/s) - ‘btx003’ saved [93977/93977]
+
+--2017-02-03 00:26:47--  http://doi.org/10.1093/bioinformatics/btx004
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btx004 [following]
+--2017-02-03 00:26:48--  https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btx004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 90570 (88K) [text/html]
+Saving to: ‘btx004’
+
+     0K .......... .......... .......... .......... .......... 56%  209K 0s
+    50K .......... .......... .......... ........             100% 10.5M=0.2s
+
+2017-02-03 00:26:53 (364 KB/s) - ‘btx004’ saved [90570/90570]
+
+--2017-02-03 00:26:54--  http://doi.org/10.1093/bioinformatics/btw757
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw757 [following]
+--2017-02-03 00:26:55--  https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw757
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 252961 (247K) [text/html]
+Saving to: ‘btw757’
+
+     0K .......... .......... .......... .......... .......... 20%  209K 1s
+    50K .......... .......... .......... .......... .......... 40%  607K 0s
+   100K .......... .......... .......... .......... .......... 60%  607K 0s
+   150K .......... .......... .......... .......... .......... 80%  314K 0s
+   200K .......... .......... .......... .......... .......   100%  573K=0.6s
+
+2017-02-03 00:27:01 (383 KB/s) - ‘btw757’ saved [252961/252961]
+
+--2017-02-03 00:27:02--  http://doi.org/10.1093/bioinformatics/btw735
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw735 [following]
+--2017-02-03 00:27:03--  https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw735
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 257407 (251K) [text/html]
+Saving to: ‘btw735’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 39%  610K 0s
+   100K .......... .......... .......... .......... .......... 59%  606K 0s
+   150K .......... .......... .......... .......... .......... 79%  318K 0s
+   200K .......... .......... .......... .......... .......... 99%  597K 0s
+   250K .                                                     100% 2621G=0.6s
+
+2017-02-03 00:27:09 (390 KB/s) - ‘btw735’ saved [257407/257407]
+
+--2017-02-03 00:27:10--  http://doi.org/10.1093/bioinformatics/btw772
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw772 [following]
+--2017-02-03 00:27:11--  https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw772
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 217803 (213K) [text/html]
+Saving to: ‘btw772’
+
+     0K .......... .......... .......... .......... .......... 23%  208K 1s
+    50K .......... .......... .......... .......... .......... 47%  601K 0s
+   100K .......... .......... .......... .......... .......... 70%  596K 0s
+   150K .......... .......... .......... .......... .......... 94%  607K 0s
+   200K .......... ..                                         100%  167K=0.6s
+
+2017-02-03 00:27:16 (376 KB/s) - ‘btw772’ saved [217803/217803]
+
+--2017-02-03 00:27:17--  http://doi.org/10.1093/bioinformatics/btw745
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw745 [following]
+--2017-02-03 00:27:18--  https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw745
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 222673 (217K) [text/html]
+Saving to: ‘btw745’
+
+     0K .......... .......... .......... .......... .......... 22%  207K 1s
+    50K .......... .......... .......... .......... .......... 45%  612K 0s
+   100K .......... .......... .......... .......... .......... 68%  602K 0s
+   150K .......... .......... .......... .......... .......... 91%  608K 0s
+   200K .......... .......                                    100%  222K=0.6s
+
+2017-02-03 00:27:23 (384 KB/s) - ‘btw745’ saved [222673/222673]
+
+--2017-02-03 00:27:24--  http://doi.org/10.1093/bioinformatics/btw750
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw750 [following]
+--2017-02-03 00:27:25--  https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw750
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 141792 (138K) [text/html]
+Saving to: ‘btw750’
+
+     0K .......... .......... .......... .......... .......... 36%  209K 0s
+    50K .......... .......... .......... .......... .......... 72%  611K 0s
+   100K .......... .......... .......... ........             100%  476K=0.4s
+
+2017-02-03 00:27:28 (344 KB/s) - ‘btw750’ saved [141792/141792]
+
+--2017-02-03 00:27:29--  http://doi.org/10.1093/bioinformatics/btw751
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw751 [following]
+--2017-02-03 00:27:30--  https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw751
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 320588 (313K) [text/html]
+Saving to: ‘btw751’
+
+     0K .......... .......... .......... .......... .......... 15%  209K 1s
+    50K .......... .......... .......... .......... .......... 31%  605K 1s
+   100K .......... .......... .......... .......... .......... 47%  603K 0s
+   150K .......... .......... .......... .......... .......... 63%  605K 0s
+   200K .......... .......... .......... .......... .......... 79%  312K 0s
+   250K .......... .......... .......... .......... .......... 95%  309K 0s
+   300K .......... ...                                        100%  166K=0.9s
+
+2017-02-03 00:27:38 (352 KB/s) - ‘btw751’ saved [320588/320588]
+
+--2017-02-03 00:27:39--  http://doi.org/10.1093/bioinformatics/btw738
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw738 [following]
+--2017-02-03 00:27:41--  https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw738
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 145309 (142K) [text/html]
+Saving to: ‘btw738’
+
+     0K .......... .......... .......... .......... .......... 35%  208K 0s
+    50K .......... .......... .......... .......... .......... 70%  597K 0s
+   100K .......... .......... .......... .......... .         100%  520K=0.4s
+
+2017-02-03 00:27:45 (351 KB/s) - ‘btw738’ saved [145309/145309]
+
+--2017-02-03 00:27:46--  http://doi.org/10.1093/bioinformatics/btw758
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw758 [following]
+--2017-02-03 00:27:48--  https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw758
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 266057 (260K) [text/html]
+Saving to: ‘btw758’
+
+     0K .......... .......... .......... .......... .......... 19%  309K 1s
+    50K .......... .......... .......... .......... .......... 38%  313K 1s
+   100K .......... .......... .......... .......... .......... 57%  607K 0s
+   150K .......... .......... .......... .......... .......... 76%  318K 0s
+   200K .......... .......... .......... .......... .......... 96%  598K 0s
+   250K .........                                             100% 4.35M=0.6s
+
+2017-02-03 00:27:51 (401 KB/s) - ‘btw758’ saved [266057/266057]
+
+--2017-02-03 00:27:52--  http://doi.org/10.1093/bioinformatics/btw775
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw775 [following]
+--2017-02-03 00:27:53--  https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw775
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 133584 (130K) [text/html]
+Saving to: ‘btw775’
+
+     0K .......... .......... .......... .......... .......... 38%  209K 0s
+    50K .......... .......... .......... .......... .......... 76%  605K 0s
+   100K .......... .......... ..........                      100%  375K=0.4s
+
+2017-02-03 00:28:03 (324 KB/s) - ‘btw775’ saved [133584/133584]
+
+--2017-02-03 00:28:04--  http://doi.org/10.1093/bioinformatics/btw701
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw701 [following]
+--2017-02-03 00:28:05--  https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw701
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 279282 (273K) [text/html]
+Saving to: ‘btw701’
+
+     0K .......... .......... .......... .......... .......... 18%  310K 1s
+    50K .......... .......... .......... .......... .......... 36%  313K 1s
+   100K .......... .......... .......... .......... .......... 54%  609K 0s
+   150K .......... .......... .......... .......... .......... 73%  591K 0s
+   200K .......... .......... .......... .......... .......... 91%  314K 0s
+   250K .......... .......... ..                              100% 13.3M=0.6s
+
+2017-02-03 00:28:14 (420 KB/s) - ‘btw701’ saved [279282/279282]
+
+--2017-02-03 00:28:15--  http://doi.org/10.1093/bioinformatics/btw718
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw718 [following]
+--2017-02-03 00:28:16--  https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw718
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 101945 (100K) [text/html]
+Saving to: ‘btw718’
+
+     0K .......... .......... .......... .......... .......... 50%  209K 0s
+    50K .......... .......... .......... .......... ......... 100%  609K=0.3s
+
+2017-02-03 00:28:20 (311 KB/s) - ‘btw718’ saved [101945/101945]
+
+--2017-02-03 00:28:21--  http://doi.org/10.1093/bioinformatics/btw703
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw703 [following]
+--2017-02-03 00:28:22--  https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw703
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 265028 (259K) [text/html]
+Saving to: ‘btw703’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 38%  611K 1s
+   100K .......... .......... .......... .......... .......... 57%  592K 0s
+   150K .......... .......... .......... .......... .......... 77%  611K 0s
+   200K .......... .......... .......... .......... .......... 96%  317K 0s
+   250K ........                                              100% 35.2M=0.6s
+
+2017-02-03 00:28:27 (401 KB/s) - ‘btw703’ saved [265028/265028]
+
+--2017-02-03 00:28:28--  http://doi.org/10.1093/bioinformatics/btw704
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw704 [following]
+--2017-02-03 00:28:29--  https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw704
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 336784 (329K) [text/html]
+Saving to: ‘btw704’
+
+     0K .......... .......... .......... .......... .......... 15%  209K 1s
+    50K .......... .......... .......... .......... .......... 30%  610K 1s
+   100K .......... .......... .......... .......... .......... 45%  603K 0s
+   150K .......... .......... .......... .......... .......... 60%  317K 0s
+   200K .......... .......... .......... .......... .......... 76%  594K 0s
+   250K .......... .......... .......... .......... .......... 91%  610K 0s
+   300K .......... .......... ........                        100%  361K=0.8s
+
+2017-02-03 00:28:33 (407 KB/s) - ‘btw704’ saved [336784/336784]
+
+--2017-02-03 00:28:34--  http://doi.org/10.1093/bioinformatics/btw825
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw825 [following]
+--2017-02-03 00:28:36--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw825
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw825/2932127/ORCAN-a-web-based-meta-server-for-real-time [following]
+--2017-02-03 00:28:37--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw825/2932127/ORCAN-a-web-based-meta-server-for-real-time
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 142423 (139K) [text/html]
+Saving to: ‘btw825’
+
+     0K .......... .......... .......... .......... .......... 35%  209K 0s
+    50K .......... .......... .......... .......... .......... 71%  608K 0s
+   100K .......... .......... .......... .........            100%  485K=0.4s
+
+2017-02-03 00:28:41 (346 KB/s) - ‘btw825’ saved [142423/142423]
+
+--2017-02-03 00:28:42--  http://doi.org/10.1093/bioinformatics/btw824
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw824 [following]
+--2017-02-03 00:28:43--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw824
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw824/2932126/phyloSkeleton-taxon-selection-data-retrieval-and [following]
+--2017-02-03 00:28:45--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw824/2932126/phyloSkeleton-taxon-selection-data-retrieval-and
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 119611 (117K) [text/html]
+Saving to: ‘btw824’
+
+     0K .......... .......... .......... .......... .......... 42%  209K 0s
+    50K .......... .......... .......... .......... .......... 85%  608K 0s
+   100K .......... ......                                     100% 9.41M=0.3s
+
+2017-02-03 00:28:48 (361 KB/s) - ‘btw824’ saved [119611/119611]
+
+--2017-02-03 00:28:49--  http://doi.org/10.1093/bioinformatics/btw734
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw734 [following]
+--2017-02-03 00:28:50--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw734
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw734/2918455/iSmaRT-a-toolkit-for-a-comprehensive-analysis-of [following]
+--2017-02-03 00:28:51--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw734/2918455/iSmaRT-a-toolkit-for-a-comprehensive-analysis-of
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 160501 (157K) [text/html]
+Saving to: ‘btw734’
+
+     0K .......... .......... .......... .......... .......... 31%  309K 0s
+    50K .......... .......... .......... .......... .......... 63%  313K 0s
+   100K .......... .......... .......... .......... .......... 95%  603K 0s
+   150K ......                                                100% 7.98M=0.4s
+
+2017-02-03 00:28:58 (386 KB/s) - ‘btw734’ saved [160501/160501]
+
+--2017-02-03 00:28:59--  http://doi.org/10.1093/bioinformatics/btw761
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw761 [following]
+--2017-02-03 00:29:01--  https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw761
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 128251 (125K) [text/html]
+Saving to: ‘btw761’
+
+     0K .......... .......... .......... .......... .......... 39%  209K 0s
+    50K .......... .......... .......... .......... .......... 79%  610K 0s
+   100K .......... .......... .....                           100% 8.30M=0.3s
+
+2017-02-03 00:29:09 (386 KB/s) - ‘btw761’ saved [128251/128251]
+
+--2017-02-03 00:29:10--  http://doi.org/10.1093/bioinformatics/btw828
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw828 [following]
+--2017-02-03 00:29:11--  https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw828
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79359 (77K) [text/html]
+Saving to: ‘btw828’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... .......                         100% 14.0M=0.2s
+
+2017-02-03 00:29:17 (321 KB/s) - ‘btw828’ saved [79359/79359]
+
+--2017-02-03 00:29:18--  http://doi.org/10.1093/bioinformatics/btw719
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw719 [following]
+--2017-02-03 00:29:19--  https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw719
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 109300 (107K) [text/html]
+Saving to: ‘btw719’
+
+     0K .......... .......... .......... .......... .......... 46%  209K 0s
+    50K .......... .......... .......... .......... .......... 93%  607K 0s
+   100K ......                                                100% 12852G=0.3s
+
+2017-02-03 00:29:22 (332 KB/s) - ‘btw719’ saved [109300/109300]
+
+--2017-02-03 00:29:23--  http://doi.org/10.1093/bioinformatics/btw779
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw779 [following]
+--2017-02-03 00:29:24--  https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw779
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 118233 (115K) [text/html]
+Saving to: ‘btw779’
+
+     0K .......... .......... .......... .......... .......... 43%  209K 0s
+    50K .......... .......... .......... .......... .......... 86%  580K 0s
+   100K .......... .....                                      100% 21.4M=0.3s
+
+2017-02-03 00:29:29 (354 KB/s) - ‘btw779’ saved [118233/118233]
+
+--2017-02-03 00:29:30--  http://doi.org/10.1093/bioinformatics/btw839
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw839 [following]
+--2017-02-03 00:29:32--  https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw839
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76153 (74K) [text/html]
+Saving to: ‘btw839’
+
+     0K .......... .......... .......... .......... .......... 67%  208K 0s
+    50K .......... .......... ....                            100% 12.9M=0.2s
+
+2017-02-03 00:29:35 (307 KB/s) - ‘btw839’ saved [76153/76153]
+
+--2017-02-03 00:29:36--  http://doi.org/10.1093/bioinformatics/btw749
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw749 [following]
+--2017-02-03 00:29:38--  https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw749
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 226837 (222K) [text/html]
+Saving to: ‘btw749’
+
+     0K .......... .......... .......... .......... .......... 22%  208K 1s
+    50K .......... .......... .......... .......... .......... 45%  613K 0s
+   100K .......... .......... .......... .......... .......... 67%  592K 0s
+   150K .......... .......... .......... .......... .......... 90%  597K 0s
+   200K .......... .......... .                               100%  279K=0.6s
+
+2017-02-03 00:29:48 (391 KB/s) - ‘btw749’ saved [226837/226837]
+
+--2017-02-03 00:29:49--  http://doi.org/10.1093/bioinformatics/btw767
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw767 [following]
+--2017-02-03 00:29:50--  https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw767
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 305936 (299K) [text/html]
+Saving to: ‘btw767’
+
+     0K .......... .......... .......... .......... .......... 16%  208K 1s
+    50K .......... .......... .......... .......... .......... 33%  613K 1s
+   100K .......... .......... .......... .......... .......... 50%  604K 0s
+   150K .......... .......... .......... .......... .......... 66%  316K 0s
+   200K .......... .......... .......... .......... .......... 83%  573K 0s
+   250K .......... .......... .......... .......... ........  100%  586K=0.7s
+
+2017-02-03 00:29:54 (408 KB/s) - ‘btw767’ saved [305936/305936]
+
+--2017-02-03 00:29:55--  http://doi.org/10.1093/bioinformatics/btw752
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw752 [following]
+--2017-02-03 00:29:56--  https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw752
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 239881 (234K) [text/html]
+Saving to: ‘btw752’
+
+     0K .......... .......... .......... .......... .......... 21%  208K 1s
+    50K .......... .......... .......... .......... .......... 42%  609K 0s
+   100K .......... .......... .......... .......... .......... 64%  612K 0s
+   150K .......... .......... .......... .......... .......... 85%  607K 0s
+   200K .......... .......... .......... ....                 100%  424K=0.6s
+
+2017-02-03 00:30:00 (413 KB/s) - ‘btw752’ saved [239881/239881]
+
+--2017-02-03 00:30:01--  http://doi.org/10.1093/bioinformatics/btw737
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw737 [following]
+--2017-02-03 00:30:03--  https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw737
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 282253 (276K) [text/html]
+Saving to: ‘btw737’
+
+     0K .......... .......... .......... .......... .......... 18%  208K 1s
+    50K .......... .......... .......... .......... .......... 36%  611K 1s
+   100K .......... .......... .......... .......... .......... 54%  597K 0s
+   150K .......... .......... .......... .......... .......... 72%  607K 0s
+   200K .......... .......... .......... .......... .......... 90%  317K 0s
+   250K .......... .......... .....                           100% 5.41M=0.7s
+
+2017-02-03 00:30:09 (424 KB/s) - ‘btw737’ saved [282253/282253]
+
+--2017-02-03 00:30:10--  http://doi.org/10.1093/bioinformatics/btw763
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw763 [following]
+--2017-02-03 00:30:12--  https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw763
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 145599 (142K) [text/html]
+Saving to: ‘btw763’
+
+     0K .......... .......... .......... .......... .......... 35%  209K 0s
+    50K .......... .......... .......... .......... .......... 70%  613K 0s
+   100K .......... .......... .......... .......... ..        100%  519K=0.4s
+
+2017-02-03 00:30:15 (354 KB/s) - ‘btw763’ saved [145599/145599]
+
+--2017-02-03 00:30:16--  http://doi.org/10.1093/bioinformatics/btw746
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw746 [following]
+--2017-02-03 00:30:17--  https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw746
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 153073 (149K) [text/html]
+Saving to: ‘btw746’
+
+     0K .......... .......... .......... .......... .......... 33%  208K 0s
+    50K .......... .......... .......... .......... .......... 66%  605K 0s
+   100K .......... .......... .......... .......... ......... 100%  601K=0.4s
+
+2017-02-03 00:30:20 (369 KB/s) - ‘btw746’ saved [153073/153073]
+
+--2017-02-03 00:30:21--  http://doi.org/10.1093/bioinformatics/btw829
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw829 [following]
+--2017-02-03 00:30:22--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw829
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw829/2949517/SPOT-ligand-2-improving-structure-based-virtual [following]
+--2017-02-03 00:30:24--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw829/2949517/SPOT-ligand-2-improving-structure-based-virtual
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 130458 (127K) [text/html]
+Saving to: ‘btw829’
+
+     0K .......... .......... .......... .......... .......... 39%  209K 0s
+    50K .......... .......... .......... .......... .......... 78%  607K 0s
+   100K .......... .......... .......                         100% 5.54M=0.3s
+
+2017-02-03 00:30:27 (390 KB/s) - ‘btw829’ saved [130458/130458]
+
+--2017-02-03 00:30:28--  http://doi.org/10.1093/bioinformatics/btw822
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw822 [following]
+--2017-02-03 00:30:29--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw822
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw822/2836026/AFS-identification-and-quantification-of-species [following]
+--2017-02-03 00:30:31--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw822/2836026/AFS-identification-and-quantification-of-species
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:30:31 ERROR 400: Bad Request.
+
+--2017-02-03 00:30:32--  http://doi.org/10.1093/bioinformatics/btx001
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx001 [following]
+--2017-02-03 00:30:34--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btx001
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx001/2840131/AFRESh-An-Adaptive-Framework-for-Compression-of [following]
+--2017-02-03 00:30:35--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx001/2840131/AFRESh-An-Adaptive-Framework-for-Compression-of
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:30:35 ERROR 400: Bad Request.
+
+--2017-02-03 00:30:36--  http://doi.org/10.1093/bioinformatics/btw832
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw832 [following]
+--2017-02-03 00:30:38--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw832
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw832/2832780/ntCard-A-streaming-algorithm-for-cardinality [following]
+--2017-02-03 00:30:39--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw832/2832780/ntCard-A-streaming-algorithm-for-cardinality
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:30:39 ERROR 400: Bad Request.
+
+--2017-02-03 00:30:40--  http://doi.org/10.1093/bioinformatics/btw759
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw759 [following]
+--2017-02-03 00:30:41--  https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw759
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 107136 (105K) [text/html]
+Saving to: ‘btw759’
+
+     0K .......... .......... .......... .......... .......... 47%  209K 0s
+    50K .......... .......... .......... .......... .......... 95%  612K 0s
+   100K ....                                                  100% 18.5M=0.3s
+
+2017-02-03 00:30:46 (325 KB/s) - ‘btw759’ saved [107136/107136]
+
+--2017-02-03 00:30:47--  http://doi.org/10.1093/bioinformatics/btw817
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw817 [following]
+--2017-02-03 00:30:48--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw817
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw817/2932148/Planning-bioinformatics-workflows-using-an-expert [following]
+--2017-02-03 00:30:49--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw817/2932148/Planning-bioinformatics-workflows-using-an-expert
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 209526 (205K) [text/html]
+Saving to: ‘btw817’
+
+     0K .......... .......... .......... .......... .......... 24%  209K 1s
+    50K .......... .......... .......... .......... .......... 48%  578K 0s
+   100K .......... .......... .......... .......... .......... 73%  613K 0s
+   150K .......... .......... .......... .......... .......... 97%  606K 0s
+   200K ....                                                  100% 17.6M=0.5s
+
+2017-02-03 00:31:03 (417 KB/s) - ‘btw817’ saved [209526/209526]
+
+--2017-02-03 00:31:04--  http://doi.org/10.1093/bioinformatics/btw743
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw743 [following]
+--2017-02-03 00:31:05--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw743
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/33/2/309/2928244/Virtual-exploration-of-early-stage-atherosclerosis [following]
+--2017-02-03 00:31:06--  https://academic.oup.com/bioinformatics/article/33/2/309/2928244/Virtual-exploration-of-early-stage-atherosclerosis
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71406 (70K) [text/html]
+Saving to: ‘btw743’
+
+     0K .......... .......... .......... .......... .......... 71%  209K 0s
+    50K .......... .........                                  100% 8.60M=0.2s
+
+2017-02-03 00:31:10 (289 KB/s) - ‘btw743’ saved [71406/71406]
+
+--2017-02-03 00:31:11--  http://doi.org/10.1093/bioinformatics/btw815
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw815 [following]
+--2017-02-03 00:31:12--  https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw815
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 81219 (79K) [text/html]
+Saving to: ‘btw815’
+
+     0K .......... .......... .......... .......... .......... 63%  208K 0s
+    50K .......... .......... .........                       100% 13.7M=0.2s
+
+2017-02-03 00:31:16 (327 KB/s) - ‘btw815’ saved [81219/81219]
+
+--2017-02-03 00:31:17--  http://doi.org/10.1093/bioinformatics/btw814
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw814 [following]
+--2017-02-03 00:31:18--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw814
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw814/2949516/Primerize-2D-automated-primer-design-for-RNA [following]
+--2017-02-03 00:31:20--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw814/2949516/Primerize-2D-automated-primer-design-for-RNA
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 106766 (104K) [text/html]
+Saving to: ‘btw814’
+
+     0K .......... .......... .......... .......... .......... 47%  209K 0s
+    50K .......... .......... .......... .......... .......... 95%  609K 0s
+   100K ....                                                  100% 8132G=0.3s
+
+2017-02-03 00:31:30 (324 KB/s) - ‘btw814’ saved [106766/106766]
+
+--2017-02-03 00:31:31--  http://doi.org/10.1093/bioinformatics/btw818
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw818 [following]
+--2017-02-03 00:31:32--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw818
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw818/2957046/LncRNA-DNA-binding-analysis-reveals-losses-and [following]
+--2017-02-03 00:31:33--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw818/2957046/LncRNA-DNA-binding-analysis-reveals-losses-and
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-02-03 00:31:34 ERROR 400: Bad Request.
+
+--2017-02-03 00:31:35--  http://doi.org/10.1093/bioinformatics/btw819
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw819 [following]
+--2017-02-03 00:31:36--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw819
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw819/2801464/ProQ3D-Improved-model-quality-assessments-using [following]
+--2017-02-03 00:31:37--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw819/2801464/ProQ3D-Improved-model-quality-assessments-using
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 96155 (94K) [text/html]
+Saving to: ‘btw819’
+
+     0K .......... .......... .......... .......... .......... 53%  208K 0s
+    50K .......... .......... .......... .......... ...       100%  547K=0.3s
+
+2017-02-03 00:31:41 (293 KB/s) - ‘btw819’ saved [96155/96155]
+
+--2017-02-03 00:31:42--  http://doi.org/10.1093/bioinformatics/btw812
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw812 [following]
+--2017-02-03 00:31:44--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw812
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw812/2932125/SED-ML-web-tools-generate-modify-and-export [following]
+--2017-02-03 00:31:45--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw812/2932125/SED-ML-web-tools-generate-modify-and-export
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 112647 (110K) [text/html]
+Saving to: ‘btw812’
+
+     0K .......... .......... .......... .......... .......... 45%  208K 0s
+    50K .......... .......... .......... .......... .......... 90%  597K 0s
+   100K ..........                                            100% 29.9M=0.3s
+
+2017-02-03 00:31:49 (339 KB/s) - ‘btw812’ saved [112647/112647]
+
+--2017-02-03 00:31:50--  http://doi.org/10.1093/bioinformatics/btw803
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw803 [following]
+--2017-02-03 00:31:51--  http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw803
+Connecting to bioinformatics.oxfordjournals.org (bioinformatics.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from bioinformatics.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw803/2949514/The-null-hypothesis-of-GSEA-and-a-novel [following]
+--2017-02-03 00:31:52--  https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw803/2949514/The-null-hypothesis-of-GSEA-and-a-novel
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71014 (69K) [text/html]
+Saving to: ‘btw803’
+
+     0K .......... .......... .......... .......... .......... 72%  209K 0s
+    50K .......... .........                                  100% 16.3M=0.2s
+
+2017-02-03 00:31:59 (289 KB/s) - ‘btw803’ saved [71014/71014]
+
+FINISHED --2017-02-03 00:31:59--
+Total wall clock time: 13m 22s
+Downloaded: 83 files, 11M in 32s (362 KB/s)
