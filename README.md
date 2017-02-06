@@ -12,3 +12,5 @@ I would expect an error rate of less than 0.5% and competent publishers that car
 ##Full list of broken DOIs that are the responsiblity of OUP
 [/main/all-unique-404-OUP-dois.txt](./main/all-unique-404-OUP-dois.txt)
 
+##Full list of 70,907 sampled DOIs
+[/main/uniq-OUP-dois-tested.txt](./main/uniq-OUP-dois-tested.txt)
