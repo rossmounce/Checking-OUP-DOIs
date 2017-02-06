@@ -1,5 +1,9 @@
 # Checking-OUP-DOIs
 
+*Cite as:*
+Ross Mounce. (2017). rossmounce/Checking-OUP-DOIs: failwhale [Data set]. Zenodo. http://doi.org/10.5281/zenodo.268915
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.268915.svg)](https://doi.org/10.5281/zenodo.268915)
+
 I am fed-up of broken DOIs that do not resolve to the article landing page that they should.
 I therefore decided to test a sample of DOIs across ALL journals that [Oxford University Press](https://www.oxfordjournals.org/en/) (OUP) publishes.
 
