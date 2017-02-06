@@ -9,3 +9,6 @@ Across this sample I found that 1692 of these DOIs were 'broken' - they did not 
 
 I would expect an error rate of less than 0.5% and competent publishers that care about this issue could ensure that there are no broken DOIs. I wonder if and when OUP might fix all these broken DOIs?
 
+##Full list of broken DOIs that are the responsiblity of OUP
+[/main/all-unique-404-OUP-dois.txt](./main/all-unique-404-OUP-dois.txt)
+
