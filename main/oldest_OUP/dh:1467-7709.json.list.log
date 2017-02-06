@@ -1,0 +1,1997 @@
+--2017-01-28 05:30:09--  http://doi.org/10.1111/(issn)1467-7709
+Resolving doi.org (doi.org)... 95.138.171.129, 63.123.152.248, 54.191.229.235, ...
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/(ISSN)1467-7709 [following]
+--2017-01-28 05:30:11--  http://doi.wiley.com/10.1111/(ISSN)1467-7709
+Resolving doi.wiley.com (doi.wiley.com)... 199.171.202.200
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/(ISSN)1467-7709 [following]
+--2017-01-28 05:30:12--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/(ISSN)1467-7709
+Resolving onlinelibrary.wiley.com (onlinelibrary.wiley.com)... 199.171.202.195
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-7709;jsessionid=0047A71331F3A93D9F61B9A1E81900E4.f02t02?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 05:30:14--  http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-7709;jsessionid=0047A71331F3A93D9F61B9A1E81900E4.f02t02?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘(issn)1467-7709’
+
+     0K .......... .......... .......... ......                 134K=0.3s
+
+2017-01-28 05:30:15 (134 KB/s) - ‘(issn)1467-7709’ saved [37481]
+
+--2017-01-28 05:30:16--  http://doi.org/10.1111/diph.1977.1.issue-1
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/diph.1977.1.issue-1 [following]
+--2017-01-28 05:30:17--  http://doi.wiley.com/10.1111/diph.1977.1.issue-1
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/diph.1977.1.issue-1 [following]
+--2017-01-28 05:30:18--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/diph.1977.1.issue-1
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/diph.1977.1.issue-1/issuetoc?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 05:30:20--  http://onlinelibrary.wiley.com/doi/10.1111/diph.1977.1.issue-1/issuetoc?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘diph.1977.1.issue-1’
+
+     0K .......... .......... .......... ........               139K=0.3s
+
+2017-01-28 05:30:21 (139 KB/s) - ‘diph.1977.1.issue-1’ saved [39344]
+
+--2017-01-28 05:30:22--  http://doi.org/10.1111/j.1467-7709.1977.tb00227.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00227.x [following]
+--2017-01-28 05:30:23--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00227.x
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/1/1/1/478415/Intellectual-Foundations-of-Early-American?redirectedFrom=fulltext [following]
+--2017-01-28 05:30:25--  https://academic.oup.com/dh/article-abstract/1/1/1/478415/Intellectual-Foundations-of-Early-American?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78156 (76K) [text/html]
+Saving to: ‘j.1467-7709.1977.tb00227.x’
+
+     0K .......... .......... .......... .......... .......... 65%  309K 0s
+    50K .......... .......... ......                          100%  328K=0.2s
+
+2017-01-28 05:30:31 (316 KB/s) - ‘j.1467-7709.1977.tb00227.x’ saved [78156/78156]
+
+--2017-01-28 05:30:32--  http://doi.org/10.1111/j.1467-7709.1977.tb00232.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00232.x [following]
+--2017-01-28 05:30:34--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00232.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/1/1/79/478429/Political-Tremors-from-a-Military-Disaster-Pearl?redirectedFrom=fulltext [following]
+--2017-01-28 05:30:36--  https://academic.oup.com/dh/article-abstract/1/1/79/478429/Political-Tremors-from-a-Military-Disaster-Pearl?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 77108 (75K) [text/html]
+Saving to: ‘j.1467-7709.1977.tb00232.x’
+
+     0K .......... .......... .......... .......... .......... 66%  209K 0s
+    50K .......... .......... .....                           100% 8.94M=0.2s
+
+2017-01-28 05:30:42 (311 KB/s) - ‘j.1467-7709.1977.tb00232.x’ saved [77108/77108]
+
+--2017-01-28 05:30:43--  http://doi.org/10.1111/j.1467-7709.1977.tb00231.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00231.x [following]
+--2017-01-28 05:30:44--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00231.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/1/1/64/478426/Last-Bridge-to-China-The-Shanghai-Power-Company?redirectedFrom=fulltext [following]
+--2017-01-28 05:30:46--  https://academic.oup.com/dh/article-abstract/1/1/64/478426/Last-Bridge-to-China-The-Shanghai-Power-Company?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78676 (77K) [text/html]
+Saving to: ‘j.1467-7709.1977.tb00231.x’
+
+     0K .......... .......... .......... .......... .......... 65%  208K 0s
+    50K .......... .......... ......                          100% 10.7M=0.2s
+
+2017-01-28 05:30:52 (317 KB/s) - ‘j.1467-7709.1977.tb00231.x’ saved [78676/78676]
+
+--2017-01-28 05:30:53--  http://doi.org/10.1111/j.1467-7709.1977.tb00230.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00230.x [following]
+--2017-01-28 05:30:54--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00230.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/1/1/46/478424/Vandenberg-Reconsidered-Senate-Resolution-239-and?redirectedFrom=fulltext [following]
+--2017-01-28 05:30:56--  https://academic.oup.com/dh/article-abstract/1/1/46/478424/Vandenberg-Reconsidered-Senate-Resolution-239-and?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 77193 (75K) [text/html]
+Saving to: ‘j.1467-7709.1977.tb00230.x’
+
+     0K .......... .......... .......... .......... .......... 66%  208K 0s
+    50K .......... .......... .....                           100% 9.77M=0.2s
+
+2017-01-28 05:31:01 (311 KB/s) - ‘j.1467-7709.1977.tb00230.x’ saved [77193/77193]
+
+--2017-01-28 05:31:02--  http://doi.org/10.1111/j.1467-7709.1977.tb00228.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00228.x [following]
+--2017-01-28 05:31:03--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00228.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/1/1/20/478417/The-American-Revolution-and-the-Law-of-Nations?redirectedFrom=fulltext [following]
+--2017-01-28 05:31:06--  https://academic.oup.com/dh/article-abstract/1/1/20/478417/The-American-Revolution-and-the-Law-of-Nations?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://academic.oup.com/dh/article/1/1/20/478417/The-American-Revolution-and-the-Law-of-Nations [following]
+--2017-01-28 05:31:10--  https://academic.oup.com/dh/article/1/1/20/478417/The-American-Revolution-and-the-Law-of-Nations
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/1/1/20/478417/The-American-Revolution-and-the-Law-of-Nations?redirectedFrom=fulltext [following]
+--2017-01-28 05:31:13--  https://academic.oup.com/dh/article-abstract/1/1/20/478417/The-American-Revolution-and-the-Law-of-Nations?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://academic.oup.com/dh/article/1/1/20/478417/The-American-Revolution-and-the-Law-of-Nations [following]
+--2017-01-28 05:31:17--  https://academic.oup.com/dh/article/1/1/20/478417/The-American-Revolution-and-the-Law-of-Nations
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/1/1/20/478417/The-American-Revolution-and-the-Law-of-Nations?redirectedFrom=fulltext [following]
+--2017-01-28 05:31:18--  https://academic.oup.com/dh/article-abstract/1/1/20/478417/The-American-Revolution-and-the-Law-of-Nations?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://academic.oup.com/dh/article/1/1/20/478417/The-American-Revolution-and-the-Law-of-Nations [following]
+--2017-01-28 05:31:21--  https://academic.oup.com/dh/article/1/1/20/478417/The-American-Revolution-and-the-Law-of-Nations
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/1/1/20/478417/The-American-Revolution-and-the-Law-of-Nations?redirectedFrom=fulltext [following]
+--2017-01-28 05:31:23--  https://academic.oup.com/dh/article-abstract/1/1/20/478417/The-American-Revolution-and-the-Law-of-Nations?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://academic.oup.com/dh/article/1/1/20/478417/The-American-Revolution-and-the-Law-of-Nations [following]
+--2017-01-28 05:31:27--  https://academic.oup.com/dh/article/1/1/20/478417/The-American-Revolution-and-the-Law-of-Nations
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/1/1/20/478417/The-American-Revolution-and-the-Law-of-Nations?redirectedFrom=fulltext [following]
+--2017-01-28 05:31:29--  https://academic.oup.com/dh/article-abstract/1/1/20/478417/The-American-Revolution-and-the-Law-of-Nations?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78254 (76K) [text/html]
+Saving to: ‘j.1467-7709.1977.tb00228.x’
+
+     0K .......... .......... .......... .......... .......... 65%  209K 0s
+    50K .......... .......... ......                          100% 10.7M=0.2s
+
+2017-01-28 05:31:36 (317 KB/s) - ‘j.1467-7709.1977.tb00228.x’ saved [78254/78254]
+
+--2017-01-28 05:31:37--  http://doi.org/10.1111/j.1467-7709.1977.tb00229.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00229.x [following]
+--2017-01-28 05:31:38--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00229.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/1/1/35/478420/Interdependence-1976?redirectedFrom=fulltext [following]
+--2017-01-28 05:31:40--  https://academic.oup.com/dh/article-abstract/1/1/35/478420/Interdependence-1976?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 77698 (76K) [text/html]
+Saving to: ‘j.1467-7709.1977.tb00229.x’
+
+     0K .......... .......... .......... .......... .......... 65%  209K 0s
+    50K .......... .......... .....                           100% 11.6M=0.2s
+
+2017-01-28 05:31:45 (315 KB/s) - ‘j.1467-7709.1977.tb00229.x’ saved [77698/77698]
+
+--2017-01-28 05:31:46--  http://doi.org/10.1111/diph.1977.1.issue-2
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/diph.1977.1.issue-2 [following]
+--2017-01-28 05:31:47--  http://doi.wiley.com/10.1111/diph.1977.1.issue-2
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/diph.1977.1.issue-2 [following]
+--2017-01-28 05:31:48--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/diph.1977.1.issue-2
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/diph.1977.1.issue-2/issuetoc?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 05:31:50--  http://onlinelibrary.wiley.com/doi/10.1111/diph.1977.1.issue-2/issuetoc?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘diph.1977.1.issue-2’
+
+     0K .......... .......... .......... .......                143K=0.3s
+
+2017-01-28 05:31:50 (143 KB/s) - ‘diph.1977.1.issue-2’ saved [38293]
+
+--2017-01-28 05:31:51--  http://doi.org/10.1111/j.1467-7709.1977.tb00233.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00233.x [following]
+--2017-01-28 05:31:53--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00233.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/1/2/97/365953/The-Truman-Administration-and-the-Restoration-of?redirectedFrom=fulltext [following]
+--2017-01-28 05:31:55--  https://academic.oup.com/dh/article-abstract/1/2/97/365953/The-Truman-Administration-and-the-Restoration-of?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 78221 (76K) [text/html]
+Saving to: ‘j.1467-7709.1977.tb00233.x’
+
+     0K .......... .......... .......... .......... .......... 65%  209K 0s
+    50K .......... .......... ......                          100% 10.7M=0.2s
+
+2017-01-28 05:32:02 (316 KB/s) - ‘j.1467-7709.1977.tb00233.x’ saved [78221/78221]
+
+--2017-01-28 05:32:03--  http://doi.org/10.1111/j.1467-7709.1977.tb00234.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00234.x [following]
+--2017-01-28 05:32:04--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00234.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/1/2/118/365937/Discord-and-Collaboration-Choosing-an-Agent?redirectedFrom=fulltext [following]
+--2017-01-28 05:32:07--  https://academic.oup.com/dh/article-abstract/1/2/118/365937/Discord-and-Collaboration-Choosing-an-Agent?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78508 (77K) [text/html]
+Saving to: ‘j.1467-7709.1977.tb00234.x’
+
+     0K .......... .......... .......... .......... .......... 65%  209K 0s
+    50K .......... .......... ......                          100% 11.3M=0.2s
+
+2017-01-28 05:32:12 (318 KB/s) - ‘j.1467-7709.1977.tb00234.x’ saved [78508/78508]
+
+--2017-01-28 05:32:13--  http://doi.org/10.1111/j.1467-7709.1977.tb00235.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00235.x [following]
+--2017-01-28 05:32:14--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00235.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/1/2/140/365943/Watching-Stalin-Maneuver-Between-Hitler-and-the?redirectedFrom=fulltext [following]
+--2017-01-28 05:32:16--  https://academic.oup.com/dh/article-abstract/1/2/140/365943/Watching-Stalin-Maneuver-Between-Hitler-and-the?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78923 (77K) [text/html]
+Saving to: ‘j.1467-7709.1977.tb00235.x’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... .......                         100% 12.4M=0.2s
+
+2017-01-28 05:32:23 (319 KB/s) - ‘j.1467-7709.1977.tb00235.x’ saved [78923/78923]
+
+--2017-01-28 05:32:24--  http://doi.org/10.1111/j.1467-7709.1977.tb00237.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00237.x [following]
+--2017-01-28 05:32:25--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00237.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/1/2/170/365949/Corporate-Power-and-Foreign-Policy-Efforts-of?redirectedFrom=fulltext [following]
+--2017-01-28 05:32:27--  https://academic.oup.com/dh/article-abstract/1/2/170/365949/Corporate-Power-and-Foreign-Policy-Efforts-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78955 (77K) [text/html]
+Saving to: ‘j.1467-7709.1977.tb00237.x’
+
+     0K .......... .......... .......... .......... .......... 64%  208K 0s
+    50K .......... .......... .......                         100% 3.70M=0.2s
+
+2017-01-28 05:32:32 (312 KB/s) - ‘j.1467-7709.1977.tb00237.x’ saved [78955/78955]
+
+--2017-01-28 05:32:33--  http://doi.org/10.1111/j.1467-7709.1977.tb00236.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00236.x [following]
+--2017-01-28 05:32:34--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00236.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/1/2/155/365945/The-Open-Door-Leads-to-Reluctant-Intervention-The?redirectedFrom=fulltext [following]
+--2017-01-28 05:32:37--  https://academic.oup.com/dh/article-abstract/1/2/155/365945/The-Open-Door-Leads-to-Reluctant-Intervention-The?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 93600 (91K) [text/html]
+Saving to: ‘j.1467-7709.1977.tb00236.x’
+
+     0K .......... .......... .......... .......... .......... 54%  209K 0s
+    50K .......... .......... .......... .......... .         100%  516K=0.3s
+
+2017-01-28 05:32:44 (286 KB/s) - ‘j.1467-7709.1977.tb00236.x’ saved [93600/93600]
+
+--2017-01-28 05:32:45--  http://doi.org/10.1111/diph.1977.1.issue-3
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/diph.1977.1.issue-3 [following]
+--2017-01-28 05:32:46--  http://doi.wiley.com/10.1111/diph.1977.1.issue-3
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/diph.1977.1.issue-3 [following]
+--2017-01-28 05:32:47--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/diph.1977.1.issue-3
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/diph.1977.1.issue-3/issuetoc?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 05:32:49--  http://onlinelibrary.wiley.com/doi/10.1111/diph.1977.1.issue-3/issuetoc?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘diph.1977.1.issue-3’
+
+     0K .......... .......... .......... ........               141K=0.3s
+
+2017-01-28 05:32:49 (141 KB/s) - ‘diph.1977.1.issue-3’ saved [39804]
+
+--2017-01-28 05:32:50--  http://doi.org/10.1111/j.1467-7709.1977.tb00239.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00239.x [following]
+--2017-01-28 05:32:51--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00239.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/1/3/215/375469/The-Currents-of-Cultural-Diplomacy-Art-and-the?redirectedFrom=fulltext [following]
+--2017-01-28 05:32:54--  https://academic.oup.com/dh/article-abstract/1/3/215/375469/The-Currents-of-Cultural-Diplomacy-Art-and-the?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78694 (77K) [text/html]
+Saving to: ‘j.1467-7709.1977.tb00239.x’
+
+     0K .......... .......... .......... .......... .......... 65%  209K 0s
+    50K .......... .......... ......                          100% 9.70M=0.2s
+
+2017-01-28 05:32:59 (318 KB/s) - ‘j.1467-7709.1977.tb00239.x’ saved [78694/78694]
+
+--2017-01-28 05:33:00--  http://doi.org/10.1111/j.1467-7709.1977.tb00241.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00241.x [following]
+--2017-01-28 05:33:01--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00241.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/1/3/257/375483/Pichon-the-United-States-and-Louisiana?redirectedFrom=fulltext [following]
+--2017-01-28 05:33:03--  https://academic.oup.com/dh/article-abstract/1/3/257/375483/Pichon-the-United-States-and-Louisiana?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 77447 (76K) [text/html]
+Saving to: ‘j.1467-7709.1977.tb00241.x’
+
+     0K .......... .......... .......... .......... .......... 66%  209K 0s
+    50K .......... .......... .....                           100% 9.89M=0.2s
+
+2017-01-28 05:33:08 (313 KB/s) - ‘j.1467-7709.1977.tb00241.x’ saved [77447/77447]
+
+--2017-01-28 05:33:09--  http://doi.org/10.1111/j.1467-7709.1977.tb00243.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00243.x [following]
+--2017-01-28 05:33:10--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00243.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/1/3/285/375491/The-U-Thant-Stevenson-Peace-Initiatives-in-Vietnam?redirectedFrom=fulltext [following]
+--2017-01-28 05:33:12--  https://academic.oup.com/dh/article-abstract/1/3/285/375491/The-U-Thant-Stevenson-Peace-Initiatives-in-Vietnam?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 77663 (76K) [text/html]
+Saving to: ‘j.1467-7709.1977.tb00243.x’
+
+     0K .......... .......... .......... .......... .......... 65%  209K 0s
+    50K .......... .......... .....                           100% 10.9M=0.2s
+
+2017-01-28 05:33:16 (314 KB/s) - ‘j.1467-7709.1977.tb00243.x’ saved [77663/77663]
+
+--2017-01-28 05:33:17--  http://doi.org/10.1111/j.1467-7709.1977.tb00240.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00240.x [following]
+--2017-01-28 05:33:18--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00240.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/1/3/239/375476/Anson-Burlingame-American-Architect-of-the?redirectedFrom=fulltext [following]
+--2017-01-28 05:33:21--  https://academic.oup.com/dh/article-abstract/1/3/239/375476/Anson-Burlingame-American-Architect-of-the?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 93421 (91K) [text/html]
+Saving to: ‘j.1467-7709.1977.tb00240.x’
+
+     0K .......... .......... .......... .......... .......... 54%  208K 0s
+    50K .......... .......... .......... .......... .         100% 1.02M=0.3s
+
+2017-01-28 05:33:30 (326 KB/s) - ‘j.1467-7709.1977.tb00240.x’ saved [93421/93421]
+
+--2017-01-28 05:33:31--  http://doi.org/10.1111/j.1467-7709.1977.tb00242.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00242.x [following]
+--2017-01-28 05:33:32--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00242.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/1/3/271/375486/The-Impact-of-the-Cold-War-on-United-States-Latin?redirectedFrom=fulltext [following]
+--2017-01-28 05:33:34--  https://academic.oup.com/dh/article-abstract/1/3/271/375486/The-Impact-of-the-Cold-War-on-United-States-Latin?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78349 (77K) [text/html]
+Saving to: ‘j.1467-7709.1977.tb00242.x’
+
+     0K .......... .......... .......... .......... .......... 65%  310K 0s
+    50K .......... .......... ......                          100%  329K=0.2s
+
+2017-01-28 05:33:40 (317 KB/s) - ‘j.1467-7709.1977.tb00242.x’ saved [78349/78349]
+
+--2017-01-28 05:33:41--  http://doi.org/10.1111/j.1467-7709.1977.tb00238.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00238.x [following]
+--2017-01-28 05:33:42--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00238.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/1/3/199/375464/The-Orthodoxy-of-Revisionism-Woodrow-Wilson-and?redirectedFrom=fulltext [following]
+--2017-01-28 05:33:44--  https://academic.oup.com/dh/article-abstract/1/3/199/375464/The-Orthodoxy-of-Revisionism-Woodrow-Wilson-and?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78286 (76K) [text/html]
+Saving to: ‘j.1467-7709.1977.tb00238.x’
+
+     0K .......... .......... .......... .......... .......... 65%  209K 0s
+    50K .......... .......... ......                          100% 11.2M=0.2s
+
+2017-01-28 05:33:50 (317 KB/s) - ‘j.1467-7709.1977.tb00238.x’ saved [78286/78286]
+
+--2017-01-28 05:33:51--  http://doi.org/10.1111/diph.1977.1.issue-4
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/diph.1977.1.issue-4 [following]
+--2017-01-28 05:33:52--  http://doi.wiley.com/10.1111/diph.1977.1.issue-4
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/diph.1977.1.issue-4 [following]
+--2017-01-28 05:33:53--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/diph.1977.1.issue-4
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/diph.1977.1.issue-4/issuetoc?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 05:33:54--  http://onlinelibrary.wiley.com/doi/10.1111/diph.1977.1.issue-4/issuetoc?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘diph.1977.1.issue-4’
+
+     0K .......... .......... .......... ........               149K=0.3s
+
+2017-01-28 05:33:55 (149 KB/s) - ‘diph.1977.1.issue-4’ saved [39570]
+
+--2017-01-28 05:33:56--  http://doi.org/10.1111/j.1467-7709.1977.tb00245.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00245.x [following]
+--2017-01-28 05:33:57--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00245.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/1/4/321/449773/Untaught-Diplomacy-Daniel-Webster-and-the-Lobos?redirectedFrom=fulltext [following]
+--2017-01-28 05:33:59--  https://academic.oup.com/dh/article-abstract/1/4/321/449773/Untaught-Diplomacy-Daniel-Webster-and-the-Lobos?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78404 (77K) [text/html]
+Saving to: ‘j.1467-7709.1977.tb00245.x’
+
+     0K .......... .......... .......... .......... .......... 65%  209K 0s
+    50K .......... .......... ......                          100% 12.5M=0.2s
+
+2017-01-28 05:34:04 (318 KB/s) - ‘j.1467-7709.1977.tb00245.x’ saved [78404/78404]
+
+--2017-01-28 05:34:05--  http://doi.org/10.1111/j.1467-7709.1977.tb00249.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00249.x [following]
+--2017-01-28 05:34:06--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00249.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/1/4/389/449989/The-Bohlen-Robinson-Report?redirectedFrom=fulltext [following]
+--2017-01-28 05:34:08--  https://academic.oup.com/dh/article-abstract/1/4/389/449989/The-Bohlen-Robinson-Report?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 74758 (73K) [text/html]
+Saving to: ‘j.1467-7709.1977.tb00249.x’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ...                             100% 11.7M=0.2s
+
+2017-01-28 05:34:14 (302 KB/s) - ‘j.1467-7709.1977.tb00249.x’ saved [74758/74758]
+
+--2017-01-28 05:34:15--  http://doi.org/10.1111/j.1467-7709.1977.tb00246.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00246.x [following]
+--2017-01-28 05:34:16--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00246.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/1/4/341/449778/The-Soviet-Role-in-the-Munich-Crisis-An?redirectedFrom=fulltext [following]
+--2017-01-28 05:34:19--  https://academic.oup.com/dh/article-abstract/1/4/341/449778/The-Soviet-Role-in-the-Munich-Crisis-An?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78364 (77K) [text/html]
+Saving to: ‘j.1467-7709.1977.tb00246.x’
+
+     0K .......... .......... .......... .......... .......... 65%  209K 0s
+    50K .......... .......... ......                          100% 3.35M=0.2s
+
+2017-01-28 05:34:26 (310 KB/s) - ‘j.1467-7709.1977.tb00246.x’ saved [78364/78364]
+
+--2017-01-28 05:34:27--  http://doi.org/10.1111/j.1467-7709.1977.tb00244.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00244.x [following]
+--2017-01-28 05:34:28--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00244.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/1/4/297/449764/Paths-Not-Taken-The-United-States-Department-of?redirectedFrom=fulltext [following]
+--2017-01-28 05:34:30--  https://academic.oup.com/dh/article-abstract/1/4/297/449764/Paths-Not-Taken-The-United-States-Department-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78540 (77K) [text/html]
+Saving to: ‘j.1467-7709.1977.tb00244.x’
+
+     0K .......... .......... .......... .......... .......... 65%  209K 0s
+    50K .......... .......... ......                          100% 8.38M=0.2s
+
+2017-01-28 05:34:34 (317 KB/s) - ‘j.1467-7709.1977.tb00244.x’ saved [78540/78540]
+
+--2017-01-28 05:34:35--  http://doi.org/10.1111/j.1467-7709.1977.tb00248.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00248.x [following]
+--2017-01-28 05:34:37--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00248.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/1/4/373/449916/Under-the-Eagle-s-Wing-The-Franklin-Roosevelt?redirectedFrom=fulltext [following]
+--2017-01-28 05:34:39--  https://academic.oup.com/dh/article-abstract/1/4/373/449916/Under-the-Eagle-s-Wing-The-Franklin-Roosevelt?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78737 (77K) [text/html]
+Saving to: ‘j.1467-7709.1977.tb00248.x’
+
+     0K .......... .......... .......... .......... .......... 65%  209K 0s
+    50K .......... .......... ......                          100% 7.32M=0.2s
+
+2017-01-28 05:34:46 (317 KB/s) - ‘j.1467-7709.1977.tb00248.x’ saved [78737/78737]
+
+--2017-01-28 05:34:47--  http://doi.org/10.1111/j.1467-7709.1977.tb00247.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00247.x [following]
+--2017-01-28 05:34:48--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1977.tb00247.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/1/4/359/449834/Containment-in-Iran-1946-The-Shift-to-an-Active?redirectedFrom=fulltext [following]
+--2017-01-28 05:34:51--  https://academic.oup.com/dh/article-abstract/1/4/359/449834/Containment-in-Iran-1946-The-Shift-to-an-Active?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78368 (77K) [text/html]
+Saving to: ‘j.1467-7709.1977.tb00247.x’
+
+     0K .......... .......... .......... .......... .......... 65%  310K 0s
+    50K .......... .......... ......                          100%  333K=0.2s
+
+2017-01-28 05:34:56 (318 KB/s) - ‘j.1467-7709.1977.tb00247.x’ saved [78368/78368]
+
+--2017-01-28 05:34:57--  http://doi.org/10.1111/diph.1978.2.issue-1
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/diph.1978.2.issue-1 [following]
+--2017-01-28 05:34:58--  http://doi.wiley.com/10.1111/diph.1978.2.issue-1
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/diph.1978.2.issue-1 [following]
+--2017-01-28 05:34:59--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/diph.1978.2.issue-1
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/diph.1978.2.issue-1/issuetoc?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 05:35:00--  http://onlinelibrary.wiley.com/doi/10.1111/diph.1978.2.issue-1/issuetoc?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘diph.1978.2.issue-1’
+
+     0K .......... .......... .......... ..........             156K=0.3s
+
+2017-01-28 05:35:02 (156 KB/s) - ‘diph.1978.2.issue-1’ saved [41667]
+
+--2017-01-28 05:35:03--  http://doi.org/10.1111/j.1467-7709.1978.tb00425.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00425.x [following]
+--2017-01-28 05:35:04--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00425.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/2/1/107/394404/The-Russian-Section-A-Window-on-the-Soviet-Union?redirectedFrom=fulltext [following]
+--2017-01-28 05:35:06--  https://academic.oup.com/dh/article-abstract/2/1/107/394404/The-Russian-Section-A-Window-on-the-Soviet-Union?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78038 (76K) [text/html]
+Saving to: ‘j.1467-7709.1978.tb00425.x’
+
+     0K .......... .......... .......... .......... .......... 65%  209K 0s
+    50K .......... .......... ......                          100% 10.2M=0.2s
+
+2017-01-28 05:35:13 (315 KB/s) - ‘j.1467-7709.1978.tb00425.x’ saved [78038/78038]
+
+--2017-01-28 05:35:14--  http://doi.org/10.1111/j.1467-7709.1978.tb00423.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00423.x [following]
+--2017-01-28 05:35:15--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00423.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/2/1/81/394428/Struggle-for-Ratification-Wilson-Lodge-and-the?redirectedFrom=fulltext [following]
+--2017-01-28 05:35:17--  https://academic.oup.com/dh/article-abstract/2/1/81/394428/Struggle-for-Ratification-Wilson-Lodge-and-the?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 77243 (75K) [text/html]
+Saving to: ‘j.1467-7709.1978.tb00423.x’
+
+     0K .......... .......... .......... .......... .......... 66%  310K 0s
+    50K .......... .......... .....                           100%  318K=0.2s
+
+2017-01-28 05:35:22 (313 KB/s) - ‘j.1467-7709.1978.tb00423.x’ saved [77243/77243]
+
+--2017-01-28 05:35:23--  http://doi.org/10.1111/j.1467-7709.1978.tb00424.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00424.x [following]
+--2017-01-28 05:35:24--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00424.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 81486 (80K) [text/html]
+Saving to: ‘j.1467-7709.1978.tb00424.x’
+
+     0K .......... .......... .......... .......... .......... 62%  208K 0s
+    50K .......... .......... .........                       100% 10.1M=0.2s
+
+2017-01-28 05:35:33 (328 KB/s) - ‘j.1467-7709.1978.tb00424.x’ saved [81486/81486]
+
+--2017-01-28 05:35:34--  http://doi.org/10.1111/j.1467-7709.1978.tb00419.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00419.x [following]
+--2017-01-28 05:35:35--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00419.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/2/1/1/394394/Anglo-American-Diplomacy-and-the-Reoccupation-of?redirectedFrom=fulltext [following]
+--2017-01-28 05:35:37--  https://academic.oup.com/dh/article-abstract/2/1/1/394394/Anglo-American-Diplomacy-and-the-Reoccupation-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78483 (77K) [text/html]
+Saving to: ‘j.1467-7709.1978.tb00419.x’
+
+     0K .......... .......... .......... .......... .......... 65%  209K 0s
+    50K .......... .......... ......                          100% 13.2M=0.2s
+
+2017-01-28 05:35:45 (318 KB/s) - ‘j.1467-7709.1978.tb00419.x’ saved [78483/78483]
+
+--2017-01-28 05:35:46--  http://doi.org/10.1111/j.1467-7709.1978.tb00421.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00421.x [following]
+--2017-01-28 05:35:47--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00421.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/2/1/43/394414/Morality-as-a-Drive-Wheel-in-the-Diplomacy-of?redirectedFrom=fulltext [following]
+--2017-01-28 05:35:49--  https://academic.oup.com/dh/article-abstract/2/1/43/394414/Morality-as-a-Drive-Wheel-in-the-Diplomacy-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://academic.oup.com/dh/article/2/1/43/394414/Morality-as-a-Drive-Wheel-in-the-Diplomacy-of [following]
+--2017-01-28 05:35:53--  https://academic.oup.com/dh/article/2/1/43/394414/Morality-as-a-Drive-Wheel-in-the-Diplomacy-of
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 146045 (143K) [text/html]
+Saving to: ‘j.1467-7709.1978.tb00421.x’
+
+     0K .......... .......... .......... .......... .......... 35%  310K 0s
+    50K .......... .......... .......... .......... .......... 70%  313K 0s
+   100K .......... .......... .......... .......... ..        100%  521K=0.4s
+
+2017-01-28 05:36:00 (354 KB/s) - ‘j.1467-7709.1978.tb00421.x’ saved [146045/146045]
+
+--2017-01-28 05:36:01--  http://doi.org/10.1111/j.1467-7709.1978.tb00422.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00422.x [following]
+--2017-01-28 05:36:02--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00422.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/2/1/63/394423/Procrastination-Diplomacy-Hannis-Taylor-and-the?redirectedFrom=fulltext [following]
+--2017-01-28 05:36:05--  https://academic.oup.com/dh/article-abstract/2/1/63/394423/Procrastination-Diplomacy-Hannis-Taylor-and-the?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78614 (77K) [text/html]
+Saving to: ‘j.1467-7709.1978.tb00422.x’
+
+     0K .......... .......... .......... .......... .......... 65%  310K 0s
+    50K .......... .......... ......                          100%  333K=0.2s
+
+2017-01-28 05:36:10 (318 KB/s) - ‘j.1467-7709.1978.tb00422.x’ saved [78614/78614]
+
+--2017-01-28 05:36:11--  http://doi.org/10.1111/j.1467-7709.1978.tb00420.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00420.x [following]
+--2017-01-28 05:36:12--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00420.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/2/1/25/394409/Closed-Hemisphere-and-Open-World-The-Dispute-Over?redirectedFrom=fulltext [following]
+--2017-01-28 05:36:14--  https://academic.oup.com/dh/article-abstract/2/1/25/394409/Closed-Hemisphere-and-Open-World-The-Dispute-Over?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 93534 (91K) [text/html]
+Saving to: ‘j.1467-7709.1978.tb00420.x’
+
+     0K .......... .......... .......... .......... .......... 54%  209K 0s
+    50K .......... .......... .......... .......... .         100% 9.71M=0.2s
+
+2017-01-28 05:36:20 (374 KB/s) - ‘j.1467-7709.1978.tb00420.x’ saved [93534/93534]
+
+--2017-01-28 05:36:21--  http://doi.org/10.1111/diph.1978.2.issue-2
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/diph.1978.2.issue-2 [following]
+--2017-01-28 05:36:22--  http://doi.wiley.com/10.1111/diph.1978.2.issue-2
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/diph.1978.2.issue-2 [following]
+--2017-01-28 05:36:24--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/diph.1978.2.issue-2
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/diph.1978.2.issue-2/issuetoc?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 05:36:25--  http://onlinelibrary.wiley.com/doi/10.1111/diph.1978.2.issue-2/issuetoc?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘diph.1978.2.issue-2’
+
+     0K .......... .......... .......... ..........             148K=0.3s
+
+2017-01-28 05:36:26 (148 KB/s) - ‘diph.1978.2.issue-2’ saved [41378]
+
+--2017-01-28 05:36:27--  http://doi.org/10.1111/j.1467-7709.1978.tb00431.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00431.x [following]
+--2017-01-28 05:36:28--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00431.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 128488 (125K) [text/html]
+Saving to: ‘j.1467-7709.1978.tb00431.x’
+
+     0K .......... .......... .......... .......... .......... 39%  207K 0s
+    50K .......... .......... .......... .......... .......... 79%  576K 0s
+   100K .......... .......... .....                           100% 15.1M=0.3s
+
+2017-01-28 05:36:35 (381 KB/s) - ‘j.1467-7709.1978.tb00431.x’ saved [128488/128488]
+
+--2017-01-28 05:36:36--  http://doi.org/10.1111/j.1467-7709.1978.tb00428.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00428.x [following]
+--2017-01-28 05:36:37--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00428.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/2/2/153/351731/The-United-States-Response-to-the-Soviet-Economic?redirectedFrom=fulltext [following]
+--2017-01-28 05:36:39--  https://academic.oup.com/dh/article-abstract/2/2/153/351731/The-United-States-Response-to-the-Soviet-Economic?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://academic.oup.com/dh/article/2/2/153/351731/The-United-States-Response-to-the-Soviet-Economic [following]
+--2017-01-28 05:36:43--  https://academic.oup.com/dh/article/2/2/153/351731/The-United-States-Response-to-the-Soviet-Economic
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 129849 (127K) [text/html]
+Saving to: ‘j.1467-7709.1978.tb00428.x’
+
+     0K .......... .......... .......... .......... .......... 39%  309K 0s
+    50K .......... .......... .......... .......... .......... 78%  311K 0s
+   100K .......... .......... ......                          100%  668K=0.4s
+
+2017-01-28 05:36:53 (350 KB/s) - ‘j.1467-7709.1978.tb00428.x’ saved [129849/129849]
+
+--2017-01-28 05:36:54--  http://doi.org/10.1111/j.1467-7709.1978.tb00430.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00430.x [following]
+--2017-01-28 05:36:55--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00430.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/2/2/181/351743/An-End-to-Indifference-America-s-Korean-Policy?redirectedFrom=fulltext [following]
+--2017-01-28 05:36:57--  https://academic.oup.com/dh/article-abstract/2/2/181/351743/An-End-to-Indifference-America-s-Korean-Policy?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78341 (77K) [text/html]
+Saving to: ‘j.1467-7709.1978.tb00430.x’
+
+     0K .......... .......... .......... .......... .......... 65%  207K 0s
+    50K .......... .......... ......                          100% 14.0M=0.2s
+
+2017-01-28 05:37:02 (314 KB/s) - ‘j.1467-7709.1978.tb00430.x’ saved [78341/78341]
+
+--2017-01-28 05:37:03--  http://doi.org/10.1111/j.1467-7709.1978.tb00432.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00432.x [following]
+--2017-01-28 05:37:04--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00432.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/2/2/213/351753/Ambassador-Philip-D-Sprouse-on-the-Question-of?redirectedFrom=fulltext [following]
+--2017-01-28 05:37:07--  https://academic.oup.com/dh/article-abstract/2/2/213/351753/Ambassador-Philip-D-Sprouse-on-the-Question-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 77511 (76K) [text/html]
+Saving to: ‘j.1467-7709.1978.tb00432.x’
+
+     0K .......... .......... .......... .......... .......... 66%  310K 0s
+    50K .......... .......... .....                           100%  323K=0.2s
+
+2017-01-28 05:37:12 (314 KB/s) - ‘j.1467-7709.1978.tb00432.x’ saved [77511/77511]
+
+--2017-01-28 05:37:13--  http://doi.org/10.1111/j.1467-7709.1978.tb00429.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00429.x [following]
+--2017-01-28 05:37:14--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00429.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/2/2/167/351734/Anthony-Eden-and-the-Truman-Molotov-Conversations?redirectedFrom=fulltext [following]
+--2017-01-28 05:37:16--  https://academic.oup.com/dh/article-abstract/2/2/167/351734/Anthony-Eden-and-the-Truman-Molotov-Conversations?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 93363 (91K) [text/html]
+Saving to: ‘j.1467-7709.1978.tb00429.x’
+
+     0K .......... .......... .......... .......... .......... 54%  209K 0s
+    50K .......... .......... .......... .......... .         100% 1016K=0.3s
+
+2017-01-28 05:37:21 (326 KB/s) - ‘j.1467-7709.1978.tb00429.x’ saved [93363/93363]
+
+--2017-01-28 05:37:22--  http://doi.org/10.1111/j.1467-7709.1978.tb00426.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00426.x [following]
+--2017-01-28 05:37:23--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00426.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/2/2/117/351717/Isolationism-and-World-Power?redirectedFrom=fulltext [following]
+--2017-01-28 05:37:25--  https://academic.oup.com/dh/article-abstract/2/2/117/351717/Isolationism-and-World-Power?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 77662 (76K) [text/html]
+Saving to: ‘j.1467-7709.1978.tb00426.x’
+
+     0K .......... .......... .......... .......... .......... 65%  209K 0s
+    50K .......... .......... .....                           100% 7.03M=0.2s
+
+2017-01-28 05:37:31 (312 KB/s) - ‘j.1467-7709.1978.tb00426.x’ saved [77662/77662]
+
+--2017-01-28 05:37:32--  http://doi.org/10.1111/j.1467-7709.1978.tb00427.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00427.x [following]
+--2017-01-28 05:37:33--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00427.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/2/2/131/351725/Anglo-American-Economic-Rivalry-in-Brazil-During?redirectedFrom=fulltext [following]
+--2017-01-28 05:37:36--  https://academic.oup.com/dh/article-abstract/2/2/131/351725/Anglo-American-Economic-Rivalry-in-Brazil-During?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 93363 (91K) [text/html]
+Saving to: ‘j.1467-7709.1978.tb00427.x’
+
+     0K .......... .......... .......... .......... .......... 54%  209K 0s
+    50K .......... .......... .......... .......... .         100%  516K=0.3s
+
+2017-01-28 05:37:42 (286 KB/s) - ‘j.1467-7709.1978.tb00427.x’ saved [93363/93363]
+
+--2017-01-28 05:37:43--  http://doi.org/10.1111/diph.1978.2.issue-3
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/diph.1978.2.issue-3 [following]
+--2017-01-28 05:37:44--  http://doi.wiley.com/10.1111/diph.1978.2.issue-3
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/diph.1978.2.issue-3 [following]
+--2017-01-28 05:37:45--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/diph.1978.2.issue-3
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/diph.1978.2.issue-3/issuetoc?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 05:37:47--  http://onlinelibrary.wiley.com/doi/10.1111/diph.1978.2.issue-3/issuetoc?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘diph.1978.2.issue-3’
+
+     0K .......... .......... .......... .......... ..          164K=0.3s
+
+2017-01-28 05:37:47 (164 KB/s) - ‘diph.1978.2.issue-3’ saved [43654]
+
+--2017-01-28 05:37:48--  http://doi.org/10.1111/j.1467-7709.1978.tb00433.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00433.x [following]
+--2017-01-28 05:37:50--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00433.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/2/3/219/337450/Racial-Anglo-Saxonism-and-the-American-Response-to?redirectedFrom=fulltext [following]
+--2017-01-28 05:37:52--  https://academic.oup.com/dh/article-abstract/2/3/219/337450/Racial-Anglo-Saxonism-and-the-American-Response-to?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78245 (76K) [text/html]
+Saving to: ‘j.1467-7709.1978.tb00433.x’
+
+     0K .......... .......... .......... .......... .......... 65%  209K 0s
+    50K .......... .......... ......                          100% 10.1M=0.2s
+
+2017-01-28 05:37:57 (316 KB/s) - ‘j.1467-7709.1978.tb00433.x’ saved [78245/78245]
+
+--2017-01-28 05:37:58--  http://doi.org/10.1111/j.1467-7709.1978.tb00437.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00437.x [following]
+--2017-01-28 05:37:59--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00437.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/2/3/295/337461/Reflections-on-a-Toothless-Revisionism?redirectedFrom=fulltext [following]
+--2017-01-28 05:38:03--  https://academic.oup.com/dh/article-abstract/2/3/295/337461/Reflections-on-a-Toothless-Revisionism?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78173 (76K) [text/html]
+Saving to: ‘j.1467-7709.1978.tb00437.x’
+
+     0K .......... .......... .......... .......... .......... 65%  209K 0s
+    50K .......... .......... ......                          100% 9.67M=0.2s
+
+2017-01-28 05:38:08 (316 KB/s) - ‘j.1467-7709.1978.tb00437.x’ saved [78173/78173]
+
+--2017-01-28 05:38:09--  http://doi.org/10.1111/j.1467-7709.1978.tb00438.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00438.x [following]
+--2017-01-28 05:38:10--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00438.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/2/3/307/337465/George-F-Kennan-s-Report-on-Latin-America-1950?redirectedFrom=fulltext [following]
+--2017-01-28 05:38:13--  https://academic.oup.com/dh/article-abstract/2/3/307/337465/George-F-Kennan-s-Report-on-Latin-America-1950?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76843 (75K) [text/html]
+Saving to: ‘j.1467-7709.1978.tb00438.x’
+
+     0K .......... .......... .......... .......... .......... 66%  209K 0s
+    50K .......... .......... .....                           100% 10.0M=0.2s
+
+2017-01-28 05:38:20 (310 KB/s) - ‘j.1467-7709.1978.tb00438.x’ saved [76843/76843]
+
+--2017-01-28 05:38:21--  http://doi.org/10.1111/j.1467-7709.1978.tb00440.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00440.x [following]
+--2017-01-28 05:38:22--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00440.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/2/3/321/337475/Eisenhower-Dulles-and-the-Nuclear-Test-Ban-Issue?redirectedFrom=fulltext [following]
+--2017-01-28 05:38:24--  https://academic.oup.com/dh/article-abstract/2/3/321/337475/Eisenhower-Dulles-and-the-Nuclear-Test-Ban-Issue?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78634 (77K) [text/html]
+Saving to: ‘j.1467-7709.1978.tb00440.x’
+
+     0K .......... .......... .......... .......... .......... 65%  210K 0s
+    50K .......... .......... ......                          100% 9.61M=0.2s
+
+2017-01-28 05:38:30 (318 KB/s) - ‘j.1467-7709.1978.tb00440.x’ saved [78634/78634]
+
+--2017-01-28 05:38:31--  http://doi.org/10.1111/j.1467-7709.1978.tb00439.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00439.x [following]
+--2017-01-28 05:38:32--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00439.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/2/3/313/337471/John-Adams-on-the-Drafting-of-the-Treaty-Plan-of?redirectedFrom=fulltext [following]
+--2017-01-28 05:38:35--  https://academic.oup.com/dh/article-abstract/2/3/313/337471/John-Adams-on-the-Drafting-of-the-Treaty-Plan-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78180 (76K) [text/html]
+Saving to: ‘j.1467-7709.1978.tb00439.x’
+
+     0K .......... .......... .......... .......... .......... 65%  209K 0s
+    50K .......... .......... ......                          100% 11.8M=0.2s
+
+2017-01-28 05:38:41 (316 KB/s) - ‘j.1467-7709.1978.tb00439.x’ saved [78180/78180]
+
+--2017-01-28 05:38:42--  http://doi.org/10.1111/j.1467-7709.1978.tb00435.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00435.x [following]
+--2017-01-28 05:38:43--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00435.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/2/3/257/337454/Human-Rights-in-History-Diplomacy-and-Racial?redirectedFrom=fulltext [following]
+--2017-01-28 05:38:46--  https://academic.oup.com/dh/article-abstract/2/3/257/337454/Human-Rights-in-History-Diplomacy-and-Racial?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78560 (77K) [text/html]
+Saving to: ‘j.1467-7709.1978.tb00435.x’
+
+     0K .......... .......... .......... .......... .......... 65%  209K 0s
+    50K .......... .......... ......                          100% 11.0M=0.2s
+
+2017-01-28 05:38:50 (318 KB/s) - ‘j.1467-7709.1978.tb00435.x’ saved [78560/78560]
+
+--2017-01-28 05:38:51--  http://doi.org/10.1111/j.1467-7709.1978.tb00436.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00436.x [following]
+--2017-01-28 05:38:52--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00436.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/2/3/279/337457/The-Elusive-Conference-United-States-Economic?redirectedFrom=fulltext [following]
+--2017-01-28 05:38:54--  https://academic.oup.com/dh/article-abstract/2/3/279/337457/The-Elusive-Conference-United-States-Economic?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78839 (77K) [text/html]
+Saving to: ‘j.1467-7709.1978.tb00436.x’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... ......                          100% 9.80M=0.2s
+
+2017-01-28 05:38:58 (319 KB/s) - ‘j.1467-7709.1978.tb00436.x’ saved [78839/78839]
+
+--2017-01-28 05:38:59--  http://doi.org/10.1111/j.1467-7709.1978.tb00434.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00434.x [following]
+--2017-01-28 05:39:00--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00434.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/2/3/237/337453/The-Search-for-a-Democratic-Russia-Bakhmetev-and?redirectedFrom=fulltext [following]
+--2017-01-28 05:39:03--  https://academic.oup.com/dh/article-abstract/2/3/237/337453/The-Search-for-a-Democratic-Russia-Bakhmetev-and?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78439 (77K) [text/html]
+Saving to: ‘j.1467-7709.1978.tb00434.x’
+
+     0K .......... .......... .......... .......... .......... 65%  310K 0s
+    50K .......... .......... ......                          100%  330K=0.2s
+
+2017-01-28 05:39:12 (317 KB/s) - ‘j.1467-7709.1978.tb00434.x’ saved [78439/78439]
+
+--2017-01-28 05:39:13--  http://doi.org/10.1111/diph.1978.2.issue-4
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/diph.1978.2.issue-4 [following]
+--2017-01-28 05:39:15--  http://doi.wiley.com/10.1111/diph.1978.2.issue-4
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/diph.1978.2.issue-4 [following]
+--2017-01-28 05:39:16--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/diph.1978.2.issue-4
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/diph.1978.2.issue-4/issuetoc?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 05:39:17--  http://onlinelibrary.wiley.com/doi/10.1111/diph.1978.2.issue-4/issuetoc?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘diph.1978.2.issue-4’
+
+     0K .......... .......... .......... ........               148K=0.3s
+
+2017-01-28 05:39:18 (148 KB/s) - ‘diph.1978.2.issue-4’ saved [39581]
+
+--2017-01-28 05:39:19--  http://doi.org/10.1111/j.1467-7709.1978.tb00442.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00442.x [following]
+--2017-01-28 05:39:20--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00442.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/2/4/351/403618/Angle-American-Aircraft-Competition-and-the-China?redirectedFrom=fulltext [following]
+--2017-01-28 05:39:22--  https://academic.oup.com/dh/article-abstract/2/4/351/403618/Angle-American-Aircraft-Competition-and-the-China?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78626 (77K) [text/html]
+Saving to: ‘j.1467-7709.1978.tb00442.x’
+
+     0K .......... .......... .......... .......... .......... 65%  208K 0s
+    50K .......... .......... ......                          100% 10.3M=0.2s
+
+2017-01-28 05:39:28 (317 KB/s) - ‘j.1467-7709.1978.tb00442.x’ saved [78626/78626]
+
+--2017-01-28 05:39:29--  http://doi.org/10.1111/j.1467-7709.1978.tb00443.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00443.x [following]
+--2017-01-28 05:39:30--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00443.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/2/4/373/403626/Prentiss-Gilbert-s-Mission-to-the-League-of?redirectedFrom=fulltext [following]
+--2017-01-28 05:39:32--  https://academic.oup.com/dh/article-abstract/2/4/373/403626/Prentiss-Gilbert-s-Mission-to-the-League-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78317 (76K) [text/html]
+Saving to: ‘j.1467-7709.1978.tb00443.x’
+
+     0K .......... .......... .......... .......... .......... 65%  209K 0s
+    50K .......... .......... ......                          100% 8.99M=0.2s
+
+2017-01-28 05:39:38 (316 KB/s) - ‘j.1467-7709.1978.tb00443.x’ saved [78317/78317]
+
+--2017-01-28 05:39:39--  http://doi.org/10.1111/j.1467-7709.1978.tb00444.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00444.x [following]
+--2017-01-28 05:39:40--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00444.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/2/4/389/403635/Considerations-of-Force-in-Cordell-Hull-s?redirectedFrom=fulltext [following]
+--2017-01-28 05:39:43--  https://academic.oup.com/dh/article-abstract/2/4/389/403635/Considerations-of-Force-in-Cordell-Hull-s?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78384 (77K) [text/html]
+Saving to: ‘j.1467-7709.1978.tb00444.x’
+
+     0K .......... .......... .......... .......... .......... 65%  310K 0s
+    50K .......... .......... ......                          100%  331K=0.2s
+
+2017-01-28 05:39:48 (317 KB/s) - ‘j.1467-7709.1978.tb00444.x’ saved [78384/78384]
+
+--2017-01-28 05:39:49--  http://doi.org/10.1111/j.1467-7709.1978.tb00446.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00446.x [following]
+--2017-01-28 05:39:50--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00446.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/2/4/423/403653/Kennan-Bohlen-and-the-Riga-Axioms?redirectedFrom=fulltext [following]
+--2017-01-28 05:39:52--  https://academic.oup.com/dh/article-abstract/2/4/423/403653/Kennan-Bohlen-and-the-Riga-Axioms?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 77816 (76K) [text/html]
+Saving to: ‘j.1467-7709.1978.tb00446.x’
+
+     0K .......... .......... .......... .......... .......... 65%  209K 0s
+    50K .......... .......... .....                           100% 9.31M=0.2s
+
+2017-01-28 05:39:58 (315 KB/s) - ‘j.1467-7709.1978.tb00446.x’ saved [77816/77816]
+
+--2017-01-28 05:39:59--  http://doi.org/10.1111/j.1467-7709.1978.tb00445.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00445.x [following]
+--2017-01-28 05:40:00--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00445.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/2/4/407/403644/The-American-Decision-to-Assist-Tito-1948-1949?redirectedFrom=fulltext [following]
+--2017-01-28 05:40:02--  https://academic.oup.com/dh/article-abstract/2/4/407/403644/The-American-Decision-to-Assist-Tito-1948-1949?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78181 (76K) [text/html]
+Saving to: ‘j.1467-7709.1978.tb00445.x’
+
+     0K .......... .......... .......... .......... .......... 65%  209K 0s
+    50K .......... .......... ......                          100% 11.9M=0.2s
+
+2017-01-28 05:40:08 (317 KB/s) - ‘j.1467-7709.1978.tb00445.x’ saved [78181/78181]
+
+--2017-01-28 05:40:09--  http://doi.org/10.1111/j.1467-7709.1978.tb00441.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00441.x [following]
+--2017-01-28 05:40:10--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1978.tb00441.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/2/4/331/403612/The-First-American-Commitment-in-Indochina-The?redirectedFrom=fulltext [following]
+--2017-01-28 05:40:14--  https://academic.oup.com/dh/article-abstract/2/4/331/403612/The-First-American-Commitment-in-Indochina-The?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78773 (77K) [text/html]
+Saving to: ‘j.1467-7709.1978.tb00441.x’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... ......                          100% 11.1M=0.2s
+
+2017-01-28 05:40:20 (318 KB/s) - ‘j.1467-7709.1978.tb00441.x’ saved [78773/78773]
+
+--2017-01-28 05:40:21--  http://doi.org/10.1111/diph.1979.3.issue-1
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/diph.1979.3.issue-1 [following]
+--2017-01-28 05:40:22--  http://doi.wiley.com/10.1111/diph.1979.3.issue-1
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/diph.1979.3.issue-1 [following]
+--2017-01-28 05:40:23--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/diph.1979.3.issue-1
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/diph.1979.3.issue-1/issuetoc?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 05:40:24--  http://onlinelibrary.wiley.com/doi/10.1111/diph.1979.3.issue-1/issuetoc?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘diph.1979.3.issue-1’
+
+     0K .......... .......... .......... ..........             156K=0.3s
+
+2017-01-28 05:40:25 (156 KB/s) - ‘diph.1979.3.issue-1’ saved [41914]
+
+--2017-01-28 05:40:26--  http://doi.org/10.1111/j.1467-7709.1979.tb00303.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00303.x [following]
+--2017-01-28 05:40:27--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00303.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 130648 (128K) [text/html]
+Saving to: ‘j.1467-7709.1979.tb00303.x’
+
+     0K .......... .......... .......... .......... .......... 39%  309K 0s
+    50K .......... .......... .......... .......... .......... 78%  311K 0s
+   100K .......... .......... .......                         100%  355K=0.4s
+
+2017-01-28 05:40:36 (319 KB/s) - ‘j.1467-7709.1979.tb00303.x’ saved [130648/130648]
+
+--2017-01-28 05:40:37--  http://doi.org/10.1111/j.1467-7709.1979.tb00298.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00298.x [following]
+--2017-01-28 05:40:38--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00298.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/3/1/1/353572/Presidential-Foreign-Policy-Public-Opinion-and?redirectedFrom=fulltext [following]
+--2017-01-28 05:40:41--  https://academic.oup.com/dh/article-abstract/3/1/1/353572/Presidential-Foreign-Policy-Public-Opinion-and?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://academic.oup.com/dh/article/3/1/1/353572/Presidential-Foreign-Policy-Public-Opinion-and [following]
+--2017-01-28 05:40:44--  https://academic.oup.com/dh/article/3/1/1/353572/Presidential-Foreign-Policy-Public-Opinion-and
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/3/1/1/353572/Presidential-Foreign-Policy-Public-Opinion-and?redirectedFrom=fulltext [following]
+--2017-01-28 05:40:46--  https://academic.oup.com/dh/article-abstract/3/1/1/353572/Presidential-Foreign-Policy-Public-Opinion-and?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 81432 (80K) [text/html]
+Saving to: ‘j.1467-7709.1979.tb00298.x’
+
+     0K .......... .......... .......... .......... .......... 62%  310K 0s
+    50K .......... .......... .........                       100%  368K=0.2s
+
+2017-01-28 05:40:50 (330 KB/s) - ‘j.1467-7709.1979.tb00298.x’ saved [81432/81432]
+
+--2017-01-28 05:40:51--  http://doi.org/10.1111/j.1467-7709.1979.tb00304.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00304.x [following]
+--2017-01-28 05:40:52--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00304.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/3/1/114/353578/Contributors?redirectedFrom=fulltext [following]
+--2017-01-28 05:40:55--  https://academic.oup.com/dh/article-abstract/3/1/114/353578/Contributors?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 74360 (73K) [text/html]
+Saving to: ‘j.1467-7709.1979.tb00304.x’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ..                              100% 9.90M=0.2s
+
+2017-01-28 05:41:00 (301 KB/s) - ‘j.1467-7709.1979.tb00304.x’ saved [74360/74360]
+
+--2017-01-28 05:41:01--  http://doi.org/10.1111/j.1467-7709.1979.tb00302.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00302.x [following]
+--2017-01-28 05:41:02--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00302.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/3/1/77/353601/William-McKinley-and-the-Coming-of-the-Spanish?redirectedFrom=fulltext [following]
+--2017-01-28 05:41:04--  https://academic.oup.com/dh/article-abstract/3/1/77/353601/William-McKinley-and-the-Coming-of-the-Spanish?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 96172 (94K) [text/html]
+Saving to: ‘j.1467-7709.1979.tb00302.x’
+
+     0K .......... .......... .......... .......... .......... 53%  310K 0s
+    50K .......... .......... .......... .......... ...       100%  278K=0.3s
+
+2017-01-28 05:41:11 (294 KB/s) - ‘j.1467-7709.1979.tb00302.x’ saved [96172/96172]
+
+--2017-01-28 05:41:12--  http://doi.org/10.1111/j.1467-7709.1979.tb00299.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00299.x [following]
+--2017-01-28 05:41:13--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00299.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/3/1/19/353583/Sugar-Coated-Diplomacy-Horace-Allen-and-Korean?redirectedFrom=fulltext [following]
+--2017-01-28 05:41:15--  https://academic.oup.com/dh/article-abstract/3/1/19/353583/Sugar-Coated-Diplomacy-Horace-Allen-and-Korean?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 80810 (79K) [text/html]
+Saving to: ‘j.1467-7709.1979.tb00299.x’
+
+     0K .......... .......... .......... .......... .......... 63%  209K 0s
+    50K .......... .......... ........                        100% 11.8M=0.2s
+
+2017-01-28 05:41:21 (327 KB/s) - ‘j.1467-7709.1979.tb00299.x’ saved [80810/80810]
+
+--2017-01-28 05:41:22--  http://doi.org/10.1111/j.1467-7709.1979.tb00300.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00300.x [following]
+--2017-01-28 05:41:23--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00300.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/3/1/39/353588/Hiram-Bingham-and-his-Obsolete-Shibboleth?redirectedFrom=fulltext [following]
+--2017-01-28 05:41:25--  https://academic.oup.com/dh/article-abstract/3/1/39/353588/Hiram-Bingham-and-his-Obsolete-Shibboleth?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 80425 (79K) [text/html]
+Saving to: ‘j.1467-7709.1979.tb00300.x’
+
+     0K .......... .......... .......... .......... .......... 63%  310K 0s
+    50K .......... .......... ........                        100%  351K=0.2s
+
+2017-01-28 05:41:31 (324 KB/s) - ‘j.1467-7709.1979.tb00300.x’ saved [80425/80425]
+
+--2017-01-28 05:41:32--  http://doi.org/10.1111/j.1467-7709.1979.tb00301.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00301.x [following]
+--2017-01-28 05:41:33--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00301.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/3/1/59/353595/Brazil-the-United-States-and-World-War-II-A?redirectedFrom=fulltext [following]
+--2017-01-28 05:41:35--  https://academic.oup.com/dh/article-abstract/3/1/59/353595/Brazil-the-United-States-and-World-War-II-A?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 80715 (79K) [text/html]
+Saving to: ‘j.1467-7709.1979.tb00301.x’
+
+     0K .......... .......... .......... .......... .......... 63%  209K 0s
+    50K .......... .......... ........                        100% 10.2M=0.2s
+
+2017-01-28 05:41:39 (326 KB/s) - ‘j.1467-7709.1979.tb00301.x’ saved [80715/80715]
+
+--2017-01-28 05:41:41--  http://doi.org/10.1111/diph.1979.3.issue-2
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/diph.1979.3.issue-2 [following]
+--2017-01-28 05:41:42--  http://doi.wiley.com/10.1111/diph.1979.3.issue-2
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/diph.1979.3.issue-2 [following]
+--2017-01-28 05:41:43--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/diph.1979.3.issue-2
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/diph.1979.3.issue-2/issuetoc?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 05:41:44--  http://onlinelibrary.wiley.com/doi/10.1111/diph.1979.3.issue-2/issuetoc?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘diph.1979.3.issue-2’
+
+     0K .......... .......... .......... .......... ....        160K=0.3s
+
+2017-01-28 05:41:45 (160 KB/s) - ‘diph.1979.3.issue-2’ saved [45112]
+
+--2017-01-28 05:41:46--  http://doi.org/10.1111/j.1467-7709.1979.tb00308.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00308.x [following]
+--2017-01-28 05:41:47--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00308.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/3/2/173/400915/Whitehall-and-the-Ghost-of-Appeasement-November?redirectedFrom=fulltext [following]
+--2017-01-28 05:41:49--  https://academic.oup.com/dh/article-abstract/3/2/173/400915/Whitehall-and-the-Ghost-of-Appeasement-November?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 79915 (78K) [text/html]
+Saving to: ‘j.1467-7709.1979.tb00308.x’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... ........                        100% 9.40M=0.2s
+
+2017-01-28 05:41:53 (323 KB/s) - ‘j.1467-7709.1979.tb00308.x’ saved [79915/79915]
+
+--2017-01-28 05:41:54--  http://doi.org/10.1111/j.1467-7709.1979.tb00310.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00310.x [following]
+--2017-01-28 05:41:55--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00310.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/3/2/201/400938/Charles-E-Bohlen-and-the-Acceptable-Limits-of?redirectedFrom=fulltext [following]
+--2017-01-28 05:41:58--  https://academic.oup.com/dh/article-abstract/3/2/201/400938/Charles-E-Bohlen-and-the-Acceptable-Limits-of?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 80978 (79K) [text/html]
+Saving to: ‘j.1467-7709.1979.tb00310.x’
+
+     0K .......... .......... .......... .......... .......... 63%  306K 0s
+    50K .......... .......... .........                       100%  364K=0.2s
+
+2017-01-28 05:42:03 (325 KB/s) - ‘j.1467-7709.1979.tb00310.x’ saved [80978/80978]
+
+--2017-01-28 05:42:04--  http://doi.org/10.1111/j.1467-7709.1979.tb00313.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00313.x [following]
+--2017-01-28 05:42:05--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00313.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/3/2/249/400966/Contributors?redirectedFrom=fulltext [following]
+--2017-01-28 05:42:08--  https://academic.oup.com/dh/article-abstract/3/2/249/400966/Contributors?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 74581 (73K) [text/html]
+Saving to: ‘j.1467-7709.1979.tb00313.x’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ..                              100% 9.48M=0.2s
+
+2017-01-28 05:42:14 (302 KB/s) - ‘j.1467-7709.1979.tb00313.x’ saved [74581/74581]
+
+--2017-01-28 05:42:15--  http://doi.org/10.1111/j.1467-7709.1979.tb00306.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00306.x [following]
+--2017-01-28 05:42:16--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00306.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/3/2/129/400887/American-Policy-Toward-Greece-During-World-War-II?redirectedFrom=fulltext [following]
+--2017-01-28 05:42:18--  https://academic.oup.com/dh/article-abstract/3/2/129/400887/American-Policy-Toward-Greece-During-World-War-II?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 80608 (79K) [text/html]
+Saving to: ‘j.1467-7709.1979.tb00306.x’
+
+     0K .......... .......... .......... .......... .......... 63%  209K 0s
+    50K .......... .......... ........                        100% 8.71M=0.2s
+
+2017-01-28 05:42:23 (325 KB/s) - ‘j.1467-7709.1979.tb00306.x’ saved [80608/80608]
+
+--2017-01-28 05:42:24--  http://doi.org/10.1111/j.1467-7709.1979.tb00309.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00309.x [following]
+--2017-01-28 05:42:25--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00309.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/3/2/193/400926/The-Reick-Telegram-and-the-Spanish-American-War-A?redirectedFrom=fulltext [following]
+--2017-01-28 05:42:28--  https://academic.oup.com/dh/article-abstract/3/2/193/400926/The-Reick-Telegram-and-the-Spanish-American-War-A?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://academic.oup.com/dh/article/3/2/193/400926/The-Reick-Telegram-and-the-Spanish-American-War-A [following]
+--2017-01-28 05:42:31--  https://academic.oup.com/dh/article/3/2/193/400926/The-Reick-Telegram-and-the-Spanish-American-War-A
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/3/2/193/400926/The-Reick-Telegram-and-the-Spanish-American-War-A?redirectedFrom=fulltext [following]
+--2017-01-28 05:42:32--  https://academic.oup.com/dh/article-abstract/3/2/193/400926/The-Reick-Telegram-and-the-Spanish-American-War-A?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 79703 (78K) [text/html]
+Saving to: ‘j.1467-7709.1979.tb00309.x’
+
+     0K .......... .......... .......... .......... .......... 64%  311K 0s
+    50K .......... .......... .......                         100%  348K=0.2s
+
+2017-01-28 05:42:37 (323 KB/s) - ‘j.1467-7709.1979.tb00309.x’ saved [79703/79703]
+
+--2017-01-28 05:42:38--  http://doi.org/10.1111/j.1467-7709.1979.tb00307.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00307.x [following]
+--2017-01-28 05:42:39--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00307.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/3/2/151/400899/Gallatin-Jefferson-and-the-Embargo-of-1808?redirectedFrom=fulltext [following]
+--2017-01-28 05:42:42--  https://academic.oup.com/dh/article-abstract/3/2/151/400899/Gallatin-Jefferson-and-the-Embargo-of-1808?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 79780 (78K) [text/html]
+Saving to: ‘j.1467-7709.1979.tb00307.x’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... .......                         100% 11.9M=0.2s
+
+2017-01-28 05:42:49 (323 KB/s) - ‘j.1467-7709.1979.tb00307.x’ saved [79780/79780]
+
+--2017-01-28 05:42:50--  http://doi.org/10.1111/j.1467-7709.1979.tb00312.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00312.x [following]
+--2017-01-28 05:42:51--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00312.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/3/2/231/400950/Doctoral-Dissertations-in-United-States-Foreign?redirectedFrom=fulltext [following]
+--2017-01-28 05:42:54--  https://academic.oup.com/dh/article-abstract/3/2/231/400950/Doctoral-Dissertations-in-United-States-Foreign?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 79733 (78K) [text/html]
+Saving to: ‘j.1467-7709.1979.tb00312.x’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... .......                         100% 9.55M=0.2s
+
+2017-01-28 05:42:57 (322 KB/s) - ‘j.1467-7709.1979.tb00312.x’ saved [79733/79733]
+
+--2017-01-28 05:42:58--  http://doi.org/10.1111/j.1467-7709.1979.tb00311.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00311.x [following]
+--2017-01-28 05:43:00--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00311.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/3/2/215/400947/When-Do-I-Have-Time-to-Think-John-F-Kennedy-Roger?redirectedFrom=fulltext [following]
+--2017-01-28 05:43:02--  https://academic.oup.com/dh/article-abstract/3/2/215/400947/When-Do-I-Have-Time-to-Think-John-F-Kennedy-Roger?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 80432 (79K) [text/html]
+Saving to: ‘j.1467-7709.1979.tb00311.x’
+
+     0K .......... .......... .......... .......... .......... 63%  209K 0s
+    50K .......... .......... ........                        100% 10.7M=0.2s
+
+2017-01-28 05:43:06 (324 KB/s) - ‘j.1467-7709.1979.tb00311.x’ saved [80432/80432]
+
+--2017-01-28 05:43:07--  http://doi.org/10.1111/j.1467-7709.1979.tb00305.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00305.x [following]
+--2017-01-28 05:43:08--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00305.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/3/2/115/400880/Culture-and-Power-International-Relations-as?redirectedFrom=fulltext [following]
+--2017-01-28 05:43:11--  https://academic.oup.com/dh/article-abstract/3/2/115/400880/Culture-and-Power-International-Relations-as?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 81297 (79K) [text/html]
+Saving to: ‘j.1467-7709.1979.tb00305.x’
+
+     0K .......... .......... .......... .......... .......... 62%  206K 0s
+    50K .......... .......... .........                       100% 8.05M=0.2s
+
+2017-01-28 05:43:16 (323 KB/s) - ‘j.1467-7709.1979.tb00305.x’ saved [81297/81297]
+
+--2017-01-28 05:43:17--  http://doi.org/10.1111/diph.1979.3.issue-3
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/diph.1979.3.issue-3 [following]
+--2017-01-28 05:43:18--  http://doi.wiley.com/10.1111/diph.1979.3.issue-3
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/diph.1979.3.issue-3 [following]
+--2017-01-28 05:43:19--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/diph.1979.3.issue-3
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/diph.1979.3.issue-3/issuetoc?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 05:43:21--  http://onlinelibrary.wiley.com/doi/10.1111/diph.1979.3.issue-3/issuetoc?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘diph.1979.3.issue-3’
+
+     0K .......... .......... .......... .......... ..          130K=0.3s
+
+2017-01-28 05:43:21 (130 KB/s) - ‘diph.1979.3.issue-3’ saved [43205]
+
+--2017-01-28 05:43:22--  http://doi.org/10.1111/j.1467-7709.1979.tb00316.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00316.x [following]
+--2017-01-28 05:43:24--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00316.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/3/3/283/366389/Midwestern-Newspapers-and-Isolationist-Sentiment?redirectedFrom=fulltext [following]
+--2017-01-28 05:43:26--  https://academic.oup.com/dh/article-abstract/3/3/283/366389/Midwestern-Newspapers-and-Isolationist-Sentiment?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 79738 (78K) [text/html]
+Saving to: ‘j.1467-7709.1979.tb00316.x’
+
+     0K .......... .......... .......... .......... .......... 64%  208K 0s
+    50K .......... .......... .......                         100% 7.61M=0.2s
+
+2017-01-28 05:43:31 (319 KB/s) - ‘j.1467-7709.1979.tb00316.x’ saved [79738/79738]
+
+--2017-01-28 05:43:32--  http://doi.org/10.1111/j.1467-7709.1979.tb00318.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00318.x [following]
+--2017-01-28 05:43:33--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00318.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/3/3/321/366397/George-Washington-s-Policy-Toward-the-Haitian?redirectedFrom=fulltext [following]
+--2017-01-28 05:43:35--  https://academic.oup.com/dh/article-abstract/3/3/321/366397/George-Washington-s-Policy-Toward-the-Haitian?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 79961 (78K) [text/html]
+Saving to: ‘j.1467-7709.1979.tb00318.x’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... ........                        100% 9.24M=0.2s
+
+2017-01-28 05:43:44 (322 KB/s) - ‘j.1467-7709.1979.tb00318.x’ saved [79961/79961]
+
+--2017-01-28 05:43:45--  http://doi.org/10.1111/j.1467-7709.1979.tb00315.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00315.x [following]
+--2017-01-28 05:43:46--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00315.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/3/3/273/366386/The-Battle-of-New-Orleans-and-the-Treaty-of-Ghent?redirectedFrom=fulltext [following]
+--2017-01-28 05:43:48--  https://academic.oup.com/dh/article-abstract/3/3/273/366386/The-Battle-of-New-Orleans-and-the-Treaty-of-Ghent?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78901 (77K) [text/html]
+Saving to: ‘j.1467-7709.1979.tb00315.x’
+
+     0K .......... .......... .......... .......... .......... 64%  206K 0s
+    50K .......... .......... .......                         100% 9.12M=0.2s
+
+2017-01-28 05:43:54 (314 KB/s) - ‘j.1467-7709.1979.tb00315.x’ saved [78901/78901]
+
+--2017-01-28 05:43:55--  http://doi.org/10.1111/j.1467-7709.1979.tb00320.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00320.x [following]
+--2017-01-28 05:43:56--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00320.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/3/3/345/366404/When-Is-A-Document-Not-A-Document-And-Other?redirectedFrom=fulltext [following]
+--2017-01-28 05:43:59--  https://academic.oup.com/dh/article-abstract/3/3/345/366404/When-Is-A-Document-Not-A-Document-And-Other?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78903 (77K) [text/html]
+Saving to: ‘j.1467-7709.1979.tb00320.x’
+
+     0K .......... .......... .......... .......... .......... 64%  208K 0s
+    50K .......... .......... .......                         100% 9.60M=0.2s
+
+2017-01-28 05:44:06 (317 KB/s) - ‘j.1467-7709.1979.tb00320.x’ saved [78903/78903]
+
+--2017-01-28 05:44:07--  http://doi.org/10.1111/j.1467-7709.1979.tb00314.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00314.x [following]
+--2017-01-28 05:44:09--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00314.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/3/3/249/366385/American-Labor-s-Cold-War-in-Occupied-Japan?redirectedFrom=fulltext [following]
+--2017-01-28 05:44:11--  https://academic.oup.com/dh/article-abstract/3/3/249/366385/American-Labor-s-Cold-War-in-Occupied-Japan?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78835 (77K) [text/html]
+Saving to: ‘j.1467-7709.1979.tb00314.x’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... ......                          100% 10.1M=0.2s
+
+2017-01-28 05:44:17 (318 KB/s) - ‘j.1467-7709.1979.tb00314.x’ saved [78835/78835]
+
+--2017-01-28 05:44:18--  http://doi.org/10.1111/j.1467-7709.1979.tb00317.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00317.x [following]
+--2017-01-28 05:44:19--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00317.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/3/3/307/366393/The-British-Foreign-Office-View-of-Soviet-American?redirectedFrom=fulltext [following]
+--2017-01-28 05:44:22--  https://academic.oup.com/dh/article-abstract/3/3/307/366393/The-British-Foreign-Office-View-of-Soviet-American?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 79940 (78K) [text/html]
+Saving to: ‘j.1467-7709.1979.tb00317.x’
+
+     0K .......... .......... .......... .......... .......... 64%  207K 0s
+    50K .......... .......... ........                        100% 10.5M=0.2s
+
+2017-01-28 05:44:28 (320 KB/s) - ‘j.1467-7709.1979.tb00317.x’ saved [79940/79940]
+
+--2017-01-28 05:44:29--  http://doi.org/10.1111/j.1467-7709.1979.tb00321.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00321.x [following]
+--2017-01-28 05:44:30--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00321.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/3/3/349/366408/Contributors?redirectedFrom=fulltext [following]
+--2017-01-28 05:44:32--  https://academic.oup.com/dh/article-abstract/3/3/349/366408/Contributors?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 72851 (71K) [text/html]
+Saving to: ‘j.1467-7709.1979.tb00321.x’
+
+     0K .......... .......... .......... .......... .......... 70%  209K 0s
+    50K .......... .......... .                               100% 5.62M=0.2s
+
+2017-01-28 05:44:40 (293 KB/s) - ‘j.1467-7709.1979.tb00321.x’ saved [72851/72851]
+
+--2017-01-28 05:44:41--  http://doi.org/10.1111/j.1467-7709.1979.tb00319.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00319.x [following]
+--2017-01-28 05:44:42--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00319.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/3/3/337/366399/The-Resignation-of-Secretary-of-State-Robert?redirectedFrom=fulltext [following]
+--2017-01-28 05:44:45--  https://academic.oup.com/dh/article-abstract/3/3/337/366399/The-Resignation-of-Secretary-of-State-Robert?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 79413 (78K) [text/html]
+Saving to: ‘j.1467-7709.1979.tb00319.x’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... .......                         100% 6.89M=0.2s
+
+2017-01-28 05:44:51 (319 KB/s) - ‘j.1467-7709.1979.tb00319.x’ saved [79413/79413]
+
+--2017-01-28 05:44:52--  http://doi.org/10.1111/diph.1979.3.issue-4
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/diph.1979.3.issue-4 [following]
+--2017-01-28 05:44:54--  http://doi.wiley.com/10.1111/diph.1979.3.issue-4
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/diph.1979.3.issue-4 [following]
+--2017-01-28 05:44:55--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/diph.1979.3.issue-4
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/diph.1979.3.issue-4/issuetoc?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 05:44:56--  http://onlinelibrary.wiley.com/doi/10.1111/diph.1979.3.issue-4/issuetoc?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘diph.1979.3.issue-4’
+
+     0K .......... .......... .......... .......... ...         159K=0.3s
+
+2017-01-28 05:44:57 (159 KB/s) - ‘diph.1979.3.issue-4’ saved [44426]
+
+--2017-01-28 05:44:58--  http://doi.org/10.1111/j.1467-7709.1979.tb00322.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00322.x [following]
+--2017-01-28 05:44:59--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00322.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/3/4/349/371014/A-New-Look-at-American-Mediation-in-the-Chinese?redirectedFrom=fulltext [following]
+--2017-01-28 05:45:01--  https://academic.oup.com/dh/article-abstract/3/4/349/371014/A-New-Look-at-American-Mediation-in-the-Chinese?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 95758 (94K) [text/html]
+Saving to: ‘j.1467-7709.1979.tb00322.x’
+
+     0K .......... .......... .......... .......... .......... 53%  207K 0s
+    50K .......... .......... .......... .......... ...       100%  540K=0.3s
+
+2017-01-28 05:45:07 (291 KB/s) - ‘j.1467-7709.1979.tb00322.x’ saved [95758/95758]
+
+--2017-01-28 05:45:08--  http://doi.org/10.1111/j.1467-7709.1979.tb00324.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00324.x [following]
+--2017-01-28 05:45:09--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00324.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/3/4/391/371021/The-Second-World-War-and-U-S-Politico-Economic?redirectedFrom=fulltext [following]
+--2017-01-28 05:45:12--  https://academic.oup.com/dh/article-abstract/3/4/391/371021/The-Second-World-War-and-U-S-Politico-Economic?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 80432 (79K) [text/html]
+Saving to: ‘j.1467-7709.1979.tb00324.x’
+
+     0K .......... .......... .......... .......... .......... 63%  209K 0s
+    50K .......... .......... ........                        100% 8.26M=0.2s
+
+2017-01-28 05:45:17 (324 KB/s) - ‘j.1467-7709.1979.tb00324.x’ saved [80432/80432]
+
+--2017-01-28 05:45:18--  http://doi.org/10.1111/j.1467-7709.1979.tb00328.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00328.x [following]
+--2017-01-28 05:45:19--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00328.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/3/4/443/371041/The-Meaning-of-TOLSTOY-Churchill-Stalin-And-The?redirectedFrom=fulltext [following]
+--2017-01-28 05:45:22--  https://academic.oup.com/dh/article-abstract/3/4/443/371041/The-Meaning-of-TOLSTOY-Churchill-Stalin-And-The?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 80309 (78K) [text/html]
+Saving to: ‘j.1467-7709.1979.tb00328.x’
+
+     0K .......... .......... .......... .......... .......... 63%  209K 0s
+    50K .......... .......... ........                        100% 10.1M=0.2s
+
+2017-01-28 05:45:27 (324 KB/s) - ‘j.1467-7709.1979.tb00328.x’ saved [80309/80309]
+
+--2017-01-28 05:45:28--  http://doi.org/10.1111/j.1467-7709.1979.tb00325.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00325.x [following]
+--2017-01-28 05:45:29--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00325.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/3/4/413/371027/Lend-Lease-For-Saudi-Arabia-A-Comment-On?redirectedFrom=fulltext [following]
+--2017-01-28 05:45:32--  https://academic.oup.com/dh/article-abstract/3/4/413/371027/Lend-Lease-For-Saudi-Arabia-A-Comment-On?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 79128 (77K) [text/html]
+Saving to: ‘j.1467-7709.1979.tb00325.x’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... .......                         100% 11.4M=0.2s
+
+2017-01-28 05:45:37 (320 KB/s) - ‘j.1467-7709.1979.tb00325.x’ saved [79128/79128]
+
+--2017-01-28 05:45:38--  http://doi.org/10.1111/j.1467-7709.1979.tb00329.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00329.x [following]
+--2017-01-28 05:45:39--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00329.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/3/4/445/371045/Record-of-Meeting-at-the-Kremlin-Moscow-9th?redirectedFrom=fulltext [following]
+--2017-01-28 05:45:41--  https://academic.oup.com/dh/article-abstract/3/4/445/371045/Record-of-Meeting-at-the-Kremlin-Moscow-9th?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75573 (74K) [text/html]
+Saving to: ‘j.1467-7709.1979.tb00329.x’
+
+     0K .......... .......... .......... .......... .......... 67%  209K 0s
+    50K .......... .......... ...                             100% 13.6M=0.2s
+
+2017-01-28 05:45:46 (306 KB/s) - ‘j.1467-7709.1979.tb00329.x’ saved [75573/75573]
+
+--2017-01-28 05:45:47--  http://doi.org/10.1111/j.1467-7709.1979.tb00327.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00327.x [following]
+--2017-01-28 05:45:48--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00327.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/3/4/439/371035/Rating-DeConde-s-Stable-of-Diplomatic-Historians?redirectedFrom=fulltext [following]
+--2017-01-28 05:45:51--  https://academic.oup.com/dh/article-abstract/3/4/439/371035/Rating-DeConde-s-Stable-of-Diplomatic-Historians?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78476 (77K) [text/html]
+Saving to: ‘j.1467-7709.1979.tb00327.x’
+
+     0K .......... .......... .......... .......... .......... 65%  207K 0s
+    50K .......... .......... ......                          100% 11.3M=0.2s
+
+2017-01-28 05:45:56 (314 KB/s) - ‘j.1467-7709.1979.tb00327.x’ saved [78476/78476]
+
+--2017-01-28 05:45:57--  http://doi.org/10.1111/j.1467-7709.1979.tb00323.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00323.x [following]
+--2017-01-28 05:45:58--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00323.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/3/4/377/371017/Outlawing-War-Internationalism-and-the-Pact-of?redirectedFrom=fulltext [following]
+--2017-01-28 05:46:00--  https://academic.oup.com/dh/article-abstract/3/4/377/371017/Outlawing-War-Internationalism-and-the-Pact-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 80021 (78K) [text/html]
+Saving to: ‘j.1467-7709.1979.tb00323.x’
+
+     0K .......... .......... .......... .......... .......... 63%  209K 0s
+    50K .......... .......... ........                        100% 11.1M=0.2s
+
+2017-01-28 05:46:06 (324 KB/s) - ‘j.1467-7709.1979.tb00323.x’ saved [80021/80021]
+
+--2017-01-28 05:46:07--  http://doi.org/10.1111/j.1467-7709.1979.tb00330.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00330.x [following]
+--2017-01-28 05:46:08--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00330.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/3/4/464/371048/Contributors?redirectedFrom=fulltext [following]
+--2017-01-28 05:46:11--  https://academic.oup.com/dh/article-abstract/3/4/464/371048/Contributors?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 74581 (73K) [text/html]
+Saving to: ‘j.1467-7709.1979.tb00330.x’
+
+     0K .......... .......... .......... .......... .......... 68%  310K 0s
+    50K .......... .......... ..                              100%  286K=0.2s
+
+2017-01-28 05:46:16 (302 KB/s) - ‘j.1467-7709.1979.tb00330.x’ saved [74581/74581]
+
+--2017-01-28 05:46:17--  http://doi.org/10.1111/j.1467-7709.1979.tb00326.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00326.x [following]
+--2017-01-28 05:46:18--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1979.tb00326.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/3/4/425/371030/An-Irony-Of-Fate-Woodrow-Wilson-s-Pre-World-War-I?redirectedFrom=fulltext [following]
+--2017-01-28 05:46:20--  https://academic.oup.com/dh/article-abstract/3/4/425/371030/An-Irony-Of-Fate-Woodrow-Wilson-s-Pre-World-War-I?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 80204 (78K) [text/html]
+Saving to: ‘j.1467-7709.1979.tb00326.x’
+
+     0K .......... .......... .......... .......... .......... 63%  209K 0s
+    50K .......... .......... ........                        100% 11.1M=0.2s
+
+2017-01-28 05:46:27 (324 KB/s) - ‘j.1467-7709.1979.tb00326.x’ saved [80204/80204]
+
+--2017-01-28 05:46:28--  http://doi.org/10.1111/diph.1980.4.issue-1
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/diph.1980.4.issue-1 [following]
+--2017-01-28 05:46:29--  http://doi.wiley.com/10.1111/diph.1980.4.issue-1
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/diph.1980.4.issue-1 [following]
+--2017-01-28 05:46:30--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/diph.1980.4.issue-1
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/diph.1980.4.issue-1/issuetoc?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 05:46:31--  http://onlinelibrary.wiley.com/doi/10.1111/diph.1980.4.issue-1/issuetoc?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘diph.1980.4.issue-1’
+
+     0K .......... .......... .......... ..........             154K=0.3s
+
+2017-01-28 05:46:32 (154 KB/s) - ‘diph.1980.4.issue-1’ saved [41053]
+
+--2017-01-28 05:46:33--  http://doi.org/10.1111/j.1467-7709.1980.tb00337.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1980.tb00337.x [following]
+--2017-01-28 05:46:34--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1980.tb00337.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/4/1/95/357059/The-Taking-of-the-Panama-Canal-Zone-Myth-and?redirectedFrom=fulltext [following]
+--2017-01-28 05:46:37--  https://academic.oup.com/dh/article-abstract/4/1/95/357059/The-Taking-of-the-Panama-Canal-Zone-Myth-and?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 77162 (75K) [text/html]
+Saving to: ‘j.1467-7709.1980.tb00337.x’
+
+     0K .......... .......... .......... .......... .......... 66%  209K 0s
+    50K .......... .......... .....                           100% 9.88M=0.2s
+
+2017-01-28 05:46:43 (311 KB/s) - ‘j.1467-7709.1980.tb00337.x’ saved [77162/77162]
+
+--2017-01-28 05:46:44--  http://doi.org/10.1111/j.1467-7709.1980.tb00333.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1980.tb00333.x [following]
+--2017-01-28 05:46:45--  https://academic.oup.com/dh/article-lookup/doi/10.1111/j.1467-7709.1980.tb00333.x
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /dh/article-abstract/4/1/19/357024/Militant-Internationalists-The-League-of-Nations?redirectedFrom=fulltext [following]
+--2017-01-28 05:46:47--  https://academic.oup.com/dh/article-abstract/4/1/19/357024/Militant-Internationalists-The-League-of-Nations?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 77803 (76K) [text/html]
+Saving to: ‘j.1467-7709.1980.tb00333.x’
+
+     0K .......... .......... .......... .......... .......... 65%  208K 0s
+    50K .......... .......... .....                           100% 9.16M=0.2s
+
+2017-01-28 05:46:52 (313 KB/s) - ‘j.1467-7709.1980.tb00333.x’ saved [77803/77803]
+
+FINISHED --2017-01-28 05:46:52--
+Total wall clock time: 16m 43s
+Downloaded: 100 files, 7.3M in 26s (293 KB/s)

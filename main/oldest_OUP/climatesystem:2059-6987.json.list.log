@@ -1,0 +1,116 @@
+--2017-01-28 01:54:34--  http://doi.org/10.1093/climsys/dzv001
+Resolving doi.org (doi.org)... 208.254.38.90, 38.100.138.163, 95.138.171.129, ...
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/climatesystem/article-lookup/doi/10.1093/climsys/dzv001 [following]
+--2017-01-28 01:54:36--  https://academic.oup.com/climatesystem/article-lookup/doi/10.1093/climsys/dzv001
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 90882 (89K) [text/html]
+Saving to: ‘dzv001’
+
+     0K .......... .......... .......... .......... .......... 56%  209K 0s
+    50K .......... .......... .......... ........             100% 9.77M=0.2s
+
+2017-01-28 01:54:42 (365 KB/s) - ‘dzv001’ saved [90882/90882]
+
+--2017-01-28 01:54:43--  http://doi.org/10.1093/climsys/dzw001
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/climatesystem/article-lookup/doi/10.1093/climsys/dzw001 [following]
+--2017-01-28 01:54:44--  https://academic.oup.com/climatesystem/article-lookup/doi/10.1093/climsys/dzw001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 308811 (302K) [text/html]
+Saving to: ‘dzw001’
+
+     0K .......... .......... .......... .......... .......... 16%  310K 1s
+    50K .......... .......... .......... .......... .......... 33%  315K 1s
+   100K .......... .......... .......... .......... .......... 49%  608K 0s
+   150K .......... .......... .......... .......... .......... 66%  604K 0s
+   200K .......... .......... .......... .......... .......... 82%  314K 0s
+   250K .......... .......... .......... .......... .......... 99%  614K 0s
+   300K .                                                     100% 6.01M=0.7s
+
+2017-01-28 01:54:47 (415 KB/s) - ‘dzw001’ saved [308811/308811]
+
+--2017-01-28 01:54:48--  http://doi.org/10.1093/climsys/dzw002
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/climatesystem/article-lookup/doi/10.1093/climsys/dzw002 [following]
+--2017-01-28 01:54:50--  https://academic.oup.com/climatesystem/article-lookup/doi/10.1093/climsys/dzw002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 266120 (260K) [text/html]
+Saving to: ‘dzw002’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 38%  610K 1s
+   100K .......... .......... .......... .......... .......... 57%  613K 0s
+   150K .......... .......... .......... .......... .......... 76%  315K 0s
+   200K .......... .......... .......... .......... .......... 96%  602K 0s
+   250K .........                                             100% 11.1M=0.6s
+
+2017-01-28 01:55:00 (403 KB/s) - ‘dzw002’ saved [266120/266120]
+
+--2017-01-28 01:55:01--  http://doi.org/10.1093/climsys/dzw004
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://climatesystem.oxfordjournals.org/lookup/doi/10.1093/climsys/dzw004 [following]
+--2017-01-28 01:55:02--  http://climatesystem.oxfordjournals.org/lookup/doi/10.1093/climsys/dzw004
+Resolving climatesystem.oxfordjournals.org (climatesystem.oxfordjournals.org)... 209.135.222.209
+Connecting to climatesystem.oxfordjournals.org (climatesystem.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from climatesystem.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/climatesystem/article/doi/10.1093/climsys/dzw004/2562885/Beyond-bifurcation-using-complex-models-to [following]
+--2017-01-28 01:55:04--  https://academic.oup.com/climatesystem/article/doi/10.1093/climsys/dzw004/2562885/Beyond-bifurcation-using-complex-models-to
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 898512 (877K) [text/html]
+Saving to: ‘dzw004’
+
+     0K .......... .......... .......... .......... ..........  5%  209K 4s
+    50K .......... .......... .......... .......... .......... 11%  611K 2s
+   100K .......... .......... .......... .......... .......... 17%  606K 2s
+   150K .......... .......... .......... .......... .......... 22%  602K 2s
+   200K .......... .......... .......... .......... .......... 28%  315K 2s
+   250K .......... .......... .......... .......... .......... 34%  603K 1s
+   300K .......... .......... .......... .......... .......... 39%  602K 1s
+   350K .......... .......... .......... .......... .......... 45%  604K 1s
+   400K .......... .......... .......... .......... .......... 51%  319K 1s
+   450K .......... .......... .......... .......... .......... 56%  599K 1s
+   500K .......... .......... .......... .......... .......... 62%  589K 1s
+   550K .......... .......... .......... .......... .......... 68%  319K 1s
+   600K .......... .......... .......... .......... .......... 74%  606K 1s
+   650K .......... .......... .......... .......... .......... 79%  315K 0s
+   700K .......... .......... .......... .......... .......... 85%  601K 0s
+   750K .......... .......... .......... .......... .......... 91%  612K 0s
+   800K .......... .......... .......... .......... .......... 96%  604K 0s
+   850K .......... .......... .......                         100%  346K=1.9s
+
+2017-01-28 01:55:12 (451 KB/s) - ‘dzw004’ saved [898512/898512]
+
+--2017-01-28 01:55:13--  http://doi.org/10.1093/climsys/dzw006
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://climatesystem.oxfordjournals.org/lookup/doi/10.1093/climsys/dzw006 [following]
+--2017-01-28 01:55:14--  http://climatesystem.oxfordjournals.org/lookup/doi/10.1093/climsys/dzw006
+Connecting to climatesystem.oxfordjournals.org (climatesystem.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from climatesystem.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/climatesystem/article/doi/10.1093/climsys/dzw006/2912162/Characterising-the-changing-behaviour-of-heatwaves [following]
+--2017-01-28 01:55:16--  https://academic.oup.com/climatesystem/article/doi/10.1093/climsys/dzw006/2912162/Characterising-the-changing-behaviour-of-heatwaves
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 74780 (73K) [text/html]
+Saving to: ‘dzw006’
+
+     0K .......... .......... .......... .......... .......... 68%  200K 0s
+    50K .......... .......... ...                             100% 13.6M=0.3s
+
+2017-01-28 01:55:19 (290 KB/s) - ‘dzw006’ saved [74780/74780]
+
+FINISHED --2017-01-28 01:55:19--
+Total wall clock time: 44s
+Downloaded: 5 files, 1.6M in 3.8s (420 KB/s)

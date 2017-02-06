@@ -1,0 +1,1514 @@
+--2017-01-27 18:02:26--  http://doi.org/10.1111/(issn)1467-9264
+Resolving doi.org (doi.org)... 38.100.138.163, 208.254.38.90, 54.191.229.235, ...
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/(ISSN)1467-9264 [following]
+--2017-01-27 18:02:27--  http://doi.wiley.com/10.1111/(ISSN)1467-9264
+Resolving doi.wiley.com (doi.wiley.com)... 199.171.202.200
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/(ISSN)1467-9264 [following]
+--2017-01-27 18:02:29--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/(ISSN)1467-9264
+Resolving onlinelibrary.wiley.com (onlinelibrary.wiley.com)... 199.171.202.195
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-9264;jsessionid=C09B8CEFAC48E3130E66A27B1DB86028.f03t02?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-27 18:02:30--  http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-9264;jsessionid=C09B8CEFAC48E3130E66A27B1DB86028.f03t02?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘(issn)1467-9264’
+
+     0K .......... .......... .......... .......                135K=0.3s
+
+2017-01-27 18:02:31 (135 KB/s) - ‘(issn)1467-9264’ saved [38385]
+
+--2017-01-27 18:02:32--  http://doi.org/10.1093/ulr/os-1.1.71
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/ulr/article-lookup/doi/10.1093/ulr/os-1.1.71 [following]
+--2017-01-27 18:02:33--  https://academic.oup.com/ulr/article-lookup/doi/10.1093/ulr/os-1.1.71
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 78561 (77K) [text/html]
+Saving to: ‘os-1.1.71’
+
+     0K .......... .......... .......... .......... .......... 65%  209K 0s
+    50K .......... .......... ......                          100% 10.0M=0.2s
+
+2017-01-27 18:02:37 (317 KB/s) - ‘os-1.1.71’ saved [78561/78561]
+
+--2017-01-27 18:02:38--  http://doi.org/10.1093/ulr/os-1.1.95
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.1.95 [following]
+--2017-01-27 18:02:39--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.1.95
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64965 (63K) [text/html]
+Saving to: ‘os-1.1.95’
+
+     0K .......... .......... .......... .......... .......... 78%  307K 0s
+    50K .......... ...                                        100%  171K=0.2s
+
+2017-01-27 18:02:43 (263 KB/s) - ‘os-1.1.95’ saved [64965/64965]
+
+--2017-01-27 18:02:44--  http://doi.org/10.1093/ulr/os-1.1.72
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.1.72 [following]
+--2017-01-27 18:02:45--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.1.72
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65225 (64K) [text/html]
+Saving to: ‘os-1.1.72’
+
+     0K .......... .......... .......... .......... .......... 78%  209K 0s
+    50K .......... ...                                        100% 16.3M=0.2s
+
+2017-01-27 18:02:49 (265 KB/s) - ‘os-1.1.72’ saved [65225/65225]
+
+--2017-01-27 18:02:50--  http://doi.org/10.1093/ulr/os-1.1.74
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.1.74 [following]
+--2017-01-27 18:02:52--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.1.74
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65318 (64K) [text/html]
+Saving to: ‘os-1.1.74’
+
+     0K .......... .......... .......... .......... .......... 78%  308K 0s
+    50K .......... ...                                        100%  176K=0.2s
+
+2017-01-27 18:02:56 (265 KB/s) - ‘os-1.1.74’ saved [65318/65318]
+
+--2017-01-27 18:02:57--  http://doi.org/10.1093/ulr/os-1.1.69
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.1.69 [following]
+--2017-01-27 18:02:58--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.1.69
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 81560 (80K) [text/html]
+Saving to: ‘os-1.1.69’
+
+     0K .......... .......... .......... .......... .......... 62%  309K 0s
+    50K .......... .......... .........                       100%  371K=0.2s
+
+2017-01-27 18:03:03 (329 KB/s) - ‘os-1.1.69’ saved [81560/81560]
+
+--2017-01-27 18:03:04--  http://doi.org/10.1093/ulr/os-1.1.33
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.1.33 [following]
+--2017-01-27 18:03:05--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.1.33
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 81812 (80K) [text/html]
+Saving to: ‘os-1.1.33’
+
+     0K .......... .......... .......... .......... .......... 62%  209K 0s
+    50K .......... .......... .........                       100% 9.86M=0.2s
+
+2017-01-27 18:03:10 (329 KB/s) - ‘os-1.1.33’ saved [81812/81812]
+
+--2017-01-27 18:03:11--  http://doi.org/10.1093/ulr/os-1.1.5
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.1.5 [following]
+--2017-01-27 18:03:12--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.1.5
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64829 (63K) [text/html]
+Saving to: ‘os-1.1.5’
+
+     0K .......... .......... .......... .......... .......... 78%  208K 0s
+    50K .......... ...                                        100% 16.5M=0.2s
+
+2017-01-27 18:03:17 (263 KB/s) - ‘os-1.1.5’ saved [64829/64829]
+
+--2017-01-27 18:03:18--  http://doi.org/10.1093/ulr/os-1.1.92
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.1.92 [following]
+--2017-01-27 18:03:19--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.1.92
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79627 (78K) [text/html]
+Saving to: ‘os-1.1.92’
+
+     0K .......... .......... .......... .......... .......... 64%  208K 0s
+    50K .......... .......... .......                         100% 7.47M=0.2s
+
+2017-01-27 18:03:24 (318 KB/s) - ‘os-1.1.92’ saved [79627/79627]
+
+--2017-01-27 18:03:25--  http://doi.org/10.1093/ulr/os-1.1.54
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.1.54 [following]
+--2017-01-27 18:03:26--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.1.54
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65005 (63K) [text/html]
+Saving to: ‘os-1.1.54’
+
+     0K .......... .......... .......... .......... .......... 78%  209K 0s
+    50K .......... ...                                        100% 10.5M=0.2s
+
+2017-01-27 18:03:29 (264 KB/s) - ‘os-1.1.54’ saved [65005/65005]
+
+--2017-01-27 18:03:30--  http://doi.org/10.1093/ulr/os-1.2.47
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.2.47 [following]
+--2017-01-27 18:03:31--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.2.47
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 81716 (80K) [text/html]
+Saving to: ‘os-1.2.47’
+
+     0K .......... .......... .......... .......... .......... 62%  209K 0s
+    50K .......... .......... .........                       100% 10.2M=0.2s
+
+2017-01-27 18:03:37 (329 KB/s) - ‘os-1.2.47’ saved [81716/81716]
+
+--2017-01-27 18:03:38--  http://doi.org/10.1093/ulr/os-1.2.28
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.2.28 [following]
+--2017-01-27 18:03:39--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.2.28
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66625 (65K) [text/html]
+Saving to: ‘os-1.2.28’
+
+     0K .......... .......... .......... .......... .......... 76%  209K 0s
+    50K .......... .....                                      100% 18.0M=0.2s
+
+2017-01-27 18:03:42 (271 KB/s) - ‘os-1.2.28’ saved [66625/66625]
+
+--2017-01-27 18:03:43--  http://doi.org/10.1093/ulr/os-1.2.77
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.2.77 [following]
+--2017-01-27 18:03:44--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.2.77
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66724 (65K) [text/html]
+Saving to: ‘os-1.2.77’
+
+     0K .......... .......... .......... .......... .......... 76%  310K 0s
+    50K .......... .....                                      100%  193K=0.2s
+
+2017-01-27 18:03:48 (271 KB/s) - ‘os-1.2.77’ saved [66724/66724]
+
+--2017-01-27 18:03:49--  http://doi.org/10.1093/ulr/os-1.2.97
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.2.97 [following]
+--2017-01-27 18:03:50--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.2.97
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66912 (65K) [text/html]
+Saving to: ‘os-1.2.97’
+
+     0K .......... .......... .......... .......... .......... 76%  209K 0s
+    50K .......... .....                                      100% 11.3M=0.2s
+
+2017-01-27 18:03:54 (272 KB/s) - ‘os-1.2.97’ saved [66912/66912]
+
+--2017-01-27 18:03:55--  http://doi.org/10.1093/ulr/os-1.3.1
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.3.1 [following]
+--2017-01-27 18:03:56--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.3.1
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66884 (65K) [text/html]
+Saving to: ‘os-1.3.1’
+
+     0K .......... .......... .......... .......... .......... 76%  208K 0s
+    50K .......... .....                                      100% 13.8M=0.2s
+
+2017-01-27 18:04:01 (271 KB/s) - ‘os-1.3.1’ saved [66884/66884]
+
+--2017-01-27 18:04:02--  http://doi.org/10.1093/ulr/os-1.3.77
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.3.77 [following]
+--2017-01-27 18:04:03--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.3.77
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66554 (65K) [text/html]
+Saving to: ‘os-1.3.77’
+
+     0K .......... .......... .......... .......... .......... 76%  308K 0s
+    50K .......... ....                                       100%  192K=0.2s
+
+2017-01-27 18:04:07 (270 KB/s) - ‘os-1.3.77’ saved [66554/66554]
+
+--2017-01-27 18:04:08--  http://doi.org/10.1093/ulr/os-1.3.98
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.3.98 [following]
+--2017-01-27 18:04:10--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.3.98
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 81656 (80K) [text/html]
+Saving to: ‘os-1.3.98’
+
+     0K .......... .......... .......... .......... .......... 62%  209K 0s
+    50K .......... .......... .........                       100% 14.2M=0.2s
+
+2017-01-27 18:04:14 (330 KB/s) - ‘os-1.3.98’ saved [81656/81656]
+
+--2017-01-27 18:04:15--  http://doi.org/10.1093/ulr/os-1.3.32
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.3.32 [following]
+--2017-01-27 18:04:16--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.3.32
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 81416 (80K) [text/html]
+Saving to: ‘os-1.3.32’
+
+     0K .......... .......... .......... .......... .......... 62%  209K 0s
+    50K .......... .......... .........                       100% 11.5M=0.2s
+
+2017-01-27 18:04:21 (329 KB/s) - ‘os-1.3.32’ saved [81416/81416]
+
+--2017-01-27 18:04:22--  http://doi.org/10.1093/ulr/os-1.3.92
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.3.92 [following]
+--2017-01-27 18:04:23--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.3.92
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66896 (65K) [text/html]
+Saving to: ‘os-1.3.92’
+
+     0K .......... .......... .......... .......... .......... 76%  209K 0s
+    50K .......... .....                                      100% 14.7M=0.2s
+
+2017-01-27 18:04:29 (271 KB/s) - ‘os-1.3.92’ saved [66896/66896]
+
+--2017-01-27 18:04:30--  http://doi.org/10.1093/ulr/os-1.3.129
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.3.129 [following]
+--2017-01-27 18:04:31--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.3.129
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66136 (65K) [text/html]
+Saving to: ‘os-1.3.129’
+
+     0K .......... .......... .......... .......... .......... 77%  309K 0s
+    50K .......... ....                                       100%  186K=0.2s
+
+2017-01-27 18:04:34 (269 KB/s) - ‘os-1.3.129’ saved [66136/66136]
+
+--2017-01-27 18:04:35--  http://doi.org/10.1093/ulr/os-1.2.136
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.2.136 [following]
+--2017-01-27 18:04:36--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.2.136
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79934 (78K) [text/html]
+Saving to: ‘os-1.2.136’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... ........                        100% 7.86M=0.2s
+
+2017-01-27 18:04:41 (322 KB/s) - ‘os-1.2.136’ saved [79934/79934]
+
+--2017-01-27 18:04:42--  http://doi.org/10.1093/ulr/os-1.3.158
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.3.158 [following]
+--2017-01-27 18:04:43--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.3.158
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65042 (64K) [text/html]
+Saving to: ‘os-1.3.158’
+
+     0K .......... .......... .......... .......... .......... 78%  208K 0s
+    50K .......... ...                                        100% 13.4M=0.2s
+
+2017-01-27 18:04:46 (263 KB/s) - ‘os-1.3.158’ saved [65042/65042]
+
+--2017-01-27 18:04:47--  http://doi.org/10.1093/ulr/os-1.2.40
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.2.40 [following]
+--2017-01-27 18:04:48--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.2.40
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66352 (65K) [text/html]
+Saving to: ‘os-1.2.40’
+
+     0K .......... .......... .......... .......... .......... 77%  205K 0s
+    50K .......... ....                                       100% 13.7M=0.2s
+
+2017-01-27 18:04:51 (265 KB/s) - ‘os-1.2.40’ saved [66352/66352]
+
+--2017-01-27 18:04:52--  http://doi.org/10.1093/ulr/os-1.2.61
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.2.61 [following]
+--2017-01-27 18:04:53--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.2.61
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64997 (63K) [text/html]
+Saving to: ‘os-1.2.61’
+
+     0K .......... .......... .......... .......... .......... 78%  208K 0s
+    50K .......... ...                                        100% 17.6M=0.2s
+
+2017-01-27 18:04:57 (264 KB/s) - ‘os-1.2.61’ saved [64997/64997]
+
+--2017-01-27 18:04:58--  http://doi.org/10.1093/ulr/os-1.3.81
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.3.81 [following]
+--2017-01-27 18:04:59--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.3.81
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66626 (65K) [text/html]
+Saving to: ‘os-1.3.81’
+
+     0K .......... .......... .......... .......... .......... 76%  209K 0s
+    50K .......... .....                                      100% 17.3M=0.2s
+
+2017-01-27 18:05:02 (271 KB/s) - ‘os-1.3.81’ saved [66626/66626]
+
+--2017-01-27 18:05:03--  http://doi.org/10.1093/ulr/os-1.3.49
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.3.49 [following]
+--2017-01-27 18:05:05--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.3.49
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66614 (65K) [text/html]
+Saving to: ‘os-1.3.49’
+
+     0K .......... .......... .......... .......... .......... 76%  208K 0s
+    50K .......... .....                                      100% 19.5M=0.2s
+
+2017-01-27 18:05:08 (270 KB/s) - ‘os-1.3.49’ saved [66614/66614]
+
+--2017-01-27 18:05:09--  http://doi.org/10.1093/ulr/os-1.3.161
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.3.161 [following]
+--2017-01-27 18:05:10--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.3.161
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79623 (78K) [text/html]
+Saving to: ‘os-1.3.161’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... .......                         100% 11.4M=0.2s
+
+2017-01-27 18:05:18 (322 KB/s) - ‘os-1.3.161’ saved [79623/79623]
+
+--2017-01-27 18:05:19--  http://doi.org/10.1093/ulr/os-1.2.139
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.2.139 [following]
+--2017-01-27 18:05:20--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.2.139
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64705 (63K) [text/html]
+Saving to: ‘os-1.2.139’
+
+     0K .......... .......... .......... .......... .......... 79%  307K 0s
+    50K .......... ...                                        100%  168K=0.2s
+
+2017-01-27 18:05:25 (262 KB/s) - ‘os-1.2.139’ saved [64705/64705]
+
+--2017-01-27 18:05:26--  http://doi.org/10.1093/ulr/os-1.3.117
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.3.117 [following]
+--2017-01-27 18:05:27--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.3.117
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66425 (65K) [text/html]
+Saving to: ‘os-1.3.117’
+
+     0K .......... .......... .......... .......... .......... 77%  209K 0s
+    50K .......... ....                                       100% 12.8M=0.2s
+
+2017-01-27 18:05:30 (270 KB/s) - ‘os-1.3.117’ saved [66425/66425]
+
+--2017-01-27 18:05:31--  http://doi.org/10.1093/ulr/os-1.3.163
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.3.163 [following]
+--2017-01-27 18:05:33--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.3.163
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64685 (63K) [text/html]
+Saving to: ‘os-1.3.163’
+
+     0K .......... .......... .......... .......... .......... 79%  206K 0s
+    50K .......... ...                                        100% 17.1M=0.2s
+
+2017-01-27 18:05:36 (260 KB/s) - ‘os-1.3.163’ saved [64685/64685]
+
+--2017-01-27 18:05:37--  http://doi.org/10.1093/ulr/os-1.3.82
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.3.82 [following]
+--2017-01-27 18:05:38--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.3.82
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66393 (65K) [text/html]
+Saving to: ‘os-1.3.82’
+
+     0K .......... .......... .......... .......... .......... 77%  251K 0s
+    50K .......... ....                                       100%  191K=0.3s
+
+2017-01-27 18:05:43 (234 KB/s) - ‘os-1.3.82’ saved [66393/66393]
+
+--2017-01-27 18:05:44--  http://doi.org/10.1093/ulr/os-1.3.142
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.3.142 [following]
+--2017-01-27 18:05:45--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.3.142
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 67138 (66K) [text/html]
+Saving to: ‘os-1.3.142’
+
+     0K .......... .......... .......... .......... .......... 76%  209K 0s
+    50K .......... .....                                      100% 14.2M=0.2s
+
+2017-01-27 18:05:49 (272 KB/s) - ‘os-1.3.142’ saved [67138/67138]
+
+--2017-01-27 18:05:50--  http://doi.org/10.1093/ulr/os-1.2.142
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.2.142 [following]
+--2017-01-27 18:05:51--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.2.142
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64969 (63K) [text/html]
+Saving to: ‘os-1.2.142’
+
+     0K .......... .......... .......... .......... .......... 78%  209K 0s
+    50K .......... ...                                        100% 13.9M=0.2s
+
+2017-01-27 18:05:54 (265 KB/s) - ‘os-1.2.142’ saved [64969/64969]
+
+--2017-01-27 18:05:55--  http://doi.org/10.1093/ulr/os-1.2.5
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.2.5 [following]
+--2017-01-27 18:05:57--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.2.5
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 67279 (66K) [text/html]
+Saving to: ‘os-1.2.5’
+
+     0K .......... .......... .......... .......... .......... 76%  208K 0s
+    50K .......... .....                                      100% 12.2M=0.2s
+
+2017-01-27 18:06:00 (272 KB/s) - ‘os-1.2.5’ saved [67279/67279]
+
+--2017-01-27 18:06:01--  http://doi.org/10.1093/ulr/os-1.2.134
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.2.134 [following]
+--2017-01-27 18:06:02--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.2.134
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65157 (64K) [text/html]
+Saving to: ‘os-1.2.134’
+
+     0K .......... .......... .......... .......... .......... 78%  209K 0s
+    50K .......... ...                                        100% 14.8M=0.2s
+
+2017-01-27 18:06:05 (265 KB/s) - ‘os-1.2.134’ saved [65157/65157]
+
+--2017-01-27 18:06:06--  http://doi.org/10.1093/ulr/os-1.2.110
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.2.110 [following]
+--2017-01-27 18:06:07--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.2.110
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66403 (65K) [text/html]
+Saving to: ‘os-1.2.110’
+
+     0K .......... .......... .......... .......... .......... 77%  209K 0s
+    50K .......... ....                                       100% 18.9M=0.2s
+
+2017-01-27 18:06:10 (270 KB/s) - ‘os-1.2.110’ saved [66403/66403]
+
+--2017-01-27 18:06:11--  http://doi.org/10.1093/ulr/os-1.2.119
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.2.119 [following]
+--2017-01-27 18:06:12--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.2.119
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64817 (63K) [text/html]
+Saving to: ‘os-1.2.119’
+
+     0K .......... .......... .......... .......... .......... 78%  209K 0s
+    50K .......... ...                                        100% 13.8M=0.2s
+
+2017-01-27 18:06:16 (263 KB/s) - ‘os-1.2.119’ saved [64817/64817]
+
+--2017-01-27 18:06:17--  http://doi.org/10.1093/ulr/os-1.3.166
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.3.166 [following]
+--2017-01-27 18:06:18--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.3.166
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64969 (63K) [text/html]
+Saving to: ‘os-1.3.166’
+
+     0K .......... .......... .......... .......... .......... 78%  207K 0s
+    50K .......... ...                                        100% 14.2M=0.2s
+
+2017-01-27 18:06:21 (262 KB/s) - ‘os-1.3.166’ saved [64969/64969]
+
+--2017-01-27 18:06:22--  http://doi.org/10.1093/ulr/os-1.4.138
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.4.138 [following]
+--2017-01-27 18:06:23--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.4.138
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64707 (63K) [text/html]
+Saving to: ‘os-1.4.138’
+
+     0K .......... .......... .......... .......... .......... 79%  206K 0s
+    50K .......... ...                                        100% 12.4M=0.2s
+
+2017-01-27 18:06:27 (259 KB/s) - ‘os-1.4.138’ saved [64707/64707]
+
+--2017-01-27 18:06:28--  http://doi.org/10.1093/ulr/os-1.4.41
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.4.41 [following]
+--2017-01-27 18:06:29--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.4.41
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 81268 (79K) [text/html]
+Saving to: ‘os-1.4.41’
+
+     0K .......... .......... .......... .......... .......... 63%  209K 0s
+    50K .......... .......... .........                       100% 13.1M=0.2s
+
+2017-01-27 18:06:38 (329 KB/s) - ‘os-1.4.41’ saved [81268/81268]
+
+--2017-01-27 18:06:39--  http://doi.org/10.1093/ulr/os-1.4.74
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.4.74 [following]
+--2017-01-27 18:06:40--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.4.74
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66520 (65K) [text/html]
+Saving to: ‘os-1.4.74’
+
+     0K .......... .......... .......... .......... .......... 76%  209K 0s
+    50K .......... ....                                       100% 14.8M=0.2s
+
+2017-01-27 18:06:44 (270 KB/s) - ‘os-1.4.74’ saved [66520/66520]
+
+--2017-01-27 18:06:45--  http://doi.org/10.1093/ulr/os-1.4.22
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.4.22 [following]
+--2017-01-27 18:06:46--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.4.22
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66425 (65K) [text/html]
+Saving to: ‘os-1.4.22’
+
+     0K .......... .......... .......... .......... .......... 77%  208K 0s
+    50K .......... ....                                       100% 16.4M=0.2s
+
+2017-01-27 18:06:49 (269 KB/s) - ‘os-1.4.22’ saved [66425/66425]
+
+--2017-01-27 18:06:50--  http://doi.org/10.1093/ulr/os-1.4.134
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.4.134 [following]
+--2017-01-27 18:06:51--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.4.134
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65193 (64K) [text/html]
+Saving to: ‘os-1.4.134’
+
+     0K .......... .......... .......... .......... .......... 78%  209K 0s
+    50K .......... ...                                        100% 13.5M=0.2s
+
+2017-01-27 18:06:54 (265 KB/s) - ‘os-1.4.134’ saved [65193/65193]
+
+--2017-01-27 18:06:55--  http://doi.org/10.1093/ulr/os-1.4.136
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.4.136 [following]
+--2017-01-27 18:06:56--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.4.136
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64993 (63K) [text/html]
+Saving to: ‘os-1.4.136’
+
+     0K .......... .......... .......... .......... .......... 78%  209K 0s
+    50K .......... ...                                        100% 14.4M=0.2s
+
+2017-01-27 18:07:00 (264 KB/s) - ‘os-1.4.136’ saved [64993/64993]
+
+--2017-01-27 18:07:01--  http://doi.org/10.1093/ulr/os-1.4.55
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.4.55 [following]
+--2017-01-27 18:07:02--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.4.55
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66191 (65K) [text/html]
+Saving to: ‘os-1.4.55’
+
+     0K .......... .......... .......... .......... .......... 77%  308K 0s
+    50K .......... ....                                       100%  186K=0.2s
+
+2017-01-27 18:07:07 (268 KB/s) - ‘os-1.4.55’ saved [66191/66191]
+
+--2017-01-27 18:07:08--  http://doi.org/10.1093/ulr/os-1.4.141
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.4.141 [following]
+--2017-01-27 18:07:09--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.4.141
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65025 (64K) [text/html]
+Saving to: ‘os-1.4.141’
+
+     0K .......... .......... .......... .......... .......... 78%  209K 0s
+    50K .......... ...                                        100% 19.1M=0.2s
+
+2017-01-27 18:07:13 (265 KB/s) - ‘os-1.4.141’ saved [65025/65025]
+
+--2017-01-27 18:07:14--  http://doi.org/10.1093/ulr/os-1.4.110
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.4.110 [following]
+--2017-01-27 18:07:15--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.4.110
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66369 (65K) [text/html]
+Saving to: ‘os-1.4.110’
+
+     0K .......... .......... .......... .......... .......... 77%  209K 0s
+    50K .......... ....                                       100% 10.6M=0.2s
+
+2017-01-27 18:07:20 (269 KB/s) - ‘os-1.4.110’ saved [66369/66369]
+
+--2017-01-27 18:07:21--  http://doi.org/10.1093/ulr/os-1.4.1
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.4.1 [following]
+--2017-01-27 18:07:22--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.4.1
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 81883 (80K) [text/html]
+Saving to: ‘os-1.4.1’
+
+     0K .......... .......... .......... .......... .......... 62%  208K 0s
+    50K .......... .......... .........                       100% 13.7M=0.2s
+
+2017-01-27 18:07:26 (330 KB/s) - ‘os-1.4.1’ saved [81883/81883]
+
+--2017-01-27 18:07:27--  http://doi.org/10.1093/ulr/os-1.4.28
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.4.28 [following]
+--2017-01-27 18:07:28--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.4.28
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65217 (64K) [text/html]
+Saving to: ‘os-1.4.28’
+
+     0K .......... .......... .......... .......... .......... 78%  309K 0s
+    50K .......... ...                                        100%  173K=0.2s
+
+2017-01-27 18:07:32 (265 KB/s) - ‘os-1.4.28’ saved [65217/65217]
+
+--2017-01-27 18:07:33--  http://doi.org/10.1093/ulr/os-1.4.96
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.4.96 [following]
+--2017-01-27 18:07:34--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-1.4.96
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66621 (65K) [text/html]
+Saving to: ‘os-1.4.96’
+
+     0K .......... .......... .......... .......... .......... 76%  309K 0s
+    50K .......... .....                                      100%  193K=0.2s
+
+2017-01-27 18:07:38 (271 KB/s) - ‘os-1.4.96’ saved [66621/66621]
+
+--2017-01-27 18:07:39--  http://doi.org/10.1093/ulr/os-2.1.140
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.1.140 [following]
+--2017-01-27 18:07:40--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.1.140
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64526 (63K) [text/html]
+Saving to: ‘os-2.1.140’
+
+     0K .......... .......... .......... .......... .......... 79%  208K 0s
+    50K .......... ...                                        100% 12.6M=0.2s
+
+2017-01-27 18:07:44 (261 KB/s) - ‘os-2.1.140’ saved [64526/64526]
+
+--2017-01-27 18:07:45--  http://doi.org/10.1093/ulr/os-2.1.144
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.1.144 [following]
+--2017-01-27 18:07:46--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.1.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64671 (63K) [text/html]
+Saving to: ‘os-2.1.144’
+
+     0K .......... .......... .......... .......... .......... 79%  209K 0s
+    50K .......... ...                                        100% 13.3M=0.2s
+
+2017-01-27 18:07:50 (263 KB/s) - ‘os-2.1.144’ saved [64671/64671]
+
+--2017-01-27 18:07:51--  http://doi.org/10.1093/ulr/os-2.1.26
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.1.26 [following]
+--2017-01-27 18:07:53--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.1.26
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 69562 (68K) [text/html]
+Saving to: ‘os-2.1.26’
+
+     0K .......... .......... .......... .......... .......... 73%  208K 0s
+    50K .......... .......                                    100% 15.2M=0.2s
+
+2017-01-27 18:07:57 (281 KB/s) - ‘os-2.1.26’ saved [69562/69562]
+
+--2017-01-27 18:07:58--  http://doi.org/10.1093/ulr/os-2.1.44
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.1.44 [following]
+--2017-01-27 18:07:59--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.1.44
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66523 (65K) [text/html]
+Saving to: ‘os-2.1.44’
+
+     0K .......... .......... .......... .......... .......... 76%  209K 0s
+    50K .......... ....                                       100% 17.5M=0.2s
+
+2017-01-27 18:08:03 (271 KB/s) - ‘os-2.1.44’ saved [66523/66523]
+
+--2017-01-27 18:08:04--  http://doi.org/10.1093/ulr/os-2.1.88
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.1.88 [following]
+--2017-01-27 18:08:05--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.1.88
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71151 (69K) [text/html]
+Saving to: ‘os-2.1.88’
+
+     0K .......... .......... .......... .......... .......... 71%  209K 0s
+    50K .......... .........                                  100% 15.0M=0.2s
+
+2017-01-27 18:08:09 (289 KB/s) - ‘os-2.1.88’ saved [71151/71151]
+
+--2017-01-27 18:08:10--  http://doi.org/10.1093/ulr/os-2.1.147
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.1.147 [following]
+--2017-01-27 18:08:11--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.1.147
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65025 (64K) [text/html]
+Saving to: ‘os-2.1.147’
+
+     0K .......... .......... .......... .......... .......... 78%  209K 0s
+    50K .......... ...                                        100% 9.95M=0.2s
+
+2017-01-27 18:08:18 (264 KB/s) - ‘os-2.1.147’ saved [65025/65025]
+
+--2017-01-27 18:08:19--  http://doi.org/10.1093/ulr/os-2.1.141
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.1.141 [following]
+--2017-01-27 18:08:20--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.1.141
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79899 (78K) [text/html]
+Saving to: ‘os-2.1.141’
+
+     0K .......... .......... .......... .......... .......... 64%  309K 0s
+    50K .......... .......... ........                        100%  351K=0.2s
+
+2017-01-27 18:08:24 (323 KB/s) - ‘os-2.1.141’ saved [79899/79899]
+
+--2017-01-27 18:08:25--  http://doi.org/10.1093/ulr/os-2.1.121
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.1.121 [following]
+--2017-01-27 18:08:26--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.1.121
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66529 (65K) [text/html]
+Saving to: ‘os-2.1.121’
+
+     0K .......... .......... .......... .......... .......... 76%  209K 0s
+    50K .......... ....                                       100% 17.0M=0.2s
+
+2017-01-27 18:08:29 (270 KB/s) - ‘os-2.1.121’ saved [66529/66529]
+
+--2017-01-27 18:08:30--  http://doi.org/10.1093/ulr/os-2.1.77
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.1.77 [following]
+--2017-01-27 18:08:31--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.1.77
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 81209 (79K) [text/html]
+Saving to: ‘os-2.1.77’
+
+     0K .......... .......... .......... .......... .......... 63%  209K 0s
+    50K .......... .......... .........                       100% 12.4M=0.2s
+
+2017-01-27 18:08:39 (328 KB/s) - ‘os-2.1.77’ saved [81209/81209]
+
+--2017-01-27 18:08:40--  http://doi.org/10.1093/ulr/os-2.1.107
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.1.107 [following]
+--2017-01-27 18:08:41--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.1.107
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66834 (65K) [text/html]
+Saving to: ‘os-2.1.107’
+
+     0K .......... .......... .......... .......... .......... 76%  207K 0s
+    50K .......... .....                                      100% 13.9M=0.2s
+
+2017-01-27 18:08:47 (269 KB/s) - ‘os-2.1.107’ saved [66834/66834]
+
+--2017-01-27 18:08:48--  http://doi.org/10.1093/ulr/os-2.1.65
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.1.65 [following]
+--2017-01-27 18:08:49--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.1.65
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66238 (65K) [text/html]
+Saving to: ‘os-2.1.65.1’
+
+     0K .......... .......... .......... .......... .......... 77%  209K 0s
+    50K .......... ....                                       100% 15.5M=0.2s
+
+2017-01-27 18:08:57 (269 KB/s) - ‘os-2.1.65.1’ saved [66238/66238]
+
+--2017-01-27 18:08:58--  http://doi.org/10.1093/ulr/os-2.1.51
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.1.51 [following]
+--2017-01-27 18:08:59--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.1.51
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66315 (65K) [text/html]
+Saving to: ‘os-2.1.51’
+
+     0K .......... .......... .......... .......... .......... 77%  208K 0s
+    50K .......... ....                                       100% 19.1M=0.2s
+
+2017-01-27 18:09:05 (269 KB/s) - ‘os-2.1.51’ saved [66315/66315]
+
+--2017-01-27 18:09:06--  http://doi.org/10.1093/ulr/os-2.1.3
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.1.3 [following]
+--2017-01-27 18:09:07--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.1.3
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66789 (65K) [text/html]
+Saving to: ‘os-2.1.3’
+
+     0K .......... .......... .......... .......... .......... 76%  209K 0s
+    50K .......... .....                                      100% 14.1M=0.2s
+
+2017-01-27 18:09:13 (272 KB/s) - ‘os-2.1.3’ saved [66789/66789]
+
+--2017-01-27 18:09:14--  http://doi.org/10.1093/ulr/os-2.2.68
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/ulr/article-lookup/doi/10.1093/ulr/os-2.2.68 [following]
+--2017-01-27 18:09:16--  https://academic.oup.com/ulr/article-lookup/doi/10.1093/ulr/os-2.2.68
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79590 (78K) [text/html]
+Saving to: ‘os-2.2.68’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... .......                         100% 12.5M=0.2s
+
+2017-01-27 18:09:19 (322 KB/s) - ‘os-2.2.68’ saved [79590/79590]
+
+--2017-01-27 18:09:20--  http://doi.org/10.1093/ulr/os-2.2.143
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.2.143 [following]
+--2017-01-27 18:09:21--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.2.143
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79528 (78K) [text/html]
+Saving to: ‘os-2.2.143’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... .......                         100% 10.5M=0.2s
+
+2017-01-27 18:09:26 (321 KB/s) - ‘os-2.2.143’ saved [79528/79528]
+
+--2017-01-27 18:09:27--  http://doi.org/10.1093/ulr/os-2.2.1
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.2.1 [following]
+--2017-01-27 18:09:28--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.2.1
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 81695 (80K) [text/html]
+Saving to: ‘os-2.2.1’
+
+     0K .......... .......... .......... .......... .......... 62%  209K 0s
+    50K .......... .......... .........                       100% 10.0M=0.2s
+
+2017-01-27 18:09:32 (329 KB/s) - ‘os-2.2.1’ saved [81695/81695]
+
+--2017-01-27 18:09:33--  http://doi.org/10.1093/ulr/os-2.2.21
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.2.21 [following]
+--2017-01-27 18:09:35--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.2.21
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66326 (65K) [text/html]
+Saving to: ‘os-2.2.21’
+
+     0K .......... .......... .......... .......... .......... 77%  209K 0s
+    50K .......... ....                                       100% 17.8M=0.2s
+
+2017-01-27 18:09:37 (270 KB/s) - ‘os-2.2.21’ saved [66326/66326]
+
+--2017-01-27 18:09:38--  http://doi.org/10.1093/ulr/os-2.2.43
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.2.43 [following]
+--2017-01-27 18:09:39--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.2.43
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66542 (65K) [text/html]
+Saving to: ‘os-2.2.43’
+
+     0K .......... .......... .......... .......... .......... 76%  209K 0s
+    50K .......... ....                                       100% 5.89M=0.2s
+
+2017-01-27 18:09:43 (269 KB/s) - ‘os-2.2.43’ saved [66542/66542]
+
+--2017-01-27 18:09:44--  http://doi.org/10.1093/ulr/os-2.2.136
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.2.136 [following]
+--2017-01-27 18:09:45--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.2.136
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64985 (63K) [text/html]
+Saving to: ‘os-2.2.136’
+
+     0K .......... .......... .......... .......... .......... 78%  209K 0s
+    50K .......... ...                                        100% 13.7M=0.2s
+
+2017-01-27 18:09:48 (264 KB/s) - ‘os-2.2.136’ saved [64985/64985]
+
+--2017-01-27 18:09:49--  http://doi.org/10.1093/ulr/os-2.2.107
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.2.107 [following]
+--2017-01-27 18:09:50--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.2.107
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 81420 (80K) [text/html]
+Saving to: ‘os-2.2.107’
+
+     0K .......... .......... .......... .......... .......... 62%  209K 0s
+    50K .......... .......... .........                       100% 10.5M=0.2s
+
+2017-01-27 18:09:54 (329 KB/s) - ‘os-2.2.107’ saved [81420/81420]
+
+--2017-01-27 18:09:55--  http://doi.org/10.1093/ulr/os-2.2.134
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.2.134 [following]
+--2017-01-27 18:09:56--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.2.134
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65185 (64K) [text/html]
+Saving to: ‘os-2.2.134’
+
+     0K .......... .......... .......... .......... .......... 78%  206K 0s
+    50K .......... ...                                        100% 3.59M=0.2s
+
+2017-01-27 18:09:59 (259 KB/s) - ‘os-2.2.134’ saved [65185/65185]
+
+--2017-01-27 18:10:00--  http://doi.org/10.1093/ulr/os-2.2.77
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.2.77 [following]
+--2017-01-27 18:10:01--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.2.77
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66576 (65K) [text/html]
+Saving to: ‘os-2.2.77’
+
+     0K .......... .......... .......... .......... .......... 76%  209K 0s
+    50K .......... .....                                      100% 14.4M=0.2s
+
+2017-01-27 18:10:04 (271 KB/s) - ‘os-2.2.77’ saved [66576/66576]
+
+--2017-01-27 18:10:05--  http://doi.org/10.1093/ulr/os-2.2.31
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.2.31 [following]
+--2017-01-27 18:10:06--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.2.31
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65077 (64K) [text/html]
+Saving to: ‘os-2.2.31’
+
+     0K .......... .......... .......... .......... .......... 78%  209K 0s
+    50K .......... ...                                        100% 11.7M=0.2s
+
+2017-01-27 18:10:10 (264 KB/s) - ‘os-2.2.31’ saved [65077/65077]
+
+--2017-01-27 18:10:11--  http://doi.org/10.1093/ulr/os-2.2.51
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.2.51 [following]
+--2017-01-27 18:10:12--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.2.51
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65084 (64K) [text/html]
+Saving to: ‘os-2.2.51’
+
+     0K .......... .......... .......... .......... .......... 78%  209K 0s
+    50K .......... ...                                        100% 14.6M=0.2s
+
+2017-01-27 18:10:16 (264 KB/s) - ‘os-2.2.51’ saved [65084/65084]
+
+--2017-01-27 18:10:17--  http://doi.org/10.1093/ulr/os-2.2.91
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.2.91 [following]
+--2017-01-27 18:10:18--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.2.91
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66277 (65K) [text/html]
+Saving to: ‘os-2.2.91’
+
+     0K .......... .......... .......... .......... .......... 77%  309K 0s
+    50K .......... ....                                       100%  188K=0.2s
+
+2017-01-27 18:10:21 (270 KB/s) - ‘os-2.2.91’ saved [66277/66277]
+
+--2017-01-27 18:10:22--  http://doi.org/10.1093/ulr/os-2.2.120
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.2.120 [following]
+--2017-01-27 18:10:23--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.2.120
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65201 (64K) [text/html]
+Saving to: ‘os-2.2.120’
+
+     0K .......... .......... .......... .......... .......... 78%  208K 0s
+    50K .......... ...                                        100% 15.2M=0.2s
+
+2017-01-27 18:10:26 (264 KB/s) - ‘os-2.2.120’ saved [65201/65201]
+
+--2017-01-27 18:10:27--  http://doi.org/10.1093/ulr/os-2.3.73
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.3.73 [following]
+--2017-01-27 18:10:28--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.3.73
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66534 (65K) [text/html]
+Saving to: ‘os-2.3.73’
+
+     0K .......... .......... .......... .......... .......... 76%  209K 0s
+    50K .......... ....                                       100% 15.1M=0.2s
+
+2017-01-27 18:10:32 (271 KB/s) - ‘os-2.3.73’ saved [66534/66534]
+
+--2017-01-27 18:10:33--  http://doi.org/10.1093/ulr/os-2.3.99
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.3.99 [following]
+--2017-01-27 18:10:34--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.3.99
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66317 (65K) [text/html]
+Saving to: ‘os-2.3.99’
+
+     0K .......... .......... .......... .......... .......... 77%  208K 0s
+    50K .......... ....                                       100% 9.33M=0.2s
+
+2017-01-27 18:10:37 (267 KB/s) - ‘os-2.3.99’ saved [66317/66317]
+
+--2017-01-27 18:10:38--  http://doi.org/10.1093/ulr/os-2.3.151
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.3.151 [following]
+--2017-01-27 18:10:39--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.3.151
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66462 (65K) [text/html]
+Saving to: ‘os-2.3.151’
+
+     0K .......... .......... .......... .......... .......... 77%  209K 0s
+    50K .......... ....                                       100% 14.4M=0.2s
+
+2017-01-27 18:10:43 (270 KB/s) - ‘os-2.3.151’ saved [66462/66462]
+
+--2017-01-27 18:10:44--  http://doi.org/10.1093/ulr/os-2.3.132
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.3.132 [following]
+--2017-01-27 18:10:45--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.3.132
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64948 (63K) [text/html]
+Saving to: ‘os-2.3.132’
+
+     0K .......... .......... .......... .......... .......... 78%  209K 0s
+    50K .......... ...                                        100% 17.2M=0.2s
+
+2017-01-27 18:10:48 (264 KB/s) - ‘os-2.3.132’ saved [64948/64948]
+
+--2017-01-27 18:10:49--  http://doi.org/10.1093/ulr/os-2.3.108
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.3.108 [following]
+--2017-01-27 18:10:50--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.3.108
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64983 (63K) [text/html]
+Saving to: ‘os-2.3.108’
+
+     0K .......... .......... .......... .......... .......... 78%  309K 0s
+    50K .......... ...                                        100%  171K=0.2s
+
+2017-01-27 18:10:53 (264 KB/s) - ‘os-2.3.108’ saved [64983/64983]
+
+--2017-01-27 18:10:54--  http://doi.org/10.1093/ulr/os-2.3.169
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.3.169 [following]
+--2017-01-27 18:10:56--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.3.169
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64711 (63K) [text/html]
+Saving to: ‘os-2.3.169’
+
+     0K .......... .......... .......... .......... .......... 79%  209K 0s
+    50K .......... ...                                        100% 16.2M=0.2s
+
+2017-01-27 18:10:59 (263 KB/s) - ‘os-2.3.169’ saved [64711/64711]
+
+--2017-01-27 18:11:00--  http://doi.org/10.1093/ulr/os-2.3.172
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.3.172 [following]
+--2017-01-27 18:11:01--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.3.172
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65011 (63K) [text/html]
+Saving to: ‘os-2.3.172’
+
+     0K .......... .......... .......... .......... .......... 78%  209K 0s
+    50K .......... ...                                        100% 13.0M=0.2s
+
+2017-01-27 18:11:06 (265 KB/s) - ‘os-2.3.172’ saved [65011/65011]
+
+--2017-01-27 18:11:07--  http://doi.org/10.1093/ulr/os-2.3.123
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.3.123 [following]
+--2017-01-27 18:11:08--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.3.123
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66134 (65K) [text/html]
+Saving to: ‘os-2.3.123’
+
+     0K .......... .......... .......... .......... .......... 77%  310K 0s
+    50K .......... ....                                       100%  185K=0.2s
+
+2017-01-27 18:11:12 (269 KB/s) - ‘os-2.3.123’ saved [66134/66134]
+
+--2017-01-27 18:11:13--  http://doi.org/10.1093/ulr/os-2.3.1
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.3.1 [following]
+--2017-01-27 18:11:14--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.3.1
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 67009 (65K) [text/html]
+Saving to: ‘os-2.3.1’
+
+     0K .......... .......... .......... .......... .......... 76%  209K 0s
+    50K .......... .....                                      100% 15.1M=0.2s
+
+2017-01-27 18:11:18 (272 KB/s) - ‘os-2.3.1’ saved [67009/67009]
+
+--2017-01-27 18:11:19--  http://doi.org/10.1093/ulr/os-2.3.46
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.3.46 [following]
+--2017-01-27 18:11:20--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.3.46
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 69560 (68K) [text/html]
+Saving to: ‘os-2.3.46’
+
+     0K .......... .......... .......... .......... .......... 73%  208K 0s
+    50K .......... .......                                    100% 15.4M=0.2s
+
+2017-01-27 18:11:23 (282 KB/s) - ‘os-2.3.46’ saved [69560/69560]
+
+--2017-01-27 18:11:24--  http://doi.org/10.1093/ulr/os-2.3.19
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.3.19 [following]
+--2017-01-27 18:11:25--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.3.19
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66659 (65K) [text/html]
+Saving to: ‘os-2.3.19’
+
+     0K .......... .......... .......... .......... .......... 76%  209K 0s
+    50K .......... .....                                      100% 12.4M=0.2s
+
+2017-01-27 18:11:29 (270 KB/s) - ‘os-2.3.19’ saved [66659/66659]
+
+--2017-01-27 18:11:30--  http://doi.org/10.1093/ulr/os-2.3.59
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.3.59 [following]
+--2017-01-27 18:11:31--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.3.59
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66578 (65K) [text/html]
+Saving to: ‘os-2.3.59’
+
+     0K .......... .......... .......... .......... .......... 76%  209K 0s
+    50K .......... .....                                      100% 14.5M=0.2s
+
+2017-01-27 18:11:34 (271 KB/s) - ‘os-2.3.59’ saved [66578/66578]
+
+--2017-01-27 18:11:35--  http://doi.org/10.1093/ulr/os-2.3.162
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.3.162 [following]
+--2017-01-27 18:11:36--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.3.162
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65032 (64K) [text/html]
+Saving to: ‘os-2.3.162’
+
+     0K .......... .......... .......... .......... .......... 78%  209K 0s
+    50K .......... ...                                        100% 15.8M=0.2s
+
+2017-01-27 18:11:40 (265 KB/s) - ‘os-2.3.162’ saved [65032/65032]
+
+--2017-01-27 18:11:41--  http://doi.org/10.1093/ulr/os-2.3.35
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.3.35 [following]
+--2017-01-27 18:11:42--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.3.35
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66427 (65K) [text/html]
+Saving to: ‘os-2.3.35’
+
+     0K .......... .......... .......... .......... .......... 77%  209K 0s
+    50K .......... ....                                       100% 14.5M=0.2s
+
+2017-01-27 18:11:45 (270 KB/s) - ‘os-2.3.35’ saved [66427/66427]
+
+--2017-01-27 18:11:46--  http://doi.org/10.1093/ulr/os-2.3.166
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.3.166 [following]
+--2017-01-27 18:11:47--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-2.3.166
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65133 (64K) [text/html]
+Saving to: ‘os-2.3.166’
+
+     0K .......... .......... .......... .......... .......... 78%  209K 0s
+    50K .......... ...                                        100% 15.2M=0.2s
+
+2017-01-27 18:11:51 (265 KB/s) - ‘os-2.3.166’ saved [65133/65133]
+
+--2017-01-27 18:11:52--  http://doi.org/10.1093/ulr/os-3.1.188
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-3.1.188 [following]
+--2017-01-27 18:11:53--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-3.1.188
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65035 (64K) [text/html]
+Saving to: ‘os-3.1.188’
+
+     0K .......... .......... .......... .......... .......... 78%  208K 0s
+    50K .......... ...                                        100% 15.7M=0.2s
+
+2017-01-27 18:11:58 (263 KB/s) - ‘os-3.1.188’ saved [65035/65035]
+
+--2017-01-27 18:11:59--  http://doi.org/10.1093/ulr/os-3.1.61
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-3.1.61 [following]
+--2017-01-27 18:12:00--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-3.1.61
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66198 (65K) [text/html]
+Saving to: ‘os-3.1.61’
+
+     0K .......... .......... .......... .......... .......... 77%  209K 0s
+    50K .......... ....                                       100% 3.78M=0.2s
+
+2017-01-27 18:12:04 (266 KB/s) - ‘os-3.1.61’ saved [66198/66198]
+
+--2017-01-27 18:12:05--  http://doi.org/10.1093/ulr/os-3.1.144
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-3.1.144 [following]
+--2017-01-27 18:12:06--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-3.1.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65467 (64K) [text/html]
+Saving to: ‘os-3.1.144’
+
+     0K .......... .......... .......... .......... .......... 78%  208K 0s
+    50K .......... ...                                        100% 13.9M=0.2s
+
+2017-01-27 18:12:09 (264 KB/s) - ‘os-3.1.144’ saved [65467/65467]
+
+--2017-01-27 18:12:10--  http://doi.org/10.1093/ulr/os-3.1.185
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-3.1.185 [following]
+--2017-01-27 18:12:11--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-3.1.185
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64713 (63K) [text/html]
+Saving to: ‘os-3.1.185’
+
+     0K .......... .......... .......... .......... .......... 79%  209K 0s
+    50K .......... ...                                        100% 13.6M=0.2s
+
+2017-01-27 18:12:14 (263 KB/s) - ‘os-3.1.185’ saved [64713/64713]
+
+--2017-01-27 18:12:15--  http://doi.org/10.1093/ulr/os-3.1.175
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-3.1.175 [following]
+--2017-01-27 18:12:16--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-3.1.175
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79723 (78K) [text/html]
+Saving to: ‘os-3.1.175’
+
+     0K .......... .......... .......... .......... .......... 64%  207K 0s
+    50K .......... .......... .......                         100% 8.10M=0.2s
+
+2017-01-27 18:12:20 (319 KB/s) - ‘os-3.1.175’ saved [79723/79723]
+
+--2017-01-27 18:12:21--  http://doi.org/10.1093/ulr/os-3.1.154
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-3.1.154 [following]
+--2017-01-27 18:12:23--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-3.1.154
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66506 (65K) [text/html]
+Saving to: ‘os-3.1.154’
+
+     0K .......... .......... .......... .......... .......... 76%  309K 0s
+    50K .......... ....                                       100%  191K=0.2s
+
+2017-01-27 18:12:26 (271 KB/s) - ‘os-3.1.154’ saved [66506/66506]
+
+--2017-01-27 18:12:27--  http://doi.org/10.1093/ulr/os-3.1.99
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-3.1.99 [following]
+--2017-01-27 18:12:28--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-3.1.99
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66144 (65K) [text/html]
+Saving to: ‘os-3.1.99’
+
+     0K .......... .......... .......... .......... .......... 77%  207K 0s
+    50K .......... ....                                       100% 17.6M=0.2s
+
+2017-01-27 18:12:35 (267 KB/s) - ‘os-3.1.99’ saved [66144/66144]
+
+--2017-01-27 18:12:36--  http://doi.org/10.1093/ulr/os-3.1.119
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-3.1.119 [following]
+--2017-01-27 18:12:37--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-3.1.119
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64933 (63K) [text/html]
+Saving to: ‘os-3.1.119’
+
+     0K .......... .......... .......... .......... .......... 78%  207K 0s
+    50K .......... ...                                        100% 13.1M=0.2s
+
+2017-01-27 18:12:41 (261 KB/s) - ‘os-3.1.119’ saved [64933/64933]
+
+--2017-01-27 18:12:42--  http://doi.org/10.1093/ulr/os-3.1.179
+Connecting to doi.org (doi.org)|38.100.138.163|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-3.1.179 [following]
+--2017-01-27 18:12:43--  https://academic.oup.com/aristotelian/article-lookup/doi/10.1093/ulr/os-3.1.179
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65014 (63K) [text/html]
+Saving to: ‘os-3.1.179’
+
+     0K .......... .......... .......... .......... .......... 78%  206K 0s
+    50K .......... ...                                        100% 13.5M=0.2s
+
+2017-01-27 18:12:48 (260 KB/s) - ‘os-3.1.179’ saved [65014/65014]
+
+FINISHED --2017-01-27 18:12:48--
+Total wall clock time: 10m 22s
+Downloaded: 100 files, 6.5M in 24s (276 KB/s)

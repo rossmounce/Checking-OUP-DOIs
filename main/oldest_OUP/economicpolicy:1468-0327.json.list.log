@@ -1,0 +1,1846 @@
+--2017-01-28 06:48:09--  http://doi.org/10.1111/(issn)1468-0327
+Resolving doi.org (doi.org)... 208.254.38.90, 38.100.138.162, 63.123.152.248, ...
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/(ISSN)1468-0327 [following]
+--2017-01-28 06:48:10--  http://doi.wiley.com/10.1111/(ISSN)1468-0327
+Resolving doi.wiley.com (doi.wiley.com)... 199.171.202.200
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/(ISSN)1468-0327 [following]
+--2017-01-28 06:48:12--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/(ISSN)1468-0327
+Resolving onlinelibrary.wiley.com (onlinelibrary.wiley.com)... 199.171.202.195
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1468-0327;jsessionid=4319E3F0725F277EF43C88EA973EEA41.f02t04?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 06:48:13--  http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1468-0327;jsessionid=4319E3F0725F277EF43C88EA973EEA41.f02t04?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘(issn)1468-0327’
+
+     0K .......... .......... .......                           108K=0.3s
+
+2017-01-28 06:48:14 (108 KB/s) - ‘(issn)1468-0327’ saved [28530]
+
+--2017-01-28 06:48:15--  http://doi.org/10.1093/economicpolicy/1.1.61
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.1.61 [following]
+--2017-01-28 06:48:16--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.1.61
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/1/1/61/2392191/Discussion?redirectedFrom=fulltext [following]
+--2017-01-28 06:48:19--  https://academic.oup.com/economicpolicy/article-abstract/1/1/61/2392191/Discussion?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 105525 (103K) [text/html]
+Saving to: ‘1.1.61.2’
+
+     0K .......... .......... .......... .......... .......... 48%  310K 0s
+    50K .......... .......... .......... .......... .......... 97%  313K 0s
+   100K ...                                                   100% 5821G=0.3s
+
+2017-01-28 06:48:26 (321 KB/s) - ‘1.1.61.2’ saved [105525/105525]
+
+--2017-01-28 06:48:27--  http://doi.org/10.1093/economicpolicy/1.1.247
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.1.247 [following]
+--2017-01-28 06:48:28--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.1.247
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/1/1/247/2392208/Discussion?redirectedFrom=fulltext [following]
+--2017-01-28 06:48:30--  https://academic.oup.com/economicpolicy/article-abstract/1/1/247/2392208/Discussion?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 103469 (101K) [text/html]
+Saving to: ‘1.1.247’
+
+     0K .......... .......... .......... .......... .......... 49%  209K 0s
+    50K .......... .......... .......... .......... .......... 98%  612K 0s
+   100K .                                                     100% 8.47M=0.3s
+
+2017-01-28 06:48:36 (315 KB/s) - ‘1.1.247’ saved [103469/103469]
+
+--2017-01-28 06:48:37--  http://doi.org/10.1093/economicpolicy/1.1.70
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.1.70 [following]
+--2017-01-28 06:48:39--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.1.70
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/1/1/70/2392192/Appendix-1-Arithmetic-of-the-government-budget?redirectedFrom=fulltext [following]
+--2017-01-28 06:48:40--  https://academic.oup.com/economicpolicy/article-abstract/1/1/70/2392192/Appendix-1-Arithmetic-of-the-government-budget?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 104244 (102K) [text/html]
+Saving to: ‘1.1.70’
+
+     0K .......... .......... .......... .......... .......... 49%  310K 0s
+    50K .......... .......... .......... .......... .......... 98%  313K 0s
+   100K .                                                     100% 10.6M=0.3s
+
+2017-01-28 06:48:50 (317 KB/s) - ‘1.1.70’ saved [104244/104244]
+
+--2017-01-28 06:48:51--  http://doi.org/10.1093/economicpolicy/1.1.115
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.1.115 [following]
+--2017-01-28 06:48:52--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.1.115
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/1/1/115/2392194/Discussion?redirectedFrom=fulltext [following]
+--2017-01-28 06:48:55--  https://academic.oup.com/economicpolicy/article-abstract/1/1/115/2392194/Discussion?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 120443 (118K) [text/html]
+Saving to: ‘1.1.115.4’
+
+     0K .......... .......... .......... .......... .......... 42%  209K 0s
+    50K .......... .......... .......... .......... .......... 85%  610K 0s
+   100K .......... .......                                    100% 7.87M=0.3s
+
+2017-01-28 06:49:02 (364 KB/s) - ‘1.1.115.4’ saved [120443/120443]
+
+--2017-01-28 06:49:03--  http://doi.org/10.1093/economicpolicy/1.1.162
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.1.162 [following]
+--2017-01-28 06:49:04--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.1.162
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/1/1/162/2392200/Appendix-1?redirectedFrom=fulltext [following]
+--2017-01-28 06:49:07--  https://academic.oup.com/economicpolicy/article-abstract/1/1/162/2392200/Appendix-1?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 103434 (101K) [text/html]
+Saving to: ‘1.1.162’
+
+     0K .......... .......... .......... .......... .......... 49%  209K 0s
+    50K .......... .......... .......... .......... .......... 99%  608K 0s
+   100K .                                                     100% 1926G=0.3s
+
+2017-01-28 06:49:15 (314 KB/s) - ‘1.1.162’ saved [103434/103434]
+
+--2017-01-28 06:49:16--  http://doi.org/10.1093/economicpolicy/1.1.7
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.1.7 [following]
+--2017-01-28 06:49:17--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.1.7
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/1/1/7/2392188/Editors-introduction?redirectedFrom=fulltext [following]
+--2017-01-28 06:49:19--  https://academic.oup.com/economicpolicy/article-abstract/1/1/7/2392188/Editors-introduction?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 103470 (101K) [text/html]
+Saving to: ‘1.1.7.7’
+
+     0K .......... .......... .......... .......... .......... 49%  209K 0s
+    50K .......... .......... .......... .......... .......... 98%  606K 0s
+   100K .                                                     100% 1993G=0.3s
+
+2017-01-28 06:49:26 (314 KB/s) - ‘1.1.7.7’ saved [103470/103470]
+
+--2017-01-28 06:49:27--  http://doi.org/10.1093/economicpolicy/1.1.157
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.1.157 [following]
+--2017-01-28 06:49:28--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.1.157
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/1/1/157/2392199/Discussion?redirectedFrom=fulltext [following]
+--2017-01-28 06:49:30--  https://academic.oup.com/economicpolicy/article-abstract/1/1/157/2392199/Discussion?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 105488 (103K) [text/html]
+Saving to: ‘1.1.157’
+
+     0K .......... .......... .......... .......... .......... 48%  308K 0s
+    50K .......... .......... .......... .......... .......... 97%  310K 0s
+   100K ...                                                   100% 5752G=0.3s
+
+2017-01-28 06:49:37 (318 KB/s) - ‘1.1.157’ saved [105488/105488]
+
+--2017-01-28 06:49:38--  http://doi.org/10.1093/economicpolicy/1.1.205
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.1.205 [following]
+--2017-01-28 06:49:39--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.1.205
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/1/1/205/2392204/Discussion?redirectedFrom=fulltext [following]
+--2017-01-28 06:49:41--  https://academic.oup.com/economicpolicy/article-abstract/1/1/205/2392204/Discussion?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 105386 (103K) [text/html]
+Saving to: ‘1.1.205.1’
+
+     0K .......... .......... .......... .......... .......... 48%  209K 0s
+    50K .......... .......... .......... .......... .......... 97%  608K 0s
+   100K ..                                                    100% 5562G=0.3s
+
+2017-01-28 06:49:48 (320 KB/s) - ‘1.1.205.1’ saved [105386/105386]
+
+--2017-01-28 06:49:49--  http://doi.org/10.1093/economicpolicy/1.1.123
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.1.123 [following]
+--2017-01-28 06:49:50--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.1.123
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/1/1/123/2392197/Appendix-1-List-of-variables?redirectedFrom=fulltext [following]
+--2017-01-28 06:49:53--  https://academic.oup.com/economicpolicy/article-abstract/1/1/123/2392197/Appendix-1-List-of-variables?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 103816 (101K) [text/html]
+Saving to: ‘1.1.123’
+
+     0K .......... .......... .......... .......... .......... 49%  222K 0s
+    50K .......... .......... .......... .......... .......... 98%  603K 0s
+   100K .                                                     100% 8.59M=0.3s
+
+2017-01-28 06:50:02 (329 KB/s) - ‘1.1.123’ saved [103816/103816]
+
+--2017-01-28 06:50:03--  http://doi.org/10.1093/economicpolicy/1.1.248
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.1.248 [following]
+--2017-01-28 06:50:04--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.1.248
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/1/1/248/2392211/Appendix-to-King-The-cost-of-capital-function?redirectedFrom=fulltext [following]
+--2017-01-28 06:50:06--  https://academic.oup.com/economicpolicy/article-abstract/1/1/248/2392211/Appendix-to-King-The-cost-of-capital-function?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 104034 (102K) [text/html]
+Saving to: ‘1.1.248’
+
+     0K .......... .......... .......... .......... .......... 49%  209K 0s
+    50K .......... .......... .......... .......... .......... 98%  611K 0s
+   100K .                                                     100% 9.30M=0.3s
+
+2017-01-28 06:50:14 (317 KB/s) - ‘1.1.248’ saved [104034/104034]
+
+--2017-01-28 06:50:15--  http://doi.org/10.1093/economicpolicy/1.2.371
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.2.371 [following]
+--2017-01-28 06:50:16--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.2.371
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/1/2/371/2392237/General-Discussion?redirectedFrom=fulltext [following]
+--2017-01-28 06:50:19--  https://academic.oup.com/economicpolicy/article-abstract/1/2/371/2392237/General-Discussion?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 103588 (101K) [text/html]
+Saving to: ‘1.2.371’
+
+     0K .......... .......... .......... .......... .......... 49%  209K 0s
+    50K .......... .......... .......... .......... .......... 98%  612K 0s
+   100K .                                                     100% 2213G=0.3s
+
+2017-01-28 06:50:26 (315 KB/s) - ‘1.2.371’ saved [103588/103588]
+
+--2017-01-28 06:50:27--  http://doi.org/10.1093/economicpolicy/1.2.313
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.2.313 [following]
+--2017-01-28 06:50:28--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.2.313
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/1/2/313/2392230/General-Discussion?redirectedFrom=fulltext [following]
+--2017-01-28 06:50:30--  https://academic.oup.com/economicpolicy/article-abstract/1/2/313/2392230/General-Discussion?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 103585 (101K) [text/html]
+Saving to: ‘1.2.313.1’
+
+     0K .......... .......... .......... .......... .......... 49%  209K 0s
+    50K .......... .......... .......... .......... .......... 98%  599K 0s
+   100K .                                                     100% 2207G=0.3s
+
+2017-01-28 06:50:38 (313 KB/s) - ‘1.2.313.1’ saved [103585/103585]
+
+--2017-01-28 06:50:39--  http://doi.org/10.1093/economicpolicy/1.2.474
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.2.474 [following]
+--2017-01-28 06:50:40--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.2.474
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/1/2/474/2392246/Discussion?redirectedFrom=fulltext [following]
+--2017-01-28 06:50:43--  https://academic.oup.com/economicpolicy/article-abstract/1/2/474/2392246/Discussion?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 105379 (103K) [text/html]
+Saving to: ‘1.2.474’
+
+     0K .......... .......... .......... .......... .......... 48%  209K 0s
+    50K .......... .......... .......... .......... .......... 97%  604K 0s
+   100K ..                                                    100% 14.1M=0.3s
+
+2017-01-28 06:50:51 (319 KB/s) - ‘1.2.474’ saved [105379/105379]
+
+--2017-01-28 06:50:52--  http://doi.org/10.1093/economicpolicy/1.2.365
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.2.365 [following]
+--2017-01-28 06:50:53--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.2.365
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/1/2/365/2392234/Discussion?redirectedFrom=fulltext [following]
+--2017-01-28 06:50:55--  https://academic.oup.com/economicpolicy/article-abstract/1/2/365/2392234/Discussion?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 105361 (103K) [text/html]
+Saving to: ‘1.2.365’
+
+     0K .......... .......... .......... .......... .......... 48%  209K 0s
+    50K .......... .......... .......... .......... .......... 97%  610K 0s
+   100K ..                                                    100% 14.5M=0.3s
+
+2017-01-28 06:51:03 (320 KB/s) - ‘1.2.365’ saved [105361/105361]
+
+--2017-01-28 06:51:04--  http://doi.org/10.1093/economicpolicy/1.2.257
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.2.257 [following]
+--2017-01-28 06:51:05--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.2.257
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/1/2/257/2392220/Editors-introduction?redirectedFrom=fulltext [following]
+--2017-01-28 06:51:07--  https://academic.oup.com/economicpolicy/article-abstract/1/2/257/2392220/Editors-introduction?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 103542 (101K) [text/html]
+Saving to: ‘1.2.257’
+
+     0K .......... .......... .......... .......... .......... 49%  209K 0s
+    50K .......... .......... .......... .......... .......... 98%  612K 0s
+   100K .                                                     100% 21.1M=0.3s
+
+2017-01-28 06:51:14 (315 KB/s) - ‘1.2.257’ saved [103542/103542]
+
+--2017-01-28 06:51:15--  http://doi.org/10.1093/economicpolicy/1.2.479
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.2.479 [following]
+--2017-01-28 06:51:17--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.2.479
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/1/2/479/2392247/General-Discussion?redirectedFrom=fulltext [following]
+--2017-01-28 06:51:18--  https://academic.oup.com/economicpolicy/article-abstract/1/2/479/2392247/General-Discussion?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 103468 (101K) [text/html]
+Saving to: ‘1.2.479’
+
+     0K .......... .......... .......... .......... .......... 49%  209K 0s
+    50K .......... .......... .......... .......... .......... 98%  609K 0s
+   100K .                                                     100% 1989G=0.3s
+
+2017-01-28 06:51:25 (315 KB/s) - ‘1.2.479’ saved [103468/103468]
+
+--2017-01-28 06:51:26--  http://doi.org/10.1093/economicpolicy/1.2.445
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.2.445 [following]
+--2017-01-28 06:51:27--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.2.445
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/1/2/445/2392244/General-Discussion?redirectedFrom=fulltext [following]
+--2017-01-28 06:51:30--  https://academic.oup.com/economicpolicy/article-abstract/1/2/445/2392244/General-Discussion?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 103571 (101K) [text/html]
+Saving to: ‘1.2.445’
+
+     0K .......... .......... .......... .......... .......... 49%  209K 0s
+    50K .......... .......... .......... .......... .......... 98%  610K 0s
+   100K .                                                     100% 2181G=0.3s
+
+2017-01-28 06:51:37 (315 KB/s) - ‘1.2.445’ saved [103571/103571]
+
+--2017-01-28 06:51:38--  http://doi.org/10.1093/economicpolicy/1.2.306
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.2.306 [following]
+--2017-01-28 06:51:39--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.2.306
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/1/2/306/2392227/Discussion?redirectedFrom=fulltext [following]
+--2017-01-28 06:51:42--  https://academic.oup.com/economicpolicy/article-abstract/1/2/306/2392227/Discussion?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 120296 (117K) [text/html]
+Saving to: ‘1.2.306’
+
+     0K .......... .......... .......... .......... .......... 42%  207K 0s
+    50K .......... .......... .......... .......... .......... 85%  605K 0s
+   100K .......... .......                                    100% 17.8M=0.3s
+
+2017-01-28 06:51:50 (361 KB/s) - ‘1.2.306’ saved [120296/120296]
+
+--2017-01-28 06:51:51--  http://doi.org/10.1093/economicpolicy/1.2.406
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.2.406 [following]
+--2017-01-28 06:51:52--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.2.406
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/1/2/406/2392240/General-Discussion?redirectedFrom=fulltext [following]
+--2017-01-28 06:51:54--  https://academic.oup.com/economicpolicy/article-abstract/1/2/406/2392240/General-Discussion?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 103595 (101K) [text/html]
+Saving to: ‘1.2.406’
+
+     0K .......... .......... .......... .......... .......... 49%  209K 0s
+    50K .......... .......... .......... .......... .......... 98%  608K 0s
+   100K .                                                     100% 7.93M=0.3s
+
+2017-01-28 06:52:04 (315 KB/s) - ‘1.2.406’ saved [103595/103595]
+
+--2017-01-28 06:52:05--  http://doi.org/10.1093/economicpolicy/1.2.403
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.2.403 [following]
+--2017-01-28 06:52:06--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.2.403
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/1/2/403/2392239/Discussion?redirectedFrom=fulltext [following]
+--2017-01-28 06:52:09--  https://academic.oup.com/economicpolicy/article-abstract/1/2/403/2392239/Discussion?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 105393 (103K) [text/html]
+Saving to: ‘1.2.403’
+
+     0K .......... .......... .......... .......... .......... 48%  209K 0s
+    50K .......... .......... .......... .......... .......... 97%  604K 0s
+   100K ..                                                    100% 5575G=0.3s
+
+2017-01-28 06:52:17 (320 KB/s) - ‘1.2.403’ saved [105393/105393]
+
+--2017-01-28 06:52:18--  http://doi.org/10.1093/economicpolicy/1.2.441
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.2.441 [following]
+--2017-01-28 06:52:19--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.2.441
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 97220 (95K) [text/html]
+Saving to: ‘1.2.441’
+
+     0K .......... .......... .......... .......... .......... 52%  209K 0s
+    50K .......... .......... .......... .......... ....      100%  562K=0.3s
+
+2017-01-28 06:52:31 (298 KB/s) - ‘1.2.441’ saved [97220/97220]
+
+--2017-01-28 06:52:32--  http://doi.org/10.1093/economicpolicy/1.3.606
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.3.606 [following]
+--2017-01-28 06:52:33--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.3.606
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/1/3/606/2392265/General-Discussion?redirectedFrom=fulltext [following]
+--2017-01-28 06:52:36--  https://academic.oup.com/economicpolicy/article-abstract/1/3/606/2392265/General-Discussion?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 103594 (101K) [text/html]
+Saving to: ‘1.3.606’
+
+     0K .......... .......... .......... .......... .......... 49%  209K 0s
+    50K .......... .......... .......... .......... .......... 98%  611K 0s
+   100K .                                                     100% 2224G=0.3s
+
+2017-01-28 06:52:43 (315 KB/s) - ‘1.3.606’ saved [103594/103594]
+
+--2017-01-28 06:52:44--  http://doi.org/10.1093/economicpolicy/1.3.666
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.3.666 [following]
+--2017-01-28 06:52:45--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.3.666
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/1/3/666/2392271/General-Discussion?redirectedFrom=fulltext [following]
+--2017-01-28 06:52:48--  https://academic.oup.com/economicpolicy/article-abstract/1/3/666/2392271/General-Discussion?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 103599 (101K) [text/html]
+Saving to: ‘1.3.666’
+
+     0K .......... .......... .......... .......... .......... 49%  209K 0s
+    50K .......... .......... .......... .......... .......... 98%  609K 0s
+   100K .                                                     100% 7.55M=0.3s
+
+2017-01-28 06:52:56 (315 KB/s) - ‘1.3.666’ saved [103599/103599]
+
+--2017-01-28 06:52:57--  http://doi.org/10.1093/economicpolicy/1.3.695
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.3.695 [following]
+--2017-01-28 06:52:58--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.3.695
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/1/3/695/2392273/Discussion?redirectedFrom=fulltext [following]
+--2017-01-28 06:53:01--  https://academic.oup.com/economicpolicy/article-abstract/1/3/695/2392273/Discussion?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 105385 (103K) [text/html]
+Saving to: ‘1.3.695’
+
+     0K .......... .......... .......... .......... .......... 48%  209K 0s
+    50K .......... .......... .......... .......... .......... 97%  606K 0s
+   100K ..                                                    100% 13.8M=0.3s
+
+2017-01-28 06:53:10 (320 KB/s) - ‘1.3.695’ saved [105385/105385]
+
+--2017-01-28 06:53:11--  http://doi.org/10.1093/economicpolicy/1.3.548
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.3.548 [following]
+--2017-01-28 06:53:12--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.3.548
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/1/3/548/2392258/General-Discussion?redirectedFrom=fulltext [following]
+--2017-01-28 06:53:15--  https://academic.oup.com/economicpolicy/article-abstract/1/3/548/2392258/General-Discussion?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 103595 (101K) [text/html]
+Saving to: ‘1.3.548’
+
+     0K .......... .......... .......... .......... .......... 49%  209K 0s
+    50K .......... .......... .......... .......... .......... 98%  610K 0s
+   100K .                                                     100% 7.74M=0.3s
+
+2017-01-28 06:53:23 (315 KB/s) - ‘1.3.548’ saved [103595/103595]
+
+--2017-01-28 06:53:24--  http://doi.org/10.1093/economicpolicy/1.3.700
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.3.700 [following]
+--2017-01-28 06:53:25--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.3.700
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/1/3/700/2392274/General-Discussion?redirectedFrom=fulltext [following]
+--2017-01-28 06:53:27--  https://academic.oup.com/economicpolicy/article-abstract/1/3/700/2392274/General-Discussion?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 118537 (116K) [text/html]
+Saving to: ‘1.3.700’
+
+     0K .......... .......... .......... .......... .......... 43%  209K 0s
+    50K .......... .......... .......... .......... .......... 86%  610K 0s
+   100K .......... .....                                      100% 7.43M=0.3s
+
+2017-01-28 06:53:36 (358 KB/s) - ‘1.3.700’ saved [118537/118537]
+
+--2017-01-28 06:53:37--  http://doi.org/10.1093/economicpolicy/1.3.737
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.3.737 [following]
+--2017-01-28 06:53:38--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.3.737
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/1/3/737/2392279/General-Discussion?redirectedFrom=fulltext [following]
+--2017-01-28 06:53:40--  https://academic.oup.com/economicpolicy/article-abstract/1/3/737/2392279/General-Discussion?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 103470 (101K) [text/html]
+Saving to: ‘1.3.737’
+
+     0K .......... .......... .......... .......... .......... 49%  209K 0s
+    50K .......... .......... .......... .......... .......... 98%  610K 0s
+   100K .                                                     100% 1993G=0.3s
+
+2017-01-28 06:53:47 (315 KB/s) - ‘1.3.737’ saved [103470/103470]
+
+--2017-01-28 06:53:48--  http://doi.org/10.1093/economicpolicy/1.3.493
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.3.493 [following]
+--2017-01-28 06:53:49--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.3.493
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/1/3/493/2392250/Editors-introduction?redirectedFrom=fulltext [following]
+--2017-01-28 06:53:51--  https://academic.oup.com/economicpolicy/article-abstract/1/3/493/2392250/Editors-introduction?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 103532 (101K) [text/html]
+Saving to: ‘1.3.493’
+
+     0K .......... .......... .......... .......... .......... 49%  310K 0s
+    50K .......... .......... .......... .......... .......... 98%  313K 0s
+   100K .                                                     100% 7.59M=0.3s
+
+2017-01-28 06:53:59 (315 KB/s) - ‘1.3.493’ saved [103532/103532]
+
+--2017-01-28 06:54:00--  http://doi.org/10.1093/economicpolicy/1.3.602
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.3.602 [following]
+--2017-01-28 06:54:02--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.3.602
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/1/3/602/2392262/Discussion?redirectedFrom=fulltext [following]
+--2017-01-28 06:54:04--  https://academic.oup.com/economicpolicy/article-abstract/1/3/602/2392262/Discussion?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 105536 (103K) [text/html]
+Saving to: ‘1.3.602’
+
+     0K .......... .......... .......... .......... .......... 48%  208K 0s
+    50K .......... .......... .......... .......... .......... 97%  610K 0s
+   100K ...                                                   100% 10.5M=0.3s
+
+2017-01-28 06:54:10 (319 KB/s) - ‘1.3.602’ saved [105536/105536]
+
+--2017-01-28 06:54:11--  http://doi.org/10.1093/economicpolicy/1.3.731
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.3.731 [following]
+--2017-01-28 06:54:13--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.3.731
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/1/3/731/2392278/Discussion?redirectedFrom=fulltext [following]
+--2017-01-28 06:54:15--  https://academic.oup.com/economicpolicy/article-abstract/1/3/731/2392278/Discussion?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 105393 (103K) [text/html]
+Saving to: ‘1.3.731’
+
+     0K .......... .......... .......... .......... .......... 48%  209K 0s
+    50K .......... .......... .......... .......... .......... 97%  611K 0s
+   100K ..                                                    100% 10.5M=0.3s
+
+2017-01-28 06:54:26 (320 KB/s) - ‘1.3.731’ saved [105393/105393]
+
+--2017-01-28 06:54:27--  http://doi.org/10.1093/economicpolicy/1.3.541
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.3.541 [following]
+--2017-01-28 06:54:28--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.3.541
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/1/3/541/2392255/Discussion?redirectedFrom=fulltext [following]
+--2017-01-28 06:54:30--  https://academic.oup.com/economicpolicy/article-abstract/1/3/541/2392255/Discussion?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 120342 (118K) [text/html]
+Saving to: ‘1.3.541’
+
+     0K .......... .......... .......... .......... .......... 42%  209K 0s
+    50K .......... .......... .......... .......... .......... 85%  606K 0s
+   100K .......... .......                                    100% 12.2M=0.3s
+
+2017-01-28 06:54:40 (364 KB/s) - ‘1.3.541’ saved [120342/120342]
+
+--2017-01-28 06:54:41--  http://doi.org/10.1093/economicpolicy/1.3.660
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.3.660 [following]
+--2017-01-28 06:54:42--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/1.3.660
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 96907 (95K) [text/html]
+Saving to: ‘1.3.660’
+
+     0K .......... .......... .......... .......... .......... 52%  209K 0s
+    50K .......... .......... .......... .......... ....      100%  553K=0.3s
+
+2017-01-28 06:54:58 (296 KB/s) - ‘1.3.660’ saved [96907/96907]
+
+--2017-01-28 06:54:59--  http://doi.org/10.1093/economicpolicy/2.4.52
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/2.4.52 [following]
+--2017-01-28 06:55:00--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/2.4.52
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/2/4/52/2392335/Discussion?redirectedFrom=fulltext [following]
+--2017-01-28 06:55:02--  https://academic.oup.com/economicpolicy/article-abstract/2/4/52/2392335/Discussion?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 105479 (103K) [text/html]
+Saving to: ‘2.4.52’
+
+     0K .......... .......... .......... .......... .......... 48%  209K 0s
+    50K .......... .......... .......... .......... .......... 97%  610K 0s
+   100K ...                                                   100% 14.4M=0.3s
+
+2017-01-28 06:55:11 (321 KB/s) - ‘2.4.52’ saved [105479/105479]
+
+--2017-01-28 06:55:12--  http://doi.org/10.1093/economicpolicy/2.4.7
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/2.4.7 [following]
+--2017-01-28 06:55:13--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/2.4.7
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 95196 (93K) [text/html]
+Saving to: ‘2.4.7’
+
+     0K .......... .......... .......... .......... .......... 53%  208K 0s
+    50K .......... .......... .......... .......... ..        100%  535K=0.3s
+
+2017-01-28 06:55:21 (290 KB/s) - ‘2.4.7’ saved [95196/95196]
+
+--2017-01-28 06:55:22--  http://doi.org/10.1093/economicpolicy/2.4.101
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/2.4.101 [following]
+--2017-01-28 06:55:23--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/2.4.101
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/2/4/101/2392343/General-Discussion?redirectedFrom=fulltext [following]
+--2017-01-28 06:55:26--  https://academic.oup.com/economicpolicy/article-abstract/2/4/101/2392343/General-Discussion?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 103579 (101K) [text/html]
+Saving to: ‘2.4.101’
+
+     0K .......... .......... .......... .......... .......... 49%  209K 0s
+    50K .......... .......... .......... .......... .......... 98%  606K 0s
+   100K .                                                     100% 2196G=0.3s
+
+2017-01-28 06:55:37 (315 KB/s) - ‘2.4.101’ saved [103579/103579]
+
+--2017-01-28 06:55:38--  http://doi.org/10.1093/economicpolicy/2.4.140
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/2.4.140 [following]
+--2017-01-28 06:55:39--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/2.4.140
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/2/4/140/2392347/General-Discussion?redirectedFrom=fulltext [following]
+--2017-01-28 06:55:41--  https://academic.oup.com/economicpolicy/article-abstract/2/4/140/2392347/General-Discussion?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 103572 (101K) [text/html]
+Saving to: ‘2.4.140’
+
+     0K .......... .......... .......... .......... .......... 49%  209K 0s
+    50K .......... .......... .......... .......... .......... 98%  611K 0s
+   100K .                                                     100% 2183G=0.3s
+
+2017-01-28 06:55:48 (315 KB/s) - ‘2.4.140’ saved [103572/103572]
+
+--2017-01-28 06:55:49--  http://doi.org/10.1093/economicpolicy/2.4.167
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/2.4.167 [following]
+--2017-01-28 06:55:51--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/2.4.167
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/2/4/167/2392351/Discussion?redirectedFrom=fulltext [following]
+--2017-01-28 06:55:53--  https://academic.oup.com/economicpolicy/article-abstract/2/4/167/2392351/Discussion?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 105391 (103K) [text/html]
+Saving to: ‘2.4.167’
+
+     0K .......... .......... .......... .......... .......... 48%  209K 0s
+    50K .......... .......... .......... .......... .......... 97%  604K 0s
+   100K ..                                                    100% 15.7M=0.3s
+
+2017-01-28 06:55:58 (320 KB/s) - ‘2.4.167’ saved [105391/105391]
+
+--2017-01-28 06:55:59--  http://doi.org/10.1093/economicpolicy/2.4.204
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/2.4.204 [following]
+--2017-01-28 06:56:00--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/2.4.204
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/2/4/204/2392359/General-Discussion?redirectedFrom=fulltext [following]
+--2017-01-28 06:56:02--  https://academic.oup.com/economicpolicy/article-abstract/2/4/204/2392359/General-Discussion?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 103467 (101K) [text/html]
+Saving to: ‘2.4.204’
+
+     0K .......... .......... .......... .......... .......... 49%  210K 0s
+    50K .......... .......... .......... .......... .......... 98%  595K 0s
+   100K .                                                     100% 1987G=0.3s
+
+2017-01-28 06:56:11 (313 KB/s) - ‘2.4.204’ saved [103467/103467]
+
+--2017-01-28 06:56:12--  http://doi.org/10.1093/economicpolicy/2.4.136
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/2.4.136 [following]
+--2017-01-28 06:56:13--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/2.4.136
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/2/4/136/2392346/Discussion?redirectedFrom=fulltext [following]
+--2017-01-28 06:56:15--  https://academic.oup.com/economicpolicy/article-abstract/2/4/136/2392346/Discussion?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 105351 (103K) [text/html]
+Saving to: ‘2.4.136’
+
+     0K .......... .......... .......... .......... .......... 48%  209K 0s
+    50K .......... .......... .......... .......... .......... 97%  611K 0s
+   100K ..                                                    100% 14.1M=0.3s
+
+2017-01-28 06:56:21 (321 KB/s) - ‘2.4.136’ saved [105351/105351]
+
+--2017-01-28 06:56:22--  http://doi.org/10.1093/economicpolicy/2.4.170
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/2.4.170 [following]
+--2017-01-28 06:56:23--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/2.4.170
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/2/4/170/2392354/General-Discussion?redirectedFrom=fulltext [following]
+--2017-01-28 06:56:25--  https://academic.oup.com/economicpolicy/article-abstract/2/4/170/2392354/General-Discussion?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 103592 (101K) [text/html]
+Saving to: ‘2.4.170’
+
+     0K .......... .......... .......... .......... .......... 49%  209K 0s
+    50K .......... .......... .......... .......... .......... 98%  610K 0s
+   100K .                                                     100% 2220G=0.3s
+
+2017-01-28 06:56:36 (315 KB/s) - ‘2.4.170’ saved [103592/103592]
+
+--2017-01-28 06:56:37--  http://doi.org/10.1093/economicpolicy/2.4.95
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/2.4.95 [following]
+--2017-01-28 06:56:38--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/2.4.95
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/2/4/95/2392341/Discussion?redirectedFrom=fulltext [following]
+--2017-01-28 06:56:41--  https://academic.oup.com/economicpolicy/article-abstract/2/4/95/2392341/Discussion?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 105374 (103K) [text/html]
+Saving to: ‘2.4.95’
+
+     0K .......... .......... .......... .......... .......... 48%  208K 0s
+    50K .......... .......... .......... .......... .......... 97%  606K 0s
+   100K ..                                                    100% 14.1M=0.3s
+
+2017-01-28 06:56:50 (318 KB/s) - ‘2.4.95’ saved [105374/105374]
+
+--2017-01-28 06:56:51--  http://doi.org/10.1093/economicpolicy/2.4.57
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/2.4.57 [following]
+--2017-01-28 06:56:52--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/2.4.57
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/2/4/57/2392337/General-Discussion?redirectedFrom=fulltext [following]
+--2017-01-28 06:56:54--  https://academic.oup.com/economicpolicy/article-abstract/2/4/57/2392337/General-Discussion?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 103541 (101K) [text/html]
+Saving to: ‘2.4.57’
+
+     0K .......... .......... .......... .......... .......... 49%  209K 0s
+    50K .......... .......... .......... .......... .......... 98%  610K 0s
+   100K .                                                     100% 7.62M=0.3s
+
+2017-01-28 06:57:03 (315 KB/s) - ‘2.4.57’ saved [103541/103541]
+
+--2017-01-28 06:57:04--  http://doi.org/10.1093/economicpolicy/2.4.195
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/2.4.195 [following]
+--2017-01-28 06:57:05--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/2.4.195
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/2/4/195/2392358/A-US-view?redirectedFrom=fulltext [following]
+--2017-01-28 06:57:08--  https://academic.oup.com/economicpolicy/article-abstract/2/4/195/2392358/A-US-view?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 105456 (103K) [text/html]
+Saving to: ‘2.4.195.1’
+
+     0K .......... .......... .......... .......... .......... 48%  209K 0s
+    50K .......... .......... .......... .......... .......... 97%  610K 0s
+   100K ..                                                    100% 5692G=0.3s
+
+2017-01-28 06:57:18 (321 KB/s) - ‘2.4.195.1’ saved [105456/105456]
+
+--2017-01-28 06:57:19--  http://doi.org/10.1093/economicpolicy/2.5.7
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/2.5.7 [following]
+--2017-01-28 06:57:21--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/2.5.7
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/2/5/7/2392307/Editors-introduction?redirectedFrom=fulltext [following]
+--2017-01-28 06:57:23--  https://academic.oup.com/economicpolicy/article-abstract/2/5/7/2392307/Editors-introduction?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 101746 (99K) [text/html]
+Saving to: ‘2.5.7’
+
+     0K .......... .......... .......... .......... .......... 50%  209K 0s
+    50K .......... .......... .......... .......... ......... 100%  602K=0.3s
+
+2017-01-28 06:57:35 (309 KB/s) - ‘2.5.7’ saved [101746/101746]
+
+--2017-01-28 06:57:36--  http://doi.org/10.1093/economicpolicy/3.6.7
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/3.6.7 [following]
+--2017-01-28 06:57:37--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/3.6.7
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/3/6/07/2392324/Editors-introduction?redirectedFrom=fulltext [following]
+--2017-01-28 06:57:40--  https://academic.oup.com/economicpolicy/article-abstract/3/6/07/2392324/Editors-introduction?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 103495 (101K) [text/html]
+Saving to: ‘3.6.7’
+
+     0K .......... .......... .......... .......... .......... 49%  209K 0s
+    50K .......... .......... .......... .......... .......... 98%  610K 0s
+   100K .                                                     100% 2040G=0.3s
+
+2017-01-28 06:57:45 (315 KB/s) - ‘3.6.7’ saved [103495/103495]
+
+--2017-01-28 06:57:46--  http://doi.org/10.1093/economicpolicy/3.7.227
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/3.7.227 [following]
+--2017-01-28 06:57:47--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/3.7.227
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/3/7/227/2392315/Editors-introduction?redirectedFrom=fulltext [following]
+--2017-01-28 06:57:49--  https://academic.oup.com/economicpolicy/article-abstract/3/7/227/2392315/Editors-introduction?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 103531 (101K) [text/html]
+Saving to: ‘3.7.227’
+
+     0K .......... .......... .......... .......... .......... 49%  208K 0s
+    50K .......... .......... .......... .......... .......... 98%  599K 0s
+   100K .                                                     100% 2107G=0.3s
+
+2017-01-28 06:57:57 (313 KB/s) - ‘3.7.227’ saved [103531/103531]
+
+--2017-01-28 06:57:58--  http://doi.org/10.1093/economicpolicy/4.8.7
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/4.8.7 [following]
+--2017-01-28 06:57:59--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/4.8.7
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/4/8/7/2392375/Editors-introduction?redirectedFrom=fulltext [following]
+--2017-01-28 06:58:01--  https://academic.oup.com/economicpolicy/article-abstract/4/8/7/2392375/Editors-introduction?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 103470 (101K) [text/html]
+Saving to: ‘4.8.7’
+
+     0K .......... .......... .......... .......... .......... 49%  209K 0s
+    50K .......... .......... .......... .......... .......... 98%  602K 0s
+   100K .                                                     100% 1993G=0.3s
+
+2017-01-28 06:58:10 (313 KB/s) - ‘4.8.7’ saved [103470/103470]
+
+--2017-01-28 06:58:11--  http://doi.org/10.1093/economicpolicy/4.9.241
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/4.9.241 [following]
+--2017-01-28 06:58:12--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/4.9.241
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/4/9/241/2480139/Editor-s-introduction?redirectedFrom=fulltext [following]
+--2017-01-28 06:58:14--  https://academic.oup.com/economicpolicy/article-abstract/4/9/241/2480139/Editor-s-introduction?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 103532 (101K) [text/html]
+Saving to: ‘4.9.241’
+
+     0K .......... .......... .......... .......... .......... 49%  209K 0s
+    50K .......... .......... .......... .......... .......... 98%  607K 0s
+   100K .                                                     100% 2109G=0.3s
+
+2017-01-28 06:58:22 (314 KB/s) - ‘4.9.241’ saved [103532/103532]
+
+--2017-01-28 06:58:23--  http://doi.org/10.1093/economicpolicy/5.10.7
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/5.10.7 [following]
+--2017-01-28 06:58:25--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/5.10.7
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/5/10/7/2392369/Editors-introduction?redirectedFrom=fulltext [following]
+--2017-01-28 06:58:28--  https://academic.oup.com/economicpolicy/article-abstract/5/10/7/2392369/Editors-introduction?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 103511 (101K) [text/html]
+Saving to: ‘5.10.7’
+
+     0K .......... .......... .......... .......... .......... 49%  209K 0s
+    50K .......... .......... .......... .......... .......... 98%  608K 0s
+   100K .                                                     100% 7.75M=0.3s
+
+2017-01-28 06:58:33 (314 KB/s) - ‘5.10.7’ saved [103511/103511]
+
+--2017-01-28 06:58:34--  http://doi.org/10.1093/economicpolicy/5.11.289
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/5.11.289 [following]
+--2017-01-28 06:58:35--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/5.11.289
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/5/11/289/2392377/Editors-introduction?redirectedFrom=fulltext [following]
+--2017-01-28 06:58:38--  https://academic.oup.com/economicpolicy/article-abstract/5/11/289/2392377/Editors-introduction?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 103542 (101K) [text/html]
+Saving to: ‘5.11.289’
+
+     0K .......... .......... .......... .......... .......... 49%  209K 0s
+    50K .......... .......... .......... .......... .......... 98%  606K 0s
+   100K .                                                     100% 3.06M=0.3s
+
+2017-01-28 06:58:48 (314 KB/s) - ‘5.11.289’ saved [103542/103542]
+
+--2017-01-28 06:58:49--  http://doi.org/10.1093/economicpolicy/6.12.7
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/6.12.7 [following]
+--2017-01-28 06:58:50--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/6.12.7
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/6/12/7/2392380/Editors-introduction?redirectedFrom=fulltext [following]
+--2017-01-28 06:58:53--  https://academic.oup.com/economicpolicy/article-abstract/6/12/7/2392380/Editors-introduction?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 103488 (101K) [text/html]
+Saving to: ‘6.12.7’
+
+     0K .......... .......... .......... .......... .......... 49%  204K 0s
+    50K .......... .......... .......... .......... .......... 98% 26.3K 0s
+   100K .                                                     100% 2027G=2.1s
+
+2017-01-28 06:59:05 (47.1 KB/s) - ‘6.12.7’ saved [103488/103488]
+
+--2017-01-28 06:59:06--  http://doi.org/10.1093/economicpolicy/6.12.239
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/6.12.239 [following]
+--2017-01-28 06:59:07--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/6.12.239
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/6/13/239/2392400/Editors-introduction?redirectedFrom=fulltext [following]
+--2017-01-28 06:59:10--  https://academic.oup.com/economicpolicy/article-abstract/6/13/239/2392400/Editors-introduction?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 103576 (101K) [text/html]
+Saving to: ‘6.12.239’
+
+     0K .......... .......... .......... .......... .......... 49%  207K 0s
+    50K .......... .......... .......... .......... .......... 98%  604K 0s
+   100K .                                                     100% 8.31M=0.3s
+
+2017-01-28 06:59:14 (312 KB/s) - ‘6.12.239’ saved [103576/103576]
+
+--2017-01-28 06:59:15--  http://doi.org/10.1093/economicpolicy/7.14.7
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/7.14.7 [following]
+--2017-01-28 06:59:16--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/7.14.7
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/7/14/7/2480150/Editor-s-introduction?redirectedFrom=fulltext [following]
+--2017-01-28 06:59:19--  https://academic.oup.com/economicpolicy/article-abstract/7/14/7/2480150/Editor-s-introduction?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 118461 (116K) [text/html]
+Saving to: ‘7.14.7’
+
+     0K .......... .......... .......... .......... .......... 43%  206K 0s
+    50K .......... .......... .......... .......... .......... 86%  601K 0s
+   100K .......... .....                                      100% 10.0M=0.3s
+
+2017-01-28 06:59:31 (354 KB/s) - ‘7.14.7’ saved [118461/118461]
+
+--2017-01-28 06:59:32--  http://doi.org/10.1093/economicpolicy/7.15.271
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/7.15.271 [following]
+--2017-01-28 06:59:33--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/7.15.271
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/7/15/271/2480201/Editor-s-introduction?redirectedFrom=fulltext [following]
+--2017-01-28 06:59:35--  https://academic.oup.com/economicpolicy/article-abstract/7/15/271/2480201/Editor-s-introduction?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 103589 (101K) [text/html]
+Saving to: ‘7.15.271’
+
+     0K .......... .......... .......... .......... .......... 49%  209K 0s
+    50K .......... .......... .......... .......... .......... 98%  608K 0s
+   100K .                                                     100% 2215G=0.3s
+
+2017-01-28 06:59:42 (315 KB/s) - ‘7.15.271’ saved [103589/103589]
+
+--2017-01-28 06:59:43--  http://doi.org/10.1093/economicpolicy/8.16.7
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/8.16.7 [following]
+--2017-01-28 06:59:44--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/8.16.7
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/8/16/7/2392410/Editors-introduction?redirectedFrom=fulltext [following]
+--2017-01-28 06:59:47--  https://academic.oup.com/economicpolicy/article-abstract/8/16/7/2392410/Editors-introduction?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 103513 (101K) [text/html]
+Saving to: ‘8.16.7’
+
+     0K .......... .......... .......... .......... .......... 49%  306K 0s
+    50K .......... .......... .......... .......... .......... 98%  314K 0s
+   100K .                                                     100% 2073G=0.3s
+
+2017-01-28 06:59:53 (313 KB/s) - ‘8.16.7’ saved [103513/103513]
+
+--2017-01-28 06:59:54--  http://doi.org/10.1093/economicpolicy/8.17.213
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/8.17.213 [following]
+--2017-01-28 06:59:55--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/8.17.213
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/8/17/213/2392418/Editors-introduction?redirectedFrom=fulltext [following]
+--2017-01-28 06:59:57--  https://academic.oup.com/economicpolicy/article-abstract/8/17/213/2392418/Editors-introduction?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 103577 (101K) [text/html]
+Saving to: ‘8.17.213’
+
+     0K .......... .......... .......... .......... .......... 49%  209K 0s
+    50K .......... .......... .......... .......... .......... 98%  613K 0s
+   100K .                                                     100% 2192G=0.3s
+
+2017-01-28 07:00:05 (315 KB/s) - ‘8.17.213’ saved [103577/103577]
+
+--2017-01-28 07:00:06--  http://doi.org/10.1093/economicpolicy/9.18.7
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/9.18.7 [following]
+--2017-01-28 07:00:07--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/9.18.7
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/9/18/7/2392417/Editors-introduction?redirectedFrom=fulltext [following]
+--2017-01-28 07:00:09--  https://academic.oup.com/economicpolicy/article-abstract/9/18/7/2392417/Editors-introduction?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://academic.oup.com/economicpolicy/article/9/18/7/2392417/Editors-introduction [following]
+--2017-01-28 07:00:14--  https://academic.oup.com/economicpolicy/article/9/18/7/2392417/Editors-introduction
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/9/18/7/2392417/Editors-introduction?redirectedFrom=fulltext [following]
+--2017-01-28 07:00:15--  https://academic.oup.com/economicpolicy/article-abstract/9/18/7/2392417/Editors-introduction?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://academic.oup.com/economicpolicy/article/9/18/7/2392417/Editors-introduction [following]
+--2017-01-28 07:00:19--  https://academic.oup.com/economicpolicy/article/9/18/7/2392417/Editors-introduction
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/9/18/7/2392417/Editors-introduction?redirectedFrom=fulltext [following]
+--2017-01-28 07:00:21--  https://academic.oup.com/economicpolicy/article-abstract/9/18/7/2392417/Editors-introduction?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 103503 (101K) [text/html]
+Saving to: ‘9.18.7’
+
+     0K .......... .......... .......... .......... .......... 49%  309K 0s
+    50K .......... .......... .......... .......... .......... 98%  314K 0s
+   100K .                                                     100% 14.2M=0.3s
+
+2017-01-28 07:00:29 (315 KB/s) - ‘9.18.7’ saved [103503/103503]
+
+--2017-01-28 07:00:30--  http://doi.org/10.1093/economicpolicy/9.19.193
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/9.19.193 [following]
+--2017-01-28 07:00:31--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/9.19.193
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/9/19/193/2918723/Editors-introduction?redirectedFrom=fulltext [following]
+--2017-01-28 07:00:33--  https://academic.oup.com/economicpolicy/article-abstract/9/19/193/2918723/Editors-introduction?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 103577 (101K) [text/html]
+Saving to: ‘9.19.193’
+
+     0K .......... .......... .......... .......... .......... 49%  209K 0s
+    50K .......... .......... .......... .......... .......... 98%  609K 0s
+   100K .                                                     100% 2192G=0.3s
+
+2017-01-28 07:00:40 (315 KB/s) - ‘9.19.193’ saved [103577/103577]
+
+--2017-01-28 07:00:41--  http://doi.org/10.1093/economicpolicy/9.sup19.7
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/9.sup19.7 [following]
+--2017-01-28 07:00:42--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/9.sup19.7
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/9/sup19/7/2918674/Preface?redirectedFrom=fulltext [following]
+--2017-01-28 07:00:45--  https://academic.oup.com/economicpolicy/article-abstract/9/sup19/7/2918674/Preface?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://academic.oup.com/economicpolicy/article/9/sup19/7/2918674/Preface [following]
+--2017-01-28 07:00:49--  https://academic.oup.com/economicpolicy/article/9/sup19/7/2918674/Preface
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/9/sup19/7/2918674/Preface?redirectedFrom=fulltext [following]
+--2017-01-28 07:00:51--  https://academic.oup.com/economicpolicy/article-abstract/9/sup19/7/2918674/Preface?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 103170 (101K) [text/html]
+Saving to: ‘9.sup19.7’
+
+     0K .......... .......... .......... .......... .......... 49%  209K 0s
+    50K .......... .......... .......... .......... .......... 99%  609K 0s
+   100K                                                       100% 1434G=0.3s
+
+2017-01-28 07:00:57 (313 KB/s) - ‘9.sup19.7’ saved [103170/103170]
+
+--2017-01-28 07:00:58--  http://doi.org/10.1093/economicpolicy/9.sup19.9
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/9.sup19.9 [following]
+--2017-01-28 07:00:59--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/9.sup19.9
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/9/sup19/9/2918675/Introduction-to-a-Ukrainian-debate?redirectedFrom=fulltext [following]
+--2017-01-28 07:01:01--  https://academic.oup.com/economicpolicy/article-abstract/9/sup19/9/2918675/Introduction-to-a-Ukrainian-debate?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 105904 (103K) [text/html]
+Saving to: ‘9.sup19.9’
+
+     0K .......... .......... .......... .......... .......... 48%  310K 0s
+    50K .......... .......... .......... .......... .......... 96%  314K 0s
+   100K ...                                                   100% 4.83M=0.3s
+
+2017-01-28 07:01:08 (322 KB/s) - ‘9.sup19.9’ saved [105904/105904]
+
+--2017-01-28 07:01:09--  http://doi.org/10.1093/economicpolicy/10.20.7
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/10.20.7 [following]
+--2017-01-28 07:01:10--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/10.20.7
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/10/20/7/2392251/Editors-introduction?redirectedFrom=fulltext [following]
+--2017-01-28 07:01:12--  https://academic.oup.com/economicpolicy/article-abstract/10/20/7/2392251/Editors-introduction?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 103549 (101K) [text/html]
+Saving to: ‘10.20.7’
+
+     0K .......... .......... .......... .......... .......... 49%  209K 0s
+    50K .......... .......... .......... .......... .......... 98%  612K 0s
+   100K .                                                     100% 2140G=0.3s
+
+2017-01-28 07:01:22 (315 KB/s) - ‘10.20.7’ saved [103549/103549]
+
+--2017-01-28 07:01:23--  http://doi.org/10.1093/economicpolicy/10.21.199
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/10.21.199 [following]
+--2017-01-28 07:01:24--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/10.21.199
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /economicpolicy/article-abstract/10/21/199/2392280/Editors-introduction?redirectedFrom=fulltext [following]
+--2017-01-28 07:01:27--  https://academic.oup.com/economicpolicy/article-abstract/10/21/199/2392280/Editors-introduction?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 103618 (101K) [text/html]
+Saving to: ‘10.21.199’
+
+     0K .......... .......... .......... .......... .......... 49%  209K 0s
+    50K .......... .......... .......... .......... .......... 98%  611K 0s
+   100K .                                                     100% 2269G=0.3s
+
+2017-01-28 07:01:34 (315 KB/s) - ‘10.21.199’ saved [103618/103618]
+
+--2017-01-28 07:01:35--  http://doi.org/10.1093/economicpolicy/11.22.7
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/11.22.7 [following]
+--2017-01-28 07:01:36--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/11.22.7
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 95264 (93K) [text/html]
+Saving to: ‘11.22.7’
+
+     0K .......... .......... .......... .......... .......... 53%  209K 0s
+    50K .......... .......... .......... .......... ...       100%  538K=0.3s
+
+2017-01-28 07:01:43 (291 KB/s) - ‘11.22.7’ saved [95264/95264]
+
+--2017-01-28 07:01:44--  http://doi.org/10.1093/economicpolicy/11.23.257
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/11.23.257 [following]
+--2017-01-28 07:01:46--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1093/economicpolicy/11.23.257
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 95336 (93K) [text/html]
+Saving to: ‘11.23.257’
+
+     0K .......... .......... .......... .......... .......... 53%  209K 0s
+    50K .......... .......... .......... .......... ...       100%  539K=0.3s
+
+2017-01-28 07:01:52 (292 KB/s) - ‘11.23.257’ saved [95336/95336]
+
+--2017-01-28 07:01:53--  http://doi.org/10.1111/1468-0327.00018
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00018 [following]
+--2017-01-28 07:01:54--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00018
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 106004 (104K) [text/html]
+Saving to: ‘1468-0327.00018’
+
+     0K .......... .......... .......... .......... .......... 48%  209K 0s
+    50K .......... .......... .......... .......... .......... 96%  604K 0s
+   100K ...                                                   100% 6713G=0.3s
+
+2017-01-28 07:02:03 (321 KB/s) - ‘1468-0327.00018’ saved [106004/106004]
+
+--2017-01-28 07:02:04--  http://doi.org/10.1111/1468-0327.00017
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00017 [following]
+--2017-01-28 07:02:05--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 100665 (98K) [text/html]
+Saving to: ‘1468-0327.00017’
+
+     0K .......... .......... .......... .......... .......... 50%  209K 0s
+    50K .......... .......... .......... .......... ........  100%  594K=0.3s
+
+2017-01-28 07:02:16 (307 KB/s) - ‘1468-0327.00017’ saved [100665/100665]
+
+--2017-01-28 07:02:17--  http://doi.org/10.1111/1468-0327.00014
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00014 [following]
+--2017-01-28 07:02:19--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00014
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 95171 (93K) [text/html]
+Saving to: ‘1468-0327.00014’
+
+     0K .......... .......... .......... .......... .......... 53%  209K 0s
+    50K .......... .......... .......... .......... ..        100% 11.2M=0.2s
+
+2017-01-28 07:02:25 (382 KB/s) - ‘1468-0327.00014’ saved [95171/95171]
+
+--2017-01-28 07:02:26--  http://doi.org/10.1111/1468-0327.00019
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00019 [following]
+--2017-01-28 07:02:27--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 103243 (101K) [text/html]
+Saving to: ‘1468-0327.00019’
+
+     0K .......... .......... .......... .......... .......... 49%  208K 0s
+    50K .......... .......... .......... .......... .......... 99%  607K 0s
+   100K                                                       100% 1570G=0.3s
+
+2017-01-28 07:02:38 (312 KB/s) - ‘1468-0327.00019’ saved [103243/103243]
+
+--2017-01-28 07:02:39--  http://doi.org/10.1111/1468-0327.00016
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00016 [following]
+--2017-01-28 07:02:40--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00016
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 104927 (102K) [text/html]
+Saving to: ‘1468-0327.00016’
+
+     0K .......... .......... .......... .......... .......... 48%  209K 0s
+    50K .......... .......... .......... .......... .......... 97%  606K 0s
+   100K ..                                                    100% 4707G=0.3s
+
+2017-01-28 07:02:51 (318 KB/s) - ‘1468-0327.00016’ saved [104927/104927]
+
+--2017-01-28 07:02:52--  http://doi.org/10.1111/1468-0327.00015
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00015 [following]
+--2017-01-28 07:02:53--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 101550 (99K) [text/html]
+Saving to: ‘1468-0327.00015’
+
+     0K .......... .......... .......... .......... .......... 50%  208K 0s
+    50K .......... .......... .......... .......... ......... 100%  597K=0.3s
+
+2017-01-28 07:03:03 (308 KB/s) - ‘1468-0327.00015’ saved [101550/101550]
+
+--2017-01-28 07:03:04--  http://doi.org/10.1111/1468-0327.00025
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-0327.00025 [following]
+--2017-01-28 07:03:05--  http://doi.wiley.com/10.1111/1468-0327.00025
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-0327.00025 [following]
+--2017-01-28 07:03:06--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-0327.00025
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-28 07:03:06 ERROR 404: Not Found.
+
+--2017-01-28 07:03:07--  http://doi.org/10.1111/ecop.1997.12.issue-25
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/ecop.1997.12.issue-25 [following]
+--2017-01-28 07:03:08--  http://doi.wiley.com/10.1111/ecop.1997.12.issue-25
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/ecop.1997.12.issue-25 [following]
+--2017-01-28 07:03:10--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/ecop.1997.12.issue-25
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-28 07:03:10 ERROR 404: Not Found.
+
+--2017-01-28 07:03:11--  http://doi.org/10.1111/1468-0327.t01-1-00025
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-0327.t01-1-00025 [following]
+--2017-01-28 07:03:12--  http://doi.wiley.com/10.1111/1468-0327.t01-1-00025
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-0327.t01-1-00025 [following]
+--2017-01-28 07:03:13--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-0327.t01-1-00025
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-28 07:03:13 ERROR 404: Not Found.
+
+--2017-01-28 07:03:14--  http://doi.org/10.1111/1468-0327.00023
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00023 [following]
+--2017-01-28 07:03:16--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 117118 (114K) [text/html]
+Saving to: ‘1468-0327.00023’
+
+     0K .......... .......... .......... .......... .......... 43%  209K 0s
+    50K .......... .......... .......... .......... .......... 87%  602K 0s
+   100K .......... ....                                       100% 23.7M=0.3s
+
+2017-01-28 07:03:23 (354 KB/s) - ‘1468-0327.00023’ saved [117118/117118]
+
+--2017-01-28 07:03:24--  http://doi.org/10.1111/1468-0327.00024
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00024 [following]
+--2017-01-28 07:03:25--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00024
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 116342 (114K) [text/html]
+Saving to: ‘1468-0327.00024’
+
+     0K .......... .......... .......... .......... .......... 44%  208K 0s
+    50K .......... .......... .......... .......... .......... 88%  614K 0s
+   100K .......... ...                                        100% 8.99M=0.3s
+
+2017-01-28 07:03:36 (352 KB/s) - ‘1468-0327.00024’ saved [116342/116342]
+
+--2017-01-28 07:03:37--  http://doi.org/10.1111/1468-0327.00020
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00020 [following]
+--2017-01-28 07:03:38--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00020
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 110156 (108K) [text/html]
+Saving to: ‘1468-0327.00020’
+
+     0K .......... .......... .......... .......... .......... 46%  209K 0s
+    50K .......... .......... .......... .......... .......... 92%  604K 0s
+   100K .......                                               100% 29.7M=0.3s
+
+2017-01-28 07:03:46 (333 KB/s) - ‘1468-0327.00020’ saved [110156/110156]
+
+--2017-01-28 07:03:47--  http://doi.org/10.1111/1468-0327.00021
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00021 [following]
+--2017-01-28 07:03:48--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 100099 (98K) [text/html]
+Saving to: ‘1468-0327.00021’
+
+     0K .......... .......... .......... .......... .......... 51%  209K 0s
+    50K .......... .......... .......... .......... .......   100%  584K=0.3s
+
+2017-01-28 07:04:00 (304 KB/s) - ‘1468-0327.00021’ saved [100099/100099]
+
+--2017-01-28 07:04:01--  http://doi.org/10.1111/1468-0327.00022
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00022 [following]
+--2017-01-28 07:04:02--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00022
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 103978 (102K) [text/html]
+Saving to: ‘1468-0327.00022’
+
+     0K .......... .......... .......... .......... .......... 49%  209K 0s
+    50K .......... .......... .......... .......... .......... 98%  616K 0s
+   100K .                                                     100% 2939G=0.3s
+
+2017-01-28 07:04:10 (317 KB/s) - ‘1468-0327.00022’ saved [103978/103978]
+
+--2017-01-28 07:04:11--  http://doi.org/10.1111/1468-0327.00026
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00026 [following]
+--2017-01-28 07:04:13--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00026
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 99518 (97K) [text/html]
+Saving to: ‘1468-0327.00026’
+
+     0K .......... .......... .......... .......... .......... 51%  309K 0s
+    50K .......... .......... .......... .......... .......   100%  296K=0.3s
+
+2017-01-28 07:04:20 (302 KB/s) - ‘1468-0327.00026’ saved [99518/99518]
+
+--2017-01-28 07:04:21--  http://doi.org/10.1111/1468-0327.00033
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00033 [following]
+--2017-01-28 07:04:23--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00033
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 100009 (98K) [text/html]
+Saving to: ‘1468-0327.00033’
+
+     0K .......... .......... .......... .......... .......... 51%  209K 0s
+    50K .......... .......... .......... .......... .......   100%  584K=0.3s
+
+2017-01-28 07:04:36 (304 KB/s) - ‘1468-0327.00033’ saved [100009/100009]
+
+--2017-01-28 07:04:37--  http://doi.org/10.1111/1468-0327.00032
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00032 [following]
+--2017-01-28 07:04:38--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00032
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 103182 (101K) [text/html]
+Saving to: ‘1468-0327.00032’
+
+     0K .......... .......... .......... .......... .......... 49%  209K 0s
+    50K .......... .......... .......... .......... .......... 99%  608K 0s
+   100K                                                       100% 1457G=0.3s
+
+2017-01-28 07:04:47 (313 KB/s) - ‘1468-0327.00032’ saved [103182/103182]
+
+--2017-01-28 07:04:48--  http://doi.org/10.1111/1468-0327.00030
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00030 [following]
+--2017-01-28 07:04:50--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00030
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 104335 (102K) [text/html]
+Saving to: ‘1468-0327.00030’
+
+     0K .......... .......... .......... .......... .......... 49%  209K 0s
+    50K .......... .......... .......... .......... .......... 98%  608K 0s
+   100K .                                                     100% 3604G=0.3s
+
+2017-01-28 07:04:58 (317 KB/s) - ‘1468-0327.00030’ saved [104335/104335]
+
+--2017-01-28 07:04:59--  http://doi.org/10.1111/1468-0327.00029
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00029 [following]
+--2017-01-28 07:05:00--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00029
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 102797 (100K) [text/html]
+Saving to: ‘1468-0327.00029’
+
+     0K .......... .......... .......... .......... .......... 49%  209K 0s
+    50K .......... .......... .......... .......... .......... 99%  607K 0s
+   100K                                                       100%  739G=0.3s
+
+2017-01-28 07:05:08 (312 KB/s) - ‘1468-0327.00029’ saved [102797/102797]
+
+--2017-01-28 07:05:09--  http://doi.org/10.1111/1468-0327.00028
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00028 [following]
+--2017-01-28 07:05:10--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00028
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 104588 (102K) [text/html]
+Saving to: ‘1468-0327.00028’
+
+     0K .......... .......... .......... .......... .......... 48%  209K 0s
+    50K .......... .......... .......... .......... .......... 97%  605K 0s
+   100K ..                                                    100% 7.85M=0.3s
+
+2017-01-28 07:05:20 (317 KB/s) - ‘1468-0327.00028’ saved [104588/104588]
+
+--2017-01-28 07:05:21--  http://doi.org/10.1111/1468-0327.00034
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00034 [following]
+--2017-01-28 07:05:23--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00034
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 103202 (101K) [text/html]
+Saving to: ‘1468-0327.00034’
+
+     0K .......... .......... .......... .......... .......... 49%  208K 0s
+    50K .......... .......... .......... .......... .......... 99%  612K 0s
+   100K                                                       100% 1494G=0.3s
+
+2017-01-28 07:05:33 (313 KB/s) - ‘1468-0327.00034’ saved [103202/103202]
+
+--2017-01-28 07:05:34--  http://doi.org/10.1111/1468-0327.00031
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00031 [following]
+--2017-01-28 07:05:35--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00031
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 99995 (98K) [text/html]
+Saving to: ‘1468-0327.00031’
+
+     0K .......... .......... .......... .......... .......... 51%  209K 0s
+    50K .......... .......... .......... .......... .......   100%  564K=0.3s
+
+2017-01-28 07:05:45 (302 KB/s) - ‘1468-0327.00031’ saved [99995/99995]
+
+--2017-01-28 07:05:46--  http://doi.org/10.1111/1468-0327.00027
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00027 [following]
+--2017-01-28 07:05:48--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00027
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 95175 (93K) [text/html]
+Saving to: ‘1468-0327.00027’
+
+     0K .......... .......... .......... .......... .......... 53%  209K 0s
+    50K .......... .......... .......... .......... ..        100%  532K=0.3s
+
+2017-01-28 07:05:55 (290 KB/s) - ‘1468-0327.00027’ saved [95175/95175]
+
+--2017-01-28 07:05:56--  http://doi.org/10.1111/1468-0327.00038
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00038 [following]
+--2017-01-28 07:05:57--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00038
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 104208 (102K) [text/html]
+Saving to: ‘1468-0327.00038’
+
+     0K .......... .......... .......... .......... .......... 49%  209K 0s
+    50K .......... .......... .......... .......... .......... 98%  610K 0s
+   100K .                                                     100% 3368G=0.3s
+
+2017-01-28 07:06:04 (317 KB/s) - ‘1468-0327.00038’ saved [104208/104208]
+
+--2017-01-28 07:06:05--  http://doi.org/10.1111/1468-0327.00039
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00039 [following]
+--2017-01-28 07:06:06--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00039
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 117402 (115K) [text/html]
+Saving to: ‘1468-0327.00039’
+
+     0K .......... .......... .......... .......... .......... 43%  209K 0s
+    50K .......... .......... .......... .......... .......... 87%  614K 0s
+   100K .......... ....                                       100% 8.10M=0.3s
+
+2017-01-28 07:06:14 (355 KB/s) - ‘1468-0327.00039’ saved [117402/117402]
+
+--2017-01-28 07:06:15--  http://doi.org/10.1111/1468-0327.00036
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00036 [following]
+--2017-01-28 07:06:17--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00036
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 115572 (113K) [text/html]
+Saving to: ‘1468-0327.00036’
+
+     0K .......... .......... .......... .......... .......... 44%  208K 0s
+    50K .......... .......... .......... .......... .......... 88%  605K 0s
+   100K .......... ..                                         100% 22.0M=0.3s
+
+2017-01-28 07:06:31 (349 KB/s) - ‘1468-0327.00036’ saved [115572/115572]
+
+--2017-01-28 07:06:32--  http://doi.org/10.1111/1468-0327.00040
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00040 [following]
+--2017-01-28 07:06:33--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00040
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 102895 (100K) [text/html]
+Saving to: ‘1468-0327.00040’
+
+     0K .......... .......... .......... .......... .......... 49%  209K 0s
+    50K .......... .......... .......... .......... .......... 99%  613K 0s
+   100K                                                       100%  922G=0.3s
+
+2017-01-28 07:06:41 (313 KB/s) - ‘1468-0327.00040’ saved [102895/102895]
+
+--2017-01-28 07:06:42--  http://doi.org/10.1111/1468-0327.00041
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00041 [following]
+--2017-01-28 07:06:43--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00041
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 102850 (100K) [text/html]
+Saving to: ‘1468-0327.00041’
+
+     0K .......... .......... .......... .......... .......... 49%  208K 0s
+    50K .......... .......... .......... .......... .......... 99%  610K 0s
+   100K                                                       100%  838G=0.3s
+
+2017-01-28 07:06:47 (312 KB/s) - ‘1468-0327.00041’ saved [102850/102850]
+
+--2017-01-28 07:06:48--  http://doi.org/10.1111/1468-0327.00035
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00035 [following]
+--2017-01-28 07:06:50--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00035
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 95197 (93K) [text/html]
+Saving to: ‘1468-0327.00035’
+
+     0K .......... .......... .......... .......... .......... 53%  209K 0s
+    50K .......... .......... .......... .......... ..        100%  532K=0.3s
+
+2017-01-28 07:06:58 (290 KB/s) - ‘1468-0327.00035’ saved [95197/95197]
+
+--2017-01-28 07:06:59--  http://doi.org/10.1111/1468-0327.00037
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00037 [following]
+--2017-01-28 07:07:01--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00037
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 103867 (101K) [text/html]
+Saving to: ‘1468-0327.00037’
+
+     0K .......... .......... .......... .......... .......... 49%  208K 0s
+    50K .......... .......... .......... .......... .......... 98%  612K 0s
+   100K .                                                     100% 2733G=0.3s
+
+2017-01-28 07:07:07 (316 KB/s) - ‘1468-0327.00037’ saved [103867/103867]
+
+--2017-01-28 07:07:08--  http://doi.org/10.1111/1468-0327.00045
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00045 [following]
+--2017-01-28 07:07:09--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00045
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 103703 (101K) [text/html]
+Saving to: ‘1468-0327.00045’
+
+     0K .......... .......... .......... .......... .......... 49%  209K 0s
+    50K .......... .......... .......... .......... .......... 98%  607K 0s
+   100K .                                                     100% 2427G=0.3s
+
+2017-01-28 07:07:19 (315 KB/s) - ‘1468-0327.00045’ saved [103703/103703]
+
+--2017-01-28 07:07:20--  http://doi.org/10.1111/1468-0327.00044
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00044 [following]
+--2017-01-28 07:07:21--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00044
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 115006 (112K) [text/html]
+Saving to: ‘1468-0327.00044’
+
+     0K .......... .......... .......... .......... .......... 44%  209K 0s
+    50K .......... .......... .......... .......... .......... 89%  606K 0s
+   100K .......... ..                                         100% 25.4M=0.3s
+
+2017-01-28 07:07:26 (349 KB/s) - ‘1468-0327.00044’ saved [115006/115006]
+
+--2017-01-28 07:07:27--  http://doi.org/10.1111/1468-0327.00043
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00043 [following]
+--2017-01-28 07:07:29--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00043
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 101509 (99K) [text/html]
+Saving to: ‘1468-0327.00043’
+
+     0K .......... .......... .......... .......... .......... 50%  209K 0s
+    50K .......... .......... .......... .......... ......... 100%  603K=0.3s
+
+2017-01-28 07:07:34 (309 KB/s) - ‘1468-0327.00043’ saved [101509/101509]
+
+--2017-01-28 07:07:35--  http://doi.org/10.1111/1468-0327.00046
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00046 [following]
+--2017-01-28 07:07:37--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00046
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 101636 (99K) [text/html]
+Saving to: ‘1468-0327.00046’
+
+     0K .......... .......... .......... .......... .......... 50%  209K 0s
+    50K .......... .......... .......... .......... ......... 100%  605K=0.3s
+
+2017-01-28 07:07:44 (309 KB/s) - ‘1468-0327.00046’ saved [101636/101636]
+
+--2017-01-28 07:07:45--  http://doi.org/10.1111/1468-0327.00042
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00042 [following]
+--2017-01-28 07:07:46--  https://academic.oup.com/economicpolicy/article-lookup/doi/10.1111/1468-0327.00042
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 95174 (93K) [text/html]
+Saving to: ‘1468-0327.00042’
+
+     0K .......... .......... .......... .......... .......... 53%  208K 0s
+    50K .......... .......... .......... .......... ..        100%  536K=0.3s
+
+2017-01-28 07:07:56 (290 KB/s) - ‘1468-0327.00042’ saved [95174/95174]
+
+FINISHED --2017-01-28 07:07:56--
+Total wall clock time: 19m 47s
+Downloaded: 97 files, 9.6M in 33s (299 KB/s)

@@ -1,0 +1,1894 @@
+--2017-01-30 07:02:18--  http://doi.org/10.2307/799185
+Resolving doi.org (doi.org)... 54.191.229.235, 38.100.138.163, 208.254.38.90, ...
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.jstor.org/stable/info/10.2307/799185 [following]
+--2017-01-30 07:02:20--  http://www.jstor.org/stable/info/10.2307/799185
+Resolving www.jstor.org (www.jstor.org)... 151.101.16.152
+Connecting to www.jstor.org (www.jstor.org)|151.101.16.152|:80... connected.
+HTTP request sent, awaiting response... 301 MOVED PERMANENTLY
+Location: http://www.jstor.org/stable/info/799185 [following]
+--2017-01-30 07:02:21--  http://www.jstor.org/stable/info/799185
+Reusing existing connection to www.jstor.org:80.
+HTTP request sent, awaiting response... 302 FOUND
+Location: http://www.jstor.org/stable/799185#references_tab_contents [following]
+--2017-01-30 07:02:23--  http://www.jstor.org/stable/799185
+Reusing existing connection to www.jstor.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘799185’
+
+     0K .......... .......... .......... .......... ..........  327K
+    50K .......... .......... .......... .......... ..........  659K
+   100K .......... .......... ......                           10.8M=0.2s
+
+2017-01-30 07:02:24 (546 KB/s) - ‘799185’ saved [129081]
+
+--2017-01-30 07:02:25--  http://doi.org/10.2307/799175
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.jstor.org/stable/info/10.2307/799175 [following]
+--2017-01-30 07:02:26--  http://www.jstor.org/stable/info/10.2307/799175
+Connecting to www.jstor.org (www.jstor.org)|151.101.16.152|:80... connected.
+HTTP request sent, awaiting response... 301 MOVED PERMANENTLY
+Location: http://www.jstor.org/stable/info/799175 [following]
+--2017-01-30 07:02:28--  http://www.jstor.org/stable/info/799175
+Reusing existing connection to www.jstor.org:80.
+HTTP request sent, awaiting response... 302 FOUND
+Location: http://www.jstor.org/stable/799175#references_tab_contents [following]
+--2017-01-30 07:02:29--  http://www.jstor.org/stable/799175
+Reusing existing connection to www.jstor.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘799175’
+
+     0K .......... .......... .......... .......... ..........  317K
+    50K .......... .......... .......... .......... ..........  679K
+   100K .......... .......... ..                               6.32M=0.2s
+
+2017-01-30 07:02:30 (523 KB/s) - ‘799175’ saved [125605]
+
+--2017-01-30 07:02:31--  http://doi.org/10.1525/sp.1953.1.issue-1
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/toc/sp/1/1 [following]
+--2017-01-30 07:02:32--  http://caliber.ucpress.net/toc/sp/1/1
+Resolving caliber.ucpress.net (caliber.ucpress.net)... 216.97.224.52
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=toc/sp/1/1 [following]
+--2017-01-30 07:02:34--  http://caliber.ucpress.net/redirect.php?route=toc/sp/1/1
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3135 (3.1K) [text/html]
+Saving to: ‘sp.1953.1.issue-1’
+
+     0K ...                                                   100% 22.0K=0.1s
+
+2017-01-30 07:02:34 (22.0 KB/s) - ‘sp.1953.1.issue-1’ saved [3135/3135]
+
+--2017-01-30 07:02:35--  http://doi.org/10.1525/sp.1953.1.1.03a00090
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.1.03a00090 [following]
+--2017-01-30 07:02:37--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.1.03a00090
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.1.03a00090 [following]
+--2017-01-30 07:02:38--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.1.03a00090
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3113 (3.0K) [text/html]
+Saving to: ‘sp.1953.1.1.03a00090’
+
+     0K ...                                                   100%  190M=0s
+
+2017-01-30 07:02:38 (190 MB/s) - ‘sp.1953.1.1.03a00090’ saved [3113/3113]
+
+--2017-01-30 07:02:39--  http://doi.org/10.1525/sp.1953.1.1.03a00040
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.1.03a00040 [following]
+--2017-01-30 07:02:41--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.1.03a00040
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.1.03a00040 [following]
+--2017-01-30 07:02:42--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.1.03a00040
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3113 (3.0K) [text/html]
+Saving to: ‘sp.1953.1.1.03a00040’
+
+     0K ...                                                   100%  158M=0s
+
+2017-01-30 07:02:42 (158 MB/s) - ‘sp.1953.1.1.03a00040’ saved [3113/3113]
+
+--2017-01-30 07:02:43--  http://doi.org/10.1525/sp.1953.1.1.03a00000
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.1.03a00000 [following]
+--2017-01-30 07:02:44--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.1.03a00000
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.1.03a00000 [following]
+--2017-01-30 07:02:46--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.1.03a00000
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3113 (3.0K) [text/html]
+Saving to: ‘sp.1953.1.1.03a00000’
+
+     0K ...                                                   100%  186M=0s
+
+2017-01-30 07:02:46 (186 MB/s) - ‘sp.1953.1.1.03a00000’ saved [3113/3113]
+
+--2017-01-30 07:02:47--  http://doi.org/10.1525/sp.1953.1.1.03a00100
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.1.03a00100 [following]
+--2017-01-30 07:02:48--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.1.03a00100
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.1.03a00100 [following]
+--2017-01-30 07:02:50--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.1.03a00100
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3113 (3.0K) [text/html]
+Saving to: ‘sp.1953.1.1.03a00100’
+
+     0K ...                                                   100%  181M=0s
+
+2017-01-30 07:02:50 (181 MB/s) - ‘sp.1953.1.1.03a00100’ saved [3113/3113]
+
+--2017-01-30 07:02:51--  http://doi.org/10.1525/sp.1953.1.1.03a00060
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.1.03a00060 [following]
+--2017-01-30 07:02:52--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.1.03a00060
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.1.03a00060 [following]
+--2017-01-30 07:02:54--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.1.03a00060
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3113 (3.0K) [text/html]
+Saving to: ‘sp.1953.1.1.03a00060’
+
+     0K ...                                                   100%  193M=0s
+
+2017-01-30 07:02:54 (193 MB/s) - ‘sp.1953.1.1.03a00060’ saved [3113/3113]
+
+--2017-01-30 07:02:55--  http://doi.org/10.1525/sp.1953.1.1.03a00020
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.1.03a00020 [following]
+--2017-01-30 07:02:56--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.1.03a00020
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.1.03a00020 [following]
+--2017-01-30 07:02:58--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.1.03a00020
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3113 (3.0K) [text/html]
+Saving to: ‘sp.1953.1.1.03a00020’
+
+     0K ...                                                   100%  189M=0s
+
+2017-01-30 07:02:58 (189 MB/s) - ‘sp.1953.1.1.03a00020’ saved [3113/3113]
+
+--2017-01-30 07:02:59--  http://doi.org/10.1525/sp.1953.1.1.03a00010
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.1.03a00010 [following]
+--2017-01-30 07:03:00--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.1.03a00010
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.1.03a00010 [following]
+--2017-01-30 07:03:02--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.1.03a00010
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3113 (3.0K) [text/html]
+Saving to: ‘sp.1953.1.1.03a00010’
+
+     0K ...                                                   100%  183M=0s
+
+2017-01-30 07:03:02 (183 MB/s) - ‘sp.1953.1.1.03a00010’ saved [3113/3113]
+
+--2017-01-30 07:03:03--  http://doi.org/10.1525/sp.1953.1.1.03a00030
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.1.03a00030 [following]
+--2017-01-30 07:03:04--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.1.03a00030
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.1.03a00030 [following]
+--2017-01-30 07:03:06--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.1.03a00030
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3113 (3.0K) [text/html]
+Saving to: ‘sp.1953.1.1.03a00030’
+
+     0K ...                                                   100%  186M=0s
+
+2017-01-30 07:03:06 (186 MB/s) - ‘sp.1953.1.1.03a00030’ saved [3113/3113]
+
+--2017-01-30 07:03:07--  http://doi.org/10.1525/sp.1953.1.1.03a00080
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.1.03a00080 [following]
+--2017-01-30 07:03:08--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.1.03a00080
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.1.03a00080 [following]
+--2017-01-30 07:03:09--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.1.03a00080
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘sp.1953.1.1.03a00080’
+
+     0K ...                                                    21.7K=0.1s
+
+2017-01-30 07:03:10 (21.7 KB/s) - ‘sp.1953.1.1.03a00080’ saved [3113]
+
+--2017-01-30 07:03:11--  http://doi.org/10.1525/sp.1953.1.1.03a00070
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.1.03a00070 [following]
+--2017-01-30 07:03:12--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.1.03a00070
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.1.03a00070 [following]
+--2017-01-30 07:03:13--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.1.03a00070
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘sp.1953.1.1.03a00070’
+
+     0K ...                                                    21.8K=0.1s
+
+2017-01-30 07:03:14 (21.8 KB/s) - ‘sp.1953.1.1.03a00070’ saved [3113]
+
+--2017-01-30 07:03:15--  http://doi.org/10.1525/sp.1953.1.1.03a00050
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.1.03a00050 [following]
+--2017-01-30 07:03:16--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.1.03a00050
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.1.03a00050 [following]
+--2017-01-30 07:03:18--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.1.03a00050
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3113 (3.0K) [text/html]
+Saving to: ‘sp.1953.1.1.03a00050’
+
+     0K ...                                                   100%  162M=0s
+
+2017-01-30 07:03:18 (162 MB/s) - ‘sp.1953.1.1.03a00050’ saved [3113/3113]
+
+--2017-01-30 07:03:19--  http://doi.org/10.2307/799182
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/socpro/article-lookup/doi/10.2307/799182 [following]
+--2017-01-30 07:03:20--  https://academic.oup.com/socpro/article-lookup/doi/10.2307/799182
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /socpro/article-abstract/1/1/22/2924952/Class-and-Class-Consciousness-in-a-California-Town?redirectedFrom=fulltext [following]
+--2017-01-30 07:03:23--  https://academic.oup.com/socpro/article-abstract/1/1/22/2924952/Class-and-Class-Consciousness-in-a-California-Town?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76327 (75K) [text/html]
+Saving to: ‘799182’
+
+     0K .......... .......... .......... .......... .......... 67%  209K 0s
+    50K .......... .......... ....                            100% 8.34M=0.2s
+
+2017-01-30 07:03:28 (307 KB/s) - ‘799182’ saved [76327/76327]
+
+--2017-01-30 07:03:29--  http://doi.org/10.2307/799183
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/socpro/article-lookup/doi/10.2307/799183 [following]
+--2017-01-30 07:03:30--  https://academic.oup.com/socpro/article-lookup/doi/10.2307/799183
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /socpro/article-abstract/1/1/28/2924954/Plant-Relocation-and-Discarded-Workers?redirectedFrom=fulltext [following]
+--2017-01-30 07:03:32--  https://academic.oup.com/socpro/article-abstract/1/1/28/2924954/Plant-Relocation-and-Discarded-Workers?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 76160 (74K) [text/html]
+Saving to: ‘799183’
+
+     0K .......... .......... .......... .......... .......... 67%  207K 0s
+    50K .......... .......... ....                            100% 9.75M=0.2s
+
+2017-01-30 07:03:36 (305 KB/s) - ‘799183’ saved [76160/76160]
+
+--2017-01-30 07:03:37--  http://doi.org/10.2307/799177
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/socpro/article-lookup/doi/10.2307/799177 [following]
+--2017-01-30 07:03:38--  https://academic.oup.com/socpro/article-lookup/doi/10.2307/799177
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /socpro/article-abstract/1/1/4/2924946/Problems-and-Prospects-in-Ethnic-Relations?redirectedFrom=fulltext [following]
+--2017-01-30 07:03:41--  https://academic.oup.com/socpro/article-abstract/1/1/4/2924946/Problems-and-Prospects-in-Ethnic-Relations?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 76038 (74K) [text/html]
+Saving to: ‘799177’
+
+     0K .......... .......... .......... .......... .......... 67%  209K 0s
+    50K .......... .......... ....                            100% 9.07M=0.2s
+
+2017-01-30 07:03:45 (307 KB/s) - ‘799177’ saved [76038/76038]
+
+--2017-01-30 07:03:46--  http://doi.org/10.2307/799180
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/socpro/article-lookup/doi/10.2307/799180 [following]
+--2017-01-30 07:03:47--  https://academic.oup.com/socpro/article-lookup/doi/10.2307/799180
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /socpro/article-abstract/1/1/13/2924949/Some-Remarks-on-the-Human-Implications-of?redirectedFrom=fulltext [following]
+--2017-01-30 07:03:49--  https://academic.oup.com/socpro/article-abstract/1/1/13/2924949/Some-Remarks-on-the-Human-Implications-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 76612 (75K) [text/html]
+Saving to: ‘799180’
+
+     0K .......... .......... .......... .......... .......... 66%  208K 0s
+    50K .......... .......... ....                            100% 6.97M=0.2s
+
+2017-01-30 07:03:53 (307 KB/s) - ‘799180’ saved [76612/76612]
+
+--2017-01-30 07:03:54--  http://doi.org/10.2307/799178
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/socpro/article-lookup/doi/10.2307/799178 [following]
+--2017-01-30 07:03:56--  https://academic.oup.com/socpro/article-lookup/doi/10.2307/799178
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /socpro/article-abstract/1/1/5/2924947/The-Social-Scientist-as-an-Expert-Witness-in-Civil?redirectedFrom=fulltext [following]
+--2017-01-30 07:03:58--  https://academic.oup.com/socpro/article-abstract/1/1/5/2924947/The-Social-Scientist-as-an-Expert-Witness-in-Civil?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 76627 (75K) [text/html]
+Saving to: ‘799178’
+
+     0K .......... .......... .......... .......... .......... 66%  208K 0s
+    50K .......... .......... ....                            100% 6.80M=0.2s
+
+2017-01-30 07:04:02 (307 KB/s) - ‘799178’ saved [76627/76627]
+
+--2017-01-30 07:04:03--  http://doi.org/10.2307/799184
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/socpro/article-lookup/doi/10.2307/799184 [following]
+--2017-01-30 07:04:05--  https://academic.oup.com/socpro/article-lookup/doi/10.2307/799184
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /socpro/article-abstract/1/1/33/2924956/Report-of-the-First-Joint-Meeting-of-the-Society?redirectedFrom=fulltext [following]
+--2017-01-30 07:04:07--  https://academic.oup.com/socpro/article-abstract/1/1/33/2924956/Report-of-the-First-Joint-Meeting-of-the-Society?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75032 (73K) [text/html]
+Saving to: ‘799184’
+
+     0K .......... .......... .......... .......... .......... 68%  208K 0s
+    50K .......... .......... ...                             100% 10.1M=0.2s
+
+2017-01-30 07:04:10 (302 KB/s) - ‘799184’ saved [75032/75032]
+
+--2017-01-30 07:04:11--  http://doi.org/10.2307/799181
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/socpro/article-lookup/doi/10.2307/799181 [following]
+--2017-01-30 07:04:12--  https://academic.oup.com/socpro/article-lookup/doi/10.2307/799181
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /socpro/article-abstract/1/1/17/2924950/Needed-Research-in-Social-Psychiarty?redirectedFrom=fulltext [following]
+--2017-01-30 07:04:14--  https://academic.oup.com/socpro/article-abstract/1/1/17/2924950/Needed-Research-in-Social-Psychiarty?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75828 (74K) [text/html]
+Saving to: ‘799181’
+
+     0K .......... .......... .......... .......... .......... 67%  308K 0s
+    50K .......... .......... ....                            100%  301K=0.2s
+
+2017-01-30 07:04:18 (306 KB/s) - ‘799181’ saved [75828/75828]
+
+--2017-01-30 07:04:19--  http://doi.org/10.2307/799179
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/socpro/article-lookup/doi/10.2307/799179 [following]
+--2017-01-30 07:04:21--  https://academic.oup.com/socpro/article-lookup/doi/10.2307/799179
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /socpro/article-abstract/1/1/10/2924948/The-Cold-War-and-American-Domestic-Problems?redirectedFrom=fulltext [following]
+--2017-01-30 07:04:23--  https://academic.oup.com/socpro/article-abstract/1/1/10/2924948/The-Cold-War-and-American-Domestic-Problems?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76047 (74K) [text/html]
+Saving to: ‘799179’
+
+     0K .......... .......... .......... .......... .......... 67%  309K 0s
+    50K .......... .......... ....                            100%  300K=0.2s
+
+2017-01-30 07:04:29 (306 KB/s) - ‘799179’ saved [76047/76047]
+
+--2017-01-30 07:04:30--  http://doi.org/10.2307/799176
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/socpro/article-lookup/doi/10.2307/799176 [following]
+--2017-01-30 07:04:31--  https://academic.oup.com/socpro/article-lookup/doi/10.2307/799176
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /socpro/article-abstract/1/1/2/2924945/The-Aims-of-the-Society-for-the-Study-of-Social?redirectedFrom=fulltext [following]
+--2017-01-30 07:04:35--  https://academic.oup.com/socpro/article-abstract/1/1/2/2924945/The-Aims-of-the-Society-for-the-Study-of-Social?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75870 (74K) [text/html]
+Saving to: ‘799176’
+
+     0K .......... .......... .......... .......... .......... 67%  307K 0s
+    50K .......... .......... ....                            100%  301K=0.2s
+
+2017-01-30 07:04:38 (305 KB/s) - ‘799176’ saved [75870/75870]
+
+--2017-01-30 07:04:39--  http://doi.org/10.2307/798597
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.jstor.org/stable/info/10.2307/798597 [following]
+--2017-01-30 07:04:41--  http://www.jstor.org/stable/info/10.2307/798597
+Connecting to www.jstor.org (www.jstor.org)|151.101.16.152|:80... connected.
+HTTP request sent, awaiting response... 301 MOVED PERMANENTLY
+Location: http://www.jstor.org/stable/info/798597 [following]
+--2017-01-30 07:04:42--  http://www.jstor.org/stable/info/798597
+Reusing existing connection to www.jstor.org:80.
+HTTP request sent, awaiting response... 302 FOUND
+Location: http://www.jstor.org/stable/798597#references_tab_contents [following]
+--2017-01-30 07:04:43--  http://www.jstor.org/stable/798597
+Reusing existing connection to www.jstor.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘798597’
+
+     0K .......... .......... .......... .......... ..........  332K
+    50K .......... .......... .......... .......... ..........  344K
+   100K .......... .......... .                                5.71M=0.3s
+
+2017-01-30 07:04:44 (406 KB/s) - ‘798597’ saved [124450]
+
+--2017-01-30 07:04:45--  http://doi.org/10.2307/798609
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.jstor.org/stable/info/10.2307/798609 [following]
+--2017-01-30 07:04:47--  http://www.jstor.org/stable/info/10.2307/798609
+Connecting to www.jstor.org (www.jstor.org)|151.101.16.152|:80... connected.
+HTTP request sent, awaiting response... 301 MOVED PERMANENTLY
+Location: http://www.jstor.org/stable/info/798609 [following]
+--2017-01-30 07:04:48--  http://www.jstor.org/stable/info/798609
+Reusing existing connection to www.jstor.org:80.
+HTTP request sent, awaiting response... 302 FOUND
+Location: http://www.jstor.org/stable/798609#references_tab_contents [following]
+--2017-01-30 07:04:49--  http://www.jstor.org/stable/798609
+Reusing existing connection to www.jstor.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘798609’
+
+     0K .......... .......... .......... .......... ..........  226K
+    50K .......... .......... .......... .......... ..........  668K
+   100K .......... ..........                                  11.6M=0.3s
+
+2017-01-30 07:04:50 (403 KB/s) - ‘798609’ saved [123166]
+
+--2017-01-30 07:04:51--  http://doi.org/10.1525/sp.1953.1.issue-2
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/toc/sp/1/2 [following]
+--2017-01-30 07:04:53--  http://caliber.ucpress.net/toc/sp/1/2
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=toc/sp/1/2 [following]
+--2017-01-30 07:04:54--  http://caliber.ucpress.net/redirect.php?route=toc/sp/1/2
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘sp.1953.1.issue-2’
+
+     0K ...                                                    21.9K=0.1s
+
+2017-01-30 07:04:54 (21.9 KB/s) - ‘sp.1953.1.issue-2’ saved [3135]
+
+--2017-01-30 07:04:55--  http://doi.org/10.1525/sp.1953.1.2.03a00110
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.2.03a00110 [following]
+--2017-01-30 07:04:57--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.2.03a00110
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.2.03a00110 [following]
+--2017-01-30 07:04:58--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.2.03a00110
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3113 (3.0K) [text/html]
+Saving to: ‘sp.1953.1.2.03a00110’
+
+     0K ...                                                   100%  190M=0s
+
+2017-01-30 07:04:58 (190 MB/s) - ‘sp.1953.1.2.03a00110’ saved [3113/3113]
+
+--2017-01-30 07:04:59--  http://doi.org/10.1525/sp.1953.1.2.03a00040
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.2.03a00040 [following]
+--2017-01-30 07:05:01--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.2.03a00040
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.2.03a00040 [following]
+--2017-01-30 07:05:02--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.2.03a00040
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3113 (3.0K) [text/html]
+Saving to: ‘sp.1953.1.2.03a00040’
+
+     0K ...                                                   100%  190M=0s
+
+2017-01-30 07:05:02 (190 MB/s) - ‘sp.1953.1.2.03a00040’ saved [3113/3113]
+
+--2017-01-30 07:05:03--  http://doi.org/10.1525/sp.1953.1.2.03a00020
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.2.03a00020 [following]
+--2017-01-30 07:05:05--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.2.03a00020
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.2.03a00020 [following]
+--2017-01-30 07:05:06--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.2.03a00020
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘sp.1953.1.2.03a00020’
+
+     0K ...                                                    21.8K=0.1s
+
+2017-01-30 07:05:06 (21.8 KB/s) - ‘sp.1953.1.2.03a00020’ saved [3113]
+
+--2017-01-30 07:05:07--  http://doi.org/10.1525/sp.1953.1.2.03a00070
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.2.03a00070 [following]
+--2017-01-30 07:05:09--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.2.03a00070
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.2.03a00070 [following]
+--2017-01-30 07:05:10--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.2.03a00070
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘sp.1953.1.2.03a00070’
+
+     0K ...                                                    21.8K=0.1s
+
+2017-01-30 07:05:11 (21.8 KB/s) - ‘sp.1953.1.2.03a00070’ saved [3113]
+
+--2017-01-30 07:05:12--  http://doi.org/10.1525/sp.1953.1.2.03a00080
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.2.03a00080 [following]
+--2017-01-30 07:05:13--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.2.03a00080
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.2.03a00080 [following]
+--2017-01-30 07:05:14--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.2.03a00080
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3113 (3.0K) [text/html]
+Saving to: ‘sp.1953.1.2.03a00080’
+
+     0K ...                                                   100%  183M=0s
+
+2017-01-30 07:05:14 (183 MB/s) - ‘sp.1953.1.2.03a00080’ saved [3113/3113]
+
+--2017-01-30 07:05:15--  http://doi.org/10.1525/sp.1953.1.2.03a00030
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.2.03a00030 [following]
+--2017-01-30 07:05:17--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.2.03a00030
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.2.03a00030 [following]
+--2017-01-30 07:05:18--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.2.03a00030
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3113 (3.0K) [text/html]
+Saving to: ‘sp.1953.1.2.03a00030’
+
+     0K ...                                                   100%  187M=0s
+
+2017-01-30 07:05:18 (187 MB/s) - ‘sp.1953.1.2.03a00030’ saved [3113/3113]
+
+--2017-01-30 07:05:19--  http://doi.org/10.1525/sp.1953.1.2.03a00120
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.2.03a00120 [following]
+--2017-01-30 07:05:21--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.2.03a00120
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.2.03a00120 [following]
+--2017-01-30 07:05:22--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.2.03a00120
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3113 (3.0K) [text/html]
+Saving to: ‘sp.1953.1.2.03a00120’
+
+     0K ...                                                   100%  137M=0s
+
+2017-01-30 07:05:22 (137 MB/s) - ‘sp.1953.1.2.03a00120’ saved [3113/3113]
+
+--2017-01-30 07:05:23--  http://doi.org/10.1525/sp.1953.1.2.03a00000
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.2.03a00000 [following]
+--2017-01-30 07:05:25--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.2.03a00000
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.2.03a00000 [following]
+--2017-01-30 07:05:26--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.2.03a00000
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3113 (3.0K) [text/html]
+Saving to: ‘sp.1953.1.2.03a00000’
+
+     0K ...                                                   100%  179M=0s
+
+2017-01-30 07:05:26 (179 MB/s) - ‘sp.1953.1.2.03a00000’ saved [3113/3113]
+
+--2017-01-30 07:05:27--  http://doi.org/10.1525/sp.1953.1.2.03a00090
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.2.03a00090 [following]
+--2017-01-30 07:05:29--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.2.03a00090
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.2.03a00090 [following]
+--2017-01-30 07:05:30--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.2.03a00090
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3113 (3.0K) [text/html]
+Saving to: ‘sp.1953.1.2.03a00090’
+
+     0K ...                                                   100%  235M=0s
+
+2017-01-30 07:05:30 (235 MB/s) - ‘sp.1953.1.2.03a00090’ saved [3113/3113]
+
+--2017-01-30 07:05:31--  http://doi.org/10.1525/sp.1953.1.2.03a00050
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.2.03a00050 [following]
+--2017-01-30 07:05:33--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.2.03a00050
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.2.03a00050 [following]
+--2017-01-30 07:05:34--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.2.03a00050
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3113 (3.0K) [text/html]
+Saving to: ‘sp.1953.1.2.03a00050’
+
+     0K ...                                                   100%  181M=0s
+
+2017-01-30 07:05:34 (181 MB/s) - ‘sp.1953.1.2.03a00050’ saved [3113/3113]
+
+--2017-01-30 07:05:35--  http://doi.org/10.1525/sp.1953.1.2.03a00100
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.2.03a00100 [following]
+--2017-01-30 07:05:37--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.2.03a00100
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.2.03a00100 [following]
+--2017-01-30 07:05:38--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.2.03a00100
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3113 (3.0K) [text/html]
+Saving to: ‘sp.1953.1.2.03a00100’
+
+     0K ...                                                   100%  185M=0s
+
+2017-01-30 07:05:38 (185 MB/s) - ‘sp.1953.1.2.03a00100’ saved [3113/3113]
+
+--2017-01-30 07:05:39--  http://doi.org/10.1525/sp.1953.1.2.03a00060
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.2.03a00060 [following]
+--2017-01-30 07:05:40--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.2.03a00060
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.2.03a00060 [following]
+--2017-01-30 07:05:42--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.2.03a00060
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3113 (3.0K) [text/html]
+Saving to: ‘sp.1953.1.2.03a00060’
+
+     0K ...                                                   100%  194M=0s
+
+2017-01-30 07:05:42 (194 MB/s) - ‘sp.1953.1.2.03a00060’ saved [3113/3113]
+
+--2017-01-30 07:05:43--  http://doi.org/10.1525/sp.1953.1.2.03a00010
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.2.03a00010 [following]
+--2017-01-30 07:05:44--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1953.1.2.03a00010
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.2.03a00010 [following]
+--2017-01-30 07:05:46--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1953.1.2.03a00010
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘sp.1953.1.2.03a00010’
+
+     0K ...                                                    21.8K=0.1s
+
+2017-01-30 07:05:46 (21.8 KB/s) - ‘sp.1953.1.2.03a00010’ saved [3113]
+
+--2017-01-30 07:05:47--  http://doi.org/10.2307/798604
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/socpro/article-lookup/doi/10.2307/798604 [following]
+--2017-01-30 07:05:48--  https://academic.oup.com/socpro/article-lookup/doi/10.2307/798604
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /socpro/article-abstract/1/2/65/1679039/The-Impact-of-Military-Service-Upon-the-Racial?redirectedFrom=fulltext [following]
+--2017-01-30 07:05:51--  https://academic.oup.com/socpro/article-abstract/1/2/65/1679039/The-Impact-of-Military-Service-Upon-the-Racial?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 76962 (75K) [text/html]
+Saving to: ‘798604’
+
+     0K .......... .......... .......... .......... .......... 66%  208K 0s
+    50K .......... .......... .....                           100% 7.79M=0.2s
+
+2017-01-30 07:05:55 (309 KB/s) - ‘798604’ saved [76962/76962]
+
+--2017-01-30 07:05:56--  http://doi.org/10.2307/798601
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/socpro/article-lookup/doi/10.2307/798601 [following]
+--2017-01-30 07:05:58--  https://academic.oup.com/socpro/article-lookup/doi/10.2307/798601
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /socpro/article-abstract/1/2/53/1678996/Social-Factors-in-the-Etiology-and-Prevention-of?redirectedFrom=fulltext [following]
+--2017-01-30 07:06:00--  https://academic.oup.com/socpro/article-abstract/1/2/53/1678996/Social-Factors-in-the-Etiology-and-Prevention-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 76738 (75K) [text/html]
+Saving to: ‘798601’
+
+     0K .......... .......... .......... .......... .......... 66%  310K 0s
+    50K .......... .......... ....                            100%  288K=0.2s
+
+2017-01-30 07:06:08 (302 KB/s) - ‘798601’ saved [76738/76738]
+
+--2017-01-30 07:06:09--  http://doi.org/10.2307/798603
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/socpro/article-lookup/doi/10.2307/798603 [following]
+--2017-01-30 07:06:10--  https://academic.oup.com/socpro/article-lookup/doi/10.2307/798603
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /socpro/article-abstract/1/2/61/1679003/The-Current-Questionings-of-Teachers-Notes-for-a?redirectedFrom=fulltext [following]
+--2017-01-30 07:06:12--  https://academic.oup.com/socpro/article-abstract/1/2/61/1679003/The-Current-Questionings-of-Teachers-Notes-for-a?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 76480 (75K) [text/html]
+Saving to: ‘798603’
+
+     0K .......... .......... .......... .......... .......... 66%  209K 0s
+    50K .......... .......... ....                            100% 11.9M=0.2s
+
+2017-01-30 07:06:17 (310 KB/s) - ‘798603’ saved [76480/76480]
+
+--2017-01-30 07:06:18--  http://doi.org/10.2307/798599
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/socpro/article-lookup/doi/10.2307/798599 [following]
+--2017-01-30 07:06:19--  https://academic.oup.com/socpro/article-lookup/doi/10.2307/798599
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /socpro/article-abstract/1/2/44/1678989/Sex-Instruction-in-the-Norwegian-Culture?redirectedFrom=fulltext [following]
+--2017-01-30 07:06:21--  https://academic.oup.com/socpro/article-abstract/1/2/44/1678989/Sex-Instruction-in-the-Norwegian-Culture?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 76408 (75K) [text/html]
+Saving to: ‘798599’
+
+     0K .......... .......... .......... .......... .......... 67%  209K 0s
+    50K .......... .......... ....                            100% 9.61M=0.2s
+
+2017-01-30 07:06:24 (308 KB/s) - ‘798599’ saved [76408/76408]
+
+--2017-01-30 07:06:25--  http://doi.org/10.2307/798602
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/socpro/article-lookup/doi/10.2307/798602 [following]
+--2017-01-30 07:06:27--  https://academic.oup.com/socpro/article-lookup/doi/10.2307/798602
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /socpro/article-abstract/1/2/57/1679000/A-Note-on-Mental-Illness-in-Rural-Arkansas?redirectedFrom=fulltext [following]
+--2017-01-30 07:06:31--  https://academic.oup.com/socpro/article-abstract/1/2/57/1679000/A-Note-on-Mental-Illness-in-Rural-Arkansas?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 76465 (75K) [text/html]
+Saving to: ‘798602’
+
+     0K .......... .......... .......... .......... .......... 66%  209K 0s
+    50K .......... .......... ....                            100% 5.83M=0.2s
+
+2017-01-30 07:06:39 (307 KB/s) - ‘798602’ saved [76465/76465]
+
+--2017-01-30 07:06:40--  http://doi.org/10.2307/798606
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/socpro/article-lookup/doi/10.2307/798606 [following]
+--2017-01-30 07:06:42--  https://academic.oup.com/socpro/article-lookup/doi/10.2307/798606
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /socpro/article-abstract/1/2/74/1679054/Book-Reviews?redirectedFrom=fulltext [following]
+--2017-01-30 07:06:45--  https://academic.oup.com/socpro/article-abstract/1/2/74/1679054/Book-Reviews?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 76157 (74K) [text/html]
+Saving to: ‘798606’
+
+     0K .......... .......... .......... .......... .......... 67%  208K 0s
+    50K .......... .......... ....                            100% 8.77M=0.2s
+
+2017-01-30 07:06:49 (305 KB/s) - ‘798606’ saved [76157/76157]
+
+--2017-01-30 07:06:50--  http://doi.org/10.2307/798608
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/socpro/article-lookup/doi/10.2307/798608 [following]
+--2017-01-30 07:06:51--  https://academic.oup.com/socpro/article-lookup/doi/10.2307/798608
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /socpro/article-abstract/1/2/76/1679068/Publications-Received?redirectedFrom=fulltext [following]
+--2017-01-30 07:06:53--  https://academic.oup.com/socpro/article-abstract/1/2/76/1679068/Publications-Received?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 73742 (72K) [text/html]
+Saving to: ‘798608’
+
+     0K .......... .......... .......... .......... .......... 69%  209K 0s
+    50K .......... .......... ..                              100% 4.64M=0.2s
+
+2017-01-30 07:06:57 (295 KB/s) - ‘798608’ saved [73742/73742]
+
+--2017-01-30 07:06:58--  http://doi.org/10.2307/798605
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/socpro/article-lookup/doi/10.2307/798605 [following]
+--2017-01-30 07:07:00--  https://academic.oup.com/socpro/article-lookup/doi/10.2307/798605
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /socpro/article-abstract/1/2/70/1679046/The-White-Petty-Offender-in-the-Small-City?redirectedFrom=fulltext [following]
+--2017-01-30 07:07:01--  https://academic.oup.com/socpro/article-abstract/1/2/70/1679046/The-White-Petty-Offender-in-the-Small-City?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 76219 (74K) [text/html]
+Saving to: ‘798605’
+
+     0K .......... .......... .......... .......... .......... 67%  208K 0s
+    50K .......... .......... ....                            100% 6.42M=0.2s
+
+2017-01-30 07:07:05 (305 KB/s) - ‘798605’ saved [76219/76219]
+
+--2017-01-30 07:07:06--  http://doi.org/10.2307/798598
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/socpro/article-lookup/doi/10.2307/798598 [following]
+--2017-01-30 07:07:07--  https://academic.oup.com/socpro/article-lookup/doi/10.2307/798598
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /socpro/article-abstract/1/2/38/1678986/The-Implications-of-the-Succession-Crisis-in-the?redirectedFrom=fulltext [following]
+--2017-01-30 07:07:09--  https://academic.oup.com/socpro/article-abstract/1/2/38/1678986/The-Implications-of-the-Succession-Crisis-in-the?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 77188 (75K) [text/html]
+Saving to: ‘798598’
+
+     0K .......... .......... .......... .......... .......... 66%  209K 0s
+    50K .......... .......... .....                           100% 7.30M=0.2s
+
+2017-01-30 07:07:13 (310 KB/s) - ‘798598’ saved [77188/77188]
+
+--2017-01-30 07:07:14--  http://doi.org/10.2307/798600
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/socpro/article-lookup/doi/10.2307/798600 [following]
+--2017-01-30 07:07:15--  https://academic.oup.com/socpro/article-lookup/doi/10.2307/798600
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /socpro/article-abstract/1/2/48/1678994/Ethnic-Variations-in-Mental-Stress-in-Families?redirectedFrom=fulltext [following]
+--2017-01-30 07:07:17--  https://academic.oup.com/socpro/article-abstract/1/2/48/1678994/Ethnic-Variations-in-Mental-Stress-in-Families?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78766 (77K) [text/html]
+Saving to: ‘798600’
+
+     0K .......... .......... .......... .......... .......... 65%  208K 0s
+    50K .......... .......... ......                          100% 8.67M=0.2s
+
+2017-01-30 07:07:21 (316 KB/s) - ‘798600’ saved [78766/78766]
+
+--2017-01-30 07:07:22--  http://doi.org/10.2307/798607
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/socpro/article-lookup/doi/10.2307/798607 [following]
+--2017-01-30 07:07:24--  https://academic.oup.com/socpro/article-lookup/doi/10.2307/798607
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /socpro/article-abstract/1/2/75/1679061/Book-Reviews?redirectedFrom=fulltext [following]
+--2017-01-30 07:07:25--  https://academic.oup.com/socpro/article-abstract/1/2/75/1679061/Book-Reviews?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 76611 (75K) [text/html]
+Saving to: ‘798607’
+
+     0K .......... .......... .......... .......... .......... 66%  209K 0s
+    50K .......... .......... ....                            100% 4.85M=0.2s
+
+2017-01-30 07:07:28 (306 KB/s) - ‘798607’ saved [76611/76611]
+
+--2017-01-30 07:07:29--  http://doi.org/10.2307/799463
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.jstor.org/stable/info/10.2307/799463 [following]
+--2017-01-30 07:07:31--  http://www.jstor.org/stable/info/10.2307/799463
+Connecting to www.jstor.org (www.jstor.org)|151.101.16.152|:80... connected.
+HTTP request sent, awaiting response... 301 MOVED PERMANENTLY
+Location: http://www.jstor.org/stable/info/799463 [following]
+--2017-01-30 07:07:32--  http://www.jstor.org/stable/info/799463
+Reusing existing connection to www.jstor.org:80.
+HTTP request sent, awaiting response... 302 FOUND
+Location: http://www.jstor.org/stable/799463#references_tab_contents [following]
+--2017-01-30 07:07:34--  http://www.jstor.org/stable/799463
+Reusing existing connection to www.jstor.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘799463’
+
+     0K .......... .......... .......... .......... ..........  321K
+    50K .......... .......... .......... .......... ..........  632K
+   100K .......... .......... ...                               313K=0.3s
+
+2017-01-30 07:07:35 (398 KB/s) - ‘799463’ saved [126573]
+
+--2017-01-30 07:07:36--  http://doi.org/10.2307/799477
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.jstor.org/stable/info/10.2307/799477 [following]
+--2017-01-30 07:07:37--  http://www.jstor.org/stable/info/10.2307/799477
+Connecting to www.jstor.org (www.jstor.org)|151.101.16.152|:80... connected.
+HTTP request sent, awaiting response... 301 MOVED PERMANENTLY
+Location: http://www.jstor.org/stable/info/799477 [following]
+--2017-01-30 07:07:39--  http://www.jstor.org/stable/info/799477
+Reusing existing connection to www.jstor.org:80.
+HTTP request sent, awaiting response... 302 FOUND
+Location: http://www.jstor.org/stable/799477#references_tab_contents [following]
+--2017-01-30 07:07:40--  http://www.jstor.org/stable/799477
+Reusing existing connection to www.jstor.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘799477’
+
+     0K .......... .......... .......... .......... ..........  231K
+    50K .......... .......... .......... .......... ..........  677K
+   100K .......... .........                                   11.7M=0.3s
+
+2017-01-30 07:07:41 (409 KB/s) - ‘799477’ saved [122327]
+
+--2017-01-30 07:07:42--  http://doi.org/10.2307/799478
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.jstor.org/stable/info/10.2307/799478 [following]
+--2017-01-30 07:07:43--  http://www.jstor.org/stable/info/10.2307/799478
+Connecting to www.jstor.org (www.jstor.org)|151.101.16.152|:80... connected.
+HTTP request sent, awaiting response... 301 MOVED PERMANENTLY
+Location: http://www.jstor.org/stable/info/799478 [following]
+--2017-01-30 07:07:45--  http://www.jstor.org/stable/info/799478
+Reusing existing connection to www.jstor.org:80.
+HTTP request sent, awaiting response... 302 FOUND
+Location: http://www.jstor.org/stable/799478#references_tab_contents [following]
+--2017-01-30 07:07:46--  http://www.jstor.org/stable/799478
+Reusing existing connection to www.jstor.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘799478’
+
+     0K .......... .......... .......... .......... ..........  335K
+    50K .......... .......... .......... .......... ..........  341K
+   100K .......... .........                                   12.0M=0.3s
+
+2017-01-30 07:07:47 (402 KB/s) - ‘799478’ saved [122355]
+
+--2017-01-30 07:07:48--  http://doi.org/10.1525/sp.1954.1.issue-3
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/toc/sp/1/3 [following]
+--2017-01-30 07:07:49--  http://caliber.ucpress.net/toc/sp/1/3
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=toc/sp/1/3 [following]
+--2017-01-30 07:07:51--  http://caliber.ucpress.net/redirect.php?route=toc/sp/1/3
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3135 (3.1K) [text/html]
+Saving to: ‘sp.1954.1.issue-3’
+
+     0K ...                                                   100%  283M=0s
+
+2017-01-30 07:07:51 (283 MB/s) - ‘sp.1954.1.issue-3’ saved [3135/3135]
+
+--2017-01-30 07:07:52--  http://doi.org/10.1525/sp.1954.1.3.03a00050
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.3.03a00050 [following]
+--2017-01-30 07:07:53--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.3.03a00050
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.3.03a00050 [following]
+--2017-01-30 07:07:55--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.3.03a00050
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘sp.1954.1.3.03a00050’
+
+     0K ...                                                    21.8K=0.1s
+
+2017-01-30 07:07:55 (21.8 KB/s) - ‘sp.1954.1.3.03a00050’ saved [3113]
+
+--2017-01-30 07:07:56--  http://doi.org/10.1525/sp.1954.1.3.03a00030
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.3.03a00030 [following]
+--2017-01-30 07:07:57--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.3.03a00030
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.3.03a00030 [following]
+--2017-01-30 07:07:59--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.3.03a00030
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘sp.1954.1.3.03a00030’
+
+     0K ...                                                    21.8K=0.1s
+
+2017-01-30 07:07:59 (21.8 KB/s) - ‘sp.1954.1.3.03a00030’ saved [3113]
+
+--2017-01-30 07:08:00--  http://doi.org/10.1525/sp.1954.1.3.03a00100
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.3.03a00100 [following]
+--2017-01-30 07:08:02--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.3.03a00100
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.3.03a00100 [following]
+--2017-01-30 07:08:03--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.3.03a00100
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘sp.1954.1.3.03a00100’
+
+     0K ...                                                    21.7K=0.1s
+
+2017-01-30 07:08:03 (21.7 KB/s) - ‘sp.1954.1.3.03a00100’ saved [3113]
+
+--2017-01-30 07:08:04--  http://doi.org/10.1525/sp.1954.1.3.03a00020
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.3.03a00020 [following]
+--2017-01-30 07:08:06--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.3.03a00020
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.3.03a00020 [following]
+--2017-01-30 07:08:07--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.3.03a00020
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘sp.1954.1.3.03a00020’
+
+     0K ...                                                    21.7K=0.1s
+
+2017-01-30 07:08:07 (21.7 KB/s) - ‘sp.1954.1.3.03a00020’ saved [3113]
+
+--2017-01-30 07:08:08--  http://doi.org/10.1525/sp.1954.1.3.03a00040
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.3.03a00040 [following]
+--2017-01-30 07:08:10--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.3.03a00040
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.3.03a00040 [following]
+--2017-01-30 07:08:11--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.3.03a00040
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘sp.1954.1.3.03a00040’
+
+     0K ...                                                    21.8K=0.1s
+
+2017-01-30 07:08:11 (21.8 KB/s) - ‘sp.1954.1.3.03a00040’ saved [3113]
+
+--2017-01-30 07:08:12--  http://doi.org/10.1525/sp.1954.1.3.03a00150
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.3.03a00150 [following]
+--2017-01-30 07:08:14--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.3.03a00150
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.3.03a00150 [following]
+--2017-01-30 07:08:15--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.3.03a00150
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3113 (3.0K) [text/html]
+Saving to: ‘sp.1954.1.3.03a00150’
+
+     0K ...                                                   100%  164M=0s
+
+2017-01-30 07:08:15 (164 MB/s) - ‘sp.1954.1.3.03a00150’ saved [3113/3113]
+
+--2017-01-30 07:08:16--  http://doi.org/10.1525/sp.1954.1.3.03a00010
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.3.03a00010 [following]
+--2017-01-30 07:08:18--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.3.03a00010
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.3.03a00010 [following]
+--2017-01-30 07:08:19--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.3.03a00010
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘sp.1954.1.3.03a00010’
+
+     0K ...                                                    21.8K=0.1s
+
+2017-01-30 07:08:20 (21.8 KB/s) - ‘sp.1954.1.3.03a00010’ saved [3113]
+
+--2017-01-30 07:08:21--  http://doi.org/10.1525/sp.1954.1.3.03a00060
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.3.03a00060 [following]
+--2017-01-30 07:08:22--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.3.03a00060
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.3.03a00060 [following]
+--2017-01-30 07:08:23--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.3.03a00060
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3113 (3.0K) [text/html]
+Saving to: ‘sp.1954.1.3.03a00060’
+
+     0K ...                                                   100%  155M=0s
+
+2017-01-30 07:08:23 (155 MB/s) - ‘sp.1954.1.3.03a00060’ saved [3113/3113]
+
+--2017-01-30 07:08:24--  http://doi.org/10.1525/sp.1954.1.3.03a00110
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.3.03a00110 [following]
+--2017-01-30 07:08:26--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.3.03a00110
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.3.03a00110 [following]
+--2017-01-30 07:08:27--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.3.03a00110
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘sp.1954.1.3.03a00110’
+
+     0K ...                                                    21.8K=0.1s
+
+2017-01-30 07:08:28 (21.8 KB/s) - ‘sp.1954.1.3.03a00110’ saved [3113]
+
+--2017-01-30 07:08:29--  http://doi.org/10.1525/sp.1954.1.3.03a00140
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.3.03a00140 [following]
+--2017-01-30 07:08:30--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.3.03a00140
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.3.03a00140 [following]
+--2017-01-30 07:08:31--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.3.03a00140
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘sp.1954.1.3.03a00140’
+
+     0K ...                                                    21.8K=0.1s
+
+2017-01-30 07:08:32 (21.8 KB/s) - ‘sp.1954.1.3.03a00140’ saved [3113]
+
+--2017-01-30 07:08:33--  http://doi.org/10.1525/sp.1954.1.3.03a00070
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.3.03a00070 [following]
+--2017-01-30 07:08:34--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.3.03a00070
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.3.03a00070 [following]
+--2017-01-30 07:08:35--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.3.03a00070
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘sp.1954.1.3.03a00070’
+
+     0K ...                                                    21.8K=0.1s
+
+2017-01-30 07:08:36 (21.8 KB/s) - ‘sp.1954.1.3.03a00070’ saved [3113]
+
+--2017-01-30 07:08:37--  http://doi.org/10.1525/sp.1954.1.3.03a00090
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.3.03a00090 [following]
+--2017-01-30 07:08:38--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.3.03a00090
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.3.03a00090 [following]
+--2017-01-30 07:08:39--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.3.03a00090
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘sp.1954.1.3.03a00090’
+
+     0K ...                                                    21.9K=0.1s
+
+2017-01-30 07:08:40 (21.9 KB/s) - ‘sp.1954.1.3.03a00090’ saved [3113]
+
+--2017-01-30 07:08:41--  http://doi.org/10.1525/sp.1954.1.3.03a00120
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.3.03a00120 [following]
+--2017-01-30 07:08:42--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.3.03a00120
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.3.03a00120 [following]
+--2017-01-30 07:08:43--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.3.03a00120
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘sp.1954.1.3.03a00120’
+
+     0K ...                                                    21.8K=0.1s
+
+2017-01-30 07:08:44 (21.8 KB/s) - ‘sp.1954.1.3.03a00120’ saved [3113]
+
+--2017-01-30 07:08:45--  http://doi.org/10.1525/sp.1954.1.3.03a00130
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.3.03a00130 [following]
+--2017-01-30 07:08:46--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.3.03a00130
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.3.03a00130 [following]
+--2017-01-30 07:08:48--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.3.03a00130
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3113 (3.0K) [text/html]
+Saving to: ‘sp.1954.1.3.03a00130’
+
+     0K ...                                                   100%  193M=0s
+
+2017-01-30 07:08:48 (193 MB/s) - ‘sp.1954.1.3.03a00130’ saved [3113/3113]
+
+--2017-01-30 07:08:49--  http://doi.org/10.1525/sp.1954.1.3.03a00080
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.3.03a00080 [following]
+--2017-01-30 07:08:50--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.3.03a00080
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.3.03a00080 [following]
+--2017-01-30 07:08:51--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.3.03a00080
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘sp.1954.1.3.03a00080’
+
+     0K ...                                                    21.7K=0.1s
+
+2017-01-30 07:08:52 (21.7 KB/s) - ‘sp.1954.1.3.03a00080’ saved [3113]
+
+--2017-01-30 07:08:53--  http://doi.org/10.1525/sp.1954.1.3.03a00000
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.3.03a00000 [following]
+--2017-01-30 07:08:54--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.3.03a00000
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.3.03a00000 [following]
+--2017-01-30 07:08:55--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.3.03a00000
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3113 (3.0K) [text/html]
+Saving to: ‘sp.1954.1.3.03a00000’
+
+     0K ...                                                   100%  360M=0s
+
+2017-01-30 07:08:56 (360 MB/s) - ‘sp.1954.1.3.03a00000’ saved [3113/3113]
+
+--2017-01-30 07:08:57--  http://doi.org/10.2307/799464
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/socpro/article-lookup/doi/10.2307/799464 [following]
+--2017-01-30 07:08:58--  https://academic.oup.com/socpro/article-lookup/doi/10.2307/799464
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /socpro/article-abstract/1/3/77/1615159/A-Symposium-on-challenges-to-the-freedom-of-social?redirectedFrom=fulltext [following]
+--2017-01-30 07:09:01--  https://academic.oup.com/socpro/article-abstract/1/3/77/1615159/A-Symposium-on-challenges-to-the-freedom-of-social?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 91531 (89K) [text/html]
+Saving to: ‘799464’
+
+     0K .......... .......... .......... .......... .......... 55%  208K 0s
+    50K .......... .......... .......... .........            100%  488K=0.3s
+
+2017-01-30 07:09:04 (278 KB/s) - ‘799464’ saved [91531/91531]
+
+--2017-01-30 07:09:05--  http://doi.org/10.2307/799473
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/socpro/article-lookup/doi/10.2307/799473 [following]
+--2017-01-30 07:09:07--  https://academic.oup.com/socpro/article-lookup/doi/10.2307/799473
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /socpro/article-abstract/1/3/111/1615239/Book-Reviews?redirectedFrom=fulltext [following]
+--2017-01-30 07:09:09--  https://academic.oup.com/socpro/article-abstract/1/3/111/1615239/Book-Reviews?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 76004 (74K) [text/html]
+Saving to: ‘799473’
+
+     0K .......... .......... .......... .......... .......... 67%  209K 0s
+    50K .......... .......... ....                            100% 8.55M=0.2s
+
+2017-01-30 07:09:13 (307 KB/s) - ‘799473’ saved [76004/76004]
+
+--2017-01-30 07:09:14--  http://doi.org/10.2307/799470
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/socpro/article-lookup/doi/10.2307/799470 [following]
+--2017-01-30 07:09:16--  https://academic.oup.com/socpro/article-lookup/doi/10.2307/799470
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /socpro/article-abstract/1/3/102/1615210/The-Costs-of-Segregated-Schools?redirectedFrom=fulltext [following]
+--2017-01-30 07:09:19--  https://academic.oup.com/socpro/article-abstract/1/3/102/1615210/The-Costs-of-Segregated-Schools?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 79693 (78K) [text/html]
+Saving to: ‘799470’
+
+     0K .......... .......... .......... .......... .......... 64%  207K 0s
+    50K .......... .......... .......                         100% 7.54M=0.2s
+
+2017-01-30 07:09:22 (317 KB/s) - ‘799470’ saved [79693/79693]
+
+--2017-01-30 07:09:23--  http://doi.org/10.2307/799474
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/socpro/article-lookup/doi/10.2307/799474 [following]
+--2017-01-30 07:09:25--  https://academic.oup.com/socpro/article-lookup/doi/10.2307/799474
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /socpro/article-abstract/1/3/112/1615245/Book-Reviews?redirectedFrom=fulltext [following]
+--2017-01-30 07:09:27--  https://academic.oup.com/socpro/article-abstract/1/3/112/1615245/Book-Reviews?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 76393 (75K) [text/html]
+Saving to: ‘799474’
+
+     0K .......... .......... .......... .......... .......... 67%  208K 0s
+    50K .......... .......... ....                            100% 8.40M=0.2s
+
+2017-01-30 07:09:30 (307 KB/s) - ‘799474’ saved [76393/76393]
+
+--2017-01-30 07:09:31--  http://doi.org/10.2307/799476
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/socpro/article-lookup/doi/10.2307/799476 [following]
+--2017-01-30 07:09:33--  https://academic.oup.com/socpro/article-lookup/doi/10.2307/799476
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /socpro/article-abstract/1/3/114/1615275/Official-Reports?redirectedFrom=fulltext [following]
+--2017-01-30 07:09:35--  https://academic.oup.com/socpro/article-abstract/1/3/114/1615275/Official-Reports?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 88592 (87K) [text/html]
+Saving to: ‘799476’
+
+     0K .......... .......... .......... .......... .......... 57%  209K 0s
+    50K .......... .......... .......... ......               100%  932K=0.3s
+
+2017-01-30 07:09:39 (311 KB/s) - ‘799476’ saved [88592/88592]
+
+--2017-01-30 07:09:40--  http://doi.org/10.2307/799465
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/socpro/article-lookup/doi/10.2307/799465 [following]
+--2017-01-30 07:09:41--  https://academic.oup.com/socpro/article-lookup/doi/10.2307/799465
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /socpro/article-abstract/1/3/85/1615166/The-Social-Responsibility-of-the-Social-Scientist?redirectedFrom=fulltext [following]
+--2017-01-30 07:09:43--  https://academic.oup.com/socpro/article-abstract/1/3/85/1615166/The-Social-Responsibility-of-the-Social-Scientist?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 76369 (75K) [text/html]
+Saving to: ‘799465’
+
+     0K .......... .......... .......... .......... .......... 67%  208K 0s
+    50K .......... .......... ....                            100% 6.34M=0.2s
+
+2017-01-30 07:09:47 (306 KB/s) - ‘799465’ saved [76369/76369]
+
+--2017-01-30 07:09:48--  http://doi.org/10.2307/799469
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/socpro/article-lookup/doi/10.2307/799469 [following]
+--2017-01-30 07:09:50--  https://academic.oup.com/socpro/article-lookup/doi/10.2307/799469
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /socpro/article-abstract/1/3/100/1615197/The-Choice-of-Research-Projects?redirectedFrom=fulltext [following]
+--2017-01-30 07:09:52--  https://academic.oup.com/socpro/article-abstract/1/3/100/1615197/The-Choice-of-Research-Projects?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 91121 (89K) [text/html]
+Saving to: ‘799469’
+
+     0K .......... .......... .......... .......... .......... 56%  209K 0s
+    50K .......... .......... .......... ........             100%  484K=0.3s
+
+2017-01-30 07:09:56 (279 KB/s) - ‘799469’ saved [91121/91121]
+
+--2017-01-30 07:09:57--  http://doi.org/10.2307/799467
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/socpro/article-lookup/doi/10.2307/799467 [following]
+--2017-01-30 07:09:59--  https://academic.oup.com/socpro/article-lookup/doi/10.2307/799467
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /socpro/article-abstract/1/3/94/1615180/Pressures-Upon-Research-and-Publication-in?redirectedFrom=fulltext [following]
+--2017-01-30 07:10:01--  https://academic.oup.com/socpro/article-abstract/1/3/94/1615180/Pressures-Upon-Research-and-Publication-in?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 76367 (75K) [text/html]
+Saving to: ‘799467’
+
+     0K .......... .......... .......... .......... .......... 67%  209K 0s
+    50K .......... .......... ....                            100% 9.03M=0.2s
+
+2017-01-30 07:10:04 (309 KB/s) - ‘799467’ saved [76367/76367]
+
+--2017-01-30 07:10:05--  http://doi.org/10.2307/799468
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/socpro/article-lookup/doi/10.2307/799468 [following]
+--2017-01-30 07:10:06--  https://academic.oup.com/socpro/article-lookup/doi/10.2307/799468
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /socpro/article-abstract/1/3/98/1615188/Research-Funds-and-the-Publicly-Employed?redirectedFrom=fulltext [following]
+--2017-01-30 07:10:09--  https://academic.oup.com/socpro/article-abstract/1/3/98/1615188/Research-Funds-and-the-Publicly-Employed?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76498 (75K) [text/html]
+Saving to: ‘799468’
+
+     0K .......... .......... .......... .......... .......... 66%  209K 0s
+    50K .......... .......... ....                            100% 11.0M=0.2s
+
+2017-01-30 07:10:53 (309 KB/s) - ‘799468’ saved [76498/76498]
+
+--2017-01-30 07:10:54--  http://doi.org/10.2307/799475
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/socpro/article-lookup/doi/10.2307/799475 [following]
+--2017-01-30 07:10:55--  https://academic.oup.com/socpro/article-lookup/doi/10.2307/799475
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /socpro/article-abstract/1/3/113/1615265/Book-Reviews?redirectedFrom=fulltext [following]
+--2017-01-30 07:10:58--  https://academic.oup.com/socpro/article-abstract/1/3/113/1615265/Book-Reviews?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 76173 (74K) [text/html]
+Saving to: ‘799475’
+
+     0K .......... .......... .......... .......... .......... 67%  209K 0s
+    50K .......... .......... ....                            100% 7.87M=0.2s
+
+2017-01-30 07:11:19 (307 KB/s) - ‘799475’ saved [76173/76173]
+
+--2017-01-30 07:11:20--  http://doi.org/10.2307/799472
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/socpro/article-lookup/doi/10.2307/799472 [following]
+--2017-01-30 07:11:21--  https://academic.oup.com/socpro/article-lookup/doi/10.2307/799472
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /socpro/article-abstract/1/3/110/1615235/Book-Reviews?redirectedFrom=fulltext [following]
+--2017-01-30 07:11:24--  https://academic.oup.com/socpro/article-abstract/1/3/110/1615235/Book-Reviews?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 91248 (89K) [text/html]
+Saving to: ‘799472’
+
+     0K .......... .......... .......... .......... .......... 56%  208K 0s
+    50K .......... .......... .......... .........            100%  487K=0.3s
+
+2017-01-30 07:11:28 (278 KB/s) - ‘799472’ saved [91248/91248]
+
+--2017-01-30 07:11:29--  http://doi.org/10.2307/799471
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/socpro/article-lookup/doi/10.2307/799471 [following]
+--2017-01-30 07:11:30--  https://academic.oup.com/socpro/article-lookup/doi/10.2307/799471
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /socpro/article-abstract/1/3/105/1615218/The-Disproportionate-Emphasis-on-Description-in?redirectedFrom=fulltext [following]
+--2017-01-30 07:11:34--  https://academic.oup.com/socpro/article-abstract/1/3/105/1615218/The-Disproportionate-Emphasis-on-Description-in?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 76531 (75K) [text/html]
+Saving to: ‘799471’
+
+     0K .......... .......... .......... .......... .......... 66%  209K 0s
+    50K .......... .......... ....                            100% 9.68M=0.2s
+
+2017-01-30 07:11:38 (309 KB/s) - ‘799471’ saved [76531/76531]
+
+--2017-01-30 07:11:39--  http://doi.org/10.2307/799466
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/socpro/article-lookup/doi/10.2307/799466 [following]
+--2017-01-30 07:11:40--  https://academic.oup.com/socpro/article-lookup/doi/10.2307/799466
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /socpro/article-abstract/1/3/90/1615173/The-Dangers-of-Project-Research?redirectedFrom=fulltext [following]
+--2017-01-30 07:11:43--  https://academic.oup.com/socpro/article-abstract/1/3/90/1615173/The-Dangers-of-Project-Research?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76254 (74K) [text/html]
+Saving to: ‘799466’
+
+     0K .......... .......... .......... .......... .......... 67%  209K 0s
+    50K .......... .......... ....                            100% 14.1M=0.2s
+
+2017-01-30 07:11:46 (309 KB/s) - ‘799466’ saved [76254/76254]
+
+--2017-01-30 07:11:47--  http://doi.org/10.2307/799380
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.jstor.org/stable/info/10.2307/799380 [following]
+--2017-01-30 07:11:49--  http://www.jstor.org/stable/info/10.2307/799380
+Connecting to www.jstor.org (www.jstor.org)|151.101.16.152|:80... connected.
+HTTP request sent, awaiting response... 301 MOVED PERMANENTLY
+Location: http://www.jstor.org/stable/info/799380 [following]
+--2017-01-30 07:11:50--  http://www.jstor.org/stable/info/799380
+Reusing existing connection to www.jstor.org:80.
+HTTP request sent, awaiting response... 302 FOUND
+Location: http://www.jstor.org/stable/799380#references_tab_contents [following]
+--2017-01-30 07:11:52--  http://www.jstor.org/stable/799380
+Reusing existing connection to www.jstor.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘799380’
+
+     0K .......... .......... .......... .......... ..........  332K
+    50K .......... .......... .......... .......... ..........  659K
+   100K .......... ..........                                  6.67M=0.2s
+
+2017-01-30 07:11:53 (525 KB/s) - ‘799380’ saved [123454]
+
+--2017-01-30 07:11:54--  http://doi.org/10.2307/799381
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.jstor.org/stable/info/10.2307/799381 [following]
+--2017-01-30 07:11:55--  http://www.jstor.org/stable/info/10.2307/799381
+Connecting to www.jstor.org (www.jstor.org)|151.101.16.152|:80... connected.
+HTTP request sent, awaiting response... 301 MOVED PERMANENTLY
+Location: http://www.jstor.org/stable/info/799381 [following]
+--2017-01-30 07:11:57--  http://www.jstor.org/stable/info/799381
+Reusing existing connection to www.jstor.org:80.
+HTTP request sent, awaiting response... 302 FOUND
+Location: http://www.jstor.org/stable/799381#references_tab_contents [following]
+--2017-01-30 07:11:58--  http://www.jstor.org/stable/799381
+Reusing existing connection to www.jstor.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘799381’
+
+     0K .......... .......... .......... .......... ..........  331K
+    50K .......... .......... .......... .......... ..........  633K
+   100K .......... .......... .                                 318K=0.3s
+
+2017-01-30 07:11:59 (408 KB/s) - ‘799381’ saved [124430]
+
+--2017-01-30 07:12:00--  http://doi.org/10.1525/sp.1954.1.issue-4
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/toc/sp/1/4 [following]
+--2017-01-30 07:12:02--  http://caliber.ucpress.net/toc/sp/1/4
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=toc/sp/1/4 [following]
+--2017-01-30 07:12:03--  http://caliber.ucpress.net/redirect.php?route=toc/sp/1/4
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘sp.1954.1.issue-4’
+
+     0K ...                                                    22.0K=0.1s
+
+2017-01-30 07:12:04 (22.0 KB/s) - ‘sp.1954.1.issue-4’ saved [3135]
+
+--2017-01-30 07:12:05--  http://doi.org/10.1525/sp.1954.1.4.03a00100
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.4.03a00100 [following]
+--2017-01-30 07:12:06--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.4.03a00100
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.4.03a00100 [following]
+--2017-01-30 07:12:07--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.4.03a00100
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘sp.1954.1.4.03a00100’
+
+     0K ...                                                    21.9K=0.1s
+
+2017-01-30 07:12:08 (21.9 KB/s) - ‘sp.1954.1.4.03a00100’ saved [3113]
+
+--2017-01-30 07:12:09--  http://doi.org/10.1525/sp.1954.1.4.03a00160
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.4.03a00160 [following]
+--2017-01-30 07:12:10--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.4.03a00160
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.4.03a00160 [following]
+--2017-01-30 07:12:11--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.4.03a00160
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3113 (3.0K) [text/html]
+Saving to: ‘sp.1954.1.4.03a00160’
+
+     0K ...                                                   100%  159M=0s
+
+2017-01-30 07:12:12 (159 MB/s) - ‘sp.1954.1.4.03a00160’ saved [3113/3113]
+
+--2017-01-30 07:12:13--  http://doi.org/10.1525/sp.1954.1.4.03a00070
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.4.03a00070 [following]
+--2017-01-30 07:12:14--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.4.03a00070
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.4.03a00070 [following]
+--2017-01-30 07:12:15--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.4.03a00070
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘sp.1954.1.4.03a00070’
+
+     0K ...                                                    21.7K=0.1s
+
+2017-01-30 07:12:16 (21.7 KB/s) - ‘sp.1954.1.4.03a00070’ saved [3113]
+
+--2017-01-30 07:12:17--  http://doi.org/10.1525/sp.1954.1.4.03a00090
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.4.03a00090 [following]
+--2017-01-30 07:12:18--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.4.03a00090
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.4.03a00090 [following]
+--2017-01-30 07:12:19--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.4.03a00090
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3113 (3.0K) [text/html]
+Saving to: ‘sp.1954.1.4.03a00090’
+
+     0K ...                                                   100%  268M=0s
+
+2017-01-30 07:12:20 (268 MB/s) - ‘sp.1954.1.4.03a00090’ saved [3113/3113]
+
+--2017-01-30 07:12:21--  http://doi.org/10.1525/sp.1954.1.4.03a00150
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.4.03a00150 [following]
+--2017-01-30 07:12:22--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.4.03a00150
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.4.03a00150 [following]
+--2017-01-30 07:12:23--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.4.03a00150
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘sp.1954.1.4.03a00150’
+
+     0K ...                                                     131M=0s
+
+2017-01-30 07:12:24 (131 MB/s) - ‘sp.1954.1.4.03a00150’ saved [3113]
+
+--2017-01-30 07:12:25--  http://doi.org/10.1525/sp.1954.1.4.03a00140
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.4.03a00140 [following]
+--2017-01-30 07:12:26--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.4.03a00140
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.4.03a00140 [following]
+--2017-01-30 07:12:27--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.4.03a00140
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘sp.1954.1.4.03a00140’
+
+     0K ...                                                    21.7K=0.1s
+
+2017-01-30 07:12:28 (21.7 KB/s) - ‘sp.1954.1.4.03a00140’ saved [3113]
+
+--2017-01-30 07:12:29--  http://doi.org/10.1525/sp.1954.1.4.03a00060
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.4.03a00060 [following]
+--2017-01-30 07:12:30--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.4.03a00060
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.4.03a00060 [following]
+--2017-01-30 07:12:31--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.4.03a00060
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘sp.1954.1.4.03a00060’
+
+     0K ...                                                    21.7K=0.1s
+
+2017-01-30 07:12:32 (21.7 KB/s) - ‘sp.1954.1.4.03a00060’ saved [3113]
+
+--2017-01-30 07:12:33--  http://doi.org/10.1525/sp.1954.1.4.03a00020
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.4.03a00020 [following]
+--2017-01-30 07:12:34--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.4.03a00020
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.4.03a00020 [following]
+--2017-01-30 07:12:35--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.4.03a00020
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘sp.1954.1.4.03a00020’
+
+     0K ...                                                    21.7K=0.1s
+
+2017-01-30 07:12:36 (21.7 KB/s) - ‘sp.1954.1.4.03a00020’ saved [3113]
+
+--2017-01-30 07:12:37--  http://doi.org/10.1525/sp.1954.1.4.03a00080
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.4.03a00080 [following]
+--2017-01-30 07:12:38--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.4.03a00080
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.4.03a00080 [following]
+--2017-01-30 07:12:40--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.4.03a00080
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘sp.1954.1.4.03a00080’
+
+     0K ...                                                    21.7K=0.1s
+
+2017-01-30 07:12:40 (21.7 KB/s) - ‘sp.1954.1.4.03a00080’ saved [3113]
+
+--2017-01-30 07:12:41--  http://doi.org/10.1525/sp.1954.1.4.03a00180
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.4.03a00180 [following]
+--2017-01-30 07:12:42--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.4.03a00180
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.4.03a00180 [following]
+--2017-01-30 07:12:44--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.4.03a00180
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘sp.1954.1.4.03a00180’
+
+     0K ...                                                    21.8K=0.1s
+
+2017-01-30 07:12:44 (21.8 KB/s) - ‘sp.1954.1.4.03a00180’ saved [3113]
+
+--2017-01-30 07:12:45--  http://doi.org/10.1525/sp.1954.1.4.03a00190
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.4.03a00190 [following]
+--2017-01-30 07:12:46--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.4.03a00190
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.4.03a00190 [following]
+--2017-01-30 07:12:48--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.4.03a00190
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘sp.1954.1.4.03a00190’
+
+     0K ...                                                    21.8K=0.1s
+
+2017-01-30 07:12:48 (21.8 KB/s) - ‘sp.1954.1.4.03a00190’ saved [3113]
+
+--2017-01-30 07:12:49--  http://doi.org/10.1525/sp.1954.1.4.03a00130
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.4.03a00130 [following]
+--2017-01-30 07:12:51--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.4.03a00130
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.4.03a00130 [following]
+--2017-01-30 07:12:52--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.4.03a00130
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘sp.1954.1.4.03a00130’
+
+     0K ...                                                    21.7K=0.1s
+
+2017-01-30 07:12:52 (21.7 KB/s) - ‘sp.1954.1.4.03a00130’ saved [3113]
+
+--2017-01-30 07:12:53--  http://doi.org/10.1525/sp.1954.1.4.03a00050
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.4.03a00050 [following]
+--2017-01-30 07:12:55--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.4.03a00050
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.4.03a00050 [following]
+--2017-01-30 07:12:56--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.4.03a00050
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘sp.1954.1.4.03a00050’
+
+     0K ...                                                    21.7K=0.1s
+
+2017-01-30 07:12:56 (21.7 KB/s) - ‘sp.1954.1.4.03a00050’ saved [3113]
+
+--2017-01-30 07:12:57--  http://doi.org/10.1525/sp.1954.1.4.03a00010
+Connecting to doi.org (doi.org)|54.191.229.235|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.4.03a00010 [following]
+--2017-01-30 07:12:59--  http://caliber.ucpress.net/doi/abs/10.1525/sp.1954.1.4.03a00010
+Connecting to caliber.ucpress.net (caliber.ucpress.net)|216.97.224.52|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.4.03a00010 [following]
+--2017-01-30 07:13:00--  http://caliber.ucpress.net/redirect.php?route=doi/abs/10.1525/sp.1954.1.4.03a00010
+Reusing existing connection to caliber.ucpress.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘sp.1954.1.4.03a00010’
+
+     0K ...                                                    21.9K=0.1s
+
+2017-01-30 07:13:00 (21.9 KB/s) - ‘sp.1954.1.4.03a00010’ saved [3113]
+
+FINISHED --2017-01-30 07:13:00--
+Total wall clock time: 10m 42s
+Downloaded: 100 files, 3.7M in 15s (251 KB/s)

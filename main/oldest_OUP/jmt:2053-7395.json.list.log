@@ -1,0 +1,2406 @@
+--2017-01-29 08:47:30--  http://doi.org/10.1093/jmt/1.1.21
+Resolving doi.org (doi.org)... 95.138.171.129, 63.123.152.248, 208.254.38.90, ...
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.1.21 [following]
+--2017-01-29 08:47:31--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.1.21
+Resolving jmt.oxfordjournals.org (jmt.oxfordjournals.org)... 209.135.222.209
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/1/1/21/878356/Membership-Directory-1963-1964 [following]
+--2017-01-29 08:47:33--  https://academic.oup.com/jmt/article/1/1/21/878356/Membership-Directory-1963-1964
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/1/1/21/878356/Membership-Directory-1963-1964?redirectedFrom=fulltext [following]
+--2017-01-29 08:47:35--  https://academic.oup.com/jmt/article-abstract/1/1/21/878356/Membership-Directory-1963-1964?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 73003 (71K) [text/html]
+Saving to: ‘1.1.21’
+
+     0K .......... .......... .......... .......... .......... 70%  310K 0s
+    50K .......... .......... .                               100%  267K=0.2s
+
+2017-01-29 08:47:38 (296 KB/s) - ‘1.1.21’ saved [73003/73003]
+
+--2017-01-29 08:47:39--  http://doi.org/10.1093/jmt/1.1.7
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.1.7 [following]
+--2017-01-29 08:47:40--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.1.7
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/1/1/7/878369/The-Authors [following]
+--2017-01-29 08:47:42--  https://academic.oup.com/jmt/article/1/1/7/878369/The-Authors
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/1/1/7/878369/The-Authors?redirectedFrom=fulltext [following]
+--2017-01-29 08:47:44--  https://academic.oup.com/jmt/article-abstract/1/1/7/878369/The-Authors?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 72518 (71K) [text/html]
+Saving to: ‘1.1.7’
+
+     0K .......... .......... .......... .......... .......... 70%  207K 0s
+    50K .......... ..........                                 100% 9.88M=0.2s
+
+2017-01-29 08:47:48 (291 KB/s) - ‘1.1.7’ saved [72518/72518]
+
+--2017-01-29 08:47:49--  http://doi.org/10.1093/jmt/1.1.16
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.1.16 [following]
+--2017-01-29 08:47:50--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.1.16
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/1/1/16/878340/Special-Education-for-the-Emotionally-Disturbed [following]
+--2017-01-29 08:47:51--  https://academic.oup.com/jmt/article/1/1/16/878340/Special-Education-for-the-Emotionally-Disturbed
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/1/1/16/878340/Special-Education-for-the-Emotionally-Disturbed?redirectedFrom=fulltext [following]
+--2017-01-29 08:47:53--  https://academic.oup.com/jmt/article-abstract/1/1/16/878340/Special-Education-for-the-Emotionally-Disturbed?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75519 (74K) [text/html]
+Saving to: ‘1.1.16’
+
+     0K .......... .......... .......... .......... .......... 67%  209K 0s
+    50K .......... .......... ...                             100% 12.3M=0.2s
+
+2017-01-29 08:47:57 (305 KB/s) - ‘1.1.16’ saved [75519/75519]
+
+--2017-01-29 08:47:58--  http://doi.org/10.1093/jmt/1.1.19
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.1.19 [following]
+--2017-01-29 08:47:59--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.1.19
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/1/1/19/878346/Chamber-Music-Proposed-as-a-Therapeutic-Medium [following]
+--2017-01-29 08:48:00--  https://academic.oup.com/jmt/article/1/1/19/878346/Chamber-Music-Proposed-as-a-Therapeutic-Medium
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/1/1/19/878346/Chamber-Music-Proposed-as-a-Therapeutic-Medium?redirectedFrom=fulltext [following]
+--2017-01-29 08:48:03--  https://academic.oup.com/jmt/article-abstract/1/1/19/878346/Chamber-Music-Proposed-as-a-Therapeutic-Medium?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 90320 (88K) [text/html]
+Saving to: ‘1.1.19’
+
+     0K .......... .......... .......... .......... .......... 56%  208K 0s
+    50K .......... .......... .......... ........             100%  479K=0.3s
+
+2017-01-29 08:48:07 (276 KB/s) - ‘1.1.19’ saved [90320/90320]
+
+--2017-01-29 08:48:08--  http://doi.org/10.1093/jmt/1.1.11
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.1.11 [following]
+--2017-01-29 08:48:09--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.1.11
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/1/1/11/878324/The-Aesthetic-Experience-and-Sociological-Man [following]
+--2017-01-29 08:48:10--  https://academic.oup.com/jmt/article/1/1/11/878324/The-Aesthetic-Experience-and-Sociological-Man
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/1/1/11/878324/The-Aesthetic-Experience-and-Sociological-Man?redirectedFrom=fulltext [following]
+--2017-01-29 08:48:13--  https://academic.oup.com/jmt/article-abstract/1/1/11/878324/The-Aesthetic-Experience-and-Sociological-Man?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75167 (73K) [text/html]
+Saving to: ‘1.1.11’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ...                             100% 7.95M=0.2s
+
+2017-01-29 08:48:16 (303 KB/s) - ‘1.1.11’ saved [75167/75167]
+
+--2017-01-29 08:48:17--  http://doi.org/10.1093/jmt/1.1.1
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.1.1 [following]
+--2017-01-29 08:48:18--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.1.1
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/1/1/1/878307/The-Aesthetic-Experience-and-Biological-Man [following]
+--2017-01-29 08:48:19--  https://academic.oup.com/jmt/article/1/1/1/878307/The-Aesthetic-Experience-and-Biological-Man
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/1/1/1/878307/The-Aesthetic-Experience-and-Biological-Man?redirectedFrom=fulltext [following]
+--2017-01-29 08:48:22--  https://academic.oup.com/jmt/article-abstract/1/1/1/878307/The-Aesthetic-Experience-and-Biological-Man?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75188 (73K) [text/html]
+Saving to: ‘1.1.1.4’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ...                             100% 9.63M=0.2s
+
+2017-01-29 08:48:26 (304 KB/s) - ‘1.1.1.4’ saved [75188/75188]
+
+--2017-01-29 08:48:27--  http://doi.org/10.1093/jmt/1.1.10
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.1.10 [following]
+--2017-01-29 08:48:28--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.1.10
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/1/1/10/878314/Announcements [following]
+--2017-01-29 08:48:29--  https://academic.oup.com/jmt/article/1/1/10/878314/Announcements
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/1/1/10/878314/Announcements?redirectedFrom=fulltext [following]
+--2017-01-29 08:48:32--  https://academic.oup.com/jmt/article-abstract/1/1/10/878314/Announcements?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 72604 (71K) [text/html]
+Saving to: ‘1.1.10.1’
+
+     0K .......... .......... .......... .......... .......... 70%  209K 0s
+    50K .......... ..........                                 100% 8.97M=0.2s
+
+2017-01-29 08:48:35 (294 KB/s) - ‘1.1.10.1’ saved [72604/72604]
+
+--2017-01-29 08:48:36--  http://doi.org/10.1093/jmt/1.1.30
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.1.30 [following]
+--2017-01-29 08:48:37--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.1.30
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/1/1/30/878364/Association-Activities [following]
+--2017-01-29 08:48:38--  https://academic.oup.com/jmt/article/1/1/30/878364/Association-Activities
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/1/1/30/878364/Association-Activities?redirectedFrom=fulltext [following]
+--2017-01-29 08:48:41--  https://academic.oup.com/jmt/article-abstract/1/1/30/878364/Association-Activities?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 72665 (71K) [text/html]
+Saving to: ‘1.1.30’
+
+     0K .......... .......... .......... .......... .......... 70%  209K 0s
+    50K .......... ..........                                 100% 9.83M=0.2s
+
+2017-01-29 08:48:44 (295 KB/s) - ‘1.1.30’ saved [72665/72665]
+
+--2017-01-29 08:48:45--  http://doi.org/10.1093/jmt/1.1.15
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.1.15 [following]
+--2017-01-29 08:48:46--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.1.15
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/1/1/15/878335/Professional-Opportunities [following]
+--2017-01-29 08:48:47--  https://academic.oup.com/jmt/article/1/1/15/878335/Professional-Opportunities
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/1/1/15/878335/Professional-Opportunities?redirectedFrom=fulltext [following]
+--2017-01-29 08:48:49--  https://academic.oup.com/jmt/article-abstract/1/1/15/878335/Professional-Opportunities?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 72873 (71K) [text/html]
+Saving to: ‘1.1.15’
+
+     0K .......... .......... .......... .......... .......... 70%  209K 0s
+    50K .......... .......... .                               100% 10.9M=0.2s
+
+2017-01-29 08:48:53 (294 KB/s) - ‘1.1.15’ saved [72873/72873]
+
+--2017-01-29 08:48:54--  http://doi.org/10.1093/jmt/1.1.8
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.1.8 [following]
+--2017-01-29 08:48:55--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.1.8
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/1/1/8/878378/The-Aesthetic-Experience-and-Psychological-Man [following]
+--2017-01-29 08:48:56--  https://academic.oup.com/jmt/article/1/1/8/878378/The-Aesthetic-Experience-and-Psychological-Man
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/1/1/8/878378/The-Aesthetic-Experience-and-Psychological-Man?redirectedFrom=fulltext [following]
+--2017-01-29 08:48:59--  https://academic.oup.com/jmt/article-abstract/1/1/8/878378/The-Aesthetic-Experience-and-Psychological-Man?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75172 (73K) [text/html]
+Saving to: ‘1.1.8’
+
+     0K .......... .......... .......... .......... .......... 68%  309K 0s
+    50K .......... .......... ...                             100%  295K=0.2s
+
+2017-01-29 08:49:03 (304 KB/s) - ‘1.1.8’ saved [75172/75172]
+
+--2017-01-29 08:49:04--  http://doi.org/10.1093/jmt/1.2.33
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.2.33 [following]
+--2017-01-29 08:49:05--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.2.33
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/1/2/33/877086/Abstracts-of-Research-in-Music-Therapy [following]
+--2017-01-29 08:49:06--  https://academic.oup.com/jmt/article/1/2/33/877086/Abstracts-of-Research-in-Music-Therapy
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/1/2/33/877086/Abstracts-of-Research-in-Music-Therapy?redirectedFrom=fulltext [following]
+--2017-01-29 08:49:09--  https://academic.oup.com/jmt/article-abstract/1/2/33/877086/Abstracts-of-Research-in-Music-Therapy?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75962 (74K) [text/html]
+Saving to: ‘1.2.33’
+
+     0K .......... .......... .......... .......... .......... 67%  209K 0s
+    50K .......... .......... ....                            100% 7.72M=0.2s
+
+2017-01-29 08:49:12 (307 KB/s) - ‘1.2.33’ saved [75962/75962]
+
+--2017-01-29 08:49:13--  http://doi.org/10.1093/jmt/1.3.115
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.3.115 [following]
+--2017-01-29 08:49:14--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.3.115
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/1/3/115/896430/Professional-Opportunities [following]
+--2017-01-29 08:49:16--  https://academic.oup.com/jmt/article/1/3/115/896430/Professional-Opportunities
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/1/3/115/896430/Professional-Opportunities?redirectedFrom=fulltext [following]
+--2017-01-29 08:49:17--  https://academic.oup.com/jmt/article-abstract/1/3/115/896430/Professional-Opportunities?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 72780 (71K) [text/html]
+Saving to: ‘1.3.115’
+
+     0K .......... .......... .......... .......... .......... 70%  208K 0s
+    50K .......... .......... .                               100% 9.24M=0.2s
+
+2017-01-29 08:49:21 (294 KB/s) - ‘1.3.115’ saved [72780/72780]
+
+--2017-01-29 08:49:22--  http://doi.org/10.1093/jmt/1.3.112
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.3.112 [following]
+--2017-01-29 08:49:23--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.3.112
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/1/3/112/896427/Announcements [following]
+--2017-01-29 08:49:24--  https://academic.oup.com/jmt/article/1/3/112/896427/Announcements
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/1/3/112/896427/Announcements?redirectedFrom=fulltext [following]
+--2017-01-29 08:49:27--  https://academic.oup.com/jmt/article-abstract/1/3/112/896427/Announcements?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 72648 (71K) [text/html]
+Saving to: ‘1.3.112’
+
+     0K .......... .......... .......... .......... .......... 70%  209K 0s
+    50K .......... ..........                                 100% 7.98M=0.2s
+
+2017-01-29 08:49:30 (294 KB/s) - ‘1.3.112’ saved [72648/72648]
+
+--2017-01-29 08:49:31--  http://doi.org/10.1093/jmt/1.3.73
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.3.73 [following]
+--2017-01-29 08:49:32--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.3.73
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/1/3/73/896436/Therapeutic-Values-of-Instrumental-Performance-for [following]
+--2017-01-29 08:49:33--  https://academic.oup.com/jmt/article/1/3/73/896436/Therapeutic-Values-of-Instrumental-Performance-for
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/1/3/73/896436/Therapeutic-Values-of-Instrumental-Performance-for?redirectedFrom=fulltext [following]
+--2017-01-29 08:49:36--  https://academic.oup.com/jmt/article-abstract/1/3/73/896436/Therapeutic-Values-of-Instrumental-Performance-for?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75650 (74K) [text/html]
+Saving to: ‘1.3.73’
+
+     0K .......... .......... .......... .......... .......... 67%  208K 0s
+    50K .......... .......... ...                             100% 8.92M=0.2s
+
+2017-01-29 08:49:38 (304 KB/s) - ‘1.3.73’ saved [75650/75650]
+
+--2017-01-29 08:49:39--  http://doi.org/10.1093/jmt/1.3.83
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.3.83 [following]
+--2017-01-29 08:49:41--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.3.83
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/1/3/83/896446/Selected-Articles-and-Research-Studies-Relating-to [following]
+--2017-01-29 08:49:42--  https://academic.oup.com/jmt/article/1/3/83/896446/Selected-Articles-and-Research-Studies-Relating-to
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/1/3/83/896446/Selected-Articles-and-Research-Studies-Relating-to?redirectedFrom=fulltext [following]
+--2017-01-29 08:49:44--  https://academic.oup.com/jmt/article-abstract/1/3/83/896446/Selected-Articles-and-Research-Studies-Relating-to?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 90074 (88K) [text/html]
+Saving to: ‘1.3.83’
+
+     0K .......... .......... .......... .......... .......... 56%  208K 0s
+    50K .......... .......... .......... .......              100%  473K=0.3s
+
+2017-01-29 08:49:49 (275 KB/s) - ‘1.3.83’ saved [90074/90074]
+
+--2017-01-29 08:49:50--  http://doi.org/10.1093/jmt/1.3.80
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.3.80 [following]
+--2017-01-29 08:49:51--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.3.80
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/1/3/80/896441/Fifteenth-Annual-Conference-of-the-National [following]
+--2017-01-29 08:49:52--  https://academic.oup.com/jmt/article/1/3/80/896441/Fifteenth-Annual-Conference-of-the-National
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/1/3/80/896441/Fifteenth-Annual-Conference-of-the-National?redirectedFrom=fulltext [following]
+--2017-01-29 08:49:54--  https://academic.oup.com/jmt/article-abstract/1/3/80/896441/Fifteenth-Annual-Conference-of-the-National?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 73510 (72K) [text/html]
+Saving to: ‘1.3.80’
+
+     0K .......... .......... .......... .......... .......... 69%  209K 0s
+    50K .......... .......... .                               100% 9.58M=0.2s
+
+2017-01-29 08:49:57 (297 KB/s) - ‘1.3.80’ saved [73510/73510]
+
+--2017-01-29 08:49:58--  http://doi.org/10.1093/jmt/1.4.143
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.4.143 [following]
+--2017-01-29 08:49:59--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.4.143
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/1/4/143/1120334/Music-Therapy-from-Auditory-Ink-Blots [following]
+--2017-01-29 08:50:00--  https://academic.oup.com/jmt/article/1/4/143/1120334/Music-Therapy-from-Auditory-Ink-Blots
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/1/4/143/1120334/Music-Therapy-from-Auditory-Ink-Blots?redirectedFrom=fulltext [following]
+--2017-01-29 08:50:03--  https://academic.oup.com/jmt/article-abstract/1/4/143/1120334/Music-Therapy-from-Auditory-Ink-Blots?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 76914 (75K) [text/html]
+Saving to: ‘1.4.143’
+
+     0K .......... .......... .......... .......... .......... 66%  209K 0s
+    50K .......... .......... .....                           100% 6.53M=0.2s
+
+2017-01-29 08:50:07 (310 KB/s) - ‘1.4.143’ saved [76914/76914]
+
+--2017-01-29 08:50:08--  http://doi.org/10.1093/jmt/1.4.129
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.4.129 [following]
+--2017-01-29 08:50:09--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.4.129
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/1/4/129/1120314/Adaptive-Behavior-as-Related-to-the-Treatment-of [following]
+--2017-01-29 08:50:10--  https://academic.oup.com/jmt/article/1/4/129/1120314/Adaptive-Behavior-as-Related-to-the-Treatment-of
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/1/4/129/1120314/Adaptive-Behavior-as-Related-to-the-Treatment-of?redirectedFrom=fulltext [following]
+--2017-01-29 08:50:12--  https://academic.oup.com/jmt/article-abstract/1/4/129/1120314/Adaptive-Behavior-as-Related-to-the-Treatment-of?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 90791 (89K) [text/html]
+Saving to: ‘1.4.129’
+
+     0K .......... .......... .......... .......... .......... 56%  209K 0s
+    50K .......... .......... .......... ........             100% 8.01M=0.2s
+
+2017-01-29 08:50:16 (364 KB/s) - ‘1.4.129’ saved [90791/90791]
+
+--2017-01-29 08:50:17--  http://doi.org/10.1093/jmt/1.4.139
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.4.139 [following]
+--2017-01-29 08:50:18--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.4.139
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/1/4/139/1120328/Music-in-Special-Education [following]
+--2017-01-29 08:50:20--  https://academic.oup.com/jmt/article/1/4/139/1120328/Music-in-Special-Education
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/1/4/139/1120328/Music-in-Special-Education?redirectedFrom=fulltext [following]
+--2017-01-29 08:50:22--  https://academic.oup.com/jmt/article-abstract/1/4/139/1120328/Music-in-Special-Education?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75093 (73K) [text/html]
+Saving to: ‘1.4.139’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ...                             100% 12.3M=0.2s
+
+2017-01-29 08:50:26 (304 KB/s) - ‘1.4.139’ saved [75093/75093]
+
+--2017-01-29 08:50:27--  http://doi.org/10.1093/jmt/1.4.154
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.4.154 [following]
+--2017-01-29 08:50:28--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.4.154
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/1/4/154/1120349/Professional-Opportunities [following]
+--2017-01-29 08:50:29--  https://academic.oup.com/jmt/article/1/4/154/1120349/Professional-Opportunities
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/1/4/154/1120349/Professional-Opportunities?redirectedFrom=fulltext [following]
+--2017-01-29 08:50:32--  https://academic.oup.com/jmt/article-abstract/1/4/154/1120349/Professional-Opportunities?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 87833 (86K) [text/html]
+Saving to: ‘1.4.154’
+
+     0K .......... .......... .......... .......... .......... 58%  209K 0s
+    50K .......... .......... .......... .....                100% 6.53M=0.2s
+
+2017-01-29 08:50:35 (351 KB/s) - ‘1.4.154’ saved [87833/87833]
+
+--2017-01-29 08:50:36--  http://doi.org/10.1093/jmt/1.4.117
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.4.117 [following]
+--2017-01-29 08:50:38--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.4.117
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/1/4/117/1120302/Music-s-Silver-Sound [following]
+--2017-01-29 08:50:39--  https://academic.oup.com/jmt/article/1/4/117/1120302/Music-s-Silver-Sound
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/1/4/117/1120302/Music-s-Silver-Sound?redirectedFrom=fulltext [following]
+--2017-01-29 08:50:41--  https://academic.oup.com/jmt/article-abstract/1/4/117/1120302/Music-s-Silver-Sound?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 89810 (88K) [text/html]
+Saving to: ‘1.4.117’
+
+     0K .......... .......... .......... .......... .......... 57%  310K 0s
+    50K .......... .......... .......... .......              100%  460K=0.2s
+
+2017-01-29 08:50:46 (361 KB/s) - ‘1.4.117’ saved [89810/89810]
+
+--2017-01-29 08:50:47--  http://doi.org/10.1093/jmt/1.4.156-a
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.4.156-a [following]
+--2017-01-29 08:50:48--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.4.156-a
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/1/4/156/1120358/Index-to-Volume-1-1964 [following]
+--2017-01-29 08:50:50--  https://academic.oup.com/jmt/article/1/4/156/1120358/Index-to-Volume-1-1964
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/1/4/156/1120358/Index-to-Volume-1-1964?redirectedFrom=fulltext [following]
+--2017-01-29 08:50:52--  https://academic.oup.com/jmt/article-abstract/1/4/156/1120358/Index-to-Volume-1-1964?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 72750 (71K) [text/html]
+Saving to: ‘1.4.156-a’
+
+     0K .......... .......... .......... .......... .......... 70%  208K 0s
+    50K .......... .......... .                               100% 11.2M=0.2s
+
+2017-01-29 08:50:55 (293 KB/s) - ‘1.4.156-a’ saved [72750/72750]
+
+--2017-01-29 08:50:56--  http://doi.org/10.1093/jmt/1.4.153
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.4.153 [following]
+--2017-01-29 08:50:57--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.4.153
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/1/4/153/1120345/Announcements [following]
+--2017-01-29 08:50:58--  https://academic.oup.com/jmt/article/1/4/153/1120345/Announcements
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/1/4/153/1120345/Announcements?redirectedFrom=fulltext [following]
+--2017-01-29 08:51:01--  https://academic.oup.com/jmt/article-abstract/1/4/153/1120345/Announcements?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 72652 (71K) [text/html]
+Saving to: ‘1.4.153’
+
+     0K .......... .......... .......... .......... .......... 70%  209K 0s
+    50K .......... ..........                                 100% 11.0M=0.2s
+
+2017-01-29 08:51:07 (294 KB/s) - ‘1.4.153’ saved [72652/72652]
+
+--2017-01-29 08:51:08--  http://doi.org/10.1093/jmt/1.4.121
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.4.121 [following]
+--2017-01-29 08:51:09--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.4.121
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/1/4/121/1120306/Change-and-Permanence [following]
+--2017-01-29 08:51:10--  https://academic.oup.com/jmt/article/1/4/121/1120306/Change-and-Permanence
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/1/4/121/1120306/Change-and-Permanence?redirectedFrom=fulltext [following]
+--2017-01-29 08:51:12--  https://academic.oup.com/jmt/article-abstract/1/4/121/1120306/Change-and-Permanence?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75041 (73K) [text/html]
+Saving to: ‘1.4.121’
+
+     0K .......... .......... .......... .......... .......... 68%  207K 0s
+    50K .......... .......... ...                             100% 4.73M=0.2s
+
+2017-01-29 08:51:16 (298 KB/s) - ‘1.4.121’ saved [75041/75041]
+
+--2017-01-29 08:51:17--  http://doi.org/10.1093/jmt/1.4.148
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.4.148 [following]
+--2017-01-29 08:51:18--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.4.148
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/1/4/148/1120338/Developments-in-the-Training-of-Music-Therapists [following]
+--2017-01-29 08:51:19--  https://academic.oup.com/jmt/article/1/4/148/1120338/Developments-in-the-Training-of-Music-Therapists
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/1/4/148/1120338/Developments-in-the-Training-of-Music-Therapists?redirectedFrom=fulltext [following]
+--2017-01-29 08:51:22--  https://academic.oup.com/jmt/article-abstract/1/4/148/1120338/Developments-in-the-Training-of-Music-Therapists?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75555 (74K) [text/html]
+Saving to: ‘1.4.148’
+
+     0K .......... .......... .......... .......... .......... 67%  209K 0s
+    50K .......... .......... ...                             100% 6.96M=0.2s
+
+2017-01-29 08:51:25 (303 KB/s) - ‘1.4.148’ saved [75555/75555]
+
+--2017-01-29 08:51:26--  http://doi.org/10.1093/jmt/1.4.156
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.4.156 [following]
+--2017-01-29 08:51:27--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.4.156
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/1/4/156/1120354/The-Authors [following]
+--2017-01-29 08:51:28--  https://academic.oup.com/jmt/article/1/4/156/1120354/The-Authors
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/1/4/156/1120354/The-Authors?redirectedFrom=fulltext [following]
+--2017-01-29 08:51:31--  https://academic.oup.com/jmt/article-abstract/1/4/156/1120354/The-Authors?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 72591 (71K) [text/html]
+Saving to: ‘1.4.156’
+
+     0K .......... .......... .......... .......... .......... 70%  209K 0s
+    50K .......... ..........                                 100% 6.73M=0.2s
+
+2017-01-29 08:51:34 (292 KB/s) - ‘1.4.156’ saved [72591/72591]
+
+--2017-01-29 08:51:35--  http://doi.org/10.1093/jmt/1.4.135
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.4.135 [following]
+--2017-01-29 08:51:36--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.4.135
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/1/4/135/1120325/Music-and-Creative-Arts-Therapy-for-an-Autistic [following]
+--2017-01-29 08:51:37--  https://academic.oup.com/jmt/article/1/4/135/1120325/Music-and-Creative-Arts-Therapy-for-an-Autistic
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/1/4/135/1120325/Music-and-Creative-Arts-Therapy-for-an-Autistic?redirectedFrom=fulltext [following]
+--2017-01-29 08:51:40--  https://academic.oup.com/jmt/article-abstract/1/4/135/1120325/Music-and-Creative-Arts-Therapy-for-an-Autistic?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75520 (74K) [text/html]
+Saving to: ‘1.4.135’
+
+     0K .......... .......... .......... .......... .......... 67%  208K 0s
+    50K .......... .......... ...                             100% 9.97M=0.2s
+
+2017-01-29 08:51:43 (304 KB/s) - ‘1.4.135’ saved [75520/75520]
+
+--2017-01-29 08:51:44--  http://doi.org/10.1093/jmt/1.4.132
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.4.132 [following]
+--2017-01-29 08:51:45--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.4.132
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/1/4/132/1120321/Music-Therapy-as-a-Means-of-Changing-the-Adaptive [following]
+--2017-01-29 08:51:47--  https://academic.oup.com/jmt/article/1/4/132/1120321/Music-Therapy-as-a-Means-of-Changing-the-Adaptive
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/1/4/132/1120321/Music-Therapy-as-a-Means-of-Changing-the-Adaptive?redirectedFrom=fulltext [following]
+--2017-01-29 08:51:49--  https://academic.oup.com/jmt/article-abstract/1/4/132/1120321/Music-Therapy-as-a-Means-of-Changing-the-Adaptive?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75993 (74K) [text/html]
+Saving to: ‘1.4.132’
+
+     0K .......... .......... .......... .......... .......... 67%  208K 0s
+    50K .......... .......... ....                            100% 9.55M=0.2s
+
+2017-01-29 08:51:52 (306 KB/s) - ‘1.4.132’ saved [75993/75993]
+
+--2017-01-29 08:51:53--  http://doi.org/10.1093/jmt/1.4.151
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.4.151 [following]
+--2017-01-29 08:51:55--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.4.151
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/1/4/151/1120342/Report-on-the-Fifteenth-Annual-Conference [following]
+--2017-01-29 08:51:56--  https://academic.oup.com/jmt/article/1/4/151/1120342/Report-on-the-Fifteenth-Annual-Conference
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/1/4/151/1120342/Report-on-the-Fifteenth-Annual-Conference?redirectedFrom=fulltext [following]
+--2017-01-29 08:51:58--  https://academic.oup.com/jmt/article-abstract/1/4/151/1120342/Report-on-the-Fifteenth-Annual-Conference?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 73286 (72K) [text/html]
+Saving to: ‘1.4.151’
+
+     0K .......... .......... .......... .......... .......... 69%  209K 0s
+    50K .......... .......... .                               100% 6.34M=0.2s
+
+2017-01-29 08:52:01 (295 KB/s) - ‘1.4.151’ saved [73286/73286]
+
+--2017-01-29 08:52:02--  http://doi.org/10.1093/jmt/1.4.124
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.4.124 [following]
+--2017-01-29 08:52:03--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/1.4.124
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/1/4/124/1120311/Orchestration-of-the-New-Mental-Hospital-Theme [following]
+--2017-01-29 08:52:05--  https://academic.oup.com/jmt/article/1/4/124/1120311/Orchestration-of-the-New-Mental-Hospital-Theme
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/1/4/124/1120311/Orchestration-of-the-New-Mental-Hospital-Theme?redirectedFrom=fulltext [following]
+--2017-01-29 08:52:07--  https://academic.oup.com/jmt/article-abstract/1/4/124/1120311/Orchestration-of-the-New-Mental-Hospital-Theme?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75677 (74K) [text/html]
+Saving to: ‘1.4.124’
+
+     0K .......... .......... .......... .......... .......... 67%  209K 0s
+    50K .......... .......... ...                             100% 11.4M=0.2s
+
+2017-01-29 08:52:19 (306 KB/s) - ‘1.4.124’ saved [75677/75677]
+
+--2017-01-29 08:52:20--  http://doi.org/10.1093/jmt/2.1.38-a
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.1.38-a [following]
+--2017-01-29 08:52:21--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.1.38-a
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/1/38/885249/The-Authors [following]
+--2017-01-29 08:52:23--  https://academic.oup.com/jmt/article/2/1/38/885249/The-Authors
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/1/38/885249/The-Authors?redirectedFrom=fulltext [following]
+--2017-01-29 08:52:25--  https://academic.oup.com/jmt/article-abstract/2/1/38/885249/The-Authors?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 72553 (71K) [text/html]
+Saving to: ‘2.1.38-a’
+
+     0K .......... .......... .......... .......... .......... 70%  209K 0s
+    50K .......... ..........                                 100% 11.8M=0.2s
+
+2017-01-29 08:52:29 (294 KB/s) - ‘2.1.38-a’ saved [72553/72553]
+
+--2017-01-29 08:52:30--  http://doi.org/10.1093/jmt/2.1.36
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.1.36 [following]
+--2017-01-29 08:52:31--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.1.36
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/1/36/885239/Announcements [following]
+--2017-01-29 08:52:32--  https://academic.oup.com/jmt/article/2/1/36/885239/Announcements
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/1/36/885239/Announcements?redirectedFrom=fulltext [following]
+--2017-01-29 08:52:34--  https://academic.oup.com/jmt/article-abstract/2/1/36/885239/Announcements?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 87520 (85K) [text/html]
+Saving to: ‘2.1.36.1’
+
+     0K .......... .......... .......... .......... .......... 58%  208K 0s
+    50K .......... .......... .......... .....                100% 10.2M=0.2s
+
+2017-01-29 08:52:41 (351 KB/s) - ‘2.1.36.1’ saved [87520/87520]
+
+--2017-01-29 08:52:42--  http://doi.org/10.1093/jmt/2.1.16
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.1.16 [following]
+--2017-01-29 08:52:43--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.1.16
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/1/16/885218/Community-Mental-Health-A-New-Challenge [following]
+--2017-01-29 08:52:44--  https://academic.oup.com/jmt/article/2/1/16/885218/Community-Mental-Health-A-New-Challenge
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/1/16/885218/Community-Mental-Health-A-New-Challenge?redirectedFrom=fulltext [following]
+--2017-01-29 08:52:47--  https://academic.oup.com/jmt/article-abstract/2/1/16/885218/Community-Mental-Health-A-New-Challenge?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75431 (74K) [text/html]
+Saving to: ‘2.1.16.1’
+
+     0K .......... .......... .......... .......... .......... 67%  309K 0s
+    50K .......... .......... ...                             100%  297K=0.2s
+
+2017-01-29 08:52:50 (305 KB/s) - ‘2.1.16.1’ saved [75431/75431]
+
+--2017-01-29 08:52:51--  http://doi.org/10.1093/jmt/2.1.38
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.1.38 [following]
+--2017-01-29 08:52:52--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.1.38
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/1/38/885245/Association-Business [following]
+--2017-01-29 08:52:53--  https://academic.oup.com/jmt/article/2/1/38/885245/Association-Business
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/1/38/885245/Association-Business?redirectedFrom=fulltext [following]
+--2017-01-29 08:52:56--  https://academic.oup.com/jmt/article-abstract/2/1/38/885245/Association-Business?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 87633 (86K) [text/html]
+Saving to: ‘2.1.38.1’
+
+     0K .......... .......... .......... .......... .......... 58%  209K 0s
+    50K .......... .......... .......... .....                100% 10.6M=0.2s
+
+2017-01-29 08:52:59 (353 KB/s) - ‘2.1.38.1’ saved [87633/87633]
+
+--2017-01-29 08:53:00--  http://doi.org/10.1093/jmt/2.1.40
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.1.40 [following]
+--2017-01-29 08:53:01--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.1.40
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/1/40/885253/Professional-Opportunities [following]
+--2017-01-29 08:53:03--  https://academic.oup.com/jmt/article/2/1/40/885253/Professional-Opportunities
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/1/40/885253/Professional-Opportunities?redirectedFrom=fulltext [following]
+--2017-01-29 08:53:05--  https://academic.oup.com/jmt/article-abstract/2/1/40/885253/Professional-Opportunities?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72730 (71K) [text/html]
+Saving to: ‘2.1.40.1’
+
+     0K .......... .......... .......... .......... .......... 70%  209K 0s
+    50K .......... .......... .                               100% 13.0M=0.2s
+
+2017-01-29 08:53:08 (296 KB/s) - ‘2.1.40.1’ saved [72730/72730]
+
+--2017-01-29 08:53:09--  http://doi.org/10.1093/jmt/2.1.8
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.1.8 [following]
+--2017-01-29 08:53:11--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.1.8
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/1/8/885255/Scribbling-in-Music-Therapy [following]
+--2017-01-29 08:53:12--  https://academic.oup.com/jmt/article/2/1/8/885255/Scribbling-in-Music-Therapy
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/1/8/885255/Scribbling-in-Music-Therapy?redirectedFrom=fulltext [following]
+--2017-01-29 08:53:15--  https://academic.oup.com/jmt/article-abstract/2/1/8/885255/Scribbling-in-Music-Therapy?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 89850 (88K) [text/html]
+Saving to: ‘2.1.8.1’
+
+     0K .......... .......... .......... .......... .......... 56%  209K 0s
+    50K .......... .......... .......... .......              100%  471K=0.3s
+
+2017-01-29 08:53:18 (275 KB/s) - ‘2.1.8.1’ saved [89850/89850]
+
+--2017-01-29 08:53:19--  http://doi.org/10.1093/jmt/2.1.25
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.1.25 [following]
+--2017-01-29 08:53:20--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.1.25
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/1/25/885228/Membership-Directory-1964-1965 [following]
+--2017-01-29 08:53:21--  https://academic.oup.com/jmt/article/2/1/25/885228/Membership-Directory-1964-1965
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/1/25/885228/Membership-Directory-1964-1965?redirectedFrom=fulltext [following]
+--2017-01-29 08:53:24--  https://academic.oup.com/jmt/article-abstract/2/1/25/885228/Membership-Directory-1964-1965?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 72997 (71K) [text/html]
+Saving to: ‘2.1.25.1’
+
+     0K .......... .......... .......... .......... .......... 70%  209K 0s
+    50K .......... .......... .                               100% 9.08M=0.2s
+
+2017-01-29 08:53:27 (295 KB/s) - ‘2.1.25.1’ saved [72997/72997]
+
+--2017-01-29 08:53:28--  http://doi.org/10.1093/jmt/2.1.11
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.1.11 [following]
+--2017-01-29 08:53:29--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.1.11
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/1/11/885212/Interpretive-Or-Creative-Movement-as-a-Sublimation [following]
+--2017-01-29 08:53:31--  https://academic.oup.com/jmt/article/2/1/11/885212/Interpretive-Or-Creative-Movement-as-a-Sublimation
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/1/11/885212/Interpretive-Or-Creative-Movement-as-a-Sublimation?redirectedFrom=fulltext [following]
+--2017-01-29 08:53:33--  https://academic.oup.com/jmt/article-abstract/2/1/11/885212/Interpretive-Or-Creative-Movement-as-a-Sublimation?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79173 (77K) [text/html]
+Saving to: ‘2.1.11’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... .......                         100% 14.1M=0.2s
+
+2017-01-29 08:53:37 (321 KB/s) - ‘2.1.11’ saved [79173/79173]
+
+--2017-01-29 08:53:38--  http://doi.org/10.1093/jmt/2.1.1
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.1.1 [following]
+--2017-01-29 08:53:39--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.1.1
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/1/1/885202/Music-Therapy-A-Treatment-Not-A-Treat [following]
+--2017-01-29 08:53:40--  https://academic.oup.com/jmt/article/2/1/1/885202/Music-Therapy-A-Treatment-Not-A-Treat
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/1/1/885202/Music-Therapy-A-Treatment-Not-A-Treat?redirectedFrom=fulltext [following]
+--2017-01-29 08:53:43--  https://academic.oup.com/jmt/article-abstract/2/1/1/885202/Music-Therapy-A-Treatment-Not-A-Treat?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75120 (73K) [text/html]
+Saving to: ‘2.1.1.4’
+
+     0K .......... .......... .......... .......... .......... 68%  208K 0s
+    50K .......... .......... ...                             100% 11.2M=0.2s
+
+2017-01-29 08:53:46 (303 KB/s) - ‘2.1.1.4’ saved [75120/75120]
+
+--2017-01-29 08:53:47--  http://doi.org/10.1093/jmt/2.1.3
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.1.3 [following]
+--2017-01-29 08:53:48--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.1.3
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/1/3/885232/Scribbling-in-Art-Therapy [following]
+--2017-01-29 08:53:49--  https://academic.oup.com/jmt/article/2/1/3/885232/Scribbling-in-Art-Therapy
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/1/3/885232/Scribbling-in-Art-Therapy?redirectedFrom=fulltext [following]
+--2017-01-29 08:53:51--  https://academic.oup.com/jmt/article-abstract/2/1/3/885232/Scribbling-in-Art-Therapy?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 74792 (73K) [text/html]
+Saving to: ‘2.1.3’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ...                             100% 9.89M=0.2s
+
+2017-01-29 08:53:54 (303 KB/s) - ‘2.1.3’ saved [74792/74792]
+
+--2017-01-29 08:53:55--  http://doi.org/10.1093/jmt/2.1.19
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.1.19 [following]
+--2017-01-29 08:53:56--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.1.19
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/1/19/885223/Constitution-and-Bylaws-of-the-National [following]
+--2017-01-29 08:53:57--  https://academic.oup.com/jmt/article/2/1/19/885223/Constitution-and-Bylaws-of-the-National
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/1/19/885223/Constitution-and-Bylaws-of-the-National?redirectedFrom=fulltext [following]
+--2017-01-29 08:54:00--  https://academic.oup.com/jmt/article-abstract/2/1/19/885223/Constitution-and-Bylaws-of-the-National?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 73453 (72K) [text/html]
+Saving to: ‘2.1.19’
+
+     0K .......... .......... .......... .......... .......... 69%  209K 0s
+    50K .......... .......... .                               100% 12.4M=0.2s
+
+2017-01-29 08:54:02 (298 KB/s) - ‘2.1.19’ saved [73453/73453]
+
+--2017-01-29 08:54:03--  http://doi.org/10.1093/jmt/2.2.53
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.2.53 [following]
+--2017-01-29 08:54:05--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.2.53
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/2/53/1034397/The-Music-Therapist-s-Role-in-Work-with-Severely [following]
+--2017-01-29 08:54:06--  https://academic.oup.com/jmt/article/2/2/53/1034397/The-Music-Therapist-s-Role-in-Work-with-Severely
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/2/53/1034397/The-Music-Therapist-s-Role-in-Work-with-Severely?redirectedFrom=fulltext [following]
+--2017-01-29 08:54:08--  https://academic.oup.com/jmt/article-abstract/2/2/53/1034397/The-Music-Therapist-s-Role-in-Work-with-Severely?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 90459 (88K) [text/html]
+Saving to: ‘2.2.53’
+
+     0K .......... .......... .......... .......... .......... 56%  209K 0s
+    50K .......... .......... .......... ........             100% 9.80M=0.2s
+
+2017-01-29 08:54:13 (363 KB/s) - ‘2.2.53’ saved [90459/90459]
+
+--2017-01-29 08:54:14--  http://doi.org/10.1093/jmt/2.2.45
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.2.45 [following]
+--2017-01-29 08:54:15--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.2.45
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/2/45/1034390/The-Cryptic-Message-of-Music [following]
+--2017-01-29 08:54:16--  https://academic.oup.com/jmt/article/2/2/45/1034390/The-Cryptic-Message-of-Music
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/2/45/1034390/The-Cryptic-Message-of-Music?redirectedFrom=fulltext [following]
+--2017-01-29 08:54:18--  https://academic.oup.com/jmt/article-abstract/2/2/45/1034390/The-Cryptic-Message-of-Music?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 74925 (73K) [text/html]
+Saving to: ‘2.2.45’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ...                             100% 12.9M=0.2s
+
+2017-01-29 08:54:22 (304 KB/s) - ‘2.2.45’ saved [74925/74925]
+
+--2017-01-29 08:54:23--  http://doi.org/10.1093/jmt/2.2.75
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.2.75 [following]
+--2017-01-29 08:54:24--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.2.75
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/2/75/1034439/Association-Activities [following]
+--2017-01-29 08:54:25--  https://academic.oup.com/jmt/article/2/2/75/1034439/Association-Activities
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/2/75/1034439/Association-Activities?redirectedFrom=fulltext [following]
+--2017-01-29 08:54:28--  https://academic.oup.com/jmt/article-abstract/2/2/75/1034439/Association-Activities?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72751 (71K) [text/html]
+Saving to: ‘2.2.75’
+
+     0K .......... .......... .......... .......... .......... 70%  208K 0s
+    50K .......... .......... .                               100% 14.9M=0.2s
+
+2017-01-29 08:54:32 (294 KB/s) - ‘2.2.75’ saved [72751/72751]
+
+--2017-01-29 08:54:33--  http://doi.org/10.1093/jmt/2.2.69
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.2.69 [following]
+--2017-01-29 08:54:34--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.2.69
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/2/69/1034423/The-Effects-of-Four-Types-of-Music-on-the-Learning [following]
+--2017-01-29 08:54:35--  https://academic.oup.com/jmt/article/2/2/69/1034423/The-Effects-of-Four-Types-of-Music-on-the-Learning
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/2/69/1034423/The-Effects-of-Four-Types-of-Music-on-the-Learning?redirectedFrom=fulltext [following]
+--2017-01-29 08:54:38--  https://academic.oup.com/jmt/article-abstract/2/2/69/1034423/The-Effects-of-Four-Types-of-Music-on-the-Learning?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 77420 (76K) [text/html]
+Saving to: ‘2.2.69’
+
+     0K .......... .......... .......... .......... .......... 66%  209K 0s
+    50K .......... .......... .....                           100% 11.0M=0.2s
+
+2017-01-29 08:54:41 (313 KB/s) - ‘2.2.69’ saved [77420/77420]
+
+--2017-01-29 08:54:42--  http://doi.org/10.1093/jmt/2.2.73
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.2.73 [following]
+--2017-01-29 08:54:43--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.2.73
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/2/73/1034428/Supplement-to-the-Membership-Directory [following]
+--2017-01-29 08:54:44--  https://academic.oup.com/jmt/article/2/2/73/1034428/Supplement-to-the-Membership-Directory
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/2/73/1034428/Supplement-to-the-Membership-Directory?redirectedFrom=fulltext [following]
+--2017-01-29 08:54:46--  https://academic.oup.com/jmt/article-abstract/2/2/73/1034428/Supplement-to-the-Membership-Directory?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 88117 (86K) [text/html]
+Saving to: ‘2.2.73’
+
+     0K .......... .......... .......... .......... .......... 58%  209K 0s
+    50K .......... .......... .......... ......               100%  927K=0.3s
+
+2017-01-29 08:54:50 (310 KB/s) - ‘2.2.73’ saved [88117/88117]
+
+--2017-01-29 08:54:51--  http://doi.org/10.1093/jmt/2.2.64
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.2.64 [following]
+--2017-01-29 08:54:52--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.2.64
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/2/64/1034418/The-Effect-of-Sound-Upon-the-Tactile-Threshold-of [following]
+--2017-01-29 08:54:54--  https://academic.oup.com/jmt/article/2/2/64/1034418/The-Effect-of-Sound-Upon-the-Tactile-Threshold-of
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/2/64/1034418/The-Effect-of-Sound-Upon-the-Tactile-Threshold-of?redirectedFrom=fulltext [following]
+--2017-01-29 08:54:56--  https://academic.oup.com/jmt/article-abstract/2/2/64/1034418/The-Effect-of-Sound-Upon-the-Tactile-Threshold-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 77352 (76K) [text/html]
+Saving to: ‘2.2.64’
+
+     0K .......... .......... .......... .......... .......... 66%  309K 0s
+    50K .......... .......... .....                           100%  320K=0.2s
+
+2017-01-29 08:54:59 (313 KB/s) - ‘2.2.64’ saved [77352/77352]
+
+--2017-01-29 08:55:00--  http://doi.org/10.1093/jmt/2.2.56
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.2.56 [following]
+--2017-01-29 08:55:01--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.2.56
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/2/56/1034403/A-Program-for-the-Activity-Therapist-in-Group [following]
+--2017-01-29 08:55:02--  https://academic.oup.com/jmt/article/2/2/56/1034403/A-Program-for-the-Activity-Therapist-in-Group
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/2/56/1034403/A-Program-for-the-Activity-Therapist-in-Group?redirectedFrom=fulltext [following]
+--2017-01-29 08:55:05--  https://academic.oup.com/jmt/article-abstract/2/2/56/1034403/A-Program-for-the-Activity-Therapist-in-Group?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 92418 (90K) [text/html]
+Saving to: ‘2.2.56’
+
+     0K .......... .......... .......... .......... .......... 55%  209K 0s
+    50K .......... .......... .......... ..........           100%  501K=0.3s
+
+2017-01-29 08:55:08 (283 KB/s) - ‘2.2.56’ saved [92418/92418]
+
+--2017-01-29 08:55:09--  http://doi.org/10.1093/jmt/2.2.76
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.2.76 [following]
+--2017-01-29 08:55:10--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.2.76
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/2/76/1034444/The-Authors [following]
+--2017-01-29 08:55:11--  https://academic.oup.com/jmt/article/2/2/76/1034444/The-Authors
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/2/76/1034444/The-Authors?redirectedFrom=fulltext [following]
+--2017-01-29 08:55:14--  https://academic.oup.com/jmt/article-abstract/2/2/76/1034444/The-Authors?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 87489 (85K) [text/html]
+Saving to: ‘2.2.76’
+
+     0K .......... .......... .......... .......... .......... 58%  209K 0s
+    50K .......... .......... .......... .....                100%  860K=0.3s
+
+2017-01-29 08:55:17 (305 KB/s) - ‘2.2.76’ saved [87489/87489]
+
+--2017-01-29 08:55:18--  http://doi.org/10.1093/jmt/2.2.61
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.2.61 [following]
+--2017-01-29 08:55:20--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.2.61
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/2/61/1034411/Some-Effects-of-Music-on-Verbal-Interaction-in [following]
+--2017-01-29 08:55:21--  https://academic.oup.com/jmt/article/2/2/61/1034411/Some-Effects-of-Music-on-Verbal-Interaction-in
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/2/61/1034411/Some-Effects-of-Music-on-Verbal-Interaction-in?redirectedFrom=fulltext [following]
+--2017-01-29 08:55:24--  https://academic.oup.com/jmt/article-abstract/2/2/61/1034411/Some-Effects-of-Music-on-Verbal-Interaction-in?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 82716 (81K) [text/html]
+Saving to: ‘2.2.61’
+
+     0K .......... .......... .......... .......... .......... 61%  207K 0s
+    50K .......... .......... ..........                      100% 11.1M=0.2s
+
+2017-01-29 08:55:27 (331 KB/s) - ‘2.2.61’ saved [82716/82716]
+
+--2017-01-29 08:55:28--  http://doi.org/10.1093/jmt/2.2.77
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.2.77 [following]
+--2017-01-29 08:55:30--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.2.77
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/2/77/1034451/Professional-Opportunities [following]
+--2017-01-29 08:55:31--  https://academic.oup.com/jmt/article/2/2/77/1034451/Professional-Opportunities
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/2/77/1034451/Professional-Opportunities?redirectedFrom=fulltext [following]
+--2017-01-29 08:55:33--  https://academic.oup.com/jmt/article-abstract/2/2/77/1034451/Professional-Opportunities?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 72749 (71K) [text/html]
+Saving to: ‘2.2.77’
+
+     0K .......... .......... .......... .......... .......... 70%  310K 0s
+    50K .......... .......... .                               100%  264K=0.2s
+
+2017-01-29 08:55:37 (295 KB/s) - ‘2.2.77’ saved [72749/72749]
+
+--2017-01-29 08:55:38--  http://doi.org/10.1093/jmt/2.2.74
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.2.74 [following]
+--2017-01-29 08:55:39--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.2.74
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/2/74/1034433/Announcements [following]
+--2017-01-29 08:55:40--  https://academic.oup.com/jmt/article/2/2/74/1034433/Announcements
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/2/74/1034433/Announcements?redirectedFrom=fulltext [following]
+--2017-01-29 08:55:42--  https://academic.oup.com/jmt/article-abstract/2/2/74/1034433/Announcements?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 87547 (85K) [text/html]
+Saving to: ‘2.2.74’
+
+     0K .......... .......... .......... .......... .......... 58%  209K 0s
+    50K .......... .......... .......... .....                100% 11.9M=0.2s
+
+2017-01-29 08:55:46 (352 KB/s) - ‘2.2.74’ saved [87547/87547]
+
+--2017-01-29 08:55:47--  http://doi.org/10.1093/jmt/2.3.90
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.3.90 [following]
+--2017-01-29 08:55:48--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.3.90
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/3/90/884976/The-Value-of-Standards-in-Music-Therapy [following]
+--2017-01-29 08:55:49--  https://academic.oup.com/jmt/article/2/3/90/884976/The-Value-of-Standards-in-Music-Therapy
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/3/90/884976/The-Value-of-Standards-in-Music-Therapy?redirectedFrom=fulltext [following]
+--2017-01-29 08:55:52--  https://academic.oup.com/jmt/article-abstract/2/3/90/884976/The-Value-of-Standards-in-Music-Therapy?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75376 (74K) [text/html]
+Saving to: ‘2.3.90’
+
+     0K .......... .......... .......... .......... .......... 67%  209K 0s
+    50K .......... .......... ...                             100% 9.95M=0.2s
+
+2017-01-29 08:55:55 (305 KB/s) - ‘2.3.90’ saved [75376/75376]
+
+--2017-01-29 08:55:56--  http://doi.org/10.1093/jmt/2.3.104
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.3.104 [following]
+--2017-01-29 08:55:57--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.3.104
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/3/104/884953/Official-Music-Therapy-Insignia-Pin [following]
+--2017-01-29 08:55:58--  https://academic.oup.com/jmt/article/2/3/104/884953/Official-Music-Therapy-Insignia-Pin
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/3/104/884953/Official-Music-Therapy-Insignia-Pin?redirectedFrom=fulltext [following]
+--2017-01-29 08:56:00--  https://academic.oup.com/jmt/article-abstract/2/3/104/884953/Official-Music-Therapy-Insignia-Pin?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 72983 (71K) [text/html]
+Saving to: ‘2.3.104’
+
+     0K .......... .......... .......... .......... .......... 70%  209K 0s
+    50K .......... .......... .                               100% 6.95M=0.2s
+
+2017-01-29 08:56:03 (295 KB/s) - ‘2.3.104’ saved [72983/72983]
+
+--2017-01-29 08:56:04--  http://doi.org/10.1093/jmt/2.3.83
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.3.83 [following]
+--2017-01-29 08:56:05--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.3.83
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/3/83/884962/A-New-Music-Therapy-Curriculum [following]
+--2017-01-29 08:56:06--  https://academic.oup.com/jmt/article/2/3/83/884962/A-New-Music-Therapy-Curriculum
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/3/83/884962/A-New-Music-Therapy-Curriculum?redirectedFrom=fulltext [following]
+--2017-01-29 08:56:09--  https://academic.oup.com/jmt/article-abstract/2/3/83/884962/A-New-Music-Therapy-Curriculum?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75136 (73K) [text/html]
+Saving to: ‘2.3.83’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ...                             100% 12.2M=0.2s
+
+2017-01-29 08:56:16 (304 KB/s) - ‘2.3.83’ saved [75136/75136]
+
+--2017-01-29 08:56:17--  http://doi.org/10.1093/jmt/2.3.99-a
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.3.99-a [following]
+--2017-01-29 08:56:18--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.3.99-a
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/3/99/885008/The-Authors [following]
+--2017-01-29 08:56:19--  https://academic.oup.com/jmt/article/2/3/99/885008/The-Authors
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/3/99/885008/The-Authors?redirectedFrom=fulltext [following]
+--2017-01-29 08:56:22--  https://academic.oup.com/jmt/article-abstract/2/3/99/885008/The-Authors?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 72549 (71K) [text/html]
+Saving to: ‘2.3.99-a’
+
+     0K .......... .......... .......... .......... .......... 70%  209K 0s
+    50K .......... ..........                                 100% 3.76M=0.2s
+
+2017-01-29 08:56:25 (289 KB/s) - ‘2.3.99-a’ saved [72549/72549]
+
+--2017-01-29 08:56:26--  http://doi.org/10.1093/jmt/2.3.96
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.3.96 [following]
+--2017-01-29 08:56:27--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.3.96
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/3/96/884996/Sixteenth-Annual-Conference-of-the-National [following]
+--2017-01-29 08:56:28--  https://academic.oup.com/jmt/article/2/3/96/884996/Sixteenth-Annual-Conference-of-the-National
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/3/96/884996/Sixteenth-Annual-Conference-of-the-National?redirectedFrom=fulltext [following]
+--2017-01-29 08:56:30--  https://academic.oup.com/jmt/article-abstract/2/3/96/884996/Sixteenth-Annual-Conference-of-the-National?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 73467 (72K) [text/html]
+Saving to: ‘2.3.96’
+
+     0K .......... .......... .......... .......... .......... 69%  209K 0s
+    50K .......... .......... .                               100% 9.62M=0.2s
+
+2017-01-29 08:56:34 (298 KB/s) - ‘2.3.96’ saved [73467/73467]
+
+--2017-01-29 08:56:35--  http://doi.org/10.1093/jmt/2.3.86
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.3.86 [following]
+--2017-01-29 08:56:37--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.3.86
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/3/86/884969/Therapy-Through-Service-to-Others [following]
+--2017-01-29 08:56:38--  https://academic.oup.com/jmt/article/2/3/86/884969/Therapy-Through-Service-to-Others
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/3/86/884969/Therapy-Through-Service-to-Others?redirectedFrom=fulltext [following]
+--2017-01-29 08:56:41--  https://academic.oup.com/jmt/article-abstract/2/3/86/884969/Therapy-Through-Service-to-Others?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75235 (73K) [text/html]
+Saving to: ‘2.3.86’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ...                             100% 9.87M=0.2s
+
+2017-01-29 08:56:43 (304 KB/s) - ‘2.3.86’ saved [75235/75235]
+
+--2017-01-29 08:56:44--  http://doi.org/10.1093/jmt/2.3.92
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.3.92 [following]
+--2017-01-29 08:56:45--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.3.92
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/3/92/884986/The-Disturbed-Adolescent-and-Problems-in-His [following]
+--2017-01-29 08:56:47--  https://academic.oup.com/jmt/article/2/3/92/884986/The-Disturbed-Adolescent-and-Problems-in-His
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/3/92/884986/The-Disturbed-Adolescent-and-Problems-in-His?redirectedFrom=fulltext [following]
+--2017-01-29 08:56:49--  https://academic.oup.com/jmt/article-abstract/2/3/92/884986/The-Disturbed-Adolescent-and-Problems-in-His?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75589 (74K) [text/html]
+Saving to: ‘2.3.92’
+
+     0K .......... .......... .......... .......... .......... 67%  209K 0s
+    50K .......... .......... ...                             100% 8.02M=0.2s
+
+2017-01-29 08:56:51 (305 KB/s) - ‘2.3.92’ saved [75589/75589]
+
+--2017-01-29 08:56:52--  http://doi.org/10.1093/jmt/2.3.100
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.3.100 [following]
+--2017-01-29 08:56:54--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.3.100
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/3/100/884941/Professional-Opportunities [following]
+--2017-01-29 08:56:55--  https://academic.oup.com/jmt/article/2/3/100/884941/Professional-Opportunities
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/3/100/884941/Professional-Opportunities?redirectedFrom=fulltext [following]
+--2017-01-29 08:56:57--  https://academic.oup.com/jmt/article-abstract/2/3/100/884941/Professional-Opportunities?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72887 (71K) [text/html]
+Saving to: ‘2.3.100’
+
+     0K .......... .......... .......... .......... .......... 70%  209K 0s
+    50K .......... .......... .                               100% 10.8M=0.2s
+
+2017-01-29 08:57:01 (294 KB/s) - ‘2.3.100’ saved [72887/72887]
+
+--2017-01-29 08:57:02--  http://doi.org/10.1093/jmt/2.3.81
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.3.81 [following]
+--2017-01-29 08:57:03--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.3.81
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/3/81/884956/Research-in-Music-Therapy [following]
+--2017-01-29 08:57:04--  https://academic.oup.com/jmt/article/2/3/81/884956/Research-in-Music-Therapy
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/3/81/884956/Research-in-Music-Therapy?redirectedFrom=fulltext [following]
+--2017-01-29 08:57:06--  https://academic.oup.com/jmt/article-abstract/2/3/81/884956/Research-in-Music-Therapy?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 89890 (88K) [text/html]
+Saving to: ‘2.3.81’
+
+     0K .......... .......... .......... .......... .......... 56%  209K 0s
+    50K .......... .......... .......... .......              100% 11.4M=0.2s
+
+2017-01-29 08:57:09 (362 KB/s) - ‘2.3.81’ saved [89890/89890]
+
+--2017-01-29 08:57:10--  http://doi.org/10.1093/jmt/2.3.103
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.3.103 [following]
+--2017-01-29 08:57:11--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.3.103
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/3/103/884946/Back-Issues-of-Bulletin-of-NAMT-Available [following]
+--2017-01-29 08:57:13--  https://academic.oup.com/jmt/article/2/3/103/884946/Back-Issues-of-Bulletin-of-NAMT-Available
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/3/103/884946/Back-Issues-of-Bulletin-of-NAMT-Available?redirectedFrom=fulltext [following]
+--2017-01-29 08:57:15--  https://academic.oup.com/jmt/article-abstract/2/3/103/884946/Back-Issues-of-Bulletin-of-NAMT-Available?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 73269 (72K) [text/html]
+Saving to: ‘2.3.103’
+
+     0K .......... .......... .......... .......... .......... 69%  209K 0s
+    50K .......... .......... .                               100% 11.5M=0.2s
+
+2017-01-29 08:57:19 (297 KB/s) - ‘2.3.103’ saved [73269/73269]
+
+--2017-01-29 08:57:20--  http://doi.org/10.1093/jmt/2.3.99
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.3.99 [following]
+--2017-01-29 08:57:21--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.3.99
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/3/99/885001/Announcements [following]
+--2017-01-29 08:57:22--  https://academic.oup.com/jmt/article/2/3/99/885001/Announcements
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/3/99/885001/Announcements?redirectedFrom=fulltext [following]
+--2017-01-29 08:57:24--  https://academic.oup.com/jmt/article-abstract/2/3/99/885001/Announcements?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 72576 (71K) [text/html]
+Saving to: ‘2.3.99’
+
+     0K .......... .......... .......... .......... .......... 70%  209K 0s
+    50K .......... ..........                                 100% 5.57M=0.2s
+
+2017-01-29 08:57:28 (292 KB/s) - ‘2.3.99’ saved [72576/72576]
+
+--2017-01-29 08:57:29--  http://doi.org/10.1093/jmt/2.4.137-a
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.4.137-a [following]
+--2017-01-29 08:57:30--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.4.137-a
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/4/137/860050/Music-Therapy-for-Handicapped-Children [following]
+--2017-01-29 08:57:31--  https://academic.oup.com/jmt/article/2/4/137/860050/Music-Therapy-for-Handicapped-Children
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/4/137/860050/Music-Therapy-for-Handicapped-Children?redirectedFrom=fulltext [following]
+--2017-01-29 08:57:33--  https://academic.oup.com/jmt/article-abstract/2/4/137/860050/Music-Therapy-for-Handicapped-Children?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75244 (73K) [text/html]
+Saving to: ‘2.4.137-a’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ...                             100% 14.7M=0.2s
+
+2017-01-29 08:57:38 (305 KB/s) - ‘2.4.137-a’ saved [75244/75244]
+
+--2017-01-29 08:57:39--  http://doi.org/10.1093/jmt/2.4.144
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.4.144 [following]
+--2017-01-29 08:57:40--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.4.144
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/4/144/860069/Index-to-Volume-II-1965 [following]
+--2017-01-29 08:57:41--  https://academic.oup.com/jmt/article/2/4/144/860069/Index-to-Volume-II-1965
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/4/144/860069/Index-to-Volume-II-1965?redirectedFrom=fulltext [following]
+--2017-01-29 08:57:44--  https://academic.oup.com/jmt/article-abstract/2/4/144/860069/Index-to-Volume-II-1965?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 72746 (71K) [text/html]
+Saving to: ‘2.4.144’
+
+     0K .......... .......... .......... .......... .......... 70%  209K 0s
+    50K .......... .......... .                               100% 12.9M=0.2s
+
+2017-01-29 08:57:47 (295 KB/s) - ‘2.4.144’ saved [72746/72746]
+
+--2017-01-29 08:57:48--  http://doi.org/10.1093/jmt/2.4.124
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.4.124 [following]
+--2017-01-29 08:57:49--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.4.124
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/4/124/860012/Professional-Profile-The-NAMT-Member-and-His [following]
+--2017-01-29 08:57:51--  https://academic.oup.com/jmt/article/2/4/124/860012/Professional-Profile-The-NAMT-Member-and-His
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/4/124/860012/Professional-Profile-The-NAMT-Member-and-His?redirectedFrom=fulltext [following]
+--2017-01-29 08:57:53--  https://academic.oup.com/jmt/article-abstract/2/4/124/860012/Professional-Profile-The-NAMT-Member-and-His?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75636 (74K) [text/html]
+Saving to: ‘2.4.124’
+
+     0K .......... .......... .......... .......... .......... 67%  310K 0s
+    50K .......... .......... ...                             100%  301K=0.2s
+
+2017-01-29 08:57:56 (307 KB/s) - ‘2.4.124’ saved [75636/75636]
+
+--2017-01-29 08:57:57--  http://doi.org/10.1093/jmt/2.4.115
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.4.115 [following]
+--2017-01-29 08:57:58--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.4.115
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/4/115/860001/Dance-Therapy-with-Retarded-Adolescents [following]
+--2017-01-29 08:57:59--  https://academic.oup.com/jmt/article/2/4/115/860001/Dance-Therapy-with-Retarded-Adolescents
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/4/115/860001/Dance-Therapy-with-Retarded-Adolescents?redirectedFrom=fulltext [following]
+--2017-01-29 08:58:02--  https://academic.oup.com/jmt/article-abstract/2/4/115/860001/Dance-Therapy-with-Retarded-Adolescents?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 79172 (77K) [text/html]
+Saving to: ‘2.4.115’
+
+     0K .......... .......... .......... .......... .......... 64%  208K 0s
+    50K .......... .......... .......                         100% 10.3M=0.2s
+
+2017-01-29 08:58:05 (318 KB/s) - ‘2.4.115’ saved [79172/79172]
+
+--2017-01-29 08:58:06--  http://doi.org/10.1093/jmt/2.4.137
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.4.137 [following]
+--2017-01-29 08:58:08--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.4.137
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/4/137/860043/Music-for-the-Handicapped-Child [following]
+--2017-01-29 08:58:09--  https://academic.oup.com/jmt/article/2/4/137/860043/Music-for-the-Handicapped-Child
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/4/137/860043/Music-for-the-Handicapped-Child?redirectedFrom=fulltext [following]
+--2017-01-29 08:58:11--  https://academic.oup.com/jmt/article-abstract/2/4/137/860043/Music-for-the-Handicapped-Child?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 74955 (73K) [text/html]
+Saving to: ‘2.4.137’
+
+     0K .......... .......... .......... .......... .......... 68%  309K 0s
+    50K .......... .......... ...                             100%  291K=0.2s
+
+2017-01-29 08:58:16 (303 KB/s) - ‘2.4.137’ saved [74955/74955]
+
+--2017-01-29 08:58:17--  http://doi.org/10.1093/jmt/2.4.137-b
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.4.137-b [following]
+--2017-01-29 08:58:18--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.4.137-b
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/4/137/860053/Mental-Health-Book-Review-Index [following]
+--2017-01-29 08:58:19--  https://academic.oup.com/jmt/article/2/4/137/860053/Mental-Health-Book-Review-Index
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/4/137/860053/Mental-Health-Book-Review-Index?redirectedFrom=fulltext [following]
+--2017-01-29 08:58:22--  https://academic.oup.com/jmt/article-abstract/2/4/137/860053/Mental-Health-Book-Review-Index?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73154 (71K) [text/html]
+Saving to: ‘2.4.137-b’
+
+     0K .......... .......... .......... .......... .......... 69%  209K 0s
+    50K .......... .......... .                               100% 11.1M=0.2s
+
+2017-01-29 08:58:25 (296 KB/s) - ‘2.4.137-b’ saved [73154/73154]
+
+--2017-01-29 08:58:26--  http://doi.org/10.1093/jmt/2.4.107
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.4.107 [following]
+--2017-01-29 08:58:27--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.4.107
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/4/107/859996/The-Libidinous-Lyre [following]
+--2017-01-29 08:58:28--  https://academic.oup.com/jmt/article/2/4/107/859996/The-Libidinous-Lyre
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/4/107/859996/The-Libidinous-Lyre?redirectedFrom=fulltext [following]
+--2017-01-29 08:58:32--  https://academic.oup.com/jmt/article-abstract/2/4/107/859996/The-Libidinous-Lyre?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75044 (73K) [text/html]
+Saving to: ‘2.4.107’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ...                             100% 8.60M=0.2s
+
+2017-01-29 08:58:34 (304 KB/s) - ‘2.4.107’ saved [75044/75044]
+
+--2017-01-29 08:58:35--  http://doi.org/10.1093/jmt/2.4.135
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.4.135 [following]
+--2017-01-29 08:58:36--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.4.135
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/4/135/860030/From-the-Presidents-Desk [following]
+--2017-01-29 08:58:37--  https://academic.oup.com/jmt/article/2/4/135/860030/From-the-Presidents-Desk
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/4/135/860030/From-the-Presidents-Desk?redirectedFrom=fulltext [following]
+--2017-01-29 08:58:41--  https://academic.oup.com/jmt/article-abstract/2/4/135/860030/From-the-Presidents-Desk?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 89574 (87K) [text/html]
+Saving to: ‘2.4.135’
+
+     0K .......... .......... .......... .......... .......... 57%  209K 0s
+    50K .......... .......... .......... .......              100%  467K=0.3s
+
+2017-01-29 08:58:44 (274 KB/s) - ‘2.4.135’ saved [89574/89574]
+
+--2017-01-29 08:58:45--  http://doi.org/10.1093/jmt/2.4.118
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.4.118 [following]
+--2017-01-29 08:58:46--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.4.118
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/4/118/860003/A-Coordinated-Speech-Therapy-and-Music-Therapy [following]
+--2017-01-29 08:58:47--  https://academic.oup.com/jmt/article/2/4/118/860003/A-Coordinated-Speech-Therapy-and-Music-Therapy
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/4/118/860003/A-Coordinated-Speech-Therapy-and-Music-Therapy?redirectedFrom=fulltext [following]
+--2017-01-29 08:58:50--  https://academic.oup.com/jmt/article-abstract/2/4/118/860003/A-Coordinated-Speech-Therapy-and-Music-Therapy?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 79414 (78K) [text/html]
+Saving to: ‘2.4.118’
+
+     0K .......... .......... .......... .......... .......... 64%  208K 0s
+    50K .......... .......... .......                         100% 2.68M=0.3s
+
+2017-01-29 08:58:53 (310 KB/s) - ‘2.4.118’ saved [79414/79414]
+
+--2017-01-29 08:58:54--  http://doi.org/10.1093/jmt/2.4.130
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.4.130 [following]
+--2017-01-29 08:58:55--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.4.130
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/4/130/860018/Resume-of-Classifications-and-Salary-Ranges-of [following]
+--2017-01-29 08:58:56--  https://academic.oup.com/jmt/article/2/4/130/860018/Resume-of-Classifications-and-Salary-Ranges-of
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/4/130/860018/Resume-of-Classifications-and-Salary-Ranges-of?redirectedFrom=fulltext [following]
+--2017-01-29 08:58:59--  https://academic.oup.com/jmt/article-abstract/2/4/130/860018/Resume-of-Classifications-and-Salary-Ranges-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75560 (74K) [text/html]
+Saving to: ‘2.4.130’
+
+     0K .......... .......... .......... .......... .......... 67%  208K 0s
+    50K .......... .......... ...                             100% 11.0M=0.2s
+
+2017-01-29 08:59:03 (305 KB/s) - ‘2.4.130’ saved [75560/75560]
+
+--2017-01-29 08:59:04--  http://doi.org/10.1093/jmt/2.4.133
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.4.133 [following]
+--2017-01-29 08:59:05--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.4.133
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/4/133/860022/Report-of-the-Sixteenth-Annual-Conference [following]
+--2017-01-29 08:59:06--  https://academic.oup.com/jmt/article/2/4/133/860022/Report-of-the-Sixteenth-Annual-Conference
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/4/133/860022/Report-of-the-Sixteenth-Annual-Conference?redirectedFrom=fulltext [following]
+--2017-01-29 08:59:08--  https://academic.oup.com/jmt/article-abstract/2/4/133/860022/Report-of-the-Sixteenth-Annual-Conference?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 73185 (71K) [text/html]
+Saving to: ‘2.4.133’
+
+     0K .......... .......... .......... .......... .......... 69%  209K 0s
+    50K .......... .......... .                               100% 8.68M=0.2s
+
+2017-01-29 08:59:11 (296 KB/s) - ‘2.4.133’ saved [73185/73185]
+
+--2017-01-29 08:59:12--  http://doi.org/10.1093/jmt/2.4.135-a
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.4.135-a [following]
+--2017-01-29 08:59:13--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.4.135-a
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/4/135/860036/Letter-to-the-Editor [following]
+--2017-01-29 08:59:15--  https://academic.oup.com/jmt/article/2/4/135/860036/Letter-to-the-Editor
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/4/135/860036/Letter-to-the-Editor?redirectedFrom=fulltext [following]
+--2017-01-29 08:59:17--  https://academic.oup.com/jmt/article-abstract/2/4/135/860036/Letter-to-the-Editor?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 89909 (88K) [text/html]
+Saving to: ‘2.4.135-a’
+
+     0K .......... .......... .......... .......... .......... 56%  209K 0s
+    50K .......... .......... .......... .......              100%  472K=0.3s
+
+2017-01-29 08:59:20 (275 KB/s) - ‘2.4.135-a’ saved [89909/89909]
+
+--2017-01-29 08:59:21--  http://doi.org/10.1093/jmt/2.4.121
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.4.121 [following]
+--2017-01-29 08:59:22--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.4.121
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/4/121/860008/Functions-of-a-Music-Therapist-in-a-Day-Treatment [following]
+--2017-01-29 08:59:24--  https://academic.oup.com/jmt/article/2/4/121/860008/Functions-of-a-Music-Therapist-in-a-Day-Treatment
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/4/121/860008/Functions-of-a-Music-Therapist-in-a-Day-Treatment?redirectedFrom=fulltext [following]
+--2017-01-29 08:59:26--  https://academic.oup.com/jmt/article-abstract/2/4/121/860008/Functions-of-a-Music-Therapist-in-a-Day-Treatment?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75627 (74K) [text/html]
+Saving to: ‘2.4.121’
+
+     0K .......... .......... .......... .......... .......... 67%  208K 0s
+    50K .......... .......... ...                             100% 9.84M=0.2s
+
+2017-01-29 08:59:29 (304 KB/s) - ‘2.4.121’ saved [75627/75627]
+
+--2017-01-29 08:59:30--  http://doi.org/10.1093/jmt/2.4.134
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.4.134 [following]
+--2017-01-29 08:59:31--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.4.134
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/4/134/860027/Special-Notice [following]
+--2017-01-29 08:59:33--  https://academic.oup.com/jmt/article/2/4/134/860027/Special-Notice
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/4/134/860027/Special-Notice?redirectedFrom=fulltext [following]
+--2017-01-29 08:59:35--  https://academic.oup.com/jmt/article-abstract/2/4/134/860027/Special-Notice?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 89766 (88K) [text/html]
+Saving to: ‘2.4.134’
+
+     0K .......... .......... .......... .......... .......... 57%  209K 0s
+    50K .......... .......... .......... .......              100%  472K=0.3s
+
+2017-01-29 08:59:38 (275 KB/s) - ‘2.4.134’ saved [89766/89766]
+
+--2017-01-29 08:59:39--  http://doi.org/10.1093/jmt/2.4.139
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.4.139 [following]
+--2017-01-29 08:59:40--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.4.139
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/4/139/860062/Professional-Opportunities [following]
+--2017-01-29 08:59:41--  https://academic.oup.com/jmt/article/2/4/139/860062/Professional-Opportunities
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/4/139/860062/Professional-Opportunities?redirectedFrom=fulltext [following]
+--2017-01-29 08:59:43--  https://academic.oup.com/jmt/article-abstract/2/4/139/860062/Professional-Opportunities?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 72868 (71K) [text/html]
+Saving to: ‘2.4.139’
+
+     0K .......... .......... .......... .......... .......... 70%  310K 0s
+    50K .......... .......... .                               100%  264K=0.2s
+
+2017-01-29 08:59:46 (295 KB/s) - ‘2.4.139’ saved [72868/72868]
+
+--2017-01-29 08:59:47--  http://doi.org/10.1093/jmt/2.4.138
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.4.138 [following]
+--2017-01-29 08:59:48--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.4.138
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/4/138/860061/The-Authors [following]
+--2017-01-29 08:59:49--  https://academic.oup.com/jmt/article/2/4/138/860061/The-Authors
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/4/138/860061/The-Authors?redirectedFrom=fulltext [following]
+--2017-01-29 08:59:52--  https://academic.oup.com/jmt/article-abstract/2/4/138/860061/The-Authors?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 87523 (85K) [text/html]
+Saving to: ‘2.4.138’
+
+     0K .......... .......... .......... .......... .......... 58%  207K 0s
+    50K .......... .......... .......... .....                100% 9.19M=0.2s
+
+2017-01-29 08:59:55 (348 KB/s) - ‘2.4.138’ saved [87523/87523]
+
+--2017-01-29 08:59:56--  http://doi.org/10.1093/jmt/2.4.105
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.4.105 [following]
+--2017-01-29 08:59:57--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/2.4.105
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/2/4/105/859989/The-Status-of-Music-Therapy [following]
+--2017-01-29 08:59:58--  https://academic.oup.com/jmt/article/2/4/105/859989/The-Status-of-Music-Therapy
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/2/4/105/859989/The-Status-of-Music-Therapy?redirectedFrom=fulltext [following]
+--2017-01-29 09:00:01--  https://academic.oup.com/jmt/article-abstract/2/4/105/859989/The-Status-of-Music-Therapy?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75005 (73K) [text/html]
+Saving to: ‘2.4.105’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ...                             100% 9.18M=0.2s
+
+2017-01-29 09:00:04 (302 KB/s) - ‘2.4.105’ saved [75005/75005]
+
+--2017-01-29 09:00:05--  http://doi.org/10.1093/jmt/3.1.1
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/3.1.1 [following]
+--2017-01-29 09:00:06--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/3.1.1
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/3/1/1/889161/Opening-Address-Sixteenth-Annual-Conference [following]
+--2017-01-29 09:00:07--  https://academic.oup.com/jmt/article/3/1/1/889161/Opening-Address-Sixteenth-Annual-Conference
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/3/1/1/889161/Opening-Address-Sixteenth-Annual-Conference?redirectedFrom=fulltext [following]
+--2017-01-29 09:00:09--  https://academic.oup.com/jmt/article-abstract/3/1/1/889161/Opening-Address-Sixteenth-Annual-Conference?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75241 (73K) [text/html]
+Saving to: ‘3.1.1.2’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ...                             100% 10.4M=0.2s
+
+2017-01-29 09:00:12 (305 KB/s) - ‘3.1.1.2’ saved [75241/75241]
+
+--2017-01-29 09:00:13--  http://doi.org/10.1093/jmt/3.1.22
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/3.1.22 [following]
+--2017-01-29 09:00:14--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/3.1.22
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/3/1/22/889168/Music-Therapy-as-an-Important-Treatment-Modality [following]
+--2017-01-29 09:00:16--  https://academic.oup.com/jmt/article/3/1/22/889168/Music-Therapy-as-an-Important-Treatment-Modality
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/3/1/22/889168/Music-Therapy-as-an-Important-Treatment-Modality?redirectedFrom=fulltext [following]
+--2017-01-29 09:00:18--  https://academic.oup.com/jmt/article-abstract/3/1/22/889168/Music-Therapy-as-an-Important-Treatment-Modality?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75500 (74K) [text/html]
+Saving to: ‘3.1.22’
+
+     0K .......... .......... .......... .......... .......... 67%  209K 0s
+    50K .......... .......... ...                             100% 12.0M=0.2s
+
+2017-01-29 09:00:21 (306 KB/s) - ‘3.1.22’ saved [75500/75500]
+
+--2017-01-29 09:00:22--  http://doi.org/10.1093/jmt/3.1.44-a
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/3.1.44-a [following]
+--2017-01-29 09:00:23--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/3.1.44-a
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/3/1/44/889181/Report-from-the-Public-Relations-Committee [following]
+--2017-01-29 09:00:25--  https://academic.oup.com/jmt/article/3/1/44/889181/Report-from-the-Public-Relations-Committee
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/3/1/44/889181/Report-from-the-Public-Relations-Committee?redirectedFrom=fulltext [following]
+--2017-01-29 09:00:27--  https://academic.oup.com/jmt/article-abstract/3/1/44/889181/Report-from-the-Public-Relations-Committee?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 74916 (73K) [text/html]
+Saving to: ‘3.1.44-a’
+
+     0K .......... .......... .......... .......... .......... 68%  208K 0s
+    50K .......... .......... ...                             100% 9.71M=0.2s
+
+2017-01-29 09:00:30 (302 KB/s) - ‘3.1.44-a’ saved [74916/74916]
+
+--2017-01-29 09:00:31--  http://doi.org/10.1093/jmt/3.1.46
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/3.1.46 [following]
+--2017-01-29 09:00:32--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/3.1.46
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/3/1/46/889187/Professional-Opportunities [following]
+--2017-01-29 09:00:34--  https://academic.oup.com/jmt/article/3/1/46/889187/Professional-Opportunities
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/3/1/46/889187/Professional-Opportunities?redirectedFrom=fulltext [following]
+--2017-01-29 09:00:36--  https://academic.oup.com/jmt/article-abstract/3/1/46/889187/Professional-Opportunities?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 72747 (71K) [text/html]
+Saving to: ‘3.1.46’
+
+     0K .......... .......... .......... .......... .......... 70%  208K 0s
+    50K .......... .......... .                               100% 10.0M=0.2s
+
+2017-01-29 09:00:40 (294 KB/s) - ‘3.1.46’ saved [72747/72747]
+
+--2017-01-29 09:00:41--  http://doi.org/10.1093/jmt/3.1.25
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/3.1.25 [following]
+--2017-01-29 09:00:42--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/3.1.25
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/3/1/25/889171/The-Practice-of-Music-Therapy-with-Psychotic [following]
+--2017-01-29 09:00:43--  https://academic.oup.com/jmt/article/3/1/25/889171/The-Practice-of-Music-Therapy-with-Psychotic
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/3/1/25/889171/The-Practice-of-Music-Therapy-with-Psychotic?redirectedFrom=fulltext [following]
+--2017-01-29 09:00:46--  https://academic.oup.com/jmt/article-abstract/3/1/25/889171/The-Practice-of-Music-Therapy-with-Psychotic?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75310 (74K) [text/html]
+Saving to: ‘3.1.25’
+
+     0K .......... .......... .......... .......... .......... 67%  310K 0s
+    50K .......... .......... ...                             100%  294K=0.2s
+
+2017-01-29 09:00:50 (305 KB/s) - ‘3.1.25’ saved [75310/75310]
+
+--2017-01-29 09:00:51--  http://doi.org/10.1093/jmt/3.1.8
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/3.1.8 [following]
+--2017-01-29 09:00:52--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/3.1.8
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/3/1/8/889189/Music-Therapy-in-Private-Practices-Three-Case [following]
+--2017-01-29 09:00:54--  https://academic.oup.com/jmt/article/3/1/8/889189/Music-Therapy-in-Private-Practices-Three-Case
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/3/1/8/889189/Music-Therapy-in-Private-Practices-Three-Case?redirectedFrom=fulltext [following]
+--2017-01-29 09:00:56--  https://academic.oup.com/jmt/article-abstract/3/1/8/889189/Music-Therapy-in-Private-Practices-Three-Case?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75499 (74K) [text/html]
+Saving to: ‘3.1.8.1’
+
+     0K .......... .......... .......... .......... .......... 67%  308K 0s
+    50K .......... .......... ...                             100%  284K=0.2s
+
+2017-01-29 09:00:59 (300 KB/s) - ‘3.1.8.1’ saved [75499/75499]
+
+--2017-01-29 09:01:00--  http://doi.org/10.1093/jmt/3.1.32
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/3.1.32 [following]
+--2017-01-29 09:01:01--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/3.1.32
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/3/1/32/889175/Membership-Directory-1965-1966 [following]
+--2017-01-29 09:01:02--  https://academic.oup.com/jmt/article/3/1/32/889175/Membership-Directory-1965-1966
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/3/1/32/889175/Membership-Directory-1965-1966?redirectedFrom=fulltext [following]
+--2017-01-29 09:01:06--  https://academic.oup.com/jmt/article-abstract/3/1/32/889175/Membership-Directory-1965-1966?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 73004 (71K) [text/html]
+Saving to: ‘3.1.32’
+
+     0K .......... .......... .......... .......... .......... 70%  208K 0s
+    50K .......... .......... .                               100% 9.80M=0.2s
+
+2017-01-29 09:01:10 (294 KB/s) - ‘3.1.32’ saved [73004/73004]
+
+--2017-01-29 09:01:11--  http://doi.org/10.1093/jmt/3.1.19
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/3.1.19 [following]
+--2017-01-29 09:01:12--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/3.1.19
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/3/1/19/889164/The-Role-of-the-Music-Therapist-in-the-Therapeutic [following]
+--2017-01-29 09:01:13--  https://academic.oup.com/jmt/article/3/1/19/889164/The-Role-of-the-Music-Therapist-in-the-Therapeutic
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/3/1/19/889164/The-Role-of-the-Music-Therapist-in-the-Therapeutic?redirectedFrom=fulltext [following]
+--2017-01-29 09:01:17--  https://academic.oup.com/jmt/article-abstract/3/1/19/889164/The-Role-of-the-Music-Therapist-in-the-Therapeutic?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75401 (74K) [text/html]
+Saving to: ‘3.1.19’
+
+     0K .......... .......... .......... .......... .......... 67%  303K 0s
+    50K .......... .......... ...                             100%  308K=0.2s
+
+2017-01-29 09:01:20 (305 KB/s) - ‘3.1.19’ saved [75401/75401]
+
+--2017-01-29 09:01:21--  http://doi.org/10.1093/jmt/3.1.44
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/3.1.44 [following]
+--2017-01-29 09:01:22--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/3.1.44
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/3/1/44/889178/From-the-President-s-Desk [following]
+--2017-01-29 09:01:23--  https://academic.oup.com/jmt/article/3/1/44/889178/From-the-President-s-Desk
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/3/1/44/889178/From-the-President-s-Desk?redirectedFrom=fulltext [following]
+--2017-01-29 09:01:26--  https://academic.oup.com/jmt/article-abstract/3/1/44/889178/From-the-President-s-Desk?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 87866 (86K) [text/html]
+Saving to: ‘3.1.44’
+
+     0K .......... .......... .......... .......... .......... 58%  209K 0s
+    50K .......... .......... .......... .....                100% 11.4M=0.2s
+
+2017-01-29 09:01:30 (354 KB/s) - ‘3.1.44’ saved [87866/87866]
+
+--2017-01-29 09:01:31--  http://doi.org/10.1093/jmt/3.1.44-b
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/3.1.44-b [following]
+--2017-01-29 09:01:32--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/3.1.44-b
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/3/1/44/889183/Great-Lakes-Regional-Chapter [following]
+--2017-01-29 09:01:34--  https://academic.oup.com/jmt/article/3/1/44/889183/Great-Lakes-Regional-Chapter
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/3/1/44/889183/Great-Lakes-Regional-Chapter?redirectedFrom=fulltext [following]
+--2017-01-29 09:01:36--  https://academic.oup.com/jmt/article-abstract/3/1/44/889183/Great-Lakes-Regional-Chapter?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75003 (73K) [text/html]
+Saving to: ‘3.1.44-b’
+
+     0K .......... .......... .......... .......... .......... 68%  208K 0s
+    50K .......... .......... ...                             100% 9.54M=0.2s
+
+2017-01-29 09:01:41 (302 KB/s) - ‘3.1.44-b’ saved [75003/75003]
+
+--2017-01-29 09:01:42--  http://doi.org/10.1093/jmt/3.2.80
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/3.2.80 [following]
+--2017-01-29 09:01:43--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/3.2.80
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/3/2/80/945803/Letters-to-the-Editor [following]
+--2017-01-29 09:01:45--  https://academic.oup.com/jmt/article/3/2/80/945803/Letters-to-the-Editor
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/3/2/80/945803/Letters-to-the-Editor?redirectedFrom=fulltext [following]
+--2017-01-29 09:01:47--  https://academic.oup.com/jmt/article-abstract/3/2/80/945803/Letters-to-the-Editor?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78547 (77K) [text/html]
+Saving to: ‘3.2.80’
+
+     0K .......... .......... .......... .......... .......... 65%  209K 0s
+    50K .......... .......... ......                          100% 9.75M=0.2s
+
+2017-01-29 09:01:50 (317 KB/s) - ‘3.2.80’ saved [78547/78547]
+
+--2017-01-29 09:01:51--  http://doi.org/10.1093/jmt/3.2.82
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/3.2.82 [following]
+--2017-01-29 09:01:52--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/3.2.82
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/3/2/82/945817/Professional-Opportunities [following]
+--2017-01-29 09:01:53--  https://academic.oup.com/jmt/article/3/2/82/945817/Professional-Opportunities
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/3/2/82/945817/Professional-Opportunities?redirectedFrom=fulltext [following]
+--2017-01-29 09:01:55--  https://academic.oup.com/jmt/article-abstract/3/2/82/945817/Professional-Opportunities?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72728 (71K) [text/html]
+Saving to: ‘3.2.82’
+
+     0K .......... .......... .......... .......... .......... 70%  209K 0s
+    50K .......... .......... .                               100% 14.6M=0.2s
+
+2017-01-29 09:01:59 (295 KB/s) - ‘3.2.82’ saved [72728/72728]
+
+--2017-01-29 09:02:00--  http://doi.org/10.1093/jmt/3.2.69
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/3.2.69 [following]
+--2017-01-29 09:02:01--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/3.2.69
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/3/2/69/943811/Psychodramatic-Effects-of-Music-as-a [following]
+--2017-01-29 09:02:03--  https://academic.oup.com/jmt/article/3/2/69/943811/Psychodramatic-Effects-of-Music-as-a
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/3/2/69/943811/Psychodramatic-Effects-of-Music-as-a?redirectedFrom=fulltext [following]
+--2017-01-29 09:02:05--  https://academic.oup.com/jmt/article-abstract/3/2/69/943811/Psychodramatic-Effects-of-Music-as-a?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 77125 (75K) [text/html]
+Saving to: ‘3.2.69.1’
+
+     0K .......... .......... .......... .......... .......... 66%  209K 0s
+    50K .......... .......... .....                           100% 11.5M=0.2s
+
+2017-01-29 09:02:07 (312 KB/s) - ‘3.2.69.1’ saved [77125/77125]
+
+--2017-01-29 09:02:08--  http://doi.org/10.1093/jmt/3.2.57
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/3.2.57 [following]
+--2017-01-29 09:02:10--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/3.2.57
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/3/2/57/943798/A-Procedure-for-Determining-the-Music-Preferences [following]
+--2017-01-29 09:02:11--  https://academic.oup.com/jmt/article/3/2/57/943798/A-Procedure-for-Determining-the-Music-Preferences
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/3/2/57/943798/A-Procedure-for-Determining-the-Music-Preferences?redirectedFrom=fulltext [following]
+--2017-01-29 09:02:13--  https://academic.oup.com/jmt/article-abstract/3/2/57/943798/A-Procedure-for-Determining-the-Music-Preferences?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 77689 (76K) [text/html]
+Saving to: ‘3.2.57’
+
+     0K .......... .......... .......... .......... .......... 65%  209K 0s
+    50K .......... .......... .....                           100% 9.88M=0.2s
+
+2017-01-29 09:02:17 (314 KB/s) - ‘3.2.57’ saved [77689/77689]
+
+--2017-01-29 09:02:18--  http://doi.org/10.1093/jmt/3.2.81
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/3.2.81 [following]
+--2017-01-29 09:02:19--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/3.2.81
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/3/2/81/945810/The-Authors [following]
+--2017-01-29 09:02:20--  https://academic.oup.com/jmt/article/3/2/81/945810/The-Authors
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/3/2/81/945810/The-Authors?redirectedFrom=fulltext [following]
+--2017-01-29 09:02:23--  https://academic.oup.com/jmt/article-abstract/3/2/81/945810/The-Authors?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 87466 (85K) [text/html]
+Saving to: ‘3.2.81’
+
+     0K .......... .......... .......... .......... .......... 58%  209K 0s
+    50K .......... .......... .......... .....                100% 11.2M=0.2s
+
+2017-01-29 09:02:26 (353 KB/s) - ‘3.2.81’ saved [87466/87466]
+
+--2017-01-29 09:02:27--  http://doi.org/10.1093/jmt/3.2.75
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/3.2.75 [following]
+--2017-01-29 09:02:28--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/3.2.75
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/3/2/75/943821/From-the-President-s-Desk [following]
+--2017-01-29 09:02:29--  https://academic.oup.com/jmt/article/3/2/75/943821/From-the-President-s-Desk
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/3/2/75/943821/From-the-President-s-Desk?redirectedFrom=fulltext [following]
+--2017-01-29 09:02:32--  https://academic.oup.com/jmt/article-abstract/3/2/75/943821/From-the-President-s-Desk?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 87797 (86K) [text/html]
+Saving to: ‘3.2.75’
+
+     0K .......... .......... .......... .......... .......... 58%  209K 0s
+    50K .......... .......... .......... .....                100%  876K=0.3s
+
+2017-01-29 09:02:35 (306 KB/s) - ‘3.2.75’ saved [87797/87797]
+
+--2017-01-29 09:02:36--  http://doi.org/10.1093/jmt/3.2.49
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/3.2.49 [following]
+--2017-01-29 09:02:37--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/3.2.49
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/3/2/49/943785/Music-and-Group-Psychotherapy [following]
+--2017-01-29 09:02:38--  https://academic.oup.com/jmt/article/3/2/49/943785/Music-and-Group-Psychotherapy
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/3/2/49/943785/Music-and-Group-Psychotherapy?redirectedFrom=fulltext [following]
+--2017-01-29 09:02:41--  https://academic.oup.com/jmt/article-abstract/3/2/49/943785/Music-and-Group-Psychotherapy?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 74954 (73K) [text/html]
+Saving to: ‘3.2.49’
+
+     0K .......... .......... .......... .......... .......... 68%  309K 0s
+    50K .......... .......... ...                             100%  292K=0.2s
+
+2017-01-29 09:02:44 (303 KB/s) - ‘3.2.49’ saved [74954/74954]
+
+--2017-01-29 09:02:45--  http://doi.org/10.1093/jmt/3.2.72
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/3.2.72 [following]
+--2017-01-29 09:02:46--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/3.2.72
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/3/2/72/943816/Supplement-to-the-Membership-Directory-1965-1966 [following]
+--2017-01-29 09:02:48--  https://academic.oup.com/jmt/article/3/2/72/943816/Supplement-to-the-Membership-Directory-1965-1966
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/3/2/72/943816/Supplement-to-the-Membership-Directory-1965-1966?redirectedFrom=fulltext [following]
+--2017-01-29 09:02:50--  https://academic.oup.com/jmt/article-abstract/3/2/72/943816/Supplement-to-the-Membership-Directory-1965-1966?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 73400 (72K) [text/html]
+Saving to: ‘3.2.72’
+
+     0K .......... .......... .......... .......... .......... 69%  209K 0s
+    50K .......... .......... .                               100% 11.7M=0.2s
+
+2017-01-29 09:02:54 (297 KB/s) - ‘3.2.72’ saved [73400/73400]
+
+--2017-01-29 09:02:55--  http://doi.org/10.1093/jmt/3.2.78
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/3.2.78 [following]
+--2017-01-29 09:02:56--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/3.2.78
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/3/2/78/945795/Announcements-and-Reports [following]
+--2017-01-29 09:02:57--  https://academic.oup.com/jmt/article/3/2/78/945795/Announcements-and-Reports
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/3/2/78/945795/Announcements-and-Reports?redirectedFrom=fulltext [following]
+--2017-01-29 09:02:59--  https://academic.oup.com/jmt/article-abstract/3/2/78/945795/Announcements-and-Reports?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72808 (71K) [text/html]
+Saving to: ‘3.2.78’
+
+     0K .......... .......... .......... .......... .......... 70%  207K 0s
+    50K .......... .......... .                               100% 5.46M=0.2s
+
+2017-01-29 09:03:02 (290 KB/s) - ‘3.2.78’ saved [72808/72808]
+
+--2017-01-29 09:03:03--  http://doi.org/10.1093/jmt/3.2.65
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/3.2.65 [following]
+--2017-01-29 09:03:04--  http://jmt.oxfordjournals.org/cgi/doi/10.1093/jmt/3.2.65
+Connecting to jmt.oxfordjournals.org (jmt.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jmt.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jmt/article/3/2/65/943804/Music-for-Receptive-Release [following]
+--2017-01-29 09:03:05--  https://academic.oup.com/jmt/article/3/2/65/943804/Music-for-Receptive-Release
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jmt/article-abstract/3/2/65/943804/Music-for-Receptive-Release?redirectedFrom=fulltext [following]
+--2017-01-29 09:03:08--  https://academic.oup.com/jmt/article-abstract/3/2/65/943804/Music-for-Receptive-Release?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 74935 (73K) [text/html]
+Saving to: ‘3.2.65’
+
+     0K .......... .......... .......... .......... .......... 68%  208K 0s
+    50K .......... .......... ...                             100% 10.0M=0.2s
+
+2017-01-29 09:03:11 (302 KB/s) - ‘3.2.65’ saved [74935/74935]
+
+FINISHED --2017-01-29 09:03:11--
+Total wall clock time: 15m 41s
+Downloaded: 100 files, 7.4M in 25s (305 KB/s)

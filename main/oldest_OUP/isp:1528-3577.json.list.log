@@ -1,0 +1,1587 @@
+--2017-01-30 19:10:19--  http://doi.org/10.1111/(issn)1528-3585
+Resolving doi.org (doi.org)... 38.100.138.162, 38.100.138.163, 54.191.229.235, ...
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://isp.oxfordjournals.org/ [following]
+--2017-01-30 19:10:20--  http://isp.oxfordjournals.org/
+Resolving isp.oxfordjournals.org (isp.oxfordjournals.org)... 209.135.222.209
+Connecting to isp.oxfordjournals.org (isp.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://academic.oup.com/isp [following]
+--2017-01-30 19:10:21--  https://academic.oup.com/isp
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52770 (52K) [text/html]
+Saving to: ‘(issn)1528-3585’
+
+     0K .......... .......... .......... .......... .......... 97%  307K 0s
+    50K .                                                     100% 2924G=0.2s
+
+2017-01-30 19:10:27 (316 KB/s) - ‘(issn)1528-3585’ saved [52770/52770]
+
+--2017-01-30 19:10:28--  http://doi.org/10.1111/insp.2000.1.issue-1
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/insp.2000.1.issue-1 [following]
+--2017-01-30 19:10:29--  http://doi.wiley.com/10.1111/insp.2000.1.issue-1
+Resolving doi.wiley.com (doi.wiley.com)... 199.171.202.200
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/insp.2000.1.issue-1 [following]
+--2017-01-30 19:10:31--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/insp.2000.1.issue-1
+Resolving onlinelibrary.wiley.com (onlinelibrary.wiley.com)... 199.171.202.195
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/insp.2000.1.issue-1/issuetoc;jsessionid=C56E92D7F2D4C92DA14FF70D793A749B.f04t04 [following]
+--2017-01-30 19:10:32--  http://onlinelibrary.wiley.com/doi/10.1111/insp.2000.1.issue-1/issuetoc;jsessionid=C56E92D7F2D4C92DA14FF70D793A749B.f04t04
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘insp.2000.1.issue-1’
+
+     0K .......... .......... .......... .......... .......     184K=0.3s
+
+2017-01-30 19:10:33 (184 KB/s) - ‘insp.2000.1.issue-1’ saved [48919]
+
+--2017-01-30 19:10:34--  http://doi.org/10.1111/1528-3577.t01-1-00012
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1528-3577.t01-1-00012 [following]
+--2017-01-30 19:10:35--  http://doi.wiley.com/10.1111/1528-3577.t01-1-00012
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1528-3577.t01-1-00012 [following]
+--2017-01-30 19:10:36--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1528-3577.t01-1-00012
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1528-3577.t01-1-00012/abstract [following]
+--2017-01-30 19:10:37--  http://onlinelibrary.wiley.com/doi/10.1111/1528-3577.t01-1-00012/abstract
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 36044 (35K) [text/html]
+Saving to: ‘1528-3577.t01-1-00012’
+
+     0K .......... .......... .......... .....                100%  135K=0.3s
+
+2017-01-30 19:10:38 (135 KB/s) - ‘1528-3577.t01-1-00012’ saved [36044/36044]
+
+--2017-01-30 19:10:39--  http://doi.org/10.1111/1528-3577.00003
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00003 [following]
+--2017-01-30 19:10:41--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 69063 (67K) [text/html]
+Saving to: ‘1528-3577.00003’
+
+     0K .......... .......... .......... .......... .......... 74%  209K 0s
+    50K .......... .......                                    100% 13.7M=0.2s
+
+2017-01-30 19:10:44 (281 KB/s) - ‘1528-3577.00003’ saved [69063/69063]
+
+--2017-01-30 19:10:45--  http://doi.org/10.1111/1528-3577.00002
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00002 [following]
+--2017-01-30 19:10:47--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 67960 (66K) [text/html]
+Saving to: ‘1528-3577.00002’
+
+     0K .......... .......... .......... .......... .......... 75%  209K 0s
+    50K .......... ......                                     100% 4.10M=0.2s
+
+2017-01-30 19:10:50 (273 KB/s) - ‘1528-3577.00002’ saved [67960/67960]
+
+--2017-01-30 19:10:51--  http://doi.org/10.1111/1528-3577.00011
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00011 [following]
+--2017-01-30 19:10:53--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63878 (62K) [text/html]
+Saving to: ‘1528-3577.00011’
+
+     0K .......... .......... .......... .......... .......... 80%  208K 0s
+    50K .......... ..                                         100% 21.4M=0.2s
+
+2017-01-30 19:10:56 (259 KB/s) - ‘1528-3577.00011’ saved [63878/63878]
+
+--2017-01-30 19:10:57--  http://doi.org/10.1111/1528-3577.00006
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00006 [following]
+--2017-01-30 19:10:58--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 74124 (72K) [text/html]
+Saving to: ‘1528-3577.00006’
+
+     0K .......... .......... .......... .......... .......... 69%  309K 0s
+    50K .......... .......... ..                              100%  281K=0.2s
+
+2017-01-30 19:11:01 (299 KB/s) - ‘1528-3577.00006’ saved [74124/74124]
+
+--2017-01-30 19:11:02--  http://doi.org/10.1111/1528-3577.00004
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00004 [following]
+--2017-01-30 19:11:03--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 85536 (84K) [text/html]
+Saving to: ‘1528-3577.00004’
+
+     0K .......... .......... .......... .......... .......... 59%  208K 0s
+    50K .......... .......... .......... ...                  100% 8.22M=0.2s
+
+2017-01-30 19:11:07 (342 KB/s) - ‘1528-3577.00004’ saved [85536/85536]
+
+--2017-01-30 19:11:08--  http://doi.org/10.1111/1528-3577.00001
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00001 [following]
+--2017-01-30 19:11:09--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73310 (72K) [text/html]
+Saving to: ‘1528-3577.00001’
+
+     0K .......... .......... .......... .......... .......... 69%  209K 0s
+    50K .......... .......... .                               100% 14.5M=0.2s
+
+2017-01-30 19:11:12 (298 KB/s) - ‘1528-3577.00001’ saved [73310/73310]
+
+--2017-01-30 19:11:13--  http://doi.org/10.1111/1528-3577.00009
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00009 [following]
+--2017-01-30 19:11:14--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 84678 (83K) [text/html]
+Saving to: ‘1528-3577.00009’
+
+     0K .......... .......... .......... .......... .......... 60%  209K 0s
+    50K .......... .......... .......... ..                   100% 9.36M=0.2s
+
+2017-01-30 19:11:18 (341 KB/s) - ‘1528-3577.00009’ saved [84678/84678]
+
+--2017-01-30 19:11:19--  http://doi.org/10.1111/1528-3577.00007
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00007 [following]
+--2017-01-30 19:11:21--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79512 (78K) [text/html]
+Saving to: ‘1528-3577.00007’
+
+     0K .......... .......... .......... .......... .......... 64%  208K 0s
+    50K .......... .......... .......                         100% 14.3M=0.2s
+
+2017-01-30 19:11:23 (321 KB/s) - ‘1528-3577.00007’ saved [79512/79512]
+
+--2017-01-30 19:11:24--  http://doi.org/10.1111/1528-3577.00005
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00005 [following]
+--2017-01-30 19:11:26--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73664 (72K) [text/html]
+Saving to: ‘1528-3577.00005’
+
+     0K .......... .......... .......... .......... .......... 69%  209K 0s
+    50K .......... .......... .                               100% 11.4M=0.2s
+
+2017-01-30 19:11:29 (298 KB/s) - ‘1528-3577.00005’ saved [73664/73664]
+
+--2017-01-30 19:11:30--  http://doi.org/10.1111/1528-3577.00008
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00008 [following]
+--2017-01-30 19:11:31--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72123 (70K) [text/html]
+Saving to: ‘1528-3577.00008’
+
+     0K .......... .......... .......... .......... .......... 70%  209K 0s
+    50K .......... ..........                                 100% 11.0M=0.2s
+
+2017-01-30 19:11:35 (292 KB/s) - ‘1528-3577.00008’ saved [72123/72123]
+
+--2017-01-30 19:11:36--  http://doi.org/10.1111/insp.2000.1.issue-2
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/insp.2000.1.issue-2 [following]
+--2017-01-30 19:11:37--  http://doi.wiley.com/10.1111/insp.2000.1.issue-2
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/insp.2000.1.issue-2 [following]
+--2017-01-30 19:11:39--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/insp.2000.1.issue-2
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/insp.2000.1.issue-2/issuetoc [following]
+--2017-01-30 19:11:40--  http://onlinelibrary.wiley.com/doi/10.1111/insp.2000.1.issue-2/issuetoc
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘insp.2000.1.issue-2’
+
+     0K .......... .......... .......... .......... ....        172K=0.3s
+
+2017-01-30 19:11:41 (172 KB/s) - ‘insp.2000.1.issue-2’ saved [46047]
+
+--2017-01-30 19:11:42--  http://doi.org/10.1111/1528-3577.00018
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00018 [following]
+--2017-01-30 19:11:43--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00018
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77085 (75K) [text/html]
+Saving to: ‘1528-3577.00018’
+
+     0K .......... .......... .......... .......... .......... 66%  209K 0s
+    50K .......... .......... .....                           100% 12.4M=0.2s
+
+2017-01-30 19:11:49 (312 KB/s) - ‘1528-3577.00018’ saved [77085/77085]
+
+--2017-01-30 19:11:50--  http://doi.org/10.1111/1528-3577.00017
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00017 [following]
+--2017-01-30 19:11:51--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00017
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 70979 (69K) [text/html]
+Saving to: ‘1528-3577.00017’
+
+     0K .......... .......... .......... .......... .......... 72%  209K 0s
+    50K .......... .........                                  100% 14.3M=0.2s
+
+2017-01-30 19:11:54 (288 KB/s) - ‘1528-3577.00017’ saved [70979/70979]
+
+--2017-01-30 19:11:55--  http://doi.org/10.1111/1528-3577.00021
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00021 [following]
+--2017-01-30 19:11:57--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00021
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63886 (62K) [text/html]
+Saving to: ‘1528-3577.00021’
+
+     0K .......... .......... .......... .......... .......... 80%  208K 0s
+    50K .......... ..                                         100% 18.4M=0.2s
+
+2017-01-30 19:12:04 (259 KB/s) - ‘1528-3577.00021’ saved [63886/63886]
+
+--2017-01-30 19:12:05--  http://doi.org/10.1111/1528-3577.00022
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00022 [following]
+--2017-01-30 19:12:06--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00022
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 78999 (77K) [text/html]
+Saving to: ‘1528-3577.00022’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... .......                         100% 13.1M=0.2s
+
+2017-01-30 19:12:11 (320 KB/s) - ‘1528-3577.00022’ saved [78999/78999]
+
+--2017-01-30 19:12:12--  http://doi.org/10.1111/1528-3577.00016
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00016 [following]
+--2017-01-30 19:12:13--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00016
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68982 (67K) [text/html]
+Saving to: ‘1528-3577.00016’
+
+     0K .......... .......... .......... .......... .......... 74%  309K 0s
+    50K .......... .......                                    100%  221K=0.2s
+
+2017-01-30 19:12:17 (281 KB/s) - ‘1528-3577.00016’ saved [68982/68982]
+
+--2017-01-30 19:12:18--  http://doi.org/10.1111/1528-3577.00015
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00015 [following]
+--2017-01-30 19:12:19--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00015
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68627 (67K) [text/html]
+Saving to: ‘1528-3577.00015’
+
+     0K .......... .......... .......... .......... .......... 74%  209K 0s
+    50K .......... .......                                    100% 13.3M=0.2s
+
+2017-01-30 19:12:23 (278 KB/s) - ‘1528-3577.00015’ saved [68627/68627]
+
+--2017-01-30 19:12:24--  http://doi.org/10.1111/1528-3577.00014
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00014 [following]
+--2017-01-30 19:12:25--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00014
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72988 (71K) [text/html]
+Saving to: ‘1528-3577.00014’
+
+     0K .......... .......... .......... .......... .......... 70%  209K 0s
+    50K .......... .......... .                               100% 11.1M=0.2s
+
+2017-01-30 19:12:29 (296 KB/s) - ‘1528-3577.00014’ saved [72988/72988]
+
+--2017-01-30 19:12:30--  http://doi.org/10.1111/1528-3577.00019
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00019 [following]
+--2017-01-30 19:12:31--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00019
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 85030 (83K) [text/html]
+Saving to: ‘1528-3577.00019’
+
+     0K .......... .......... .......... .......... .......... 60%  209K 0s
+    50K .......... .......... .......... ...                  100% 11.0M=0.2s
+
+2017-01-30 19:12:35 (343 KB/s) - ‘1528-3577.00019’ saved [85030/85030]
+
+--2017-01-30 19:12:36--  http://doi.org/10.1111/1528-3577.00013
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00013 [following]
+--2017-01-30 19:12:37--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68730 (67K) [text/html]
+Saving to: ‘1528-3577.00013’
+
+     0K .......... .......... .......... .......... .......... 74%  208K 0s
+    50K .......... .......                                    100% 15.3M=0.2s
+
+2017-01-30 19:12:41 (278 KB/s) - ‘1528-3577.00013’ saved [68730/68730]
+
+--2017-01-30 19:12:42--  http://doi.org/10.1111/insp.2000.1.issue-3
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/insp.2000.1.issue-3 [following]
+--2017-01-30 19:12:43--  http://doi.wiley.com/10.1111/insp.2000.1.issue-3
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/insp.2000.1.issue-3 [following]
+--2017-01-30 19:12:44--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/insp.2000.1.issue-3
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/insp.2000.1.issue-3/issuetoc [following]
+--2017-01-30 19:12:45--  http://onlinelibrary.wiley.com/doi/10.1111/insp.2000.1.issue-3/issuetoc
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘insp.2000.1.issue-3’
+
+     0K .......... .......... .......... .......... .....       175K=0.3s
+
+2017-01-30 19:12:46 (175 KB/s) - ‘insp.2000.1.issue-3’ saved [46715]
+
+--2017-01-30 19:12:47--  http://doi.org/10.1111/1528-3577.00026
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00026 [following]
+--2017-01-30 19:12:48--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00026
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 70552 (69K) [text/html]
+Saving to: ‘1528-3577.00026’
+
+     0K .......... .......... .......... .......... .......... 72%  209K 0s
+    50K .......... ........                                   100% 12.1M=0.2s
+
+2017-01-30 19:12:52 (286 KB/s) - ‘1528-3577.00026’ saved [70552/70552]
+
+--2017-01-30 19:12:53--  http://doi.org/10.1111/1528-3577.00024
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00024 [following]
+--2017-01-30 19:12:54--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00024
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 84862 (83K) [text/html]
+Saving to: ‘1528-3577.00024’
+
+     0K .......... .......... .......... .......... .......... 60%  208K 0s
+    50K .......... .......... .......... ..                   100% 8.09M=0.2s
+
+2017-01-30 19:12:57 (339 KB/s) - ‘1528-3577.00024’ saved [84862/84862]
+
+--2017-01-30 19:12:58--  http://doi.org/10.1111/1528-3577.00023
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00023 [following]
+--2017-01-30 19:13:00--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00023
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 69520 (68K) [text/html]
+Saving to: ‘1528-3577.00023’
+
+     0K .......... .......... .......... .......... .......... 73%  209K 0s
+    50K .......... .......                                    100% 10.9M=0.2s
+
+2017-01-30 19:13:03 (282 KB/s) - ‘1528-3577.00023’ saved [69520/69520]
+
+--2017-01-30 19:13:04--  http://doi.org/10.1111/1528-3577.00032
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00032 [following]
+--2017-01-30 19:13:06--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00032
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64371 (63K) [text/html]
+Saving to: ‘1528-3577.00032’
+
+     0K .......... .......... .......... .......... .......... 79%  209K 0s
+    50K .......... ..                                         100% 13.9M=0.2s
+
+2017-01-30 19:13:09 (262 KB/s) - ‘1528-3577.00032’ saved [64371/64371]
+
+--2017-01-30 19:13:10--  http://doi.org/10.1111/1528-3577.t01-1-00031
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.t01-1-00031 [following]
+--2017-01-30 19:13:11--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.t01-1-00031
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64458 (63K) [text/html]
+Saving to: ‘1528-3577.t01-1-00031’
+
+     0K .......... .......... .......... .......... .......... 79%  209K 0s
+    50K .......... ..                                         100% 14.3M=0.2s
+
+2017-01-30 19:13:15 (262 KB/s) - ‘1528-3577.t01-1-00031’ saved [64458/64458]
+
+--2017-01-30 19:13:16--  http://doi.org/10.1111/1528-3577.00030
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00030 [following]
+--2017-01-30 19:13:18--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00030
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63914 (62K) [text/html]
+Saving to: ‘1528-3577.00030’
+
+     0K .......... .......... .......... .......... .......... 80%  209K 0s
+    50K .......... ..                                         100% 15.5M=0.2s
+
+2017-01-30 19:13:31 (260 KB/s) - ‘1528-3577.00030’ saved [63914/63914]
+
+--2017-01-30 19:13:32--  http://doi.org/10.1111/1528-3577.00028
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00028 [following]
+--2017-01-30 19:13:33--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00028
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 70956 (69K) [text/html]
+Saving to: ‘1528-3577.00028’
+
+     0K .......... .......... .......... .......... .......... 72%  209K 0s
+    50K .......... .........                                  100% 3.65M=0.2s
+
+2017-01-30 19:13:36 (283 KB/s) - ‘1528-3577.00028’ saved [70956/70956]
+
+--2017-01-30 19:13:37--  http://doi.org/10.1111/1528-3577.00027
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00027 [following]
+--2017-01-30 19:13:38--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00027
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 69137 (68K) [text/html]
+Saving to: ‘1528-3577.00027’
+
+     0K .......... .......... .......... .......... .......... 74%  209K 0s
+    50K .......... .......                                    100% 18.0M=0.2s
+
+2017-01-30 19:13:44 (281 KB/s) - ‘1528-3577.00027’ saved [69137/69137]
+
+--2017-01-30 19:13:45--  http://doi.org/10.1111/1528-3577.00025
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00025 [following]
+--2017-01-30 19:13:46--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00025
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 70470 (69K) [text/html]
+Saving to: ‘1528-3577.00025’
+
+     0K .......... .......... .......... .......... .......... 72%  209K 0s
+    50K .......... ........                                   100% 16.2M=0.2s
+
+2017-01-30 19:13:54 (286 KB/s) - ‘1528-3577.00025’ saved [70470/70470]
+
+--2017-01-30 19:13:55--  http://doi.org/10.1111/insp.2001.2.issue-1
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/insp.2001.2.issue-1 [following]
+--2017-01-30 19:13:56--  http://doi.wiley.com/10.1111/insp.2001.2.issue-1
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/insp.2001.2.issue-1 [following]
+--2017-01-30 19:13:57--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/insp.2001.2.issue-1
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/insp.2001.2.issue-1/issuetoc [following]
+--2017-01-30 19:13:58--  http://onlinelibrary.wiley.com/doi/10.1111/insp.2001.2.issue-1/issuetoc
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘insp.2001.2.issue-1’
+
+     0K .......... .......... .......... .......... .......    5.43K=8.8s
+
+2017-01-30 19:14:08 (5.43 KB/s) - ‘insp.2001.2.issue-1’ saved [48810]
+
+--2017-01-30 19:14:09--  http://doi.org/10.1111/1528-3577.00034
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00034 [following]
+--2017-01-30 19:14:10--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00034
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66031 (64K) [text/html]
+Saving to: ‘1528-3577.00034’
+
+     0K .......... .......... .......... .......... .......... 77%  209K 0s
+    50K .......... ....                                       100% 14.2M=0.2s
+
+2017-01-30 19:14:15 (268 KB/s) - ‘1528-3577.00034’ saved [66031/66031]
+
+--2017-01-30 19:14:16--  http://doi.org/10.1111/1528-3577.00033
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00033 [following]
+--2017-01-30 19:14:18--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00033
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 69000 (67K) [text/html]
+Saving to: ‘1528-3577.00033’
+
+     0K .......... .......... .......... .......... .......... 74%  180K 0s
+    50K .......... .......                                    100%  416K=0.3s
+
+2017-01-30 19:14:21 (211 KB/s) - ‘1528-3577.00033’ saved [69000/69000]
+
+--2017-01-30 19:14:22--  http://doi.org/10.1111/1528-3577.00040
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00040 [following]
+--2017-01-30 19:14:23--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00040
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64300 (63K) [text/html]
+Saving to: ‘1528-3577.00040’
+
+     0K .......... .......... .......... .......... .......... 79%  208K 0s
+    50K .......... ..                                         100% 9.76M=0.2s
+
+2017-01-30 19:14:26 (260 KB/s) - ‘1528-3577.00040’ saved [64300/64300]
+
+--2017-01-30 19:14:27--  http://doi.org/10.1111/1528-3577.00044
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00044 [following]
+--2017-01-30 19:14:28--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00044
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64116 (63K) [text/html]
+Saving to: ‘1528-3577.00044’
+
+     0K .......... .......... .......... .......... .......... 79%  208K 0s
+    50K .......... ..                                         100% 18.5M=0.2s
+
+2017-01-30 19:14:31 (260 KB/s) - ‘1528-3577.00044’ saved [64116/64116]
+
+--2017-01-30 19:14:32--  http://doi.org/10.1111/1528-3577.t01-1-00043
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.t01-1-00043 [following]
+--2017-01-30 19:14:33--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.t01-1-00043
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64298 (63K) [text/html]
+Saving to: ‘1528-3577.t01-1-00043’
+
+     0K .......... .......... .......... .......... .......... 79%  207K 0s
+    50K .......... ..                                         100% 16.0M=0.2s
+
+2017-01-30 19:14:37 (259 KB/s) - ‘1528-3577.t01-1-00043’ saved [64298/64298]
+
+--2017-01-30 19:14:38--  http://doi.org/10.1111/1528-3577.00042
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00042 [following]
+--2017-01-30 19:14:39--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00042
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63903 (62K) [text/html]
+Saving to: ‘1528-3577.00042’
+
+     0K .......... .......... .......... .......... .......... 80%  256K 0s
+    50K .......... ..                                         100%  154K=0.3s
+
+2017-01-30 19:14:44 (226 KB/s) - ‘1528-3577.00042’ saved [63903/63903]
+
+--2017-01-30 19:14:45--  http://doi.org/10.1111/1528-3577.00036
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00036 [following]
+--2017-01-30 19:14:46--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00036
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71110 (69K) [text/html]
+Saving to: ‘1528-3577.00036’
+
+     0K .......... .......... .......... .......... .......... 72%  208K 0s
+    50K .......... .........                                  100% 8.41M=0.2s
+
+2017-01-30 19:14:50 (287 KB/s) - ‘1528-3577.00036’ saved [71110/71110]
+
+--2017-01-30 19:14:51--  http://doi.org/10.1111/1528-3577.00037
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00037 [following]
+--2017-01-30 19:14:52--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00037
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72614 (71K) [text/html]
+Saving to: ‘1528-3577.00037’
+
+     0K .......... .......... .......... .......... .......... 70%  208K 0s
+    50K .......... ..........                                 100% 10.5M=0.2s
+
+2017-01-30 19:14:56 (293 KB/s) - ‘1528-3577.00037’ saved [72614/72614]
+
+--2017-01-30 19:14:57--  http://doi.org/10.1111/1528-3577.00038
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00038 [following]
+--2017-01-30 19:14:58--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00038
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73764 (72K) [text/html]
+Saving to: ‘1528-3577.00038’
+
+     0K .......... .......... .......... .......... .......... 69%  209K 0s
+    50K .......... .......... ..                              100% 7.44M=0.2s
+
+2017-01-30 19:15:03 (297 KB/s) - ‘1528-3577.00038’ saved [73764/73764]
+
+--2017-01-30 19:15:04--  http://doi.org/10.1111/1528-3577.00039
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00039 [following]
+--2017-01-30 19:15:05--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00039
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 69116 (67K) [text/html]
+Saving to: ‘1528-3577.00039’
+
+     0K .......... .......... .......... .......... .......... 74%  208K 0s
+    50K .......... .......                                    100% 14.6M=0.2s
+
+2017-01-30 19:15:10 (280 KB/s) - ‘1528-3577.00039’ saved [69116/69116]
+
+--2017-01-30 19:15:11--  http://doi.org/10.1111/1528-3577.00035
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00035 [following]
+--2017-01-30 19:15:12--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00035
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71270 (70K) [text/html]
+Saving to: ‘1528-3577.00035’
+
+     0K .......... .......... .......... .......... .......... 71%  209K 0s
+    50K .......... .........                                  100% 14.8M=0.2s
+
+2017-01-30 19:15:15 (289 KB/s) - ‘1528-3577.00035’ saved [71270/71270]
+
+--2017-01-30 19:15:16--  http://doi.org/10.1111/insp.2001.2.issue-2
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/insp.2001.2.issue-2 [following]
+--2017-01-30 19:15:17--  http://doi.wiley.com/10.1111/insp.2001.2.issue-2
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/insp.2001.2.issue-2 [following]
+--2017-01-30 19:15:18--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/insp.2001.2.issue-2
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/insp.2001.2.issue-2/issuetoc [following]
+--2017-01-30 19:15:20--  http://onlinelibrary.wiley.com/doi/10.1111/insp.2001.2.issue-2/issuetoc
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘insp.2001.2.issue-2’
+
+     0K .......... .......... .......... .......... ...         160K=0.3s
+
+2017-01-30 19:15:20 (160 KB/s) - ‘insp.2001.2.issue-2’ saved [44996]
+
+--2017-01-30 19:15:21--  http://doi.org/10.1111/1528-3577.00051
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00051 [following]
+--2017-01-30 19:15:23--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00051
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71368 (70K) [text/html]
+Saving to: ‘1528-3577.00051’
+
+     0K .......... .......... .......... .......... .......... 71%  209K 0s
+    50K .......... .........                                  100% 11.2M=0.2s
+
+2017-01-30 19:15:26 (290 KB/s) - ‘1528-3577.00051’ saved [71368/71368]
+
+--2017-01-30 19:15:27--  http://doi.org/10.1111/1528-3577.00045
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00045 [following]
+--2017-01-30 19:15:28--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00045
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68392 (67K) [text/html]
+Saving to: ‘1528-3577.00045’
+
+     0K .......... .......... .......... .......... .......... 74%  209K 0s
+    50K .......... ......                                     100% 5.53M=0.2s
+
+2017-01-30 19:15:32 (276 KB/s) - ‘1528-3577.00045’ saved [68392/68392]
+
+--2017-01-30 19:15:33--  http://doi.org/10.1111/1528-3577.00053
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00053 [following]
+--2017-01-30 19:15:34--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00053
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 78839 (77K) [text/html]
+Saving to: ‘1528-3577.00053’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... ......                          100% 7.49M=0.2s
+
+2017-01-30 19:15:43 (317 KB/s) - ‘1528-3577.00053’ saved [78839/78839]
+
+--2017-01-30 19:15:44--  http://doi.org/10.1111/1528-3577.00052
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00052 [following]
+--2017-01-30 19:15:46--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00052
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63874 (62K) [text/html]
+Saving to: ‘1528-3577.00052’
+
+     0K .......... .......... .......... .......... .......... 80%  209K 0s
+    50K .......... ..                                         100% 10.0M=0.2s
+
+2017-01-30 19:15:49 (260 KB/s) - ‘1528-3577.00052’ saved [63874/63874]
+
+--2017-01-30 19:15:50--  http://doi.org/10.1111/1528-3577.00049
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00049 [following]
+--2017-01-30 19:15:52--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00049
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68311 (67K) [text/html]
+Saving to: ‘1528-3577.00049’
+
+     0K .......... .......... .......... .......... .......... 74%  209K 0s
+    50K .......... ......                                     100% 11.3M=0.2s
+
+2017-01-30 19:15:55 (277 KB/s) - ‘1528-3577.00049’ saved [68311/68311]
+
+--2017-01-30 19:15:56--  http://doi.org/10.1111/1528-3577.00050
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00050 [following]
+--2017-01-30 19:15:57--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00050
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71433 (70K) [text/html]
+Saving to: ‘1528-3577.00050’
+
+     0K .......... .......... .......... .......... .......... 71%  207K 0s
+    50K .......... .........                                  100% 9.78M=0.2s
+
+2017-01-30 19:16:11 (287 KB/s) - ‘1528-3577.00050’ saved [71433/71433]
+
+--2017-01-30 19:16:12--  http://doi.org/10.1111/1528-3577.00047
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00047 [following]
+--2017-01-30 19:16:13--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00047
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 83610 (82K) [text/html]
+Saving to: ‘1528-3577.00047’
+
+     0K .......... .......... .......... .......... .......... 61%  208K 0s
+    50K .......... .......... .......... .                    100% 9.57M=0.2s
+
+2017-01-30 19:16:19 (335 KB/s) - ‘1528-3577.00047’ saved [83610/83610]
+
+--2017-01-30 19:16:20--  http://doi.org/10.1111/1528-3577.00046
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00046 [following]
+--2017-01-30 19:16:21--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00046
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 69140 (68K) [text/html]
+Saving to: ‘1528-3577.00046’
+
+     0K .......... .......... .......... .......... .......... 74%  209K 0s
+    50K .......... .......                                    100% 12.4M=0.2s
+
+2017-01-30 19:16:37 (281 KB/s) - ‘1528-3577.00046’ saved [69140/69140]
+
+--2017-01-30 19:16:38--  http://doi.org/10.1111/1528-3577.00048
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00048 [following]
+--2017-01-30 19:16:39--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00048
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 70633 (69K) [text/html]
+Saving to: ‘1528-3577.00048’
+
+     0K .......... .......... .......... .......... .......... 72%  203K 0s
+    50K .......... ........                                   100% 13.6M=0.2s
+
+2017-01-30 19:16:43 (279 KB/s) - ‘1528-3577.00048’ saved [70633/70633]
+
+--2017-01-30 19:16:44--  http://doi.org/10.1111/insp.2001.2.issue-3
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/insp.2001.2.issue-3 [following]
+--2017-01-30 19:16:45--  http://doi.wiley.com/10.1111/insp.2001.2.issue-3
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/insp.2001.2.issue-3 [following]
+--2017-01-30 19:16:46--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/insp.2001.2.issue-3
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/insp.2001.2.issue-3/issuetoc [following]
+--2017-01-30 19:16:48--  http://onlinelibrary.wiley.com/doi/10.1111/insp.2001.2.issue-3/issuetoc
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘insp.2001.2.issue-3’
+
+     0K .......... .......... .......... .......... ..          157K=0.3s
+
+2017-01-30 19:16:49 (157 KB/s) - ‘insp.2001.2.issue-3’ saved [43641]
+
+--2017-01-30 19:16:50--  http://doi.org/10.1111/1528-3577.00062
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00062 [following]
+--2017-01-30 19:16:51--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00062
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63846 (62K) [text/html]
+Saving to: ‘1528-3577.00062’
+
+     0K .......... .......... .......... .......... .......... 80%  207K 0s
+    50K .......... ..                                         100% 15.4M=0.2s
+
+2017-01-30 19:16:55 (258 KB/s) - ‘1528-3577.00062’ saved [63846/63846]
+
+--2017-01-30 19:16:56--  http://doi.org/10.1111/1528-3577.t01-1-00063
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.t01-1-00063 [following]
+--2017-01-30 19:16:57--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.t01-1-00063
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63968 (62K) [text/html]
+Saving to: ‘1528-3577.t01-1-00063’
+
+     0K .......... .......... .......... .......... .......... 80%  207K 0s
+    50K .......... ..                                         100% 16.4M=0.2s
+
+2017-01-30 19:17:01 (257 KB/s) - ‘1528-3577.t01-1-00063’ saved [63968/63968]
+
+--2017-01-30 19:17:02--  http://doi.org/10.1111/1528-3577.00060
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00060 [following]
+--2017-01-30 19:17:03--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00060
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68793 (67K) [text/html]
+Saving to: ‘1528-3577.00060’
+
+     0K .......... .......... .......... .......... .......... 74%  206K 0s
+    50K .......... .......                                    100% 4.58M=0.2s
+
+2017-01-30 19:17:07 (273 KB/s) - ‘1528-3577.00060’ saved [68793/68793]
+
+--2017-01-30 19:17:08--  http://doi.org/10.1111/1528-3577.00056
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00056 [following]
+--2017-01-30 19:17:09--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00056
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 69089 (67K) [text/html]
+Saving to: ‘1528-3577.00056’
+
+     0K .......... .......... .......... .......... .......... 74%  205K 0s
+    50K .......... .......                                    100% 14.6M=0.2s
+
+2017-01-30 19:17:13 (275 KB/s) - ‘1528-3577.00056’ saved [69089/69089]
+
+--2017-01-30 19:17:14--  http://doi.org/10.1111/1528-3577.00057
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00057 [following]
+--2017-01-30 19:17:15--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00057
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 84529 (83K) [text/html]
+Saving to: ‘1528-3577.00057’
+
+     0K .......... .......... .......... .......... .......... 60%  208K 0s
+    50K .......... .......... .......... ..                   100% 6.89M=0.2s
+
+2017-01-30 19:17:20 (337 KB/s) - ‘1528-3577.00057’ saved [84529/84529]
+
+--2017-01-30 19:17:21--  http://doi.org/10.1111/1528-3577.00058
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00058 [following]
+--2017-01-30 19:17:22--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00058
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 69162 (68K) [text/html]
+Saving to: ‘1528-3577.00058’
+
+     0K .......... .......... .......... .......... .......... 74%  208K 0s
+    50K .......... .......                                    100% 15.2M=0.2s
+
+2017-01-30 19:17:25 (279 KB/s) - ‘1528-3577.00058’ saved [69162/69162]
+
+--2017-01-30 19:17:26--  http://doi.org/10.1111/1528-3577.00055
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00055 [following]
+--2017-01-30 19:17:27--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00055
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 69762 (68K) [text/html]
+Saving to: ‘1528-3577.00055’
+
+     0K .......... .......... .......... .......... .......... 73%  208K 0s
+    50K .......... ........                                   100% 16.7M=0.2s
+
+2017-01-30 19:17:34 (282 KB/s) - ‘1528-3577.00055’ saved [69762/69762]
+
+--2017-01-30 19:17:35--  http://doi.org/10.1111/1528-3577.00059
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00059 [following]
+--2017-01-30 19:17:36--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00059
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 69112 (67K) [text/html]
+Saving to: ‘1528-3577.00059’
+
+     0K .......... .......... .......... .......... .......... 74%  207K 0s
+    50K .......... .......                                    100% 14.3M=0.2s
+
+2017-01-30 19:17:39 (278 KB/s) - ‘1528-3577.00059’ saved [69112/69112]
+
+--2017-01-30 19:17:40--  http://doi.org/10.1111/1528-3577.00070
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1528-3577.00070 [following]
+--2017-01-30 19:17:41--  http://doi.wiley.com/10.1111/1528-3577.00070
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1528-3577.00070 [following]
+--2017-01-30 19:17:42--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1528-3577.00070
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1528-3577.00070/abstract [following]
+--2017-01-30 19:17:44--  http://onlinelibrary.wiley.com/doi/10.1111/1528-3577.00070/abstract
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 40643 (40K) [text/html]
+Saving to: ‘1528-3577.00070’
+
+     0K .......... .......... .......... .........            100%  153K=0.3s
+
+2017-01-30 19:17:45 (153 KB/s) - ‘1528-3577.00070’ saved [40643/40643]
+
+--2017-01-30 19:17:46--  http://doi.org/10.1111/1528-3577.00072
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00072 [following]
+--2017-01-30 19:17:47--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00072
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63909 (62K) [text/html]
+Saving to: ‘1528-3577.00072’
+
+     0K .......... .......... .......... .......... .......... 80%  205K 0s
+    50K .......... ..                                         100% 18.6M=0.2s
+
+2017-01-30 19:17:50 (255 KB/s) - ‘1528-3577.00072’ saved [63909/63909]
+
+--2017-01-30 19:17:51--  http://doi.org/10.1111/1528-3577.00064
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00064 [following]
+--2017-01-30 19:17:52--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00064
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68736 (67K) [text/html]
+Saving to: ‘1528-3577.00064’
+
+     0K .......... .......... .......... .......... .......... 74%  209K 0s
+    50K .......... .......                                    100% 14.7M=0.2s
+
+2017-01-30 19:17:55 (279 KB/s) - ‘1528-3577.00064’ saved [68736/68736]
+
+--2017-01-30 19:17:56--  http://doi.org/10.1111/1528-3577.00065
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00065 [following]
+--2017-01-30 19:17:58--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00065
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77774 (76K) [text/html]
+Saving to: ‘1528-3577.00065’
+
+     0K .......... .......... .......... .......... .......... 65%  209K 0s
+    50K .......... .......... .....                           100% 8.20M=0.2s
+
+2017-01-30 19:18:01 (313 KB/s) - ‘1528-3577.00065’ saved [77774/77774]
+
+--2017-01-30 19:18:02--  http://doi.org/10.1111/1528-3577.00071
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00071 [following]
+--2017-01-30 19:18:03--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00071
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66713 (65K) [text/html]
+Saving to: ‘1528-3577.00071’
+
+     0K .......... .......... .......... .......... .......... 76%  209K 0s
+    50K .......... .....                                      100% 13.1M=0.2s
+
+2017-01-30 19:18:07 (270 KB/s) - ‘1528-3577.00071’ saved [66713/66713]
+
+--2017-01-30 19:18:08--  http://doi.org/10.1111/1528-3577.00074
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00074 [following]
+--2017-01-30 19:18:09--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00074
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63818 (62K) [text/html]
+Saving to: ‘1528-3577.00074’
+
+     0K .......... .......... .......... .......... .......... 80%  207K 0s
+    50K .......... ..                                         100% 17.5M=0.2s
+
+2017-01-30 19:18:17 (257 KB/s) - ‘1528-3577.00074’ saved [63818/63818]
+
+--2017-01-30 19:18:18--  http://doi.org/10.1111/1528-3577.00069
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00069 [following]
+--2017-01-30 19:18:19--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00069
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75312 (74K) [text/html]
+Saving to: ‘1528-3577.00069’
+
+     0K .......... .......... .......... .......... .......... 67%  207K 0s
+    50K .......... .......... ...                             100% 12.9M=0.2s
+
+2017-01-30 19:18:22 (303 KB/s) - ‘1528-3577.00069’ saved [75312/75312]
+
+--2017-01-30 19:18:23--  http://doi.org/10.1111/1528-3577.00073
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00073 [following]
+--2017-01-30 19:18:24--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00073
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66946 (65K) [text/html]
+Saving to: ‘1528-3577.00073’
+
+     0K .......... .......... .......... .......... .......... 76%  209K 0s
+    50K .......... .....                                      100% 14.1M=0.2s
+
+2017-01-30 19:18:28 (272 KB/s) - ‘1528-3577.00073’ saved [66946/66946]
+
+--2017-01-30 19:18:29--  http://doi.org/10.1111/1528-3577.00068
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00068 [following]
+--2017-01-30 19:18:30--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00068
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68877 (67K) [text/html]
+Saving to: ‘1528-3577.00068’
+
+     0K .......... .......... .......... .......... .......... 74%  209K 0s
+    50K .......... .......                                    100% 3.16M=0.2s
+
+2017-01-30 19:18:35 (274 KB/s) - ‘1528-3577.00068’ saved [68877/68877]
+
+--2017-01-30 19:18:36--  http://doi.org/10.1111/1528-3577.00066
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00066 [following]
+--2017-01-30 19:18:38--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00066
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 69773 (68K) [text/html]
+Saving to: ‘1528-3577.00066’
+
+     0K .......... .......... .......... .......... .......... 73%  208K 0s
+    50K .......... ........                                   100% 15.0M=0.2s
+
+2017-01-30 19:18:42 (282 KB/s) - ‘1528-3577.00066’ saved [69773/69773]
+
+--2017-01-30 19:18:43--  http://doi.org/10.1111/1528-3577.00067
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00067 [following]
+--2017-01-30 19:18:44--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00067
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 70164 (69K) [text/html]
+Saving to: ‘1528-3577.00067’
+
+     0K .......... .......... .......... .......... .......... 72%  208K 0s
+    50K .......... ........                                   100% 14.1M=0.2s
+
+2017-01-30 19:18:47 (283 KB/s) - ‘1528-3577.00067’ saved [70164/70164]
+
+--2017-01-30 19:18:48--  http://doi.org/10.1111/insp.2002.3.issue-1
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/insp.2002.3.issue-1 [following]
+--2017-01-30 19:18:49--  http://doi.wiley.com/10.1111/insp.2002.3.issue-1
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/insp.2002.3.issue-1 [following]
+--2017-01-30 19:18:51--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/insp.2002.3.issue-1
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/insp.2002.3.issue-1/issuetoc [following]
+--2017-01-30 19:18:52--  http://onlinelibrary.wiley.com/doi/10.1111/insp.2002.3.issue-1/issuetoc
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘insp.2002.3.issue-1’
+
+     0K .......... .......... .......... .......... ..          155K=0.3s
+
+2017-01-30 19:18:53 (155 KB/s) - ‘insp.2002.3.issue-1’ saved [43501]
+
+--2017-01-30 19:18:54--  http://doi.org/10.1111/1528-3577.00076
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00076 [following]
+--2017-01-30 19:18:55--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00076
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 70370 (69K) [text/html]
+Saving to: ‘1528-3577.00076’
+
+     0K .......... .......... .......... .......... .......... 72%  207K 0s
+    50K .......... ........                                   100% 13.1M=0.2s
+
+2017-01-30 19:19:00 (282 KB/s) - ‘1528-3577.00076’ saved [70370/70370]
+
+--2017-01-30 19:19:01--  http://doi.org/10.1111/1528-3577.00078
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00078 [following]
+--2017-01-30 19:19:02--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00078
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71099 (69K) [text/html]
+Saving to: ‘1528-3577.00078’
+
+     0K .......... .......... .......... .......... .......... 72%  207K 0s
+    50K .......... .........                                  100% 10.9M=0.2s
+
+2017-01-30 19:19:07 (285 KB/s) - ‘1528-3577.00078’ saved [71099/71099]
+
+--2017-01-30 19:19:08--  http://doi.org/10.1111/1528-3577.00083
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00083 [following]
+--2017-01-30 19:19:09--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00083
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 78838 (77K) [text/html]
+Saving to: ‘1528-3577.00083’
+
+     0K .......... .......... .......... .......... .......... 64%  156K 0s
+    50K .......... .......... ......                          100% 19.9M=0.3s
+
+2017-01-30 19:19:23 (240 KB/s) - ‘1528-3577.00083’ saved [78838/78838]
+
+--2017-01-30 19:19:24--  http://doi.org/10.1111/1528-3577.00082
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00082 [following]
+--2017-01-30 19:19:25--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00082
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 80839 (79K) [text/html]
+Saving to: ‘1528-3577.00082’
+
+     0K .......... .......... .......... .......... .......... 63%  207K 0s
+    50K .......... .......... ........                        100% 8.63M=0.2s
+
+2017-01-30 19:19:31 (322 KB/s) - ‘1528-3577.00082’ saved [80839/80839]
+
+--2017-01-30 19:19:32--  http://doi.org/10.1111/1528-3577.00075
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00075 [following]
+--2017-01-30 19:19:34--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00075
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 69107 (67K) [text/html]
+Saving to: ‘1528-3577.00075’
+
+     0K .......... .......... .......... .......... .......... 74%  208K 0s
+    50K .......... .......                                    100% 13.9M=0.2s
+
+2017-01-30 19:19:38 (280 KB/s) - ‘1528-3577.00075’ saved [69107/69107]
+
+--2017-01-30 19:19:39--  http://doi.org/10.1111/1528-3577.00079
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00079 [following]
+--2017-01-30 19:19:40--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00079
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 70137 (68K) [text/html]
+Saving to: ‘1528-3577.00079’
+
+     0K .......... .......... .......... .......... .......... 72%  209K 0s
+    50K .......... ........                                   100% 16.3M=0.2s
+
+2017-01-30 19:19:43 (285 KB/s) - ‘1528-3577.00079’ saved [70137/70137]
+
+--2017-01-30 19:19:44--  http://doi.org/10.1111/1528-3577.00077
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00077 [following]
+--2017-01-30 19:19:45--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00077
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 69117 (67K) [text/html]
+Saving to: ‘1528-3577.00077’
+
+     0K .......... .......... .......... .......... .......... 74%  209K 0s
+    50K .......... .......                                    100% 16.8M=0.2s
+
+2017-01-30 19:19:49 (281 KB/s) - ‘1528-3577.00077’ saved [69117/69117]
+
+--2017-01-30 19:19:50--  http://doi.org/10.1111/1528-3577.00081
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00081 [following]
+--2017-01-30 19:19:51--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00081
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 74241 (73K) [text/html]
+Saving to: ‘1528-3577.00081’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ..                              100% 5.15M=0.2s
+
+2017-01-30 19:19:56 (297 KB/s) - ‘1528-3577.00081’ saved [74241/74241]
+
+--2017-01-30 19:19:57--  http://doi.org/10.1111/1528-3577.00080
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00080 [following]
+--2017-01-30 19:19:58--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00080
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71698 (70K) [text/html]
+Saving to: ‘1528-3577.00080’
+
+     0K .......... .......... .......... .......... .......... 71%  209K 0s
+    50K .......... ..........                                 100% 10.3M=0.2s
+
+2017-01-30 19:20:02 (291 KB/s) - ‘1528-3577.00080’ saved [71698/71698]
+
+--2017-01-30 19:20:03--  http://doi.org/10.1111/insp.2002.3.issue-2
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/insp.2002.3.issue-2 [following]
+--2017-01-30 19:20:04--  http://doi.wiley.com/10.1111/insp.2002.3.issue-2
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/insp.2002.3.issue-2 [following]
+--2017-01-30 19:20:06--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/insp.2002.3.issue-2
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/insp.2002.3.issue-2/issuetoc [following]
+--2017-01-30 19:20:07--  http://onlinelibrary.wiley.com/doi/10.1111/insp.2002.3.issue-2/issuetoc
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘insp.2002.3.issue-2’
+
+     0K .......... .......... .......... .......... ....        163K=0.3s
+
+2017-01-30 19:20:08 (163 KB/s) - ‘insp.2002.3.issue-2’ saved [45667]
+
+--2017-01-30 19:20:09--  http://doi.org/10.1111/1528-3577.00088
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00088 [following]
+--2017-01-30 19:20:10--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00088
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72422 (71K) [text/html]
+Saving to: ‘1528-3577.00088’
+
+     0K .......... .......... .......... .......... .......... 70%  206K 0s
+    50K .......... ..........                                 100% 16.1M=0.2s
+
+2017-01-30 19:20:13 (290 KB/s) - ‘1528-3577.00088’ saved [72422/72422]
+
+--2017-01-30 19:20:14--  http://doi.org/10.1111/1528-3577.00091
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00091 [following]
+--2017-01-30 19:20:16--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00091
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63885 (62K) [text/html]
+Saving to: ‘1528-3577.00091’
+
+     0K .......... .......... .......... .......... .......... 80%  209K 0s
+    50K .......... ..                                         100% 21.6M=0.2s
+
+2017-01-30 19:20:20 (260 KB/s) - ‘1528-3577.00091’ saved [63885/63885]
+
+--2017-01-30 19:20:21--  http://doi.org/10.1111/1528-3577.00092
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00092 [following]
+--2017-01-30 19:20:23--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00092
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64077 (63K) [text/html]
+Saving to: ‘1528-3577.00092’
+
+     0K .......... .......... .......... .......... .......... 79%  209K 0s
+    50K .......... ..                                         100% 15.3M=0.2s
+
+2017-01-30 19:20:26 (261 KB/s) - ‘1528-3577.00092’ saved [64077/64077]
+
+--2017-01-30 19:20:27--  http://doi.org/10.1111/1528-3577.00084
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00084 [following]
+--2017-01-30 19:20:28--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00084
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71538 (70K) [text/html]
+Saving to: ‘1528-3577.00084’
+
+     0K .......... .......... .......... .......... .......... 71%  309K 0s
+    50K .......... .........                                  100%  251K=0.2s
+
+2017-01-30 19:20:32 (290 KB/s) - ‘1528-3577.00084’ saved [71538/71538]
+
+--2017-01-30 19:20:33--  http://doi.org/10.1111/1528-3577.00089
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00089 [following]
+--2017-01-30 19:20:34--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00089
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 69831 (68K) [text/html]
+Saving to: ‘1528-3577.00089’
+
+     0K .......... .......... .......... .......... .......... 73%  209K 0s
+    50K .......... ........                                   100% 16.3M=0.2s
+
+2017-01-30 19:20:41 (284 KB/s) - ‘1528-3577.00089’ saved [69831/69831]
+
+--2017-01-30 19:20:42--  http://doi.org/10.1111/1528-3577.00086
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00086 [following]
+--2017-01-30 19:20:43--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00086
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71970 (70K) [text/html]
+Saving to: ‘1528-3577.00086’
+
+     0K .......... .......... .......... .......... .......... 71%  209K 0s
+    50K .......... ..........                                 100% 15.0M=0.2s
+
+2017-01-30 19:20:46 (292 KB/s) - ‘1528-3577.00086’ saved [71970/71970]
+
+--2017-01-30 19:20:47--  http://doi.org/10.1111/1528-3577.00085
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00085 [following]
+--2017-01-30 19:20:48--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00085
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 84657 (83K) [text/html]
+Saving to: ‘1528-3577.00085’
+
+     0K .......... .......... .......... .......... .......... 60%  308K 0s
+    50K .......... .......... .......... ..                   100%  407K=0.2s
+
+2017-01-30 19:20:53 (341 KB/s) - ‘1528-3577.00085’ saved [84657/84657]
+
+--2017-01-30 19:20:54--  http://doi.org/10.1111/1528-3577.00090
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00090 [following]
+--2017-01-30 19:20:55--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00090
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 86117 (84K) [text/html]
+Saving to: ‘1528-3577.00090’
+
+     0K .......... .......... .......... .......... .......... 59%  209K 0s
+    50K .......... .......... .......... ....                 100% 13.7M=0.2s
+
+2017-01-30 19:20:58 (348 KB/s) - ‘1528-3577.00090’ saved [86117/86117]
+
+--2017-01-30 19:20:59--  http://doi.org/10.1111/1528-3577.00087
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00087 [following]
+--2017-01-30 19:21:01--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00087
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71528 (70K) [text/html]
+Saving to: ‘1528-3577.00087’
+
+     0K .......... .......... .......... .......... .......... 71%  209K 0s
+    50K .......... .........                                  100% 18.2M=0.2s
+
+2017-01-30 19:21:05 (290 KB/s) - ‘1528-3577.00087’ saved [71528/71528]
+
+--2017-01-30 19:21:06--  http://doi.org/10.1111/1528-3577.t01-2-00101
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1528-3577.t01-2-00101 [following]
+--2017-01-30 19:21:07--  http://doi.wiley.com/10.1111/1528-3577.t01-2-00101
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1528-3577.t01-2-00101 [following]
+--2017-01-30 19:21:08--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1528-3577.t01-2-00101
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-30 19:21:08 ERROR 404: Not Found.
+
+--2017-01-30 19:21:09--  http://doi.org/10.1111/insp.2002.3.issue-3
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/insp.2002.3.issue-3 [following]
+--2017-01-30 19:21:10--  http://doi.wiley.com/10.1111/insp.2002.3.issue-3
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/insp.2002.3.issue-3 [following]
+--2017-01-30 19:21:12--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/insp.2002.3.issue-3
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/insp.2002.3.issue-3/issuetoc [following]
+--2017-01-30 19:21:13--  http://onlinelibrary.wiley.com/doi/10.1111/insp.2002.3.issue-3/issuetoc
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘insp.2002.3.issue-3’
+
+     0K .......... .......... .......... .......... .           159K=0.3s
+
+2017-01-30 19:21:14 (159 KB/s) - ‘insp.2002.3.issue-3’ saved [42807]
+
+--2017-01-30 19:21:15--  http://doi.org/10.1111/1528-3577.00101
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00101 [following]
+--2017-01-30 19:21:16--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00101
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63907 (62K) [text/html]
+Saving to: ‘1528-3577.00101’
+
+     0K .......... .......... .......... .......... .......... 80%  209K 0s
+    50K .......... ..                                         100% 16.8M=0.2s
+
+2017-01-30 19:21:36 (260 KB/s) - ‘1528-3577.00101’ saved [63907/63907]
+
+--2017-01-30 19:21:37--  http://doi.org/10.1111/1528-3577.00098
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00098 [following]
+--2017-01-30 19:21:38--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00098
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68473 (67K) [text/html]
+Saving to: ‘1528-3577.00098’
+
+     0K .......... .......... .......... .......... .......... 74%  209K 0s
+    50K .......... ......                                     100% 16.4M=0.2s
+
+2017-01-30 19:21:43 (278 KB/s) - ‘1528-3577.00098’ saved [68473/68473]
+
+--2017-01-30 19:21:44--  http://doi.org/10.1111/1528-3577.00100
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00100 [following]
+--2017-01-30 19:21:45--  https://academic.oup.com/isp/article-lookup/doi/10.1111/1528-3577.00100
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 78831 (77K) [text/html]
+Saving to: ‘1528-3577.00100’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... ......                          100% 10.4M=0.2s
+
+2017-01-30 19:21:56 (318 KB/s) - ‘1528-3577.00100’ saved [78831/78831]
+
+FINISHED --2017-01-30 19:21:56--
+Total wall clock time: 11m 37s
+Downloaded: 99 files, 6.4M in 33s (200 KB/s)

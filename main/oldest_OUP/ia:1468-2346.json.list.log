@@ -1,0 +1,2206 @@
+--2017-01-28 18:13:17--  http://doi.org/10.1111/1468-2346.00006
+Resolving doi.org (doi.org)... 38.100.138.162, 95.138.171.129, 208.254.38.90, ...
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00006 [following]
+--2017-01-28 18:13:18--  http://doi.wiley.com/10.1111/1468-2346.00006
+Resolving doi.wiley.com (doi.wiley.com)... 199.171.202.200
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00006 [following]
+--2017-01-28 18:13:20--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00006
+Resolving onlinelibrary.wiley.com (onlinelibrary.wiley.com)... 199.171.202.195
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00006/abstract;jsessionid=F9B1DB57110484FDC11F98942EA50DAB.f02t03?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:13:21--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00006/abstract;jsessionid=F9B1DB57110484FDC11F98942EA50DAB.f02t03?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 43414 (42K) [text/html]
+Saving to: ‘1468-2346.00006’
+
+     0K .......... .......... .......... .......... ..        100%  155K=0.3s
+
+2017-01-28 18:13:22 (155 KB/s) - ‘1468-2346.00006’ saved [43414/43414]
+
+--2017-01-28 18:13:23--  http://doi.org/10.1111/1468-2346.00003
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00003 [following]
+--2017-01-28 18:13:24--  http://doi.wiley.com/10.1111/1468-2346.00003
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00003 [following]
+--2017-01-28 18:13:25--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00003
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00003/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:13:26--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00003/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 40315 (39K) [text/html]
+Saving to: ‘1468-2346.00003’
+
+     0K .......... .......... .......... .........            100%  143K=0.3s
+
+2017-01-28 18:13:27 (143 KB/s) - ‘1468-2346.00003’ saved [40315/40315]
+
+--2017-01-28 18:13:28--  http://doi.org/10.1111/1468-2346.00005
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00005 [following]
+--2017-01-28 18:13:29--  http://doi.wiley.com/10.1111/1468-2346.00005
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00005 [following]
+--2017-01-28 18:13:31--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00005
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00005/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:13:32--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00005/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 41160 (40K) [text/html]
+Saving to: ‘1468-2346.00005’
+
+     0K .......... .......... .......... ..........           100%  155K=0.3s
+
+2017-01-28 18:13:33 (155 KB/s) - ‘1468-2346.00005’ saved [41160/41160]
+
+--2017-01-28 18:13:34--  http://doi.org/10.1111/1468-2346.00009
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00009 [following]
+--2017-01-28 18:13:35--  http://doi.wiley.com/10.1111/1468-2346.00009
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00009 [following]
+--2017-01-28 18:13:36--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00009
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00009/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:13:37--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00009/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 41035 (40K) [text/html]
+Saving to: ‘1468-2346.00009’
+
+     0K .......... .......... .......... ..........           100%  146K=0.3s
+
+2017-01-28 18:13:38 (146 KB/s) - ‘1468-2346.00009’ saved [41035/41035]
+
+--2017-01-28 18:13:39--  http://doi.org/10.1111/1468-2346.00010
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00010 [following]
+--2017-01-28 18:13:40--  http://doi.wiley.com/10.1111/1468-2346.00010
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00010 [following]
+--2017-01-28 18:13:41--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00010
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00010/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:13:43--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00010/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 42815 (42K) [text/html]
+Saving to: ‘1468-2346.00010’
+
+     0K .......... .......... .......... .......... .         100%  154K=0.3s
+
+2017-01-28 18:13:43 (154 KB/s) - ‘1468-2346.00010’ saved [42815/42815]
+
+--2017-01-28 18:13:44--  http://doi.org/10.1111/1468-2346.00007
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00007 [following]
+--2017-01-28 18:13:45--  http://doi.wiley.com/10.1111/1468-2346.00007
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00007 [following]
+--2017-01-28 18:13:47--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00007
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00007/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:13:48--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00007/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 42121 (41K) [text/html]
+Saving to: ‘1468-2346.00007’
+
+     0K .......... .......... .......... .......... .         100%  158K=0.3s
+
+2017-01-28 18:13:49 (158 KB/s) - ‘1468-2346.00007’ saved [42121/42121]
+
+--2017-01-28 18:13:50--  http://doi.org/10.1111/1468-2346.00004
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00004 [following]
+--2017-01-28 18:13:51--  http://doi.wiley.com/10.1111/1468-2346.00004
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00004 [following]
+--2017-01-28 18:13:52--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00004
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00004/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:13:53--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00004/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 38999 (38K) [text/html]
+Saving to: ‘1468-2346.00004’
+
+     0K .......... .......... .......... ........             100%  144K=0.3s
+
+2017-01-28 18:13:54 (144 KB/s) - ‘1468-2346.00004’ saved [38999/38999]
+
+--2017-01-28 18:13:55--  http://doi.org/10.1111/1468-2346.00008
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00008 [following]
+--2017-01-28 18:13:56--  http://doi.wiley.com/10.1111/1468-2346.00008
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00008 [following]
+--2017-01-28 18:13:57--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00008
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00008/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:13:59--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00008/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 40902 (40K) [text/html]
+Saving to: ‘1468-2346.00008’
+
+     0K .......... .......... .......... .........            100%  147K=0.3s
+
+2017-01-28 18:14:00 (147 KB/s) - ‘1468-2346.00008’ saved [40902/40902]
+
+--2017-01-28 18:14:01--  http://doi.org/10.1111/1468-2346.00011
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00011 [following]
+--2017-01-28 18:14:02--  http://doi.wiley.com/10.1111/1468-2346.00011
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00011 [following]
+--2017-01-28 18:14:03--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00011
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00011/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:14:04--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00011/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 40820 (40K) [text/html]
+Saving to: ‘1468-2346.00011’
+
+     0K .......... .......... .......... .........            100%  147K=0.3s
+
+2017-01-28 18:14:05 (147 KB/s) - ‘1468-2346.00011’ saved [40820/40820]
+
+--2017-01-28 18:14:06--  http://doi.org/10.1111/1468-2346.00001
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00001 [following]
+--2017-01-28 18:14:07--  http://doi.wiley.com/10.1111/1468-2346.00001
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00001 [following]
+--2017-01-28 18:14:08--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00001
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00001/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:14:09--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00001/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 47896 (47K) [text/html]
+Saving to: ‘1468-2346.00001’
+
+     0K .......... .......... .......... .......... ......    100%  180K=0.3s
+
+2017-01-28 18:14:10 (180 KB/s) - ‘1468-2346.00001’ saved [47896/47896]
+
+--2017-01-28 18:14:11--  http://doi.org/10.1111/1468-2346.00002
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00002 [following]
+--2017-01-28 18:14:12--  http://doi.wiley.com/10.1111/1468-2346.00002
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00002 [following]
+--2017-01-28 18:14:14--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00002
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00002/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:14:15--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00002/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 42309 (41K) [text/html]
+Saving to: ‘1468-2346.00002’
+
+     0K .......... .......... .......... .......... .         100%  152K=0.3s
+
+2017-01-28 18:14:16 (152 KB/s) - ‘1468-2346.00002’ saved [42309/42309]
+
+--2017-01-28 18:14:17--  http://doi.org/10.1111/1468-2346.00012
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00012 [following]
+--2017-01-28 18:14:18--  http://doi.wiley.com/10.1111/1468-2346.00012
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00012 [following]
+--2017-01-28 18:14:19--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00012
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00012/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:14:20--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00012/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 36711 (36K) [text/html]
+Saving to: ‘1468-2346.00012’
+
+     0K .......... .......... .......... .....                100%  131K=0.3s
+
+2017-01-28 18:14:21 (131 KB/s) - ‘1468-2346.00012’ saved [36711/36711]
+
+--2017-01-28 18:14:22--  http://doi.org/10.1111/1468-2346.00014
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00014 [following]
+--2017-01-28 18:14:23--  http://doi.wiley.com/10.1111/1468-2346.00014
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00014 [following]
+--2017-01-28 18:14:24--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00014
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00014/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:14:26--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00014/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 35851 (35K) [text/html]
+Saving to: ‘1468-2346.00014’
+
+     0K .......... .......... .......... .....                100%  135K=0.3s
+
+2017-01-28 18:14:26 (135 KB/s) - ‘1468-2346.00014’ saved [35851/35851]
+
+--2017-01-28 18:14:27--  http://doi.org/10.1111/1468-2346.00013
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00013 [following]
+--2017-01-28 18:14:29--  http://doi.wiley.com/10.1111/1468-2346.00013
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00013 [following]
+--2017-01-28 18:14:30--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00013
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00013/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:14:31--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00013/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 36653 (36K) [text/html]
+Saving to: ‘1468-2346.00013’
+
+     0K .......... .......... .......... .....                100%  132K=0.3s
+
+2017-01-28 18:14:32 (132 KB/s) - ‘1468-2346.00013’ saved [36653/36653]
+
+--2017-01-28 18:14:33--  http://doi.org/10.1111/1468-2346.00018
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00018 [following]
+--2017-01-28 18:14:34--  http://doi.wiley.com/10.1111/1468-2346.00018
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00018 [following]
+--2017-01-28 18:14:35--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00018
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00018/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:14:36--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00018/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 47175 (46K) [text/html]
+Saving to: ‘1468-2346.00018’
+
+     0K .......... .......... .......... .......... ......    100%  176K=0.3s
+
+2017-01-28 18:14:37 (176 KB/s) - ‘1468-2346.00018’ saved [47175/47175]
+
+--2017-01-28 18:14:38--  http://doi.org/10.1111/1468-2346.00024
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00024 [following]
+--2017-01-28 18:14:39--  http://doi.wiley.com/10.1111/1468-2346.00024
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00024 [following]
+--2017-01-28 18:14:40--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00024
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00024/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:14:42--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00024/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 44381 (43K) [text/html]
+Saving to: ‘1468-2346.00024’
+
+     0K .......... .......... .......... .......... ...       100%  159K=0.3s
+
+2017-01-28 18:14:42 (159 KB/s) - ‘1468-2346.00024’ saved [44381/44381]
+
+--2017-01-28 18:14:43--  http://doi.org/10.1111/1468-2346.00019
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00019 [following]
+--2017-01-28 18:14:45--  http://doi.wiley.com/10.1111/1468-2346.00019
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00019 [following]
+--2017-01-28 18:14:46--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00019
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00019/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:14:47--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00019/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 41890 (41K) [text/html]
+Saving to: ‘1468-2346.00019’
+
+     0K .......... .......... .......... ..........           100%  150K=0.3s
+
+2017-01-28 18:14:48 (150 KB/s) - ‘1468-2346.00019’ saved [41890/41890]
+
+--2017-01-28 18:14:49--  http://doi.org/10.1111/1468-2346.00015
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00015 [following]
+--2017-01-28 18:14:50--  http://doi.wiley.com/10.1111/1468-2346.00015
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00015 [following]
+--2017-01-28 18:14:51--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00015
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00015/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:14:52--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00015/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 39444 (39K) [text/html]
+Saving to: ‘1468-2346.00015’
+
+     0K .......... .......... .......... ........             100%  138K=0.3s
+
+2017-01-28 18:14:53 (138 KB/s) - ‘1468-2346.00015’ saved [39444/39444]
+
+--2017-01-28 18:14:54--  http://doi.org/10.1111/1468-2346.00016
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00016 [following]
+--2017-01-28 18:14:55--  http://doi.wiley.com/10.1111/1468-2346.00016
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00016 [following]
+--2017-01-28 18:14:57--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00016
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00016/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:14:58--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00016/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50498 (49K) [text/html]
+Saving to: ‘1468-2346.00016’
+
+     0K .......... .......... .......... .......... ......... 100%  180K=0.3s
+
+2017-01-28 18:14:58 (180 KB/s) - ‘1468-2346.00016’ saved [50498/50498]
+
+--2017-01-28 18:14:59--  http://doi.org/10.1111/1468-2346.00022
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00022 [following]
+--2017-01-28 18:15:01--  http://doi.wiley.com/10.1111/1468-2346.00022
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00022 [following]
+--2017-01-28 18:15:02--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00022
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00022/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:15:03--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00022/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 38474 (38K) [text/html]
+Saving to: ‘1468-2346.00022’
+
+     0K .......... .......... .......... .......              100%  138K=0.3s
+
+2017-01-28 18:15:04 (138 KB/s) - ‘1468-2346.00022’ saved [38474/38474]
+
+--2017-01-28 18:15:05--  http://doi.org/10.1111/1468-2346.00017
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00017 [following]
+--2017-01-28 18:15:06--  http://doi.wiley.com/10.1111/1468-2346.00017
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00017 [following]
+--2017-01-28 18:15:07--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00017
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00017/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:15:08--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00017/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 49018 (48K) [text/html]
+Saving to: ‘1468-2346.00017’
+
+     0K .......... .......... .......... .......... .......   100%  184K=0.3s
+
+2017-01-28 18:15:09 (184 KB/s) - ‘1468-2346.00017’ saved [49018/49018]
+
+--2017-01-28 18:15:10--  http://doi.org/10.1111/1468-2346.00023
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00023 [following]
+--2017-01-28 18:15:11--  http://doi.wiley.com/10.1111/1468-2346.00023
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00023 [following]
+--2017-01-28 18:15:13--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00023
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00023/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:15:14--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00023/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 42256 (41K) [text/html]
+Saving to: ‘1468-2346.00023’
+
+     0K .......... .......... .......... .......... .         100%  159K=0.3s
+
+2017-01-28 18:15:15 (159 KB/s) - ‘1468-2346.00023’ saved [42256/42256]
+
+--2017-01-28 18:15:16--  http://doi.org/10.1111/1468-2346.00025
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00025 [following]
+--2017-01-28 18:15:17--  http://doi.wiley.com/10.1111/1468-2346.00025
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00025 [following]
+--2017-01-28 18:15:18--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00025
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00025/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:15:20--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00025/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 38495 (38K) [text/html]
+Saving to: ‘1468-2346.00025’
+
+     0K .......... .......... .......... .......              100%  143K=0.3s
+
+2017-01-28 18:15:20 (143 KB/s) - ‘1468-2346.00025’ saved [38495/38495]
+
+--2017-01-28 18:15:21--  http://doi.org/10.1111/1468-2346.00021
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00021 [following]
+--2017-01-28 18:15:22--  http://doi.wiley.com/10.1111/1468-2346.00021
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00021 [following]
+--2017-01-28 18:15:24--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00021
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00021/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:15:25--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00021/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 42959 (42K) [text/html]
+Saving to: ‘1468-2346.00021’
+
+     0K .......... .......... .......... .......... .         100%  162K=0.3s
+
+2017-01-28 18:15:26 (162 KB/s) - ‘1468-2346.00021’ saved [42959/42959]
+
+--2017-01-28 18:15:27--  http://doi.org/10.1111/1468-2346.00020
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00020 [following]
+--2017-01-28 18:15:28--  http://doi.wiley.com/10.1111/1468-2346.00020
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00020 [following]
+--2017-01-28 18:15:29--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00020
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00020/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:15:30--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00020/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 44599 (44K) [text/html]
+Saving to: ‘1468-2346.00020’
+
+     0K .......... .......... .......... .......... ...       100%  168K=0.3s
+
+2017-01-28 18:15:31 (168 KB/s) - ‘1468-2346.00020’ saved [44599/44599]
+
+--2017-01-28 18:15:32--  http://doi.org/10.1111/1468-2346.00027
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00027 [following]
+--2017-01-28 18:15:33--  http://doi.wiley.com/10.1111/1468-2346.00027
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00027 [following]
+--2017-01-28 18:15:34--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00027
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00027/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:15:36--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00027/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 36788 (36K) [text/html]
+Saving to: ‘1468-2346.00027’
+
+     0K .......... .......... .......... .....                100%  139K=0.3s
+
+2017-01-28 18:15:36 (139 KB/s) - ‘1468-2346.00027’ saved [36788/36788]
+
+--2017-01-28 18:15:37--  http://doi.org/10.1111/1468-2346.00026
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00026 [following]
+--2017-01-28 18:15:39--  http://doi.wiley.com/10.1111/1468-2346.00026
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00026 [following]
+--2017-01-28 18:15:40--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00026
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00026/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:15:41--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00026/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 36776 (36K) [text/html]
+Saving to: ‘1468-2346.00026’
+
+     0K .......... .......... .......... .....                100%  131K=0.3s
+
+2017-01-28 18:15:42 (131 KB/s) - ‘1468-2346.00026’ saved [36776/36776]
+
+--2017-01-28 18:15:43--  http://doi.org/10.1111/1468-2346.00028
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00028 [following]
+--2017-01-28 18:15:44--  http://doi.wiley.com/10.1111/1468-2346.00028
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00028 [following]
+--2017-01-28 18:15:45--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00028
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00028/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:15:46--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00028/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 35847 (35K) [text/html]
+Saving to: ‘1468-2346.00028’
+
+     0K .......... .......... .......... .....                100%  132K=0.3s
+
+2017-01-28 18:15:47 (132 KB/s) - ‘1468-2346.00028’ saved [35847/35847]
+
+--2017-01-28 18:15:48--  http://doi.org/10.1111/1468-2346.00037
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00037 [following]
+--2017-01-28 18:15:49--  http://doi.wiley.com/10.1111/1468-2346.00037
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00037 [following]
+--2017-01-28 18:15:50--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00037
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00037/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:15:52--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00037/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 42100 (41K) [text/html]
+Saving to: ‘1468-2346.00037’
+
+     0K .......... .......... .......... .......... .         100%  150K=0.3s
+
+2017-01-28 18:15:52 (150 KB/s) - ‘1468-2346.00037’ saved [42100/42100]
+
+--2017-01-28 18:15:53--  http://doi.org/10.1111/1468-2346.00035
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00035 [following]
+--2017-01-28 18:15:55--  http://doi.wiley.com/10.1111/1468-2346.00035
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00035 [following]
+--2017-01-28 18:15:56--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00035
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00035/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:15:57--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00035/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 39528 (39K) [text/html]
+Saving to: ‘1468-2346.00035’
+
+     0K .......... .......... .......... ........             100%  142K=0.3s
+
+2017-01-28 18:15:58 (142 KB/s) - ‘1468-2346.00035’ saved [39528/39528]
+
+--2017-01-28 18:15:59--  http://doi.org/10.1111/1468-2346.00031
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00031 [following]
+--2017-01-28 18:16:00--  http://doi.wiley.com/10.1111/1468-2346.00031
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00031 [following]
+--2017-01-28 18:16:01--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00031
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00031/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:16:02--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00031/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 43327 (42K) [text/html]
+Saving to: ‘1468-2346.00031’
+
+     0K .......... .......... .......... .......... ..        100%  155K=0.3s
+
+2017-01-28 18:16:03 (155 KB/s) - ‘1468-2346.00031’ saved [43327/43327]
+
+--2017-01-28 18:16:04--  http://doi.org/10.1111/1468-2346.00036
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00036 [following]
+--2017-01-28 18:16:06--  http://doi.wiley.com/10.1111/1468-2346.00036
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00036 [following]
+--2017-01-28 18:16:07--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00036
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00036/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:16:08--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00036/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50451 (49K) [text/html]
+Saving to: ‘1468-2346.00036’
+
+     0K .......... .......... .......... .......... ......... 100%  180K=0.3s
+
+2017-01-28 18:16:09 (180 KB/s) - ‘1468-2346.00036’ saved [50451/50451]
+
+--2017-01-28 18:16:10--  http://doi.org/10.1111/1468-2346.00032
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00032 [following]
+--2017-01-28 18:16:11--  http://doi.wiley.com/10.1111/1468-2346.00032
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00032 [following]
+--2017-01-28 18:16:12--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00032
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00032/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:16:13--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00032/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 42037 (41K) [text/html]
+Saving to: ‘1468-2346.00032’
+
+     0K .......... .......... .......... .......... .         100%  150K=0.3s
+
+2017-01-28 18:16:14 (150 KB/s) - ‘1468-2346.00032’ saved [42037/42037]
+
+--2017-01-28 18:16:15--  http://doi.org/10.1111/1468-2346.00034
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00034 [following]
+--2017-01-28 18:16:16--  http://doi.wiley.com/10.1111/1468-2346.00034
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00034 [following]
+--2017-01-28 18:16:18--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00034
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00034/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:16:19--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00034/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 41451 (40K) [text/html]
+Saving to: ‘1468-2346.00034’
+
+     0K .......... .......... .......... ..........           100%  149K=0.3s
+
+2017-01-28 18:16:20 (149 KB/s) - ‘1468-2346.00034’ saved [41451/41451]
+
+--2017-01-28 18:16:21--  http://doi.org/10.1111/1468-2346.00033
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00033 [following]
+--2017-01-28 18:16:22--  http://doi.wiley.com/10.1111/1468-2346.00033
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00033 [following]
+--2017-01-28 18:16:23--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00033
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00033/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:16:24--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00033/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 40993 (40K) [text/html]
+Saving to: ‘1468-2346.00033’
+
+     0K .......... .......... .......... ..........           100%  155K=0.3s
+
+2017-01-28 18:16:25 (155 KB/s) - ‘1468-2346.00033’ saved [40993/40993]
+
+--2017-01-28 18:16:26--  http://doi.org/10.1111/1468-2346.00039
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00039 [following]
+--2017-01-28 18:16:27--  http://doi.wiley.com/10.1111/1468-2346.00039
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00039 [following]
+--2017-01-28 18:16:28--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00039
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00039/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:16:30--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00039/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 36774 (36K) [text/html]
+Saving to: ‘1468-2346.00039’
+
+     0K .......... .......... .......... .....                100%  132K=0.3s
+
+2017-01-28 18:16:30 (132 KB/s) - ‘1468-2346.00039’ saved [36774/36774]
+
+--2017-01-28 18:16:31--  http://doi.org/10.1111/1468-2346.00040
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00040 [following]
+--2017-01-28 18:16:33--  http://doi.wiley.com/10.1111/1468-2346.00040
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00040 [following]
+--2017-01-28 18:16:34--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00040
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00040/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:16:35--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00040/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 35842 (35K) [text/html]
+Saving to: ‘1468-2346.00040’
+
+     0K .......... .......... .......... .....                100%  134K=0.3s
+
+2017-01-28 18:16:36 (134 KB/s) - ‘1468-2346.00040’ saved [35842/35842]
+
+--2017-01-28 18:16:37--  http://doi.org/10.1111/1468-2346.00038
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00038 [following]
+--2017-01-28 18:16:38--  http://doi.wiley.com/10.1111/1468-2346.00038
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00038 [following]
+--2017-01-28 18:16:39--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00038
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00038/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:16:40--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00038/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 37550 (37K) [text/html]
+Saving to: ‘1468-2346.00038’
+
+     0K .......... .......... .......... ......               100%  139K=0.3s
+
+2017-01-28 18:16:41 (139 KB/s) - ‘1468-2346.00038’ saved [37550/37550]
+
+--2017-01-28 18:16:42--  http://doi.org/10.1111/1468-2346.00030
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00030 [following]
+--2017-01-28 18:16:43--  http://doi.wiley.com/10.1111/1468-2346.00030
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00030 [following]
+--2017-01-28 18:16:44--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00030
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00030/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:16:46--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00030/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 36525 (36K) [text/html]
+Saving to: ‘1468-2346.00030’
+
+     0K .......... .......... .......... .....                100%  132K=0.3s
+
+2017-01-28 18:16:46 (132 KB/s) - ‘1468-2346.00030’ saved [36525/36525]
+
+--2017-01-28 18:16:47--  http://doi.org/10.1111/1468-2346.00029
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00029 [following]
+--2017-01-28 18:16:49--  http://doi.wiley.com/10.1111/1468-2346.00029
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00029 [following]
+--2017-01-28 18:16:50--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00029
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00029/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:16:51--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00029/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 35571 (35K) [text/html]
+Saving to: ‘1468-2346.00029’
+
+     0K .......... .......... .......... ....                 100%  127K=0.3s
+
+2017-01-28 18:16:52 (127 KB/s) - ‘1468-2346.00029’ saved [35571/35571]
+
+--2017-01-28 18:16:53--  http://doi.org/10.1111/1468-2346.00052
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00052 [following]
+--2017-01-28 18:16:54--  http://doi.wiley.com/10.1111/1468-2346.00052
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00052 [following]
+--2017-01-28 18:16:55--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00052
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00052/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:16:56--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00052/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 38781 (38K) [text/html]
+Saving to: ‘1468-2346.00052’
+
+     0K .......... .......... .......... .......              100%  146K=0.3s
+
+2017-01-28 18:16:57 (146 KB/s) - ‘1468-2346.00052’ saved [38781/38781]
+
+--2017-01-28 18:16:58--  http://doi.org/10.1111/1468-2346.00050
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00050 [following]
+--2017-01-28 18:16:59--  http://doi.wiley.com/10.1111/1468-2346.00050
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00050 [following]
+--2017-01-28 18:17:00--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00050
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00050/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:17:02--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00050/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 38987 (38K) [text/html]
+Saving to: ‘1468-2346.00050’
+
+     0K .......... .......... .......... ........             100%  140K=0.3s
+
+2017-01-28 18:17:03 (140 KB/s) - ‘1468-2346.00050’ saved [38987/38987]
+
+--2017-01-28 18:17:04--  http://doi.org/10.1111/1468-2346.00049
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00049 [following]
+--2017-01-28 18:17:05--  http://doi.wiley.com/10.1111/1468-2346.00049
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00049 [following]
+--2017-01-28 18:17:06--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00049
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00049/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:17:07--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00049/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 38824 (38K) [text/html]
+Saving to: ‘1468-2346.00049’
+
+     0K .......... .......... .......... .......              100%  138K=0.3s
+
+2017-01-28 18:17:08 (138 KB/s) - ‘1468-2346.00049’ saved [38824/38824]
+
+--2017-01-28 18:17:09--  http://doi.org/10.1111/1468-2346.00046
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00046 [following]
+--2017-01-28 18:17:10--  http://doi.wiley.com/10.1111/1468-2346.00046
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00046 [following]
+--2017-01-28 18:17:11--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00046
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00046/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:17:13--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00046/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 40145 (39K) [text/html]
+Saving to: ‘1468-2346.00046’
+
+     0K .......... .......... .......... .........            100%  144K=0.3s
+
+2017-01-28 18:17:14 (144 KB/s) - ‘1468-2346.00046’ saved [40145/40145]
+
+--2017-01-28 18:17:15--  http://doi.org/10.1111/1468-2346.00045
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00045 [following]
+--2017-01-28 18:17:16--  http://doi.wiley.com/10.1111/1468-2346.00045
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00045 [following]
+--2017-01-28 18:17:17--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00045
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00045/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:17:18--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00045/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 41192 (40K) [text/html]
+Saving to: ‘1468-2346.00045’
+
+     0K .......... .......... .......... ..........           100% 73.5K=0.5s
+
+2017-01-28 18:17:19 (73.5 KB/s) - ‘1468-2346.00045’ saved [41192/41192]
+
+--2017-01-28 18:17:20--  http://doi.org/10.1111/1468-2346.00044
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00044 [following]
+--2017-01-28 18:17:22--  http://doi.wiley.com/10.1111/1468-2346.00044
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00044 [following]
+--2017-01-28 18:17:23--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00044
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00044/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:17:24--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00044/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 39424 (38K) [text/html]
+Saving to: ‘1468-2346.00044’
+
+     0K .......... .......... .......... ........             100%  138K=0.3s
+
+2017-01-28 18:17:25 (138 KB/s) - ‘1468-2346.00044’ saved [39424/39424]
+
+--2017-01-28 18:17:26--  http://doi.org/10.1111/1468-2346.00051
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00051 [following]
+--2017-01-28 18:17:27--  http://doi.wiley.com/10.1111/1468-2346.00051
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00051 [following]
+--2017-01-28 18:17:28--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00051
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00051/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:17:29--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00051/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 40135 (39K) [text/html]
+Saving to: ‘1468-2346.00051’
+
+     0K .......... .......... .......... .........            100%  143K=0.3s
+
+2017-01-28 18:17:30 (143 KB/s) - ‘1468-2346.00051’ saved [40135/40135]
+
+--2017-01-28 18:17:31--  http://doi.org/10.1111/1468-2346.00043
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00043 [following]
+--2017-01-28 18:17:32--  http://doi.wiley.com/10.1111/1468-2346.00043
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00043 [following]
+--2017-01-28 18:17:34--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00043
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00043/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:17:35--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00043/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 39838 (39K) [text/html]
+Saving to: ‘1468-2346.00043’
+
+     0K .......... .......... .......... ........             100%  142K=0.3s
+
+2017-01-28 18:17:36 (142 KB/s) - ‘1468-2346.00043’ saved [39838/39838]
+
+--2017-01-28 18:17:37--  http://doi.org/10.1111/1468-2346.00048
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00048 [following]
+--2017-01-28 18:17:38--  http://doi.wiley.com/10.1111/1468-2346.00048
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00048 [following]
+--2017-01-28 18:17:39--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00048
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00048/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:17:40--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00048/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50566 (49K) [text/html]
+Saving to: ‘1468-2346.00048’
+
+     0K .......... .......... .......... .......... ......... 100%  135K=0.4s
+
+2017-01-28 18:17:41 (135 KB/s) - ‘1468-2346.00048’ saved [50566/50566]
+
+--2017-01-28 18:17:42--  http://doi.org/10.1111/1468-2346.00047
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00047 [following]
+--2017-01-28 18:17:43--  http://doi.wiley.com/10.1111/1468-2346.00047
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00047 [following]
+--2017-01-28 18:17:44--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00047
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00047/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:17:46--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00047/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 43371 (42K) [text/html]
+Saving to: ‘1468-2346.00047’
+
+     0K .......... .......... .......... .......... ..        100%  156K=0.3s
+
+2017-01-28 18:17:46 (156 KB/s) - ‘1468-2346.00047’ saved [43371/43371]
+
+--2017-01-28 18:17:47--  http://doi.org/10.1111/1468-2346.00055
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00055 [following]
+--2017-01-28 18:17:49--  http://doi.wiley.com/10.1111/1468-2346.00055
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00055 [following]
+--2017-01-28 18:17:50--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00055
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00055/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:17:51--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00055/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 36795 (36K) [text/html]
+Saving to: ‘1468-2346.00055’
+
+     0K .......... .......... .......... .....                100%  132K=0.3s
+
+2017-01-28 18:17:52 (132 KB/s) - ‘1468-2346.00055’ saved [36795/36795]
+
+--2017-01-28 18:17:53--  http://doi.org/10.1111/1468-2346.00054
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00054 [following]
+--2017-01-28 18:17:54--  http://doi.wiley.com/10.1111/1468-2346.00054
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00054 [following]
+--2017-01-28 18:17:55--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00054
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00054/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:17:57--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00054/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 36798 (36K) [text/html]
+Saving to: ‘1468-2346.00054’
+
+     0K .......... .......... .......... .....                100%  130K=0.3s
+
+2017-01-28 18:17:57 (130 KB/s) - ‘1468-2346.00054’ saved [36798/36798]
+
+--2017-01-28 18:17:58--  http://doi.org/10.1111/1468-2346.00042
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00042 [following]
+--2017-01-28 18:18:00--  http://doi.wiley.com/10.1111/1468-2346.00042
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00042 [following]
+--2017-01-28 18:18:01--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00042
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00042/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:18:02--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00042/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 36485 (36K) [text/html]
+Saving to: ‘1468-2346.00042’
+
+     0K .......... .......... .......... .....                100%  136K=0.3s
+
+2017-01-28 18:18:03 (136 KB/s) - ‘1468-2346.00042’ saved [36485/36485]
+
+--2017-01-28 18:18:04--  http://doi.org/10.1111/1468-2346.00053
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00053 [following]
+--2017-01-28 18:18:05--  http://doi.wiley.com/10.1111/1468-2346.00053
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00053 [following]
+--2017-01-28 18:18:06--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00053
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00053/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:18:07--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00053/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 46132 (45K) [text/html]
+Saving to: ‘1468-2346.00053’
+
+     0K .......... .......... .......... .......... .....     100%  158K=0.3s
+
+2017-01-28 18:18:08 (158 KB/s) - ‘1468-2346.00053’ saved [46132/46132]
+
+--2017-01-28 18:18:09--  http://doi.org/10.1111/1468-2346.00041
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00041 [following]
+--2017-01-28 18:18:10--  http://doi.wiley.com/10.1111/1468-2346.00041
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00041 [following]
+--2017-01-28 18:18:11--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00041
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00041/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:18:13--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00041/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 35613 (35K) [text/html]
+Saving to: ‘1468-2346.00041’
+
+     0K .......... .......... .......... ....                 100%  133K=0.3s
+
+2017-01-28 18:18:13 (133 KB/s) - ‘1468-2346.00041’ saved [35613/35613]
+
+--2017-01-28 18:18:14--  http://doi.org/10.1111/1468-2346.00056
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00056 [following]
+--2017-01-28 18:18:16--  http://doi.wiley.com/10.1111/1468-2346.00056
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00056 [following]
+--2017-01-28 18:18:17--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00056
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00056/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:18:18--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00056/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 36127 (35K) [text/html]
+Saving to: ‘1468-2346.00056’
+
+     0K .......... .......... .......... .....                100%  137K=0.3s
+
+2017-01-28 18:18:19 (137 KB/s) - ‘1468-2346.00056’ saved [36127/36127]
+
+--2017-01-28 18:18:20--  http://doi.org/10.1111/1468-2346.00058
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00058 [following]
+--2017-01-28 18:18:21--  http://doi.wiley.com/10.1111/1468-2346.00058
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00058 [following]
+--2017-01-28 18:18:22--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00058
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00058/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:18:23--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00058/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 44651 (44K) [text/html]
+Saving to: ‘1468-2346.00058’
+
+     0K .......... .......... .......... .......... ...       100%  165K=0.3s
+
+2017-01-28 18:18:24 (165 KB/s) - ‘1468-2346.00058’ saved [44651/44651]
+
+--2017-01-28 18:18:25--  http://doi.org/10.1111/1468-2346.00061
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00061 [following]
+--2017-01-28 18:18:26--  http://doi.wiley.com/10.1111/1468-2346.00061
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00061 [following]
+--2017-01-28 18:18:28--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00061
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00061/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:18:29--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00061/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 45656 (45K) [text/html]
+Saving to: ‘1468-2346.00061’
+
+     0K .......... .......... .......... .......... ....      100%  170K=0.3s
+
+2017-01-28 18:18:30 (170 KB/s) - ‘1468-2346.00061’ saved [45656/45656]
+
+--2017-01-28 18:18:31--  http://doi.org/10.1111/1468-2346.00059
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00059 [following]
+--2017-01-28 18:18:32--  http://doi.wiley.com/10.1111/1468-2346.00059
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00059 [following]
+--2017-01-28 18:18:33--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00059
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00059/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:18:35--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00059/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 39830 (39K) [text/html]
+Saving to: ‘1468-2346.00059’
+
+     0K .......... .......... .......... ........             100%  149K=0.3s
+
+2017-01-28 18:18:36 (149 KB/s) - ‘1468-2346.00059’ saved [39830/39830]
+
+--2017-01-28 18:18:37--  http://doi.org/10.1111/1468-2346.00062
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00062 [following]
+--2017-01-28 18:18:38--  http://doi.wiley.com/10.1111/1468-2346.00062
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00062 [following]
+--2017-01-28 18:18:39--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00062
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00062/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:18:40--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00062/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 45201 (44K) [text/html]
+Saving to: ‘1468-2346.00062’
+
+     0K .......... .......... .......... .......... ....      100%  163K=0.3s
+
+2017-01-28 18:18:41 (163 KB/s) - ‘1468-2346.00062’ saved [45201/45201]
+
+--2017-01-28 18:18:42--  http://doi.org/10.1111/1468-2346.00057
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00057 [following]
+--2017-01-28 18:18:43--  http://doi.wiley.com/10.1111/1468-2346.00057
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00057 [following]
+--2017-01-28 18:18:44--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00057
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00057/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:18:46--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00057/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 40786 (40K) [text/html]
+Saving to: ‘1468-2346.00057’
+
+     0K .......... .......... .......... .........            100%  145K=0.3s
+
+2017-01-28 18:18:46 (145 KB/s) - ‘1468-2346.00057’ saved [40786/40786]
+
+--2017-01-28 18:18:47--  http://doi.org/10.1111/1468-2346.00060
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00060 [following]
+--2017-01-28 18:18:49--  http://doi.wiley.com/10.1111/1468-2346.00060
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00060 [following]
+--2017-01-28 18:18:50--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00060
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00060/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:18:51--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00060/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 40046 (39K) [text/html]
+Saving to: ‘1468-2346.00060’
+
+     0K .......... .......... .......... .........            100%  149K=0.3s
+
+2017-01-28 18:18:52 (149 KB/s) - ‘1468-2346.00060’ saved [40046/40046]
+
+--2017-01-28 18:18:53--  http://doi.org/10.1111/1468-2346.00063
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00063 [following]
+--2017-01-28 18:18:54--  http://doi.wiley.com/10.1111/1468-2346.00063
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00063 [following]
+--2017-01-28 18:18:55--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00063
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00063/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:18:56--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00063/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 38315 (37K) [text/html]
+Saving to: ‘1468-2346.00063’
+
+     0K .......... .......... .......... .......              100%  138K=0.3s
+
+2017-01-28 18:18:57 (138 KB/s) - ‘1468-2346.00063’ saved [38315/38315]
+
+--2017-01-28 18:18:58--  http://doi.org/10.1111/1468-2346.t01-1-00056
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.t01-1-00056 [following]
+--2017-01-28 18:18:59--  http://doi.wiley.com/10.1111/1468-2346.t01-1-00056
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.t01-1-00056 [following]
+--2017-01-28 18:19:01--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.t01-1-00056
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.t01-1-00056/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:19:02--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.t01-1-00056/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 36620 (36K) [text/html]
+Saving to: ‘1468-2346.t01-1-00056’
+
+     0K .......... .......... .......... .....                100%  131K=0.3s
+
+2017-01-28 18:19:03 (131 KB/s) - ‘1468-2346.t01-1-00056’ saved [36620/36620]
+
+--2017-01-28 18:19:04--  http://doi.org/10.1111/1468-2346.00064
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00064 [following]
+--2017-01-28 18:19:05--  http://doi.wiley.com/10.1111/1468-2346.00064
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00064 [following]
+--2017-01-28 18:19:06--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00064
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00064/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:19:07--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00064/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 37422 (37K) [text/html]
+Saving to: ‘1468-2346.00064’
+
+     0K .......... .......... .......... ......               100%  141K=0.3s
+
+2017-01-28 18:19:08 (141 KB/s) - ‘1468-2346.00064’ saved [37422/37422]
+
+--2017-01-28 18:19:09--  http://doi.org/10.1111/1468-2346.00066
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00066 [following]
+--2017-01-28 18:19:11--  http://doi.wiley.com/10.1111/1468-2346.00066
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00066 [following]
+--2017-01-28 18:19:12--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00066
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00066/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:19:13--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00066/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 35858 (35K) [text/html]
+Saving to: ‘1468-2346.00066’
+
+     0K .......... .......... .......... .....                100%  134K=0.3s
+
+2017-01-28 18:19:14 (134 KB/s) - ‘1468-2346.00066’ saved [35858/35858]
+
+--2017-01-28 18:19:15--  http://doi.org/10.1111/1468-2346.00065
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00065 [following]
+--2017-01-28 18:19:16--  http://doi.wiley.com/10.1111/1468-2346.00065
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00065 [following]
+--2017-01-28 18:19:17--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00065
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00065/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:19:18--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00065/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 36646 (36K) [text/html]
+Saving to: ‘1468-2346.00065’
+
+     0K .......... .......... .......... .....                100%  136K=0.3s
+
+2017-01-28 18:19:19 (136 KB/s) - ‘1468-2346.00065’ saved [36646/36646]
+
+--2017-01-28 18:19:20--  http://doi.org/10.1111/1468-2346.t01-1-00055
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.t01-1-00055 [following]
+--2017-01-28 18:19:21--  http://doi.wiley.com/10.1111/1468-2346.t01-1-00055
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.t01-1-00055 [following]
+--2017-01-28 18:19:22--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.t01-1-00055
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.t01-1-00055/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:19:24--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.t01-1-00055/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 36643 (36K) [text/html]
+Saving to: ‘1468-2346.t01-1-00055’
+
+     0K .......... .......... .......... .....                100%  136K=0.3s
+
+2017-01-28 18:19:24 (136 KB/s) - ‘1468-2346.t01-1-00055’ saved [36643/36643]
+
+--2017-01-28 18:19:25--  http://doi.org/10.1111/1468-2346.00074
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00074 [following]
+--2017-01-28 18:19:27--  http://doi.wiley.com/10.1111/1468-2346.00074
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00074 [following]
+--2017-01-28 18:19:28--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00074
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00074/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:19:29--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00074/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 46872 (46K) [text/html]
+Saving to: ‘1468-2346.00074’
+
+     0K .......... .......... .......... .......... .....     100%  176K=0.3s
+
+2017-01-28 18:19:30 (176 KB/s) - ‘1468-2346.00074’ saved [46872/46872]
+
+--2017-01-28 18:19:31--  http://doi.org/10.1111/1468-2346.00069
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00069 [following]
+--2017-01-28 18:19:32--  http://doi.wiley.com/10.1111/1468-2346.00069
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00069 [following]
+--2017-01-28 18:19:33--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00069
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00069/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:19:35--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00069/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 48473 (47K) [text/html]
+Saving to: ‘1468-2346.00069’
+
+     0K .......... .......... .......... .......... .......   100%  171K=0.3s
+
+2017-01-28 18:19:36 (171 KB/s) - ‘1468-2346.00069’ saved [48473/48473]
+
+--2017-01-28 18:19:37--  http://doi.org/10.1111/1468-2346.00079
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00079 [following]
+--2017-01-28 18:19:38--  http://doi.wiley.com/10.1111/1468-2346.00079
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00079 [following]
+--2017-01-28 18:19:39--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00079
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00079/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:19:40--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00079/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 39113 (38K) [text/html]
+Saving to: ‘1468-2346.00079’
+
+     0K .......... .......... .......... ........             100%  140K=0.3s
+
+2017-01-28 18:19:41 (140 KB/s) - ‘1468-2346.00079’ saved [39113/39113]
+
+--2017-01-28 18:19:42--  http://doi.org/10.1111/1468-2346.00071
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00071 [following]
+--2017-01-28 18:19:43--  http://doi.wiley.com/10.1111/1468-2346.00071
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00071 [following]
+--2017-01-28 18:19:44--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00071
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00071/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:19:45--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00071/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 40508 (40K) [text/html]
+Saving to: ‘1468-2346.00071’
+
+     0K .......... .......... .......... .........            100%  145K=0.3s
+
+2017-01-28 18:19:46 (145 KB/s) - ‘1468-2346.00071’ saved [40508/40508]
+
+--2017-01-28 18:19:47--  http://doi.org/10.1111/1468-2346.00076
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00076 [following]
+--2017-01-28 18:19:48--  http://doi.wiley.com/10.1111/1468-2346.00076
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00076 [following]
+--2017-01-28 18:19:50--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00076
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00076/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:19:51--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00076/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 39392 (38K) [text/html]
+Saving to: ‘1468-2346.00076’
+
+     0K .......... .......... .......... ........             100%  141K=0.3s
+
+2017-01-28 18:19:52 (141 KB/s) - ‘1468-2346.00076’ saved [39392/39392]
+
+--2017-01-28 18:19:53--  http://doi.org/10.1111/1468-2346.00070
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00070 [following]
+--2017-01-28 18:19:54--  http://doi.wiley.com/10.1111/1468-2346.00070
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00070 [following]
+--2017-01-28 18:19:55--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00070
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00070/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:19:56--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00070/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 40095 (39K) [text/html]
+Saving to: ‘1468-2346.00070’
+
+     0K .......... .......... .......... .........            100%  149K=0.3s
+
+2017-01-28 18:19:57 (149 KB/s) - ‘1468-2346.00070’ saved [40095/40095]
+
+--2017-01-28 18:19:58--  http://doi.org/10.1111/1468-2346.00075
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00075 [following]
+--2017-01-28 18:19:59--  http://doi.wiley.com/10.1111/1468-2346.00075
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00075 [following]
+--2017-01-28 18:20:00--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00075
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00075/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:20:02--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00075/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50474 (49K) [text/html]
+Saving to: ‘1468-2346.00075’
+
+     0K .......... .......... .......... .......... ......... 100%  181K=0.3s
+
+2017-01-28 18:20:02 (181 KB/s) - ‘1468-2346.00075’ saved [50474/50474]
+
+--2017-01-28 18:20:03--  http://doi.org/10.1111/1468-2346.00078
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00078 [following]
+--2017-01-28 18:20:05--  http://doi.wiley.com/10.1111/1468-2346.00078
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00078 [following]
+--2017-01-28 18:20:06--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00078
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00078/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:20:07--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00078/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 38950 (38K) [text/html]
+Saving to: ‘1468-2346.00078’
+
+     0K .......... .......... .......... ........             100%  140K=0.3s
+
+2017-01-28 18:20:08 (140 KB/s) - ‘1468-2346.00078’ saved [38950/38950]
+
+--2017-01-28 18:20:09--  http://doi.org/10.1111/1468-2346.00072
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00072 [following]
+--2017-01-28 18:20:10--  http://doi.wiley.com/10.1111/1468-2346.00072
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00072 [following]
+--2017-01-28 18:20:11--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00072
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00072/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:20:12--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00072/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 42903 (42K) [text/html]
+Saving to: ‘1468-2346.00072’
+
+     0K .......... .......... .......... .......... .         100%  153K=0.3s
+
+2017-01-28 18:20:13 (153 KB/s) - ‘1468-2346.00072’ saved [42903/42903]
+
+--2017-01-28 18:20:14--  http://doi.org/10.1111/1468-2346.00077
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00077 [following]
+--2017-01-28 18:20:15--  http://doi.wiley.com/10.1111/1468-2346.00077
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00077 [following]
+--2017-01-28 18:20:17--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00077
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00077/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:20:18--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00077/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 39888 (39K) [text/html]
+Saving to: ‘1468-2346.00077’
+
+     0K .......... .......... .......... ........             100%  148K=0.3s
+
+2017-01-28 18:20:19 (148 KB/s) - ‘1468-2346.00077’ saved [39888/39888]
+
+--2017-01-28 18:20:20--  http://doi.org/10.1111/1468-2346.00073
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00073 [following]
+--2017-01-28 18:20:21--  http://doi.wiley.com/10.1111/1468-2346.00073
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00073 [following]
+--2017-01-28 18:20:22--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00073
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00073/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:20:23--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00073/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 46043 (45K) [text/html]
+Saving to: ‘1468-2346.00073’
+
+     0K .......... .......... .......... .......... ....      100%  165K=0.3s
+
+2017-01-28 18:20:24 (165 KB/s) - ‘1468-2346.00073’ saved [46043/46043]
+
+--2017-01-28 18:20:25--  http://doi.org/10.1111/1468-2346.00080
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00080 [following]
+--2017-01-28 18:20:26--  http://doi.wiley.com/10.1111/1468-2346.00080
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00080 [following]
+--2017-01-28 18:20:27--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00080
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00080/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:20:29--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00080/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 37399 (37K) [text/html]
+Saving to: ‘1468-2346.00080’
+
+     0K .......... .......... .......... ......               100%  134K=0.3s
+
+2017-01-28 18:20:29 (134 KB/s) - ‘1468-2346.00080’ saved [37399/37399]
+
+--2017-01-28 18:20:30--  http://doi.org/10.1111/1468-2346.00082
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00082 [following]
+--2017-01-28 18:20:32--  http://doi.wiley.com/10.1111/1468-2346.00082
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00082 [following]
+--2017-01-28 18:20:33--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00082
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00082/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:20:34--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00082/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 35853 (35K) [text/html]
+Saving to: ‘1468-2346.00082’
+
+     0K .......... .......... .......... .....                100%  128K=0.3s
+
+2017-01-28 18:20:35 (128 KB/s) - ‘1468-2346.00082’ saved [35853/35853]
+
+--2017-01-28 18:20:36--  http://doi.org/10.1111/1468-2346.00067
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00067 [following]
+--2017-01-28 18:20:37--  http://doi.wiley.com/10.1111/1468-2346.00067
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00067 [following]
+--2017-01-28 18:20:38--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00067
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00067/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:20:39--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00067/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 35549 (35K) [text/html]
+Saving to: ‘1468-2346.00067’
+
+     0K .......... .......... .......... ....                 100%  120K=0.3s
+
+2017-01-28 18:20:40 (120 KB/s) - ‘1468-2346.00067’ saved [35549/35549]
+
+--2017-01-28 18:20:41--  http://doi.org/10.1111/1468-2346.00068
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00068 [following]
+--2017-01-28 18:20:42--  http://doi.wiley.com/10.1111/1468-2346.00068
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00068 [following]
+--2017-01-28 18:20:44--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00068
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00068/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:20:45--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00068/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 35579 (35K) [text/html]
+Saving to: ‘1468-2346.00068’
+
+     0K .......... .......... .......... ....                 100%  135K=0.3s
+
+2017-01-28 18:20:46 (135 KB/s) - ‘1468-2346.00068’ saved [35579/35579]
+
+--2017-01-28 18:20:47--  http://doi.org/10.1111/1468-2346.00081
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00081 [following]
+--2017-01-28 18:20:48--  http://doi.wiley.com/10.1111/1468-2346.00081
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00081 [following]
+--2017-01-28 18:20:49--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00081
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00081/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:20:50--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00081/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 36787 (36K) [text/html]
+Saving to: ‘1468-2346.00081’
+
+     0K .......... .......... .......... .....                100%  137K=0.3s
+
+2017-01-28 18:20:51 (137 KB/s) - ‘1468-2346.00081’ saved [36787/36787]
+
+--2017-01-28 18:20:52--  http://doi.org/10.1111/1468-2346.00092
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00092 [following]
+--2017-01-28 18:20:53--  http://doi.wiley.com/10.1111/1468-2346.00092
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00092 [following]
+--2017-01-28 18:20:54--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00092
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00092/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:20:56--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00092/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50432 (49K) [text/html]
+Saving to: ‘1468-2346.00092’
+
+     0K .......... .......... .......... .......... ......... 100%  191K=0.3s
+
+2017-01-28 18:20:56 (191 KB/s) - ‘1468-2346.00092’ saved [50432/50432]
+
+--2017-01-28 18:20:57--  http://doi.org/10.1111/1468-2346.00099
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00099 [following]
+--2017-01-28 18:20:59--  http://doi.wiley.com/10.1111/1468-2346.00099
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00099 [following]
+--2017-01-28 18:21:00--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00099
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00099/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:21:01--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00099/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 37361 (36K) [text/html]
+Saving to: ‘1468-2346.00099’
+
+     0K .......... .......... .......... ......               100%  140K=0.3s
+
+2017-01-28 18:21:02 (140 KB/s) - ‘1468-2346.00099’ saved [37361/37361]
+
+--2017-01-28 18:21:03--  http://doi.org/10.1111/1468-2346.00101
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00101 [following]
+--2017-01-28 18:21:04--  http://doi.wiley.com/10.1111/1468-2346.00101
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00101 [following]
+--2017-01-28 18:21:05--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00101
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00101/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:21:06--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00101/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 35845 (35K) [text/html]
+Saving to: ‘1468-2346.00101’
+
+     0K .......... .......... .......... .....                100%  136K=0.3s
+
+2017-01-28 18:21:08 (136 KB/s) - ‘1468-2346.00101’ saved [35845/35845]
+
+--2017-01-28 18:21:09--  http://doi.org/10.1111/1468-2346.00093
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00093 [following]
+--2017-01-28 18:21:10--  http://doi.wiley.com/10.1111/1468-2346.00093
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00093 [following]
+--2017-01-28 18:21:11--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00093
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00093/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:21:12--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00093/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 41782 (41K) [text/html]
+Saving to: ‘1468-2346.00093’
+
+     0K .......... .......... .......... ..........           100%  156K=0.3s
+
+2017-01-28 18:21:13 (156 KB/s) - ‘1468-2346.00093’ saved [41782/41782]
+
+--2017-01-28 18:21:14--  http://doi.org/10.1111/1468-2346.00089
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00089 [following]
+--2017-01-28 18:21:15--  http://doi.wiley.com/10.1111/1468-2346.00089
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00089 [following]
+--2017-01-28 18:21:16--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00089
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00089/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:21:17--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00089/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50748 (50K) [text/html]
+Saving to: ‘1468-2346.00089’
+
+     0K .......... .......... .......... .......... ......... 100%  189K=0.3s
+
+2017-01-28 18:21:18 (189 KB/s) - ‘1468-2346.00089’ saved [50748/50748]
+
+--2017-01-28 18:21:19--  http://doi.org/10.1111/1468-2346.00088
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00088 [following]
+--2017-01-28 18:21:21--  http://doi.wiley.com/10.1111/1468-2346.00088
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00088 [following]
+--2017-01-28 18:21:22--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00088
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00088/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:21:23--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00088/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 43800 (43K) [text/html]
+Saving to: ‘1468-2346.00088’
+
+     0K .......... .......... .......... .......... ..        100%  165K=0.3s
+
+2017-01-28 18:21:24 (165 KB/s) - ‘1468-2346.00088’ saved [43800/43800]
+
+--2017-01-28 18:21:25--  http://doi.org/10.1111/1468-2346.00094
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00094 [following]
+--2017-01-28 18:21:26--  http://doi.wiley.com/10.1111/1468-2346.00094
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00094 [following]
+--2017-01-28 18:21:27--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00094
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00094/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:21:28--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00094/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 45622 (45K) [text/html]
+Saving to: ‘1468-2346.00094’
+
+     0K .......... .......... .......... .......... ....      100%  163K=0.3s
+
+2017-01-28 18:21:29 (163 KB/s) - ‘1468-2346.00094’ saved [45622/45622]
+
+--2017-01-28 18:21:30--  http://doi.org/10.1111/1468-2346.00100
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00100 [following]
+--2017-01-28 18:21:31--  http://doi.wiley.com/10.1111/1468-2346.00100
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00100 [following]
+--2017-01-28 18:21:33--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00100
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00100/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:21:34--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00100/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 36777 (36K) [text/html]
+Saving to: ‘1468-2346.00100’
+
+     0K .......... .......... .......... .....                100%  133K=0.3s
+
+2017-01-28 18:21:35 (133 KB/s) - ‘1468-2346.00100’ saved [36777/36777]
+
+--2017-01-28 18:21:36--  http://doi.org/10.1111/1468-2346.00096
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00096 [following]
+--2017-01-28 18:21:37--  http://doi.wiley.com/10.1111/1468-2346.00096
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00096 [following]
+--2017-01-28 18:21:38--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00096
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00096/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:21:39--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00096/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 42110 (41K) [text/html]
+Saving to: ‘1468-2346.00096’
+
+     0K .......... .......... .......... .......... .         100%  149K=0.3s
+
+2017-01-28 18:21:40 (149 KB/s) - ‘1468-2346.00096’ saved [42110/42110]
+
+--2017-01-28 18:21:41--  http://doi.org/10.1111/1468-2346.00091
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00091 [following]
+--2017-01-28 18:21:42--  http://doi.wiley.com/10.1111/1468-2346.00091
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00091 [following]
+--2017-01-28 18:21:43--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00091
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00091/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:21:44--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00091/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 48918 (48K) [text/html]
+Saving to: ‘1468-2346.00091’
+
+     0K .......... .......... .......... .......... .......   100%  175K=0.3s
+
+2017-01-28 18:21:45 (175 KB/s) - ‘1468-2346.00091’ saved [48918/48918]
+
+--2017-01-28 18:21:46--  http://doi.org/10.1111/1468-2346.00087
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00087 [following]
+--2017-01-28 18:21:47--  http://doi.wiley.com/10.1111/1468-2346.00087
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00087 [following]
+--2017-01-28 18:21:49--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00087
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00087/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:21:50--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00087/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 38458 (38K) [text/html]
+Saving to: ‘1468-2346.00087’
+
+     0K .......... .......... .......... .......              100%  136K=0.3s
+
+2017-01-28 18:21:51 (136 KB/s) - ‘1468-2346.00087’ saved [38458/38458]
+
+--2017-01-28 18:21:52--  http://doi.org/10.1111/1468-2346.00097
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00097 [following]
+--2017-01-28 18:21:53--  http://doi.wiley.com/10.1111/1468-2346.00097
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00097 [following]
+--2017-01-28 18:21:54--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00097
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00097/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:21:55--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00097/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 39298 (38K) [text/html]
+Saving to: ‘1468-2346.00097’
+
+     0K .......... .......... .......... ........             100%  141K=0.3s
+
+2017-01-28 18:21:56 (141 KB/s) - ‘1468-2346.00097’ saved [39298/39298]
+
+--2017-01-28 18:21:57--  http://doi.org/10.1111/1468-2346.00085
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00085 [following]
+--2017-01-28 18:21:58--  http://doi.wiley.com/10.1111/1468-2346.00085
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00085 [following]
+--2017-01-28 18:21:59--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00085
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00085/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:22:01--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00085/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 35735 (35K) [text/html]
+Saving to: ‘1468-2346.00085’
+
+     0K .......... .......... .......... ....                 100%  129K=0.3s
+
+2017-01-28 18:22:02 (129 KB/s) - ‘1468-2346.00085’ saved [35735/35735]
+
+--2017-01-28 18:22:03--  http://doi.org/10.1111/1468-2346.00095
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00095 [following]
+--2017-01-28 18:22:04--  http://doi.wiley.com/10.1111/1468-2346.00095
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00095 [following]
+--2017-01-28 18:22:05--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00095
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00095/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:22:06--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00095/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 41434 (40K) [text/html]
+Saving to: ‘1468-2346.00095’
+
+     0K .......... .......... .......... ..........           100%  148K=0.3s
+
+2017-01-28 18:22:07 (148 KB/s) - ‘1468-2346.00095’ saved [41434/41434]
+
+--2017-01-28 18:22:08--  http://doi.org/10.1111/1468-2346.00090
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00090 [following]
+--2017-01-28 18:22:09--  http://doi.wiley.com/10.1111/1468-2346.00090
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00090 [following]
+--2017-01-28 18:22:10--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00090
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00090/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:22:12--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00090/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50100 (49K) [text/html]
+Saving to: ‘1468-2346.00090’
+
+     0K .......... .......... .......... .......... ........  100%  189K=0.3s
+
+2017-01-28 18:22:12 (189 KB/s) - ‘1468-2346.00090’ saved [50100/50100]
+
+--2017-01-28 18:22:13--  http://doi.org/10.1111/1468-2346.00098
+Connecting to doi.org (doi.org)|38.100.138.162|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/1468-2346.00098 [following]
+--2017-01-28 18:22:14--  http://doi.wiley.com/10.1111/1468-2346.00098
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00098 [following]
+--2017-01-28 18:22:16--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/1468-2346.00098
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00098/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-28 18:22:17--  http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00098/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 39423 (38K) [text/html]
+Saving to: ‘1468-2346.00098’
+
+     0K .......... .......... .......... ........             100%  150K=0.3s
+
+2017-01-28 18:22:18 (150 KB/s) - ‘1468-2346.00098’ saved [39423/39423]
+
+FINISHED --2017-01-28 18:22:18--
+Total wall clock time: 9m 0s
+Downloaded: 100 files, 3.9M in 27s (147 KB/s)

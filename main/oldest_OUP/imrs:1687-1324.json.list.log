@@ -1,0 +1,81 @@
+--2017-01-28 22:54:20--  http://doi.org/10.1155/imrs.2005.1
+Resolving doi.org (doi.org)... 63.123.152.248, 208.254.38.90, 38.100.138.162, ...
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/imrs/article-lookup/doi/10.1155/IMRS.2005.1 [following]
+--2017-01-28 22:54:21--  https://academic.oup.com/imrs/article-lookup/doi/10.1155/IMRS.2005.1
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64091 (63K) [text/html]
+Saving to: ‘imrs.2005.1’
+
+     0K .......... .......... .......... .......... .......... 79%  209K 0s
+    50K .......... ..                                         100% 11.9M=0.2s
+
+2017-01-28 22:54:29 (260 KB/s) - ‘imrs.2005.1’ saved [64091/64091]
+
+--2017-01-28 22:54:30--  http://doi.org/10.1155/imrs/2006/54517
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/imrs/article-lookup/doi/10.1155/IMRS/2006/54517 [following]
+--2017-01-28 22:54:31--  https://academic.oup.com/imrs/article-lookup/doi/10.1155/IMRS/2006/54517
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 196427 (192K) [text/html]
+Saving to: ‘54517’
+
+     0K .......... .......... .......... .......... .......... 26%  209K 1s
+    50K .......... .......... .......... .......... .......... 52%  607K 0s
+   100K .......... .......... .......... .......... .......... 78%  614K 0s
+   150K .......... .......... .......... .......... .         100%  513K=0.5s
+
+2017-01-28 22:54:38 (396 KB/s) - ‘54517’ saved [196427/196427]
+
+--2017-01-28 22:54:39--  http://doi.org/10.1155/imrs/2006/28925
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/imrs/article-lookup/doi/10.1155/IMRS/2006/28925 [following]
+--2017-01-28 22:54:40--  https://academic.oup.com/imrs/article-lookup/doi/10.1155/IMRS/2006/28925
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 742779 (725K) [text/html]
+Saving to: ‘28925’
+
+     0K .......... .......... .......... .......... ..........  6%  209K 3s
+    50K .......... .......... .......... .......... .......... 13%  605K 2s
+   100K .......... .......... .......... .......... .......... 20%  605K 2s
+   150K .......... .......... .......... .......... .......... 27%  428K 1s
+   200K .......... .......... .......... .......... .......... 34%  403K 1s
+   250K .......... .......... .......... .......... .......... 41%  616K 1s
+   300K .......... .......... .......... .......... .......... 48%  587K 1s
+   350K .......... .......... .......... .......... .......... 55%  319K 1s
+   400K .......... .......... .......... .......... .......... 62%  578K 1s
+   450K .......... .......... .......... .......... .......... 68%  594K 1s
+   500K .......... .......... .......... .......... .......... 75%  605K 0s
+   550K .......... .......... .......... .......... .......... 82%  320K 0s
+   600K .......... .......... .......... .......... .......... 89%  597K 0s
+   650K .......... .......... .......... .......... .......... 96%  584K 0s
+   700K .......... .......... .....                           100%  338K=1.6s
+
+2017-01-28 22:54:48 (447 KB/s) - ‘28925’ saved [742779/742779]
+
+--2017-01-28 22:54:49--  http://doi.org/10.1093/imrsur/rym001
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/imrs/article-lookup/doi/10.1093/imrsur/rym001 [following]
+--2017-01-28 22:54:51--  https://academic.oup.com/imrs/article-lookup/doi/10.1093/imrsur/rym001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 118859 (116K) [text/html]
+Saving to: ‘rym001’
+
+     0K .......... .......... .......... .......... .......... 43%  209K 0s
+    50K .......... .......... .......... .......... .......... 86%  587K 0s
+   100K .......... ......                                     100% 22.9M=0.3s
+
+2017-01-28 22:54:57 (357 KB/s) - ‘rym001’ saved [118859/118859]
+
+FINISHED --2017-01-28 22:54:57--
+Total wall clock time: 37s
+Downloaded: 4 files, 1.1M in 2.7s (410 KB/s)

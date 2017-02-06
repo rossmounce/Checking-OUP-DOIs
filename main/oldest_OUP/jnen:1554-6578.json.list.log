@@ -1,0 +1,1901 @@
+--2017-01-29 09:13:27--  http://doi.org/10.1097/00005072-194401000-00007
+Resolving doi.org (doi.org)... 63.123.152.248, 38.100.138.163, 208.254.38.90, ...
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194401000-00007 [following]
+--2017-01-29 09:13:28--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194401000-00007
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/3/1/73/2612546/Syndrome-of-the-Anterior-Spinal-Artery-of-the?redirectedFrom=fulltext [following]
+--2017-01-29 09:13:33--  https://academic.oup.com/jnen/article-abstract/3/1/73/2612546/Syndrome-of-the-Anterior-Spinal-Artery-of-the?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 94899 (93K) [text/html]
+Saving to: ‘00005072-194401000-00007’
+
+     0K .......... .......... .......... .......... .......... 53%  310K 0s
+    50K .......... .......... .......... .......... ..        100%  271K=0.3s
+
+2017-01-29 09:13:37 (291 KB/s) - ‘00005072-194401000-00007’ saved [94899/94899]
+
+--2017-01-29 09:13:38--  http://doi.org/10.1097/00005072-194401000-00004
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194401000-00004 [following]
+--2017-01-29 09:13:40--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194401000-00004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/3/1/49/2612543/Spontaneous-Striatal-Degeneration-in-a-Monkey1?redirectedFrom=fulltext [following]
+--2017-01-29 09:13:42--  https://academic.oup.com/jnen/article-abstract/3/1/49/2612543/Spontaneous-Striatal-Degeneration-in-a-Monkey1?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 81272 (79K) [text/html]
+Saving to: ‘00005072-194401000-00004’
+
+     0K .......... .......... .......... .......... .......... 62%  306K 0s
+    50K .......... .......... .........                       100%  369K=0.2s
+
+2017-01-29 09:13:46 (327 KB/s) - ‘00005072-194401000-00004’ saved [81272/81272]
+
+--2017-01-29 09:13:47--  http://doi.org/10.1097/00005072-194401000-00002
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194401000-00002 [following]
+--2017-01-29 09:13:48--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194401000-00002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/3/1/36/2612542/Infantile-Toxoplasmic-Encephalitis-Report-of-a?redirectedFrom=fulltext [following]
+--2017-01-29 09:13:50--  https://academic.oup.com/jnen/article-abstract/3/1/36/2612542/Infantile-Toxoplasmic-Encephalitis-Report-of-a?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 79576 (78K) [text/html]
+Saving to: ‘00005072-194401000-00002’
+
+     0K .......... .......... .......... .......... .......... 64%  208K 0s
+    50K .......... .......... .......                         100% 13.5M=0.2s
+
+2017-01-29 09:13:54 (320 KB/s) - ‘00005072-194401000-00002’ saved [79576/79576]
+
+--2017-01-29 09:13:55--  http://doi.org/10.1097/00005072-194401000-00001
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194401000-00001 [following]
+--2017-01-29 09:13:57--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194401000-00001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/3/1/1/2612541/The-Subependymal-Cell-Plate-Matrix-and-its?redirectedFrom=fulltext [following]
+--2017-01-29 09:13:59--  https://academic.oup.com/jnen/article-abstract/3/1/1/2612541/The-Subependymal-Cell-Plate-Matrix-and-its?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 81448 (80K) [text/html]
+Saving to: ‘00005072-194401000-00001’
+
+     0K .......... .......... .......... .......... .......... 62%  208K 0s
+    50K .......... .......... .........                       100% 13.1M=0.2s
+
+2017-01-29 09:14:03 (329 KB/s) - ‘00005072-194401000-00001’ saved [81448/81448]
+
+--2017-01-29 09:14:04--  http://doi.org/10.1097/00005072-194401000-00006
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194401000-00006 [following]
+--2017-01-29 09:14:06--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194401000-00006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/3/1/69/2612545/Effects-of-Lesions-of-the-Periaqueductal-Gray?redirectedFrom=fulltext [following]
+--2017-01-29 09:14:08--  https://academic.oup.com/jnen/article-abstract/3/1/69/2612545/Effects-of-Lesions-of-the-Periaqueductal-Gray?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 81693 (80K) [text/html]
+Saving to: ‘00005072-194401000-00006’
+
+     0K .......... .......... .......... .......... .......... 62%  209K 0s
+    50K .......... .......... .........                       100% 11.3M=0.2s
+
+2017-01-29 09:14:11 (329 KB/s) - ‘00005072-194401000-00006’ saved [81693/81693]
+
+--2017-01-29 09:14:12--  http://doi.org/10.1097/00005072-194401000-00005
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194401000-00005 [following]
+--2017-01-29 09:14:14--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194401000-00005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/3/1/63/2612544/Congenital-Agyria-and-Defect-of-the-Corpus?redirectedFrom=fulltext [following]
+--2017-01-29 09:14:16--  https://academic.oup.com/jnen/article-abstract/3/1/63/2612544/Congenital-Agyria-and-Defect-of-the-Corpus?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 79556 (78K) [text/html]
+Saving to: ‘00005072-194401000-00005’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... .......                         100% 11.0M=0.2s
+
+2017-01-29 09:14:20 (322 KB/s) - ‘00005072-194401000-00005’ saved [79556/79556]
+
+--2017-01-29 09:14:21--  http://doi.org/10.1097/00005072-194401000-00008
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194401000-00008 [following]
+--2017-01-29 09:14:22--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194401000-00008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/3/1/81/2612547/Pathologic-Changes-in-the-Brain-after-Electric?redirectedFrom=fulltext [following]
+--2017-01-29 09:14:26--  https://academic.oup.com/jnen/article-abstract/3/1/81/2612547/Pathologic-Changes-in-the-Brain-after-Electric?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 80639 (79K) [text/html]
+Saving to: ‘00005072-194401000-00008’
+
+     0K .......... .......... .......... .......... .......... 63%  209K 0s
+    50K .......... .......... ........                        100% 8.22M=0.2s
+
+2017-01-29 09:14:33 (325 KB/s) - ‘00005072-194401000-00008’ saved [80639/80639]
+
+--2017-01-29 09:14:34--  http://doi.org/10.1097/00005072-194401000-00003
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194401000-00003 [following]
+--2017-01-29 09:14:35--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194401000-00003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/3/1/87/2612548/Behavior-Disturbances-Related-to-Decomposition-of?redirectedFrom=fulltext [following]
+--2017-01-29 09:14:38--  https://academic.oup.com/jnen/article-abstract/3/1/87/2612548/Behavior-Disturbances-Related-to-Decomposition-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 80224 (78K) [text/html]
+Saving to: ‘00005072-194401000-00003’
+
+     0K .......... .......... .......... .......... .......... 63%  310K 0s
+    50K .......... .......... ........                        100%  351K=0.2s
+
+2017-01-29 09:14:41 (323 KB/s) - ‘00005072-194401000-00003’ saved [80224/80224]
+
+--2017-01-29 09:14:42--  http://doi.org/10.1097/00005072-194504000-00008
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194504000-00008 [following]
+--2017-01-29 09:14:44--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194504000-00008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/4/2/178/2613211/Studies-On-Developmental-PathologyIII?redirectedFrom=fulltext [following]
+--2017-01-29 09:14:47--  https://academic.oup.com/jnen/article-abstract/4/2/178/2613211/Studies-On-Developmental-PathologyIII?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 81434 (80K) [text/html]
+Saving to: ‘00005072-194504000-00008’
+
+     0K .......... .......... .......... .......... .......... 62%  209K 0s
+    50K .......... .......... .........                       100% 6.90M=0.2s
+
+2017-01-29 09:14:50 (326 KB/s) - ‘00005072-194504000-00008’ saved [81434/81434]
+
+--2017-01-29 09:14:51--  http://doi.org/10.1097/00005072-194504000-00005
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194504000-00005 [following]
+--2017-01-29 09:14:53--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194504000-00005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/4/2/155/2613208/Primary-Degeneration-of-the-Corpus-Callosum?redirectedFrom=fulltext [following]
+--2017-01-29 09:14:55--  https://academic.oup.com/jnen/article-abstract/4/2/155/2613208/Primary-Degeneration-of-the-Corpus-Callosum?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 83155 (81K) [text/html]
+Saving to: ‘00005072-194504000-00005’
+
+     0K .......... .......... .......... .......... .......... 61%  209K 0s
+    50K .......... .......... .......... .                    100% 9.91M=0.2s
+
+2017-01-29 09:14:59 (335 KB/s) - ‘00005072-194504000-00005’ saved [83155/83155]
+
+--2017-01-29 09:15:00--  http://doi.org/10.1097/00005072-194504000-00004
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194504000-00004 [following]
+--2017-01-29 09:15:01--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194504000-00004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/4/2/146/2613207/Anatomical-Defects-and-Pathological-Changes-in?redirectedFrom=fulltext [following]
+--2017-01-29 09:15:03--  https://academic.oup.com/jnen/article-abstract/4/2/146/2613207/Anatomical-Defects-and-Pathological-Changes-in?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 97630 (95K) [text/html]
+Saving to: ‘00005072-194504000-00004’
+
+     0K .......... .......... .......... .......... .......... 52%  310K 0s
+    50K .......... .......... .......... .......... .....     100%  286K=0.3s
+
+2017-01-29 09:15:07 (298 KB/s) - ‘00005072-194504000-00004’ saved [97630/97630]
+
+--2017-01-29 09:15:08--  http://doi.org/10.1097/00005072-194504000-00001
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194504000-00001 [following]
+--2017-01-29 09:15:10--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194504000-00001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/4/2/99/2613214/Effects-of-Bilateral-Simultaneous-Subcortical?redirectedFrom=fulltext [following]
+--2017-01-29 09:15:12--  https://academic.oup.com/jnen/article-abstract/4/2/99/2613214/Effects-of-Bilateral-Simultaneous-Subcortical?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 81070 (79K) [text/html]
+Saving to: ‘00005072-194504000-00001’
+
+     0K .......... .......... .......... .......... .......... 63%  209K 0s
+    50K .......... .......... .........                       100% 11.3M=0.2s
+
+2017-01-29 09:15:17 (327 KB/s) - ‘00005072-194504000-00001’ saved [81070/81070]
+
+--2017-01-29 09:15:18--  http://doi.org/10.1097/00005072-194504000-00003
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194504000-00003 [following]
+--2017-01-29 09:15:19--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194504000-00003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/4/2/134/2613206/Studies-on-Ameboid-Motion-and-Secretion-of-Motor?redirectedFrom=fulltext [following]
+--2017-01-29 09:15:21--  https://academic.oup.com/jnen/article-abstract/4/2/134/2613206/Studies-on-Ameboid-Motion-and-Secretion-of-Motor?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 90051 (88K) [text/html]
+Saving to: ‘00005072-194504000-00003’
+
+     0K .......... .......... .......... .......... .......... 56%  209K 0s
+    50K .......... .......... .......... .......              100%  476K=0.3s
+
+2017-01-29 09:15:27 (276 KB/s) - ‘00005072-194504000-00003’ saved [90051/90051]
+
+--2017-01-29 09:15:28--  http://doi.org/10.1097/00005072-194504000-00009
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194504000-00009 [following]
+--2017-01-29 09:15:30--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194504000-00009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/4/2/189/2613212/A-Simple-and-Reliable-Trichrome-Stain1?redirectedFrom=fulltext [following]
+--2017-01-29 09:15:32--  https://academic.oup.com/jnen/article-abstract/4/2/189/2613212/A-Simple-and-Reliable-Trichrome-Stain1?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 94952 (93K) [text/html]
+Saving to: ‘00005072-194504000-00009’
+
+     0K .......... .......... .......... .......... .......... 53%  310K 0s
+    50K .......... .......... .......... .......... ..        100%  269K=0.3s
+
+2017-01-29 09:15:38 (290 KB/s) - ‘00005072-194504000-00009’ saved [94952/94952]
+
+--2017-01-29 09:15:39--  http://doi.org/10.1097/00005072-194504000-00006
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194504000-00006 [following]
+--2017-01-29 09:15:40--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194504000-00006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/4/2/164/2613209/Leucoencephalitis-Associated-with-Purulent?redirectedFrom=fulltext [following]
+--2017-01-29 09:15:42--  https://academic.oup.com/jnen/article-abstract/4/2/164/2613209/Leucoencephalitis-Associated-with-Purulent?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 76735 (75K) [text/html]
+Saving to: ‘00005072-194504000-00006’
+
+     0K .......... .......... .......... .......... .......... 66%  209K 0s
+    50K .......... .......... ....                            100% 11.1M=0.2s
+
+2017-01-29 09:15:45 (311 KB/s) - ‘00005072-194504000-00006’ saved [76735/76735]
+
+--2017-01-29 09:15:46--  http://doi.org/10.1097/00005072-194504000-00002
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194504000-00002 [following]
+--2017-01-29 09:15:48--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194504000-00002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/4/2/123/2613204/Paramyoclonus-MultiplexClinical-Pathologic?redirectedFrom=fulltext [following]
+--2017-01-29 09:15:51--  https://academic.oup.com/jnen/article-abstract/4/2/123/2613204/Paramyoclonus-MultiplexClinical-Pathologic?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 96059 (94K) [text/html]
+Saving to: ‘00005072-194504000-00002’
+
+     0K .......... .......... .......... .......... .......... 53%  209K 0s
+    50K .......... .......... .......... .......... ...       100%  540K=0.3s
+
+2017-01-29 09:15:55 (293 KB/s) - ‘00005072-194504000-00002’ saved [96059/96059]
+
+--2017-01-29 09:15:56--  http://doi.org/10.1097/00005072-194504000-00007
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194504000-00007 [following]
+--2017-01-29 09:15:57--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194504000-00007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/4/2/172/2613210/The-Syndrome-of-the-Posterior-Inferior-Cerebellar?redirectedFrom=fulltext [following]
+--2017-01-29 09:16:00--  https://academic.oup.com/jnen/article-abstract/4/2/172/2613210/The-Syndrome-of-the-Posterior-Inferior-Cerebellar?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 82988 (81K) [text/html]
+Saving to: ‘00005072-194504000-00007’
+
+     0K .......... .......... .......... .......... .......... 61%  207K 0s
+    50K .......... .......... .......... .                    100% 10.0M=0.2s
+
+2017-01-29 09:16:04 (332 KB/s) - ‘00005072-194504000-00007’ saved [82988/82988]
+
+--2017-01-29 09:16:05--  http://doi.org/10.1097/00005072-194504000-00010
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194504000-00010 [following]
+--2017-01-29 09:16:07--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194504000-00010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/4/2/192/2613213/A-Simple-and-Reliable-Myelin-Sheath-Stain-for?redirectedFrom=fulltext [following]
+--2017-01-29 09:16:09--  https://academic.oup.com/jnen/article-abstract/4/2/192/2613213/A-Simple-and-Reliable-Myelin-Sheath-Stain-for?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 94201 (92K) [text/html]
+Saving to: ‘00005072-194504000-00010’
+
+     0K .......... .......... .......... .......... .......... 54%  206K 0s
+    50K .......... .......... .......... .......... .         100%  520K=0.3s
+
+2017-01-29 09:16:13 (285 KB/s) - ‘00005072-194504000-00010’ saved [94201/94201]
+
+--2017-01-29 09:16:14--  http://doi.org/10.1097/00005072-194504030-00004
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194504030-00004 [following]
+--2017-01-29 09:16:16--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194504030-00004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/4/3/250/2613218/Cerebral-Hemiatrophy-Diffuse-Sclerotic-Type-of?redirectedFrom=fulltext [following]
+--2017-01-29 09:16:18--  https://academic.oup.com/jnen/article-abstract/4/3/250/2613218/Cerebral-Hemiatrophy-Diffuse-Sclerotic-Type-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 95711 (93K) [text/html]
+Saving to: ‘00005072-194504030-00004’
+
+     0K .......... .......... .......... .......... .......... 53%  208K 0s
+    50K .......... .......... .......... .......... ...       100%  536K=0.3s
+
+2017-01-29 09:16:22 (290 KB/s) - ‘00005072-194504030-00004’ saved [95711/95711]
+
+--2017-01-29 09:16:23--  http://doi.org/10.1097/00005072-194504030-00002
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194504030-00002 [following]
+--2017-01-29 09:16:24--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194504030-00002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/4/3/217/2613216/Cerebral-Changes-in-the-Course-of-Pernicious?redirectedFrom=fulltext [following]
+--2017-01-29 09:16:27--  https://academic.oup.com/jnen/article-abstract/4/3/217/2613216/Cerebral-Changes-in-the-Course-of-Pernicious?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 84996 (83K) [text/html]
+Saving to: ‘00005072-194504030-00002’
+
+     0K .......... .......... .......... .......... .......... 60%  209K 0s
+    50K .......... .......... .......... ...                  100% 10.8M=0.2s
+
+2017-01-29 09:16:31 (343 KB/s) - ‘00005072-194504030-00002’ saved [84996/84996]
+
+--2017-01-29 09:16:32--  http://doi.org/10.1097/00005072-194504030-00007
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194504030-00007 [following]
+--2017-01-29 09:16:33--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194504030-00007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/4/3/277/2613221/Physiochemical-Effects-of-Electrically-Induced?redirectedFrom=fulltext [following]
+--2017-01-29 09:16:35--  https://academic.oup.com/jnen/article-abstract/4/3/277/2613221/Physiochemical-Effects-of-Electrically-Induced?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 86993 (85K) [text/html]
+Saving to: ‘00005072-194504030-00007’
+
+     0K .......... .......... .......... .......... .......... 58%  209K 0s
+    50K .......... .......... .......... ....                 100%  847K=0.3s
+
+2017-01-29 09:16:39 (303 KB/s) - ‘00005072-194504030-00007’ saved [86993/86993]
+
+--2017-01-29 09:16:40--  http://doi.org/10.1097/00005072-194504030-00005
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194504030-00005 [following]
+--2017-01-29 09:16:41--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194504030-00005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/4/3/262/2613219/The-Reparative-Processes-in-Subarachnoid?redirectedFrom=fulltext [following]
+--2017-01-29 09:16:43--  https://academic.oup.com/jnen/article-abstract/4/3/262/2613219/The-Reparative-Processes-in-Subarachnoid?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 82538 (81K) [text/html]
+Saving to: ‘00005072-194504030-00005’
+
+     0K .......... .......... .......... .......... .......... 62%  209K 0s
+    50K .......... .......... ..........                      100% 6.08M=0.2s
+
+2017-01-29 09:16:47 (330 KB/s) - ‘00005072-194504030-00005’ saved [82538/82538]
+
+--2017-01-29 09:16:48--  http://doi.org/10.1097/00005072-194504030-00006
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194504030-00006 [following]
+--2017-01-29 09:16:49--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194504030-00006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/4/3/269/2613220/Western-Equine-Encephalitis-The-Pathogenesis-of?redirectedFrom=fulltext [following]
+--2017-01-29 09:16:51--  https://academic.oup.com/jnen/article-abstract/4/3/269/2613220/Western-Equine-Encephalitis-The-Pathogenesis-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 81735 (80K) [text/html]
+Saving to: ‘00005072-194504030-00006’
+
+     0K .......... .......... .......... .......... .......... 62%  208K 0s
+    50K .......... .......... .........                       100% 11.4M=0.2s
+
+2017-01-29 09:16:54 (328 KB/s) - ‘00005072-194504030-00006’ saved [81735/81735]
+
+--2017-01-29 09:16:55--  http://doi.org/10.1097/00005072-194504030-00009
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194504030-00009 [following]
+--2017-01-29 09:16:56--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194504030-00009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/4/3/295/2613224/Focal-Autonomic-Representation-in-the-Cortex-and?redirectedFrom=fulltext [following]
+--2017-01-29 09:16:58--  https://academic.oup.com/jnen/article-abstract/4/3/295/2613224/Focal-Autonomic-Representation-in-the-Cortex-and?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 81001 (79K) [text/html]
+Saving to: ‘00005072-194504030-00009’
+
+     0K .......... .......... .......... .......... .......... 63%  310K 0s
+    50K .......... .......... .........                       100%  361K=0.2s
+
+2017-01-29 09:17:02 (327 KB/s) - ‘00005072-194504030-00009’ saved [81001/81001]
+
+--2017-01-29 09:17:03--  http://doi.org/10.1097/00005072-194504030-00003
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194504030-00003 [following]
+--2017-01-29 09:17:05--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194504030-00003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/4/3/240/2613217/Histopathology-of-Muscles-in-the-Spinal-Type-of?redirectedFrom=fulltext [following]
+--2017-01-29 09:17:07--  https://academic.oup.com/jnen/article-abstract/4/3/240/2613217/Histopathology-of-Muscles-in-the-Spinal-Type-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 83191 (81K) [text/html]
+Saving to: ‘00005072-194504030-00003’
+
+     0K .......... .......... .......... .......... .......... 61%  209K 0s
+    50K .......... .......... .......... .                    100% 10.2M=0.2s
+
+2017-01-29 09:17:10 (335 KB/s) - ‘00005072-194504030-00003’ saved [83191/83191]
+
+--2017-01-29 09:17:11--  http://doi.org/10.1097/00005072-194504030-00001
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194504030-00001 [following]
+--2017-01-29 09:17:13--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194504030-00001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/4/3/195/2613215/Nucleus-Eminentiae-Teretis-Corpus-Pontobulbare-and?redirectedFrom=fulltext [following]
+--2017-01-29 09:17:15--  https://academic.oup.com/jnen/article-abstract/4/3/195/2613215/Nucleus-Eminentiae-Teretis-Corpus-Pontobulbare-and?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 81536 (80K) [text/html]
+Saving to: ‘00005072-194504030-00001’
+
+     0K .......... .......... .......... .......... .......... 62%  209K 0s
+    50K .......... .......... .........                       100% 13.5M=0.2s
+
+2017-01-29 09:17:18 (329 KB/s) - ‘00005072-194504030-00001’ saved [81536/81536]
+
+--2017-01-29 09:17:19--  http://doi.org/10.1097/00005072-194504030-00008
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194504030-00008 [following]
+--2017-01-29 09:17:20--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194504030-00008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/4/3/291/2613222/Hemangioma-of-the-Medulla-Oblongata?redirectedFrom=fulltext [following]
+--2017-01-29 09:17:22--  https://academic.oup.com/jnen/article-abstract/4/3/291/2613222/Hemangioma-of-the-Medulla-Oblongata?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 83692 (82K) [text/html]
+Saving to: ‘00005072-194504030-00008’
+
+     0K .......... .......... .......... .......... .......... 61%  208K 0s
+    50K .......... .......... .......... .                    100% 10.2M=0.2s
+
+2017-01-29 09:17:26 (336 KB/s) - ‘00005072-194504030-00008’ saved [83692/83692]
+
+--2017-01-29 09:17:27--  http://doi.org/10.1097/00005072-194601000-00009
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194601000-00009 [following]
+--2017-01-29 09:17:28--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194601000-00009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/5/1/77/2611077/Olivopontocerebellar-Atrophy-in-a-Cat1?redirectedFrom=fulltext [following]
+--2017-01-29 09:17:31--  https://academic.oup.com/jnen/article-abstract/5/1/77/2611077/Olivopontocerebellar-Atrophy-in-a-Cat1?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 80049 (78K) [text/html]
+Saving to: ‘00005072-194601000-00009’
+
+     0K .......... .......... .......... .......... .......... 63%  209K 0s
+    50K .......... .......... ........                        100% 7.60M=0.2s
+
+2017-01-29 09:17:34 (322 KB/s) - ‘00005072-194601000-00009’ saved [80049/80049]
+
+--2017-01-29 09:17:35--  http://doi.org/10.1097/00005072-194601000-00008
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194601000-00008 [following]
+--2017-01-29 09:17:36--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194601000-00008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73548 (72K) [text/html]
+Saving to: ‘00005072-194601000-00008’
+
+     0K .......... .......... .......... .......... .......... 69%  224K 0s
+    50K .......... .......... .                               100% 12.7M=0.2s
+
+2017-01-29 09:17:44 (319 KB/s) - ‘00005072-194601000-00008’ saved [73548/73548]
+
+--2017-01-29 09:17:45--  http://doi.org/10.1097/00005072-194601000-00001
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194601000-00001 [following]
+--2017-01-29 09:17:46--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194601000-00001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/5/1/1/2611058/On-Re-innervation-of-Paretic-Muscles-by-the-Use-of?redirectedFrom=fulltext [following]
+--2017-01-29 09:17:51--  https://academic.oup.com/jnen/article-abstract/5/1/1/2611058/On-Re-innervation-of-Paretic-Muscles-by-the-Use-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 84330 (82K) [text/html]
+Saving to: ‘00005072-194601000-00001’
+
+     0K .......... .......... .......... .......... .......... 60%  209K 0s
+    50K .......... .......... .......... ..                   100% 11.0M=0.2s
+
+2017-01-29 09:17:55 (340 KB/s) - ‘00005072-194601000-00001’ saved [84330/84330]
+
+--2017-01-29 09:17:56--  http://doi.org/10.1097/00005072-194601000-00004
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194601000-00004 [following]
+--2017-01-29 09:17:57--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194601000-00004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/5/1/43/2611062/Angiomatous-Malformation-of-the-Sylvian-Aqueduct?redirectedFrom=fulltext [following]
+--2017-01-29 09:17:59--  https://academic.oup.com/jnen/article-abstract/5/1/43/2611062/Angiomatous-Malformation-of-the-Sylvian-Aqueduct?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 96063 (94K) [text/html]
+Saving to: ‘00005072-194601000-00004’
+
+     0K .......... .......... .......... .......... .......... 53%  209K 0s
+    50K .......... .......... .......... .......... ...       100%  541K=0.3s
+
+2017-01-29 09:18:03 (293 KB/s) - ‘00005072-194601000-00004’ saved [96063/96063]
+
+--2017-01-29 09:18:04--  http://doi.org/10.1097/00005072-194601000-00002
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194601000-00002 [following]
+--2017-01-29 09:18:06--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194601000-00002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/5/1/24/2611059/The-Effects-of-Local-Applications-of-Acetylcholine?redirectedFrom=fulltext [following]
+--2017-01-29 09:18:08--  https://academic.oup.com/jnen/article-abstract/5/1/24/2611059/The-Effects-of-Local-Applications-of-Acetylcholine?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 82581 (81K) [text/html]
+Saving to: ‘00005072-194601000-00002’
+
+     0K .......... .......... .......... .......... .......... 61%  209K 0s
+    50K .......... .......... ..........                      100% 7.18M=0.2s
+
+2017-01-29 09:18:17 (331 KB/s) - ‘00005072-194601000-00002’ saved [82581/82581]
+
+--2017-01-29 09:18:18--  http://doi.org/10.1097/00005072-194601000-00006
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194601000-00006 [following]
+--2017-01-29 09:18:19--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194601000-00006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/5/1/60/2611068/Effect-of-Extirpation-of-Parastriate-Cortex-on?redirectedFrom=fulltext [following]
+--2017-01-29 09:18:22--  https://academic.oup.com/jnen/article-abstract/5/1/60/2611068/Effect-of-Extirpation-of-Parastriate-Cortex-on?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 80557 (79K) [text/html]
+Saving to: ‘00005072-194601000-00006’
+
+     0K .......... .......... .......... .......... .......... 63%  209K 0s
+    50K .......... .......... ........                        100% 10.9M=0.2s
+
+2017-01-29 09:18:25 (325 KB/s) - ‘00005072-194601000-00006’ saved [80557/80557]
+
+--2017-01-29 09:18:26--  http://doi.org/10.1097/00005072-194601000-00003
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194601000-00003 [following]
+--2017-01-29 09:18:28--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194601000-00003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/5/1/29/2611060/Cortical-Cerebellar-Atrophy-without-Ataxia1II?redirectedFrom=fulltext [following]
+--2017-01-29 09:18:31--  https://academic.oup.com/jnen/article-abstract/5/1/29/2611060/Cortical-Cerebellar-Atrophy-without-Ataxia1II?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 82249 (80K) [text/html]
+Saving to: ‘00005072-194601000-00003’
+
+     0K .......... .......... .......... .......... .......... 62%  209K 0s
+    50K .......... .......... ..........                      100% 12.1M=0.2s
+
+2017-01-29 09:18:35 (333 KB/s) - ‘00005072-194601000-00003’ saved [82249/82249]
+
+--2017-01-29 09:18:36--  http://doi.org/10.1097/00005072-194601000-00007
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194601000-00007 [following]
+--2017-01-29 09:18:38--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194601000-00007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/5/1/66/2611071/Neurinoma-of-the-Twelfth-Nerve1?redirectedFrom=fulltext [following]
+--2017-01-29 09:18:40--  https://academic.oup.com/jnen/article-abstract/5/1/66/2611071/Neurinoma-of-the-Twelfth-Nerve1?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 79976 (78K) [text/html]
+Saving to: ‘00005072-194601000-00007’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... ........                        100% 8.53M=0.2s
+
+2017-01-29 09:18:43 (322 KB/s) - ‘00005072-194601000-00007’ saved [79976/79976]
+
+--2017-01-29 09:18:44--  http://doi.org/10.1097/00005072-194601000-00010
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194601000-00010 [following]
+--2017-01-29 09:18:46--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194601000-00010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/5/1/82/2611080/The-Falling-Sickness-A-History-of-Epilepsy-From?redirectedFrom=fulltext [following]
+--2017-01-29 09:18:48--  https://academic.oup.com/jnen/article-abstract/5/1/82/2611080/The-Falling-Sickness-A-History-of-Epilepsy-From?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75400 (74K) [text/html]
+Saving to: ‘00005072-194601000-00010’
+
+     0K .......... .......... .......... .......... .......... 67%  209K 0s
+    50K .......... .......... ...                             100% 12.4M=0.2s
+
+2017-01-29 09:18:50 (306 KB/s) - ‘00005072-194601000-00010’ saved [75400/75400]
+
+--2017-01-29 09:18:51--  http://doi.org/10.1097/00005072-194601000-00005
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194601000-00005 [following]
+--2017-01-29 09:18:53--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194601000-00005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/5/1/54/2611064/Terminal-Degeneration-within-the-Central-Nervous?redirectedFrom=fulltext [following]
+--2017-01-29 09:18:55--  https://academic.oup.com/jnen/article-abstract/5/1/54/2611064/Terminal-Degeneration-within-the-Central-Nervous?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 96024 (94K) [text/html]
+Saving to: ‘00005072-194601000-00005’
+
+     0K .......... .......... .......... .......... .......... 53%  209K 0s
+    50K .......... .......... .......... .......... ...       100%  548K=0.3s
+
+2017-01-29 09:19:01 (294 KB/s) - ‘00005072-194601000-00005’ saved [96024/96024]
+
+--2017-01-29 09:19:02--  http://doi.org/10.1097/00005072-194702000-00002
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194702000-00002 [following]
+--2017-01-29 09:19:03--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194702000-00002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/6/1/15/2611161/Precocious-Puberty-with-Hypothalamic-Tumor?redirectedFrom=fulltext [following]
+--2017-01-29 09:19:05--  https://academic.oup.com/jnen/article-abstract/6/1/15/2611161/Precocious-Puberty-with-Hypothalamic-Tumor?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 81657 (80K) [text/html]
+Saving to: ‘00005072-194702000-00002’
+
+     0K .......... .......... .......... .......... .......... 62%  209K 0s
+    50K .......... .......... .........                       100% 10.4M=0.2s
+
+2017-01-29 09:19:09 (329 KB/s) - ‘00005072-194702000-00002’ saved [81657/81657]
+
+--2017-01-29 09:19:10--  http://doi.org/10.1097/00005072-194702000-00006
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194702000-00006 [following]
+--2017-01-29 09:19:11--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194702000-00006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/6/1/61/2611168/Chronic-Progressive-Spino-Cerebello-Cortical?redirectedFrom=fulltext [following]
+--2017-01-29 09:19:13--  https://academic.oup.com/jnen/article-abstract/6/1/61/2611168/Chronic-Progressive-Spino-Cerebello-Cortical?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 81293 (79K) [text/html]
+Saving to: ‘00005072-194702000-00006’
+
+     0K .......... .......... .......... .......... .......... 62%  208K 0s
+    50K .......... .......... .........                       100% 9.68M=0.2s
+
+2017-01-29 09:19:17 (326 KB/s) - ‘00005072-194702000-00006’ saved [81293/81293]
+
+--2017-01-29 09:19:18--  http://doi.org/10.1097/00005072-194702000-00008
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194702000-00008 [following]
+--2017-01-29 09:19:19--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194702000-00008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/6/1/95/2611172/The-Labyrinthine-Reflexes-Following-Graded-Head?redirectedFrom=fulltext [following]
+--2017-01-29 09:19:21--  https://academic.oup.com/jnen/article-abstract/6/1/95/2611172/The-Labyrinthine-Reflexes-Following-Graded-Head?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 80297 (78K) [text/html]
+Saving to: ‘00005072-194702000-00008’
+
+     0K .......... .......... .......... .......... .......... 63%  209K 0s
+    50K .......... .......... ........                        100% 11.0M=0.2s
+
+2017-01-29 09:19:26 (324 KB/s) - ‘00005072-194702000-00008’ saved [80297/80297]
+
+--2017-01-29 09:19:27--  http://doi.org/10.1097/00005072-194702000-00007
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194702000-00007 [following]
+--2017-01-29 09:19:29--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194702000-00007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/6/1/78/2611170/Agenesis-of-the-Corpus-Callosum-and-Associated?redirectedFrom=fulltext [following]
+--2017-01-29 09:19:32--  https://academic.oup.com/jnen/article-abstract/6/1/78/2611170/Agenesis-of-the-Corpus-Callosum-and-Associated?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 79658 (78K) [text/html]
+Saving to: ‘00005072-194702000-00007’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... .......                         100% 9.39M=0.2s
+
+2017-01-29 09:19:36 (321 KB/s) - ‘00005072-194702000-00007’ saved [79658/79658]
+
+--2017-01-29 09:19:37--  http://doi.org/10.1097/00005072-194702000-00009
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194702000-00009 [following]
+--2017-01-29 09:19:39--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194702000-00009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/6/1/98/2611173/Congenital-Malformation-of-the-Brain-Critical?redirectedFrom=fulltext [following]
+--2017-01-29 09:19:41--  https://academic.oup.com/jnen/article-abstract/6/1/98/2611173/Congenital-Malformation-of-the-Brain-Critical?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 79180 (77K) [text/html]
+Saving to: ‘00005072-194702000-00009’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... .......                         100% 8.15M=0.2s
+
+2017-01-29 09:19:45 (319 KB/s) - ‘00005072-194702000-00009’ saved [79180/79180]
+
+--2017-01-29 09:19:46--  http://doi.org/10.1097/00005072-194702000-00004
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194702000-00004 [following]
+--2017-01-29 09:19:47--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194702000-00004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/6/1/35/2611165/Central-Nervous-System-Resistance1II-Lack-of?redirectedFrom=fulltext [following]
+--2017-01-29 09:19:49--  https://academic.oup.com/jnen/article-abstract/6/1/35/2611165/Central-Nervous-System-Resistance1II-Lack-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 82897 (81K) [text/html]
+Saving to: ‘00005072-194702000-00004’
+
+     0K .......... .......... .......... .......... .......... 61%  209K 0s
+    50K .......... .......... ..........                      100% 10.6M=0.2s
+
+2017-01-29 09:19:53 (334 KB/s) - ‘00005072-194702000-00004’ saved [82897/82897]
+
+--2017-01-29 09:19:54--  http://doi.org/10.1097/00005072-194702000-00003
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194702000-00003 [following]
+--2017-01-29 09:19:55--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194702000-00003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/6/1/24/2611163/Concerning-Gangliogliomas-of-the-Brain?redirectedFrom=fulltext [following]
+--2017-01-29 09:19:58--  https://academic.oup.com/jnen/article-abstract/6/1/24/2611163/Concerning-Gangliogliomas-of-the-Brain?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 80869 (79K) [text/html]
+Saving to: ‘00005072-194702000-00003’
+
+     0K .......... .......... .......... .......... .......... 63%  207K 0s
+    50K .......... .......... ........                        100% 11.8M=0.2s
+
+2017-01-29 09:20:02 (323 KB/s) - ‘00005072-194702000-00003’ saved [80869/80869]
+
+--2017-01-29 09:20:03--  http://doi.org/10.1097/00005072-194702000-00001
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194702000-00001 [following]
+--2017-01-29 09:20:05--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194702000-00001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/6/1/1/2611160/Multinucleation-of-Cortical-Nerve-Cells-at-the?redirectedFrom=fulltext [following]
+--2017-01-29 09:20:07--  https://academic.oup.com/jnen/article-abstract/6/1/1/2611160/Multinucleation-of-Cortical-Nerve-Cells-at-the?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 81337 (79K) [text/html]
+Saving to: ‘00005072-194702000-00001’
+
+     0K .......... .......... .......... .......... .......... 62%  203K 0s
+    50K .......... .......... .........                       100% 10.5M=0.2s
+
+2017-01-29 09:20:11 (319 KB/s) - ‘00005072-194702000-00001’ saved [81337/81337]
+
+--2017-01-29 09:20:12--  http://doi.org/10.1097/00005072-194702000-00005
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194702000-00005 [following]
+--2017-01-29 09:20:14--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194702000-00005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/6/1/44/2611167/Torulosis-of-the-Central-Nervous-System?redirectedFrom=fulltext [following]
+--2017-01-29 09:20:17--  https://academic.oup.com/jnen/article-abstract/6/1/44/2611167/Torulosis-of-the-Central-Nervous-System?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 79431 (78K) [text/html]
+Saving to: ‘00005072-194702000-00005’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... .......                         100% 11.0M=0.2s
+
+2017-01-29 09:20:20 (321 KB/s) - ‘00005072-194702000-00005’ saved [79431/79431]
+
+--2017-01-29 09:20:21--  http://doi.org/10.1097/00005072-194801000-00008
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194801000-00008 [following]
+--2017-01-29 09:20:23--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194801000-00008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/7/1/89/2611248/The-Human-Pyramidal-TractXVI-Reaction-of?redirectedFrom=fulltext [following]
+--2017-01-29 09:20:25--  https://academic.oup.com/jnen/article-abstract/7/1/89/2611248/The-Human-Pyramidal-TractXVI-Reaction-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 81339 (79K) [text/html]
+Saving to: ‘00005072-194801000-00008’
+
+     0K .......... .......... .......... .......... .......... 62%  209K 0s
+    50K .......... .......... .........                       100% 8.66M=0.2s
+
+2017-01-29 09:20:29 (327 KB/s) - ‘00005072-194801000-00008’ saved [81339/81339]
+
+--2017-01-29 09:20:30--  http://doi.org/10.1097/00005072-194801000-00004
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194801000-00004 [following]
+--2017-01-29 09:20:31--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194801000-00004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/7/1/47/2611241/Mode-of-Extension-of-Contrast-Substances-Injected?redirectedFrom=fulltext [following]
+--2017-01-29 09:20:34--  https://academic.oup.com/jnen/article-abstract/7/1/47/2611241/Mode-of-Extension-of-Contrast-Substances-Injected?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 84487 (83K) [text/html]
+Saving to: ‘00005072-194801000-00004’
+
+     0K .......... .......... .......... .......... .......... 60%  208K 0s
+    50K .......... .......... .......... ..                   100% 9.28M=0.2s
+
+2017-01-29 09:20:37 (339 KB/s) - ‘00005072-194801000-00004’ saved [84487/84487]
+
+--2017-01-29 09:20:38--  http://doi.org/10.1097/00005072-194801000-00009
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194801000-00009 [following]
+--2017-01-29 09:20:40--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194801000-00009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/7/1/94/2611250/American-Association-of-Neuropathologists?redirectedFrom=fulltext [following]
+--2017-01-29 09:20:43--  https://academic.oup.com/jnen/article-abstract/7/1/94/2611250/American-Association-of-Neuropathologists?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 74402 (73K) [text/html]
+Saving to: ‘00005072-194801000-00009’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ..                              100% 12.1M=0.2s
+
+2017-01-29 09:20:46 (301 KB/s) - ‘00005072-194801000-00009’ saved [74402/74402]
+
+--2017-01-29 09:20:47--  http://doi.org/10.1097/00005072-194801000-00001
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194801000-00001 [following]
+--2017-01-29 09:20:49--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194801000-00001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/7/1/1/2611230/The-Pallial-Component-in-Hepatolenticular?redirectedFrom=fulltext [following]
+--2017-01-29 09:20:51--  https://academic.oup.com/jnen/article-abstract/7/1/1/2611230/The-Pallial-Component-in-Hepatolenticular?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 80334 (78K) [text/html]
+Saving to: ‘00005072-194801000-00001’
+
+     0K .......... .......... .......... .......... .......... 63%  209K 0s
+    50K .......... .......... ........                        100% 8.82M=0.2s
+
+2017-01-29 09:20:53 (324 KB/s) - ‘00005072-194801000-00001’ saved [80334/80334]
+
+--2017-01-29 09:20:54--  http://doi.org/10.1097/00005072-194801000-00006
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194801000-00006 [following]
+--2017-01-29 09:20:56--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194801000-00006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/7/1/69/2611244/Bone-Formation-and-Destruction-in-Hyperostoses?redirectedFrom=fulltext [following]
+--2017-01-29 09:20:58--  https://academic.oup.com/jnen/article-abstract/7/1/69/2611244/Bone-Formation-and-Destruction-in-Hyperostoses?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 82037 (80K) [text/html]
+Saving to: ‘00005072-194801000-00006’
+
+     0K .......... .......... .......... .......... .......... 62%  208K 0s
+    50K .......... .......... ..........                      100% 10.5M=0.2s
+
+2017-01-29 09:21:02 (330 KB/s) - ‘00005072-194801000-00006’ saved [82037/82037]
+
+--2017-01-29 09:21:03--  http://doi.org/10.1097/00005072-194801000-00002
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194801000-00002 [following]
+--2017-01-29 09:21:04--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194801000-00002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/7/1/19/2611237/Hemochromatosis-of-the-Central-Nervous-System?redirectedFrom=fulltext [following]
+--2017-01-29 09:21:06--  https://academic.oup.com/jnen/article-abstract/7/1/19/2611237/Hemochromatosis-of-the-Central-Nervous-System?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 79348 (77K) [text/html]
+Saving to: ‘00005072-194801000-00002’
+
+     0K .......... .......... .......... .......... .......... 64%  307K 0s
+    50K .......... .......... .......                         100%  342K=0.2s
+
+2017-01-29 09:21:10 (319 KB/s) - ‘00005072-194801000-00002’ saved [79348/79348]
+
+--2017-01-29 09:21:11--  http://doi.org/10.1097/00005072-194801000-00010
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194801000-00010 [following]
+--2017-01-29 09:21:12--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194801000-00010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/7/1/116/2611231/Progress-in-Neurology-and-Psychiatry?redirectedFrom=fulltext [following]
+--2017-01-29 09:21:14--  https://academic.oup.com/jnen/article-abstract/7/1/116/2611231/Progress-in-Neurology-and-Psychiatry?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 89580 (87K) [text/html]
+Saving to: ‘00005072-194801000-00010’
+
+     0K .......... .......... .......... .......... .......... 57%  209K 0s
+    50K .......... .......... .......... .......              100%  468K=0.3s
+
+2017-01-29 09:21:18 (274 KB/s) - ‘00005072-194801000-00010’ saved [89580/89580]
+
+--2017-01-29 09:21:19--  http://doi.org/10.1097/00005072-194801000-00003
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194801000-00003 [following]
+--2017-01-29 09:21:21--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194801000-00003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/7/1/35/2611239/Studies-on-the-Physiology-and-Therapy-of?redirectedFrom=fulltext [following]
+--2017-01-29 09:21:25--  https://academic.oup.com/jnen/article-abstract/7/1/35/2611239/Studies-on-the-Physiology-and-Therapy-of?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 101447 (99K) [text/html]
+Saving to: ‘00005072-194801000-00003’
+
+     0K .......... .......... .......... .......... .......... 50%  207K 0s
+    50K .......... .......... .......... .......... ......... 100%  603K=0.3s
+
+2017-01-29 09:21:29 (307 KB/s) - ‘00005072-194801000-00003’ saved [101447/101447]
+
+--2017-01-29 09:21:30--  http://doi.org/10.1097/00005072-194801000-00007
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194801000-00007 [following]
+--2017-01-29 09:21:32--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194801000-00007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73161 (71K) [text/html]
+Saving to: ‘00005072-194801000-00007’
+
+     0K .......... .......... .......... .......... .......... 69%  209K 0s
+    50K .......... .......... .                               100% 11.7M=0.2s
+
+2017-01-29 09:21:38 (296 KB/s) - ‘00005072-194801000-00007’ saved [73161/73161]
+
+--2017-01-29 09:21:39--  http://doi.org/10.1097/00005072-194801000-00005
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194801000-00005 [following]
+--2017-01-29 09:21:40--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194801000-00005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/7/1/59/2611242/Myotonia-Atrophica-Histopathologic-Considerations?redirectedFrom=fulltext [following]
+--2017-01-29 09:21:42--  https://academic.oup.com/jnen/article-abstract/7/1/59/2611242/Myotonia-Atrophica-Histopathologic-Considerations?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 82690 (81K) [text/html]
+Saving to: ‘00005072-194801000-00005’
+
+     0K .......... .......... .......... .......... .......... 61%  209K 0s
+    50K .......... .......... ..........                      100% 12.5M=0.2s
+
+2017-01-29 09:21:46 (334 KB/s) - ‘00005072-194801000-00005’ saved [82690/82690]
+
+--2017-01-29 09:21:47--  http://doi.org/10.1097/00005072-194801000-00012
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194801000-00012 [following]
+--2017-01-29 09:21:48--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194801000-00012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/7/1/119/2611235/Neuropathology-in-its-Clinicopathologic-Aspects?redirectedFrom=fulltext [following]
+--2017-01-29 09:21:50--  https://academic.oup.com/jnen/article-abstract/7/1/119/2611235/Neuropathology-in-its-Clinicopathologic-Aspects?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 89724 (88K) [text/html]
+Saving to: ‘00005072-194801000-00012’
+
+     0K .......... .......... .......... .......... .......... 57%  209K 0s
+    50K .......... .......... .......... .......              100%  469K=0.3s
+
+2017-01-29 09:21:54 (275 KB/s) - ‘00005072-194801000-00012’ saved [89724/89724]
+
+--2017-01-29 09:21:55--  http://doi.org/10.1097/00005072-194801000-00011
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194801000-00011 [following]
+--2017-01-29 09:21:56--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194801000-00011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/7/1/118/2611233/Some-Trends-in-Neuroanatomy?redirectedFrom=fulltext [following]
+--2017-01-29 09:21:58--  https://academic.oup.com/jnen/article-abstract/7/1/118/2611233/Some-Trends-in-Neuroanatomy?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 74797 (73K) [text/html]
+Saving to: ‘00005072-194801000-00011’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ...                             100% 3.61M=0.2s
+
+2017-01-29 09:22:03 (298 KB/s) - ‘00005072-194801000-00011’ saved [74797/74797]
+
+--2017-01-29 09:22:04--  http://doi.org/10.1097/00005072-194901000-00005
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194901000-00005 [following]
+--2017-01-29 09:22:06--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194901000-00005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/8/1/70/2611269/Production-of-Experimental-Allergic?redirectedFrom=fulltext [following]
+--2017-01-29 09:22:08--  https://academic.oup.com/jnen/article-abstract/8/1/70/2611269/Production-of-Experimental-Allergic?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 83649 (82K) [text/html]
+Saving to: ‘00005072-194901000-00005’
+
+     0K .......... .......... .......... .......... .......... 61%  209K 0s
+    50K .......... .......... .......... .                    100% 9.35M=0.2s
+
+2017-01-29 09:22:13 (336 KB/s) - ‘00005072-194901000-00005’ saved [83649/83649]
+
+--2017-01-29 09:22:14--  http://doi.org/10.1097/00005072-194901000-00003
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194901000-00003 [following]
+--2017-01-29 09:22:15--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194901000-00003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72081 (70K) [text/html]
+Saving to: ‘00005072-194901000-00003’
+
+     0K .......... .......... .......... .......... .......... 71%  209K 0s
+    50K .......... ..........                                 100% 15.3M=0.2s
+
+2017-01-29 09:22:20 (293 KB/s) - ‘00005072-194901000-00003’ saved [72081/72081]
+
+--2017-01-29 09:22:21--  http://doi.org/10.1097/00005072-194901000-00001
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194901000-00001 [following]
+--2017-01-29 09:22:22--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194901000-00001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/8/1/1/2611260/Acute-Necrotizing-Hemorrhagic-Excephalopathy?redirectedFrom=fulltext [following]
+--2017-01-29 09:22:25--  https://academic.oup.com/jnen/article-abstract/8/1/1/2611260/Acute-Necrotizing-Hemorrhagic-Excephalopathy?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78365 (77K) [text/html]
+Saving to: ‘00005072-194901000-00001’
+
+     0K .......... .......... .......... .......... .......... 65%  209K 0s
+    50K .......... .......... ......                          100% 10.1M=0.2s
+
+2017-01-29 09:22:27 (317 KB/s) - ‘00005072-194901000-00001’ saved [78365/78365]
+
+--2017-01-29 09:22:28--  http://doi.org/10.1097/00005072-194901000-00007
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194901000-00007 [following]
+--2017-01-29 09:22:30--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194901000-00007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/8/1/85/2611272/A-Report-of-Three-Cases1?redirectedFrom=fulltext [following]
+--2017-01-29 09:22:32--  https://academic.oup.com/jnen/article-abstract/8/1/85/2611272/A-Report-of-Three-Cases1?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79554 (78K) [text/html]
+Saving to: ‘00005072-194901000-00007’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... .......                         100% 9.72M=0.2s
+
+2017-01-29 09:22:35 (320 KB/s) - ‘00005072-194901000-00007’ saved [79554/79554]
+
+--2017-01-29 09:22:36--  http://doi.org/10.1097/00005072-194901000-00004
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194901000-00004 [following]
+--2017-01-29 09:22:37--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194901000-00004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/8/1/61/2611268/Prevention-of-Experimental-Allergic?redirectedFrom=fulltext [following]
+--2017-01-29 09:22:39--  https://academic.oup.com/jnen/article-abstract/8/1/61/2611268/Prevention-of-Experimental-Allergic?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 83061 (81K) [text/html]
+Saving to: ‘00005072-194901000-00004’
+
+     0K .......... .......... .......... .......... .......... 61%  209K 0s
+    50K .......... .......... .......... .                    100% 10.7M=0.2s
+
+2017-01-29 09:22:42 (335 KB/s) - ‘00005072-194901000-00004’ saved [83061/83061]
+
+--2017-01-29 09:22:43--  http://doi.org/10.1097/00005072-194901000-00002
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194901000-00002 [following]
+--2017-01-29 09:22:45--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194901000-00002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/8/1/30/2611265/Asymptomatic-Extrapyramidal-Involvement-in-Pick-s?redirectedFrom=fulltext [following]
+--2017-01-29 09:22:47--  https://academic.oup.com/jnen/article-abstract/8/1/30/2611265/Asymptomatic-Extrapyramidal-Involvement-in-Pick-s?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 78632 (77K) [text/html]
+Saving to: ‘00005072-194901000-00002’
+
+     0K .......... .......... .......... .......... .......... 65%  209K 0s
+    50K .......... .......... ......                          100% 13.1M=0.2s
+
+2017-01-29 09:22:50 (319 KB/s) - ‘00005072-194901000-00002’ saved [78632/78632]
+
+--2017-01-29 09:22:51--  http://doi.org/10.1097/00005072-194901000-00006
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194901000-00006 [following]
+--2017-01-29 09:22:53--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194901000-00006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/8/1/75/2611271/The-Effect-of-Multiple-Gliomas-and-Other-Organic?redirectedFrom=fulltext [following]
+--2017-01-29 09:22:55--  https://academic.oup.com/jnen/article-abstract/8/1/75/2611271/The-Effect-of-Multiple-Gliomas-and-Other-Organic?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 97595 (95K) [text/html]
+Saving to: ‘00005072-194901000-00006’
+
+     0K .......... .......... .......... .......... .......... 52%  209K 0s
+    50K .......... .......... .......... .......... .....     100%  559K=0.3s
+
+2017-01-29 09:22:59 (297 KB/s) - ‘00005072-194901000-00006’ saved [97595/97595]
+
+--2017-01-29 09:23:00--  http://doi.org/10.1097/00005072-194901000-00009
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194901000-00009 [following]
+--2017-01-29 09:23:01--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194901000-00009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/8/1/100/2611261/The-Efferent-Intercortical-Connections-of-the?redirectedFrom=fulltext [following]
+--2017-01-29 09:23:03--  https://academic.oup.com/jnen/article-abstract/8/1/100/2611261/The-Efferent-Intercortical-Connections-of-the?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 84377 (82K) [text/html]
+Saving to: ‘00005072-194901000-00009’
+
+     0K .......... .......... .......... .......... .......... 60%  310K 0s
+    50K .......... .......... .......... ..                   100%  401K=0.2s
+
+2017-01-29 09:23:07 (340 KB/s) - ‘00005072-194901000-00009’ saved [84377/84377]
+
+--2017-01-29 09:23:08--  http://doi.org/10.1097/00005072-194901000-00010
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194901000-00010 [following]
+--2017-01-29 09:23:10--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194901000-00010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/8/1/104/2611262/Annual-Meeting-Atlantic-City-N-J-Session-I-Sunday?redirectedFrom=fulltext [following]
+--2017-01-29 09:23:12--  https://academic.oup.com/jnen/article-abstract/8/1/104/2611262/Annual-Meeting-Atlantic-City-N-J-Session-I-Sunday?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73274 (72K) [text/html]
+Saving to: ‘00005072-194901000-00010’
+
+     0K .......... .......... .......... .......... .......... 69%  209K 0s
+    50K .......... .......... .                               100% 11.3M=0.2s
+
+2017-01-29 09:23:15 (297 KB/s) - ‘00005072-194901000-00010’ saved [73274/73274]
+
+--2017-01-29 09:23:17--  http://doi.org/10.1097/00005072-194901000-00011
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194901000-00011 [following]
+--2017-01-29 09:23:18--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194901000-00011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/8/1/121/2611263/Sexual-Behavior-in-the-Human-Male?redirectedFrom=fulltext [following]
+--2017-01-29 09:23:20--  https://academic.oup.com/jnen/article-abstract/8/1/121/2611263/Sexual-Behavior-in-the-Human-Male?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 73090 (71K) [text/html]
+Saving to: ‘00005072-194901000-00011’
+
+     0K .......... .......... .......... .......... .......... 70%  309K 0s
+    50K .......... .......... .                               100%  268K=0.2s
+
+2017-01-29 09:23:23 (295 KB/s) - ‘00005072-194901000-00011’ saved [73090/73090]
+
+--2017-01-29 09:23:24--  http://doi.org/10.1097/00005072-194901000-00008
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194901000-00008 [following]
+--2017-01-29 09:23:26--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-194901000-00008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/8/1/93/2611274/Paresthesia-in-a-Rhesus-Monkey-Associated-with-a?redirectedFrom=fulltext [following]
+--2017-01-29 09:23:28--  https://academic.oup.com/jnen/article-abstract/8/1/93/2611274/Paresthesia-in-a-Rhesus-Monkey-Associated-with-a?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 87609 (86K) [text/html]
+Saving to: ‘00005072-194901000-00008’
+
+     0K .......... .......... .......... .......... .......... 58%  209K 0s
+    50K .......... .......... .......... .....                100% 11.8M=0.2s
+
+2017-01-29 09:23:32 (354 KB/s) - ‘00005072-194901000-00008’ saved [87609/87609]
+
+--2017-01-29 09:23:33--  http://doi.org/10.1097/00005072-195001000-00001
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195001000-00001 [following]
+--2017-01-29 09:23:34--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195001000-00001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/9/1/1/1852050/Neuropathology-an-Historical-Sketch?redirectedFrom=fulltext [following]
+--2017-01-29 09:23:36--  https://academic.oup.com/jnen/article-abstract/9/1/1/1852050/Neuropathology-an-Historical-Sketch?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 80289 (78K) [text/html]
+Saving to: ‘00005072-195001000-00001’
+
+     0K .......... .......... .......... .......... .......... 63%  208K 0s
+    50K .......... .......... ........                        100% 12.6M=0.2s
+
+2017-01-29 09:23:41 (324 KB/s) - ‘00005072-195001000-00001’ saved [80289/80289]
+
+--2017-01-29 09:23:42--  http://doi.org/10.1097/00005072-195001000-00008
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195001000-00008 [following]
+--2017-01-29 09:23:43--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195001000-00008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/9/1/109/1852054/American-Association-Of-Neuropathologists-Annual?redirectedFrom=fulltext [following]
+--2017-01-29 09:23:45--  https://academic.oup.com/jnen/article-abstract/9/1/109/1852054/American-Association-Of-Neuropathologists-Annual?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75742 (74K) [text/html]
+Saving to: ‘00005072-195001000-00008’
+
+     0K .......... .......... .......... .......... .......... 67%  209K 0s
+    50K .......... .......... ...                             100% 14.0M=0.2s
+
+2017-01-29 09:23:48 (307 KB/s) - ‘00005072-195001000-00008’ saved [75742/75742]
+
+--2017-01-29 09:23:49--  http://doi.org/10.1097/00005072-195001000-00006
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195001000-00006 [following]
+--2017-01-29 09:23:51--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195001000-00006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/9/1/93/1852072/Amyloid-Degeneration-of-the-Human-Brain-Following?redirectedFrom=fulltext [following]
+--2017-01-29 09:23:53--  https://academic.oup.com/jnen/article-abstract/9/1/93/1852072/Amyloid-Degeneration-of-the-Human-Brain-Following?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 83294 (81K) [text/html]
+Saving to: ‘00005072-195001000-00006’
+
+     0K .......... .......... .......... .......... .......... 61%  209K 0s
+    50K .......... .......... .......... .                    100% 8.36M=0.2s
+
+2017-01-29 09:23:57 (335 KB/s) - ‘00005072-195001000-00006’ saved [83294/83294]
+
+--2017-01-29 09:23:58--  http://doi.org/10.1097/00005072-195001000-00004
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195001000-00004 [following]
+--2017-01-29 09:23:59--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195001000-00004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/9/1/60/1852064/Disseminated-Necrotizing-Panarteritis?redirectedFrom=fulltext [following]
+--2017-01-29 09:24:01--  https://academic.oup.com/jnen/article-abstract/9/1/60/1852064/Disseminated-Necrotizing-Panarteritis?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 82368 (80K) [text/html]
+Saving to: ‘00005072-195001000-00004’
+
+     0K .......... .......... .......... .......... .......... 62%  209K 0s
+    50K .......... .......... ..........                      100% 11.5M=0.2s
+
+2017-01-29 09:24:05 (333 KB/s) - ‘00005072-195001000-00004’ saved [82368/82368]
+
+--2017-01-29 09:24:06--  http://doi.org/10.1097/00005072-195001000-00003
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195001000-00003 [following]
+--2017-01-29 09:24:07--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195001000-00003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/9/1/29/1852061/Fatalities-Resulting-from-Exposure-to-Simulated?redirectedFrom=fulltext [following]
+--2017-01-29 09:24:09--  https://academic.oup.com/jnen/article-abstract/9/1/29/1852061/Fatalities-Resulting-from-Exposure-to-Simulated?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 83279 (81K) [text/html]
+Saving to: ‘00005072-195001000-00003’
+
+     0K .......... .......... .......... .......... .......... 61%  208K 0s
+    50K .......... .......... .......... .                    100% 8.68M=0.2s
+
+2017-01-29 09:24:13 (333 KB/s) - ‘00005072-195001000-00003’ saved [83279/83279]
+
+--2017-01-29 09:24:14--  http://doi.org/10.1097/00005072-195001000-00005
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195001000-00005 [following]
+--2017-01-29 09:24:16--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195001000-00005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/9/1/78/1852068/Experimental-Allergic-Brain-Inflammation-a?redirectedFrom=fulltext [following]
+--2017-01-29 09:24:18--  https://academic.oup.com/jnen/article-abstract/9/1/78/1852068/Experimental-Allergic-Brain-Inflammation-a?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 80498 (79K) [text/html]
+Saving to: ‘00005072-195001000-00005’
+
+     0K .......... .......... .......... .......... .......... 63%  209K 0s
+    50K .......... .......... ........                        100% 9.80M=0.2s
+
+2017-01-29 09:24:21 (324 KB/s) - ‘00005072-195001000-00005’ saved [80498/80498]
+
+--2017-01-29 09:24:22--  http://doi.org/10.1097/00005072-195001000-00002
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195001000-00002 [following]
+--2017-01-29 09:24:23--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195001000-00002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/9/1/18/1852057/Experimental-Studies-in-Allergic-Encephalomyeltis?redirectedFrom=fulltext [following]
+--2017-01-29 09:24:25--  https://academic.oup.com/jnen/article-abstract/9/1/18/1852057/Experimental-Studies-in-Allergic-Encephalomyeltis?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 85076 (83K) [text/html]
+Saving to: ‘00005072-195001000-00002’
+
+     0K .......... .......... .......... .......... .......... 60%  209K 0s
+    50K .......... .......... .......... ...                  100% 11.0M=0.2s
+
+2017-01-29 09:24:29 (343 KB/s) - ‘00005072-195001000-00002’ saved [85076/85076]
+
+--2017-01-29 09:24:30--  http://doi.org/10.1097/00005072-195001000-00007
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195001000-00007 [following]
+--2017-01-29 09:24:31--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195001000-00007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/9/1/103/1852053/A-Sarcoid-form-of-Encephalitis-in-a-Patient-with?redirectedFrom=fulltext [following]
+--2017-01-29 09:24:33--  https://academic.oup.com/jnen/article-abstract/9/1/103/1852053/A-Sarcoid-form-of-Encephalitis-in-a-Patient-with?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 83433 (81K) [text/html]
+Saving to: ‘00005072-195001000-00007’
+
+     0K .......... .......... .......... .......... .......... 61%  209K 0s
+    50K .......... .......... .......... .                    100% 10.0M=0.2s
+
+2017-01-29 09:24:37 (336 KB/s) - ‘00005072-195001000-00007’ saved [83433/83433]
+
+--2017-01-29 09:24:38--  http://doi.org/10.1097/00005072-195004000-00008
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195004000-00008 [following]
+--2017-01-29 09:24:39--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195004000-00008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/9/2/193/1848513/Medullo-EpitheliomaA-Critical-Re-Evaluation?redirectedFrom=fulltext [following]
+--2017-01-29 09:24:41--  https://academic.oup.com/jnen/article-abstract/9/2/193/1848513/Medullo-EpitheliomaA-Critical-Re-Evaluation?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 86679 (85K) [text/html]
+Saving to: ‘00005072-195004000-00008’
+
+     0K .......... .......... .......... .......... .......... 59%  310K 0s
+    50K .......... .......... .......... ....                 100%  427K=0.2s
+
+2017-01-29 09:24:45 (349 KB/s) - ‘00005072-195004000-00008’ saved [86679/86679]
+
+--2017-01-29 09:24:46--  http://doi.org/10.1097/00005072-195004000-00010
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195004000-00010 [following]
+--2017-01-29 09:24:48--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195004000-00010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/9/2/202/1848516/The-Influence-of-Infection-with-Lansing-Strain?redirectedFrom=fulltext [following]
+--2017-01-29 09:24:49--  https://academic.oup.com/jnen/article-abstract/9/2/202/1848516/The-Influence-of-Infection-with-Lansing-Strain?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 96660 (94K) [text/html]
+Saving to: ‘00005072-195004000-00010’
+
+     0K .......... .......... .......... .......... .......... 52%  209K 0s
+    50K .......... .......... .......... .......... ....      100%  549K=0.3s
+
+2017-01-29 09:24:54 (295 KB/s) - ‘00005072-195004000-00010’ saved [96660/96660]
+
+--2017-01-29 09:24:55--  http://doi.org/10.1097/00005072-195004000-00001
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195004000-00001 [following]
+--2017-01-29 09:24:56--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195004000-00001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/9/2/119/1848461/Multiple-Cystic-Softening-of-the-Brain-in-the-New?redirectedFrom=fulltext [following]
+--2017-01-29 09:24:58--  https://academic.oup.com/jnen/article-abstract/9/2/119/1848461/Multiple-Cystic-Softening-of-the-Brain-in-the-New?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 80556 (79K) [text/html]
+Saving to: ‘00005072-195004000-00001’
+
+     0K .......... .......... .......... .......... .......... 63%  310K 0s
+    50K .......... .......... ........                        100%  355K=0.2s
+
+2017-01-29 09:25:02 (325 KB/s) - ‘00005072-195004000-00001’ saved [80556/80556]
+
+--2017-01-29 09:25:03--  http://doi.org/10.1097/00005072-195004000-00007
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195004000-00007 [following]
+--2017-01-29 09:25:05--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195004000-00007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/9/2/186/1848488/ChloromaReport-Of-A-Case?redirectedFrom=fulltext [following]
+--2017-01-29 09:25:07--  https://academic.oup.com/jnen/article-abstract/9/2/186/1848488/ChloromaReport-Of-A-Case?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 81409 (80K) [text/html]
+Saving to: ‘00005072-195004000-00007’
+
+     0K .......... .......... .......... .......... .......... 62%  208K 0s
+    50K .......... .......... .........                       100% 10.6M=0.2s
+
+2017-01-29 09:25:10 (327 KB/s) - ‘00005072-195004000-00007’ saved [81409/81409]
+
+--2017-01-29 09:25:11--  http://doi.org/10.1097/00005072-195004000-00013
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195004000-00013 [following]
+--2017-01-29 09:25:12--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195004000-00013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/9/2/216/1848527/Book-Reviews?redirectedFrom=fulltext [following]
+--2017-01-29 09:25:14--  https://academic.oup.com/jnen/article-abstract/9/2/216/1848527/Book-Reviews?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 74677 (73K) [text/html]
+Saving to: ‘00005072-195004000-00013’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ..                              100% 9.85M=0.2s
+
+2017-01-29 09:25:17 (302 KB/s) - ‘00005072-195004000-00013’ saved [74677/74677]
+
+--2017-01-29 09:25:18--  http://doi.org/10.1097/00005072-195004000-00004
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195004000-00004 [following]
+--2017-01-29 09:25:20--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195004000-00004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/9/2/164/1848475/The-Histogenesis-of-Sympathetic-Ganglion-Cells-An?redirectedFrom=fulltext [following]
+--2017-01-29 09:25:24--  https://academic.oup.com/jnen/article-abstract/9/2/164/1848475/The-Histogenesis-of-Sympathetic-Ganglion-Cells-An?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 98350 (96K) [text/html]
+Saving to: ‘00005072-195004000-00004’
+
+     0K .......... .......... .......... .......... .......... 52%  209K 0s
+    50K .......... .......... .......... .......... ......    100%  567K=0.3s
+
+2017-01-29 09:25:28 (300 KB/s) - ‘00005072-195004000-00004’ saved [98350/98350]
+
+--2017-01-29 09:25:29--  http://doi.org/10.1097/00005072-195004000-00005
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195004000-00005 [following]
+--2017-01-29 09:25:30--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195004000-00005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/9/2/172/1848478/An-Animal-Analogue-of-Periodic-Paralysis-in-Man?redirectedFrom=fulltext [following]
+--2017-01-29 09:25:32--  https://academic.oup.com/jnen/article-abstract/9/2/172/1848478/An-Animal-Analogue-of-Periodic-Paralysis-in-Man?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 80520 (79K) [text/html]
+Saving to: ‘00005072-195004000-00005’
+
+     0K .......... .......... .......... .......... .......... 63%  209K 0s
+    50K .......... .......... ........                        100% 8.54M=0.2s
+
+2017-01-29 09:25:36 (325 KB/s) - ‘00005072-195004000-00005’ saved [80520/80520]
+
+--2017-01-29 09:25:37--  http://doi.org/10.1097/00005072-195004000-00009
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195004000-00009 [following]
+--2017-01-29 09:25:39--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195004000-00009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/9/2/198/1848515/Negative-Result-of-Trials-to-Influence-the-Healing?redirectedFrom=fulltext [following]
+--2017-01-29 09:25:42--  https://academic.oup.com/jnen/article-abstract/9/2/198/1848515/Negative-Result-of-Trials-to-Influence-the-Healing?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 80154 (78K) [text/html]
+Saving to: ‘00005072-195004000-00009’
+
+     0K .......... .......... .......... .......... .......... 63%  210K 0s
+    50K .......... .......... ........                        100% 8.28M=0.2s
+
+2017-01-29 09:25:46 (323 KB/s) - ‘00005072-195004000-00009’ saved [80154/80154]
+
+--2017-01-29 09:25:47--  http://doi.org/10.1097/00005072-195004000-00006
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195004000-00006 [following]
+--2017-01-29 09:25:48--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195004000-00006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/9/2/179/1848484/Cortico-Cortical-Connections-of-the-Walls-of-the?redirectedFrom=fulltext [following]
+--2017-01-29 09:25:51--  https://academic.oup.com/jnen/article-abstract/9/2/179/1848484/Cortico-Cortical-Connections-of-the-Walls-of-the?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 85421 (83K) [text/html]
+Saving to: ‘00005072-195004000-00006’
+
+     0K .......... .......... .......... .......... .......... 59%  209K 0s
+    50K .......... .......... .......... ...                  100% 10.6M=0.2s
+
+2017-01-29 09:25:54 (345 KB/s) - ‘00005072-195004000-00006’ saved [85421/85421]
+
+--2017-01-29 09:25:55--  http://doi.org/10.1097/00005072-195004000-00014
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195004000-00014 [following]
+--2017-01-29 09:25:56--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195004000-00014
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/9/2/217/1848531/Neurological-Anatomy-in-Relation-to-Clinical?redirectedFrom=fulltext [following]
+--2017-01-29 09:25:59--  https://academic.oup.com/jnen/article-abstract/9/2/217/1848531/Neurological-Anatomy-in-Relation-to-Clinical?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 73577 (72K) [text/html]
+Saving to: ‘00005072-195004000-00014’
+
+     0K .......... .......... .......... .......... .......... 69%  209K 0s
+    50K .......... .......... .                               100% 9.56M=0.2s
+
+2017-01-29 09:26:02 (298 KB/s) - ‘00005072-195004000-00014’ saved [73577/73577]
+
+--2017-01-29 09:26:03--  http://doi.org/10.1097/00005072-195004000-00003
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195004000-00003 [following]
+--2017-01-29 09:26:05--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195004000-00003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/9/2/150/1848471/Loss-of-Nerve-Cells-in-Experimental-Cerebral?redirectedFrom=fulltext [following]
+--2017-01-29 09:26:07--  https://academic.oup.com/jnen/article-abstract/9/2/150/1848471/Loss-of-Nerve-Cells-in-Experimental-Cerebral?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 80846 (79K) [text/html]
+Saving to: ‘00005072-195004000-00003’
+
+     0K .......... .......... .......... .......... .......... 63%  209K 0s
+    50K .......... .......... ........                        100% 5.34M=0.2s
+
+2017-01-29 09:26:10 (323 KB/s) - ‘00005072-195004000-00003’ saved [80846/80846]
+
+--2017-01-29 09:26:11--  http://doi.org/10.1097/00005072-195004000-00011
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195004000-00011 [following]
+--2017-01-29 09:26:13--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195004000-00011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/9/2/204/1848521/The-Synapse-A-Summary?redirectedFrom=fulltext [following]
+--2017-01-29 09:26:15--  https://academic.oup.com/jnen/article-abstract/9/2/204/1848521/The-Synapse-A-Summary?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://academic.oup.com/jnen/article/9/2/204/1848521/The-Synapse-A-Summary [following]
+--2017-01-29 09:26:21--  https://academic.oup.com/jnen/article/9/2/204/1848521/The-Synapse-A-Summary
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/9/2/204/1848521/The-Synapse-A-Summary?redirectedFrom=fulltext [following]
+--2017-01-29 09:26:22--  https://academic.oup.com/jnen/article-abstract/9/2/204/1848521/The-Synapse-A-Summary?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 80199 (78K) [text/html]
+Saving to: ‘00005072-195004000-00011’
+
+     0K .......... .......... .......... .......... .......... 63%  310K 0s
+    50K .......... .......... ........                        100%  353K=0.2s
+
+2017-01-29 09:26:25 (325 KB/s) - ‘00005072-195004000-00011’ saved [80199/80199]
+
+--2017-01-29 09:26:26--  http://doi.org/10.1097/00005072-195004000-00012
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195004000-00012 [following]
+--2017-01-29 09:26:27--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195004000-00012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/9/2/216/1848524/Functional-Localization-in-Relation-to-Frontal?redirectedFrom=fulltext [following]
+--2017-01-29 09:26:30--  https://academic.oup.com/jnen/article-abstract/9/2/216/1848524/Functional-Localization-in-Relation-to-Frontal?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 74997 (73K) [text/html]
+Saving to: ‘00005072-195004000-00012’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ...                             100% 11.8M=0.2s
+
+2017-01-29 09:26:34 (304 KB/s) - ‘00005072-195004000-00012’ saved [74997/74997]
+
+--2017-01-29 09:26:35--  http://doi.org/10.1097/00005072-195004000-00002
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195004000-00002 [following]
+--2017-01-29 09:26:37--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195004000-00002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/9/2/139/1848466/Mortal-Brain-Wounds-A-Phatologic-Study1?redirectedFrom=fulltext [following]
+--2017-01-29 09:26:39--  https://academic.oup.com/jnen/article-abstract/9/2/139/1848466/Mortal-Brain-Wounds-A-Phatologic-Study1?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 82915 (81K) [text/html]
+Saving to: ‘00005072-195004000-00002’
+
+     0K .......... .......... .......... .......... .......... 61%  209K 0s
+    50K .......... .......... ..........                      100% 11.4M=0.2s
+
+2017-01-29 09:26:42 (334 KB/s) - ‘00005072-195004000-00002’ saved [82915/82915]
+
+--2017-01-29 09:26:43--  http://doi.org/10.1097/00005072-195007000-00012
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195007000-00012 [following]
+--2017-01-29 09:26:45--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195007000-00012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/9/3/350/1804428/Textbook-of-Neuropathology?redirectedFrom=fulltext [following]
+--2017-01-29 09:26:47--  https://academic.oup.com/jnen/article-abstract/9/3/350/1804428/Textbook-of-Neuropathology?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 74999 (73K) [text/html]
+Saving to: ‘00005072-195007000-00012’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ...                             100% 11.9M=0.2s
+
+2017-01-29 09:26:50 (304 KB/s) - ‘00005072-195007000-00012’ saved [74999/74999]
+
+--2017-01-29 09:26:51--  http://doi.org/10.1097/00005072-195007000-00006
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195007000-00006 [following]
+--2017-01-29 09:26:53--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195007000-00006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/9/3/322/1804399/Primary-Mesenchymal-Tumors-of-the-Brain-So-Called?redirectedFrom=fulltext [following]
+--2017-01-29 09:26:55--  https://academic.oup.com/jnen/article-abstract/9/3/322/1804399/Primary-Mesenchymal-Tumors-of-the-Brain-So-Called?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 85580 (84K) [text/html]
+Saving to: ‘00005072-195007000-00006’
+
+     0K .......... .......... .......... .......... .......... 59%  209K 0s
+    50K .......... .......... .......... ...                  100% 10.5M=0.2s
+
+2017-01-29 09:27:01 (345 KB/s) - ‘00005072-195007000-00006’ saved [85580/85580]
+
+--2017-01-29 09:27:02--  http://doi.org/10.1097/00005072-195007000-00007
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195007000-00007 [following]
+--2017-01-29 09:27:03--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195007000-00007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/9/3/335/1804404/Changes-in-the-Arteriae-Nervorum-in-Peripheral?redirectedFrom=fulltext [following]
+--2017-01-29 09:27:05--  https://academic.oup.com/jnen/article-abstract/9/3/335/1804404/Changes-in-the-Arteriae-Nervorum-in-Peripheral?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 83292 (81K) [text/html]
+Saving to: ‘00005072-195007000-00007’
+
+     0K .......... .......... .......... .......... .......... 61%  209K 0s
+    50K .......... .......... .......... .                    100% 2.36M=0.3s
+
+2017-01-29 09:27:08 (323 KB/s) - ‘00005072-195007000-00007’ saved [83292/83292]
+
+--2017-01-29 09:27:09--  http://doi.org/10.1097/00005072-195007000-00008
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195007000-00008 [following]
+--2017-01-29 09:27:11--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195007000-00008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/9/3/344/1804416/Uremia-EncephalitisA-Case-Report?redirectedFrom=fulltext [following]
+--2017-01-29 09:27:13--  https://academic.oup.com/jnen/article-abstract/9/3/344/1804416/Uremia-EncephalitisA-Case-Report?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 80933 (79K) [text/html]
+Saving to: ‘00005072-195007000-00008’
+
+     0K .......... .......... .......... .......... .......... 63%  209K 0s
+    50K .......... .......... .........                       100% 8.96M=0.2s
+
+2017-01-29 09:27:17 (326 KB/s) - ‘00005072-195007000-00008’ saved [80933/80933]
+
+--2017-01-29 09:27:18--  http://doi.org/10.1097/00005072-195007000-00011
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195007000-00011 [following]
+--2017-01-29 09:27:20--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195007000-00011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/9/3/349/1804425/A-Short-Atlas-of-the-Brain-Stem-of-the-Cat-and?redirectedFrom=fulltext [following]
+--2017-01-29 09:27:21--  https://academic.oup.com/jnen/article-abstract/9/3/349/1804425/A-Short-Atlas-of-the-Brain-Stem-of-the-Cat-and?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75790 (74K) [text/html]
+Saving to: ‘00005072-195007000-00011’
+
+     0K .......... .......... .......... .......... .......... 67%  209K 0s
+    50K .......... .......... ....                            100% 12.6M=0.2s
+
+2017-01-29 09:27:24 (307 KB/s) - ‘00005072-195007000-00011’ saved [75790/75790]
+
+--2017-01-29 09:27:25--  http://doi.org/10.1097/00005072-195007000-00005
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195007000-00005 [following]
+--2017-01-29 09:27:26--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195007000-00005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/9/3/311/1804393/Cerebral-Contusion-in-Accidental?redirectedFrom=fulltext [following]
+--2017-01-29 09:27:29--  https://academic.oup.com/jnen/article-abstract/9/3/311/1804393/Cerebral-Contusion-in-Accidental?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 79349 (77K) [text/html]
+Saving to: ‘00005072-195007000-00005’
+
+     0K .......... .......... .......... .......... .......... 64%  310K 0s
+    50K .......... .......... .......                         100%  343K=0.2s
+
+2017-01-29 09:27:32 (321 KB/s) - ‘00005072-195007000-00005’ saved [79349/79349]
+
+--2017-01-29 09:27:33--  http://doi.org/10.1097/00005072-195007000-00003
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195007000-00003 [following]
+--2017-01-29 09:27:35--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195007000-00003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/9/3/286/1804384/Xanthomas-of-the-Choroid-Plexus-in-Man?redirectedFrom=fulltext [following]
+--2017-01-29 09:27:36--  https://academic.oup.com/jnen/article-abstract/9/3/286/1804384/Xanthomas-of-the-Choroid-Plexus-in-Man?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 84073 (82K) [text/html]
+Saving to: ‘00005072-195007000-00003’
+
+     0K .......... .......... .......... .......... .......... 60%  209K 0s
+    50K .......... .......... .......... ..                   100% 9.93M=0.2s
+
+2017-01-29 09:27:40 (339 KB/s) - ‘00005072-195007000-00003’ saved [84073/84073]
+
+--2017-01-29 09:27:41--  http://doi.org/10.1097/00005072-195007000-00002
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195007000-00002 [following]
+--2017-01-29 09:27:42--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195007000-00002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/9/3/250/1804378/Frontal-LobotomyNeuroanatomical-Observations?redirectedFrom=fulltext [following]
+--2017-01-29 09:27:47--  https://academic.oup.com/jnen/article-abstract/9/3/250/1804378/Frontal-LobotomyNeuroanatomical-Observations?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 84002 (82K) [text/html]
+Saving to: ‘00005072-195007000-00002’
+
+     0K .......... .......... .......... .......... .......... 60%  209K 0s
+    50K .......... .......... .......... ..                   100% 10.1M=0.2s
+
+2017-01-29 09:27:50 (339 KB/s) - ‘00005072-195007000-00002’ saved [84002/84002]
+
+--2017-01-29 09:27:51--  http://doi.org/10.1097/00005072-195007000-00004
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195007000-00004 [following]
+--2017-01-29 09:27:52--  https://academic.oup.com/jnen/article-lookup/doi/10.1097/00005072-195007000-00004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jnen/article-abstract/9/3/298/1804389/Neuropathological-Findings-in-Phenyl-Pyruvic?redirectedFrom=fulltext [following]
+--2017-01-29 09:27:55--  https://academic.oup.com/jnen/article-abstract/9/3/298/1804389/Neuropathological-Findings-in-Phenyl-Pyruvic?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 85687 (84K) [text/html]
+Saving to: ‘00005072-195007000-00004’
+
+     0K .......... .......... .......... .......... .......... 59%  209K 0s
+    50K .......... .......... .......... ...                  100% 10.5M=0.2s
+
+2017-01-29 09:27:58 (346 KB/s) - ‘00005072-195007000-00004’ saved [85687/85687]
+
+FINISHED --2017-01-29 09:27:58--
+Total wall clock time: 14m 31s
+Downloaded: 100 files, 7.9M in 25s (318 KB/s)

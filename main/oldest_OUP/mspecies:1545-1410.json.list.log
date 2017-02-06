@@ -1,0 +1,272 @@
+--2017-01-29 18:23:55--  http://doi.org/10.1644/(2000)646%3C0001:tb%3E2.0.co;2
+Resolving doi.org (doi.org)... 208.254.38.90, 54.191.229.235, 95.138.171.129, ...
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://doi.org/10.1644/1545-1410(2000)646%3C1:TB%3E2.0.CO;2 [following]
+--2017-01-29 18:23:56--  http://doi.org/10.1644/1545-1410(2000)646%3C1:TB%3E2.0.CO;2
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.asmjournals.org/perlserv/?request=get-abstract&doi=10.1644/1545-1410(2000)646%3C1:TB%3E2.0.CO;2 [following]
+--2017-01-29 18:23:57--  http://www.asmjournals.org/perlserv/?request=get-abstract&doi=10.1644/1545-1410(2000)646%3C1:TB%3E2.0.CO;2
+Resolving www.asmjournals.org (www.asmjournals.org)... 199.245.199.10
+Connecting to www.asmjournals.org (www.asmjournals.org)|199.245.199.10|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-29 18:23:58 ERROR 404: Not Found.
+
+--2017-01-29 18:23:59--  http://doi.org/10.1644/1545-1410(2000)646%3C1:tb%3E2.0.co;2
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.asmjournals.org/perlserv/?request=get-abstract&doi=10.1644/1545-1410(2000)646%3C1:TB%3E2.0.CO;2 [following]
+--2017-01-29 18:24:00--  http://www.asmjournals.org/perlserv/?request=get-abstract&doi=10.1644/1545-1410(2000)646%3C1:TB%3E2.0.CO;2
+Connecting to www.asmjournals.org (www.asmjournals.org)|199.245.199.10|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-29 18:24:00 ERROR 404: Not Found.
+
+--2017-01-29 18:24:01--  http://doi.org/10.1644/735
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mspecies/article-lookup/doi/10.1644/735 [following]
+--2017-01-29 18:24:03--  https://academic.oup.com/mspecies/article-lookup/doi/10.1644/735
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 69381 (68K) [text/html]
+Saving to: ‘735’
+
+     0K .......... .......... .......... .......... .......... 73%  209K 0s
+    50K .......... .......                                    100% 17.0M=0.2s
+
+2017-01-29 18:24:08 (282 KB/s) - ‘735’ saved [69381/69381]
+
+--2017-01-29 18:24:09--  http://doi.org/10.1644/732
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mspecies/article-lookup/doi/10.1644/732 [following]
+--2017-01-29 18:24:10--  https://academic.oup.com/mspecies/article-lookup/doi/10.1644/732
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68448 (67K) [text/html]
+Saving to: ‘732’
+
+     0K .......... .......... .......... .......... .......... 74%  209K 0s
+    50K .......... ......                                     100% 15.6M=0.2s
+
+2017-01-29 18:24:17 (278 KB/s) - ‘732’ saved [68448/68448]
+
+--2017-01-29 18:24:18--  http://doi.org/10.1644/731
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/mspecies/article-lookup/doi/10.1644/731 [following]
+--2017-01-29 18:24:19--  https://academic.oup.com/mspecies/article-lookup/doi/10.1644/731
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 69012 (67K) [text/html]
+Saving to: ‘731’
+
+     0K .......... .......... .......... .......... .......... 74%  209K 0s
+    50K .......... .......                                    100% 16.2M=0.2s
+
+2017-01-29 18:24:22 (281 KB/s) - ‘731’ saved [69012/69012]
+
+--2017-01-29 18:24:23--  http://doi.org/10.1644/715
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.bioone.org/doi/abs/10.1644/715 [following]
+--2017-01-29 18:24:25--  http://www.bioone.org/doi/abs/10.1644/715
+Resolving www.bioone.org (www.bioone.org)... 65.156.1.65
+Connecting to www.bioone.org (www.bioone.org)|65.156.1.65|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.bioone.org/doi/abs/10.1644/715?cookieSet=1 [following]
+--2017-01-29 18:24:26--  http://www.bioone.org/doi/abs/10.1644/715?cookieSet=1
+Reusing existing connection to www.bioone.org:80.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.bioone.org/doi/abs/10.1644/715 [following]
+--2017-01-29 18:24:27--  http://www.bioone.org/doi/abs/10.1644/715
+Reusing existing connection to www.bioone.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘715’
+
+     0K .......... .......... .......... .......... ..........  111K
+    50K .......... .......... .......... .......... ..........  333K
+   100K .......... .......... .......... .......... ..........  336K
+   150K .......... .......... .......... .......... ..........  338K
+   200K .......... .......... .......... .......... .......... 7.43M
+   250K .......... .......... .......... .                      216K=1.0s
+
+2017-01-29 18:24:29 (268 KB/s) - ‘715’ saved [287974]
+
+--2017-01-29 18:24:30--  http://doi.org/10.1644/716
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.bioone.org/doi/abs/10.1644/716 [following]
+--2017-01-29 18:24:31--  http://www.bioone.org/doi/abs/10.1644/716
+Connecting to www.bioone.org (www.bioone.org)|65.156.1.65|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘716’
+
+     0K .......... .......... .......... .......... ..........  323K
+    50K .......... .......... .......... .......... ..........  333K
+   100K .......... .......... .......... .......... ..........  329K
+   150K .......... .......... .......... .......... .......... 8.11M
+   200K .......... .......... .......... .......... ..........  332K
+   250K .......... .......... .......... .                      209K=0.8s
+
+2017-01-29 18:24:32 (369 KB/s) - ‘716’ saved [287976]
+
+--2017-01-29 18:24:33--  http://doi.org/10.1644/723
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.bioone.org/doi/abs/10.1644/723 [following]
+--2017-01-29 18:24:35--  http://www.bioone.org/doi/abs/10.1644/723
+Connecting to www.bioone.org (www.bioone.org)|65.156.1.65|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘723’
+
+     0K .......... .......... .......... .......... ..........  326K
+    50K .......... .......... .......... .......... ..........  333K
+   100K .......... .......... .......... .......... ..........  334K
+   150K .......... .......... .......... .......... .......... 8.20M
+   200K .......... .......... .......... .......... ..........  335K
+   250K .......... .......... .......... .                      209K=0.8s
+
+2017-01-29 18:24:36 (371 KB/s) - ‘723’ saved [287976]
+
+--2017-01-29 18:24:37--  http://doi.org/10.1644/720
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.bioone.org/doi/abs/10.1644/720 [following]
+--2017-01-29 18:24:38--  http://www.bioone.org/doi/abs/10.1644/720
+Connecting to www.bioone.org (www.bioone.org)|65.156.1.65|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘720’
+
+     0K .......... .......... .......... .......... ..........  327K
+    50K .......... .......... .......... .......... ..........  333K
+   100K .......... .......... .......... .......... ..........  331K
+   150K .......... .......... .......... .......... .......... 10.0M
+   200K .......... .......... .......... .......... ..........  334K
+   250K .......... .......... .......... .                      211K=0.8s
+
+2017-01-29 18:24:40 (372 KB/s) - ‘720’ saved [287976]
+
+--2017-01-29 18:24:41--  http://doi.org/10.1644/718
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.bioone.org/doi/abs/10.1644/718 [following]
+--2017-01-29 18:24:42--  http://www.bioone.org/doi/abs/10.1644/718
+Connecting to www.bioone.org (www.bioone.org)|65.156.1.65|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘718’
+
+     0K .......... .......... .......... .......... ..........  326K
+    50K .......... .......... .......... .......... ..........  332K
+   100K .......... .......... .......... .......... ..........  332K
+   150K .......... .......... .......... .......... .......... 9.63M
+   200K .......... .......... .......... .......... ..........  325K
+   250K .......... .......... .......... .                      213K=0.8s
+
+2017-01-29 18:24:43 (370 KB/s) - ‘718’ saved [287977]
+
+--2017-01-29 18:24:44--  http://doi.org/10.1644/717
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.bioone.org/doi/abs/10.1644/717 [following]
+--2017-01-29 18:24:45--  http://www.bioone.org/doi/abs/10.1644/717
+Connecting to www.bioone.org (www.bioone.org)|65.156.1.65|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘717’
+
+     0K .......... .......... .......... .......... ..........  327K
+    50K .......... .......... .......... .......... ..........  330K
+   100K .......... .......... .......... .......... ..........  333K
+   150K .......... .......... .......... .......... .......... 10.8M
+   200K .......... .......... .......... .......... ..........  334K
+   250K .......... .......... .......... .                      210K=0.8s
+
+2017-01-29 18:24:47 (372 KB/s) - ‘717’ saved [287978]
+
+--2017-01-29 18:24:48--  http://doi.org/10.1644/727
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.bioone.org/doi/abs/10.1644/727 [following]
+--2017-01-29 18:24:49--  http://www.bioone.org/doi/abs/10.1644/727
+Connecting to www.bioone.org (www.bioone.org)|65.156.1.65|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘727’
+
+     0K .......... .......... .......... .......... ..........  327K
+    50K .......... .......... .......... .......... ..........  330K
+   100K .......... .......... .......... .......... ..........  334K
+   150K .......... .......... .......... .......... .......... 10.6M
+   200K .......... .......... .......... .......... ..........  332K
+   250K .......... .......... .......... .                      212K=0.8s
+
+2017-01-29 18:24:50 (372 KB/s) - ‘727’ saved [287975]
+
+--2017-01-29 18:24:51--  http://doi.org/10.1644/722
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.bioone.org/doi/abs/10.1644/722 [following]
+--2017-01-29 18:24:52--  http://www.bioone.org/doi/abs/10.1644/722
+Connecting to www.bioone.org (www.bioone.org)|65.156.1.65|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘722’
+
+     0K .......... .......... .......... .......... ..........  320K
+    50K .......... .......... .......... .......... ..........  326K
+   100K .......... .......... .......... .......... ..........  327K
+   150K .......... .......... .......... .......... .......... 10.3M
+   200K .......... .......... .......... .......... ..........  325K
+   250K .......... .......... .......... .                      206K=0.8s
+
+2017-01-29 18:24:54 (364 KB/s) - ‘722’ saved [287980]
+
+--2017-01-29 18:24:55--  http://doi.org/10.1644/724
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.bioone.org/doi/abs/10.1644/724 [following]
+--2017-01-29 18:24:56--  http://www.bioone.org/doi/abs/10.1644/724
+Connecting to www.bioone.org (www.bioone.org)|65.156.1.65|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘724’
+
+     0K .......... .......... .......... .......... ..........  330K
+    50K .......... .......... .......... .......... ..........  335K
+   100K .......... .......... .......... .......... ..........  334K
+   150K .......... .......... .......... .......... .......... 9.88M
+   200K .......... .......... .......... .......... ..........  334K
+   250K .......... .......... .......... .                      214K=0.8s
+
+2017-01-29 18:24:57 (374 KB/s) - ‘724’ saved [287982]
+
+--2017-01-29 18:24:58--  http://doi.org/10.1644/721
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.bioone.org/doi/abs/10.1644/721 [following]
+--2017-01-29 18:24:59--  http://www.bioone.org/doi/abs/10.1644/721
+Connecting to www.bioone.org (www.bioone.org)|65.156.1.65|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘721’
+
+     0K .......... .......... .......... .......... ..........  326K
+    50K .......... .......... .......... .......... ..........  330K
+   100K .......... .......... .......... .......... ..........  333K
+   150K .......... .......... .......... .......... .......... 10.5M
+   200K .......... .......... .......... .......... ..........  334K
+   250K .......... .......... .......... .                      211K=0.8s
+
+2017-01-29 18:25:01 (371 KB/s) - ‘721’ saved [287977]
+
+FINISHED --2017-01-29 18:25:01--
+Total wall clock time: 1m 6s
+Downloaded: 13 files, 2.9M in 8.6s (350 KB/s)

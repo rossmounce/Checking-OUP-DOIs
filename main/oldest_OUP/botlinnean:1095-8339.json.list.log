@@ -1,0 +1,1417 @@
+--2017-01-27 22:05:51--  http://doi.org/10.1111/(issn)1095-8339
+Resolving doi.org (doi.org)... 95.138.171.129, 54.191.229.235, 63.123.152.248, ...
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/(ISSN)1095-8339 [following]
+--2017-01-27 22:05:53--  http://doi.wiley.com/10.1111/(ISSN)1095-8339
+Resolving doi.wiley.com (doi.wiley.com)... 199.171.202.200
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/(ISSN)1095-8339 [following]
+--2017-01-27 22:05:55--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/(ISSN)1095-8339
+Resolving onlinelibrary.wiley.com (onlinelibrary.wiley.com)... 199.171.202.195
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1095-8339;jsessionid=FE5989E59E1397A38E28482F439C7105.f03t01?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-27 22:05:57--  http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1095-8339;jsessionid=FE5989E59E1397A38E28482F439C7105.f03t01?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘(issn)1095-8339’
+
+     0K .......... .......... .......... ........               136K=0.3s
+
+2017-01-27 22:05:57 (136 KB/s) - ‘(issn)1095-8339’ saved [39404]
+
+--2017-01-27 22:05:58--  http://doi.org/10.1111/j.1095-8339.1887.tb01324.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1887.tb01324.x [following]
+--2017-01-27 22:05:59--  http://doi.wiley.com/10.1111/j.1095-8339.1887.tb01324.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1887.tb01324.x [following]
+--2017-01-27 22:06:01--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1887.tb01324.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:06:01 ERROR 404: Not Found.
+
+--2017-01-27 22:06:02--  http://doi.org/10.1111/j.1095-8339.1888.tb01948.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1888.tb01948.x [following]
+--2017-01-27 22:06:03--  http://doi.wiley.com/10.1111/j.1095-8339.1888.tb01948.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1888.tb01948.x [following]
+--2017-01-27 22:06:04--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1888.tb01948.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:06:04 ERROR 404: Not Found.
+
+--2017-01-27 22:06:05--  http://doi.org/10.1111/j.1095-8339.1895.tb02382.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1895.tb02382.x [following]
+--2017-01-27 22:06:07--  http://doi.wiley.com/10.1111/j.1095-8339.1895.tb02382.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1895.tb02382.x [following]
+--2017-01-27 22:06:08--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1895.tb02382.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:06:08 ERROR 404: Not Found.
+
+--2017-01-27 22:06:09--  http://doi.org/10.1111/j.1095-8339.1901.tb00593.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1901.tb00593.x [following]
+--2017-01-27 22:06:10--  http://doi.wiley.com/10.1111/j.1095-8339.1901.tb00593.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1901.tb00593.x [following]
+--2017-01-27 22:06:12--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1901.tb00593.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:06:12 ERROR 404: Not Found.
+
+--2017-01-27 22:06:13--  http://doi.org/10.1111/j.1095-8339.1902.tb01643.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1902.tb01643.x [following]
+--2017-01-27 22:06:14--  http://doi.wiley.com/10.1111/j.1095-8339.1902.tb01643.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1902.tb01643.x [following]
+--2017-01-27 22:06:15--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1902.tb01643.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:06:15 ERROR 404: Not Found.
+
+--2017-01-27 22:06:16--  http://doi.org/10.1111/j.1095-8339.1911.tb00872.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1911.tb00872.x [following]
+--2017-01-27 22:06:17--  http://doi.wiley.com/10.1111/j.1095-8339.1911.tb00872.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1911.tb00872.x [following]
+--2017-01-27 22:06:19--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1911.tb00872.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:06:19 ERROR 404: Not Found.
+
+--2017-01-27 22:06:20--  http://doi.org/10.1111/j.1095-8339.1911.tb00870.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1911.tb00870.x [following]
+--2017-01-27 22:06:21--  http://doi.wiley.com/10.1111/j.1095-8339.1911.tb00870.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1911.tb00870.x [following]
+--2017-01-27 22:06:22--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1911.tb00870.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:06:22 ERROR 404: Not Found.
+
+--2017-01-27 22:06:23--  http://doi.org/10.1111/j.1095-8339.1911.tb00874.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1911.tb00874.x [following]
+--2017-01-27 22:06:24--  http://doi.wiley.com/10.1111/j.1095-8339.1911.tb00874.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1911.tb00874.x [following]
+--2017-01-27 22:06:26--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1911.tb00874.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:06:26 ERROR 404: Not Found.
+
+--2017-01-27 22:06:27--  http://doi.org/10.1111/j.1095-8339.1911.tb00871.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1911.tb00871.x [following]
+--2017-01-27 22:06:28--  http://doi.wiley.com/10.1111/j.1095-8339.1911.tb00871.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1911.tb00871.x [following]
+--2017-01-27 22:06:29--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1911.tb00871.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:06:29 ERROR 404: Not Found.
+
+--2017-01-27 22:06:30--  http://doi.org/10.1111/j.1095-8339.1911.tb00873.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1911.tb00873.x [following]
+--2017-01-27 22:06:31--  http://doi.wiley.com/10.1111/j.1095-8339.1911.tb00873.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1911.tb00873.x [following]
+--2017-01-27 22:06:33--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1911.tb00873.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:06:33 ERROR 404: Not Found.
+
+--2017-01-27 22:06:34--  http://doi.org/10.1111/j.1095-8339.1911.tb00875.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1911.tb00875.x [following]
+--2017-01-27 22:06:35--  http://doi.wiley.com/10.1111/j.1095-8339.1911.tb00875.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1911.tb00875.x [following]
+--2017-01-27 22:06:36--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1911.tb00875.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:06:36 ERROR 404: Not Found.
+
+--2017-01-27 22:06:37--  http://doi.org/10.1111/j.1095-8339.1912.tb00608.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1912.tb00608.x [following]
+--2017-01-27 22:06:38--  http://doi.wiley.com/10.1111/j.1095-8339.1912.tb00608.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1912.tb00608.x [following]
+--2017-01-27 22:06:40--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1912.tb00608.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:06:40 ERROR 404: Not Found.
+
+--2017-01-27 22:06:41--  http://doi.org/10.1111/j.1095-8339.1912.tb00878.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1912.tb00878.x [following]
+--2017-01-27 22:06:42--  http://doi.wiley.com/10.1111/j.1095-8339.1912.tb00878.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1912.tb00878.x [following]
+--2017-01-27 22:06:43--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1912.tb00878.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:06:43 ERROR 404: Not Found.
+
+--2017-01-27 22:06:44--  http://doi.org/10.1111/j.1095-8339.1913.tb01203.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1913.tb01203.x [following]
+--2017-01-27 22:06:45--  http://doi.wiley.com/10.1111/j.1095-8339.1913.tb01203.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1913.tb01203.x [following]
+--2017-01-27 22:06:47--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1913.tb01203.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:06:47 ERROR 404: Not Found.
+
+--2017-01-27 22:06:48--  http://doi.org/10.1111/j.1095-8339.1925.tb02006.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1925.tb02006.x [following]
+--2017-01-27 22:06:49--  http://doi.wiley.com/10.1111/j.1095-8339.1925.tb02006.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1925.tb02006.x [following]
+--2017-01-27 22:06:50--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1925.tb02006.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:06:50 ERROR 404: Not Found.
+
+--2017-01-27 22:06:51--  http://doi.org/10.1111/j.1095-8339.1925.tb02005.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1925.tb02005.x [following]
+--2017-01-27 22:06:53--  http://doi.wiley.com/10.1111/j.1095-8339.1925.tb02005.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1925.tb02005.x [following]
+--2017-01-27 22:06:54--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1925.tb02005.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:06:54 ERROR 404: Not Found.
+
+--2017-01-27 22:06:55--  http://doi.org/10.1111/j.1095-8339.1925.tb02009.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1925.tb02009.x [following]
+--2017-01-27 22:06:56--  http://doi.wiley.com/10.1111/j.1095-8339.1925.tb02009.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1925.tb02009.x [following]
+--2017-01-27 22:06:57--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1925.tb02009.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:06:57 ERROR 404: Not Found.
+
+--2017-01-27 22:06:58--  http://doi.org/10.1111/j.1095-8339.1925.tb02007.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1925.tb02007.x [following]
+--2017-01-27 22:07:00--  http://doi.wiley.com/10.1111/j.1095-8339.1925.tb02007.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1925.tb02007.x [following]
+--2017-01-27 22:07:01--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1925.tb02007.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:07:01 ERROR 404: Not Found.
+
+--2017-01-27 22:07:02--  http://doi.org/10.1111/j.1095-8339.1925.tb02008.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1925.tb02008.x [following]
+--2017-01-27 22:07:03--  http://doi.wiley.com/10.1111/j.1095-8339.1925.tb02008.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1925.tb02008.x [following]
+--2017-01-27 22:07:04--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1925.tb02008.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:07:05 ERROR 404: Not Found.
+
+--2017-01-27 22:07:06--  http://doi.org/10.1111/j.1095-8339.1925.tb01797.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1925.tb01797.x [following]
+--2017-01-27 22:07:07--  http://doi.wiley.com/10.1111/j.1095-8339.1925.tb01797.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1925.tb01797.x [following]
+--2017-01-27 22:07:08--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1925.tb01797.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:07:08 ERROR 404: Not Found.
+
+--2017-01-27 22:07:09--  http://doi.org/10.1111/j.1095-8339.1925.tb01794.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1925.tb01794.x [following]
+--2017-01-27 22:07:10--  http://doi.wiley.com/10.1111/j.1095-8339.1925.tb01794.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1925.tb01794.x [following]
+--2017-01-27 22:07:11--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1925.tb01794.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:07:12 ERROR 404: Not Found.
+
+--2017-01-27 22:07:13--  http://doi.org/10.1111/j.1095-8339.1925.tb01795.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1925.tb01795.x [following]
+--2017-01-27 22:07:14--  http://doi.wiley.com/10.1111/j.1095-8339.1925.tb01795.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1925.tb01795.x [following]
+--2017-01-27 22:07:15--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1925.tb01795.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:07:15 ERROR 404: Not Found.
+
+--2017-01-27 22:07:16--  http://doi.org/10.1111/j.1095-8339.1925.tb01796.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1925.tb01796.x [following]
+--2017-01-27 22:07:17--  http://doi.wiley.com/10.1111/j.1095-8339.1925.tb01796.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1925.tb01796.x [following]
+--2017-01-27 22:07:18--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1925.tb01796.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:07:19 ERROR 404: Not Found.
+
+--2017-01-27 22:07:20--  http://doi.org/10.1111/j.1095-8339.1925.tb01799.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1925.tb01799.x [following]
+--2017-01-27 22:07:21--  http://doi.wiley.com/10.1111/j.1095-8339.1925.tb01799.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1925.tb01799.x [following]
+--2017-01-27 22:07:22--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1925.tb01799.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:07:22 ERROR 404: Not Found.
+
+--2017-01-27 22:07:23--  http://doi.org/10.1111/j.1095-8339.1925.tb01798.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1925.tb01798.x [following]
+--2017-01-27 22:07:24--  http://doi.wiley.com/10.1111/j.1095-8339.1925.tb01798.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1925.tb01798.x [following]
+--2017-01-27 22:07:26--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1925.tb01798.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:07:26 ERROR 404: Not Found.
+
+--2017-01-27 22:07:27--  http://doi.org/10.1111/j.1095-8339.1928.tb01802.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1928.tb01802.x [following]
+--2017-01-27 22:07:28--  http://doi.wiley.com/10.1111/j.1095-8339.1928.tb01802.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1928.tb01802.x [following]
+--2017-01-27 22:07:29--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1928.tb01802.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:07:29 ERROR 404: Not Found.
+
+--2017-01-27 22:07:30--  http://doi.org/10.1111/j.1095-8339.1928.tb01801.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1928.tb01801.x [following]
+--2017-01-27 22:07:31--  http://doi.wiley.com/10.1111/j.1095-8339.1928.tb01801.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1928.tb01801.x [following]
+--2017-01-27 22:07:33--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1928.tb01801.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:07:33 ERROR 404: Not Found.
+
+--2017-01-27 22:07:34--  http://doi.org/10.1111/j.1095-8339.1928.tb01800.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1928.tb01800.x [following]
+--2017-01-27 22:07:35--  http://doi.wiley.com/10.1111/j.1095-8339.1928.tb01800.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1928.tb01800.x [following]
+--2017-01-27 22:07:36--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1928.tb01800.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:07:36 ERROR 404: Not Found.
+
+--2017-01-27 22:07:37--  http://doi.org/10.1111/j.1095-8339.1929.tb01803.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1929.tb01803.x [following]
+--2017-01-27 22:07:38--  http://doi.wiley.com/10.1111/j.1095-8339.1929.tb01803.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1929.tb01803.x [following]
+--2017-01-27 22:07:40--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1929.tb01803.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:07:40 ERROR 404: Not Found.
+
+--2017-01-27 22:07:41--  http://doi.org/10.1111/j.1095-8339.1929.tb01804.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1929.tb01804.x [following]
+--2017-01-27 22:07:42--  http://doi.wiley.com/10.1111/j.1095-8339.1929.tb01804.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1929.tb01804.x [following]
+--2017-01-27 22:07:43--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1929.tb01804.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:07:43 ERROR 404: Not Found.
+
+--2017-01-27 22:07:44--  http://doi.org/10.1111/j.1095-8339.1929.tb01805.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1929.tb01805.x [following]
+--2017-01-27 22:07:45--  http://doi.wiley.com/10.1111/j.1095-8339.1929.tb01805.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1929.tb01805.x [following]
+--2017-01-27 22:07:47--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1929.tb01805.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:07:47 ERROR 404: Not Found.
+
+--2017-01-27 22:07:48--  http://doi.org/10.1111/j.1095-8339.1929.tb01806.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1929.tb01806.x [following]
+--2017-01-27 22:07:49--  http://doi.wiley.com/10.1111/j.1095-8339.1929.tb01806.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1929.tb01806.x [following]
+--2017-01-27 22:07:50--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1929.tb01806.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:07:50 ERROR 404: Not Found.
+
+--2017-01-27 22:07:51--  http://doi.org/10.1111/j.1095-8339.1930.tb02275.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1930.tb02275.x [following]
+--2017-01-27 22:07:52--  http://doi.wiley.com/10.1111/j.1095-8339.1930.tb02275.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1930.tb02275.x [following]
+--2017-01-27 22:07:54--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1930.tb02275.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:07:54 ERROR 404: Not Found.
+
+--2017-01-27 22:07:55--  http://doi.org/10.1111/j.1095-8339.1930.tb02276.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1930.tb02276.x [following]
+--2017-01-27 22:07:56--  http://doi.wiley.com/10.1111/j.1095-8339.1930.tb02276.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1930.tb02276.x [following]
+--2017-01-27 22:07:57--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1930.tb02276.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:07:57 ERROR 404: Not Found.
+
+--2017-01-27 22:07:58--  http://doi.org/10.1111/j.1095-8339.1946.tb01950.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1946.tb01950.x [following]
+--2017-01-27 22:07:59--  http://doi.wiley.com/10.1111/j.1095-8339.1946.tb01950.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1946.tb01950.x [following]
+--2017-01-27 22:08:01--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1946.tb01950.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:08:01 ERROR 404: Not Found.
+
+--2017-01-27 22:08:02--  http://doi.org/10.1111/j.1095-8339.1946.tb01951.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1946.tb01951.x [following]
+--2017-01-27 22:08:03--  http://doi.wiley.com/10.1111/j.1095-8339.1946.tb01951.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1946.tb01951.x [following]
+--2017-01-27 22:08:04--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1946.tb01951.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:08:04 ERROR 404: Not Found.
+
+--2017-01-27 22:08:05--  http://doi.org/10.1111/j.1095-8339.1946.tb01949.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1946.tb01949.x [following]
+--2017-01-27 22:08:07--  http://doi.wiley.com/10.1111/j.1095-8339.1946.tb01949.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1946.tb01949.x [following]
+--2017-01-27 22:08:08--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1946.tb01949.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:08:08 ERROR 404: Not Found.
+
+--2017-01-27 22:08:09--  http://doi.org/10.1111/j.1095-8339.1946.tb01608.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1946.tb01608.x [following]
+--2017-01-27 22:08:10--  http://doi.wiley.com/10.1111/j.1095-8339.1946.tb01608.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1946.tb01608.x [following]
+--2017-01-27 22:08:11--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1946.tb01608.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:08:11 ERROR 404: Not Found.
+
+--2017-01-27 22:08:12--  http://doi.org/10.1111/j.1095-8339.1946.tb01605.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1946.tb01605.x [following]
+--2017-01-27 22:08:14--  http://doi.wiley.com/10.1111/j.1095-8339.1946.tb01605.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1946.tb01605.x [following]
+--2017-01-27 22:08:15--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1946.tb01605.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:08:15 ERROR 404: Not Found.
+
+--2017-01-27 22:08:16--  http://doi.org/10.1111/j.1095-8339.1946.tb01606.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1946.tb01606.x [following]
+--2017-01-27 22:08:17--  http://doi.wiley.com/10.1111/j.1095-8339.1946.tb01606.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1946.tb01606.x [following]
+--2017-01-27 22:08:18--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1946.tb01606.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:08:18 ERROR 404: Not Found.
+
+--2017-01-27 22:08:20--  http://doi.org/10.1111/j.1095-8339.1946.tb01607.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1946.tb01607.x [following]
+--2017-01-27 22:08:21--  http://doi.wiley.com/10.1111/j.1095-8339.1946.tb01607.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1946.tb01607.x [following]
+--2017-01-27 22:08:22--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1946.tb01607.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:08:22 ERROR 404: Not Found.
+
+--2017-01-27 22:08:23--  http://doi.org/10.1111/j.1095-8339.1946.tb01604.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1946.tb01604.x [following]
+--2017-01-27 22:08:24--  http://doi.wiley.com/10.1111/j.1095-8339.1946.tb01604.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1946.tb01604.x [following]
+--2017-01-27 22:08:25--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1946.tb01604.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:08:26 ERROR 404: Not Found.
+
+--2017-01-27 22:08:27--  http://doi.org/10.1111/j.1095-8339.1950.tb01554.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1950.tb01554.x [following]
+--2017-01-27 22:08:28--  http://doi.wiley.com/10.1111/j.1095-8339.1950.tb01554.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1950.tb01554.x [following]
+--2017-01-27 22:08:29--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1950.tb01554.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:08:29 ERROR 404: Not Found.
+
+--2017-01-27 22:08:30--  http://doi.org/10.1111/j.1095-8339.1950.tb01555.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1950.tb01555.x [following]
+--2017-01-27 22:08:31--  http://doi.wiley.com/10.1111/j.1095-8339.1950.tb01555.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1950.tb01555.x [following]
+--2017-01-27 22:08:32--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1950.tb01555.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:08:33 ERROR 404: Not Found.
+
+--2017-01-27 22:08:34--  http://doi.org/10.1111/j.1095-8339.1950.tb01556.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1950.tb01556.x [following]
+--2017-01-27 22:08:35--  http://doi.wiley.com/10.1111/j.1095-8339.1950.tb01556.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1950.tb01556.x [following]
+--2017-01-27 22:08:36--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1950.tb01556.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:08:36 ERROR 404: Not Found.
+
+--2017-01-27 22:08:37--  http://doi.org/10.1111/j.1095-8339.1961.tb00889.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1961.tb00889.x [following]
+--2017-01-27 22:08:38--  http://doi.wiley.com/10.1111/j.1095-8339.1961.tb00889.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1961.tb00889.x [following]
+--2017-01-27 22:08:39--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1961.tb00889.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/j.1095-8339.1961.tb00889.x/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-27 22:08:41--  http://onlinelibrary.wiley.com/doi/10.1111/j.1095-8339.1961.tb00889.x/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 49901 (49K) [text/html]
+Saving to: ‘j.1095-8339.1961.tb00889.x’
+
+     0K .......... .......... .......... .......... ........  100%  176K=0.3s
+
+2017-01-27 22:08:41 (176 KB/s) - ‘j.1095-8339.1961.tb00889.x’ saved [49901/49901]
+
+--2017-01-27 22:08:43--  http://doi.org/10.1111/boj.1963.58.issue-374
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/boj.1963.58.issue-374 [following]
+--2017-01-27 22:08:44--  http://doi.wiley.com/10.1111/boj.1963.58.issue-374
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/boj.1963.58.issue-374 [following]
+--2017-01-27 22:08:45--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/boj.1963.58.issue-374
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/boj.1963.58.issue-374/issuetoc?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-27 22:08:46--  http://onlinelibrary.wiley.com/doi/10.1111/boj.1963.58.issue-374/issuetoc?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘boj.1963.58.issue-374’
+
+     0K .......... .......... .......... .......                138K=0.3s
+
+2017-01-27 22:08:47 (138 KB/s) - ‘boj.1963.58.issue-374’ saved [38591]
+
+--2017-01-27 22:08:48--  http://doi.org/10.1111/j.1095-8339.1972.tb00124.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1972.tb00124.x [following]
+--2017-01-27 22:08:49--  http://doi.wiley.com/10.1111/j.1095-8339.1972.tb00124.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1972.tb00124.x [following]
+--2017-01-27 22:08:50--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1972.tb00124.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:08:50 ERROR 404: Not Found.
+
+--2017-01-27 22:08:51--  http://doi.org/10.1111/j.1095-8339.1972.tb02278.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1972.tb02278.x [following]
+--2017-01-27 22:08:52--  http://doi.wiley.com/10.1111/j.1095-8339.1972.tb02278.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1972.tb02278.x [following]
+--2017-01-27 22:08:54--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1972.tb02278.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:08:54 ERROR 404: Not Found.
+
+--2017-01-27 22:08:55--  http://doi.org/10.1111/j.1095-8339.1973.tb01743.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1973.tb01743.x [following]
+--2017-01-27 22:08:56--  http://doi.wiley.com/10.1111/j.1095-8339.1973.tb01743.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1973.tb01743.x [following]
+--2017-01-27 22:08:57--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1973.tb01743.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:08:57 ERROR 404: Not Found.
+
+--2017-01-27 22:08:58--  http://doi.org/10.1111/j.1095-8339.1974.tb01616.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1974.tb01616.x [following]
+--2017-01-27 22:08:59--  http://doi.wiley.com/10.1111/j.1095-8339.1974.tb01616.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1974.tb01616.x [following]
+--2017-01-27 22:09:01--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1974.tb01616.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:09:01 ERROR 404: Not Found.
+
+--2017-01-27 22:09:02--  http://doi.org/10.1111/j.1095-8339.1974.tb01623.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1974.tb01623.x [following]
+--2017-01-27 22:09:03--  http://doi.wiley.com/10.1111/j.1095-8339.1974.tb01623.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1974.tb01623.x [following]
+--2017-01-27 22:09:04--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1974.tb01623.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:09:05 ERROR 404: Not Found.
+
+--2017-01-27 22:09:06--  http://doi.org/10.1111/j.1095-8339.1974.tb01628.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1974.tb01628.x [following]
+--2017-01-27 22:09:07--  http://doi.wiley.com/10.1111/j.1095-8339.1974.tb01628.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1974.tb01628.x [following]
+--2017-01-27 22:09:08--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1974.tb01628.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:09:08 ERROR 404: Not Found.
+
+--2017-01-27 22:09:09--  http://doi.org/10.1111/j.1095-8339.1976.tb01391.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1976.tb01391.x [following]
+--2017-01-27 22:09:10--  http://doi.wiley.com/10.1111/j.1095-8339.1976.tb01391.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1976.tb01391.x [following]
+--2017-01-27 22:09:12--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1976.tb01391.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:09:12 ERROR 404: Not Found.
+
+--2017-01-27 22:09:13--  http://doi.org/10.1111/j.1095-8339.1977.tb01161.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1977.tb01161.x [following]
+--2017-01-27 22:09:14--  http://doi.wiley.com/10.1111/j.1095-8339.1977.tb01161.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1977.tb01161.x [following]
+--2017-01-27 22:09:15--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1977.tb01161.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:09:15 ERROR 404: Not Found.
+
+--2017-01-27 22:09:16--  http://doi.org/10.1111/j.1095-8339.1977.tb01169.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1977.tb01169.x [following]
+--2017-01-27 22:09:17--  http://doi.wiley.com/10.1111/j.1095-8339.1977.tb01169.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1977.tb01169.x [following]
+--2017-01-27 22:09:19--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1977.tb01169.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:09:19 ERROR 404: Not Found.
+
+--2017-01-27 22:09:20--  http://doi.org/10.1111/j.1095-8339.1977.tb01175.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1977.tb01175.x [following]
+--2017-01-27 22:09:21--  http://doi.wiley.com/10.1111/j.1095-8339.1977.tb01175.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1977.tb01175.x [following]
+--2017-01-27 22:09:22--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1977.tb01175.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:09:22 ERROR 404: Not Found.
+
+--2017-01-27 22:09:23--  http://doi.org/10.1111/j.1095-8339.1977.tb01181.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1977.tb01181.x [following]
+--2017-01-27 22:09:25--  http://doi.wiley.com/10.1111/j.1095-8339.1977.tb01181.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1977.tb01181.x [following]
+--2017-01-27 22:09:26--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1977.tb01181.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:09:26 ERROR 404: Not Found.
+
+--2017-01-27 22:09:27--  http://doi.org/10.1111/boj.1977.75.issue-2
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/boj.1977.75.issue-2 [following]
+--2017-01-27 22:09:28--  http://doi.wiley.com/10.1111/boj.1977.75.issue-2
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/boj.1977.75.issue-2 [following]
+--2017-01-27 22:09:29--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/boj.1977.75.issue-2
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/boj.1977.75.issue-2/issuetoc?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-27 22:09:30--  http://onlinelibrary.wiley.com/doi/10.1111/boj.1977.75.issue-2/issuetoc?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘boj.1977.75.issue-2’
+
+     0K .......... .......... .......... .........              146K=0.3s
+
+2017-01-27 22:09:31 (146 KB/s) - ‘boj.1977.75.issue-2’ saved [40674]
+
+--2017-01-27 22:09:32--  http://doi.org/10.1111/j.1095-8339.1977.tb01490.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1977.tb01490.x [following]
+--2017-01-27 22:09:33--  http://doi.wiley.com/10.1111/j.1095-8339.1977.tb01490.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1977.tb01490.x [following]
+--2017-01-27 22:09:35--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1977.tb01490.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:09:35 ERROR 404: Not Found.
+
+--2017-01-27 22:09:36--  http://doi.org/10.1111/j.1095-8339.1978.tb01495.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1978.tb01495.x [following]
+--2017-01-27 22:09:37--  http://doi.wiley.com/10.1111/j.1095-8339.1978.tb01495.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1978.tb01495.x [following]
+--2017-01-27 22:09:38--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1978.tb01495.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:09:38 ERROR 404: Not Found.
+
+--2017-01-27 22:09:39--  http://doi.org/10.1111/j.1095-8339.1980.tb00941.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1980.tb00941.x [following]
+--2017-01-27 22:09:41--  http://doi.wiley.com/10.1111/j.1095-8339.1980.tb00941.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1980.tb00941.x [following]
+--2017-01-27 22:09:42--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1980.tb00941.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:09:42 ERROR 404: Not Found.
+
+--2017-01-27 22:09:43--  http://doi.org/10.1111/j.1095-8339.1981.tb00959.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1981.tb00959.x [following]
+--2017-01-27 22:09:44--  http://doi.wiley.com/10.1111/j.1095-8339.1981.tb00959.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1981.tb00959.x [following]
+--2017-01-27 22:09:45--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1981.tb00959.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:09:46 ERROR 404: Not Found.
+
+--2017-01-27 22:09:47--  http://doi.org/10.1111/j.1095-8339.1982.tb00356.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1982.tb00356.x [following]
+--2017-01-27 22:09:48--  http://doi.wiley.com/10.1111/j.1095-8339.1982.tb00356.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1982.tb00356.x [following]
+--2017-01-27 22:09:49--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1982.tb00356.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:09:49 ERROR 404: Not Found.
+
+--2017-01-27 22:09:50--  http://doi.org/10.1111/j.1095-8339.1982.tb00531.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1982.tb00531.x [following]
+--2017-01-27 22:09:51--  http://doi.wiley.com/10.1111/j.1095-8339.1982.tb00531.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1982.tb00531.x [following]
+--2017-01-27 22:09:52--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1982.tb00531.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:09:53 ERROR 404: Not Found.
+
+--2017-01-27 22:09:54--  http://doi.org/10.1111/j.1095-8339.1984.tb02559.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1984.tb02559.x [following]
+--2017-01-27 22:09:55--  http://doi.wiley.com/10.1111/j.1095-8339.1984.tb02559.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1984.tb02559.x [following]
+--2017-01-27 22:09:56--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1984.tb02559.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:09:56 ERROR 404: Not Found.
+
+--2017-01-27 22:09:57--  http://doi.org/10.1111/j.1095-8339.1985.tb00376.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1985.tb00376.x [following]
+--2017-01-27 22:09:58--  http://doi.wiley.com/10.1111/j.1095-8339.1985.tb00376.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1985.tb00376.x [following]
+--2017-01-27 22:09:59--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1985.tb00376.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:10:00 ERROR 404: Not Found.
+
+--2017-01-27 22:10:01--  http://doi.org/10.1111/j.1095-8339.1985.tb00382.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1985.tb00382.x [following]
+--2017-01-27 22:10:02--  http://doi.wiley.com/10.1111/j.1095-8339.1985.tb00382.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1985.tb00382.x [following]
+--2017-01-27 22:10:03--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1985.tb00382.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:10:03 ERROR 404: Not Found.
+
+--2017-01-27 22:10:04--  http://doi.org/10.1111/boj.1986.93.issue-3
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/boj.1986.93.issue-3 [following]
+--2017-01-27 22:10:05--  http://doi.wiley.com/10.1111/boj.1986.93.issue-3
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/boj.1986.93.issue-3 [following]
+--2017-01-27 22:10:06--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/boj.1986.93.issue-3
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/boj.1986.93.issue-3/issuetoc?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-27 22:10:08--  http://onlinelibrary.wiley.com/doi/10.1111/boj.1986.93.issue-3/issuetoc?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘boj.1986.93.issue-3’
+
+     0K .......... .......... .......... ..........             144K=0.3s
+
+2017-01-27 22:10:09 (144 KB/s) - ‘boj.1986.93.issue-3’ saved [40974]
+
+--2017-01-27 22:10:10--  http://doi.org/10.1111/j.1095-8339.1987.tb01830.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1987.tb01830.x [following]
+--2017-01-27 22:10:11--  http://doi.wiley.com/10.1111/j.1095-8339.1987.tb01830.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1987.tb01830.x [following]
+--2017-01-27 22:10:12--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1987.tb01830.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:10:12 ERROR 404: Not Found.
+
+--2017-01-27 22:10:13--  http://doi.org/10.1111/j.1095-8339.1987.tb01858.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1987.tb01858.x [following]
+--2017-01-27 22:10:14--  http://doi.wiley.com/10.1111/j.1095-8339.1987.tb01858.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1987.tb01858.x [following]
+--2017-01-27 22:10:15--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1987.tb01858.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:10:16 ERROR 404: Not Found.
+
+--2017-01-27 22:10:17--  http://doi.org/10.1111/j.1095-8339.1987.tb01864.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1987.tb01864.x [following]
+--2017-01-27 22:10:18--  http://doi.wiley.com/10.1111/j.1095-8339.1987.tb01864.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1987.tb01864.x [following]
+--2017-01-27 22:10:19--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1987.tb01864.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:10:19 ERROR 404: Not Found.
+
+--2017-01-27 22:10:20--  http://doi.org/10.1111/j.1095-8339.1988.tb02427.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1988.tb02427.x [following]
+--2017-01-27 22:10:21--  http://doi.wiley.com/10.1111/j.1095-8339.1988.tb02427.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1988.tb02427.x [following]
+--2017-01-27 22:10:22--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1988.tb02427.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:10:23 ERROR 404: Not Found.
+
+--2017-01-27 22:10:24--  http://doi.org/10.1111/j.1095-8339.1990.tb00190.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1990.tb00190.x [following]
+--2017-01-27 22:10:25--  http://doi.wiley.com/10.1111/j.1095-8339.1990.tb00190.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1990.tb00190.x [following]
+--2017-01-27 22:10:26--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1990.tb00190.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:10:26 ERROR 404: Not Found.
+
+--2017-01-27 22:10:27--  http://doi.org/10.1111/j.1095-8339.1991.tb00204.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1991.tb00204.x [following]
+--2017-01-27 22:10:28--  http://doi.wiley.com/10.1111/j.1095-8339.1991.tb00204.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1991.tb00204.x [following]
+--2017-01-27 22:10:30--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1991.tb00204.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:10:30 ERROR 404: Not Found.
+
+--2017-01-27 22:10:31--  http://doi.org/10.1111/j.1095-8339.1991.tb00210.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1991.tb00210.x [following]
+--2017-01-27 22:10:32--  http://doi.wiley.com/10.1111/j.1095-8339.1991.tb00210.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1991.tb00210.x [following]
+--2017-01-27 22:10:33--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1991.tb00210.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:10:33 ERROR 404: Not Found.
+
+--2017-01-27 22:10:34--  http://doi.org/10.1111/j.1095-8339.1991.tb00219.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1991.tb00219.x [following]
+--2017-01-27 22:10:35--  http://doi.wiley.com/10.1111/j.1095-8339.1991.tb00219.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1991.tb00219.x [following]
+--2017-01-27 22:10:37--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1991.tb00219.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:10:37 ERROR 404: Not Found.
+
+--2017-01-27 22:10:38--  http://doi.org/10.1111/j.1095-8339.1992.tb00231.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1992.tb00231.x [following]
+--2017-01-27 22:10:39--  http://doi.wiley.com/10.1111/j.1095-8339.1992.tb00231.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1992.tb00231.x [following]
+--2017-01-27 22:10:40--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1992.tb00231.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:10:40 ERROR 404: Not Found.
+
+--2017-01-27 22:10:41--  http://doi.org/10.1111/j.1095-8339.1992.tb00414.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1992.tb00414.x [following]
+--2017-01-27 22:10:42--  http://doi.wiley.com/10.1111/j.1095-8339.1992.tb00414.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1992.tb00414.x [following]
+--2017-01-27 22:10:44--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1992.tb00414.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:10:44 ERROR 404: Not Found.
+
+--2017-01-27 22:10:45--  http://doi.org/10.1111/j.1095-8339.1994.tb00424.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1994.tb00424.x [following]
+--2017-01-27 22:10:46--  http://doi.wiley.com/10.1111/j.1095-8339.1994.tb00424.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1994.tb00424.x [following]
+--2017-01-27 22:10:47--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1994.tb00424.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:10:47 ERROR 404: Not Found.
+
+--2017-01-27 22:10:48--  http://doi.org/10.1111/j.1095-8339.1996.tb02057.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1996.tb02057.x [following]
+--2017-01-27 22:10:49--  http://doi.wiley.com/10.1111/j.1095-8339.1996.tb02057.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1996.tb02057.x [following]
+--2017-01-27 22:10:51--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1996.tb02057.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:10:51 ERROR 404: Not Found.
+
+--2017-01-27 22:10:52--  http://doi.org/10.1111/j.1095-8339.1998.tb01382.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1998.tb01382.x [following]
+--2017-01-27 22:10:53--  http://doi.wiley.com/10.1111/j.1095-8339.1998.tb01382.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1998.tb01382.x [following]
+--2017-01-27 22:10:54--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1998.tb01382.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:10:55 ERROR 404: Not Found.
+
+--2017-01-27 22:10:56--  http://doi.org/10.1111/j.1095-8339.1998.tb01381.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1998.tb01381.x [following]
+--2017-01-27 22:10:57--  http://doi.wiley.com/10.1111/j.1095-8339.1998.tb01381.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1998.tb01381.x [following]
+--2017-01-27 22:10:58--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1998.tb01381.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:10:58 ERROR 404: Not Found.
+
+--2017-01-27 22:10:59--  http://doi.org/10.1111/j.1095-8339.1998.tb02084.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1998.tb02084.x [following]
+--2017-01-27 22:11:00--  http://doi.wiley.com/10.1111/j.1095-8339.1998.tb02084.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1998.tb02084.x [following]
+--2017-01-27 22:11:02--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1998.tb02084.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:11:03 ERROR 404: Not Found.
+
+--2017-01-27 22:11:04--  http://doi.org/10.1111/j.1095-8339.1998.tb02085.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1998.tb02085.x [following]
+--2017-01-27 22:11:05--  http://doi.wiley.com/10.1111/j.1095-8339.1998.tb02085.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1998.tb02085.x [following]
+--2017-01-27 22:11:06--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1998.tb02085.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:11:06 ERROR 404: Not Found.
+
+--2017-01-27 22:11:07--  http://doi.org/10.1111/j.1095-8339.1998.tb02089.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1998.tb02089.x [following]
+--2017-01-27 22:11:08--  http://doi.wiley.com/10.1111/j.1095-8339.1998.tb02089.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1998.tb02089.x [following]
+--2017-01-27 22:11:09--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1998.tb02089.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:11:10 ERROR 404: Not Found.
+
+--2017-01-27 22:11:11--  http://doi.org/10.1111/j.1095-8339.1998.tb02090.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1998.tb02090.x [following]
+--2017-01-27 22:11:12--  http://doi.wiley.com/10.1111/j.1095-8339.1998.tb02090.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1998.tb02090.x [following]
+--2017-01-27 22:11:13--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1998.tb02090.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:11:13 ERROR 404: Not Found.
+
+--2017-01-27 22:11:14--  http://doi.org/10.1111/j.1095-8339.1999.tb00520.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1999.tb00520.x [following]
+--2017-01-27 22:11:15--  http://doi.wiley.com/10.1111/j.1095-8339.1999.tb00520.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1999.tb00520.x [following]
+--2017-01-27 22:11:16--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1999.tb00520.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:11:17 ERROR 404: Not Found.
+
+--2017-01-27 22:11:18--  http://doi.org/10.1111/j.1095-8339.1999.tb00519.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1999.tb00519.x [following]
+--2017-01-27 22:11:19--  http://doi.wiley.com/10.1111/j.1095-8339.1999.tb00519.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1999.tb00519.x [following]
+--2017-01-27 22:11:20--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1999.tb00519.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:11:20 ERROR 404: Not Found.
+
+--2017-01-27 22:11:21--  http://doi.org/10.1111/j.1095-8339.1999.tb00527.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1999.tb00527.x [following]
+--2017-01-27 22:11:22--  http://doi.wiley.com/10.1111/j.1095-8339.1999.tb00527.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1999.tb00527.x [following]
+--2017-01-27 22:11:24--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1999.tb00527.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:11:24 ERROR 404: Not Found.
+
+--2017-01-27 22:11:25--  http://doi.org/10.1111/j.1095-8339.1999.tb00526.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.1999.tb00526.x [following]
+--2017-01-27 22:11:26--  http://doi.wiley.com/10.1111/j.1095-8339.1999.tb00526.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1999.tb00526.x [following]
+--2017-01-27 22:11:27--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.1999.tb00526.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:11:27 ERROR 404: Not Found.
+
+--2017-01-27 22:11:28--  http://doi.org/10.1111/boj.2001.135.issue-1
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/boj.2001.135.issue-1 [following]
+--2017-01-27 22:11:29--  http://doi.wiley.com/10.1111/boj.2001.135.issue-1
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/boj.2001.135.issue-1 [following]
+--2017-01-27 22:11:31--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/boj.2001.135.issue-1
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1111/boj.2001.135.issue-1/issuetoc?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-27 22:11:32--  http://onlinelibrary.wiley.com/doi/10.1111/boj.2001.135.issue-1/issuetoc?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘boj.2001.135.issue-1’
+
+     0K .......... .......... .......... .......... ..........  194K
+    50K ......                                                 12.6M=0.3s
+
+2017-01-27 22:11:33 (217 KB/s) - ‘boj.2001.135.issue-1’ saved [57353]
+
+--2017-01-27 22:11:34--  http://doi.org/10.1111/j.1095-8339.2001.tb02330.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1111/j.1095-8339.2001.tb02330.x [following]
+--2017-01-27 22:11:35--  http://doi.wiley.com/10.1111/j.1095-8339.2001.tb02330.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.2001.tb02330.x [following]
+--2017-01-27 22:11:36--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111/j.1095-8339.2001.tb02330.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-27 22:11:36 ERROR 404: Not Found.
+
+--2017-01-27 22:11:37--  http://doi.org/10.1046/j.1095-8339.2002.00011.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1046/j.1095-8339.2002.00011.x [following]
+--2017-01-27 22:11:38--  http://doi.wiley.com/10.1046/j.1095-8339.2002.00011.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1046/j.1095-8339.2002.00011.x [following]
+--2017-01-27 22:11:40--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1046/j.1095-8339.2002.00011.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1046/j.1095-8339.2002.00011.x/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-27 22:11:41--  http://onlinelibrary.wiley.com/doi/10.1046/j.1095-8339.2002.00011.x/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50349 (49K) [text/html]
+Saving to: ‘j.1095-8339.2002.00011.x’
+
+     0K .......... .......... .......... .......... ......... 100%  188K=0.3s
+
+2017-01-27 22:11:42 (188 KB/s) - ‘j.1095-8339.2002.00011.x’ saved [50349/50349]
+
+--2017-01-27 22:11:43--  http://doi.org/10.1046/j.1095-8339.2002.00001.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1046/j.1095-8339.2002.00001.x [following]
+--2017-01-27 22:11:44--  http://doi.wiley.com/10.1046/j.1095-8339.2002.00001.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1046/j.1095-8339.2002.00001.x [following]
+--2017-01-27 22:11:45--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1046/j.1095-8339.2002.00001.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1046/j.1095-8339.2002.00001.x/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-27 22:11:46--  http://onlinelibrary.wiley.com/doi/10.1046/j.1095-8339.2002.00001.x/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50263 (49K) [text/html]
+Saving to: ‘j.1095-8339.2002.00001.x’
+
+     0K .......... .......... .......... .......... ......... 100%  178K=0.3s
+
+2017-01-27 22:11:47 (178 KB/s) - ‘j.1095-8339.2002.00001.x’ saved [50263/50263]
+
+--2017-01-27 22:11:48--  http://doi.org/10.1046/j.1095-8339.2002.00012.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1046/j.1095-8339.2002.00012.x [following]
+--2017-01-27 22:11:49--  http://doi.wiley.com/10.1046/j.1095-8339.2002.00012.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1046/j.1095-8339.2002.00012.x [following]
+--2017-01-27 22:11:50--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1046/j.1095-8339.2002.00012.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1046/j.1095-8339.2002.00012.x/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-27 22:11:51--  http://onlinelibrary.wiley.com/doi/10.1046/j.1095-8339.2002.00012.x/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50523 (49K) [text/html]
+Saving to: ‘j.1095-8339.2002.00012.x’
+
+     0K .......... .......... .......... .......... ......... 100%  180K=0.3s
+
+2017-01-27 22:11:52 (180 KB/s) - ‘j.1095-8339.2002.00012.x’ saved [50523/50523]
+
+--2017-01-27 22:11:53--  http://doi.org/10.1046/j.1095-8339.2002.00005.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1046/j.1095-8339.2002.00005.x [following]
+--2017-01-27 22:11:54--  http://doi.wiley.com/10.1046/j.1095-8339.2002.00005.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1046/j.1095-8339.2002.00005.x [following]
+--2017-01-27 22:11:56--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1046/j.1095-8339.2002.00005.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1046/j.1095-8339.2002.00005.x/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-27 22:11:57--  http://onlinelibrary.wiley.com/doi/10.1046/j.1095-8339.2002.00005.x/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 58887 (58K) [text/html]
+Saving to: ‘j.1095-8339.2002.00005.x’
+
+     0K .......... .......... .......... .......... .......... 86%  184K 0s
+    50K .......                                               100% 12.7M=0.3s
+
+2017-01-27 22:11:58 (211 KB/s) - ‘j.1095-8339.2002.00005.x’ saved [58887/58887]
+
+--2017-01-27 22:11:59--  http://doi.org/10.1046/j.1095-8339.2002.00002.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1046/j.1095-8339.2002.00002.x [following]
+--2017-01-27 22:12:00--  http://doi.wiley.com/10.1046/j.1095-8339.2002.00002.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1046/j.1095-8339.2002.00002.x [following]
+--2017-01-27 22:12:01--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1046/j.1095-8339.2002.00002.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1046/j.1095-8339.2002.00002.x/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-27 22:12:03--  http://onlinelibrary.wiley.com/doi/10.1046/j.1095-8339.2002.00002.x/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 58329 (57K) [text/html]
+Saving to: ‘j.1095-8339.2002.00002.x’
+
+     0K .......... .......... .......... .......... .......... 87%  181K 0s
+    50K ......                                                100% 14.5M=0.3s
+
+2017-01-27 22:12:04 (206 KB/s) - ‘j.1095-8339.2002.00002.x’ saved [58329/58329]
+
+--2017-01-27 22:12:05--  http://doi.org/10.1046/j.1095-8339.2002.00008.x
+Connecting to doi.org (doi.org)|95.138.171.129|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1046/j.1095-8339.2002.00008.x [following]
+--2017-01-27 22:12:06--  http://doi.wiley.com/10.1046/j.1095-8339.2002.00008.x
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1046/j.1095-8339.2002.00008.x [following]
+--2017-01-27 22:12:08--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1046/j.1095-8339.2002.00008.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://onlinelibrary.wiley.com/doi/10.1046/j.1095-8339.2002.00008.x/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience. [following]
+--2017-01-27 22:12:09--  http://onlinelibrary.wiley.com/doi/10.1046/j.1095-8339.2002.00008.x/abstract?systemMessage=WOL+Usage+report+download+page+will+be+unavailable+on+Friday+27th+January+2017+at+23%3A00+GMT%2F+18%3A00+EST%2F+07%3A00+SGT+%28Saturday+28th+Jan+for+SGT%29++for+up+to+2+hours+due+to+essential+server+maintenance.+Apologies+for+the+inconvenience.
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50107 (49K) [text/html]
+Saving to: ‘j.1095-8339.2002.00008.x’
+
+     0K .......... .......... .......... .......... ........  100%  179K=0.3s
+
+2017-01-27 22:12:10 (179 KB/s) - ‘j.1095-8339.2002.00008.x’ saved [50107/50107]
+
+FINISHED --2017-01-27 22:12:10--
+Total wall clock time: 6m 18s
+Downloaded: 12 files, 572K in 3.3s (175 KB/s)

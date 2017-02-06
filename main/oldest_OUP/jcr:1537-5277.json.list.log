@@ -1,0 +1,2418 @@
+--2017-01-29 02:46:05--  http://doi.org/10.1086/jcr.1974.1.issue-1
+Resolving doi.org (doi.org)... 208.254.38.90, 38.100.138.162, 63.123.152.248, ...
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.journals.uchicago.edu/toc/jcr/1/1 [following]
+--2017-01-29 02:46:06--  http://www.journals.uchicago.edu/toc/jcr/1/1
+Resolving www.journals.uchicago.edu (www.journals.uchicago.edu)... 65.156.1.140
+Connecting to www.journals.uchicago.edu (www.journals.uchicago.edu)|65.156.1.140|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.journals.uchicago.edu/toc/jcr/1/1?cookieSet=1 [following]
+--2017-01-29 02:46:08--  http://www.journals.uchicago.edu/toc/jcr/1/1?cookieSet=1
+Reusing existing connection to www.journals.uchicago.edu:80.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.journals.uchicago.edu/toc/jcr/1/1 [following]
+--2017-01-29 02:46:09--  http://www.journals.uchicago.edu/toc/jcr/1/1
+Reusing existing connection to www.journals.uchicago.edu:80.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-29 02:46:11 ERROR 404: Not Found.
+
+--2017-01-29 02:46:12--  http://doi.org/10.1086/208577
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208577 [following]
+--2017-01-29 02:46:13--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208577
+Resolving jcr.oxfordjournals.org (jcr.oxfordjournals.org)... 209.135.222.209
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/1/1/13/1825075/Children-and-Commercial-Persuasion-An-Attribution [following]
+--2017-01-29 02:46:15--  https://academic.oup.com/jcr/article/1/1/13/1825075/Children-and-Commercial-Persuasion-An-Attribution
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/1/1/13/1825075/Children-and-Commercial-Persuasion-An-Attribution?redirectedFrom=fulltext [following]
+--2017-01-29 02:46:17--  https://academic.oup.com/jcr/article-abstract/1/1/13/1825075/Children-and-Commercial-Persuasion-An-Attribution?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75449 (74K) [text/html]
+Saving to: ‘208577’
+
+     0K .......... .......... .......... .......... .......... 67%  311K 0s
+    50K .......... .......... ...                             100%  296K=0.2s
+
+2017-01-29 02:46:21 (306 KB/s) - ‘208577’ saved [75449/75449]
+
+--2017-01-29 02:46:22--  http://doi.org/10.1086/208580
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208580 [following]
+--2017-01-29 02:46:23--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208580
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/1/1/43/1825087/Husband-Wife-Influence-in-Family-Purchasing [following]
+--2017-01-29 02:46:24--  https://academic.oup.com/jcr/article/1/1/43/1825087/Husband-Wife-Influence-in-Family-Purchasing
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/1/1/43/1825087/Husband-Wife-Influence-in-Family-Purchasing?redirectedFrom=fulltext [following]
+--2017-01-29 02:46:26--  https://academic.oup.com/jcr/article-abstract/1/1/43/1825087/Husband-Wife-Influence-in-Family-Purchasing?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 74933 (73K) [text/html]
+Saving to: ‘208580’
+
+     0K .......... .......... .......... .......... .......... 68%  309K 0s
+    50K .......... .......... ...                             100%  291K=0.2s
+
+2017-01-29 02:46:31 (303 KB/s) - ‘208580’ saved [74933/74933]
+
+--2017-01-29 02:46:32--  http://doi.org/10.1086/208576
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208576 [following]
+--2017-01-29 02:46:33--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208576
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/1/1/9/1825110/Commentaries-on-Katona-Psychology-and-Consumer [following]
+--2017-01-29 02:46:34--  https://academic.oup.com/jcr/article/1/1/9/1825110/Commentaries-on-Katona-Psychology-and-Consumer
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/1/1/9/1825110/Commentaries-on-Katona-Psychology-and-Consumer?redirectedFrom=fulltext [following]
+--2017-01-29 02:46:37--  https://academic.oup.com/jcr/article-abstract/1/1/9/1825110/Commentaries-on-Katona-Psychology-and-Consumer?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 72909 (71K) [text/html]
+Saving to: ‘208576’
+
+     0K .......... .......... .......... .......... .......... 70%  209K 0s
+    50K .......... .......... .                               100% 7.92M=0.2s
+
+2017-01-29 02:46:40 (294 KB/s) - ‘208576’ saved [72909/72909]
+
+--2017-01-29 02:46:41--  http://doi.org/10.1086/208581
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208581 [following]
+--2017-01-29 02:46:42--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208581
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/1/1/51/1825094/Perception-of-Marital-Roles-in-Decision-Processes [following]
+--2017-01-29 02:46:44--  https://academic.oup.com/jcr/article/1/1/51/1825094/Perception-of-Marital-Roles-in-Decision-Processes
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/1/1/51/1825094/Perception-of-Marital-Roles-in-Decision-Processes?redirectedFrom=fulltext [following]
+--2017-01-29 02:46:46--  https://academic.oup.com/jcr/article-abstract/1/1/51/1825094/Perception-of-Marital-Roles-in-Decision-Processes?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75280 (74K) [text/html]
+Saving to: ‘208581’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ...                             100% 11.0M=0.2s
+
+2017-01-29 02:46:49 (305 KB/s) - ‘208581’ saved [75280/75280]
+
+--2017-01-29 02:46:50--  http://doi.org/10.1086/208578
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208578 [following]
+--2017-01-29 02:46:51--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208578
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/1/1/21/1825080/Consumer-Research-and-the-Evaluation-of [following]
+--2017-01-29 02:46:52--  https://academic.oup.com/jcr/article/1/1/21/1825080/Consumer-Research-and-the-Evaluation-of
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/1/1/21/1825080/Consumer-Research-and-the-Evaluation-of?redirectedFrom=fulltext [following]
+--2017-01-29 02:46:55--  https://academic.oup.com/jcr/article-abstract/1/1/21/1825080/Consumer-Research-and-the-Evaluation-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75639 (74K) [text/html]
+Saving to: ‘208578’
+
+     0K .......... .......... .......... .......... .......... 67%  310K 0s
+    50K .......... .......... ...                             100%  296K=0.2s
+
+2017-01-29 02:46:58 (305 KB/s) - ‘208578’ saved [75639/75639]
+
+--2017-01-29 02:46:59--  http://doi.org/10.1086/208579
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208579 [following]
+--2017-01-29 02:47:00--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208579
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/1/1/33/1825085/Brand-Choice-Behavior-as-a-Function-of-Information [following]
+--2017-01-29 02:47:01--  https://academic.oup.com/jcr/article/1/1/33/1825085/Brand-Choice-Behavior-as-a-Function-of-Information
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/1/1/33/1825085/Brand-Choice-Behavior-as-a-Function-of-Information?redirectedFrom=fulltext [following]
+--2017-01-29 02:47:04--  https://academic.oup.com/jcr/article-abstract/1/1/33/1825085/Brand-Choice-Behavior-as-a-Function-of-Information?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 91718 (90K) [text/html]
+Saving to: ‘208579’
+
+     0K .......... .......... .......... .......... .......... 55%  209K 0s
+    50K .......... .......... .......... .........            100% 6.57M=0.2s
+
+2017-01-29 02:47:07 (365 KB/s) - ‘208579’ saved [91718/91718]
+
+--2017-01-29 02:47:08--  http://doi.org/10.1086/208582
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208582 [following]
+--2017-01-29 02:47:09--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208582
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/1/1/63/1825100/A-Study-of-The-Role-of-Beliefs-and-Intentions-in [following]
+--2017-01-29 02:47:11--  https://academic.oup.com/jcr/article/1/1/63/1825100/A-Study-of-The-Role-of-Beliefs-and-Intentions-in
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/1/1/63/1825100/A-Study-of-The-Role-of-Beliefs-and-Intentions-in?redirectedFrom=fulltext [following]
+--2017-01-29 02:47:13--  https://academic.oup.com/jcr/article-abstract/1/1/63/1825100/A-Study-of-The-Role-of-Beliefs-and-Intentions-in?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75174 (73K) [text/html]
+Saving to: ‘208582’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ...                             100% 10.0M=0.2s
+
+2017-01-29 02:47:17 (304 KB/s) - ‘208582’ saved [75174/75174]
+
+--2017-01-29 02:47:18--  http://doi.org/10.1086/208575
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208575 [following]
+--2017-01-29 02:47:19--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208575
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/1/1/1/1825071/Psychology-and-Consumer-Economics [following]
+--2017-01-29 02:47:20--  https://academic.oup.com/jcr/article/1/1/1/1825071/Psychology-and-Consumer-Economics
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/1/1/1/1825071/Psychology-and-Consumer-Economics?redirectedFrom=fulltext [following]
+--2017-01-29 02:47:22--  https://academic.oup.com/jcr/article-abstract/1/1/1/1825071/Psychology-and-Consumer-Economics?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 73131 (71K) [text/html]
+Saving to: ‘208575’
+
+     0K .......... .......... .......... .......... .......... 70%  209K 0s
+    50K .......... .......... .                               100% 7.04M=0.2s
+
+2017-01-29 02:47:26 (294 KB/s) - ‘208575’ saved [73131/73131]
+
+--2017-01-29 02:47:27--  http://doi.org/10.1086/208583
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208583 [following]
+--2017-01-29 02:47:28--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208583
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/1/1/71/1825107/Toward-a-Statistics-for-Consumer-Decision-Net [following]
+--2017-01-29 02:47:29--  https://academic.oup.com/jcr/article/1/1/71/1825107/Toward-a-Statistics-for-Consumer-Decision-Net
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/1/1/71/1825107/Toward-a-Statistics-for-Consumer-Decision-Net?redirectedFrom=fulltext [following]
+--2017-01-29 02:47:31--  https://academic.oup.com/jcr/article-abstract/1/1/71/1825107/Toward-a-Statistics-for-Consumer-Decision-Net?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 73549 (72K) [text/html]
+Saving to: ‘208583’
+
+     0K .......... .......... .......... .......... .......... 69%  209K 0s
+    50K .......... .......... .                               100% 8.08M=0.2s
+
+2017-01-29 02:47:35 (297 KB/s) - ‘208583’ saved [73549/73549]
+
+--2017-01-29 02:47:36--  http://doi.org/10.1086/jcr.1974.1.issue-2
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.journals.uchicago.edu/toc/jcr/1/2 [following]
+--2017-01-29 02:47:37--  http://www.journals.uchicago.edu/toc/jcr/1/2
+Connecting to www.journals.uchicago.edu (www.journals.uchicago.edu)|65.156.1.140|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-29 02:47:39 ERROR 404: Not Found.
+
+--2017-01-29 02:47:40--  http://doi.org/10.1086/208589
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208589 [following]
+--2017-01-29 02:47:41--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208589
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/1/2/36/1825961/Voting-for-a-Political-Candidate-Under-Conditions [following]
+--2017-01-29 02:47:42--  https://academic.oup.com/jcr/article/1/2/36/1825961/Voting-for-a-Political-Candidate-Under-Conditions
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/1/2/36/1825961/Voting-for-a-Political-Candidate-Under-Conditions?redirectedFrom=fulltext [following]
+--2017-01-29 02:47:44--  https://academic.oup.com/jcr/article-abstract/1/2/36/1825961/Voting-for-a-Political-Candidate-Under-Conditions?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/1/2/36/1825961/Voting-for-a-Political-Candidate-Under-Conditions [following]
+--2017-01-29 02:47:47--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/1/2/36/1825961/Voting-for-a-Political-Candidate-Under-Conditions
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24121 (24K) [text/html]
+Saving to: ‘208589’
+
+     0K .......... .......... ...                             100%  293K=0.08s
+
+2017-01-29 02:47:47 (293 KB/s) - ‘208589’ saved [24121/24121]
+
+--2017-01-29 02:47:48--  http://doi.org/10.1086/208591
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208591 [following]
+--2017-01-29 02:47:49--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208591
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/1/2/52/1825976/An-Experimental-Investigation-of-Consumer-Behavior [following]
+--2017-01-29 02:47:51--  https://academic.oup.com/jcr/article/1/2/52/1825976/An-Experimental-Investigation-of-Consumer-Behavior
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/1/2/52/1825976/An-Experimental-Investigation-of-Consumer-Behavior?redirectedFrom=fulltext [following]
+--2017-01-29 02:47:53--  https://academic.oup.com/jcr/article-abstract/1/2/52/1825976/An-Experimental-Investigation-of-Consumer-Behavior?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/1/2/52/1825976/An-Experimental-Investigation-of-Consumer-Behavior [following]
+--2017-01-29 02:47:55--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/1/2/52/1825976/An-Experimental-Investigation-of-Consumer-Behavior
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24125 (24K) [text/html]
+Saving to: ‘208591’
+
+     0K .......... .......... ...                             100%  295K=0.08s
+
+2017-01-29 02:47:56 (295 KB/s) - ‘208591’ saved [24125/24125]
+
+--2017-01-29 02:47:57--  http://doi.org/10.1086/208593
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208593 [following]
+--2017-01-29 02:47:58--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208593
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/1/2/69/1825989/Children-s-Reactions-to-Television-Advertising-An [following]
+--2017-01-29 02:47:59--  https://academic.oup.com/jcr/article/1/2/69/1825989/Children-s-Reactions-to-Television-Advertising-An
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/1/2/69/1825989/Children-s-Reactions-to-Television-Advertising-An?redirectedFrom=fulltext [following]
+--2017-01-29 02:48:01--  https://academic.oup.com/jcr/article-abstract/1/2/69/1825989/Children-s-Reactions-to-Television-Advertising-An?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/1/2/69/1825989/Children-s-Reactions-to-Television-Advertising-An [following]
+--2017-01-29 02:48:04--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/1/2/69/1825989/Children-s-Reactions-to-Television-Advertising-An
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 39074 (38K) [text/html]
+Saving to: ‘208593’
+
+     0K .......... .......... .......... ........             100%  238K=0.2s
+
+2017-01-29 02:48:05 (238 KB/s) - ‘208593’ saved [39074/39074]
+
+--2017-01-29 02:48:06--  http://doi.org/10.1086/208585
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208585 [following]
+--2017-01-29 02:48:07--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208585
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/1/2/15/1825932/Commentaries-on-Ward-Consumer-Socialization [following]
+--2017-01-29 02:48:08--  https://academic.oup.com/jcr/article/1/2/15/1825932/Commentaries-on-Ward-Consumer-Socialization
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/1/2/15/1825932/Commentaries-on-Ward-Consumer-Socialization?redirectedFrom=fulltext [following]
+--2017-01-29 02:48:10--  https://academic.oup.com/jcr/article-abstract/1/2/15/1825932/Commentaries-on-Ward-Consumer-Socialization?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/1/2/15/1825932/Commentaries-on-Ward-Consumer-Socialization [following]
+--2017-01-29 02:48:13--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/1/2/15/1825932/Commentaries-on-Ward-Consumer-Socialization
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 24097 (24K) [text/html]
+Saving to: ‘208585’
+
+     0K .......... .......... ...                             100%  148K=0.2s
+
+2017-01-29 02:48:14 (148 KB/s) - ‘208585’ saved [24097/24097]
+
+--2017-01-29 02:48:15--  http://doi.org/10.1086/208592
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208592 [following]
+--2017-01-29 02:48:16--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208592
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/1/2/61/1825983/On-the-Design-of-Choice-Experiments-Involving [following]
+--2017-01-29 02:48:18--  https://academic.oup.com/jcr/article/1/2/61/1825983/On-the-Design-of-Choice-Experiments-Involving
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/1/2/61/1825983/On-the-Design-of-Choice-Experiments-Involving?redirectedFrom=fulltext [following]
+--2017-01-29 02:48:20--  https://academic.oup.com/jcr/article-abstract/1/2/61/1825983/On-the-Design-of-Choice-Experiments-Involving?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/1/2/61/1825983/On-the-Design-of-Choice-Experiments-Involving [following]
+--2017-01-29 02:48:23--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/1/2/61/1825983/On-the-Design-of-Choice-Experiments-Involving
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24105 (24K) [text/html]
+Saving to: ‘208592’
+
+     0K .......... .......... ...                             100%  294K=0.08s
+
+2017-01-29 02:48:23 (294 KB/s) - ‘208592’ saved [24105/24105]
+
+--2017-01-29 02:48:24--  http://doi.org/10.1086/208584
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208584 [following]
+--2017-01-29 02:48:26--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208584
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/1/2/1/1825927/Consumer-Socialization [following]
+--2017-01-29 02:48:27--  https://academic.oup.com/jcr/article/1/2/1/1825927/Consumer-Socialization
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/1/2/1/1825927/Consumer-Socialization?redirectedFrom=fulltext [following]
+--2017-01-29 02:48:29--  https://academic.oup.com/jcr/article-abstract/1/2/1/1825927/Consumer-Socialization?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/1/2/1/1825927/Consumer-Socialization [following]
+--2017-01-29 02:48:32--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/1/2/1/1825927/Consumer-Socialization
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24009 (23K) [text/html]
+Saving to: ‘208584’
+
+     0K .......... .......... ...                             100%  292K=0.08s
+
+2017-01-29 02:48:33 (292 KB/s) - ‘208584’ saved [24009/24009]
+
+--2017-01-29 02:48:34--  http://doi.org/10.1086/208587
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208587 [following]
+--2017-01-29 02:48:35--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208587
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/1/2/23/1825943/Perceived-Innovation-Attributes-as-Predictors-of [following]
+--2017-01-29 02:48:36--  https://academic.oup.com/jcr/article/1/2/23/1825943/Perceived-Innovation-Attributes-as-Predictors-of
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/1/2/23/1825943/Perceived-Innovation-Attributes-as-Predictors-of?redirectedFrom=fulltext [following]
+--2017-01-29 02:48:38--  https://academic.oup.com/jcr/article-abstract/1/2/23/1825943/Perceived-Innovation-Attributes-as-Predictors-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/1/2/23/1825943/Perceived-Innovation-Attributes-as-Predictors-of [following]
+--2017-01-29 02:48:41--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/1/2/23/1825943/Perceived-Innovation-Attributes-as-Predictors-of
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 24117 (24K) [text/html]
+Saving to: ‘208587’
+
+     0K .......... .......... ...                             100%  148K=0.2s
+
+2017-01-29 02:48:42 (148 KB/s) - ‘208587’ saved [24117/24117]
+
+--2017-01-29 02:48:43--  http://doi.org/10.1086/208586
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208586 [following]
+--2017-01-29 02:48:44--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208586
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/1/2/18/1825937/Patterns-of-information-Acquisition-in-New-Product [following]
+--2017-01-29 02:48:46--  https://academic.oup.com/jcr/article/1/2/18/1825937/Patterns-of-information-Acquisition-in-New-Product
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/1/2/18/1825937/Patterns-of-information-Acquisition-in-New-Product?redirectedFrom=fulltext [following]
+--2017-01-29 02:48:48--  https://academic.oup.com/jcr/article-abstract/1/2/18/1825937/Patterns-of-information-Acquisition-in-New-Product?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/1/2/18/1825937/Patterns-of-information-Acquisition-in-New-Product [following]
+--2017-01-29 02:48:51--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/1/2/18/1825937/Patterns-of-information-Acquisition-in-New-Product
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24125 (24K) [text/html]
+Saving to: ‘208586’
+
+     0K .......... .......... ...                             100%  294K=0.08s
+
+2017-01-29 02:48:51 (294 KB/s) - ‘208586’ saved [24125/24125]
+
+--2017-01-29 02:48:52--  http://doi.org/10.1086/208588
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208588 [following]
+--2017-01-29 02:48:53--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208588
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/1/2/30/1825953/A-Threshold-Model-of-Attribute-Satisfaction [following]
+--2017-01-29 02:48:55--  https://academic.oup.com/jcr/article/1/2/30/1825953/A-Threshold-Model-of-Attribute-Satisfaction
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/1/2/30/1825953/A-Threshold-Model-of-Attribute-Satisfaction?redirectedFrom=fulltext [following]
+--2017-01-29 02:48:57--  https://academic.oup.com/jcr/article-abstract/1/2/30/1825953/A-Threshold-Model-of-Attribute-Satisfaction?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/1/2/30/1825953/A-Threshold-Model-of-Attribute-Satisfaction [following]
+--2017-01-29 02:49:00--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/1/2/30/1825953/A-Threshold-Model-of-Attribute-Satisfaction
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 24097 (24K) [text/html]
+Saving to: ‘208588’
+
+     0K .......... .......... ...                             100%  147K=0.2s
+
+2017-01-29 02:49:01 (147 KB/s) - ‘208588’ saved [24097/24097]
+
+--2017-01-29 02:49:02--  http://doi.org/10.1086/208590
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208590 [following]
+--2017-01-29 02:49:03--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208590
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/1/2/44/1825969/Self-Concept-Ideal-Self-Concept-and-Consumer [following]
+--2017-01-29 02:49:04--  https://academic.oup.com/jcr/article/1/2/44/1825969/Self-Concept-Ideal-Self-Concept-and-Consumer
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/1/2/44/1825969/Self-Concept-Ideal-Self-Concept-and-Consumer?redirectedFrom=fulltext [following]
+--2017-01-29 02:49:07--  https://academic.oup.com/jcr/article-abstract/1/2/44/1825969/Self-Concept-Ideal-Self-Concept-and-Consumer?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/1/2/44/1825969/Self-Concept-Ideal-Self-Concept-and-Consumer [following]
+--2017-01-29 02:49:10--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/1/2/44/1825969/Self-Concept-Ideal-Self-Concept-and-Consumer
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24101 (24K) [text/html]
+Saving to: ‘208590’
+
+     0K .......... .......... ...                             100%  292K=0.08s
+
+2017-01-29 02:49:10 (292 KB/s) - ‘208590’ saved [24101/24101]
+
+--2017-01-29 02:49:11--  http://doi.org/10.1093/jcr/1.2.backcover
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/lookup/doi/10.1093/jcr/1.2.BackCover [following]
+--2017-01-29 02:49:13--  http://jcr.oxfordjournals.org/lookup/doi/10.1093/jcr/1.2.BackCover
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/doi/10.1093/jcr/1.2.BackCover/1825995/Forthcoming-Articles [following]
+--2017-01-29 02:49:14--  https://academic.oup.com/jcr/article/doi/10.1093/jcr/1.2.BackCover/1825995/Forthcoming-Articles
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/1/2/BackCover/1825995/Forthcoming-Articles?redirectedFrom=fulltext [following]
+--2017-01-29 02:49:16--  https://academic.oup.com/jcr/article-abstract/1/2/BackCover/1825995/Forthcoming-Articles?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/1/2/BackCover/1825995/Forthcoming-Articles [following]
+--2017-01-29 02:49:18--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/1/2/BackCover/1825995/Forthcoming-Articles
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24033 (23K) [text/html]
+Saving to: ‘1.2.backcover’
+
+     0K .......... .......... ...                             100%  291K=0.08s
+
+2017-01-29 02:49:19 (291 KB/s) - ‘1.2.backcover’ saved [24033/24033]
+
+--2017-01-29 02:49:20--  http://doi.org/10.1086/jcr.1974.1.issue-3
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.journals.uchicago.edu/toc/jcr/1/3 [following]
+--2017-01-29 02:49:21--  http://www.journals.uchicago.edu/toc/jcr/1/3
+Connecting to www.journals.uchicago.edu (www.journals.uchicago.edu)|65.156.1.140|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-29 02:49:22 ERROR 404: Not Found.
+
+--2017-01-29 02:49:23--  http://doi.org/10.1086/208594
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208594 [following]
+--2017-01-29 02:49:25--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208594
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/1/3/1/1810624/Federal-Programs-to-Measure-Consumer-Purchase [following]
+--2017-01-29 02:49:26--  https://academic.oup.com/jcr/article/1/3/1/1810624/Federal-Programs-to-Measure-Consumer-Purchase
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/1/3/1/1810624/Federal-Programs-to-Measure-Consumer-Purchase?redirectedFrom=fulltext [following]
+--2017-01-29 02:49:28--  https://academic.oup.com/jcr/article-abstract/1/3/1/1810624/Federal-Programs-to-Measure-Consumer-Purchase?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/1/3/1/1810624/Federal-Programs-to-Measure-Consumer-Purchase [following]
+--2017-01-29 02:49:31--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/1/3/1/1810624/Federal-Programs-to-Measure-Consumer-Purchase
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24101 (24K) [text/html]
+Saving to: ‘208594’
+
+     0K .......... .......... ...                             100%  294K=0.08s
+
+2017-01-29 02:49:31 (294 KB/s) - ‘208594’ saved [24101/24101]
+
+--2017-01-29 02:49:32--  http://doi.org/10.1086/208597
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208597 [following]
+--2017-01-29 02:49:33--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208597
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/1/3/22/1810636/Fear-Appeals-Revisited-and-Revised [following]
+--2017-01-29 02:49:35--  https://academic.oup.com/jcr/article/1/3/22/1810636/Fear-Appeals-Revisited-and-Revised
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/1/3/22/1810636/Fear-Appeals-Revisited-and-Revised?redirectedFrom=fulltext [following]
+--2017-01-29 02:49:37--  https://academic.oup.com/jcr/article-abstract/1/3/22/1810636/Fear-Appeals-Revisited-and-Revised?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/1/3/22/1810636/Fear-Appeals-Revisited-and-Revised [following]
+--2017-01-29 02:49:40--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/1/3/22/1810636/Fear-Appeals-Revisited-and-Revised
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24061 (23K) [text/html]
+Saving to: ‘208597’
+
+     0K .......... .......... ...                             100%  293K=0.08s
+
+2017-01-29 02:49:40 (293 KB/s) - ‘208597’ saved [24061/24061]
+
+--2017-01-29 02:49:41--  http://doi.org/10.1086/208596
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208596 [following]
+--2017-01-29 02:49:43--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208596
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/1/3/16/1810633/Attitude-Models-Revisited-An-Individual-Level [following]
+--2017-01-29 02:49:44--  https://academic.oup.com/jcr/article/1/3/16/1810633/Attitude-Models-Revisited-An-Individual-Level
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/1/3/16/1810633/Attitude-Models-Revisited-An-Individual-Level?redirectedFrom=fulltext [following]
+--2017-01-29 02:49:46--  https://academic.oup.com/jcr/article-abstract/1/3/16/1810633/Attitude-Models-Revisited-An-Individual-Level?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/1/3/16/1810633/Attitude-Models-Revisited-An-Individual-Level [following]
+--2017-01-29 02:49:48--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/1/3/16/1810633/Attitude-Models-Revisited-An-Individual-Level
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24105 (24K) [text/html]
+Saving to: ‘208596’
+
+     0K .......... .......... ...                             100%  294K=0.08s
+
+2017-01-29 02:49:49 (294 KB/s) - ‘208596’ saved [24105/24105]
+
+--2017-01-29 02:49:50--  http://doi.org/10.1086/208601
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208601 [following]
+--2017-01-29 02:49:51--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208601
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/1/3/68/1810655/More-Information-Is-Better-A-Reevaluation-of [following]
+--2017-01-29 02:49:52--  https://academic.oup.com/jcr/article/1/3/68/1810655/More-Information-Is-Better-A-Reevaluation-of
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/1/3/68/1810655/More-Information-Is-Better-A-Reevaluation-of?redirectedFrom=fulltext [following]
+--2017-01-29 02:49:55--  https://academic.oup.com/jcr/article-abstract/1/3/68/1810655/More-Information-Is-Better-A-Reevaluation-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/1/3/68/1810655/More-Information-Is-Better-A-Reevaluation-of [following]
+--2017-01-29 02:49:57--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/1/3/68/1810655/More-Information-Is-Better-A-Reevaluation-of
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24101 (24K) [text/html]
+Saving to: ‘208601’
+
+     0K .......... .......... ...                             100%  295K=0.08s
+
+2017-01-29 02:49:58 (295 KB/s) - ‘208601’ saved [24101/24101]
+
+--2017-01-29 02:49:59--  http://doi.org/10.1086/208598
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208598 [following]
+--2017-01-29 02:50:00--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208598
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/1/3/35/1810640/A-Taxonomy-of-Prepurchase-Information-Gathering [following]
+--2017-01-29 02:50:01--  https://academic.oup.com/jcr/article/1/3/35/1810640/A-Taxonomy-of-Prepurchase-Information-Gathering
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/1/3/35/1810640/A-Taxonomy-of-Prepurchase-Information-Gathering?redirectedFrom=fulltext [following]
+--2017-01-29 02:50:04--  https://academic.oup.com/jcr/article-abstract/1/3/35/1810640/A-Taxonomy-of-Prepurchase-Information-Gathering?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/1/3/35/1810640/A-Taxonomy-of-Prepurchase-Information-Gathering [following]
+--2017-01-29 02:50:06--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/1/3/35/1810640/A-Taxonomy-of-Prepurchase-Information-Gathering
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24113 (24K) [text/html]
+Saving to: ‘208598’
+
+     0K .......... .......... ...                             100%  287K=0.08s
+
+2017-01-29 02:50:06 (287 KB/s) - ‘208598’ saved [24113/24113]
+
+--2017-01-29 02:50:07--  http://doi.org/10.1086/208595
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208595 [following]
+--2017-01-29 02:50:08--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208595
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/1/3/11/1810627/Commentaries-on-McNeil-Federal-Programs-to-Measure [following]
+--2017-01-29 02:50:10--  https://academic.oup.com/jcr/article/1/3/11/1810627/Commentaries-on-McNeil-Federal-Programs-to-Measure
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/1/3/11/1810627/Commentaries-on-McNeil-Federal-Programs-to-Measure?redirectedFrom=fulltext [following]
+--2017-01-29 02:50:12--  https://academic.oup.com/jcr/article-abstract/1/3/11/1810627/Commentaries-on-McNeil-Federal-Programs-to-Measure?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/1/3/11/1810627/Commentaries-on-McNeil-Federal-Programs-to-Measure [following]
+--2017-01-29 02:50:15--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/1/3/11/1810627/Commentaries-on-McNeil-Federal-Programs-to-Measure
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24125 (24K) [text/html]
+Saving to: ‘208595’
+
+     0K .......... .......... ...                             100%  292K=0.08s
+
+2017-01-29 02:50:15 (292 KB/s) - ‘208595’ saved [24125/24125]
+
+--2017-01-29 02:50:16--  http://doi.org/10.1086/208599
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208599 [following]
+--2017-01-29 02:50:18--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208599
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/1/3/43/1810647/Some-Empirical-Contributions-to-Buyer-Behavior [following]
+--2017-01-29 02:50:19--  https://academic.oup.com/jcr/article/1/3/43/1810647/Some-Empirical-Contributions-to-Buyer-Behavior
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/1/3/43/1810647/Some-Empirical-Contributions-to-Buyer-Behavior?redirectedFrom=fulltext [following]
+--2017-01-29 02:50:21--  https://academic.oup.com/jcr/article-abstract/1/3/43/1810647/Some-Empirical-Contributions-to-Buyer-Behavior?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/1/3/43/1810647/Some-Empirical-Contributions-to-Buyer-Behavior [following]
+--2017-01-29 02:50:24--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/1/3/43/1810647/Some-Empirical-Contributions-to-Buyer-Behavior
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 24109 (24K) [text/html]
+Saving to: ‘208599’
+
+     0K .......... .......... ...                             100%  148K=0.2s
+
+2017-01-29 02:50:25 (148 KB/s) - ‘208599’ saved [24109/24109]
+
+--2017-01-29 02:50:26--  http://doi.org/10.1086/208600
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208600 [following]
+--2017-01-29 02:50:27--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208600
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/1/3/56/1810650/A-Complementarity-Model-of-Consumer-Utility-for [following]
+--2017-01-29 02:50:28--  https://academic.oup.com/jcr/article/1/3/56/1810650/A-Complementarity-Model-of-Consumer-Utility-for
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/1/3/56/1810650/A-Complementarity-Model-of-Consumer-Utility-for?redirectedFrom=fulltext [following]
+--2017-01-29 02:50:30--  https://academic.oup.com/jcr/article-abstract/1/3/56/1810650/A-Complementarity-Model-of-Consumer-Utility-for?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/1/3/56/1810650/A-Complementarity-Model-of-Consumer-Utility-for [following]
+--2017-01-29 02:50:32--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/1/3/56/1810650/A-Complementarity-Model-of-Consumer-Utility-for
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 39065 (38K) [text/html]
+Saving to: ‘208600’
+
+     0K .......... .......... .......... ........             100%  238K=0.2s
+
+2017-01-29 02:50:33 (238 KB/s) - ‘208600’ saved [39065/39065]
+
+--2017-01-29 02:50:34--  http://doi.org/10.1093/jcr/1.3.backcover
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/lookup/doi/10.1093/jcr/1.3.BackCover [following]
+--2017-01-29 02:50:35--  http://jcr.oxfordjournals.org/lookup/doi/10.1093/jcr/1.3.BackCover
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/doi/10.1093/jcr/1.3.BackCover/1810662/Forthcoming-Articles [following]
+--2017-01-29 02:50:37--  https://academic.oup.com/jcr/article/doi/10.1093/jcr/1.3.BackCover/1810662/Forthcoming-Articles
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/1/3/BackCover/1810662/Forthcoming-Articles?redirectedFrom=fulltext [following]
+--2017-01-29 02:50:39--  https://academic.oup.com/jcr/article-abstract/1/3/BackCover/1810662/Forthcoming-Articles?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/1/3/BackCover/1810662/Forthcoming-Articles [following]
+--2017-01-29 02:50:41--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/1/3/BackCover/1810662/Forthcoming-Articles
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24033 (23K) [text/html]
+Saving to: ‘1.3.backcover’
+
+     0K .......... .......... ...                             100%  292K=0.08s
+
+2017-01-29 02:50:42 (292 KB/s) - ‘1.3.backcover’ saved [24033/24033]
+
+--2017-01-29 02:50:43--  http://doi.org/10.1086/jcr.1975.1.issue-4
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.journals.uchicago.edu/toc/jcr/1/4 [following]
+--2017-01-29 02:50:44--  http://www.journals.uchicago.edu/toc/jcr/1/4
+Connecting to www.journals.uchicago.edu (www.journals.uchicago.edu)|65.156.1.140|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-29 02:50:45 ERROR 404: Not Found.
+
+--2017-01-29 02:50:46--  http://doi.org/10.1086/208608
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208608 [following]
+--2017-01-29 02:50:47--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208608
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/1/4/60/1799016/Joint-Home-Purchasing-Decisions-by-Husbands-and [following]
+--2017-01-29 02:50:49--  https://academic.oup.com/jcr/article/1/4/60/1799016/Joint-Home-Purchasing-Decisions-by-Husbands-and
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/1/4/60/1799016/Joint-Home-Purchasing-Decisions-by-Husbands-and?redirectedFrom=fulltext [following]
+--2017-01-29 02:50:51--  https://academic.oup.com/jcr/article-abstract/1/4/60/1799016/Joint-Home-Purchasing-Decisions-by-Husbands-and?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 91419 (89K) [text/html]
+Saving to: ‘208608’
+
+     0K .......... .......... .......... .......... .......... 56%  310K 0s
+    50K .......... .......... .......... .........            100%  249K=0.3s
+
+2017-01-29 02:50:54 (280 KB/s) - ‘208608’ saved [91419/91419]
+
+--2017-01-29 02:50:55--  http://doi.org/10.1086/208609
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208609 [following]
+--2017-01-29 02:50:56--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208609
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/1/4/67/1799021/Reply-to-Juster-s-Commentary-on-McNeil [following]
+--2017-01-29 02:50:58--  https://academic.oup.com/jcr/article/1/4/67/1799021/Reply-to-Juster-s-Commentary-on-McNeil
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/1/4/67/1799021/Reply-to-Juster-s-Commentary-on-McNeil?redirectedFrom=fulltext [following]
+--2017-01-29 02:51:00--  https://academic.oup.com/jcr/article-abstract/1/4/67/1799021/Reply-to-Juster-s-Commentary-on-McNeil?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 88405 (86K) [text/html]
+Saving to: ‘208609’
+
+     0K .......... .......... .......... .......... .......... 57%  309K 0s
+    50K .......... .......... .......... ......               100%  446K=0.2s
+
+2017-01-29 02:51:03 (355 KB/s) - ‘208609’ saved [88405/88405]
+
+--2017-01-29 02:51:04--  http://doi.org/10.1086/208606
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208606 [following]
+--2017-01-29 02:51:05--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208606
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/1/4/39/1799004/An-Empirical-Test-of-the-Fishbein-Behavioral [following]
+--2017-01-29 02:51:06--  https://academic.oup.com/jcr/article/1/4/39/1799004/An-Empirical-Test-of-the-Fishbein-Behavioral
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/1/4/39/1799004/An-Empirical-Test-of-the-Fishbein-Behavioral?redirectedFrom=fulltext [following]
+--2017-01-29 02:51:09--  https://academic.oup.com/jcr/article-abstract/1/4/39/1799004/An-Empirical-Test-of-the-Fishbein-Behavioral?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 76396 (75K) [text/html]
+Saving to: ‘208606’
+
+     0K .......... .......... .......... .......... .......... 67%  310K 0s
+    50K .......... .......... ....                            100%  308K=0.2s
+
+2017-01-29 02:51:11 (309 KB/s) - ‘208606’ saved [76396/76396]
+
+--2017-01-29 02:51:12--  http://doi.org/10.1086/208605
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208605 [following]
+--2017-01-29 02:51:14--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208605
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/1/4/31/1798999/Primary-and-Secondary-Validity-of-Consumer [following]
+--2017-01-29 02:51:15--  https://academic.oup.com/jcr/article/1/4/31/1798999/Primary-and-Secondary-Validity-of-Consumer
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/1/4/31/1798999/Primary-and-Secondary-Validity-of-Consumer?redirectedFrom=fulltext [following]
+--2017-01-29 02:51:17--  https://academic.oup.com/jcr/article-abstract/1/4/31/1798999/Primary-and-Secondary-Validity-of-Consumer?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 90138 (88K) [text/html]
+Saving to: ‘208605’
+
+     0K .......... .......... .......... .......... .......... 56%  208K 0s
+    50K .......... .......... .......... ........             100%  972K=0.3s
+
+2017-01-29 02:51:20 (315 KB/s) - ‘208605’ saved [90138/90138]
+
+--2017-01-29 02:51:21--  http://doi.org/10.1086/208604
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208604 [following]
+--2017-01-29 02:51:23--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208604
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/1/4/20/1798992/Demand-Artifacts-in-Laboratory-Experiments-in [following]
+--2017-01-29 02:51:24--  https://academic.oup.com/jcr/article/1/4/20/1798992/Demand-Artifacts-in-Laboratory-Experiments-in
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/1/4/20/1798992/Demand-Artifacts-in-Laboratory-Experiments-in?redirectedFrom=fulltext [following]
+--2017-01-29 02:51:26--  https://academic.oup.com/jcr/article-abstract/1/4/20/1798992/Demand-Artifacts-in-Laboratory-Experiments-in?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 88615 (87K) [text/html]
+Saving to: ‘208604’
+
+     0K .......... .......... .......... .......... .......... 57%  209K 0s
+    50K .......... .......... .......... ......               100% 7.43M=0.2s
+
+2017-01-29 02:51:30 (355 KB/s) - ‘208604’ saved [88615/88615]
+
+--2017-01-29 02:51:31--  http://doi.org/10.1086/208607
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208607 [following]
+--2017-01-29 02:51:32--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208607
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/1/4/49/1799009/Changing-Brand-Attitudes-Through-Modification-of [following]
+--2017-01-29 02:51:33--  https://academic.oup.com/jcr/article/1/4/49/1799009/Changing-Brand-Attitudes-Through-Modification-of
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/1/4/49/1799009/Changing-Brand-Attitudes-Through-Modification-of?redirectedFrom=fulltext [following]
+--2017-01-29 02:51:35--  https://academic.oup.com/jcr/article-abstract/1/4/49/1799009/Changing-Brand-Attitudes-Through-Modification-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 73779 (72K) [text/html]
+Saving to: ‘208607’
+
+     0K .......... .......... .......... .......... .......... 69%  210K 0s
+    50K .......... .......... ..                              100% 6.83M=0.2s
+
+2017-01-29 02:51:40 (298 KB/s) - ‘208607’ saved [73779/73779]
+
+--2017-01-29 02:51:41--  http://doi.org/10.1086/208603
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208603 [following]
+--2017-01-29 02:51:42--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208603
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/1/4/16/1798987/Commentaries-on-Bettman-Capon-and-Lutz [following]
+--2017-01-29 02:51:43--  https://academic.oup.com/jcr/article/1/4/16/1798987/Commentaries-on-Bettman-Capon-and-Lutz
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/1/4/16/1798987/Commentaries-on-Bettman-Capon-and-Lutz?redirectedFrom=fulltext [following]
+--2017-01-29 02:51:45--  https://academic.oup.com/jcr/article-abstract/1/4/16/1798987/Commentaries-on-Bettman-Capon-and-Lutz?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78352 (77K) [text/html]
+Saving to: ‘208603’
+
+     0K .......... .......... .......... .......... .......... 65%  209K 0s
+    50K .......... .......... ......                          100% 7.77M=0.2s
+
+2017-01-29 02:51:49 (315 KB/s) - ‘208603’ saved [78352/78352]
+
+--2017-01-29 02:51:50--  http://doi.org/10.1086/208602
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208602 [following]
+--2017-01-29 02:51:51--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208602
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/1/4/1/1798978/Multiattribute-Measurement-Models-and [following]
+--2017-01-29 02:51:53--  https://academic.oup.com/jcr/article/1/4/1/1798978/Multiattribute-Measurement-Models-and
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/1/4/1/1798978/Multiattribute-Measurement-Models-and?redirectedFrom=fulltext [following]
+--2017-01-29 02:51:55--  https://academic.oup.com/jcr/article-abstract/1/4/1/1798978/Multiattribute-Measurement-Models-and?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 76929 (75K) [text/html]
+Saving to: ‘208602’
+
+     0K .......... .......... .......... .......... .......... 66%  310K 0s
+    50K .......... .......... .....                           100%  313K=0.2s
+
+2017-01-29 02:51:58 (311 KB/s) - ‘208602’ saved [76929/76929]
+
+--2017-01-29 02:51:59--  http://doi.org/10.1086/jcr.1975.2.issue-1
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.journals.uchicago.edu/toc/jcr/2/1 [following]
+--2017-01-29 02:52:00--  http://www.journals.uchicago.edu/toc/jcr/2/1
+Connecting to www.journals.uchicago.edu (www.journals.uchicago.edu)|65.156.1.140|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-29 02:52:01 ERROR 404: Not Found.
+
+--2017-01-29 02:52:02--  http://doi.org/10.1086/208613
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208613 [following]
+--2017-01-29 02:52:04--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208613
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/2/1/29/1794473/A-Comparative-Analysis-of-Three-Consumer-Decision [following]
+--2017-01-29 02:52:05--  https://academic.oup.com/jcr/article/2/1/29/1794473/A-Comparative-Analysis-of-Three-Consumer-Decision
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/2/1/29/1794473/A-Comparative-Analysis-of-Three-Consumer-Decision?redirectedFrom=fulltext [following]
+--2017-01-29 02:52:08--  https://academic.oup.com/jcr/article-abstract/2/1/29/1794473/A-Comparative-Analysis-of-Three-Consumer-Decision?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/2/1/29/1794473/A-Comparative-Analysis-of-Three-Consumer-Decision [following]
+--2017-01-29 02:52:10--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/2/1/29/1794473/A-Comparative-Analysis-of-Three-Consumer-Decision
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 39073 (38K) [text/html]
+Saving to: ‘208613’
+
+     0K .......... .......... .......... ........             100%  239K=0.2s
+
+2017-01-29 02:52:11 (239 KB/s) - ‘208613’ saved [39073/39073]
+
+--2017-01-29 02:52:12--  http://doi.org/10.1086/208612
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208612 [following]
+--2017-01-29 02:52:13--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208612
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/2/1/19/1794465/A-Path-Analytic-Exploration-of-Retail-Patronage [following]
+--2017-01-29 02:52:14--  https://academic.oup.com/jcr/article/2/1/19/1794465/A-Path-Analytic-Exploration-of-Retail-Patronage
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/2/1/19/1794465/A-Path-Analytic-Exploration-of-Retail-Patronage?redirectedFrom=fulltext [following]
+--2017-01-29 02:52:17--  https://academic.oup.com/jcr/article-abstract/2/1/19/1794465/A-Path-Analytic-Exploration-of-Retail-Patronage?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/2/1/19/1794465/A-Path-Analytic-Exploration-of-Retail-Patronage [following]
+--2017-01-29 02:52:19--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/2/1/19/1794465/A-Path-Analytic-Exploration-of-Retail-Patronage
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 39065 (38K) [text/html]
+Saving to: ‘208612’
+
+     0K .......... .......... .......... ........             100%  238K=0.2s
+
+2017-01-29 02:52:19 (238 KB/s) - ‘208612’ saved [39065/39065]
+
+--2017-01-29 02:52:20--  http://doi.org/10.1086/208611
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208611 [following]
+--2017-01-29 02:52:22--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208611
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/2/1/10/1794459/Consumer-Choice-and-Use-of-Bank-Credit-Cards-A [following]
+--2017-01-29 02:52:23--  https://academic.oup.com/jcr/article/2/1/10/1794459/Consumer-Choice-and-Use-of-Bank-Credit-Cards-A
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/2/1/10/1794459/Consumer-Choice-and-Use-of-Bank-Credit-Cards-A?redirectedFrom=fulltext [following]
+--2017-01-29 02:52:25--  https://academic.oup.com/jcr/article-abstract/2/1/10/1794459/Consumer-Choice-and-Use-of-Bank-Credit-Cards-A?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/2/1/10/1794459/Consumer-Choice-and-Use-of-Bank-Credit-Cards-A [following]
+--2017-01-29 02:52:28--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/2/1/10/1794459/Consumer-Choice-and-Use-of-Bank-Credit-Cards-A
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 24109 (24K) [text/html]
+Saving to: ‘208611’
+
+     0K .......... .......... ...                             100%  148K=0.2s
+
+2017-01-29 02:52:30 (148 KB/s) - ‘208611’ saved [24109/24109]
+
+--2017-01-29 02:52:31--  http://doi.org/10.1086/208614
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208614 [following]
+--2017-01-29 02:52:33--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208614
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/2/1/38/1794477/A-Comparison-of-Four-Multi-Attribute-Models-in-the [following]
+--2017-01-29 02:52:34--  https://academic.oup.com/jcr/article/2/1/38/1794477/A-Comparison-of-Four-Multi-Attribute-Models-in-the
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/2/1/38/1794477/A-Comparison-of-Four-Multi-Attribute-Models-in-the?redirectedFrom=fulltext [following]
+--2017-01-29 02:52:36--  https://academic.oup.com/jcr/article-abstract/2/1/38/1794477/A-Comparison-of-Four-Multi-Attribute-Models-in-the?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/2/1/38/1794477/A-Comparison-of-Four-Multi-Attribute-Models-in-the [following]
+--2017-01-29 02:52:38--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/2/1/38/1794477/A-Comparison-of-Four-Multi-Attribute-Models-in-the
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24125 (24K) [text/html]
+Saving to: ‘208614’
+
+     0K .......... .......... ...                             100%  294K=0.08s
+
+2017-01-29 02:52:39 (294 KB/s) - ‘208614’ saved [24125/24125]
+
+--2017-01-29 02:52:40--  http://doi.org/10.1086/208616
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208616 [following]
+--2017-01-29 02:52:41--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208616
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/2/1/60/1794486/Social-Factors-in-Consumer-Choice-Replication-and [following]
+--2017-01-29 02:52:42--  https://academic.oup.com/jcr/article/2/1/60/1794486/Social-Factors-in-Consumer-Choice-Replication-and
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/2/1/60/1794486/Social-Factors-in-Consumer-Choice-Replication-and?redirectedFrom=fulltext [following]
+--2017-01-29 02:52:44--  https://academic.oup.com/jcr/article-abstract/2/1/60/1794486/Social-Factors-in-Consumer-Choice-Replication-and?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/2/1/60/1794486/Social-Factors-in-Consumer-Choice-Replication-and [following]
+--2017-01-29 02:52:47--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/2/1/60/1794486/Social-Factors-in-Consumer-Choice-Replication-and
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24121 (24K) [text/html]
+Saving to: ‘208616’
+
+     0K .......... .......... ...                             100%  293K=0.08s
+
+2017-01-29 02:52:48 (293 KB/s) - ‘208616’ saved [24121/24121]
+
+--2017-01-29 02:52:49--  http://doi.org/10.1086/208610
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208610 [following]
+--2017-01-29 02:52:50--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208610
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/2/1/1/1794447/Factors-Affecting-Cognitive-Resistance-to [following]
+--2017-01-29 02:52:51--  https://academic.oup.com/jcr/article/2/1/1/1794447/Factors-Affecting-Cognitive-Resistance-to
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/2/1/1/1794447/Factors-Affecting-Cognitive-Resistance-to?redirectedFrom=fulltext [following]
+--2017-01-29 02:52:54--  https://academic.oup.com/jcr/article-abstract/2/1/1/1794447/Factors-Affecting-Cognitive-Resistance-to?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/2/1/1/1794447/Factors-Affecting-Cognitive-Resistance-to [following]
+--2017-01-29 02:52:57--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/2/1/1/1794447/Factors-Affecting-Cognitive-Resistance-to
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24085 (24K) [text/html]
+Saving to: ‘208610’
+
+     0K .......... .......... ...                             100%  291K=0.08s
+
+2017-01-29 02:52:57 (291 KB/s) - ‘208610’ saved [24085/24085]
+
+--2017-01-29 02:52:58--  http://doi.org/10.1086/208615
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208615 [following]
+--2017-01-29 02:52:59--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208615
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/2/1/53/1794482/A-Method-for-Investigating-and-Representing [following]
+--2017-01-29 02:53:01--  https://academic.oup.com/jcr/article/2/1/53/1794482/A-Method-for-Investigating-and-Representing
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/2/1/53/1794482/A-Method-for-Investigating-and-Representing?redirectedFrom=fulltext [following]
+--2017-01-29 02:53:03--  https://academic.oup.com/jcr/article-abstract/2/1/53/1794482/A-Method-for-Investigating-and-Representing?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/2/1/53/1794482/A-Method-for-Investigating-and-Representing [following]
+--2017-01-29 02:53:06--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/2/1/53/1794482/A-Method-for-Investigating-and-Representing
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24097 (24K) [text/html]
+Saving to: ‘208615’
+
+     0K .......... .......... ...                             100%  294K=0.08s
+
+2017-01-29 02:53:06 (294 KB/s) - ‘208615’ saved [24097/24097]
+
+--2017-01-29 02:53:07--  http://doi.org/10.1093/jcr/2.1.backcover
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/lookup/doi/10.1093/jcr/2.1.BackCover [following]
+--2017-01-29 02:53:08--  http://jcr.oxfordjournals.org/lookup/doi/10.1093/jcr/2.1.BackCover
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/doi/10.1093/jcr/2.1.BackCover/1794495/Forthcoming-Articles-and-Communication-Notes [following]
+--2017-01-29 02:53:10--  https://academic.oup.com/jcr/article/doi/10.1093/jcr/2.1.BackCover/1794495/Forthcoming-Articles-and-Communication-Notes
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/2/1/BackCover/1794495/Forthcoming-Articles-and-Communication-Notes?redirectedFrom=fulltext [following]
+--2017-01-29 02:53:12--  https://academic.oup.com/jcr/article-abstract/2/1/BackCover/1794495/Forthcoming-Articles-and-Communication-Notes?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/2/1/BackCover/1794495/Forthcoming-Articles-and-Communication-Notes [following]
+--2017-01-29 02:53:14--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/2/1/BackCover/1794495/Forthcoming-Articles-and-Communication-Notes
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 39081 (38K) [text/html]
+Saving to: ‘2.1.backcover’
+
+     0K .......... .......... .......... ........             100%  234K=0.2s
+
+2017-01-29 02:53:15 (234 KB/s) - ‘2.1.backcover’ saved [39081/39081]
+
+--2017-01-29 02:53:16--  http://doi.org/10.1086/jcr.1975.2.issue-2
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.journals.uchicago.edu/toc/jcr/2/2 [following]
+--2017-01-29 02:53:17--  http://www.journals.uchicago.edu/toc/jcr/2/2
+Connecting to www.journals.uchicago.edu (www.journals.uchicago.edu)|65.156.1.140|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-29 02:53:18 ERROR 404: Not Found.
+
+--2017-01-29 02:53:19--  http://doi.org/10.1086/208623
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208623 [following]
+--2017-01-29 02:53:21--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208623
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/2/2/118/1864303/The-Fishbein-Extended-Model-and-Consumer-Behavior [following]
+--2017-01-29 02:53:22--  https://academic.oup.com/jcr/article/2/2/118/1864303/The-Fishbein-Extended-Model-and-Consumer-Behavior
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/2/2/118/1864303/The-Fishbein-Extended-Model-and-Consumer-Behavior?redirectedFrom=fulltext [following]
+--2017-01-29 02:53:24--  https://academic.oup.com/jcr/article-abstract/2/2/118/1864303/The-Fishbein-Extended-Model-and-Consumer-Behavior?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75054 (73K) [text/html]
+Saving to: ‘208623’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ...                             100% 10.3M=0.2s
+
+2017-01-29 02:53:28 (304 KB/s) - ‘208623’ saved [75054/75054]
+
+--2017-01-29 02:53:29--  http://doi.org/10.1086/208625
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208625 [following]
+--2017-01-29 02:53:30--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208625
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/2/2/146/1864317/An-Interaction-Model-of-Consumer-Utility [following]
+--2017-01-29 02:53:31--  https://academic.oup.com/jcr/article/2/2/146/1864317/An-Interaction-Model-of-Consumer-Utility
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/2/2/146/1864317/An-Interaction-Model-of-Consumer-Utility?redirectedFrom=fulltext [following]
+--2017-01-29 02:53:34--  https://academic.oup.com/jcr/article-abstract/2/2/146/1864317/An-Interaction-Model-of-Consumer-Utility?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 74842 (73K) [text/html]
+Saving to: ‘208625’
+
+     0K .......... .......... .......... .......... .......... 68%  208K 0s
+    50K .......... .......... ...                             100%  268K=0.3s
+
+2017-01-29 02:53:36 (224 KB/s) - ‘208625’ saved [74842/74842]
+
+--2017-01-29 02:53:37--  http://doi.org/10.1086/208620
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208620 [following]
+--2017-01-29 02:53:39--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208620
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/2/2/93/1864346/A-Multivariate-Analysis-of-Media-Exposure-and [following]
+--2017-01-29 02:53:40--  https://academic.oup.com/jcr/article/2/2/93/1864346/A-Multivariate-Analysis-of-Media-Exposure-and
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/2/2/93/1864346/A-Multivariate-Analysis-of-Media-Exposure-and?redirectedFrom=fulltext [following]
+--2017-01-29 02:53:42--  https://academic.oup.com/jcr/article-abstract/2/2/93/1864346/A-Multivariate-Analysis-of-Media-Exposure-and?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75471 (74K) [text/html]
+Saving to: ‘208620’
+
+     0K .......... .......... .......... .......... .......... 67%  209K 0s
+    50K .......... .......... ...                             100% 11.9M=0.2s
+
+2017-01-29 02:53:46 (306 KB/s) - ‘208620’ saved [75471/75471]
+
+--2017-01-29 02:53:47--  http://doi.org/10.1086/208617
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208617 [following]
+--2017-01-29 02:53:48--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208617
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/2/2/65/1864332/The-New-Economic-Theory-of-Consumer-Behavior-An [following]
+--2017-01-29 02:53:49--  https://academic.oup.com/jcr/article/2/2/65/1864332/The-New-Economic-Theory-of-Consumer-Behavior-An
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/2/2/65/1864332/The-New-Economic-Theory-of-Consumer-Behavior-An?redirectedFrom=fulltext [following]
+--2017-01-29 02:53:51--  https://academic.oup.com/jcr/article-abstract/2/2/65/1864332/The-New-Economic-Theory-of-Consumer-Behavior-An?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 73738 (72K) [text/html]
+Saving to: ‘208617’
+
+     0K .......... .......... .......... .......... .......... 69%  209K 0s
+    50K .......... .......... ..                              100% 10.3M=0.2s
+
+2017-01-29 02:53:54 (299 KB/s) - ‘208617’ saved [73738/73738]
+
+--2017-01-29 02:53:55--  http://doi.org/10.1086/208624
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208624 [following]
+--2017-01-29 02:53:56--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208624
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/2/2/137/1864312/Toward-Understanding-Attitude-Structure-A-Study-of [following]
+--2017-01-29 02:53:58--  https://academic.oup.com/jcr/article/2/2/137/1864312/Toward-Understanding-Attitude-Structure-A-Study-of
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/2/2/137/1864312/Toward-Understanding-Attitude-Structure-A-Study-of?redirectedFrom=fulltext [following]
+--2017-01-29 02:54:00--  https://academic.oup.com/jcr/article-abstract/2/2/137/1864312/Toward-Understanding-Attitude-Structure-A-Study-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 90733 (89K) [text/html]
+Saving to: ‘208624’
+
+     0K .......... .......... .......... .......... .......... 56%  209K 0s
+    50K .......... .......... .......... ........             100%  480K=0.3s
+
+2017-01-29 02:54:04 (277 KB/s) - ‘208624’ saved [90733/90733]
+
+--2017-01-29 02:54:05--  http://doi.org/10.1086/208621
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208621 [following]
+--2017-01-29 02:54:06--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208621
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/2/2/104/1864295/Behavioral-Changes-in-the-Trial-of-New-Products [following]
+--2017-01-29 02:54:07--  https://academic.oup.com/jcr/article/2/2/104/1864295/Behavioral-Changes-in-the-Trial-of-New-Products
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/2/2/104/1864295/Behavioral-Changes-in-the-Trial-of-New-Products?redirectedFrom=fulltext [following]
+--2017-01-29 02:54:09--  https://academic.oup.com/jcr/article-abstract/2/2/104/1864295/Behavioral-Changes-in-the-Trial-of-New-Products?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75069 (73K) [text/html]
+Saving to: ‘208621’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ...                             100% 10.0M=0.2s
+
+2017-01-29 02:54:13 (304 KB/s) - ‘208621’ saved [75069/75069]
+
+--2017-01-29 02:54:14--  http://doi.org/10.1086/208619
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208619 [following]
+--2017-01-29 02:54:15--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208619
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/2/2/80/1864339/Some-Communication-and-Demographic-Determinants-of [following]
+--2017-01-29 02:54:16--  https://academic.oup.com/jcr/article/2/2/80/1864339/Some-Communication-and-Demographic-Determinants-of
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/2/2/80/1864339/Some-Communication-and-Demographic-Determinants-of?redirectedFrom=fulltext [following]
+--2017-01-29 02:54:18--  https://academic.oup.com/jcr/article-abstract/2/2/80/1864339/Some-Communication-and-Demographic-Determinants-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75200 (73K) [text/html]
+Saving to: ‘208619’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ...                             100% 9.75M=0.2s
+
+2017-01-29 02:54:21 (305 KB/s) - ‘208619’ saved [75200/75200]
+
+--2017-01-29 02:54:22--  http://doi.org/10.1086/208626
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208626 [following]
+--2017-01-29 02:54:23--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208626
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/2/2/154/1864321/Constructive-Criticism-and-Programmatic-Research [following]
+--2017-01-29 02:54:24--  https://academic.oup.com/jcr/article/2/2/154/1864321/Constructive-Criticism-and-Programmatic-Research
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/2/2/154/1864321/Constructive-Criticism-and-Programmatic-Research?redirectedFrom=fulltext [following]
+--2017-01-29 02:54:26--  https://academic.oup.com/jcr/article-abstract/2/2/154/1864321/Constructive-Criticism-and-Programmatic-Research?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 77435 (76K) [text/html]
+Saving to: ‘208626’
+
+     0K .......... .......... .......... .......... .......... 66%  310K 0s
+    50K .......... .......... .....                           100%  322K=0.2s
+
+2017-01-29 02:54:29 (314 KB/s) - ‘208626’ saved [77435/77435]
+
+--2017-01-29 02:54:30--  http://doi.org/10.1086/208622
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208622 [following]
+--2017-01-29 02:54:31--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208622
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/2/2/110/1864299/The-Role-of-Confidence-in-Understanding-and [following]
+--2017-01-29 02:54:33--  https://academic.oup.com/jcr/article/2/2/110/1864299/The-Role-of-Confidence-in-Understanding-and
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/2/2/110/1864299/The-Role-of-Confidence-in-Understanding-and?redirectedFrom=fulltext [following]
+--2017-01-29 02:54:35--  https://academic.oup.com/jcr/article-abstract/2/2/110/1864299/The-Role-of-Confidence-in-Understanding-and?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75557 (74K) [text/html]
+Saving to: ‘208622’
+
+     0K .......... .......... .......... .......... .......... 67%  209K 0s
+    50K .......... .......... ...                             100% 13.5M=0.2s
+
+2017-01-29 02:54:38 (307 KB/s) - ‘208622’ saved [75557/75557]
+
+--2017-01-29 02:54:39--  http://doi.org/10.1086/208618
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208618 [following]
+--2017-01-29 02:54:41--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208618
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/2/2/76/1864334/Commentaries-on-Ratchford-The-New-Economic-Theory [following]
+--2017-01-29 02:54:42--  https://academic.oup.com/jcr/article/2/2/76/1864334/Commentaries-on-Ratchford-The-New-Economic-Theory
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/2/2/76/1864334/Commentaries-on-Ratchford-The-New-Economic-Theory?redirectedFrom=fulltext [following]
+--2017-01-29 02:54:44--  https://academic.oup.com/jcr/article-abstract/2/2/76/1864334/Commentaries-on-Ratchford-The-New-Economic-Theory?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 77245 (75K) [text/html]
+Saving to: ‘208618’
+
+     0K .......... .......... .......... .......... .......... 66%  209K 0s
+    50K .......... .......... .....                           100% 10.0M=0.2s
+
+2017-01-29 02:54:46 (312 KB/s) - ‘208618’ saved [77245/77245]
+
+--2017-01-29 02:54:47--  http://doi.org/10.1086/jcr.1975.2.issue-3
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.journals.uchicago.edu/toc/jcr/2/3 [following]
+--2017-01-29 02:54:49--  http://www.journals.uchicago.edu/toc/jcr/2/3
+Connecting to www.journals.uchicago.edu (www.journals.uchicago.edu)|65.156.1.140|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-29 02:54:50 ERROR 404: Not Found.
+
+--2017-01-29 02:54:51--  http://doi.org/10.1086/208633
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208633 [following]
+--2017-01-29 02:54:52--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208633
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/2/3/206/1785223/Informational-and-Normative-Social-Influence-in [following]
+--2017-01-29 02:54:54--  https://academic.oup.com/jcr/article/2/3/206/1785223/Informational-and-Normative-Social-Influence-in
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/2/3/206/1785223/Informational-and-Normative-Social-Influence-in?redirectedFrom=fulltext [following]
+--2017-01-29 02:54:56--  https://academic.oup.com/jcr/article-abstract/2/3/206/1785223/Informational-and-Normative-Social-Influence-in?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75706 (74K) [text/html]
+Saving to: ‘208633’
+
+     0K .......... .......... .......... .......... .......... 67%  209K 0s
+    50K .......... .......... ...                             100% 8.00M=0.2s
+
+2017-01-29 02:54:59 (305 KB/s) - ‘208633’ saved [75706/75706]
+
+--2017-01-29 02:55:00--  http://doi.org/10.1086/208637
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208637 [following]
+--2017-01-29 02:55:01--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208637
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/2/3/235/1785267/Situating-the-Situation-A-Reply-to-Barker-and [following]
+--2017-01-29 02:55:03--  https://academic.oup.com/jcr/article/2/3/235/1785267/Situating-the-Situation-A-Reply-to-Barker-and
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/2/3/235/1785267/Situating-the-Situation-A-Reply-to-Barker-and?redirectedFrom=fulltext [following]
+--2017-01-29 02:55:04--  https://academic.oup.com/jcr/article-abstract/2/3/235/1785267/Situating-the-Situation-A-Reply-to-Barker-and?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 74463 (73K) [text/html]
+Saving to: ‘208637’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ..                              100% 13.6M=0.2s
+
+2017-01-29 02:55:07 (302 KB/s) - ‘208637’ saved [74463/74463]
+
+--2017-01-29 02:55:08--  http://doi.org/10.1086/208627
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208627 [following]
+--2017-01-29 02:55:09--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208627
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/2/3/157/1785168/Situational-Variables-and-Consumer-Behavior [following]
+--2017-01-29 02:55:11--  https://academic.oup.com/jcr/article/2/3/157/1785168/Situational-Variables-and-Consumer-Behavior
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/2/3/157/1785168/Situational-Variables-and-Consumer-Behavior?redirectedFrom=fulltext [following]
+--2017-01-29 02:55:13--  https://academic.oup.com/jcr/article-abstract/2/3/157/1785168/Situational-Variables-and-Consumer-Behavior?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 73319 (72K) [text/html]
+Saving to: ‘208627’
+
+     0K .......... .......... .......... .......... .......... 69%  209K 0s
+    50K .......... .......... .                               100% 11.3M=0.2s
+
+2017-01-29 02:55:16 (297 KB/s) - ‘208627’ saved [73319/73319]
+
+--2017-01-29 02:55:17--  http://doi.org/10.1086/208636
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208636 [following]
+--2017-01-29 02:55:18--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208636
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/2/3/229/1785256/Bootstrapping-of-Data-and-Decisions [following]
+--2017-01-29 02:55:19--  https://academic.oup.com/jcr/article/2/3/229/1785256/Bootstrapping-of-Data-and-Decisions
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/2/3/229/1785256/Bootstrapping-of-Data-and-Decisions?redirectedFrom=fulltext [following]
+--2017-01-29 02:55:21--  https://academic.oup.com/jcr/article-abstract/2/3/229/1785256/Bootstrapping-of-Data-and-Decisions?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73207 (71K) [text/html]
+Saving to: ‘208636’
+
+     0K .......... .......... .......... .......... .......... 69%  209K 0s
+    50K .......... .......... .                               100% 15.2M=0.2s
+
+2017-01-29 02:55:24 (297 KB/s) - ‘208636’ saved [73207/73207]
+
+--2017-01-29 02:55:25--  http://doi.org/10.1086/208634
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208634 [following]
+--2017-01-29 02:55:27--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208634
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/2/3/216/1785238/Measuring-Prepurchase-Information-Seeking [following]
+--2017-01-29 02:55:28--  https://academic.oup.com/jcr/article/2/3/216/1785238/Measuring-Prepurchase-Information-Seeking
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/2/3/216/1785238/Measuring-Prepurchase-Information-Seeking?redirectedFrom=fulltext [following]
+--2017-01-29 02:55:30--  https://academic.oup.com/jcr/article-abstract/2/3/216/1785238/Measuring-Prepurchase-Information-Seeking?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 74926 (73K) [text/html]
+Saving to: ‘208634’
+
+     0K .......... .......... .......... .......... .......... 68%  209K 0s
+    50K .......... .......... ...                             100% 11.3M=0.2s
+
+2017-01-29 02:55:34 (303 KB/s) - ‘208634’ saved [74926/74926]
+
+--2017-01-29 02:55:35--  http://doi.org/10.1086/208635
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208635 [following]
+--2017-01-29 02:55:36--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208635
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/2/3/223/1785249/On-the-Usage-of-Modified-Personality-Trait [following]
+--2017-01-29 02:55:37--  https://academic.oup.com/jcr/article/2/3/223/1785249/On-the-Usage-of-Modified-Personality-Trait
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/2/3/223/1785249/On-the-Usage-of-Modified-Personality-Trait?redirectedFrom=fulltext [following]
+--2017-01-29 02:55:39--  https://academic.oup.com/jcr/article-abstract/2/3/223/1785249/On-the-Usage-of-Modified-Personality-Trait?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75372 (74K) [text/html]
+Saving to: ‘208635’
+
+     0K .......... .......... .......... .......... .......... 67%  209K 0s
+    50K .......... .......... ...                             100% 9.36M=0.2s
+
+2017-01-29 02:55:42 (304 KB/s) - ‘208635’ saved [75372/75372]
+
+--2017-01-29 02:55:43--  http://doi.org/10.1086/208632
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208632 [following]
+--2017-01-29 02:55:44--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208632
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/2/3/197/1785219/Cognitive-Maps-of-Retail-Locations-An [following]
+--2017-01-29 02:55:45--  https://academic.oup.com/jcr/article/2/3/197/1785219/Cognitive-Maps-of-Retail-Locations-An
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/2/3/197/1785219/Cognitive-Maps-of-Retail-Locations-An?redirectedFrom=fulltext [following]
+--2017-01-29 02:55:47--  https://academic.oup.com/jcr/article-abstract/2/3/197/1785219/Cognitive-Maps-of-Retail-Locations-An?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 90028 (88K) [text/html]
+Saving to: ‘208632’
+
+     0K .......... .......... .......... .......... .......... 56%  210K 0s
+    50K .......... .......... .......... .......              100%  470K=0.3s
+
+2017-01-29 02:55:51 (275 KB/s) - ‘208632’ saved [90028/90028]
+
+--2017-01-29 02:55:52--  http://doi.org/10.1086/208631
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208631 [following]
+--2017-01-29 02:55:53--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208631
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/2/3/188/1785204/Determining-the-Characteristics-of-the-Socially [following]
+--2017-01-29 02:55:54--  https://academic.oup.com/jcr/article/2/3/188/1785204/Determining-the-Characteristics-of-the-Socially
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/2/3/188/1785204/Determining-the-Characteristics-of-the-Socially?redirectedFrom=fulltext [following]
+--2017-01-29 02:55:58--  https://academic.oup.com/jcr/article-abstract/2/3/188/1785204/Determining-the-Characteristics-of-the-Socially?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 88094 (86K) [text/html]
+Saving to: ‘208631’
+
+     0K .......... .......... .......... .......... .......... 58%  208K 0s
+    50K .......... .......... .......... ......               100%  897K=0.3s
+
+2017-01-29 02:56:02 (307 KB/s) - ‘208631’ saved [88094/88094]
+
+--2017-01-29 02:56:03--  http://doi.org/10.1086/208638
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208638 [following]
+--2017-01-29 02:56:04--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208638
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/2/3/237/1785277/Children-and-Commercial-Persuasion-Some-Comments [following]
+--2017-01-29 02:56:05--  https://academic.oup.com/jcr/article/2/3/237/1785277/Children-and-Commercial-Persuasion-Some-Comments
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/2/3/237/1785277/Children-and-Commercial-Persuasion-Some-Comments?redirectedFrom=fulltext [following]
+--2017-01-29 02:56:08--  https://academic.oup.com/jcr/article-abstract/2/3/237/1785277/Children-and-Commercial-Persuasion-Some-Comments?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75842 (74K) [text/html]
+Saving to: ‘208638’
+
+     0K .......... .......... .......... .......... .......... 67%  209K 0s
+    50K .......... .......... ....                            100% 11.3M=0.2s
+
+2017-01-29 02:56:11 (307 KB/s) - ‘208638’ saved [75842/75842]
+
+--2017-01-29 02:56:12--  http://doi.org/10.1086/208629
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208629 [following]
+--2017-01-29 02:56:13--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208629
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/2/3/169/1785185/Issues-in-Designing-Consumer-Information [following]
+--2017-01-29 02:56:14--  https://academic.oup.com/jcr/article/2/3/169/1785185/Issues-in-Designing-Consumer-Information
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/2/3/169/1785185/Issues-in-Designing-Consumer-Information?redirectedFrom=fulltext [following]
+--2017-01-29 02:56:17--  https://academic.oup.com/jcr/article-abstract/2/3/169/1785185/Issues-in-Designing-Consumer-Information?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 73609 (72K) [text/html]
+Saving to: ‘208629’
+
+     0K .......... .......... .......... .......... .......... 69%  209K 0s
+    50K .......... .......... .                               100% 10.3M=0.2s
+
+2017-01-29 02:56:20 (298 KB/s) - ‘208629’ saved [73609/73609]
+
+--2017-01-29 02:56:21--  http://doi.org/10.1086/208628
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208628 [following]
+--2017-01-29 02:56:22--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208628
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/2/3/165/1785175/Commentaries-on-Belk-Situational-Variables-and [following]
+--2017-01-29 02:56:23--  https://academic.oup.com/jcr/article/2/3/165/1785175/Commentaries-on-Belk-Situational-Variables-and
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/2/3/165/1785175/Commentaries-on-Belk-Situational-Variables-and?redirectedFrom=fulltext [following]
+--2017-01-29 02:56:25--  https://academic.oup.com/jcr/article-abstract/2/3/165/1785175/Commentaries-on-Belk-Situational-Variables-and?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 76968 (75K) [text/html]
+Saving to: ‘208628’
+
+     0K .......... .......... .......... .......... .......... 66%  310K 0s
+    50K .......... .......... .....                           100%  315K=0.2s
+
+2017-01-29 02:56:28 (312 KB/s) - ‘208628’ saved [76968/76968]
+
+--2017-01-29 02:56:29--  http://doi.org/10.1086/208630
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208630 [following]
+--2017-01-29 02:56:30--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208630
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/2/3/178/1785192/An-Index-of-the-Economic-Welfare-of-Rural-Families [following]
+--2017-01-29 02:56:31--  https://academic.oup.com/jcr/article/2/3/178/1785192/An-Index-of-the-Economic-Welfare-of-Rural-Families
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/2/3/178/1785192/An-Index-of-the-Economic-Welfare-of-Rural-Families?redirectedFrom=fulltext [following]
+--2017-01-29 02:56:34--  https://academic.oup.com/jcr/article-abstract/2/3/178/1785192/An-Index-of-the-Economic-Welfare-of-Rural-Families?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 77061 (75K) [text/html]
+Saving to: ‘208630’
+
+     0K .......... .......... .......... .......... .......... 66%  209K 0s
+    50K .......... .......... .....                           100% 12.8M=0.2s
+
+2017-01-29 02:56:37 (312 KB/s) - ‘208630’ saved [77061/77061]
+
+--2017-01-29 02:56:38--  http://doi.org/10.1086/jcr.1976.2.issue-4
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.journals.uchicago.edu/toc/jcr/2/4 [following]
+--2017-01-29 02:56:39--  http://www.journals.uchicago.edu/toc/jcr/2/4
+Connecting to www.journals.uchicago.edu (www.journals.uchicago.edu)|65.156.1.140|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-29 02:56:41 ERROR 404: Not Found.
+
+--2017-01-29 02:56:42--  http://doi.org/10.1086/208643
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208643 [following]
+--2017-01-29 02:56:43--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208643
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/2/4/302/1820439/Some-Internal-Psychological-Factors-Influencing [following]
+--2017-01-29 02:56:44--  https://academic.oup.com/jcr/article/2/4/302/1820439/Some-Internal-Psychological-Factors-Influencing
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/2/4/302/1820439/Some-Internal-Psychological-Factors-Influencing?redirectedFrom=fulltext [following]
+--2017-01-29 02:56:47--  https://academic.oup.com/jcr/article-abstract/2/4/302/1820439/Some-Internal-Psychological-Factors-Influencing?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/2/4/302/1820439/Some-Internal-Psychological-Factors-Influencing [following]
+--2017-01-29 02:56:49--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/2/4/302/1820439/Some-Internal-Psychological-Factors-Influencing
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24117 (24K) [text/html]
+Saving to: ‘208643’
+
+     0K .......... .......... ...                             100%  294K=0.08s
+
+2017-01-29 02:56:50 (294 KB/s) - ‘208643’ saved [24117/24117]
+
+--2017-01-29 02:56:51--  http://doi.org/10.1086/208644
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208644 [following]
+--2017-01-29 02:56:52--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208644
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/2/4/320/1820440/Time-and-Consumer-Behavior-An-Interdisciplinary [following]
+--2017-01-29 02:56:53--  https://academic.oup.com/jcr/article/2/4/320/1820440/Time-and-Consumer-Behavior-An-Interdisciplinary
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/2/4/320/1820440/Time-and-Consumer-Behavior-An-Interdisciplinary?redirectedFrom=fulltext [following]
+--2017-01-29 02:56:56--  https://academic.oup.com/jcr/article-abstract/2/4/320/1820440/Time-and-Consumer-Behavior-An-Interdisciplinary?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/2/4/320/1820440/Time-and-Consumer-Behavior-An-Interdisciplinary [following]
+--2017-01-29 02:56:59--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/2/4/320/1820440/Time-and-Consumer-Behavior-An-Interdisciplinary
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24117 (24K) [text/html]
+Saving to: ‘208644’
+
+     0K .......... .......... ...                             100%  294K=0.08s
+
+2017-01-29 02:56:59 (294 KB/s) - ‘208644’ saved [24117/24117]
+
+--2017-01-29 02:57:00--  http://doi.org/10.1086/208640
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208640 [following]
+--2017-01-29 02:57:01--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208640
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/2/4/261/1820429/Patterns-of-Marriage-and-Family-Formation-and [following]
+--2017-01-29 02:57:03--  https://academic.oup.com/jcr/article/2/4/261/1820429/Patterns-of-Marriage-and-Family-Formation-and
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/2/4/261/1820429/Patterns-of-Marriage-and-Family-Formation-and?redirectedFrom=fulltext [following]
+--2017-01-29 02:57:05--  https://academic.oup.com/jcr/article-abstract/2/4/261/1820429/Patterns-of-Marriage-and-Family-Formation-and?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/2/4/261/1820429/Patterns-of-Marriage-and-Family-Formation-and [following]
+--2017-01-29 02:57:08--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/2/4/261/1820429/Patterns-of-Marriage-and-Family-Formation-and
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 24109 (24K) [text/html]
+Saving to: ‘208640’
+
+     0K .......... .......... ...                             100%  148K=0.2s
+
+2017-01-29 02:57:09 (148 KB/s) - ‘208640’ saved [24109/24109]
+
+--2017-01-29 02:57:10--  http://doi.org/10.1086/208639
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208639 [following]
+--2017-01-29 02:57:11--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208639
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/2/4/241/1820423/Decision-Making-within-the-Household [following]
+--2017-01-29 02:57:12--  https://academic.oup.com/jcr/article/2/4/241/1820423/Decision-Making-within-the-Household
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/2/4/241/1820423/Decision-Making-within-the-Household?redirectedFrom=fulltext [following]
+--2017-01-29 02:57:14--  https://academic.oup.com/jcr/article-abstract/2/4/241/1820423/Decision-Making-within-the-Household?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/2/4/241/1820423/Decision-Making-within-the-Household [following]
+--2017-01-29 02:57:17--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/2/4/241/1820423/Decision-Making-within-the-Household
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24073 (24K) [text/html]
+Saving to: ‘208639’
+
+     0K .......... .......... ...                             100%  293K=0.08s
+
+2017-01-29 02:57:18 (293 KB/s) - ‘208639’ saved [24073/24073]
+
+--2017-01-29 02:57:19--  http://doi.org/10.1086/208641
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208641 [following]
+--2017-01-29 02:57:20--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208641
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/2/4/276/1820433/Educational-and-Occupational-Choice-A-Synthesis-of [following]
+--2017-01-29 02:57:21--  https://academic.oup.com/jcr/article/2/4/276/1820433/Educational-and-Occupational-Choice-A-Synthesis-of
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/2/4/276/1820433/Educational-and-Occupational-Choice-A-Synthesis-of?redirectedFrom=fulltext [following]
+--2017-01-29 02:57:23--  https://academic.oup.com/jcr/article-abstract/2/4/276/1820433/Educational-and-Occupational-Choice-A-Synthesis-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/2/4/276/1820433/Educational-and-Occupational-Choice-A-Synthesis-of [following]
+--2017-01-29 02:57:26--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/2/4/276/1820433/Educational-and-Occupational-Choice-A-Synthesis-of
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24129 (24K) [text/html]
+Saving to: ‘208641’
+
+     0K .......... .......... ...                             100%  295K=0.08s
+
+2017-01-29 02:57:26 (295 KB/s) - ‘208641’ saved [24129/24129]
+
+--2017-01-29 02:57:27--  http://doi.org/10.1086/208642
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208642 [following]
+--2017-01-29 02:57:29--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208642
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/2/4/290/1820436/New-Product-Adoption-and-Diffusion [following]
+--2017-01-29 02:57:30--  https://academic.oup.com/jcr/article/2/4/290/1820436/New-Product-Adoption-and-Diffusion
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/2/4/290/1820436/New-Product-Adoption-and-Diffusion?redirectedFrom=fulltext [following]
+--2017-01-29 02:57:32--  https://academic.oup.com/jcr/article-abstract/2/4/290/1820436/New-Product-Adoption-and-Diffusion?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/2/4/290/1820436/New-Product-Adoption-and-Diffusion [following]
+--2017-01-29 02:57:35--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/2/4/290/1820436/New-Product-Adoption-and-Diffusion
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24065 (24K) [text/html]
+Saving to: ‘208642’
+
+     0K .......... .......... ...                             100%  293K=0.08s
+
+2017-01-29 02:57:35 (293 KB/s) - ‘208642’ saved [24065/24065]
+
+--2017-01-29 02:57:36--  http://doi.org/10.1093/jcr/2.4.backcover
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/lookup/doi/10.1093/jcr/2.4.BackCover [following]
+--2017-01-29 02:57:37--  http://jcr.oxfordjournals.org/lookup/doi/10.1093/jcr/2.4.BackCover
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/doi/10.1093/jcr/2.4.BackCover/1820442/Forthcoming-Articles-in-JCR [following]
+--2017-01-29 02:57:39--  https://academic.oup.com/jcr/article/doi/10.1093/jcr/2.4.BackCover/1820442/Forthcoming-Articles-in-JCR
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/2/4/BackCover/1820442/Forthcoming-Articles-in-JCR?redirectedFrom=fulltext [following]
+--2017-01-29 02:57:41--  https://academic.oup.com/jcr/article-abstract/2/4/BackCover/1820442/Forthcoming-Articles-in-JCR?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/2/4/BackCover/1820442/Forthcoming-Articles-in-JCR [following]
+--2017-01-29 02:57:43--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/2/4/BackCover/1820442/Forthcoming-Articles-in-JCR
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24061 (23K) [text/html]
+Saving to: ‘2.4.backcover’
+
+     0K .......... .......... ...                             100%  293K=0.08s
+
+2017-01-29 02:57:44 (293 KB/s) - ‘2.4.backcover’ saved [24061/24061]
+
+--2017-01-29 02:57:45--  http://doi.org/10.1086/jcr.1976.3.issue-1
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.journals.uchicago.edu/toc/jcr/3/1 [following]
+--2017-01-29 02:57:46--  http://www.journals.uchicago.edu/toc/jcr/3/1
+Connecting to www.journals.uchicago.edu (www.journals.uchicago.edu)|65.156.1.140|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-29 02:57:48 ERROR 404: Not Found.
+
+--2017-01-29 02:57:49--  http://doi.org/10.1086/208645
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208645 [following]
+--2017-01-29 02:57:50--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208645
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/3/1/1/1884356/An-Experimental-Test-of-the-Harmful-Effects-of [following]
+--2017-01-29 02:57:51--  https://academic.oup.com/jcr/article/3/1/1/1884356/An-Experimental-Test-of-the-Harmful-Effects-of
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/3/1/1/1884356/An-Experimental-Test-of-the-Harmful-Effects-of?redirectedFrom=fulltext [following]
+--2017-01-29 02:57:53--  https://academic.oup.com/jcr/article-abstract/3/1/1/1884356/An-Experimental-Test-of-the-Harmful-Effects-of?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/3/1/1/1884356/An-Experimental-Test-of-the-Harmful-Effects-of [following]
+--2017-01-29 02:57:56--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/3/1/1/1884356/An-Experimental-Test-of-the-Harmful-Effects-of
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 39057 (38K) [text/html]
+Saving to: ‘208645’
+
+     0K .......... .......... .......... ........             100%  238K=0.2s
+
+2017-01-29 02:57:56 (238 KB/s) - ‘208645’ saved [39057/39057]
+
+--2017-01-29 02:57:57--  http://doi.org/10.1086/208649
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208649 [following]
+--2017-01-29 02:57:58--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208649
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/3/1/42/1884408/The-Influence-of-Price-Differences-and-Brand [following]
+--2017-01-29 02:58:00--  https://academic.oup.com/jcr/article/3/1/42/1884408/The-Influence-of-Price-Differences-and-Brand
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/3/1/42/1884408/The-Influence-of-Price-Differences-and-Brand?redirectedFrom=fulltext [following]
+--2017-01-29 02:58:02--  https://academic.oup.com/jcr/article-abstract/3/1/42/1884408/The-Influence-of-Price-Differences-and-Brand?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/3/1/42/1884408/The-Influence-of-Price-Differences-and-Brand [following]
+--2017-01-29 02:58:04--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/3/1/42/1884408/The-Influence-of-Price-Differences-and-Brand
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24101 (24K) [text/html]
+Saving to: ‘208649’
+
+     0K .......... .......... ...                             100%  294K=0.08s
+
+2017-01-29 02:58:05 (294 KB/s) - ‘208649’ saved [24101/24101]
+
+--2017-01-29 02:58:06--  http://doi.org/10.1086/208648
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208648 [following]
+--2017-01-29 02:58:07--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208648
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/3/1/31/1884396/A-Simple-Mathematical-Theory-of-Innovative [following]
+--2017-01-29 02:58:08--  https://academic.oup.com/jcr/article/3/1/31/1884396/A-Simple-Mathematical-Theory-of-Innovative
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/3/1/31/1884396/A-Simple-Mathematical-Theory-of-Innovative?redirectedFrom=fulltext [following]
+--2017-01-29 02:58:10--  https://academic.oup.com/jcr/article-abstract/3/1/31/1884396/A-Simple-Mathematical-Theory-of-Innovative?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/3/1/31/1884396/A-Simple-Mathematical-Theory-of-Innovative [following]
+--2017-01-29 02:58:13--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/3/1/31/1884396/A-Simple-Mathematical-Theory-of-Innovative
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24093 (24K) [text/html]
+Saving to: ‘208648’
+
+     0K .......... .......... ...                             100%  293K=0.08s
+
+2017-01-29 02:58:14 (293 KB/s) - ‘208648’ saved [24093/24093]
+
+--2017-01-29 02:58:15--  http://doi.org/10.1086/208652
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208652 [following]
+--2017-01-29 02:58:16--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208652
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/3/1/62/1884458/Environmental-Variables-in-Consumer-Research [following]
+--2017-01-29 02:58:18--  https://academic.oup.com/jcr/article/3/1/62/1884458/Environmental-Variables-in-Consumer-Research
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/3/1/62/1884458/Environmental-Variables-in-Consumer-Research?redirectedFrom=fulltext [following]
+--2017-01-29 02:58:20--  https://academic.oup.com/jcr/article-abstract/3/1/62/1884458/Environmental-Variables-in-Consumer-Research?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/3/1/62/1884458/Environmental-Variables-in-Consumer-Research [following]
+--2017-01-29 02:58:22--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/3/1/62/1884458/Environmental-Variables-in-Consumer-Research
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24101 (24K) [text/html]
+Saving to: ‘208652’
+
+     0K .......... .......... ...                             100%  295K=0.08s
+
+2017-01-29 02:58:23 (295 KB/s) - ‘208652’ saved [24101/24101]
+
+--2017-01-29 02:58:24--  http://doi.org/10.1086/208650
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208650 [following]
+--2017-01-29 02:58:25--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208650
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/3/1/50/1884430/Preference-of-Relevant-Others-and-Individual [following]
+--2017-01-29 02:58:26--  https://academic.oup.com/jcr/article/3/1/50/1884430/Preference-of-Relevant-Others-and-Individual
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/3/1/50/1884430/Preference-of-Relevant-Others-and-Individual?redirectedFrom=fulltext [following]
+--2017-01-29 02:58:29--  https://academic.oup.com/jcr/article-abstract/3/1/50/1884430/Preference-of-Relevant-Others-and-Individual?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/3/1/50/1884430/Preference-of-Relevant-Others-and-Individual [following]
+--2017-01-29 02:58:31--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/3/1/50/1884430/Preference-of-Relevant-Others-and-Individual
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24101 (24K) [text/html]
+Saving to: ‘208650’
+
+     0K .......... .......... ...                             100%  293K=0.08s
+
+2017-01-29 02:58:32 (293 KB/s) - ‘208650’ saved [24101/24101]
+
+--2017-01-29 02:58:33--  http://doi.org/10.1086/208647
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208647 [following]
+--2017-01-29 02:58:34--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208647
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/3/1/21/1884385/A-Motivational-Model-of-Information-Processing [following]
+--2017-01-29 02:58:35--  https://academic.oup.com/jcr/article/3/1/21/1884385/A-Motivational-Model-of-Information-Processing
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/3/1/21/1884385/A-Motivational-Model-of-Information-Processing?redirectedFrom=fulltext [following]
+--2017-01-29 02:58:38--  https://academic.oup.com/jcr/article-abstract/3/1/21/1884385/A-Motivational-Model-of-Information-Processing?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/3/1/21/1884385/A-Motivational-Model-of-Information-Processing [following]
+--2017-01-29 02:58:40--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/3/1/21/1884385/A-Motivational-Model-of-Information-Processing
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24109 (24K) [text/html]
+Saving to: ‘208647’
+
+     0K .......... .......... ...                             100%  291K=0.08s
+
+2017-01-29 02:58:41 (291 KB/s) - ‘208647’ saved [24109/24109]
+
+--2017-01-29 02:58:42--  http://doi.org/10.1086/208651
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208651 [following]
+--2017-01-29 02:58:43--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208651
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/3/1/58/1884446/Children-and-Commercial-Persuasion-A-Reply-to [following]
+--2017-01-29 02:58:44--  https://academic.oup.com/jcr/article/3/1/58/1884446/Children-and-Commercial-Persuasion-A-Reply-to
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/3/1/58/1884446/Children-and-Commercial-Persuasion-A-Reply-to?redirectedFrom=fulltext [following]
+--2017-01-29 02:58:46--  https://academic.oup.com/jcr/article-abstract/3/1/58/1884446/Children-and-Commercial-Persuasion-A-Reply-to?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/3/1/58/1884446/Children-and-Commercial-Persuasion-A-Reply-to [following]
+--2017-01-29 02:58:49--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/3/1/58/1884446/Children-and-Commercial-Persuasion-A-Reply-to
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 24105 (24K) [text/html]
+Saving to: ‘208651’
+
+     0K .......... .......... ...                             100%  148K=0.2s
+
+2017-01-29 02:58:50 (148 KB/s) - ‘208651’ saved [24105/24105]
+
+--2017-01-29 02:58:51--  http://doi.org/10.1086/208646
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208646 [following]
+--2017-01-29 02:58:52--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208646
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/3/1/12/1884374/Cross-National-Comparisons-and-Consumer [following]
+--2017-01-29 02:58:53--  https://academic.oup.com/jcr/article/3/1/12/1884374/Cross-National-Comparisons-and-Consumer
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/3/1/12/1884374/Cross-National-Comparisons-and-Consumer?redirectedFrom=fulltext [following]
+--2017-01-29 02:58:56--  https://academic.oup.com/jcr/article-abstract/3/1/12/1884374/Cross-National-Comparisons-and-Consumer?redirectedFrom=fulltext
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/3/1/12/1884374/Cross-National-Comparisons-and-Consumer [following]
+--2017-01-29 02:58:59--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/3/1/12/1884374/Cross-National-Comparisons-and-Consumer
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 39034 (38K) [text/html]
+Saving to: ‘208646’
+
+     0K .......... .......... .......... ........             100%  238K=0.2s
+
+2017-01-29 02:58:59 (238 KB/s) - ‘208646’ saved [39034/39034]
+
+--2017-01-29 02:59:00--  http://doi.org/10.1093/jcr/3.1.backcover
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/lookup/doi/10.1093/jcr/3.1.BackCover [following]
+--2017-01-29 02:59:01--  http://jcr.oxfordjournals.org/lookup/doi/10.1093/jcr/3.1.BackCover
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/doi/10.1093/jcr/3.1.BackCover/1884476/Forthcoming-Articles-and-Communication-Notes [following]
+--2017-01-29 02:59:03--  https://academic.oup.com/jcr/article/doi/10.1093/jcr/3.1.BackCover/1884476/Forthcoming-Articles-and-Communication-Notes
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/3/1/BackCover/1884476/Forthcoming-Articles-and-Communication-Notes?redirectedFrom=fulltext [following]
+--2017-01-29 02:59:05--  https://academic.oup.com/jcr/article-abstract/3/1/BackCover/1884476/Forthcoming-Articles-and-Communication-Notes?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/3/1/BackCover/1884476/Forthcoming-Articles-and-Communication-Notes [following]
+--2017-01-29 02:59:07--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/3/1/BackCover/1884476/Forthcoming-Articles-and-Communication-Notes
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24129 (24K) [text/html]
+Saving to: ‘3.1.backcover’
+
+     0K .......... .......... ...                             100%  295K=0.08s
+
+2017-01-29 02:59:09 (295 KB/s) - ‘3.1.backcover’ saved [24129/24129]
+
+--2017-01-29 02:59:10--  http://doi.org/10.1086/jcr.1976.3.issue-2
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.journals.uchicago.edu/toc/jcr/3/2 [following]
+--2017-01-29 02:59:11--  http://www.journals.uchicago.edu/toc/jcr/3/2
+Connecting to www.journals.uchicago.edu (www.journals.uchicago.edu)|65.156.1.140|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-29 02:59:12 ERROR 404: Not Found.
+
+--2017-01-29 02:59:13--  http://doi.org/10.1086/208658
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208658 [following]
+--2017-01-29 02:59:14--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208658
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/3/2/107/1797596/The-Self-Actualizing-Socially-Conscious-Consumer [following]
+--2017-01-29 02:59:16--  https://academic.oup.com/jcr/article/3/2/107/1797596/The-Self-Actualizing-Socially-Conscious-Consumer
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/3/2/107/1797596/The-Self-Actualizing-Socially-Conscious-Consumer?redirectedFrom=fulltext [following]
+--2017-01-29 02:59:19--  https://academic.oup.com/jcr/article-abstract/3/2/107/1797596/The-Self-Actualizing-Socially-Conscious-Consumer?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/3/2/107/1797596/The-Self-Actualizing-Socially-Conscious-Consumer [following]
+--2017-01-29 02:59:21--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/3/2/107/1797596/The-Self-Actualizing-Socially-Conscious-Consumer
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 24121 (24K) [text/html]
+Saving to: ‘208658’
+
+     0K .......... .......... ...                             100%  148K=0.2s
+
+2017-01-29 02:59:22 (148 KB/s) - ‘208658’ saved [24121/24121]
+
+--2017-01-29 02:59:23--  http://doi.org/10.1086/208659
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208659 [following]
+--2017-01-29 02:59:25--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208659
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/3/2/113/1797601/The-Socially-Conscious-Consumer-Another-Look-at [following]
+--2017-01-29 02:59:26--  https://academic.oup.com/jcr/article/3/2/113/1797601/The-Socially-Conscious-Consumer-Another-Look-at
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/3/2/113/1797601/The-Socially-Conscious-Consumer-Another-Look-at?redirectedFrom=fulltext [following]
+--2017-01-29 02:59:28--  https://academic.oup.com/jcr/article-abstract/3/2/113/1797601/The-Socially-Conscious-Consumer-Another-Look-at?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/3/2/113/1797601/The-Socially-Conscious-Consumer-Another-Look-at [following]
+--2017-01-29 02:59:30--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/3/2/113/1797601/The-Socially-Conscious-Consumer-Another-Look-at
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24117 (24K) [text/html]
+Saving to: ‘208659’
+
+     0K .......... .......... ...                             100%  295K=0.08s
+
+2017-01-29 02:59:31 (295 KB/s) - ‘208659’ saved [24117/24117]
+
+--2017-01-29 02:59:32--  http://doi.org/10.1086/208655
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208655 [following]
+--2017-01-29 02:59:33--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208655
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/3/2/84/1797625/Optimal-Stimulation-Level-and-the-Adoption [following]
+--2017-01-29 02:59:34--  https://academic.oup.com/jcr/article/3/2/84/1797625/Optimal-Stimulation-Level-and-the-Adoption
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/3/2/84/1797625/Optimal-Stimulation-Level-and-the-Adoption?redirectedFrom=fulltext [following]
+--2017-01-29 02:59:36--  https://academic.oup.com/jcr/article-abstract/3/2/84/1797625/Optimal-Stimulation-Level-and-the-Adoption?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/3/2/84/1797625/Optimal-Stimulation-Level-and-the-Adoption [following]
+--2017-01-29 02:59:38--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/3/2/84/1797625/Optimal-Stimulation-Level-and-the-Adoption
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 39045 (38K) [text/html]
+Saving to: ‘208655’
+
+     0K .......... .......... .......... ........             100%  238K=0.2s
+
+2017-01-29 02:59:39 (238 KB/s) - ‘208655’ saved [39045/39045]
+
+--2017-01-29 02:59:40--  http://doi.org/10.1086/208654
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208654 [following]
+--2017-01-29 02:59:41--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208654
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/3/2/76/1797619/An-Alternate-Interpretation-of-the-Linear-Learning [following]
+--2017-01-29 02:59:43--  https://academic.oup.com/jcr/article/3/2/76/1797619/An-Alternate-Interpretation-of-the-Linear-Learning
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/3/2/76/1797619/An-Alternate-Interpretation-of-the-Linear-Learning?redirectedFrom=fulltext [following]
+--2017-01-29 02:59:45--  https://academic.oup.com/jcr/article-abstract/3/2/76/1797619/An-Alternate-Interpretation-of-the-Linear-Learning?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/3/2/76/1797619/An-Alternate-Interpretation-of-the-Linear-Learning [following]
+--2017-01-29 02:59:47--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/3/2/76/1797619/An-Alternate-Interpretation-of-the-Linear-Learning
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24125 (24K) [text/html]
+Saving to: ‘208654’
+
+     0K .......... .......... ...                             100%  294K=0.08s
+
+2017-01-29 02:59:48 (294 KB/s) - ‘208654’ saved [24125/24125]
+
+--2017-01-29 02:59:49--  http://doi.org/10.1086/208653
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208653 [following]
+--2017-01-29 02:59:50--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208653
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/3/2/65/1797607/Toward-a-Sociology-of-Consumption [following]
+--2017-01-29 02:59:51--  https://academic.oup.com/jcr/article/3/2/65/1797607/Toward-a-Sociology-of-Consumption
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/3/2/65/1797607/Toward-a-Sociology-of-Consumption?redirectedFrom=fulltext [following]
+--2017-01-29 02:59:54--  https://academic.oup.com/jcr/article-abstract/3/2/65/1797607/Toward-a-Sociology-of-Consumption?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/3/2/65/1797607/Toward-a-Sociology-of-Consumption [following]
+--2017-01-29 02:59:56--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/3/2/65/1797607/Toward-a-Sociology-of-Consumption
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24057 (23K) [text/html]
+Saving to: ‘208653’
+
+     0K .......... .......... ...                             100%  294K=0.08s
+
+2017-01-29 02:59:57 (294 KB/s) - ‘208653’ saved [24057/24057]
+
+--2017-01-29 02:59:58--  http://doi.org/10.1086/208656
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208656 [following]
+--2017-01-29 02:59:59--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208656
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/3/2/95/1797631/Perceived-Risk-and-Personality [following]
+--2017-01-29 03:00:00--  https://academic.oup.com/jcr/article/3/2/95/1797631/Perceived-Risk-and-Personality
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/3/2/95/1797631/Perceived-Risk-and-Personality?redirectedFrom=fulltext [following]
+--2017-01-29 03:00:03--  https://academic.oup.com/jcr/article-abstract/3/2/95/1797631/Perceived-Risk-and-Personality?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/3/2/95/1797631/Perceived-Risk-and-Personality [following]
+--2017-01-29 03:00:05--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/3/2/95/1797631/Perceived-Risk-and-Personality
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24045 (23K) [text/html]
+Saving to: ‘208656’
+
+     0K .......... .......... ...                             100%  291K=0.08s
+
+2017-01-29 03:00:06 (291 KB/s) - ‘208656’ saved [24045/24045]
+
+--2017-01-29 03:00:07--  http://doi.org/10.1086/208657
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://jcr.oxfordjournals.org/cgi/doi/10.1086/208657 [following]
+--2017-01-29 03:00:08--  http://jcr.oxfordjournals.org/cgi/doi/10.1086/208657
+Connecting to jcr.oxfordjournals.org (jcr.oxfordjournals.org)|209.135.222.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from jcr.oxfordjournals.org attempted to set domain to academic.oup.com
+Location: https://academic.oup.com/jcr/article/3/2/101/1797588/Do-Consumers-Evaluate-Products-by-Adding-or [following]
+--2017-01-29 03:00:09--  https://academic.oup.com/jcr/article/3/2/101/1797588/Do-Consumers-Evaluate-Products-by-Adding-or
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /jcr/article-abstract/3/2/101/1797588/Do-Consumers-Evaluate-Products-by-Adding-or?redirectedFrom=fulltext [following]
+--2017-01-29 03:00:12--  https://academic.oup.com/jcr/article-abstract/3/2/101/1797588/Do-Consumers-Evaluate-Products-by-Adding-or?redirectedFrom=fulltext
+Reusing existing connection to academic.oup.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /errors/error.aspx?aspxerrorpath=/jcr/article-abstract/3/2/101/1797588/Do-Consumers-Evaluate-Products-by-Adding-or [following]
+--2017-01-29 03:00:15--  https://academic.oup.com/errors/error.aspx?aspxerrorpath=/jcr/article-abstract/3/2/101/1797588/Do-Consumers-Evaluate-Products-by-Adding-or
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 24101 (24K) [text/html]
+Saving to: ‘208657’
+
+     0K .......... .......... ...                             100%  148K=0.2s
+
+2017-01-29 03:00:15 (148 KB/s) - ‘208657’ saved [24101/24101]
+
+FINISHED --2017-01-29 03:00:15--
+Total wall clock time: 14m 10s
+Downloaded: 90 files, 4.2M in 15s (281 KB/s)

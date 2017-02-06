@@ -1,0 +1,1357 @@
+--2017-01-28 14:55:27--  http://doi.org/10.1002/(issn)0000-0000
+Resolving doi.org (doi.org)... 63.123.152.248, 95.138.171.129, 54.191.229.235, ...
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://doi.wiley.com/10.1002/%28ISSN%290000-0000 [following]
+--2017-01-28 14:55:28--  http://doi.wiley.com/10.1002/%28ISSN%290000-0000
+Resolving doi.wiley.com (doi.wiley.com)... 199.171.202.200
+Connecting to doi.wiley.com (doi.wiley.com)|199.171.202.200|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002/(ISSN)0000-0000 [following]
+--2017-01-28 14:55:29--  http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002/(ISSN)0000-0000
+Resolving onlinelibrary.wiley.com (onlinelibrary.wiley.com)... 199.171.202.195
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|199.171.202.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-28 14:55:29 ERROR 404: Not Found.
+
+--2017-01-28 14:55:30--  http://doi.org/10.1051/jphystap:018720010014200
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 14:55:32--  http://www.crossref.org/deleted_DOI.html
+Resolving www.crossref.org (www.crossref.org)... 208.254.38.78
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 14:55:32 ERROR 410: Gone.
+
+--2017-01-28 14:55:33--  http://doi.org/10.1051/jphystap:018720010017601
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 14:55:34--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 14:55:35 ERROR 410: Gone.
+
+--2017-01-28 14:55:36--  http://doi.org/10.1051/jphystap:018720010020800
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 14:55:37--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 14:55:37 ERROR 410: Gone.
+
+--2017-01-28 14:55:38--  http://doi.org/10.1051/jphystap:018720010024000
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 14:55:39--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 14:55:40 ERROR 410: Gone.
+
+--2017-01-28 14:55:41--  http://doi.org/10.1051/jphystap:018720010027200
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 14:55:42--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 14:55:42 ERROR 410: Gone.
+
+--2017-01-28 14:55:43--  http://doi.org/10.1051/jphystap:018720010037501
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 14:55:44--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 14:55:44 ERROR 410: Gone.
+
+--2017-01-28 14:55:45--  http://doi.org/10.1051/jphystap:018720010040902
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 14:55:47--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 14:55:47 ERROR 410: Gone.
+
+--2017-01-28 14:55:48--  http://doi.org/10.1051/jphystap:01874003007101
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 14:55:49--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 14:55:49 ERROR 410: Gone.
+
+--2017-01-28 14:55:50--  http://doi.org/10.1051/jphystap:018740030010301
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 14:55:52--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 14:55:52 ERROR 410: Gone.
+
+--2017-01-28 14:55:53--  http://doi.org/10.1051/jphystap:018740030013601
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 14:55:54--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 14:55:54 ERROR 410: Gone.
+
+--2017-01-28 14:55:55--  http://doi.org/10.1051/jphystap:018740030016601
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 14:55:56--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 14:55:57 ERROR 410: Gone.
+
+--2017-01-28 14:55:58--  http://doi.org/10.1051/jphystap:018740030020000
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 14:55:59--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 14:55:59 ERROR 410: Gone.
+
+--2017-01-28 14:56:00--  http://doi.org/10.1051/jphystap:018740030023101
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 14:56:02--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 14:56:02 ERROR 410: Gone.
+
+--2017-01-28 14:56:03--  http://doi.org/10.1051/jphystap:018740030026302
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 14:56:04--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 14:56:04 ERROR 410: Gone.
+
+--2017-01-28 14:56:05--  http://doi.org/10.1051/jphystap:018740030029601
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 14:56:06--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 14:56:07 ERROR 410: Gone.
+
+--2017-01-28 14:56:08--  http://doi.org/10.1051/jphystap:018740030032801
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 14:56:09--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 14:56:09 ERROR 410: Gone.
+
+--2017-01-28 14:56:10--  http://doi.org/10.1051/jphystap:018740030036001
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 14:56:11--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 14:56:12 ERROR 410: Gone.
+
+--2017-01-28 14:56:13--  http://doi.org/10.1051/jphystap:018740030038300
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 14:56:14--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 14:56:14 ERROR 410: Gone.
+
+--2017-01-28 14:56:15--  http://doi.org/10.1051/jphystap:01875004003201
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 14:56:16--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 14:56:16 ERROR 410: Gone.
+
+--2017-01-28 14:56:17--  http://doi.org/10.1051/jphystap:01875004006201
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 14:56:19--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 14:56:19 ERROR 410: Gone.
+
+--2017-01-28 14:56:20--  http://doi.org/10.1051/jphystap:01875004009501
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 14:56:21--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 14:56:21 ERROR 410: Gone.
+
+--2017-01-28 14:56:22--  http://doi.org/10.1051/jphystap:018750040012702
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 14:56:24--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 14:56:24 ERROR 410: Gone.
+
+--2017-01-28 14:56:25--  http://doi.org/10.1051/jphystap:018750040016001
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 14:56:26--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 14:56:26 ERROR 410: Gone.
+
+--2017-01-28 14:56:27--  http://doi.org/10.1051/jphystap:018750040019101
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 14:56:28--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 14:56:29 ERROR 410: Gone.
+
+--2017-01-28 14:56:30--  http://doi.org/10.1051/jphystap:018750040022301
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 14:56:31--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 14:56:31 ERROR 410: Gone.
+
+--2017-01-28 14:56:32--  http://doi.org/10.1051/jphystap:018750040025601
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 14:56:33--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 14:56:33 ERROR 410: Gone.
+
+--2017-01-28 14:56:34--  http://doi.org/10.1051/jphystap:018750040028801
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 14:56:36--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 14:56:36 ERROR 410: Gone.
+
+--2017-01-28 14:56:37--  http://doi.org/10.1051/jphystap:018750040031901
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 14:56:38--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 14:56:38 ERROR 410: Gone.
+
+--2017-01-28 14:56:39--  http://doi.org/10.1051/jphystap:018750040035101
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 14:56:41--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 14:56:41 ERROR 410: Gone.
+
+--2017-01-28 14:56:42--  http://doi.org/10.1079/wps19550002
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://journals.cambridge.org/abstract_S0043933955000020 [following]
+--2017-01-28 14:56:43--  http://journals.cambridge.org/abstract_S0043933955000020
+Resolving journals.cambridge.org (journals.cambridge.org)... 104.16.117.12, 104.16.118.12, 104.16.119.12, ...
+Connecting to journals.cambridge.org (journals.cambridge.org)|104.16.117.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.cambridge.org/core/product/identifier/S0043933955000020/type/JOURNAL_ARTICLE [following]
+--2017-01-28 14:56:44--  https://www.cambridge.org/core/product/identifier/S0043933955000020/type/JOURNAL_ARTICLE
+Resolving www.cambridge.org (www.cambridge.org)... 104.16.118.12, 104.16.119.12, 104.16.117.12, ...
+Connecting to www.cambridge.org (www.cambridge.org)|104.16.118.12|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /core/journals/world-s-poultry-science-journal/article/div-classtitlewps-volume-55-issue-1-cover-and-back-matterdiv/AB98B8ADC5AD3903F601366BD58FBD3D [following]
+--2017-01-28 14:56:46--  https://www.cambridge.org/core/journals/world-s-poultry-science-journal/article/div-classtitlewps-volume-55-issue-1-cover-and-back-matterdiv/AB98B8ADC5AD3903F601366BD58FBD3D
+Reusing existing connection to www.cambridge.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘wps19550002’
+
+     0K .......... .......... .......... .......... .......... 3.53M
+    50K .......... .......... ...                              5.49M=0.02s
+
+2017-01-28 14:56:50 (3.99 MB/s) - ‘wps19550002’ saved [75210]
+
+--2017-01-28 14:56:51--  http://doi.org/10.1079/wps19550008
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://journals.cambridge.org/abstract_S0043933955000081 [following]
+--2017-01-28 14:56:52--  http://journals.cambridge.org/abstract_S0043933955000081
+Connecting to journals.cambridge.org (journals.cambridge.org)|104.16.117.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.cambridge.org/core/product/identifier/S0043933955000081/type/JOURNAL_ARTICLE [following]
+--2017-01-28 14:56:53--  https://www.cambridge.org/core/product/identifier/S0043933955000081/type/JOURNAL_ARTICLE
+Connecting to www.cambridge.org (www.cambridge.org)|104.16.118.12|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-28 14:56:54 ERROR 404: Not Found.
+
+--2017-01-28 14:56:55--  http://doi.org/10.1079/wps19550011
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://journals.cambridge.org/abstract_S0043933955000111 [following]
+--2017-01-28 14:56:57--  http://journals.cambridge.org/abstract_S0043933955000111
+Connecting to journals.cambridge.org (journals.cambridge.org)|104.16.117.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.cambridge.org/core/product/identifier/S0043933955000111/type/JOURNAL_ARTICLE [following]
+--2017-01-28 14:56:58--  https://www.cambridge.org/core/product/identifier/S0043933955000111/type/JOURNAL_ARTICLE
+Connecting to www.cambridge.org (www.cambridge.org)|104.16.118.12|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /core/journals/world-s-poultry-science-journal/article/div-classtitlewps-volume-55-issue-2-cover-and-back-matterdiv/5668EAA20A7186817065F37C13CEECC3 [following]
+--2017-01-28 14:57:00--  https://www.cambridge.org/core/journals/world-s-poultry-science-journal/article/div-classtitlewps-volume-55-issue-2-cover-and-back-matterdiv/5668EAA20A7186817065F37C13CEECC3
+Reusing existing connection to www.cambridge.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘wps19550011’
+
+     0K .......... .......... .......... .......... .......... 1.56M
+    50K .......... .......... ...                              12.0M=0.03s
+
+2017-01-28 14:57:03 (2.15 MB/s) - ‘wps19550011’ saved [75209]
+
+--2017-01-28 14:57:04--  http://doi.org/10.1079/wps19620020
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://journals.cambridge.org/abstract_S0043933962000203 [following]
+--2017-01-28 14:57:06--  http://journals.cambridge.org/abstract_S0043933962000203
+Connecting to journals.cambridge.org (journals.cambridge.org)|104.16.117.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.cambridge.org/core/product/identifier/S0043933962000203/type/JOURNAL_ARTICLE [following]
+--2017-01-28 14:57:07--  https://www.cambridge.org/core/product/identifier/S0043933962000203/type/JOURNAL_ARTICLE
+Connecting to www.cambridge.org (www.cambridge.org)|104.16.118.12|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-28 14:57:08 ERROR 404: Not Found.
+
+--2017-01-28 14:57:09--  http://doi.org/10.1079/wps19670024
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://journals.cambridge.org/abstract_S0043933967000248 [following]
+--2017-01-28 14:57:10--  http://journals.cambridge.org/abstract_S0043933967000248
+Connecting to journals.cambridge.org (journals.cambridge.org)|104.16.117.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.cambridge.org/core/product/identifier/S0043933967000248/type/JOURNAL_ARTICLE [following]
+--2017-01-28 14:57:11--  https://www.cambridge.org/core/product/identifier/S0043933967000248/type/JOURNAL_ARTICLE
+Connecting to www.cambridge.org (www.cambridge.org)|104.16.118.12|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /core/journals/world-s-poultry-science-journal/article/div-classtitlethe-effect-of-light-intensity-on-growing-and-laying-pulletsa-hreffn01-ref-typefnadiv/D4DE4D7E0A2021EE817D202DD42B9DA2 [following]
+--2017-01-28 14:57:14--  https://www.cambridge.org/core/journals/world-s-poultry-science-journal/article/div-classtitlethe-effect-of-light-intensity-on-growing-and-laying-pulletsa-hreffn01-ref-typefnadiv/D4DE4D7E0A2021EE817D202DD42B9DA2
+Reusing existing connection to www.cambridge.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘wps19670024’
+
+     0K .......... .......... .......... .......... .......... 2.70M
+    50K .......... .......... .......... .......... .......... 6.47M
+   100K .                                                      3207G=0.03s
+
+2017-01-28 14:57:17 (3.88 MB/s) - ‘wps19670024’ saved [104122]
+
+--2017-01-28 14:57:18--  http://doi.org/10.1079/wps19670017
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://journals.cambridge.org/abstract_S0043933967000170 [following]
+--2017-01-28 14:57:19--  http://journals.cambridge.org/abstract_S0043933967000170
+Connecting to journals.cambridge.org (journals.cambridge.org)|104.16.117.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.cambridge.org/core/product/identifier/S0043933967000170/type/JOURNAL_ARTICLE [following]
+--2017-01-28 14:57:20--  https://www.cambridge.org/core/product/identifier/S0043933967000170/type/JOURNAL_ARTICLE
+Connecting to www.cambridge.org (www.cambridge.org)|104.16.118.12|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /core/journals/world-s-poultry-science-journal/article/div-classtitlecontentsdiv/D55D3B26E1285A2DFD608D86BE4B4DF4 [following]
+--2017-01-28 14:57:23--  https://www.cambridge.org/core/journals/world-s-poultry-science-journal/article/div-classtitlecontentsdiv/D55D3B26E1285A2DFD608D86BE4B4DF4
+Reusing existing connection to www.cambridge.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘wps19670017’
+
+     0K .......... .......... .......... .......... .......... 3.60M
+    50K .......... .......... ..                               11.7M=0.02s
+
+2017-01-28 14:57:26 (4.59 MB/s) - ‘wps19670017’ saved [74367]
+
+--2017-01-28 14:57:27--  http://doi.org/10.1079/wps19670016
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://journals.cambridge.org/abstract_S0043933967000169 [following]
+--2017-01-28 14:57:28--  http://journals.cambridge.org/abstract_S0043933967000169
+Connecting to journals.cambridge.org (journals.cambridge.org)|104.16.117.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.cambridge.org/core/product/identifier/S0043933967000169/type/JOURNAL_ARTICLE [following]
+--2017-01-28 14:57:29--  https://www.cambridge.org/core/product/identifier/S0043933967000169/type/JOURNAL_ARTICLE
+Connecting to www.cambridge.org (www.cambridge.org)|104.16.118.12|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /core/journals/world-s-poultry-science-journal/article/div-classtitlewps-volume-23-issue-3-cover-and-back-matterdiv/E6B3FFDE116920D52BAD8DBE1B2B4E23 [following]
+--2017-01-28 14:57:31--  https://www.cambridge.org/core/journals/world-s-poultry-science-journal/article/div-classtitlewps-volume-23-issue-3-cover-and-back-matterdiv/E6B3FFDE116920D52BAD8DBE1B2B4E23
+Reusing existing connection to www.cambridge.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘wps19670016’
+
+     0K .......... .......... .......... .......... .......... 3.54M
+    50K .......... .......... ...                              7.55M=0.02s
+
+2017-01-28 14:57:35 (4.26 MB/s) - ‘wps19670016’ saved [75155]
+
+--2017-01-28 14:57:36--  http://doi.org/10.1079/wps19670015
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://journals.cambridge.org/abstract_S0043933967000157 [following]
+--2017-01-28 14:57:37--  http://journals.cambridge.org/abstract_S0043933967000157
+Connecting to journals.cambridge.org (journals.cambridge.org)|104.16.117.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.cambridge.org/core/product/identifier/S0043933967000157/type/JOURNAL_ARTICLE [following]
+--2017-01-28 14:57:38--  https://www.cambridge.org/core/product/identifier/S0043933967000157/type/JOURNAL_ARTICLE
+Connecting to www.cambridge.org (www.cambridge.org)|104.16.118.12|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /core/journals/world-s-poultry-science-journal/article/div-classtitlewps-volume-23-issue-3-cover-and-front-matterdiv/64A73BEC4808B2DB97F9A723268BCB59 [following]
+--2017-01-28 14:57:40--  https://www.cambridge.org/core/journals/world-s-poultry-science-journal/article/div-classtitlewps-volume-23-issue-3-cover-and-front-matterdiv/64A73BEC4808B2DB97F9A723268BCB59
+Reusing existing connection to www.cambridge.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘wps19670015’
+
+     0K .......... .......... .......... .......... .......... 3.20M
+    50K .......... .......... ...                              2.97M=0.02s
+
+2017-01-28 14:57:44 (3.12 MB/s) - ‘wps19670015’ saved [75177]
+
+--2017-01-28 14:57:45--  http://doi.org/10.1079/wps19670022
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://journals.cambridge.org/abstract_S0043933967000224 [following]
+--2017-01-28 14:57:46--  http://journals.cambridge.org/abstract_S0043933967000224
+Connecting to journals.cambridge.org (journals.cambridge.org)|104.16.117.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.cambridge.org/core/product/identifier/S0043933967000224/type/JOURNAL_ARTICLE [following]
+--2017-01-28 14:57:47--  https://www.cambridge.org/core/product/identifier/S0043933967000224/type/JOURNAL_ARTICLE
+Connecting to www.cambridge.org (www.cambridge.org)|104.16.118.12|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /core/journals/world-s-poultry-science-journal/article/div-classtitlecoccidiosis-in-poultry-and-its-management-with-coccidiostatsdiv/5DBE302AD3B253B0444A525BF26EE8C8 [following]
+--2017-01-28 14:57:49--  https://www.cambridge.org/core/journals/world-s-poultry-science-journal/article/div-classtitlecoccidiosis-in-poultry-and-its-management-with-coccidiostatsdiv/5DBE302AD3B253B0444A525BF26EE8C8
+Reusing existing connection to www.cambridge.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘wps19670022’
+
+     0K .......... .......... .......... .......... .......... 3.60M
+    50K .......... .......... .......... .......... .......... 6.54M
+   100K .....                                                  80.4M=0.02s
+
+2017-01-28 14:57:53 (4.87 MB/s) - ‘wps19670022’ saved [107789]
+
+--2017-01-28 14:57:54--  http://doi.org/10.1079/wps19670018
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://journals.cambridge.org/abstract_S0043933967000182 [following]
+--2017-01-28 14:57:55--  http://journals.cambridge.org/abstract_S0043933967000182
+Connecting to journals.cambridge.org (journals.cambridge.org)|104.16.117.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.cambridge.org/core/product/identifier/S0043933967000182/type/JOURNAL_ARTICLE [following]
+--2017-01-28 14:57:56--  https://www.cambridge.org/core/product/identifier/S0043933967000182/type/JOURNAL_ARTICLE
+Connecting to www.cambridge.org (www.cambridge.org)|104.16.118.12|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /core/journals/world-s-poultry-science-journal/article/div-classtitlenutritional-encephalomalaciadiv/E588EBCC75AB082BA45ECAE2B40EDE4D [following]
+--2017-01-28 14:57:59--  https://www.cambridge.org/core/journals/world-s-poultry-science-journal/article/div-classtitlenutritional-encephalomalaciadiv/E588EBCC75AB082BA45ECAE2B40EDE4D
+Reusing existing connection to www.cambridge.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘wps19670018’
+
+     0K .......... .......... .......... .......... .......... 3.49M
+    50K .......... .......... ....                             1.99M=0.03s
+
+2017-01-28 14:58:02 (2.79 MB/s) - ‘wps19670018’ saved [76530]
+
+--2017-01-28 14:58:03--  http://doi.org/10.1079/wps19670021
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://journals.cambridge.org/abstract_S0043933967000212 [following]
+--2017-01-28 14:58:05--  http://journals.cambridge.org/abstract_S0043933967000212
+Connecting to journals.cambridge.org (journals.cambridge.org)|104.16.117.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.cambridge.org/core/product/identifier/S0043933967000212/type/JOURNAL_ARTICLE [following]
+--2017-01-28 14:58:06--  https://www.cambridge.org/core/product/identifier/S0043933967000212/type/JOURNAL_ARTICLE
+Connecting to www.cambridge.org (www.cambridge.org)|104.16.118.12|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /core/journals/world-s-poultry-science-journal/article/div-classtitlepoultry-progress-in-nigeriadiv/1315EB5466DF1CC768DD8F6BAE08CF24 [following]
+--2017-01-28 14:58:08--  https://www.cambridge.org/core/journals/world-s-poultry-science-journal/article/div-classtitlepoultry-progress-in-nigeriadiv/1315EB5466DF1CC768DD8F6BAE08CF24
+Reusing existing connection to www.cambridge.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘wps19670021’
+
+     0K .......... .......... .......... .......... .......... 3.31M
+    50K .......... .......... .....                            5.84M=0.02s
+
+2017-01-28 14:58:11 (3.89 MB/s) - ‘wps19670021’ saved [77659]
+
+--2017-01-28 14:58:12--  http://doi.org/10.1079/wps19670023
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://journals.cambridge.org/abstract_S0043933967000236 [following]
+--2017-01-28 14:58:14--  http://journals.cambridge.org/abstract_S0043933967000236
+Connecting to journals.cambridge.org (journals.cambridge.org)|104.16.117.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.cambridge.org/core/product/identifier/S0043933967000236/type/JOURNAL_ARTICLE [following]
+--2017-01-28 14:58:15--  https://www.cambridge.org/core/product/identifier/S0043933967000236/type/JOURNAL_ARTICLE
+Connecting to www.cambridge.org (www.cambridge.org)|104.16.118.12|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /core/journals/world-s-poultry-science-journal/article/div-classtitleearly-development-of-unfertilized-turkey-and-chicken-eggsdiv/767F25884B958C2489F9589761BDEF5D [following]
+--2017-01-28 14:58:17--  https://www.cambridge.org/core/journals/world-s-poultry-science-journal/article/div-classtitleearly-development-of-unfertilized-turkey-and-chicken-eggsdiv/767F25884B958C2489F9589761BDEF5D
+Reusing existing connection to www.cambridge.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘wps19670023’
+
+     0K .......... .......... .......... .......... .......... 3.50M
+    50K .......... .......... .......... .......... .......... 4.55M
+   100K                                                         797G=0.02s
+
+2017-01-28 14:58:20 (3.97 MB/s) - ‘wps19670023’ saved [102828]
+
+--2017-01-28 14:58:21--  http://doi.org/10.1079/wps19670019
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://journals.cambridge.org/abstract_S0043933967000194 [following]
+--2017-01-28 14:58:22--  http://journals.cambridge.org/abstract_S0043933967000194
+Connecting to journals.cambridge.org (journals.cambridge.org)|104.16.117.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.cambridge.org/core/product/identifier/S0043933967000194/type/JOURNAL_ARTICLE [following]
+--2017-01-28 14:58:24--  https://www.cambridge.org/core/product/identifier/S0043933967000194/type/JOURNAL_ARTICLE
+Connecting to www.cambridge.org (www.cambridge.org)|104.16.118.12|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /core/journals/world-s-poultry-science-journal/article/div-classtitlegross-protein-value-and-related-laboratory-techniques-for-protein-evaluationdiv/7CE1912C3B1006F07182A2062689B862 [following]
+--2017-01-28 14:58:26--  https://www.cambridge.org/core/journals/world-s-poultry-science-journal/article/div-classtitlegross-protein-value-and-related-laboratory-techniques-for-protein-evaluationdiv/7CE1912C3B1006F07182A2062689B862
+Reusing existing connection to www.cambridge.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘wps19670019’
+
+     0K .......... .......... .......... .......... .......... 3.62M
+    50K .......... .......... .......... .......... .......... 5.26M
+   100K .......... .......                                     40.0M=0.02s
+
+2017-01-28 14:58:29 (4.93 MB/s) - ‘wps19670019’ saved [119873]
+
+--2017-01-28 14:58:30--  http://doi.org/10.1079/wps19670020
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://journals.cambridge.org/abstract_S0043933967000200 [following]
+--2017-01-28 14:58:31--  http://journals.cambridge.org/abstract_S0043933967000200
+Connecting to journals.cambridge.org (journals.cambridge.org)|104.16.117.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.cambridge.org/core/product/identifier/S0043933967000200/type/JOURNAL_ARTICLE [following]
+--2017-01-28 14:58:32--  https://www.cambridge.org/core/product/identifier/S0043933967000200/type/JOURNAL_ARTICLE
+Connecting to www.cambridge.org (www.cambridge.org)|104.16.118.12|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /core/journals/world-s-poultry-science-journal/article/div-classtitleapparatus-for-individual-recording-egg-productiondiv/9AF86F073B05A5E446A7E0BE5D5D2345 [following]
+--2017-01-28 14:58:34--  https://www.cambridge.org/core/journals/world-s-poultry-science-journal/article/div-classtitleapparatus-for-individual-recording-egg-productiondiv/9AF86F073B05A5E446A7E0BE5D5D2345
+Reusing existing connection to www.cambridge.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘wps19670020’
+
+     0K .......... .......... .......... .......... .......... 3.40M
+    50K .......... .......... ......                           5.94M=0.02s
+
+2017-01-28 14:58:38 (3.99 MB/s) - ‘wps19670020’ saved [78159]
+
+--2017-01-28 14:58:39--  http://doi.org/10.1079/wps19680011
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://journals.cambridge.org/abstract_S0043933968000115 [following]
+--2017-01-28 14:58:40--  http://journals.cambridge.org/abstract_S0043933968000115
+Connecting to journals.cambridge.org (journals.cambridge.org)|104.16.117.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.cambridge.org/core/product/identifier/S0043933968000115/type/JOURNAL_ARTICLE [following]
+--2017-01-28 14:58:41--  https://www.cambridge.org/core/product/identifier/S0043933968000115/type/JOURNAL_ARTICLE
+Connecting to www.cambridge.org (www.cambridge.org)|104.16.118.12|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /core/journals/world-s-poultry-science-journal/article/div-classtitlecontentsdiv/A9333C46A03F6CCF491B21F1F603B874 [following]
+--2017-01-28 14:58:44--  https://www.cambridge.org/core/journals/world-s-poultry-science-journal/article/div-classtitlecontentsdiv/A9333C46A03F6CCF491B21F1F603B874
+Reusing existing connection to www.cambridge.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘wps19680011’
+
+     0K .......... .......... .......... .......... .......... 3.57M
+    50K .......... .......... ..                               9.82M=0.02s
+
+2017-01-28 14:58:47 (4.46 MB/s) - ‘wps19680011’ saved [74368]
+
+--2017-01-28 14:58:48--  http://doi.org/10.1079/wps19680010
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://journals.cambridge.org/abstract_S0043933968000103 [following]
+--2017-01-28 14:58:49--  http://journals.cambridge.org/abstract_S0043933968000103
+Connecting to journals.cambridge.org (journals.cambridge.org)|104.16.117.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.cambridge.org/core/product/identifier/S0043933968000103/type/JOURNAL_ARTICLE [following]
+--2017-01-28 14:58:50--  https://www.cambridge.org/core/product/identifier/S0043933968000103/type/JOURNAL_ARTICLE
+Connecting to www.cambridge.org (www.cambridge.org)|104.16.118.12|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /core/journals/world-s-poultry-science-journal/article/div-classtitlewps-volume-24-issue-2-cover-and-back-matterdiv/2DBF890EDC69A7E5643DBC44476CD2C6 [following]
+--2017-01-28 14:58:53--  https://www.cambridge.org/core/journals/world-s-poultry-science-journal/article/div-classtitlewps-volume-24-issue-2-cover-and-back-matterdiv/2DBF890EDC69A7E5643DBC44476CD2C6
+Reusing existing connection to www.cambridge.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘wps19680010’
+
+     0K .......... .......... .......... .......... .......... 3.58M
+    50K .......... .......... ...                              7.55M=0.02s
+
+2017-01-28 14:58:56 (4.30 MB/s) - ‘wps19680010’ saved [75156]
+
+--2017-01-28 14:58:57--  http://doi.org/10.1079/wps19680017
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://journals.cambridge.org/abstract_S0043933968000176 [following]
+--2017-01-28 14:58:59--  http://journals.cambridge.org/abstract_S0043933968000176
+Connecting to journals.cambridge.org (journals.cambridge.org)|104.16.117.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.cambridge.org/core/product/identifier/S0043933968000176/type/JOURNAL_ARTICLE [following]
+--2017-01-28 14:59:00--  https://www.cambridge.org/core/product/identifier/S0043933968000176/type/JOURNAL_ARTICLE
+Connecting to www.cambridge.org (www.cambridge.org)|104.16.118.12|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /core/journals/world-s-poultry-science-journal/article/div-classtitlemanual-of-procedures-in-quantitative-genetics-second-edition-1967-by-walter-abecker-a-plastic-ring-bound-booklet-of-130-pages-published-by-student-book-corporation-washington-state-university-pullman-usa-99163-price-400-plus-postagediv/5A25D01C15529E3DFCB5DE591A8D0AE1 [following]
+--2017-01-28 14:59:02--  https://www.cambridge.org/core/journals/world-s-poultry-science-journal/article/div-classtitlemanual-of-procedures-in-quantitative-genetics-second-edition-1967-by-walter-abecker-a-plastic-ring-bound-booklet-of-130-pages-published-by-student-book-corporation-washington-state-university-pullman-usa-99163-price-400-plus-postagediv/5A25D01C15529E3DFCB5DE591A8D0AE1
+Reusing existing connection to www.cambridge.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘wps19680017’
+
+     0K .......... .......... .......... .......... .......... 3.42M
+    50K .......... .......... .......                          5.05M=0.02s
+
+2017-01-28 14:59:05 (3.87 MB/s) - ‘wps19680017’ saved [79469]
+
+--2017-01-28 14:59:06--  http://doi.org/10.1079/wps19680013
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://journals.cambridge.org/abstract_S0043933968000139 [following]
+--2017-01-28 14:59:08--  http://journals.cambridge.org/abstract_S0043933968000139
+Connecting to journals.cambridge.org (journals.cambridge.org)|104.16.117.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.cambridge.org/core/product/identifier/S0043933968000139/type/JOURNAL_ARTICLE [following]
+--2017-01-28 14:59:09--  https://www.cambridge.org/core/product/identifier/S0043933968000139/type/JOURNAL_ARTICLE
+Connecting to www.cambridge.org (www.cambridge.org)|104.16.118.12|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /core/journals/world-s-poultry-science-journal/article/div-classtitleagricultural-production-in-the-developing-countriesa-hreffn01-ref-typefnadiv/F735BF113AC01E1638CE320654454E5B [following]
+--2017-01-28 14:59:11--  https://www.cambridge.org/core/journals/world-s-poultry-science-journal/article/div-classtitleagricultural-production-in-the-developing-countriesa-hreffn01-ref-typefnadiv/F735BF113AC01E1638CE320654454E5B
+Reusing existing connection to www.cambridge.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘wps19680013’
+
+     0K .......... .......... .......... .......... .......... 3.48M
+    50K .......... .......... ......                            587K=0.06s
+
+2017-01-28 14:59:14 (1.26 MB/s) - ‘wps19680013’ saved [78693]
+
+--2017-01-28 14:59:15--  http://doi.org/10.1079/wps19680014
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://journals.cambridge.org/abstract_S0043933968000140 [following]
+--2017-01-28 14:59:17--  http://journals.cambridge.org/abstract_S0043933968000140
+Connecting to journals.cambridge.org (journals.cambridge.org)|104.16.117.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.cambridge.org/core/product/identifier/S0043933968000140/type/JOURNAL_ARTICLE [following]
+--2017-01-28 14:59:18--  https://www.cambridge.org/core/product/identifier/S0043933968000140/type/JOURNAL_ARTICLE
+Connecting to www.cambridge.org (www.cambridge.org)|104.16.118.12|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /core/journals/world-s-poultry-science-journal/article/div-classtitleendocrine-studies-using-birdsdiv/E9DAFCA389D9F8B906854DE02658DEB6 [following]
+--2017-01-28 14:59:20--  https://www.cambridge.org/core/journals/world-s-poultry-science-journal/article/div-classtitleendocrine-studies-using-birdsdiv/E9DAFCA389D9F8B906854DE02658DEB6
+Reusing existing connection to www.cambridge.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘wps19680014’
+
+     0K .......... .......... .......... .......... .......... 3.36M
+    50K .......... .......... .......... .......... .......... 5.44M
+   100K .......... .......... .......... .......... .......... 4.59M
+   150K .......... ....                                        5.84M=0.04s
+
+2017-01-28 14:59:23 (4.39 MB/s) - ‘wps19680014’ saved [168069]
+
+--2017-01-28 14:59:24--  http://doi.org/10.1079/wps19680015
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://journals.cambridge.org/abstract_S0043933968000152 [following]
+--2017-01-28 14:59:26--  http://journals.cambridge.org/abstract_S0043933968000152
+Connecting to journals.cambridge.org (journals.cambridge.org)|104.16.117.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.cambridge.org/core/product/identifier/S0043933968000152/type/JOURNAL_ARTICLE [following]
+--2017-01-28 14:59:27--  https://www.cambridge.org/core/product/identifier/S0043933968000152/type/JOURNAL_ARTICLE
+Connecting to www.cambridge.org (www.cambridge.org)|104.16.118.12|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /core/journals/world-s-poultry-science-journal/article/div-classtitlecommittees-appointed-by-usa-branchdiv/025D2796E91E57E7F45C0AAF2A089BDA [following]
+--2017-01-28 14:59:29--  https://www.cambridge.org/core/journals/world-s-poultry-science-journal/article/div-classtitlecommittees-appointed-by-usa-branchdiv/025D2796E91E57E7F45C0AAF2A089BDA
+Reusing existing connection to www.cambridge.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘wps19680015’
+
+     0K .......... .......... .......... .......... .......... 3.43M
+    50K .......... .......... ...                              6.12M=0.02s
+
+2017-01-28 14:59:32 (3.99 MB/s) - ‘wps19680015’ saved [74992]
+
+--2017-01-28 14:59:33--  http://doi.org/10.1079/wps19680009
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://journals.cambridge.org/abstract_S0043933968000097 [following]
+--2017-01-28 14:59:35--  http://journals.cambridge.org/abstract_S0043933968000097
+Connecting to journals.cambridge.org (journals.cambridge.org)|104.16.117.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.cambridge.org/core/product/identifier/S0043933968000097/type/JOURNAL_ARTICLE [following]
+--2017-01-28 14:59:36--  https://www.cambridge.org/core/product/identifier/S0043933968000097/type/JOURNAL_ARTICLE
+Connecting to www.cambridge.org (www.cambridge.org)|104.16.118.12|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /core/journals/world-s-poultry-science-journal/article/div-classtitlewps-volume-24-issue-2-cover-and-front-matterdiv/0AEE45B229EA4CC4FE3DB16F420C3926 [following]
+--2017-01-28 14:59:38--  https://www.cambridge.org/core/journals/world-s-poultry-science-journal/article/div-classtitlewps-volume-24-issue-2-cover-and-front-matterdiv/0AEE45B229EA4CC4FE3DB16F420C3926
+Reusing existing connection to www.cambridge.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘wps19680009’
+
+     0K .......... .......... .......... .......... .......... 3.38M
+    50K .......... .......... ...                              5.51M=0.02s
+
+2017-01-28 14:59:41 (3.86 MB/s) - ‘wps19680009’ saved [75178]
+
+--2017-01-28 14:59:42--  http://doi.org/10.1079/wps19680012
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://journals.cambridge.org/abstract_S0043933968000127 [following]
+--2017-01-28 14:59:44--  http://journals.cambridge.org/abstract_S0043933968000127
+Connecting to journals.cambridge.org (journals.cambridge.org)|104.16.117.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.cambridge.org/core/product/identifier/S0043933968000127/type/JOURNAL_ARTICLE [following]
+--2017-01-28 14:59:45--  https://www.cambridge.org/core/product/identifier/S0043933968000127/type/JOURNAL_ARTICLE
+Connecting to www.cambridge.org (www.cambridge.org)|104.16.118.12|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /core/journals/world-s-poultry-science-journal/article/div-classtitlebreeding-for-leukosis-resistancea-hreffn01-ref-typefnadiv/DB0AB70DA1CC4F3450A3113E55B8F5B5 [following]
+--2017-01-28 14:59:47--  https://www.cambridge.org/core/journals/world-s-poultry-science-journal/article/div-classtitlebreeding-for-leukosis-resistancea-hreffn01-ref-typefnadiv/DB0AB70DA1CC4F3450A3113E55B8F5B5
+Reusing existing connection to www.cambridge.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘wps19680012’
+
+     0K .......... .......... .......... .......... .......... 3.23M
+    50K .......... .......... .......... .......... .....      4.93M=0.02s
+
+2017-01-28 14:59:50 (3.86 MB/s) - ‘wps19680012’ saved [97364]
+
+--2017-01-28 14:59:51--  http://doi.org/10.1079/wps19680016
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://journals.cambridge.org/abstract_S0043933968000164 [following]
+--2017-01-28 14:59:53--  http://journals.cambridge.org/abstract_S0043933968000164
+Connecting to journals.cambridge.org (journals.cambridge.org)|104.16.117.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.cambridge.org/core/product/identifier/S0043933968000164/type/JOURNAL_ARTICLE [following]
+--2017-01-28 14:59:54--  https://www.cambridge.org/core/product/identifier/S0043933968000164/type/JOURNAL_ARTICLE
+Connecting to www.cambridge.org (www.cambridge.org)|104.16.118.12|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /core/journals/world-s-poultry-science-journal/article/div-classtitlee-coli-and-how-you-can-control-ita-hreffn01-ref-typefnadiv/DC9A9A2089206CDDBF1DE236B33D4F5C [following]
+--2017-01-28 14:59:56--  https://www.cambridge.org/core/journals/world-s-poultry-science-journal/article/div-classtitlee-coli-and-how-you-can-control-ita-hreffn01-ref-typefnadiv/DC9A9A2089206CDDBF1DE236B33D4F5C
+Reusing existing connection to www.cambridge.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘wps19680016’
+
+     0K .......... .......... .......... .......... .......... 3.42M
+    50K .......... .......... ......                           6.01M=0.02s
+
+2017-01-28 14:59:59 (4.02 MB/s) - ‘wps19680016’ saved [78442]
+
+--2017-01-28 15:00:00--  http://doi.org/10.1079/wps19690032
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.ingentaselect.com/rpsv/cgi-bin/cgi?ini=xref&body=linker&reqdoi=10.1079/WPS19690032 [following]
+--2017-01-28 15:00:02--  http://www.ingentaselect.com/rpsv/cgi-bin/cgi?ini=xref&body=linker&reqdoi=10.1079/WPS19690032
+Resolving www.ingentaselect.com (www.ingentaselect.com)... 93.91.26.14
+Connecting to www.ingentaselect.com (www.ingentaselect.com)|93.91.26.14|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.ingentaconnect.com/content/?token=005e1a90857c16c77b3033297d33757e6f3f2f2730673f232f26773870335a666f3a7b6c2d403876556b354748763b [following]
+--2017-01-28 15:00:03--  http://www.ingentaconnect.com/content/?token=005e1a90857c16c77b3033297d33757e6f3f2f2730673f232f26773870335a666f3a7b6c2d403876556b354748763b
+Resolving www.ingentaconnect.com (www.ingentaconnect.com)... 93.91.26.211
+Connecting to www.ingentaconnect.com (www.ingentaconnect.com)|93.91.26.211|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 81579 (80K) [text/html]
+Saving to: ‘wps19690032’
+
+     0K .......... .......... .......... .......... .......... 62% 2.69M 0s
+    50K .......... .......... .........                       100% 8.89M=0.02s
+
+2017-01-28 15:00:03 (3.64 MB/s) - ‘wps19690032’ saved [81579/81579]
+
+--2017-01-28 15:00:04--  http://doi.org/10.1079/wps19690033
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.ingentaselect.com/rpsv/cgi-bin/cgi?ini=xref&body=linker&reqdoi=10.1079/WPS19690033 [following]
+--2017-01-28 15:00:06--  http://www.ingentaselect.com/rpsv/cgi-bin/cgi?ini=xref&body=linker&reqdoi=10.1079/WPS19690033
+Connecting to www.ingentaselect.com (www.ingentaselect.com)|93.91.26.14|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.ingentaconnect.com/content/?token=005f1348f19642f46762530482972715a614f6d29222c227e37256720297d7634627b494a607a3851422c310381158a [following]
+--2017-01-28 15:00:07--  http://www.ingentaconnect.com/content/?token=005f1348f19642f46762530482972715a614f6d29222c227e37256720297d7634627b494a607a3851422c310381158a
+Connecting to www.ingentaconnect.com (www.ingentaconnect.com)|93.91.26.211|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68085 (66K) [text/html]
+Saving to: ‘wps19690033’
+
+     0K .......... .......... .......... .......... .......... 75% 2.75M 0s
+    50K .......... ......                                     100% 11.4M=0.02s
+
+2017-01-28 15:00:07 (3.38 MB/s) - ‘wps19690033’ saved [68085/68085]
+
+--2017-01-28 15:00:08--  http://doi.org/10.2307/3329580
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 15:00:09--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 15:00:09 ERROR 410: Gone.
+
+--2017-01-28 15:00:10--  http://doi.org/10.2307/3329579
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 15:00:12--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 15:00:13 ERROR 410: Gone.
+
+--2017-01-28 15:00:14--  http://doi.org/10.2307/3329581
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 15:00:15--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 15:00:15 ERROR 410: Gone.
+
+--2017-01-28 15:00:16--  http://doi.org/10.2307/3329578
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 15:00:17--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 15:00:18 ERROR 410: Gone.
+
+--2017-01-28 15:00:19--  http://doi.org/10.2307/3329583
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 15:00:20--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 15:00:20 ERROR 410: Gone.
+
+--2017-01-28 15:00:21--  http://doi.org/10.2307/3329582
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 15:00:22--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 15:00:22 ERROR 410: Gone.
+
+--2017-01-28 15:00:23--  http://doi.org/10.2307/3329556
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 15:00:25--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 15:00:25 ERROR 410: Gone.
+
+--2017-01-28 15:00:26--  http://doi.org/10.2307/3329508
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 15:00:27--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 15:00:27 ERROR 410: Gone.
+
+--2017-01-28 15:00:28--  http://doi.org/10.2307/3329518
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 15:00:29--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 15:00:30 ERROR 410: Gone.
+
+--2017-01-28 15:00:31--  http://doi.org/10.2307/3329520
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 15:00:32--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 15:00:32 ERROR 410: Gone.
+
+--2017-01-28 15:00:33--  http://doi.org/10.2307/3329510
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 15:00:34--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 15:00:35 ERROR 410: Gone.
+
+--2017-01-28 15:00:36--  http://doi.org/10.2307/3329549
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 15:00:37--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 15:00:37 ERROR 410: Gone.
+
+--2017-01-28 15:00:38--  http://doi.org/10.2307/3329512
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 15:00:39--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 15:00:39 ERROR 410: Gone.
+
+--2017-01-28 15:00:40--  http://doi.org/10.2307/3329472
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 15:00:42--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 15:00:42 ERROR 410: Gone.
+
+--2017-01-28 15:00:43--  http://doi.org/10.2307/3329554
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 15:00:44--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 15:00:44 ERROR 410: Gone.
+
+--2017-01-28 15:00:45--  http://doi.org/10.2307/3329519
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 15:00:46--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 15:00:47 ERROR 410: Gone.
+
+--2017-01-28 15:00:48--  http://doi.org/10.2307/3329515
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 15:00:49--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 15:00:49 ERROR 410: Gone.
+
+--2017-01-28 15:00:50--  http://doi.org/10.2307/3329555
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 15:00:51--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 15:00:52 ERROR 410: Gone.
+
+--2017-01-28 15:00:53--  http://doi.org/10.2307/3329551
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 15:00:54--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 15:00:54 ERROR 410: Gone.
+
+--2017-01-28 15:00:55--  http://doi.org/10.2307/3329548
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 15:00:56--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 15:00:57 ERROR 410: Gone.
+
+--2017-01-28 15:00:58--  http://doi.org/10.2307/3329471
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 15:00:59--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 15:00:59 ERROR 410: Gone.
+
+--2017-01-28 15:01:00--  http://doi.org/10.2307/3329517
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 15:01:01--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 15:01:01 ERROR 410: Gone.
+
+--2017-01-28 15:01:02--  http://doi.org/10.2307/3329557
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 15:01:04--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 15:01:04 ERROR 410: Gone.
+
+--2017-01-28 15:01:05--  http://doi.org/10.2307/3329473
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 15:01:06--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 15:01:06 ERROR 410: Gone.
+
+--2017-01-28 15:01:07--  http://doi.org/10.2307/3329514
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 15:01:08--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 15:01:09 ERROR 410: Gone.
+
+--2017-01-28 15:01:10--  http://doi.org/10.2307/3329550
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 15:01:11--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 15:01:11 ERROR 410: Gone.
+
+--2017-01-28 15:01:12--  http://doi.org/10.2307/3329513
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 15:01:13--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 15:01:14 ERROR 410: Gone.
+
+--2017-01-28 15:01:15--  http://doi.org/10.2307/3329552
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 15:01:16--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 15:01:16 ERROR 410: Gone.
+
+--2017-01-28 15:01:17--  http://doi.org/10.2307/3329547
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 15:01:18--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 15:01:18 ERROR 410: Gone.
+
+--2017-01-28 15:01:19--  http://doi.org/10.2307/3329553
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 15:01:21--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 15:01:21 ERROR 410: Gone.
+
+--2017-01-28 15:01:22--  http://doi.org/10.2307/3329509
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 15:01:23--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 15:01:23 ERROR 410: Gone.
+
+--2017-01-28 15:01:24--  http://doi.org/10.2307/3329469
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 15:01:25--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 15:01:26 ERROR 410: Gone.
+
+--2017-01-28 15:01:27--  http://doi.org/10.2307/3329516
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 15:01:28--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 15:01:28 ERROR 410: Gone.
+
+--2017-01-28 15:01:29--  http://doi.org/10.2307/3329470
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.crossref.org/deleted_DOI.html [following]
+--2017-01-28 15:01:30--  http://www.crossref.org/deleted_DOI.html
+Connecting to www.crossref.org (www.crossref.org)|208.254.38.78|:80... connected.
+HTTP request sent, awaiting response... 410 Gone
+2017-01-28 15:01:31 ERROR 410: Gone.
+
+--2017-01-28 15:01:32--  http://doi.org/10.1079/wpsj19720001a
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://doi.org/10.1079/WPSJ19720001 [following]
+--2017-01-28 15:01:33--  http://doi.org/10.1079/WPSJ19720001
+Reusing existing connection to doi.org:80.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.ingentaselect.com/rpsv/cgi-bin/cgi?ini=xref&body=linker&reqdoi=10.1079/WPSJ19720001 [following]
+--2017-01-28 15:01:34--  http://www.ingentaselect.com/rpsv/cgi-bin/cgi?ini=xref&body=linker&reqdoi=10.1079/WPSJ19720001
+Connecting to www.ingentaselect.com (www.ingentaselect.com)|93.91.26.14|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.ingentaconnect.com/content/?token=005f1794afb86d63033297d33757e6f3f2f2730673f232f26773870335a666f3a7b6c2d403876556b3547763f469ef3 [following]
+--2017-01-28 15:01:35--  http://www.ingentaconnect.com/content/?token=005f1794afb86d63033297d33757e6f3f2f2730673f232f26773870335a666f3a7b6c2d403876556b3547763f469ef3
+Connecting to www.ingentaconnect.com (www.ingentaconnect.com)|93.91.26.211|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68085 (66K) [text/html]
+Saving to: ‘wpsj19720001a’
+
+     0K .......... .......... .......... .......... .......... 75% 2.13M 0s
+    50K .......... ......                                     100% 9.31M=0.02s
+
+2017-01-28 15:01:35 (2.64 MB/s) - ‘wpsj19720001a’ saved [68085/68085]
+
+--2017-01-28 15:01:36--  http://doi.org/10.1079/wps19720008
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.ingentaselect.com/rpsv/cgi-bin/cgi?ini=xref&body=linker&reqdoi=10.1079/WPS19720008 [following]
+--2017-01-28 15:01:38--  http://www.ingentaselect.com/rpsv/cgi-bin/cgi?ini=xref&body=linker&reqdoi=10.1079/WPS19720008
+Connecting to www.ingentaselect.com (www.ingentaselect.com)|93.91.26.14|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.ingentaconnect.com/content/?token=00631c038cf044bf2976266d6546592f653b672c57582a72612d58464340595c5f3b3b47465648663b6f7050796c7b416b0 [following]
+--2017-01-28 15:01:39--  http://www.ingentaconnect.com/content/?token=00631c038cf044bf2976266d6546592f653b672c57582a72612d58464340595c5f3b3b47465648663b6f7050796c7b416b0
+Connecting to www.ingentaconnect.com (www.ingentaconnect.com)|93.91.26.211|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68113 (67K) [text/html]
+Saving to: ‘wps19720008’
+
+     0K .......... .......... .......... .......... .......... 75% 2.76M 0s
+    50K .......... ......                                     100% 11.3M=0.02s
+
+2017-01-28 15:01:39 (3.40 MB/s) - ‘wps19720008’ saved [68113/68113]
+
+--2017-01-28 15:01:40--  http://doi.org/10.1079/wps19720011
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.ingentaselect.com/rpsv/cgi-bin/cgi?ini=xref&body=linker&reqdoi=10.1079/WPS19720011 [following]
+--2017-01-28 15:01:41--  http://www.ingentaselect.com/rpsv/cgi-bin/cgi?ini=xref&body=linker&reqdoi=10.1079/WPS19720011
+Connecting to www.ingentaselect.com (www.ingentaselect.com)|93.91.26.14|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.ingentaconnect.com/content/?token=005e14e642f875686f3a576b34272c5f7b3d6d3f344b4b6e6e4257275c277b42574067217d7734732c496e6c816dc2 [following]
+--2017-01-28 15:01:42--  http://www.ingentaconnect.com/content/?token=005e14e642f875686f3a576b34272c5f7b3d6d3f344b4b6e6e4257275c277b42574067217d7734732c496e6c816dc2
+Connecting to www.ingentaconnect.com (www.ingentaconnect.com)|93.91.26.211|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68078 (66K) [text/html]
+Saving to: ‘wps19720011’
+
+     0K .......... .......... .......... .......... .......... 75% 2.79M 0s
+    50K .......... ......                                     100% 11.6M=0.02s
+
+2017-01-28 15:01:42 (3.44 MB/s) - ‘wps19720011’ saved [68078/68078]
+
+--2017-01-28 15:01:43--  http://doi.org/10.1079/wps19720007
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.ingentaselect.com/rpsv/cgi-bin/cgi?ini=xref&body=linker&reqdoi=10.1079/WPS19720007 [following]
+--2017-01-28 15:01:45--  http://www.ingentaselect.com/rpsv/cgi-bin/cgi?ini=xref&body=linker&reqdoi=10.1079/WPS19720007
+Connecting to www.ingentaselect.com (www.ingentaselect.com)|93.91.26.14|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.ingentaconnect.com/content/?token=006b1b2cdbd8f2641784e6b63734f582a2f433e402c3568793c6c567e504f39412f415d76282570456e2b427b31635906519707c75a [following]
+--2017-01-28 15:01:46--  http://www.ingentaconnect.com/content/?token=006b1b2cdbd8f2641784e6b63734f582a2f433e402c3568793c6c567e504f39412f415d76282570456e2b427b31635906519707c75a
+Connecting to www.ingentaconnect.com (www.ingentaconnect.com)|93.91.26.211|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68169 (67K) [text/html]
+Saving to: ‘wps19720007’
+
+     0K .......... .......... .......... .......... .......... 75% 2.81M 0s
+    50K .......... ......                                     100% 11.6M=0.02s
+
+2017-01-28 15:01:46 (3.47 MB/s) - ‘wps19720007’ saved [68169/68169]
+
+--2017-01-28 15:01:47--  http://doi.org/10.1079/wpsj19720001
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.ingentaselect.com/rpsv/cgi-bin/cgi?ini=xref&body=linker&reqdoi=10.1079/WPSJ19720001 [following]
+--2017-01-28 15:01:48--  http://www.ingentaselect.com/rpsv/cgi-bin/cgi?ini=xref&body=linker&reqdoi=10.1079/WPSJ19720001
+Connecting to www.ingentaselect.com (www.ingentaselect.com)|93.91.26.14|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.ingentaconnect.com/content/?token=0067140f969a266d6546592f653b672c57582a72612d58464340595c5f3b3b47465648663b6f7050796c2a4182da4eda504b77c [following]
+--2017-01-28 15:01:49--  http://www.ingentaconnect.com/content/?token=0067140f969a266d6546592f653b672c57582a72612d58464340595c5f3b3b47465648663b6f7050796c2a4182da4eda504b77c
+Connecting to www.ingentaconnect.com (www.ingentaconnect.com)|93.91.26.211|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68141 (67K) [text/html]
+Saving to: ‘wpsj19720001’
+
+     0K .......... .......... .......... .......... .......... 75% 2.58M 0s
+    50K .......... ......                                     100% 2.51M=0.03s
+
+2017-01-28 15:01:49 (2.56 MB/s) - ‘wpsj19720001’ saved [68141/68141]
+
+--2017-01-28 15:01:50--  http://doi.org/10.1079/wps19720010
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.ingentaselect.com/rpsv/cgi-bin/cgi?ini=xref&body=linker&reqdoi=10.1079/WPS19720010 [following]
+--2017-01-28 15:01:52--  http://www.ingentaselect.com/rpsv/cgi-bin/cgi?ini=xref&body=linker&reqdoi=10.1079/WPS19720010
+Connecting to www.ingentaselect.com (www.ingentaselect.com)|93.91.26.14|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.ingentaconnect.com/content/?token=00621a7466c268d28b58762f417c4e7547543c7e386f6468467c79675d7c405847447b49442f7a73446f5e7446527d3250 [following]
+--2017-01-28 15:01:53--  http://www.ingentaconnect.com/content/?token=00621a7466c268d28b58762f417c4e7547543c7e386f6468467c79675d7c405847447b49442f7a73446f5e7446527d3250
+Connecting to www.ingentaconnect.com (www.ingentaconnect.com)|93.91.26.211|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68106 (67K) [text/html]
+Saving to: ‘wps19720010’
+
+     0K .......... .......... .......... .......... .......... 75% 2.80M 0s
+    50K .......... ......                                     100% 12.0M=0.02s
+
+2017-01-28 15:01:53 (3.45 MB/s) - ‘wps19720010’ saved [68106/68106]
+
+--2017-01-28 15:01:54--  http://doi.org/10.1079/wps19720009
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.ingentaselect.com/rpsv/cgi-bin/cgi?ini=xref&body=linker&reqdoi=10.1079/WPS19720009 [following]
+--2017-01-28 15:01:56--  http://www.ingentaselect.com/rpsv/cgi-bin/cgi?ini=xref&body=linker&reqdoi=10.1079/WPS19720009
+Connecting to www.ingentaselect.com (www.ingentaselect.com)|93.91.26.14|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.ingentaconnect.com/content/?token=005712a126333f25703568293c6c567e504f58602f433e402c3541333c4a2f7a5a6a6f3b4946737a666773c [following]
+--2017-01-28 15:01:57--  http://www.ingentaconnect.com/content/?token=005712a126333f25703568293c6c567e504f58602f433e402c3541333c4a2f7a5a6a6f3b4946737a666773c
+Connecting to www.ingentaconnect.com (www.ingentaconnect.com)|93.91.26.211|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68029 (66K) [text/html]
+Saving to: ‘wps19720009’
+
+     0K .......... .......... .......... .......... .......... 75% 1.43M 0s
+    50K .......... ......                                     100% 11.1M=0.04s
+
+2017-01-28 15:01:57 (1.82 MB/s) - ‘wps19720009’ saved [68029/68029]
+
+--2017-01-28 15:01:58--  http://doi.org/10.1079/wps19720019
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.ingentaselect.com/rpsv/cgi-bin/cgi?ini=xref&body=linker&reqdoi=10.1079/WPS19720019 [following]
+--2017-01-28 15:02:00--  http://www.ingentaselect.com/rpsv/cgi-bin/cgi?ini=xref&body=linker&reqdoi=10.1079/WPS19720019
+Connecting to www.ingentaselect.com (www.ingentaselect.com)|93.91.26.14|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.ingentaconnect.com/content/?token=00621b833c109078c907630504c2a726e2d58464340592f713b672c57582a67232d45232b7524317b435731634c487689a [following]
+--2017-01-28 15:02:01--  http://www.ingentaconnect.com/content/?token=00621b833c109078c907630504c2a726e2d58464340592f713b672c57582a67232d45232b7524317b435731634c487689a
+Connecting to www.ingentaconnect.com (www.ingentaconnect.com)|93.91.26.211|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68106 (67K) [text/html]
+Saving to: ‘wps19720019’
+
+     0K .......... .......... .......... .......... .......... 75% 2.77M 0s
+    50K .......... ......                                     100% 11.6M=0.02s
+
+2017-01-28 15:02:01 (3.42 MB/s) - ‘wps19720019’ saved [68106/68106]
+
+--2017-01-28 15:02:02--  http://doi.org/10.1079/wps19720017
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.ingentaselect.com/rpsv/cgi-bin/cgi?ini=xref&body=linker&reqdoi=10.1079/WPS19720017 [following]
+--2017-01-28 15:02:03--  http://www.ingentaselect.com/rpsv/cgi-bin/cgi?ini=xref&body=linker&reqdoi=10.1079/WPS19720017
+Connecting to www.ingentaselect.com (www.ingentaselect.com)|93.91.26.14|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.ingentaconnect.com/content/?token=00621c0299ba31e772da266d6546592f653b672c57582a72612d58464340595c5f3b3b47465648663b6f70507946243fd1 [following]
+--2017-01-28 15:02:04--  http://www.ingentaconnect.com/content/?token=00621c0299ba31e772da266d6546592f653b672c57582a72612d58464340595c5f3b3b47465648663b6f70507946243fd1
+Connecting to www.ingentaconnect.com (www.ingentaconnect.com)|93.91.26.211|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68106 (67K) [text/html]
+Saving to: ‘wps19720017’
+
+     0K .......... .......... .......... .......... .......... 75% 2.67M 0s
+    50K .......... ......                                     100% 11.9M=0.02s
+
+2017-01-28 15:02:04 (3.30 MB/s) - ‘wps19720017’ saved [68106/68106]
+
+--2017-01-28 15:02:05--  http://doi.org/10.1079/wps19720014
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.ingentaselect.com/rpsv/cgi-bin/cgi?ini=xref&body=linker&reqdoi=10.1079/WPS19720014 [following]
+--2017-01-28 15:02:07--  http://www.ingentaselect.com/rpsv/cgi-bin/cgi?ini=xref&body=linker&reqdoi=10.1079/WPS19720014
+Connecting to www.ingentaselect.com (www.ingentaselect.com)|93.91.26.14|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.ingentaconnect.com/content/?token=00601319d6f6d4e225f673f7b2f267738703375726f3f2f2730677e442f2067213b76344453495b5f5f4034e3169a72d [following]
+--2017-01-28 15:02:08--  http://www.ingentaconnect.com/content/?token=00601319d6f6d4e225f673f7b2f267738703375726f3f2f2730677e442f2067213b76344453495b5f5f4034e3169a72d
+Connecting to www.ingentaconnect.com (www.ingentaconnect.com)|93.91.26.211|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68092 (66K) [text/html]
+Saving to: ‘wps19720014’
+
+     0K .......... .......... .......... .......... .......... 75% 1.98M 0s
+    50K .......... ......                                     100% 12.6M=0.03s
+
+2017-01-28 15:02:08 (2.50 MB/s) - ‘wps19720014’ saved [68092/68092]
+
+--2017-01-28 15:02:09--  http://doi.org/10.1079/wps19720013
+Connecting to doi.org (doi.org)|63.123.152.248|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.ingentaselect.com/rpsv/cgi-bin/cgi?ini=xref&body=linker&reqdoi=10.1079/WPS19720013 [following]
+--2017-01-28 15:02:10--  http://www.ingentaselect.com/rpsv/cgi-bin/cgi?ini=xref&body=linker&reqdoi=10.1079/WPS19720013
+Connecting to www.ingentaselect.com (www.ingentaselect.com)|93.91.26.14|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.ingentaconnect.com/content/?token=00661ac8814671d38a4e7247444f6d62222c227e372530542972715a614f7e41225f4038532c6b412876553c447023e66a728a [following]
+--2017-01-28 15:02:11--  http://www.ingentaconnect.com/content/?token=00661ac8814671d38a4e7247444f6d62222c227e372530542972715a614f7e41225f4038532c6b412876553c447023e66a728a
+Connecting to www.ingentaconnect.com (www.ingentaconnect.com)|93.91.26.211|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68134 (67K) [text/html]
+Saving to: ‘wps19720013’
+
+     0K .......... .......... .......... .......... .......... 75% 2.79M 0s
+    50K .......... ......                                     100% 8.24M=0.02s
+
+2017-01-28 15:02:11 (3.34 MB/s) - ‘wps19720013’ saved [68134/68134]
+
+FINISHED --2017-01-28 15:02:11--
+Total wall clock time: 6m 45s
+Downloaded: 34 files, 2.6M in 0.8s (3.36 MB/s)

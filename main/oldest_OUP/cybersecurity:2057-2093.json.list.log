@@ -1,0 +1,463 @@
+--2017-01-28 04:54:41--  http://doi.org/10.1093/cybsec/tyv001
+Resolving doi.org (doi.org)... 208.254.38.90, 54.191.229.235, 38.100.138.163, ...
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyv001 [following]
+--2017-01-28 04:54:42--  https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyv001
+Resolving academic.oup.com (academic.oup.com)... 173.254.190.144
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 78999 (77K) [text/html]
+Saving to: ‘tyv001’
+
+     0K .......... .......... .......... .......... .......... 64%  209K 0s
+    50K .......... .......... .......                         100% 13.1M=0.2s
+
+2017-01-28 04:54:48 (320 KB/s) - ‘tyv001’ saved [78999/78999]
+
+--2017-01-28 04:54:49--  http://doi.org/10.1093/cybsec/tyv002
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyv002 [following]
+--2017-01-28 04:54:50--  https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyv002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 355475 (347K) [text/html]
+Saving to: ‘tyv002’
+
+     0K .......... .......... .......... .......... .......... 14%  209K 1s
+    50K .......... .......... .......... .......... .......... 28%  612K 1s
+   100K .......... .......... .......... .......... .......... 43%  603K 1s
+   150K .......... .......... .......... .......... .......... 57%  318K 0s
+   200K .......... .......... .......... .......... .......... 72%  590K 0s
+   250K .......... .......... .......... .......... .......... 86%  599K 0s
+   300K .......... .......... .......... .......... .......   100%  577K=0.8s
+
+2017-01-28 04:54:59 (428 KB/s) - ‘tyv002’ saved [355475/355475]
+
+--2017-01-28 04:55:00--  http://doi.org/10.1093/cybsec/tyv005
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyv005 [following]
+--2017-01-28 04:55:01--  https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyv005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 377401 (369K) [text/html]
+Saving to: ‘tyv005’
+
+     0K .......... .......... .......... .......... .......... 13%  209K 2s
+    50K .......... .......... .......... .......... .......... 27%  604K 1s
+   100K .......... .......... .......... .......... .......... 40%  603K 1s
+   150K .......... .......... .......... .......... .......... 54%  611K 0s
+   200K .......... .......... .......... .......... .......... 67%  315K 0s
+   250K .......... .......... .......... .......... .......... 81%  612K 0s
+   300K .......... .......... .......... .......... .......... 94%  609K 0s
+   350K .......... ........                                   100%  234K=0.9s
+
+2017-01-28 04:55:08 (415 KB/s) - ‘tyv005’ saved [377401/377401]
+
+--2017-01-28 04:55:09--  http://doi.org/10.1093/cybsec/tyv006
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyv006 [following]
+--2017-01-28 04:55:10--  https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyv006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 313364 (306K) [text/html]
+Saving to: ‘tyv006’
+
+     0K .......... .......... .......... .......... .......... 16%  209K 1s
+    50K .......... .......... .......... .......... .......... 32%  605K 1s
+   100K .......... .......... .......... .......... .......... 49%  609K 0s
+   150K .......... .......... .......... .......... .......... 65%  316K 0s
+   200K .......... .......... .......... .......... .......... 81%  581K 0s
+   250K .......... .......... .......... .......... .......... 98%  601K 0s
+   300K ......                                                100% 28.2M=0.7s
+
+2017-01-28 04:55:16 (418 KB/s) - ‘tyv006’ saved [313364/313364]
+
+--2017-01-28 04:55:17--  http://doi.org/10.1093/cybsec/tyv009
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyv009 [following]
+--2017-01-28 04:55:18--  https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyv009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 251327 (245K) [text/html]
+Saving to: ‘tyv009’
+
+     0K .......... .......... .......... .......... .......... 20%  209K 1s
+    50K .......... .......... .......... .......... .......... 40%  606K 0s
+   100K .......... .......... .......... .......... .......... 61%  593K 0s
+   150K .......... .......... .......... .......... .......... 81%  606K 0s
+   200K .......... .......... .......... .......... .....     100%  559K=0.6s
+
+2017-01-28 04:55:24 (431 KB/s) - ‘tyv009’ saved [251327/251327]
+
+--2017-01-28 04:55:25--  http://doi.org/10.1093/cybsec/tyv007
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyv007 [following]
+--2017-01-28 04:55:26--  https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyv007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 369649 (361K) [text/html]
+Saving to: ‘tyv007’
+
+     0K .......... .......... .......... .......... .......... 13%  209K 1s
+    50K .......... .......... .......... .......... .......... 27%  609K 1s
+   100K .......... .......... .......... .......... .......... 41%  610K 1s
+   150K .......... .......... .......... .......... .......... 55%  318K 0s
+   200K .......... .......... .......... .......... .......... 69%  593K 0s
+   250K .......... .......... .......... .......... .......... 83%  418K 0s
+   300K .......... .......... .......... .......... .......... 96%  614K 0s
+   350K ..........                                            100% 9.94M=0.8s
+
+2017-01-28 04:55:33 (426 KB/s) - ‘tyv007’ saved [369649/369649]
+
+--2017-01-28 04:55:34--  http://doi.org/10.1093/cybsec/tyv011
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyv011 [following]
+--2017-01-28 04:55:35--  https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyv011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 394773 (386K) [text/html]
+Saving to: ‘tyv011’
+
+     0K .......... .......... .......... .......... .......... 12%  304K 1s
+    50K .......... .......... .......... .......... .......... 25%  312K 1s
+   100K .......... .......... .......... .......... .......... 38%  610K 1s
+   150K .......... .......... .......... .......... .......... 51%  313K 1s
+   200K .......... .......... .......... .......... .......... 64%  594K 0s
+   250K .......... .......... .......... .......... .......... 77%  607K 0s
+   300K .......... .......... .......... .......... .......... 90%  310K 0s
+   350K .......... .......... .......... .....                100%  439K=1.0s
+
+2017-01-28 04:55:42 (395 KB/s) - ‘tyv011’ saved [394773/394773]
+
+--2017-01-28 04:55:43--  http://doi.org/10.1093/cybsec/tyv010
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyv010 [following]
+--2017-01-28 04:55:44--  https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyv010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76007 (74K) [text/html]
+Saving to: ‘tyv010’
+
+     0K .......... .......... .......... .......... .......... 67%  142K 0s
+    50K .......... .......... ....                            100% 22.7M=0.4s
+
+2017-01-28 04:55:49 (211 KB/s) - ‘tyv010’ saved [76007/76007]
+
+--2017-01-28 04:55:50--  http://doi.org/10.1093/cybsec/tyv003
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyv003 [following]
+--2017-01-28 04:55:51--  https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyv003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 387104 (378K) [text/html]
+Saving to: ‘tyv003’
+
+     0K .......... .......... .......... .......... .......... 13%  209K 2s
+    50K .......... .......... .......... .......... .......... 26%  586K 1s
+   100K .......... .......... .......... .......... .......... 39%  610K 1s
+   150K .......... .......... .......... .......... .......... 52%  614K 0s
+   200K .......... .......... .......... .......... .......... 66%  604K 0s
+   250K .......... .......... .......... .......... .......... 79%  311K 0s
+   300K .......... .......... .......... .......... .......... 92%  615K 0s
+   350K .......... .......... ........                        100%  350K=0.9s
+
+2017-01-28 04:55:55 (423 KB/s) - ‘tyv003’ saved [387104/387104]
+
+--2017-01-28 04:55:56--  http://doi.org/10.1093/cybsec/tyv008
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyv008 [following]
+--2017-01-28 04:55:57--  https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyv008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 431008 (421K) [text/html]
+Saving to: ‘tyv008’
+
+     0K .......... .......... .......... .......... .......... 11%  209K 2s
+    50K .......... .......... .......... .......... .......... 23%  604K 1s
+   100K .......... .......... .......... .......... .......... 35%  602K 1s
+   150K .......... .......... .......... .......... .......... 47%  597K 1s
+   200K .......... .......... .......... .......... .......... 59%  319K 0s
+   250K .......... .......... .......... .......... .......... 71%  574K 0s
+   300K .......... .......... .......... .......... .......... 83%  606K 0s
+   350K .......... .......... .......... .......... .......... 95%  326K 0s
+   400K .......... ..........                                 100% 2.54M=1.0s
+
+2017-01-28 04:56:03 (431 KB/s) - ‘tyv008’ saved [431008/431008]
+
+--2017-01-28 04:56:04--  http://doi.org/10.1093/cybsec/tyv004
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyv004 [following]
+--2017-01-28 04:56:05--  https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyv004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 298312 (291K) [text/html]
+Saving to: ‘tyv004’
+
+     0K .......... .......... .......... .......... .......... 17%  209K 1s
+    50K .......... .......... .......... .......... .......... 34%  607K 1s
+   100K .......... .......... .......... .......... .......... 51%  607K 0s
+   150K .......... .......... .......... .......... .......... 68%  317K 0s
+   200K .......... .......... .......... .......... .......... 85%  598K 0s
+   250K .......... .......... .......... .......... .         100%  512K=0.7s
+
+2017-01-28 04:56:13 (401 KB/s) - ‘tyv004’ saved [298312/298312]
+
+--2017-01-28 04:56:14--  http://doi.org/10.1093/cybsec/tyw001
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyw001 [following]
+--2017-01-28 04:56:16--  https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyw001
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 280289 (274K) [text/html]
+Saving to: ‘tyw001’
+
+     0K .......... .......... .......... .......... .......... 18%  209K 1s
+    50K .......... .......... .......... .......... .......... 36%  604K 1s
+   100K .......... .......... .......... .......... .......... 54%  611K 0s
+   150K .......... .......... .......... .......... .......... 73%  315K 0s
+   200K .......... .......... .......... .......... .......... 91%  432K 0s
+   250K .......... .......... ...                             100%  526K=0.7s
+
+2017-01-28 04:56:19 (378 KB/s) - ‘tyw001’ saved [280289/280289]
+
+--2017-01-28 04:56:20--  http://doi.org/10.1093/cybsec/tyw007
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyw007 [following]
+--2017-01-28 04:56:22--  https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyw007
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 261130 (255K) [text/html]
+Saving to: ‘tyw007’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 39%  609K 0s
+   100K .......... .......... .......... .......... .......... 58%  606K 0s
+   150K .......... .......... .......... .......... .......... 78%  429K 0s
+   200K .......... .......... .......... .......... .......... 98%  404K 0s
+   250K .....                                                 100% 9555G=0.6s
+
+2017-01-28 04:56:27 (396 KB/s) - ‘tyw007’ saved [261130/261130]
+
+--2017-01-28 04:56:28--  http://doi.org/10.1093/cybsec/tyw010
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyw010 [following]
+--2017-01-28 04:56:29--  https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyw010
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 321556 (314K) [text/html]
+Saving to: ‘tyw010’
+
+     0K .......... .......... .......... .......... .......... 15%  209K 1s
+    50K .......... .......... .......... .......... .......... 31%  605K 1s
+   100K .......... .......... .......... .......... .......... 47%  614K 0s
+   150K .......... .......... .......... .......... .......... 63%  423K 0s
+   200K .......... .......... .......... .......... .......... 79%  397K 0s
+   250K .......... .......... .......... .......... .......... 95%  607K 0s
+   300K .......... ....                                       100% 29.1M=0.7s
+
+2017-01-28 04:56:35 (430 KB/s) - ‘tyw010’ saved [321556/321556]
+
+--2017-01-28 04:56:36--  http://doi.org/10.1093/cybsec/tyw002
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyw002 [following]
+--2017-01-28 04:56:38--  https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyw002
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 323338 (316K) [text/html]
+Saving to: ‘tyw002’
+
+     0K .......... .......... .......... .......... .......... 15%  209K 1s
+    50K .......... .......... .......... .......... .......... 31%  605K 1s
+   100K .......... .......... .......... .......... .......... 47%  614K 0s
+   150K .......... .......... .......... .......... .......... 63%  606K 0s
+   200K .......... .......... .......... .......... .......... 79%  309K 0s
+   250K .......... .......... .......... .......... .......... 95%  611K 0s
+   300K .......... .....                                      100% 24.4M=0.7s
+
+2017-01-28 04:56:42 (432 KB/s) - ‘tyw002’ saved [323338/323338]
+
+--2017-01-28 04:56:43--  http://doi.org/10.1093/cybsec/tyw004
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyw004 [following]
+--2017-01-28 04:56:44--  https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyw004
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 235842 (230K) [text/html]
+Saving to: ‘tyw004’
+
+     0K .......... .......... .......... .......... .......... 21%  209K 1s
+    50K .......... .......... .......... .......... .......... 43%  602K 0s
+   100K .......... .......... .......... .......... .......... 65%  607K 0s
+   150K .......... .......... .......... .......... .......... 86%  317K 0s
+   200K .......... .......... ..........                      100% 5.80M=0.6s
+
+2017-01-28 04:56:48 (406 KB/s) - ‘tyw004’ saved [235842/235842]
+
+--2017-01-28 04:56:49--  http://doi.org/10.1093/cybsec/tyw011
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyw011 [following]
+--2017-01-28 04:56:50--  https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyw011
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 365779 (357K) [text/html]
+Saving to: ‘tyw011’
+
+     0K .......... .......... .......... .......... .......... 13%  209K 1s
+    50K .......... .......... .......... .......... .......... 27%  613K 1s
+   100K .......... .......... .......... .......... .......... 41%  604K 1s
+   150K .......... .......... .......... .......... .......... 55%  316K 0s
+   200K .......... .......... .......... .......... .......... 69%  609K 0s
+   250K .......... .......... .......... .......... .......... 83%  603K 0s
+   300K .......... .......... .......... .......... .......... 97%  314K 0s
+   350K .......                                               100% 11.2M=0.9s
+
+2017-01-28 04:56:53 (403 KB/s) - ‘tyw011’ saved [365779/365779]
+
+--2017-01-28 04:56:54--  http://doi.org/10.1093/cybsec/tyw005
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyw005 [following]
+--2017-01-28 04:56:56--  https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyw005
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 260890 (255K) [text/html]
+Saving to: ‘tyw005’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 39%  614K 0s
+   100K .......... .......... .......... .......... .......... 58%  602K 0s
+   150K .......... .......... .......... .......... .......... 78%  316K 0s
+   200K .......... .......... .......... .......... .......... 98%  605K 0s
+   250K ....                                                  100% 20.0M=0.6s
+
+2017-01-28 04:56:59 (395 KB/s) - ‘tyw005’ saved [260890/260890]
+
+--2017-01-28 04:57:00--  http://doi.org/10.1093/cybsec/tyw003
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyw003 [following]
+--2017-01-28 04:57:01--  https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyw003
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 288877 (282K) [text/html]
+Saving to: ‘tyw003’
+
+     0K .......... .......... .......... .......... .......... 17%  243K 1s
+    50K .......... .......... .......... .......... .......... 35%  313K 1s
+   100K .......... .......... .......... .......... .......... 53%  607K 0s
+   150K .......... .......... .......... .......... .......... 70%  601K 0s
+   200K .......... .......... .......... .......... .......... 88%  316K 0s
+   250K .......... .......... .......... ..                   100% 8.13M=0.7s
+
+2017-01-28 04:57:05 (407 KB/s) - ‘tyw003’ saved [288877/288877]
+
+--2017-01-28 04:57:06--  http://doi.org/10.1093/cybsec/tyw013
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyw013 [following]
+--2017-01-28 04:57:08--  https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyw013
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76171 (74K) [text/html]
+Saving to: ‘tyw013’
+
+     0K .......... .......... .......... .......... .......... 67%  309K 0s
+    50K .......... .......... ....                            100%  305K=0.2s
+
+2017-01-28 04:57:11 (308 KB/s) - ‘tyw013’ saved [76171/76171]
+
+--2017-01-28 04:57:12--  http://doi.org/10.1093/cybsec/tyw006
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyw006 [following]
+--2017-01-28 04:57:13--  https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyw006
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 206542 (202K) [text/html]
+Saving to: ‘tyw006’
+
+     0K .......... .......... .......... .......... .......... 24%  209K 1s
+    50K .......... .......... .......... .......... .......... 49%  609K 0s
+   100K .......... .......... .......... .......... .......... 74%  608K 0s
+   150K .......... .......... .......... .......... .......... 99%  606K 0s
+   200K .                                                     100% 51.0K=0.5s
+
+2017-01-28 04:57:17 (388 KB/s) - ‘tyw006’ saved [206542/206542]
+
+--2017-01-28 04:57:18--  http://doi.org/10.1093/cybsec/tyw009
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyw009 [following]
+--2017-01-28 04:57:19--  https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyw009
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 321503 (314K) [text/html]
+Saving to: ‘tyw009’
+
+     0K .......... .......... .......... .......... .......... 15%  209K 1s
+    50K .......... .......... .......... .......... .......... 31%  609K 1s
+   100K .......... .......... .......... .......... .......... 47%  598K 0s
+   150K .......... .......... .......... .......... .......... 63%  583K 0s
+   200K .......... .......... .......... .......... .......... 79%  319K 0s
+   250K .......... .......... .......... .......... .......... 95%  601K 0s
+   300K .......... ...                                        100% 4.02M=0.7s
+
+2017-01-28 04:57:23 (428 KB/s) - ‘tyw009’ saved [321503/321503]
+
+--2017-01-28 04:57:24--  http://doi.org/10.1093/cybsec/tyw008
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyw008 [following]
+--2017-01-28 04:57:25--  https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyw008
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 232562 (227K) [text/html]
+Saving to: ‘tyw008’
+
+     0K .......... .......... .......... .......... .......... 22%  310K 1s
+    50K .......... .......... .......... .......... .......... 44%  312K 0s
+   100K .......... .......... .......... .......... .......... 66%  594K 0s
+   150K .......... .......... .......... .......... .......... 88%  606K 0s
+   200K .......... .......... .......                         100%  341K=0.6s
+
+2017-01-28 04:57:28 (400 KB/s) - ‘tyw008’ saved [232562/232562]
+
+--2017-01-28 04:57:29--  http://doi.org/10.1093/cybsec/tyw012
+Connecting to doi.org (doi.org)|208.254.38.90|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyw012 [following]
+--2017-01-28 04:57:30--  https://academic.oup.com/cybersecurity/article-lookup/doi/10.1093/cybsec/tyw012
+Connecting to academic.oup.com (academic.oup.com)|173.254.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 263157 (257K) [text/html]
+Saving to: ‘tyw012’
+
+     0K .......... .......... .......... .......... .......... 19%  209K 1s
+    50K .......... .......... .......... .......... .......... 38%  585K 1s
+   100K .......... .......... .......... .......... .......... 58%  582K 0s
+   150K .......... .......... .......... .......... .......... 77%  612K 0s
+   200K .......... .......... .......... .......... .......... 97%  315K 0s
+   250K ......                                                100% 16.4M=0.7s
+
+2017-01-28 04:57:36 (394 KB/s) - ‘tyw012’ saved [263157/263157]
+
+FINISHED --2017-01-28 04:57:36--
+Total wall clock time: 2m 55s
+Downloaded: 24 files, 6.5M in 16s (405 KB/s)
